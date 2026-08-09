@@ -43,14 +43,27 @@ Como o Destino varia de −4 a +4, a cura pode variar de 0 a 7. Resultados negat
 
 ## Proteção
 
-Poderes de Proteção seguem princípio semelhante. O Patamar obtido determina sua intensidade, enquanto o próprio Poder define como essa proteção se manifesta.
+Poderes de Proteção utilizam a regra geral de **Proteção**. Eles podem criar uma camada que absorve dano antes das Proteções de Item e da Vida.
 
-Ela pode representar, por exemplo:
+O **Patamar** continua sendo a base do efeito. A descrição de cada Poder determina como esse Patamar é utilizado e pode acrescentar um modificador próprio.
 
-- vida adicional;
-- redução de dano;
-- barreira;
-- outra forma de proteção definida pelo cenário ou Poder.
+Exemplo:
+
+> **Barreira Arcana — Proteção: Patamar +4**
+
+Se o resultado do Poder for Patamar [3], a Barreira cria **Proteção 7**.
+
+Da mesma forma, outros Poderes podem indicar efeitos como **Dano: Patamar +2**, **Cura: Patamar +2** ou outra conversão expressamente definida em sua descrição.
+
+> **O Patamar determina a intensidade-base; a descrição do Poder determina como essa intensidade se manifesta mecanicamente.**
+
+Proteções de Poder podem proteger o Corpo, a Mente ou outras ameaças conforme sua descrição. Elas também podem criar camadas adicionais além das Proteções fornecidas por equipamentos, respeitando os limites de efeitos e custos de Mana definidos para Poderes.
+
+Quando mais de uma camada é aplicável ao mesmo dano, a ordem geral é:
+
+> **Proteções de Poder ou Magia → Proteções de Item → Vida**
+
+Qualquer dano excedente de uma camada continua para a próxima.
 
 ## Invocação
 
@@ -62,4 +75,4 @@ A conversão exata depende das regras específicas da Invocação.
 
 ## Princípio
 
-> **O Poder determina o que é possível. O Atributo determina a intensidade ou o desempenho quando uma resolução é necessária.**
+> **O Poder determina o que é possível. O Atributo determina a intensidade ou o desempenho quando uma resolução é necessária. O Patamar é a base para medir o efeito.**
