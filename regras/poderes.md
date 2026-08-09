@@ -26,7 +26,7 @@ A resistência a um Poder depende de sua natureza.
 Exemplos:
 
 - lança de energia: INT × AGI;
-- gás venenoso: INT × CON;
+- gás venenoso: INT × VIG;
 - ataque mental: INT × VON;
 - manipulação: CAR × VON;
 - ilusão: CAR × SAB.
