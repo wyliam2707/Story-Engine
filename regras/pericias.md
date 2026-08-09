@@ -14,6 +14,18 @@ O grau também determina narrativamente o alcance da competência. Medicina [0] 
 
 Os Dados concedidos por Perícia respeitam o limite geral de **6 Dados de Destino**.
 
+## Princípio Universal de Vantagem e Dificuldade
+
+O W4D separa a **capacidade do personagem** das **circunstâncias que o favorecem ou prejudicam**.
+
+> **Você é melhor naquilo que faz: melhora sua própria parada. Algo está atrapalhando você: você recebe Azar. Você atrapalhou alguém: esse alvo recebe Azar.**
+
+Perícias, Poderes, treinamento e capacidades próprias melhoram a parada de quem realiza ou resiste a uma ação, quando forem aplicáveis.
+
+Circunstâncias externas que dificultam uma ação geram **Azar para quem sofre a dificuldade**. Cobertura pode gerar Azar para quem tenta atingir o alvo; escuridão gera Azar para quem depende da visão; terreno ruim pode gerar Azar para quem tenta atravessá-lo; ferramentas inadequadas podem gerar Azar para quem executa a tarefa; condições ou ações que atrapalhem um adversário geram Azar para esse adversário quando forem relevantes.
+
+Esse princípio vale para combate, exploração, interação, investigação, uso de poderes e demais testes. Azar não torna uma ação impossível em possível nem substitui requisitos narrativos necessários para realizar uma ação.
+
 ## Uso das Perícias
 
 Uma Perícia só beneficia uma ação quando estiver efetivamente sendo utilizada. Não existem combinações fixas entre Atributos e Perícias.
@@ -33,6 +45,8 @@ Se determinada ferramenta ou recurso for indispensável para tornar a ação pos
 ## Disputas
 
 Em testes opostos, cada participante utiliza normalmente seu próprio Atributo, Perícia e Dados de Destino. Perícia não é subtraída diretamente de outra Perícia.
+
+Circunstâncias que atrapalham um dos participantes aplicam Azar à parada desse participante, em vez de aumentar artificialmente a parada do oponente.
 
 ## Cooperação
 
@@ -96,6 +110,8 @@ Cada aumento de uma Perícia de Combate custa **2 pontos**:
 Uma Perícia de Combate em [2] representa, portanto, um investimento total de 4 pontos.
 
 A Perícia de Combate só é aplicada quando seu treinamento estiver efetivamente sendo utilizado. Aparar com uma arma pode utilizar uma Perícia apropriada; simplesmente esquivar utiliza Esquiva.
+
+Defesas comuns, como esquivar ou aparar, fazem parte da resolução da disputa e não são Ações por si mesmas. Uma ação deliberada para criar ou melhorar uma posição defensiva — como buscar cobertura, erguer uma barreira ou preparar proteção — pode consumir uma Ação e gerar efeitos apropriados, normalmente impondo Azar a quem for prejudicado por essa proteção.
 
 ## Perícias de Poder
 
