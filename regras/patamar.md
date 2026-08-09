@@ -27,17 +27,27 @@ A escala básica de Patamar vai de **0 a 8**.
 
 Quando uma ação encontra oposição, compara-se o **Patamar da Ação** com o **Patamar da Resistência**:
 
-**Resultado = Ação − Resistência**
+**Resultado bruto = Ação − Resistência**
 
-O resultado pode variar de **−8 a +8**.
+A Ação e a Resistência são calculadas completamente antes da comparação e podem, durante o cálculo, ultrapassar a escala normal de Patamar. Somente depois de obter a diferença é aplicado o limite do resultado efetivo.
+
+O **Patamar efetivo do resultado** é limitado entre **−8 e +8**:
+
+- resultado bruto acima de **+8** é tratado como **+8 — Lendário**;
+- resultado bruto abaixo de **−8** é tratado como **−8 — Lendário em favor da Resistência**;
+- resultados entre −8 e +8 são utilizados normalmente.
+
+Os valores excedentes não são descartados antes da comparação.
+
+**Exemplo:** Ação 9 contra Resistência 5 produz resultado +4, e não +3. Já Ação 9 contra Resistência −4 produz resultado bruto +13, cujo **Patamar efetivo é +8 — Lendário**.
 
 - Um resultado **positivo** favorece a Ação.
 - Um resultado **negativo** favorece a Resistência.
 - Um resultado **0** representa equilíbrio: nenhuma das partes prevalece e, por si só, nenhuma mudança é imposta.
 
-O sinal indica **qual lado prevalece**. O valor absoluto indica **o Patamar e a intensidade com que esse lado prevalece**.
+O sinal indica **qual lado prevalece**. O valor absoluto do Patamar efetivo indica **a intensidade com que esse lado prevalece**.
 
-| Resultado | Patamar | Interpretação |
+| Resultado efetivo | Patamar | Interpretação |
 |---:|---|---|
 | +8 | Lendário | A Ação prevalece em Patamar Lendário |
 | +7 | Mítico | A Ação prevalece em Patamar Mítico |
@@ -77,6 +87,6 @@ A mesma regra é usada independentemente da origem da oposição.
 
 Contra o **cenário**, a Resistência representa o Patamar da dificuldade ou força que se opõe à ação: uma porta, correnteza, parede, fogo, veneno ou qualquer outro obstáculo.
 
-Contra **outro personagem**, quem inicia é tratado como Ação e quem se opõe como Resistência. Ambos podem produzir seus respectivos Patamares, e a diferença determina qual lado prevalece e com que intensidade.
+Contra **outro personagem**, quem inicia é tratado como Ação e quem se opõe como Resistência. Ambos podem produzir seus respectivos valores, e a diferença determina qual lado prevalece e com que intensidade, respeitando o limite efetivo de −8 a +8.
 
 Assim, o W4D utiliza uma única linguagem de resolução para conflitos entre personagens, obstáculos e demais elementos da ficção.
