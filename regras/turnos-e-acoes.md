@@ -12,42 +12,63 @@ Pequenas interações que não constituem uma ação relevante — como falar br
 
 ## Correr
 
-**Correr é uma ação de turno completo.**
-
-Ao dedicar o turno à corrida, o personagem pode normalmente percorrer até **Médio**, mas não realiza sua Ação normal nesse turno.
-
-Poderes, efeitos ou capacidades especiais podem alterar o deslocamento ou permitir ações adicionais.
+**Correr é uma ação de turno completo.** Ao dedicar o turno à corrida, o personagem pode normalmente percorrer até **Médio**, mas não realiza sua Ação normal nesse turno.
 
 ## Ações Extras
 
-Ações extras **não fazem parte da regra básica**. Um personagem normalmente realiza apenas uma Ação por turno.
-
-Poderes, efeitos e regras específicas podem conceder Ações adicionais ou permitir quebrar essa limitação.
+Ações extras **não fazem parte da regra básica**. Poderes, efeitos e capacidades específicas podem conceder Ações adicionais ou permitir quebrar essa limitação.
 
 ## Defesa
 
-Defender-se normalmente **não é uma Ação**.
+Defender-se normalmente **não é uma Ação**. Esquivar, aparar ou resistir a uma ação hostil fazem parte da própria resolução da disputa.
 
-Esquivar, aparar ou resistir a uma ação hostil fazem parte da própria resolução da disputa. O personagem não precisa gastar sua Ação para realizar essas defesas comuns.
+Realizar algo deliberadamente para melhorar uma posição defensiva pode consumir uma Ação. Buscar cobertura, virar uma mesa, erguer uma barreira ou preparar uma proteção são exemplos.
 
-Entretanto, realizar algo deliberadamente para criar ou melhorar uma posição defensiva pode consumir uma Ação. Buscar cobertura, virar uma mesa, erguer uma barreira, fechar uma passagem ou preparar uma proteção são exemplos de ações que podem alterar as condições da cena.
+## Preparar uma Ação
 
-## Princípio de Vantagem e Dificuldade
+O personagem pode gastar sua Ação para declarar uma **condição clara e observável** e a resposta que realizará quando essa condição acontecer.
 
-O W4D separa capacidade própria de circunstância externa:
+Exemplo: **“Se alguém atravessar a porta, eu atiro.”**
+
+Quando a condição ocorre, a ação preparada é executada imediatamente, mesmo fora da posição normal do personagem na Iniciativa. Preparar uma Ação não concede bônus automático; sua vantagem é permitir agir no momento determinado.
+
+Se a condição não ocorrer até o próximo turno do personagem, a ação preparada é perdida.
+
+## Criar Vantagem
+
+Um personagem pode usar sua Ação para alterar a situação e prejudicar alguém de maneira relevante para uma ação posterior. Não existe uma lista fechada de formas de Criar Vantagem: o jogador descreve o que faz e a mecânica surge da narrativa.
+
+Exemplos incluem distrair, provocar, fintar, jogar areia nos olhos, bloquear a visão, pressionar, prender uma roupa, fazer barulho em outra direção ou criar uma abertura para um aliado.
+
+A ação é resolvida com os Atributos e Perícias coerentes com a situação. Uma provocação para desviar a atenção de um adversário, por exemplo, pode resultar em **CAR contra VON**, caso esses sejam os Atributos adequados à narrativa.
+
+Quando a vantagem consiste em atrapalhar o alvo:
+
+- sucesso de Patamar **[1] ou [2]** pode gerar **Azar [1]**;
+- sucesso de Patamar **[3]+** pode gerar **Azar [2]**.
+
+O Azar afeta apenas aquilo que foi realmente prejudicado pela vantagem criada. Distrair um inimigo para abrir sua guarda contra um ladino não significa que o inimigo sofre Azar em todas as suas ações.
+
+Patamares elevados aumentam a intensidade e a magnitude da consequência, mas não tornam automaticamente a vantagem mais ampla do que a intenção e a narrativa permitem.
+
+## Princípio Universal de Vantagem e Dificuldade
 
 > **Você é melhor naquilo que faz: melhora sua própria parada. Algo está atrapalhando você: você recebe Azar. Você atrapalhou alguém: esse alvo recebe Azar.**
 
-Perícias, Poderes, treinamento e capacidades próprias melhoram a parada de quem age ou se defende quando forem aplicáveis.
+Perícias, Poderes, treinamento e capacidades próprias melhoram a parada de quem age ou se defende quando forem aplicáveis. Circunstâncias externas prejudiciais geram **Azar para quem sofre a dificuldade**.
 
-Circunstâncias externas prejudiciais geram **Azar para quem sofre a dificuldade**. Assim, uma cobertura normalmente prejudica quem tenta atingir o alvo em vez de aumentar artificialmente a defesa; escuridão prejudica quem depende da visão; terreno difícil prejudica quem tenta atravessá-lo; e uma ação bem-sucedida para atrapalhar alguém pode impor Azar ao alvo quando isso for relevante.
+## O Patamar como Base das Ações
 
-Essa lógica deve ser utilizada em combate, exploração, interação, investigação, poderes e demais situações do sistema.
+Todo teste do W4D utiliza a mesma **Tabela Geral de Patamar**. Não são criadas escalas narrativas separadas para cada ação.
+
+O Patamar final determina não apenas se uma ação foi bem-sucedida, mas também a **qualidade, intensidade e magnitude** do resultado. Um sucesso comum produz consequências comuns; resultados elevados podem produzir efeitos extraordinários ou lendários, sempre dentro da natureza da ação e do que é possível na ficção.
+
+Assim, agarrar uma arma com um sucesso baixo pode iniciar uma disputa pelo controle, enquanto um sucesso muito elevado pode arrancá-la completamente do adversário ou produzir uma consequência extraordinária coerente com a cena.
+
+> **O Patamar é a referência universal para todos os testes do sistema.**
 
 ## Ações Básicas
 
-Uma Ação representa algo relevante realizado durante o turno. A lista não é fechada: qualquer ação plausível pode ser tentada conforme a narrativa.
+Uma Ação representa algo relevante realizado durante o turno. A lista não é fechada: atacar, disparar, utilizar um Poder, usar uma Perícia, Criar Vantagem, Preparar uma Ação, manipular um objeto relevante, criar cobertura ou interagir significativamente com o ambiente são apenas exemplos.
 
-Exemplos comuns incluem atacar, disparar, utilizar um poder, usar uma Perícia, ajudar alguém, manipular um objeto relevante, criar cobertura, interagir significativamente com o ambiente ou executar outra tarefa que exija atenção e tempo dentro da cena.
-
-O Narrador determina quando uma intenção exige uma Ação, uma ação de turno completo, uma simples interação narrativa ou não pode ser realizada nas circunstâncias atuais.
+O Narrador determina quando uma intenção exige uma Ação, uma ação de turno completo, uma simples interação narrativa ou é impossível nas circunstâncias atuais.
