@@ -57,14 +57,26 @@ Todo personagem começa com as **12 Perícias Gerais em [0]**. Elas representam 
 
 ## Pontos de Perícia
 
-Na criação do personagem, o cenário concede uma quantidade de Pontos de Perícia entre **5 e 15 + INT**.
+Na criação do personagem, existe um único conjunto de Pontos de Perícia utilizado para **Perícias Gerais, Perícias de Combate e Perícias de Poder**.
+
+A quantidade inicial é:
+
+> **Pontos de Perícia = (Patamar de Cenário × 4) + INT**
+
+| Patamar | Base de Pontos | Pontos com INT |
+|---|---:|---|
+| **I** | 4 | 4 + INT |
+| **II** | 8 | 8 + INT |
+| **III** | 12 | 12 + INT |
+| **IV** | 16 | 16 + INT |
+| **V** | 20 | 20 + INT |
 
 Todas as Perícias Gerais já começam em **[0]**, sem custo. Para aprimorá-las:
 
 - comprar **[1]** custa **1 Ponto de Perícia**;
 - comprar **[2]** custa **3 Pontos de Perícia no total**: **1 ponto** para alcançar [1] e **+2 pontos** para alcançar [2].
 
-Assim, uma Perícia em [1] representa um investimento total de 1 ponto, enquanto uma Perícia em [2] representa um investimento total de 3 pontos.
+Assim, uma Perícia Geral em [1] representa um investimento total de 1 ponto, enquanto uma Perícia Geral em [2] representa um investimento total de 3 pontos.
 
 A evolução de Perícias após a criação será definida posteriormente.
 
@@ -81,6 +93,8 @@ Cada aumento de uma Perícia de Combate custa **2 pontos**:
 - **[0] para [1]: 2 pontos**
 - **[1] para [2]: +2 pontos**
 
+Uma Perícia de Combate em [2] representa, portanto, um investimento total de 4 pontos.
+
 A Perícia de Combate só é aplicada quando seu treinamento estiver efetivamente sendo utilizado. Aparar com uma arma pode utilizar uma Perícia apropriada; simplesmente esquivar utiliza Esquiva.
 
 ## Perícias de Poder
@@ -92,6 +106,8 @@ Exemplos:
 - aprender Magia Arcana pode conceder **Magia Arcana [0]**;
 - aprender um Poder Psíquico pode conceder **Psiquismo [0]**;
 - outras fontes podem criar Perícias próprias conforme o cenário.
+
+As Perícias de Poder usam o mesmo conjunto de Pontos de Perícia do personagem e seguem, por enquanto, o mesmo custo das Perícias de Combate: 2 pontos para [1] e mais 2 pontos para [2].
 
 O Poder determina **o que é possível fazer**. O Atributo determina o **Patamar base** do efeito. A Perícia representa o domínio na utilização e melhora os Dados de Destino, podendo tornar a manifestação do poder mais eficiente.
 
