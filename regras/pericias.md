@@ -59,10 +59,12 @@ Todo personagem começa com as **12 Perícias Gerais em [0]**. Elas representam 
 
 Na criação do personagem, o cenário concede uma quantidade de Pontos de Perícia entre **5 e 15 + INT**.
 
-Para as Perícias Gerais, a progressão definida até o momento é:
+Todas as Perícias Gerais já começam em **[0]**, sem custo. Para aprimorá-las:
 
-- elevar uma Perícia de **[0] para [1]** custa **1 ponto**;
-- elevar uma Perícia de **[1] para [2]** custa **2 pontos adicionais**.
+- comprar **[1]** custa **1 Ponto de Perícia**;
+- comprar **[2]** custa **3 Pontos de Perícia no total**: **1 ponto** para alcançar [1] e **+2 pontos** para alcançar [2].
+
+Assim, uma Perícia em [1] representa um investimento total de 1 ponto, enquanto uma Perícia em [2] representa um investimento total de 3 pontos.
 
 A evolução de Perícias após a criação será definida posteriormente.
 
