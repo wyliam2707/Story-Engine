@@ -13,7 +13,7 @@ O W4D utiliza **8 Atributos fundamentais e independentes**. Todos são medidos d
 | Atributo | Função central |
 |---|---|
 | **FOR — Força** | Potência física, esforço bruto e ataques físicos baseados em força |
-| **CON — Constituição** | Resistência física, venenos, doenças, esforço e base futura para cálculo de Pontos de Vida |
+| **VIG — Vigor** | Resistência física, venenos, doenças, esforço e principal referência de Pontos de Vida |
 | **DES — Destreza** | Precisão, coordenação fina, pontaria e ataques de precisão ou à distância |
 | **AGI — Agilidade** | Movimento, reação, equilíbrio, coordenação corporal e esquiva |
 
@@ -22,9 +22,25 @@ O W4D utiliza **8 Atributos fundamentais e independentes**. Todos são medidos d
 | Atributo | Função central |
 |---|---|
 | **INT — Inteligência** | Potência mental, conhecimento e efeitos ofensivos de poderes |
-| **VON — Vontade** | Determinação, resistência mental e invocação |
+| **VON — Vontade** | Determinação, resistência mental, invocação e principal referência de Mana |
 | **SAB — Sabedoria** | Percepção, intuição, discernimento, cura e proteção |
 | **CAR — Carisma** | Influência, interação social, manipulação, ilusão e alteração de estados |
+
+## Criação por Patamar de Cenário
+
+O cenário define a escala inicial dos personagens por meio de cinco Patamares de referência.
+
+| Patamar | Pontos de Atributo | Limite inicial por Atributo | Referência aproximada |
+|---|---:|---:|---|
+| **I** | 4 | +1 | Terror / sobrevivência |
+| **II** | 8 | +2 | Aventura / personagens excepcionais |
+| **III** | 12 | +3 | Heroico / fantasia heroica |
+| **IV** | 16 | +4 | Super-humano / alta fantasia |
+| **V** | 20 | +5 | Titânico / épico |
+
+Cada ponto gasto aumenta um Atributo em +1. O limite indica o maior valor inicial permitido por Atributo naquele Patamar de cenário.
+
+O gênero não é definido pelo Patamar: ele mede apenas a escala de poder dos personagens. Um cenário de terror pode usar Patamar III, assim como um cenário de super-heróis pode usar Patamar II.
 
 ## Escolha do Atributo
 
@@ -36,7 +52,7 @@ Exemplo: o Poder **Voar** permite que o personagem voe. Voar normalmente não ex
 
 - manobra aérea difícil: **AGI**;
 - carregar grande peso durante o voo: **FOR**;
-- suportar uma longa viagem aérea: **CON**;
+- suportar uma longa viagem aérea: **VIG**;
 - localizar algo durante o voo: **SAB**.
 
 ## Relação com Poderes
