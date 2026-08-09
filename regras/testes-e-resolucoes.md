@@ -41,7 +41,7 @@ Exemplos:
 - golpe físico de força: **FOR × AGI**;
 - disparo ou ataque de precisão: **DES × AGI**;
 - lança de energia: **INT × AGI**;
-- gás venenoso: **INT × CON**;
+- gás venenoso: **INT × VIG**;
 - ataque mental direto: **INT × VON**;
 - manipulação mental: **CAR × VON**;
 - ilusão percebida por discernimento: **CAR × SAB**.
