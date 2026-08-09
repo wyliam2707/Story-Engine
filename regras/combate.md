@@ -45,15 +45,26 @@ Quando um ataque prevalece, o **Patamar efetivo positivo do acerto** forma a bas
 
 A arma acrescenta seu modificador de dano:
 
-**Dano final = Patamar efetivo do acerto + Dano da arma**
+> **Dano final = Patamar efetivo do acerto + Dano da arma**
 
-Exemplo:
+As categorias básicas de arma são:
+
+| Categoria | Modificador de dano | Referência |
+|---|---:|---|
+| **Desarmado** | **+0** | Socos, chutes e ataques corporais comuns; normalmente causam dano concussivo. |
+| **Arma leve** | **+0** | Armas pequenas ou leves. Normalmente alteram a natureza do dano ou oferecem alguma função específica sem aumentar o valor base. |
+| **Arma média** | **+1** | Armas de tamanho e impacto intermediários, como uma espada comum. |
+| **Arma grande** | **+2** | Armas pesadas ou de grande impacto. +2 é o bônus máximo normal de dano concedido apenas pela categoria da arma. |
+
+Uma **soqueira**, por exemplo, continua com Dano +0, mas pode transformar o dano de um soco de concussivo em letal conforme o cenário e a natureza do equipamento.
+
+Exemplo com arma média:
 
 - Patamar do acerto: 2
-- Espada: Dano +2
-- Dano final: 4
+- Espada comum: Dano +1
+- Dano final: 3
 
-Em um acerto Lendário [8] com uma arma de Dano +2:
+Em um acerto Lendário [8] com uma arma grande de Dano +2:
 
 **Dano final = 8 + 2 = 10**
 
