@@ -87,6 +87,14 @@ Exemplos:
 
 Assim como Imunidade e Resistência, Vulnerabilidade afeta somente aquilo que sua descrição determinar.
 
+## Exclusividade
+
+Para a **mesma natureza de efeito**, um personagem não pode ser ao mesmo tempo **Imune, Resistente e Vulnerável**. Essas condições são mutuamente exclusivas.
+
+Um personagem pode ser, por exemplo, **Resistente a Fogo** e **Vulnerável a Frio**, pois tratam de naturezas diferentes. Mas não pode possuir **Resistência a Fogo** e **Vulnerabilidade a Fogo** ao mesmo tempo.
+
+Da mesma forma, **Imunidade a Fogo** torna irrelevante possuir Resistência ou Vulnerabilidade ao mesmo Fogo: se o efeito não funciona, não há Patamar a reduzir ou aumentar.
+
 ## Duração
 
 Um efeito pode possuir uma das seguintes durações:
