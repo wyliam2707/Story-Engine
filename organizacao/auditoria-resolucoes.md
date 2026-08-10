@@ -407,3 +407,27 @@ A construção mais completa dessas bases será tratada posteriormente no desenv
 A decisão foi explicitada em:
 
 - `regras/poderes.md`.
+
+---
+
+## D10 — O que significa o mínimo [1] na recuperação natural?
+
+**Status:** Resolvida.
+
+### Decisão
+
+O **mínimo [1] é um piso de recuperação**, não uma penalidade invertida nem uma fonte de Dano.
+
+Quando um Descanso Curto usa **VIG + Destino** para recuperar Vida ou **VON + Destino** para recuperar Mana, um resultado [0] ou negativo não transforma o descanso em perda de recurso. O personagem recupera pelo menos **1 ponto**.
+
+Assim, um humano comum com **VIG [0]** que obtenha o resultado extremamente raro de Destino **[-4]** durante a recuperação não sofre 4 pontos de Dano. O resultado simplesmente não aumenta a recuperação acima do mínimo, e o personagem recupera **1 ponto de Vida**.
+
+No Descanso Longo de Vida, aplica-se primeiro esse mínimo de 1 e depois a multiplicação por 4. A recuperação longa de Mana continua seguindo sua regra própria de recuperar 100% da Mana.
+
+Essa regra trata exclusivamente da quantidade recuperada durante o descanso. Consequências negativas só existem se houver alguma situação narrativa separada que realmente as produza; a rolagem de recuperação, por si só, não cria Dano.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/vida-e-mana.md`.
