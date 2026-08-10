@@ -195,3 +195,56 @@ A seção foi removida. O capítulo agora termina em `Relação com Patamar`, pr
 A decisão foi explicitada em:
 
 - `regras/dados-de-destino.md`.
+
+---
+
+## D09 — A notação de Cura e das disputas pode ser confundida com multiplicação?
+
+**Status:** Resolvida.
+
+### Decisão
+
+O símbolo **−** passa a ser a notação abreviada das disputas ativas, seguindo sempre a ordem:
+
+> **Ação − Resistência**
+
+Assim, **INT − AGI** significa que INT é o Atributo de quem age e AGI o Atributo de quem resiste.
+
+Essa notação é apenas uma forma curta. Em uma disputa ativa completa, ambos continuam acrescentando seus Dados de Destino quando aplicável:
+
+> **(INT + Destino da Ação) − (AGI + Destino da Resistência) = Patamar do Resultado**
+
+O sinal do resultado determina quem prevalece:
+
+- positivo: Ação prevalece;
+- zero: equilíbrio;
+- negativo: Resistência prevalece.
+
+O valor absoluto determina o Patamar do resultado em favor do lado vencedor.
+
+O símbolo **×** fica reservado exclusivamente para multiplicação matemática verdadeira, como **VIG × 3**.
+
+### Clarificação relacionada de Cura e recuperação
+
+Durante a análise foi reafirmada a distinção entre formas de recuperar Vida:
+
+- **recuperação natural pessoal:** utiliza VIG;
+- **tratamento médico durante descanso:** utiliza SAB + Destino, com Medicina quando aplicável;
+- **Regeneração restrita ao próprio usuário:** utiliza VIG;
+- **Poder de Cura capaz de afetar outros:** utiliza SAB.
+
+Essa distinção preserva a função dos Atributos e evita tratar toda restauração de Vida como a mesma ação.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/testes-e-resolucoes.md`;
+- `regras/combate.md`;
+- `regras/poderes.md`.
+
+A clarificação de Cura e recuperação também já havia sido alinhada em:
+
+- `regras/vida-e-mana.md`;
+- `regras/poderes.md`;
+- `regras/pericias.md`.
