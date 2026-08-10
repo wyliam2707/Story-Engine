@@ -30,31 +30,47 @@ Todas as alterações e a Mana total investida são declaradas durante a Formula
 
 Sobrecargas diferentes podem ser combinadas na mesma formulação, desde que o personagem pague toda a Mana e respeite o limite específico de cada uma.
 
+Como regra geral, **cada estágio de Sobrecarga custa +1 Mana**. Quando uma modificação avança dois estágios, paga-se +2 Mana; três estágios, +3 Mana, e assim por diante, sempre respeitando os estágios permitidos pela regra ou pela descrição do Poder.
+
 O principal limitador é o próprio recurso: quanto mais Mana investida, mais poderoso o efeito, mas mais rápido o personagem esgota sua reserva.
 
 ### Poder
 
-> **Sobrecarga — Poder:** +1 no Patamar final do efeito.
+> **Sobrecarga — Poder:** +1 no Patamar final do efeito por estágio, ao custo de **+1 Mana por estágio**.
 
-Pode ser aplicada no máximo **2 vezes**, totalizando +2.
+Pode ser aplicada no máximo **2 vezes**, totalizando +2 no Patamar final e +2 Mana.
+
+### Alcance
+
+Aumentar o alcance em um estágio custa **+1 Mana por estágio**.
+
+Exemplos de progressão:
+
+- **Toque → Curto:** +1 Mana;
+- **Curto → Médio:** +1 Mana adicional;
+- **Médio → Longo:** +1 Mana adicional.
+
+Um Poder com alcance-base Toque ampliado diretamente até Médio percorre dois estágios e, portanto, acrescenta **+2 Mana** ao custo.
 
 ### Ampliação
 
-Ampliação aumenta a abrangência do efeito em um estágio.
+Ampliação aumenta a abrangência ou a forma do efeito. Cada estágio custa **+1 Mana**.
 
-- **Alvo → Próximos**
-- **Próximos → Área**
-- **Área Curta → Área Média**
-- **Cone Curto → Cone Médio**
-- **Linha Curta → Linha Média**
-- **Aura Curta → Aura Média**
+- **Alvo → Próximos:** +1 Mana;
+- **Próximos → Área:** +1 Mana adicional;
+- **Área Curta → Área Média:** +1 Mana;
+- **Cone Curto → Cone Médio:** +1 Mana;
+- **Linha Curta → Linha Média:** +1 Mana;
+- **Aura Curta → Aura Média:** +1 Mana.
+
+Quando uma formulação percorre mais de um estágio, paga cada estágio separadamente. Exemplo: **Alvo → Próximos → Área** acrescenta **+2 Mana**.
 
 ### Sustentado
 
 A duração-base de Poderes e Magias é **Cena**. Durante a formulação, o personagem pode investir Mana para prolongar um efeito além da Cena:
 
-- **Sustentado [4 horas] — Sobrecarga [1]:** o efeito pode permanecer ativo por até 4 horas.
-- **Sustentado [24 horas] — Sobrecarga [2]:** o efeito pode permanecer ativo por até 24 horas.
+- **Sustentado [4 horas]: +1 Mana** — o efeito pode permanecer ativo por até 4 horas.
+- **Sustentado [24 horas]: +2 Mana** — o efeito pode permanecer ativo por até 24 horas.
 
 Manter um efeito Sustentado não exige Ação, teste ou novo gasto de Mana. Basta que o personagem deseje mantê-lo ativo.
 
