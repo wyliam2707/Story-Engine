@@ -22,17 +22,19 @@ Efeitos iguais não se acumulam.
 
 Se um alvo possui Veneno [3] e recebe Veneno [5], passa para Veneno [5]. Se recebe Veneno [2], permanece com [3].
 
-## Efeitos Opostos
+## Efeitos Opostos e Dissipação
 
-Efeitos narrativamente opostos se anulam por **Patamar × Patamar**.
+Efeitos narrativamente opostos se anulam por **Patamar × Patamar**. A mesma regra é usada quando um efeito de **Dissipar** confronta outro efeito.
 
 Exemplos:
 
 - Medo [4] × Coragem [2] = **Medo [2]**;
 - Coragem [4] × Medo [2] = **Coragem [2]**;
-- Luz [4] × Escuridão [4] = ambos anulados.
+- Luz [4] × Escuridão [4] = ambos anulados;
+- Barreira [4] × Dissipar [3] = **Barreira [1]**;
+- Barreira [4] × Dissipar [4] = Barreira removida.
 
-O excedente do efeito vencedor permanece ativo. A mesma regra vale para dissipação, purificação, bênçãos, maldições e efeitos ambientais quando forem realmente opostos.
+Quando Dissipar supera o efeito, o efeito é removido. Qualquer excedente de Dissipar não produz outro efeito, salvo se a descrição específica disser o contrário.
 
 ## Duração
 
@@ -41,7 +43,7 @@ Um efeito pode possuir uma das seguintes durações:
 - **Instante:** acontece imediatamente e termina após ser resolvido. Cura, dano direto ou teleporte são exemplos possíveis.
 - **Patamar:** permanece por uma quantidade de turnos determinada pelo Patamar do efeito.
 - **Cena:** permanece até o encerramento da Cena, salvo se for removido antes.
-- **Sustentado:** permanece ativo até ser desativado ou encerrado por alguma condição indicada pelo próprio efeito.
+- **Sustentado:** permanece pelo período definido em sua formulação, podendo ser encerrado antes conforme suas condições.
 
 Quando a duração é **Patamar**, o efeito sempre acompanha o **turno do personagem alvo**:
 
@@ -49,7 +51,21 @@ Quando a duração é **Patamar**, o efeito sempre acompanha o **turno do person
 
 Quando o Patamar chega a [0], o efeito termina.
 
-A ficção pode encerrar um efeito antes. Se uma ação realmente elimina sua causa, o efeito termina ou é confrontado conforme a situação.
+## Soluções Narrativas
+
+A narrativa pode encerrar um efeito quando uma ação **elimina claramente sua causa**, sem necessidade de usar Dissipar ou de realizar um teste desnecessário.
+
+Um personagem Incendiado por fogo comum que mergulha completamente em água pode apagar as chamas. Outros efeitos podem possuir soluções igualmente diretas conforme sua natureza.
+
+Entretanto, **a descrição específica prevalece sobre a regra geral**. Um efeito pode impedir métodos que normalmente funcionariam. Nesses casos, o jogador precisa observar a descrição, compreender a natureza do efeito e procurar outro meio válido de enfrentá-lo.
+
+Exemplo:
+
+> **Amaterasu — Incendiar:** Dano [1]; Duração: Patamar; Confusão; **não pode ser apagado**.
+
+A propriedade "não pode ser apagado" impede os métodos normais usados para apagar fogo, como água ou sufocamento das chamas. Ela não impede automaticamente **Dissipar**, pois Dissipar confronta o efeito sobrenatural em vez de simplesmente apagar o fogo, salvo se a descrição de Amaterasu também disser que não pode ser dissipado.
+
+> **A regra geral resolve o normal; a descrição específica cria a exceção.**
 
 ## Dano Contínuo
 
