@@ -4,26 +4,22 @@
 
 No W4D, um Poder funciona principalmente como um **interruptor de possibilidade**.
 
-O Poder determina o que o personagem pode fazer. Ele não fornece necessariamente um Patamar próprio nem precisa estar vinculado a um único Atributo.
+O Poder determina o que o personagem pode fazer. O Atributo determina a intensidade quando uma resolução é necessária. O Patamar mede o efeito.
 
-Exemplo: um humano comum não pode voar. Um personagem com o Poder **Voar** pode. Se o voo ocorrer sem dificuldade relevante, não há necessidade de teste. Se houver risco ou oposição, usa-se o Atributo adequado à situação.
+> **Regra simples, forte base narrativa.**
 
-## Atributos e Funções de Poder
+Talentos, Poderes, Magias, equipamentos e cenários devem reutilizar as regras existentes sempre que possível. A descrição informa como o efeito existe no mundo.
 
-Os Atributos mentais possuem funções-base:
+## Funções-base dos Atributos Mentais
 
-- **INT — Inteligência:** dano e efeitos ofensivos;
-- **SAB — Sabedoria:** cura e proteção;
-- **VON — Vontade:** invocação;
-- **CAR — Carisma:** manipulação, ilusão e alteração de estados.
-
-Essas funções definem o tipo de efeito, não a origem do Poder.
+- **INT:** dano e efeitos ofensivos.
+- **SAB:** cura e proteção.
+- **VON:** invocação.
+- **CAR:** manipulação, ilusão e alteração de estados.
 
 ## Resistência
 
-A resistência a um Poder depende de sua natureza.
-
-Exemplos:
+A Resistência depende da natureza do efeito. Exemplos:
 
 - lança de energia: INT × AGI;
 - gás venenoso: INT × VIG;
@@ -33,46 +29,57 @@ Exemplos:
 
 ## Cura
 
-Quando um Poder de Cura não enfrenta resistência ativa, pode ser resolvido contra **Patamar 0**.
+Quando não enfrenta Resistência ativa:
 
-Exemplo com SAB 3:
+> **Cura = SAB + Destino × Patamar [0]**
 
-**Cura = SAB 3 + Destino − 0**
+O Patamar positivo obtido restaura a mesma quantidade de Vida. Resultado 0 ou negativo restaura 0.
 
-Como o Destino varia de −4 a +4, a cura pode variar de 0 a 7. Resultados negativos não causam dano; apenas não produzem cura.
+A Cura pode receber Sinergia de Perícias compatíveis do próprio personagem quando elas puderem ser realmente aplicadas naquela situação.
 
 ## Proteção
 
-Poderes de Proteção utilizam a regra geral de **Proteção**. Eles podem criar uma camada que absorve dano antes das Proteções de Item e da Vida.
-
-O **Patamar** continua sendo a base do efeito. A descrição de cada Poder determina como esse Patamar é utilizado e pode acrescentar um modificador próprio.
+Poderes podem criar Proteções usando o Patamar como base.
 
 Exemplo:
 
 > **Barreira Arcana — Proteção: Patamar +4**
 
-Se o resultado do Poder for Patamar [3], a Barreira cria **Proteção 7**.
+O personagem pode recriar uma Proteção destruída usando novamente o Poder, pagando Mana e realizando novo teste. Se o mesmo Poder ainda estiver ativo, um novo uso cria uma nova versão que **substitui** a anterior; não soma nem repara automaticamente.
 
-Da mesma forma, outros Poderes podem indicar efeitos como **Dano: Patamar +2**, **Cura: Patamar +2** ou outra conversão expressamente definida em sua descrição.
+Proteções de Poder obedecem ao limite geral de **duas camadas aplicáveis antes da Vida**. O nome da manifestação não cria camadas extras.
 
-> **O Patamar determina a intensidade-base; a descrição do Poder determina como essa intensidade se manifesta mecanicamente.**
+## Duração
 
-Proteções de Poder podem proteger o Corpo, a Mente ou outras ameaças conforme sua descrição. Elas também podem criar camadas adicionais além das Proteções fornecidas por equipamentos, respeitando os limites de efeitos e custos de Mana definidos para Poderes.
+A duração-base dos Poderes é **Cena**, salvo quando a descrição disser o contrário.
 
-Quando mais de uma camada é aplicável ao mesmo dano, a ordem geral é:
+Uma Cena é um período narrativo contínuo, semelhante a uma cena de filme. Não possui duração fixa em minutos. Mudanças claras de situação, objetivo, local ou passagem narrativa podem encerrá-la.
 
-> **Proteções de Poder ou Magia → Proteções de Item → Vida**
+Uma Barreira pode durar até o fim da Cena ou até sua Proteção chegar a 0, o que ocorrer primeiro.
 
-Qualquer dano excedente de uma camada continua para a próxima.
+## Patamar como Base
+
+A descrição do Poder informa como o Patamar é convertido em efeito.
+
+Exemplos:
+
+- **Dano: Patamar**;
+- **Dano: Patamar +2**;
+- **Proteção: Patamar +4**;
+- **Cura: Patamar +2**.
+
+> **O Patamar determina a intensidade-base; a descrição determina como essa intensidade se manifesta.**
+
+## Tipos e Descritores
+
+O mesmo efeito mecânico pode assumir formas narrativas diferentes conforme o cenário: vampírica, angelical, psíquica, tecnológica, arcana etc.
+
+Descritores não são apenas palavras decorativas. Eles determinam possibilidades narrativas. Fogo pode iluminar e incendiar; Fogo Fantasma pode ser frio ao toque e não gerar luz ou calor.
 
 ## Invocação
 
-Poderes de Invocação usam principalmente **VON**.
-
-Dependendo do Poder, um teste contra Patamar 0 pode gerar um Patamar final usado para determinar a potência ou os Atributos da criatura invocada.
-
-A conversão exata depende das regras específicas da Invocação.
+Poderes de Invocação usam principalmente VON. O Patamar pode determinar potência, duração, atributos ou outra medida indicada pelo próprio Poder.
 
 ## Princípio
 
-> **O Poder determina o que é possível. O Atributo determina a intensidade ou o desempenho quando uma resolução é necessária. O Patamar é a base para medir o efeito.**
+> **O Poder determina o que é possível. O Atributo determina a intensidade. O Patamar mede o resultado. A descrição determina como aquilo existe no mundo.**
