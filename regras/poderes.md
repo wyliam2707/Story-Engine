@@ -87,11 +87,17 @@ Proteções de Poder obedecem ao limite geral de **duas camadas aplicáveis ante
 
 ## Duração
 
-A duração-base dos Poderes é **Cena**, salvo quando a descrição disser o contrário.
+Poderes **não possuem uma duração universal padrão**. A duração faz parte da definição de cada Poder e deve acompanhar a natureza do efeito criado.
 
-Uma Cena é um período narrativo contínuo, semelhante a uma cena de filme. Não possui duração fixa em minutos. Mudanças claras de situação, objetivo, local ou passagem narrativa podem encerrá-la.
+Um efeito que acontece e termina imediatamente pode possuir duração **Instante**. Um efeito persistente pode utilizar **Cena**, **Ciclo [4 horas]**, **Dia [24 horas]** ou outra duração prevista pela estrutura de criação de Poderes ou por sua descrição específica.
 
-Uma Barreira pode durar até o fim da Cena ou até sua Proteção chegar a 0, o que ocorrer primeiro.
+Exemplo de estrutura de um Poder de dano direto:
+
+> **Alcance: Médio; Ativação: Ação; Alvo: Alvo; Duração: Instante.**
+
+Quando um Poder cria algo no cenário, o fim da duração sobrenatural não significa obrigatoriamente que todas as consequências desaparecem de forma artificial. A natureza daquilo que foi criado continua importando: um constructo de energia pode se dissipar, um bloco de gelo pode derreter e uma parede de terra pode se desfazer ou permanecer parcialmente conforme sua própria natureza e descrição. Danos e alterações já produzidos no ambiente podem permanecer mesmo depois do fim do Poder.
+
+A estrutura completa de duração, alcance, ativação, alvo e demais bases de construção será desenvolvida no capítulo próprio de criação de Poderes.
 
 ## Patamar como Base
 
