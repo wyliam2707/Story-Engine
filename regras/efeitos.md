@@ -24,15 +24,15 @@ Se um alvo possui Veneno [3] e recebe Veneno [5], passa para Veneno [5]. Se rece
 
 ## Efeitos Opostos e Dissipação
 
-Efeitos narrativamente opostos se anulam por **Patamar × Patamar**. A mesma regra é usada quando um efeito de **Dissipar** confronta outro efeito.
+Efeitos narrativamente opostos se anulam pela comparação **Patamar − Patamar**. A mesma lógica é usada quando um efeito de **Dissipar** confronta outro efeito.
 
 Exemplos:
 
-- Medo [4] × Coragem [2] = **Medo [2]**;
-- Coragem [4] × Medo [2] = **Coragem [2]**;
-- Luz [4] × Escuridão [4] = ambos anulados;
-- Barreira [4] × Dissipar [3] = **Barreira [1]**;
-- Barreira [4] × Dissipar [4] = Barreira removida.
+- Medo [4] − Coragem [2] = **Medo [2]**;
+- Coragem [4] − Medo [2] = **Coragem [2]**;
+- Luz [4] − Escuridão [4] = ambos anulados;
+- Barreira [4] − Dissipar [3] = **Barreira [1]**;
+- Barreira [4] − Dissipar [4] = Barreira removida.
 
 Quando Dissipar supera o efeito, o efeito é removido. Qualquer excedente de Dissipar não produz outro efeito, salvo se a descrição específica disser o contrário.
 
@@ -45,7 +45,7 @@ A capacidade de Refletir deve descrever **como funciona e contra quais ameaças 
 Exemplos:
 
 - **Punho Gentil — Refletir:** usa artes marciais para desviar ataques físicos compatíveis. O Atributo utilizado depende da forma concreta da disputa, conforme a descrição da técnica e a natureza do ataque.
-- **Contrafeitiço — Refletir:** enfrenta magia com magia. Um confronto direto de potência ou controle mágico pode usar **INT × INT**; uma manipulação mental continua sendo enfrentada conforme sua natureza, como **CAR × VON**.
+- **Contrafeitiço — Refletir:** enfrenta magia com magia. Um confronto direto de potência ou controle mágico pode usar **INT − INT**; uma manipulação mental continua sendo enfrentada conforme sua natureza, como **CAR − VON**.
 
 A Reflexão é resolvida em **uma única disputa**. Não existe uma segunda rolagem depois da defesa.
 
@@ -65,7 +65,7 @@ Um efeito redirecionado passa a ameaçar um novo alvo. Se esse novo alvo possuir
 
 Ao usar Interceptar, o personagem passa imediatamente a ser o **novo alvo** do Poder ou efeito. A partir desse momento, a resolução segue normalmente usando as próprias defesas, Resistências, Imunidades, Vulnerabilidades e demais efeitos do personagem que interceptou.
 
-Interceptar não usa **Patamar × Patamar** para decidir se a troca de alvo acontece, salvo se a própria descrição do Poder disser o contrário. O efeito de Interceptar é justamente permitir que o personagem tome o lugar do alvo original.
+Interceptar não usa **Patamar − Patamar** para decidir se a troca de alvo acontece, salvo se a própria descrição do Poder disser o contrário. O efeito de Interceptar é justamente permitir que o personagem tome o lugar do alvo original.
 
 ## Imunidade
 
