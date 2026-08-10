@@ -431,3 +431,33 @@ Essa regra trata exclusivamente da quantidade recuperada durante o descanso. Con
 A decisão foi explicitada em:
 
 - `regras/vida-e-mana.md`.
+
+---
+
+## D11 — Qual é a duração padrão de um Poder?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Poderes **não possuem uma duração universal padrão**. A duração é uma das propriedades que fazem parte da definição de cada Poder, junto de outras bases que serão desenvolvidas no capítulo próprio de criação de Poderes, como Alcance, Ativação e Alvo.
+
+Um Poder de dano direto pode, por exemplo, ser descrito como:
+
+> **Alcance: Médio; Ativação: Ação; Alvo: Alvo; Duração: Instante.**
+
+Outros Poderes podem possuir duração **Cena**, **Ciclo [4 horas]**, **Dia [24 horas]** ou outra duração definida por sua estrutura ou descrição específica.
+
+A duração mecânica também não apaga automaticamente consequências já produzidas no cenário. Quando um Poder cria algo, a natureza do que foi criado continua relevante: um constructo de energia pode se dissipar, gelo pode derreter e uma parede de terra pode se desfazer ou permanecer parcialmente. Danos e alterações já produzidos podem permanecer depois que o Poder termina.
+
+A D11 corrige a formulação anterior de que todos os Poderes teriam **Cena** como duração-base. A estrutura completa das propriedades de criação será desenvolvida posteriormente, sem antecipar agora uma lista final fechada.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/poderes.md`.
+
+As bases ainda pendentes para o futuro capítulo foram preservadas em:
+
+- `organizacao/poderes-bases-pendentes.md`.
