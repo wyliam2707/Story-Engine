@@ -70,7 +70,22 @@ Exemplos:
 
 Se a Resistência reduzir o Patamar final para **[0]**, o efeito é anulado.
 
-Assim como Imunidade, Resistência afeta somente aquilo que sua descrição determinar. **Resistência a Fogo**, **Resistência a Veneno**, **Resistência a Efeitos Mentais** e outras formas podem existir conforme o cenário.
+Assim como Imunidade, Resistência afeta somente aquilo que sua descrição determinar.
+
+## Vulnerabilidade
+
+**Vulnerabilidade dobra o Patamar final** daquilo contra o qual sua descrição se aplica.
+
+O resultado continua respeitando o limite universal de **Patamar [8]**. Qualquer resultado acima de [8] permanece em [8].
+
+Exemplos:
+
+- Patamar [2] → **[4]**;
+- Patamar [3] → **[6]**;
+- Patamar [4] → **[8]**;
+- Patamar [5] → **[8]**.
+
+Assim como Imunidade e Resistência, Vulnerabilidade afeta somente aquilo que sua descrição determinar.
 
 ## Duração
 
