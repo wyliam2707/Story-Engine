@@ -24,6 +24,20 @@ Defender-se normalmente **não é uma Ação**. Esquivar, aparar ou resistir a u
 
 Realizar algo deliberadamente para melhorar uma posição defensiva pode consumir uma Ação. Buscar cobertura, virar uma mesa, erguer uma barreira ou preparar uma proteção são exemplos.
 
+## Reação
+
+Cada personagem possui **1 Reação** disponível.
+
+A Reação é usada apenas quando uma regra, Poder, efeito ou capacidade disser que pode ser ativada como Reação. Usar uma Reação não concede Ação Extra e não substitui a defesa comum quando nenhuma capacidade específica estiver sendo usada.
+
+Depois de utilizada, a Reação fica indisponível até o **início do próximo turno do personagem**, quando volta a ficar disponível.
+
+Reações **não se acumulam**. Um personagem nunca guarda Reações não utilizadas para turnos futuros: em condições normais, possui no máximo **1 Reação** disponível.
+
+Status, Poderes e efeitos podem impedir ou consumir a Reação quando sua descrição disser isso.
+
+Exemplos de capacidades que podem utilizar a Reação incluem Refletir/Redirecionar e Interceptar, conforme suas próprias regras.
+
 ## Preparar uma Ação
 
 O personagem pode gastar sua Ação para declarar uma **condição clara e observável** e a resposta que realizará quando essa condição acontecer.
