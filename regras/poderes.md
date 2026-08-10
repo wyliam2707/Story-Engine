@@ -4,11 +4,13 @@
 
 No W4D, um Poder funciona principalmente como um **interruptor de possibilidade**.
 
-O Poder determina o que o personagem pode fazer. O Atributo determina a intensidade quando uma resolução é necessária. O Patamar mede o efeito.
+O Poder determina o que o personagem pode fazer. O Atributo determina a intensidade quando uma resolução é necessária. O Patamar mede o efeito quando aquela grandeza for expressa em Patamar.
 
 > **Regra simples, forte base narrativa.**
 
 Talentos, Poderes, Magias, equipamentos e cenários devem reutilizar as regras existentes sempre que possível. A descrição informa como o efeito existe no mundo.
+
+Um **Poder não recebe automaticamente um Patamar próprio** apenas por existir. Quando houver uma resolução, o teste produz um Patamar e a descrição do Poder informa como esse Patamar se manifesta ou se converte em outra grandeza.
 
 ## Funções-base dos Atributos Mentais
 
@@ -45,6 +47,8 @@ Exemplo:
 
 > **Barreira Arcana — Proteção: Patamar +4**
 
+Nesse caso, o teste produz um **Patamar**, e a descrição o converte em uma reserva de **Proteção**. Depois de calculada, essa Proteção é um valor próprio e não continua sendo tratada como Patamar.
+
 O personagem pode recriar uma Proteção destruída usando novamente o Poder, pagando Mana e realizando novo teste. Se o mesmo Poder ainda estiver ativo, um novo uso cria uma nova versão que **substitui** a anterior; não soma nem repara automaticamente.
 
 Proteções de Poder obedecem ao limite geral de **duas camadas aplicáveis antes da Vida**. O nome da manifestação não cria camadas extras.
@@ -68,6 +72,8 @@ Exemplos:
 - **Proteção: Patamar +4**;
 - **Cura: Patamar +2**.
 
+Quando a descrição converte o resultado em outra grandeza, essa grandeza passa a seguir sua própria regra. Assim, **Dano**, **Proteção**, **Vida restaurada** ou outro valor derivado não se tornam Patamares apenas porque foram calculados a partir de um.
+
 > **O Patamar determina a intensidade-base; a descrição determina como essa intensidade se manifesta.**
 
 ## Tipos e Descritores
@@ -82,4 +88,4 @@ Poderes de Invocação usam principalmente VON. O Patamar pode determinar potên
 
 ## Princípio
 
-> **O Poder determina o que é possível. O Atributo determina a intensidade. O Patamar mede o resultado. A descrição determina como aquilo existe no mundo.**
+> **O Poder determina o que é possível. O Atributo determina a intensidade. O Patamar mede o resultado quando aplicável. A descrição determina como aquilo existe no mundo.**
