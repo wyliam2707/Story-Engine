@@ -56,14 +56,17 @@ Exemplos incluem distrair, provocar, fintar, jogar areia nos olhos, bloquear a v
 
 A ação é resolvida com os Atributos e Perícias coerentes com a situação. Uma provocação para desviar a atenção de um adversário, por exemplo, pode resultar em **CAR − VON**, caso esses sejam os Atributos adequados à narrativa. A notação segue a ordem **Ação − Resistência**.
 
-Quando a vantagem consiste em atrapalhar **um alvo específico**:
+O **Patamar do Resultado** determina quão bem a vantagem foi criada. Não existe uma conversão universal que transforme automaticamente determinado Patamar em Azar [1], Azar [2] ou impossibilidade.
 
-- sucesso de Patamar **[1] ou [2]** pode gerar **Azar [1]**;
-- sucesso de Patamar **[3]+** pode gerar **Azar [2]**.
+A consequência depende da intenção declarada e do que o resultado significa naquela situação. Em uma distração específica, por exemplo, um sucesso menor pode apenas deixar o alvo momentaneamente prejudicado; um sucesso mais intenso pode justificar Azar; e um resultado extraordinário pode, se a ficção sustentar isso, fazer o alvo deixar de perceber completamente uma aproximação ou oportunidade relevante.
 
-O Azar afeta apenas aquilo que foi realmente prejudicado pela vantagem criada. Distrair um inimigo para abrir sua guarda contra um ladino não significa que o inimigo sofre Azar em todas as suas ações.
+Azar é apenas **uma das formas possíveis** de representar uma vantagem. O resultado também pode alterar posição, informação, acesso, percepção, oportunidade ou qualquer outro elemento coerente com a ação.
+
+Quando a consequência for Azar, ele afeta apenas aquilo que foi realmente prejudicado pela vantagem criada. Distrair um inimigo para abrir sua guarda contra um ladino não significa que o inimigo sofre Azar em todas as suas ações.
 
 Patamares elevados aumentam a intensidade e a magnitude da consequência, mas não tornam automaticamente a vantagem mais ampla do que a intenção e a narrativa permitem.
+
+> **O Patamar mede o quanto a vantagem foi bem-sucedida; a narrativa determina qual vantagem foi criada.**
 
 ## Princípio Universal de Vantagem e Dificuldade
 
