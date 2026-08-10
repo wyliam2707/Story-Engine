@@ -4,6 +4,16 @@
 
 Efeitos descrevem condições que permanecem atuando por algum tempo. O **Patamar** é a régua universal de intensidade e duração quando a descrição do efeito assim determinar.
 
+## Aplicação Imediata
+
+Quando um efeito é aplicado, ele passa a existir **imediatamente**.
+
+Status, alterações de posição, teleporte, condições narrativas e demais consequências instantâneas começam a valer no momento em que o efeito é aplicado.
+
+Exemplo: se um alvo recebe **Confuso**, ele já está Confuso naquele instante. Se um efeito o **Teleporta**, a mudança de posição acontece imediatamente.
+
+Efeitos periódicos seguem seus próprios gatilhos. Quando um efeito causa dano contínuo no início do turno, esse dano não acontece no momento da aplicação, salvo se a própria descrição disser o contrário.
+
 ## Efeitos Iguais
 
 Efeitos iguais não se acumulam.
@@ -30,7 +40,7 @@ A descrição informa a duração. Em efeitos que usam o Patamar como duração,
 
 Quando o Patamar representa duração em combate, o efeito sempre acompanha o **turno do personagem alvo**:
 
-> **Início do turno do alvo: aplica o efeito → Final do turno do alvo: reduz o Patamar em [1].**
+> **Início do turno do alvo: resolve efeitos periódicos → Final do turno do alvo: reduz o Patamar em [1].**
 
 Quando o Patamar chega a [0], o efeito termina.
 
@@ -49,6 +59,8 @@ A quantidade de dano, a duração e quaisquer consequências adicionais são det
 ## Incendiar
 
 > **Incendiar — Dano [1]; Duração igual ao Patamar; Confuso durante a duração.**
+
+Quando Incendiar é aplicado, o alvo fica **Incendiado e Confuso imediatamente**.
 
 No início do turno do alvo, enquanto Incendiar permanecer ativo, ele sofre **Dano [1]** antes de agir. No final do turno do alvo, se Incendiar continuar ativo, seu Patamar é reduzido em **[1]**. Ao chegar a [0], termina.
 
