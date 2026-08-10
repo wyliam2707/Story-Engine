@@ -141,9 +141,17 @@ Exemplos:
 
 Sucesso e falha usam a mesma **Tabela de Patamar**. Não existe uma escala separada para consequências negativas.
 
-Quanto maior o Patamar em favor da Resistência, maior pode ser a consequência narrativa contra quem realizou a ação. O Patamar determina a intensidade; a situação determina o que essa intensidade significa.
+Quanto maior o Patamar em favor da Resistência, maior pode ser a consequência narrativa contra quem realizou a ação. Porém, o resultado negativo **não cria por si só uma punição**. Ele apenas determina a intensidade com que uma consequência plausível pode se manifestar.
 
-Uma falha pequena pode apenas consumir tempo. Uma falha de Patamar elevado pode produzir uma consequência proporcional ao risco da cena, como fazer barulho, chamar atenção, perder uma oportunidade ou alterar as condições da próxima tentativa.
+Toda consequência deve nascer da própria ação, de um risco existente, de uma condição da cena ou de um elemento plausível que o Narrador revele sem contradizer o que já foi estabelecido.
+
+Uma falha pequena pode apenas consumir tempo ou impedir o objetivo. Uma falha mais intensa pode revelar ou acionar consequências coerentes com a situação: fazer barulho, chamar atenção, disparar um alarme plausível, perder equilíbrio em um terreno molhado, derrubar algo carregado ou colocar um objeto frágil em risco.
+
+Essas consequências também podem se encadear quando a ficção sustentar essa sequência. Um personagem pode escorregar, cair e quebrar uma poção que carregava, por exemplo, se a queda realmente colocar aquele objeto em risco.
+
+Se nenhuma consequência adicional for plausível, mesmo um resultado negativo elevado pode significar apenas que a Resistência prevaleceu de forma decisiva.
+
+> **O Patamar determina a intensidade da consequência possível; a ficção determina quais consequências podem existir.**
 
 ---
 
