@@ -143,3 +143,35 @@ A decisão foi explicitada em:
 
 - `regras/testes-e-resolucoes.md`;
 - `regras/turnos-e-acoes.md`.
+
+---
+
+## D04 — Quando uma falha negativa produz uma consequência contra o personagem?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Um resultado negativo elevado significa que a Resistência prevaleceu com maior intensidade, mas **não cria automaticamente uma punição**.
+
+> **O Patamar determina a intensidade da consequência possível; a ficção determina quais consequências podem existir.**
+
+Toda consequência precisa nascer da própria ação, de um risco existente, de uma condição da cena ou de um elemento plausível que o Narrador possa revelar sem contradizer a ficção já estabelecida.
+
+Exemplos válidos incluem:
+
+- uma tentativa de arrombar uma porta acionar um alarme plausível daquele local;
+- um personagem escorregar porque o piso estava molhado ou instável;
+- uma queda colocar objetos frágeis carregados pelo personagem em risco, podendo quebrar uma poção;
+- uma tentativa furtiva fazer barulho e chamar atenção.
+
+Consequências podem se encadear quando a ficção sustentar essa sequência. O Narrador não precisa limitar a falha ao obstáculo imediato, mas também não pode usar o Patamar negativo como justificativa para inventar Dano, Status ou perdas sem relação plausível com a situação.
+
+Se nenhuma consequência adicional fizer sentido, mesmo um resultado negativo muito alto pode significar apenas que a Resistência prevaleceu de maneira decisiva.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/patamar.md`;
+- `regras/testes-e-resolucoes.md`.
