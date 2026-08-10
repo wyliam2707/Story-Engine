@@ -195,17 +195,65 @@ Essa mudança não cria Dano adicional por si só. Ela altera o **tipo e/ou desc
 
 Esse princípio é compatível com a regra atual de Combate, que já permite que um efeito mude o tipo de Dano em vez de dividi-lo.
 
-### Amplificação de Dano — pendente
+## Sobrecargas Gerais
 
-Também foi levantada a necessidade de um Efeito capaz de **ampliar o Dano** causado pelo próprio personagem ou por outros alvos, funcionando como um reforço ou buff ofensivo. A forma exata do bônus, custo e interação ainda precisa ser definida antes de ser fechada.
+As **Sobrecargas** fazem parte da estrutura geral de Poderes e devem ficar separadas da descrição dos Efeitos. O Efeito define o que o Poder faz em sua forma-base; a Sobrecarga permite ampliar temporariamente essa forma mediante gasto de Mana.
+
+> **Cada estágio de Sobrecarga custa +1 Mana.**
+
+As Sobrecargas são escolhidas no momento do uso, antes da resolução do Poder. Um mesmo uso pode receber mais de uma Sobrecarga, pagando o custo de cada estágio aplicado.
+
+A antiga Sobrecarga genérica de **+1 no Patamar final** não faz parte desta nova estrutura. A ampliação deve ser específica: alcance, abrangência, dano, encantamento, duração ou outra propriedade definida.
+
+### Sobrecarga — Alcance
+
+Cada estágio aumenta o Alcance em uma faixa:
+
+- **Toque → Curto:** +1 Mana;
+- **Curto → Médio:** +1 Mana;
+- **Médio → Longo:** +1 Mana.
+
+Avançar mais de um estágio paga cada estágio separadamente.
+
+### Sobrecarga — Alvo / Área
+
+Cada estágio amplia a abrangência do Poder:
+
+- **Alvo → Próximo:** +1 Mana;
+- **Próximo → Área Curta:** +1 Mana;
+- **Área Curta → Área Média:** +1 Mana.
+
+A forma concreta da Área — explosão, cone ou linha — continua sendo indicada pela descrição do Poder.
+
+### Sobrecarga — Dano
+
+Cada estágio de Sobrecarga de Dano acrescenta:
+
+> **Dano +2 por +1 Mana.**
+
+Essa Sobrecarga aumenta o valor final de Dano; não aumenta genericamente o Patamar do Poder.
+
+### Sobrecarga — Encantar
+
+A Sobrecarga **Encantar** acrescenta **Dano +1** ao ataque ou efeito apropriado por estágio, ao custo de +1 Mana por estágio.
+
+O bônus total obtido por Encantar possui limite de **+3 Dano**, independentemente da natureza do Dano afetado.
+
+A descrição pode também alterar o tipo ou descritor do Dano — por exemplo, de Físico (Concussivo) para Mágico — sem que essa alteração, por si só, aumente o valor do Dano.
+
+### Sobrecarga — Duração
+
+Foi definida a intenção de permitir ampliar a Duração em estágios, sempre ao custo de **+1 Mana por estágio**. A sequência exata precisa ser confirmada antes de ser fechada para não confundir **Ativação: Ação** com **Duração: Instante**.
 
 ## Bases ainda em desenvolvimento
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Efeito:** Cura, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação, amplificação de Dano e outras formas de manifestação mecânica.
+- **Efeito:** Cura, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
+- sequência exata da **Sobrecarga de Duração**;
+- possíveis limites ou exceções das demais Sobrecargas, caso sejam necessários.
 
-Essa lista ainda não deve ser considerada fechada até a Base de Efeito ser revisada individualmente.
+Essa lista ainda não deve ser considerada fechada até a Base de Efeito e as Sobrecargas serem revisadas individualmente.
 
 ## Persistência no cenário
 
