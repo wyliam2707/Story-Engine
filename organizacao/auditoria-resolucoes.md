@@ -461,3 +461,27 @@ A decisão foi explicitada em:
 As bases ainda pendentes para o futuro capítulo foram preservadas em:
 
 - `organizacao/poderes-bases-pendentes.md`.
+
+---
+
+## D15 — As faixas de Alcance precisam ser concretizadas em metros?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Não. **Toque, Curto, Médio e Longo são conceitos narrativos de posição e distância**, não unidades de medida.
+
+As categorias não correspondem a metros, quadrados, hexágonos ou faixas numéricas fixas. O núcleo do W4D não estabelece conversão universal e o cenário não precisa transformá-las em tabelas de distância.
+
+A relação espacial é determinada pela própria ficção: posição dos envolvidos, escala da cena, natureza da ação e meio utilizado.
+
+Isso não impede que algo possua capacidade excepcional além de sua faixa normal quando a ficção sustentar essa possibilidade. Nesses casos aplicam-se normalmente as regras de Azar ou impossibilidade, sem converter a cena em uma medição precisa.
+
+A D15 remove também a necessidade de exemplos concretos em quilômetros ou metros. A categoria deve continuar funcionando como linguagem narrativa.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/alcance-e-movimento.md`.
