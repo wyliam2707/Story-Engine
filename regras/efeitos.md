@@ -2,7 +2,7 @@
 
 ## Conceito
 
-Efeitos descrevem condições que permanecem atuando por algum tempo. O **Patamar** é a régua universal de intensidade e duração quando a descrição do efeito assim determinar.
+Efeitos descrevem consequências instantâneas ou condições que permanecem atuando por algum tempo. O **Patamar** é a régua universal de intensidade e também pode determinar duração quando a descrição do efeito assim informar.
 
 ## Aplicação Imediata
 
@@ -36,9 +36,14 @@ O excedente do efeito vencedor permanece ativo. A mesma regra vale para dissipa�
 
 ## Duração
 
-A descrição informa a duração. Em efeitos que usam o Patamar como duração, **Duração = Patamar**.
+Um efeito pode possuir uma das seguintes durações:
 
-Quando o Patamar representa duração em combate, o efeito sempre acompanha o **turno do personagem alvo**:
+- **Instante:** acontece imediatamente e termina após ser resolvido. Cura, dano direto ou teleporte são exemplos possíveis.
+- **Patamar:** permanece por uma quantidade de turnos determinada pelo Patamar do efeito.
+- **Cena:** permanece até o encerramento da Cena, salvo se for removido antes.
+- **Sustentado:** permanece ativo até ser desativado ou encerrado por alguma condição indicada pelo próprio efeito.
+
+Quando a duração é **Patamar**, o efeito sempre acompanha o **turno do personagem alvo**:
 
 > **Início do turno do alvo: resolve efeitos periódicos → Final do turno do alvo: reduz o Patamar em [1].**
 
