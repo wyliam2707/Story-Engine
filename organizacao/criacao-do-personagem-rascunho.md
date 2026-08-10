@@ -74,6 +74,16 @@ Assim, um personagem descrito como alguém fisicamente frágil pode naturalmente
 
 > **A história orienta a distribuição; a regra apenas define os pontos disponíveis e os limites.**
 
+## Etapa 4 — Vida e Mana
+
+Depois de concluir a distribuição dos Atributos, o jogador calcula os valores máximos de **Pontos de Vida (PV)** e **Pontos de Mana (PM)** usando as fórmulas já estabelecidas no capítulo de Vida e Mana.
+
+Vida e Mana são **valores derivados dos Atributos**: não recebem uma compra separada de pontos durante esta etapa da criação.
+
+Como suas fórmulas dependem dos Atributos definidos na etapa anterior, esse cálculo ocorre naturalmente depois da distribuição dos oito Atributos.
+
+Esta etapa não altera as fórmulas existentes; apenas define sua posição no fluxo de criação.
+
 ## Ainda em revisão
 
 As próximas decisões do fluxo de criação serão analisadas uma por vez. A ordem final ainda não está consolidada.
