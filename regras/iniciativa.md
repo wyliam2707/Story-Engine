@@ -1,6 +1,8 @@
 # Iniciativa
 
-A Iniciativa determina a ordem de ação quando dois ou mais envolvidos estão conscientes de que um confronto começou e existe disputa sobre quem consegue agir primeiro.
+A Iniciativa determina a **ordem mecânica de resolução** quando um confronto começa. Essa ordem existe para organizar a mesa e não significa, necessariamente, que as ações ocorram uma depois da outra na ficção.
+
+Ações resolvidas em turnos diferentes podem representar acontecimentos simultâneos ou separados por intervalos narrativos muito pequenos.
 
 ## Teste de Iniciativa
 
@@ -10,7 +12,7 @@ Cada envolvido utiliza o maior valor entre **Agilidade (AGI)** e **Sabedoria (SA
 
 AGI representa a capacidade de reagir e agir rapidamente. SAB representa perceber, antecipar ou reconhecer o perigo a tempo de agir.
 
-Cada envolvido rola sua própria Iniciativa. Os participantes agem do **maior resultado bruto para o menor**.
+Cada envolvido rola sua própria Iniciativa. Os participantes são organizados do **maior resultado bruto para o menor**.
 
 Para determinar a ordem, a Iniciativa usa o valor bruto obtido na soma de Atributo + Destino, **sem aplicar o limite universal de Patamar [8]**. Isso evita que resultados diferentes acima de 8 sejam transformados em empates artificiais.
 
@@ -26,13 +28,17 @@ Se por algum motivo for necessário interpretar narrativamente a magnitude daque
 
 ## Surpresa
 
-A Iniciativa só é rolada quando os lados envolvidos estão conscientes do confronto.
+Quando um confronto começa, **todos os envolvidos podem rolar Iniciativa**, inclusive personagens surpreendidos. A rolagem estabelece a ordem mecânica que será usada durante o confronto.
 
-Quando apenas um lado está consciente do combate, não existe disputa inicial de Iniciativa: o lado consciente **age primeiro**.
+Se um personagem não estava consciente de que o confronto começaria, ele está **surpreendido** e não realiza seu turno na **primeira rodada**. Sua primeira oportunidade normal de agir ocorre quando sua posição de Iniciativa chegar na **segunda rodada**.
 
-Depois que a ação surpresa torna o confronto evidente e os demais envolvidos passam a estar conscientes, a ordem normal de Iniciativa pode ser determinada.
+Os personagens que estavam conscientes e preparados realizam normalmente seus turnos da primeira rodada conforme a ordem de Iniciativa.
 
-Poderes, sentidos especiais ou capacidades equivalentes podem permitir que um personagem perceba uma ameaça que normalmente o surpreenderia. Nesse caso, ele pode disputar a Iniciativa normalmente, conforme a descrição da capacidade.
+Narrativamente, isso não significa que cada integrante da emboscada esperou o anterior terminar. Um grupo de assassinos escondidos pode atacar praticamente ao mesmo tempo; a Iniciativa apenas determina em qual ordem essas ações simultâneas são resolvidas mecanicamente.
+
+Depois da primeira rodada, os envolvidos que permanecerem no confronto seguem normalmente a ordem de Iniciativa já estabelecida.
+
+Poderes, sentidos especiais ou capacidades equivalentes podem impedir que um personagem seja surpreendido quando permitirem perceber a ameaça a tempo, conforme sua própria descrição.
 
 ## Empate
 
@@ -42,4 +48,4 @@ O maior resultado age primeiro. Se houver novo empate, os envolvidos ainda empat
 
 ## Princípio da Iniciativa
 
-> **Perceber ou reagir rapidamente permite agir antes; não perceber que o combate começou significa não disputar a primeira ação.**
+> **A Iniciativa organiza a resolução mecânica do confronto; ela não transforma a ficção em uma fila de ações. Quem é surpreendido entra na mesma ordem, mas só começa a agir a partir da segunda rodada.**
