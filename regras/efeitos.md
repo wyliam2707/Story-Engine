@@ -88,35 +88,43 @@ Quando uma ação possui vários componentes, cada um é resolvido separadamente
 
 ## Resistência
 
-**Resistência reduz pela metade o Patamar final** daquilo contra o qual sua descrição protege.
+**Resistência reduz pela metade o valor final do componente contra o qual sua descrição protege**, sempre arredondando para baixo.
 
-A Resistência não possui valor numérico próprio. Depois que o Patamar final do efeito é determinado, ele é dividido por 2, sempre **arredondando para baixo**.
+Primeiro o componente é calculado completamente. Depois, se a Resistência se aplicar à sua natureza, o valor final daquele componente é dividido por 2.
 
-Exemplos:
+Quando o componente é medido em **Patamar**, a Resistência reduz o Patamar final:
 
 - Patamar [6] → **[3]**;
 - Patamar [5] → **[2]**;
 - Patamar [3] → **[1]**;
 - Patamar [1] → **[0]**.
 
-Se a Resistência reduzir o Patamar final para **[0]**, o efeito é anulado.
+Quando o componente é **Dano**, calcula-se primeiro todo o Dano, incluindo os modificadores aplicáveis, e só depois se aplica a Resistência.
 
-Assim como Imunidade, Resistência afeta somente aquilo que sua descrição determinar.
+Exemplo: um ataque de Fogo produz Patamar de acerto [5] e recebe +2 de Dano da arma, totalizando **Dano 7**. Contra **Resistência a Fogo**, o Dano final é reduzido para **3**.
+
+Se a Resistência reduzir o valor final para **0**, aquele componente é anulado.
+
+Resistência afeta somente aquilo que sua descrição determinar. Se uma ação possuir vários componentes, cada um é verificado separadamente.
 
 ## Vulnerabilidade
 
-**Vulnerabilidade dobra o Patamar final** daquilo contra o qual sua descrição se aplica.
+**Vulnerabilidade dobra o valor final do componente contra o qual sua descrição se aplica.**
 
-O resultado continua respeitando o limite universal de **Patamar [8]**. Qualquer resultado acima de [8] permanece em [8].
+Primeiro o componente é calculado completamente. Depois, se a Vulnerabilidade se aplicar à sua natureza, o valor final daquele componente é multiplicado por 2.
 
-Exemplos:
+Quando o componente é medido em **Patamar**, continua valendo o limite universal de Patamar [8]:
 
 - Patamar [2] → **[4]**;
 - Patamar [3] → **[6]**;
 - Patamar [4] → **[8]**;
 - Patamar [5] → **[8]**.
 
-Assim como Imunidade e Resistência, Vulnerabilidade afeta somente aquilo que sua descrição determinar.
+Quando o componente é um **valor derivado**, como Dano, ele pode ultrapassar [8] conforme as regras próprias desse valor.
+
+Exemplo: um ataque de Fogo produz Patamar de acerto [5] e recebe +2 de Dano da arma, totalizando **Dano 7**. Contra **Vulnerabilidade a Fogo**, o Dano final passa para **14**.
+
+Vulnerabilidade afeta somente aquilo que sua descrição determinar. Se uma ação possuir vários componentes, cada um é verificado separadamente.
 
 ## Exclusividade
 
@@ -124,7 +132,7 @@ Para a **mesma natureza de efeito**, um personagem não pode ser ao mesmo tempo 
 
 Um personagem pode ser, por exemplo, **Resistente a Fogo** e **Vulnerável a Frio**, pois tratam de naturezas diferentes. Mas não pode possuir **Resistência a Fogo** e **Vulnerabilidade a Fogo** ao mesmo tempo.
 
-Da mesma forma, **Imunidade a Fogo** torna irrelevante possuir Resistência ou Vulnerabilidade ao mesmo Fogo: se o efeito não funciona, não há Patamar a reduzir ou aumentar.
+Da mesma forma, **Imunidade a Fogo** torna irrelevante possuir Resistência ou Vulnerabilidade ao mesmo Fogo: se o componente é impedido pela Imunidade, não existe valor a reduzir ou aumentar.
 
 ## Duração
 
