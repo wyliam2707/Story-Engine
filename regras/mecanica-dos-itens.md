@@ -93,19 +93,21 @@ Usado quando a distância de utilização do item é mecanicamente relevante. Qu
 
 Itens defensivos podem possuir uma reserva de **Proteção**, seguindo as regras já estabelecidas em Combate.
 
-Armaduras ocupam a camada de **Item** na estrutura normal:
+Quando um item funciona como equipamento defensivo, sua Proteção ocupa a camada de **Item** na estrutura normal:
 
 > **Barreira → Item → Vida**
 
-A referência básica de armaduras já estabelecida é:
+Os valores tradicionais de armadura são apenas **referências de construção**:
 
-| Armadura | Proteção |
+| Referência | Proteção |
 |---|---:|
-| Leve | 4 |
-| Média | 8 |
-| Pesada | 12 |
+| Armadura leve | 4 |
+| Armadura média | 8 |
+| Armadura pesada | 12 |
 
-Materiais, magia, tecnologia e propriedades especiais podem alterar contra quais ameaças a Proteção funciona, conforme a descrição do item.
+Eles não obrigam todo item defensivo a usar esses valores. A Proteção real depende do que o objeto representa e da escala adotada. Uma mochila usada como defesa improvisada pode oferecer **Proteção 2 ou 4**; um colete balístico pode possuir **Proteção 6**; outro equipamento pode usar qualquer valor coerente com sua função.
+
+Materiais, magia, tecnologia e propriedades especiais podem alterar tanto o valor quanto as ameaças contra as quais a Proteção funciona, conforme a descrição do item.
 
 ### Munição, Cargas ou Usos
 
@@ -200,9 +202,9 @@ Preço, disponibilidade, legalidade e demais informações pertencem à economia
 
 ## 6. Armaduras e Itens de Proteção
 
-Armaduras são **Proteções de Item** e seguem as regras do capítulo de Combate.
+Armaduras são uma forma comum de **Proteção de Item**, mas não são a única.
 
-A referência básica é **Proteção 4** para armadura leve, **Proteção 8** para média e **Proteção 12** para pesada.
+Os valores **4 / 8 / 12** para armaduras leve, média e pesada funcionam como referências de comparação e construção. Eles não são uma tabela obrigatória nem impedem valores intermediários, menores ou maiores quando a natureza do item justificar isso.
 
 A Proteção representa aquilo que o item consegue absorver antes de deixar de oferecer aquela defesa. Quando sua Proteção chega a 0, o item deixa de absorver dano, mas não desaparece automaticamente nem perde todas as suas demais características.
 
@@ -212,7 +214,7 @@ Uma armadura sem Proteção ainda pode continuar sendo uma roupa pesada, um obje
 
 Uma armadura ocupa a camada de **Item**. Uma Barreira criada por Poder pode coexistir com ela porque ocupa outra camada, mas vestir ou invocar uma segunda armadura não cria automaticamente uma nova camada de Proteção.
 
-Itens defensivos especiais podem possuir efeitos adicionais, desde que sua descrição determine claramente como funcionam.
+Itens defensivos especiais ou improvisados podem possuir Proteção diferente conforme sua descrição e a situação. O valor representa a defesa oferecida pelo objeto, não sua classificação nominal como leve, médio ou pesado.
 
 ---
 
