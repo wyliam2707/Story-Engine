@@ -49,6 +49,22 @@ O limite só é aplicado depois de calcular completamente os valores dos dois la
 
 Não existe, por regra-base, uma segunda rolagem de dano.
 
+O **Dano final é um valor derivado**, não um Patamar. Por isso, pode ultrapassar [8] quando modificadores ou efeitos assim determinarem.
+
+### Resistência e Vulnerabilidade no Dano
+
+Quando uma Resistência ou Vulnerabilidade se aplica ao tipo ou descritor do Dano, primeiro se calcula o **Dano completo** e depois se modifica esse valor final.
+
+- **Resistência:** divide o Dano final por 2, sempre arredondando para baixo.
+- **Vulnerabilidade:** dobra o Dano final.
+
+Exemplo: um ataque de Fogo vence por Patamar [5] e recebe +2 de Dano da arma, totalizando **Dano 7**.
+
+- contra **Resistência a Fogo**: Dano 7 → **3**;
+- contra **Vulnerabilidade a Fogo**: Dano 7 → **14**.
+
+A Resistência ou Vulnerabilidade afeta apenas o componente correspondente à sua descrição. Outros Status ou efeitos associados ao mesmo ataque são resolvidos separadamente.
+
 ## Tipos e Descritores de Dano
 
 Os tipos gerais são **Físico, Mágico e Mental**. A descrição pode acrescentar descritores como Fogo, Gelo, Eletricidade, Ácido, Corte e outros.
