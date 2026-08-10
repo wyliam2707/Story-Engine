@@ -26,6 +26,23 @@ A ordem é 12 → 10 → 8.
 
 Se por algum motivo for necessário interpretar narrativamente a magnitude daquela Iniciativa como um Patamar, aplica-se normalmente a escala universal e seu limite de **[-8, +8]**. O valor bruto continua sendo usado exclusivamente para ordenar os participantes.
 
+## Sorte e Azar na Iniciativa
+
+**Sorte e Azar podem modificar a rolagem de Iniciativa quando sua fonte realmente afetar a capacidade do personagem de perceber, antecipar ou reagir ao início do confronto.**
+
+A aplicação depende da descrição e da situação, não de uma lista fixa.
+
+Exemplos possíveis:
+
+- um Poder de premonição que ajude a perceber o perigo pode conceder **Sorte** na Iniciativa quando sua descrição sustentar esse benefício;
+- estar Confuso pode gerar **Azar** na Iniciativa quando a confusão realmente prejudicar a percepção do perigo ou a reação ao que acontece ao redor.
+
+Esses exemplos não criam bônus ou penalidades automáticos para toda situação semelhante. O efeito concreto depende da fonte de Sorte ou Azar, do que ela descreve e de sua relevância naquele confronto.
+
+Perícias também só modificam a Iniciativa quando puderem ser realmente aplicadas à percepção ou reação naquele momento. Uma relação apenas temática com o confronto não concede Sorte por si só.
+
+> **Sorte e Azar modificam a Iniciativa quando modificam de fato a capacidade daquele personagem de perceber ou reagir ao perigo.**
+
 ## Surpresa
 
 Quando um confronto começa, **todos os envolvidos podem rolar Iniciativa**, inclusive personagens surpreendidos. A rolagem estabelece a ordem mecânica que será usada durante o confronto.
@@ -48,4 +65,4 @@ O maior resultado age primeiro. Se houver novo empate, os envolvidos ainda empat
 
 ## Princípio da Iniciativa
 
-> **A Iniciativa organiza a resolução mecânica do confronto; ela não transforma a ficção em uma fila de ações. Quem é surpreendido entra na mesma ordem, mas só começa a agir a partir da segunda rodada.**
+> **A Iniciativa organiza a resolução mecânica do confronto; ela não transforma a ficção em uma fila de ações. Quem é surpreendido entra na mesma ordem, mas só começa a agir a partir da segunda rodada. Sorte e Azar podem modificar a rolagem quando realmente afetarem a capacidade de perceber ou reagir ao perigo.**
