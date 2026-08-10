@@ -36,6 +36,25 @@ Exemplos:
 
 Quando Dissipar supera o efeito, o efeito é removido. Qualquer excedente de Dissipar não produz outro efeito, salvo se a descrição específica disser o contrário.
 
+## Imunidade
+
+**Imunidade impede exatamente aquilo que sua descrição declara impedir.** Não existe um pacote automático de efeitos associado à palavra Imunidade.
+
+A descrição pode ser ampla ou específica conforme a criatura, Poder, item ou cenário.
+
+Exemplos:
+
+- **Imunidade — Fogo:** protege exatamente contra o fogo definido por essa descrição.
+- **Imunidade — Fogo Mágico:** protege contra fogo de natureza mágica conforme a descrição.
+- **Imunidade — Todos os Tipos de Fogo:** abrange todas as formas de fogo que a descrição considerar incluídas.
+- **Imunidade — Contusão:** impede dano de Contusão; não concede automaticamente imunidade a outros efeitos de um ataque.
+- **Imunidade — Incendiar:** impede o efeito Incendiar; não impede automaticamente outro dano ou efeito associado.
+- **Imunidade — Efeitos Prejudiciais:** impede os efeitos classificados dessa forma pela descrição, sem significar automaticamente imunidade a dano.
+
+Quando uma ação possui vários componentes, cada um é resolvido separadamente contra as Imunidades aplicáveis. Um ataque que cause **Dano + Incendiar + Confusão** pode ter apenas parte de seus componentes impedidos.
+
+> **Leia a descrição: ela determina o alcance da Imunidade.**
+
 ## Duração
 
 Um efeito pode possuir uma das seguintes durações:
