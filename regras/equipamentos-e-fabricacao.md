@@ -200,3 +200,71 @@ Itens especiais nunca são considerados totalmente controlados: sempre existe ri
 - Ausência de recurso indispensável: ação impossível.
 
 A narrativa determina o que é necessário. Não existe teste capaz de permitir o uso de uma ferramenta que não existe.
+
+---
+
+# Exemplos de Recursos na Criação de Cenários
+
+Os exemplos abaixo mostram como as mesmas regras de Inventário e Recursos podem produzir experiências completamente diferentes. Eles não criam novas regras e não são listas obrigatórias de equipamentos: apenas demonstram como responder às perguntas de **Economia, Raridade e Tecnologia do Cenário**.
+
+## Exemplo 1 — Fantasia Épica de Magia Rara
+
+Este exemplo usa como inspiração uma fantasia épica semelhante a **O Senhor dos Anéis**: a magia existe e pode transformar a história, mas não funciona como uma indústria ou mercado cotidiano. Objetos verdadeiramente mágicos carregam história, origem e significado.
+
+**Economia:** dinheiro é importante para a vida cotidiana. Hospedagem, comida, animais, carroças, armas comuns, ferramentas, propriedades e serviços possuem preço. Viajantes precisam de recursos para atravessar o mundo, e mercadores, artesãos e comunidades vivem de comércio. Entretanto, possuir muitas Pilas não significa poder comprar qualquer coisa.
+
+**Recursos relevantes:** Pilas, alimento durante viagens longas, animais de carga, abrigo, ferramentas, armas, provisões e acesso a artesãos podem ser importantes. O Narrador acompanha aquilo que realmente influencia a jornada, sem transformar cada refeição em contabilidade quando ela não for relevante.
+
+**Escassez:** objetos cotidianos são encontrados onde seria lógico encontrá-los. Equipamentos de qualidade dependem de bons artesãos e centros comerciais. Certos materiais, conhecimentos e objetos antigos são raros. Itens verdadeiramente mágicos são excepcionalmente raros.
+
+**Nível tecnológico:** predominam agricultura, criação de animais, navegação, metalurgia, construção, armas e ferramentas produzidas por artesãos. Não existe produção industrial moderna. A distância entre regiões afeta fortemente disponibilidade e preço.
+
+**Mercado e disponibilidade:** espadas, arcos, roupas, mantimentos, cavalos e carroças podem ser comprados em lugares apropriados. Uma pequena aldeia não precisa possuir tudo que uma grande cidade possui. Alguns bens dependem de posição social, contatos, tradição ou autorização. Itens mágicos normalmente não ficam expostos numa loja esperando um comprador.
+
+**Localidade:** uma montaria pode ser comum e barata numa região criadora de cavalos e rara em uma comunidade isolada. Uma casa na capital pode custar uma fortuna e exigir autorização política, enquanto terras e construções maiores podem ser baratas em regiões remotas e perigosas.
+
+**Produção:** ferreiros, carpinteiros, curandeiros, construtores e outros profissionais fabricam bens através das Perícias apropriadas, desde que possuam materiais, ferramentas, tempo e local adequado. Produzir algo extraordinário pode exigir conhecimento perdido, materiais raros ou condições que se tornam objetivos de aventura.
+
+**Bens relevantes:** casas, terras, oficinas, cavalos, carroças, barcos, armas, ferramentas e provisões fazem parte da economia. Possuir uma propriedade pode representar segurança, posição social ou simplesmente um lugar para viver e guardar recursos.
+
+**Itens especiais:** objetos mágicos são principalmente **heranças, presentes, relíquias, tesouros ou descobertas**. Seu valor não é necessariamente traduzível em Pilas. Mesmo um personagem extremamente rico pode não encontrar alguém disposto — ou capaz — de vender uma relíquia antiga.
+
+**Impacto narrativo:** dinheiro facilita viagens e resolve necessidades mundanas, mas não compra automaticamente aquilo que é extraordinário. Um personagem pode juntar uma fortuna para equipar uma expedição e ainda precisar atravessar ruínas esquecidas para encontrar o único objeto capaz de cumprir seu objetivo.
+
+> **Neste cenário, Pilas compram o que pertence ao mercado. História, legado e aventura dão acesso ao que está além dele.**
+
+## Exemplo 2 — Megacidade Cyberpunk
+
+Este exemplo apresenta uma sociedade cyberpunk em que corporações, tecnologia e mercado alcançam quase todos os aspectos da vida. Dinheiro não é apenas útil: para muitos personagens, ele é quase tão importante quanto seus recursos de Poder.
+
+**Economia:** Pilas representam créditos ou a moeda corrente da megacidade e possuem enorme importância. Moradia, comida, transporte, informação, segurança, armas, munição, implantes, medicamentos, acesso à rede e manutenção custam dinheiro. Trabalhos perigosos são aceitos porque pagam.
+
+**Recursos relevantes:** Pilas estão entre os principais recursos da campanha. Munição, medicamentos, peças, baterias, combustível, acesso digital, equipamentos e componentes tecnológicos também podem ser acompanhados quando relevantes. Ficar sem dinheiro pode significar ficar sem munição, tratamento, teto ou capacidade de reparar o próprio equipamento.
+
+**Escassez:** tecnologia comum é abundante para quem pode pagar. Tecnologia militar, protótipos corporativos, implantes avançados, softwares restritos e materiais especiais são mais difíceis de conseguir. Aqui, raridade frequentemente significa preço elevado, controle corporativo ou mercado ilegal — não necessariamente ausência absoluta.
+
+**Nível tecnológico:** computadores, redes, drones, veículos, próteses, implantes, armas inteligentes, sistemas de vigilância e medicina avançada fazem parte da sociedade. Tecnologia pode substituir ou ampliar capacidades que em outro cenário seriam alcançadas por magia.
+
+**Mercado e disponibilidade:** dinheiro compra quase tudo, mas nem sempre no mercado legal. Algumas coisas exigem licença, reputação, contatos, atravessadores ou acesso ao submundo. Um personagem com Pilas suficientes pode transformar dinheiro em equipamento, informação, proteção, transporte e poder tecnológico.
+
+**Localidade:** o mesmo produto pode ser barato numa zona corporativa e caríssimo numa região bloqueada. Um apartamento minúsculo no centro pode custar mais que um grande imóvel na periferia. Mercados clandestinos podem cobrar valores absurdos por algo que seria comum em outra parte da cidade.
+
+**Produção:** personagens com Perícias adequadas podem reparar armas, montar drones, programar sistemas, fabricar peças, modificar veículos, produzir medicamentos ou construir equipamentos. Ainda precisam de componentes, ferramentas, instalações e tempo. Fabricar pode economizar Pilas ou permitir acesso a algo que não está disponível normalmente.
+
+**Bens relevantes:** apartamentos, oficinas, computadores, motos, carros, drones, armas, implantes, laboratórios e esconderijos podem representar parte importante dos recursos de um personagem. Um veículo não é apenas transporte: pode ser ferramenta de trabalho, fuga, contrabando ou até a coisa mais valiosa que o personagem possui.
+
+**Itens especiais:** armas experimentais, implantes militares e tecnologia corporativa podem ser comprados quando o personagem possui dinheiro e acesso suficientes, mas também podem ser roubados, fabricados, recebidos como pagamento ou conquistados em missões. Um equipamento desejado pode custar tanto que aceitar vários trabalhos perigosos para comprá-lo se torna uma linha natural da campanha.
+
+**Impacto narrativo:** Pilas significam opções. Um personagem rico pode comprar tratamento, equipamento, informação e segurança. Um personagem sem dinheiro precisa improvisar, trabalhar, negociar, fabricar, roubar ou assumir riscos. Mercenários e criminosos podem medir cada missão pelo pagamento porque sobreviver e continuar operacional depende dele.
+
+> **Neste cenário, dinheiro compra quase tudo — e conseguir Pilas pode ser tão importante para continuar lutando quanto recuperar Mana.**
+
+## O que os exemplos demonstram
+
+Os dois cenários podem usar exatamente as mesmas regras de Inventário e Recursos e ainda produzir experiências completamente diferentes.
+
+Na fantasia épica, dinheiro é importante, mas existem coisas que simplesmente não pertencem ao mercado. No cyberpunk, quase tudo pode possuir um preço, embora acesso, legalidade e controle corporativo ainda possam criar barreiras.
+
+O objetivo da descrição econômica de um cenário é justamente estabelecer essas diferenças antes que elas precisem ser improvisadas durante cada compra.
+
+> **O núcleo ensina como tratar Recursos. Cada cenário decide o que possui valor, o que pode ser comprado, o que precisa ser conquistado e aquilo que dinheiro algum consegue obter.**
