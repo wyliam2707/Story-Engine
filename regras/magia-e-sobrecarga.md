@@ -28,11 +28,21 @@ Todas as alterações e a Mana total investida são declaradas durante a Formula
 
 ## Sobrecargas
 
-Sobrecargas diferentes podem ser combinadas na mesma formulação, desde que o personagem pague toda a Mana e respeite o limite específico de cada uma.
+Sobrecargas diferentes podem ser combinadas na mesma formulação, desde que o personagem pague toda a Mana necessária e respeite os limites específicos de cada Sobrecarga ou Poder.
+
+**Não existe um limite geral de Sobrecargas por uso.** Um personagem pode investir toda a Mana que possui em uma única formulação, desde que cada modificação seja permitida. O risco é estratégico: quanto mais Mana é gasta de uma vez, menos recurso permanece para usos posteriores.
 
 Como regra geral, **cada estágio de Sobrecarga custa +1 Mana**. Quando uma modificação avança dois estágios, paga-se +2 Mana; três estágios, +3 Mana, e assim por diante, sempre respeitando os estágios permitidos pela regra ou pela descrição do Poder.
 
-O principal limitador é o próprio recurso: quanto mais Mana investida, mais poderoso o efeito, mas mais rápido o personagem esgota sua reserva.
+O principal limitador é o próprio recurso: quanto mais Mana investida, mais poderoso ou versátil o efeito, mas mais rápido o personagem esgota sua reserva.
+
+### Sobrecargas Específicas
+
+Alguns Poderes possuem **Sobrecargas próprias**, descritas diretamente neles. Essas Sobrecargas podem acrescentar efeitos que não fazem parte das modificações gerais de alcance, forma, duração ou potência.
+
+Exemplo: **Cura** pode possuir uma Sobrecarga específica chamada **Despertar**, capaz de remover o estado **Inconsciente**, conforme o custo e as condições indicadas na descrição do Poder.
+
+Sobrecargas específicas podem ser combinadas com Sobrecargas gerais quando suas descrições permitirem e quando o personagem tiver Mana suficiente para pagar o custo total.
 
 ### Poder
 
@@ -129,14 +139,6 @@ Poderes e Magias podem possuir as durações **Instante, Patamar, Cena ou Susten
 - **Sustentado:** prolonga um efeito além da Cena pelo período definido na formulação.
 
 A duração-base continua sendo **Cena**, salvo quando a descrição do Poder ou da Magia informar outra duração.
-
-## Exemplo — Cura
-
-Uma Cura pode ser formulada com Sobrecarga de Mana adicional para produzir um efeito extra. Exemplo:
-
-> **Sobrecarga [2]: remove todos os efeitos de Incapacitação.**
-
-A Sobrecarga não garante que a Vida do alvo ficará positiva. Se a Cura não elevar a Vida acima de 0, a condição que causa Incapacitação continua existindo e o gasto pode ter sido ineficiente.
 
 ## Mana [0]
 
