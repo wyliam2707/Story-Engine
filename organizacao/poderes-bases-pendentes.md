@@ -102,11 +102,30 @@ Exemplos:
 
 > **Reflexo sobrenatural — Ativação: Reação**, se a descrição do Poder tiver sido criada para funcionar dessa forma.
 
+## Base — Alcance
+
+O Alcance informa **até onde o Poder pode atuar a partir do usuário**. As faixas continuam sendo conceitos narrativos, sem conversão obrigatória para metros, quadrados ou hexágonos.
+
+Foram definidos, até aqui:
+
+- **Pessoal:** o Poder afeta apenas o próprio personagem que o utiliza. É apropriado para capacidades internas ou autocentradas, como Regeneração, Superforça, aumento de velocidade ou outras alterações que existam somente no usuário.
+- **Toque:** exige contato direto com o alvo ou objeto afetado.
+- **Curto:** atua a uma distância próxima dentro da ficção.
+- **Médio:** atua a uma distância intermediária dentro da ficção.
+- **Longo:** atua a uma distância distante dentro da ficção.
+
+**Pessoal** não é simplesmente uma versão menor de Toque. Ele estabelece uma restrição de alvo: o efeito existe somente no próprio usuário e não pode ser aplicado a outra pessoa apenas porque ela está ao alcance das mãos.
+
+Exemplo:
+
+> **Regeneração — Alcance: Pessoal**
+
+Esse tipo de Poder representa capacidades como uma regeneração sobrenatural semelhante à de personagens ficcionais que curam o próprio corpo, sem transformar essa capacidade automaticamente em Cura de terceiros.
+
 ## Bases ainda em desenvolvimento
 
 Entre os conceitos que já possuem referências no sistema ou foram discutidos anteriormente estão:
 
-- **Alcance:** Toque, Curto, Médio e Longo;
 - **Alvo/Área:** exemplos a desenvolver incluem Alvo, Próximo e Área;
 - **Duração:** Instante, Cena, Ciclo [4 horas], Dia [24 horas] e outras durações que a estrutura venha a exigir.
 
