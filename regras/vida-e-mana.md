@@ -14,7 +14,7 @@ Vida e Mana são recursos derivados dos Atributos. Ambos possuem limites máximo
 
 Enquanto a Vida estiver positiva, o personagem permanece ativo normalmente.
 
-Ao chegar a **Vida [0] ou negativa**, o personagem fica **Incapacitado pelo restante da Cena**. Dano posterior continua reduzindo a Vida normalmente.
+Ao chegar a **Vida [0] ou negativa**, o personagem recebe o Status **Incapacitado pelo restante da Cena**. Dano posterior continua reduzindo a Vida normalmente.
 
 > **Vida [0] a [-7]: Incapacitado.**
 
@@ -22,7 +22,11 @@ Ao chegar a **Vida [0] ou negativa**, o personagem fica **Incapacitado pelo rest
 
 A escala não continua abaixo de [-8]. Esse é o extremo de morte.
 
-Recuperar Vida acima de 0 não remove por si só a Incapacitação adquirida naquela Cena. Um Poder ou efeito específico pode removê-la. Exemplo: uma Cura pode possuir **Sobrecarga de Mana [2]** para remover todos os efeitos de Incapacitação; se a Vida continuar em 0 ou negativa após a Cura, o personagem permanece Incapacitado porque a condição que o incapacita ainda existe.
+Recuperar Vida acima de 0 não remove por si só o Status Incapacitado adquirido naquela Cena. Um Poder ou efeito específico pode removê-lo.
+
+Se um efeito remover Incapacitado enquanto a Vida continuar em **[0] ou negativa**, a própria condição de Vida continua impondo o Status. Portanto, o personagem permanece Incapacitado enquanto essa causa existir, salvo quando a descrição específica disser explicitamente que ele pode agir mesmo nessa condição.
+
+Exemplo: uma Cura pode possuir uma Sobrecarga específica capaz de remover Incapacitado. Se a Cura também elevar a Vida acima de 0, o personagem volta a agir. Se a Vida permanecer em 0 ou negativa, a condição de Vida continua impondo Incapacitado.
 
 ## Cura
 
