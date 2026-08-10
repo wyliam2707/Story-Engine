@@ -143,9 +143,13 @@ Um efeito pode possuir uma das seguintes durações:
 - **Cena:** permanece até o encerramento da Cena, salvo se for removido antes.
 - **Sustentado:** permanece pelo período definido em sua formulação, podendo ser encerrado antes conforme suas condições.
 
-Quando a duração é **Patamar**, o efeito sempre acompanha o **turno do personagem alvo**:
+Quando a duração é **Patamar**, o efeito acompanha o **turno do personagem alvo**:
 
-> **Início do turno do alvo: resolve efeitos periódicos → Final do turno do alvo: reduz o Patamar em [1].**
+> **Início do turno do alvo: resolve efeitos periódicos → Final do turno do alvo: reduz o Patamar em [1], desde que o efeito já estivesse ativo no início daquele turno.**
+
+Se um efeito de duração por Patamar for aplicado **durante o próprio turno do alvo**, ele passa a existir imediatamente e suas consequências instantâneas já valem, mas não sofre redução no final desse mesmo turno. Seu primeiro ciclo completo ocorre no próximo turno do alvo.
+
+Exemplo: se Incendiar [4] é aplicado a Marcos durante o turno dele, Marcos fica Incendiado e Confuso imediatamente. Como o início do turno já passou, o dano periódico não acontece naquele momento e Incendiar permanece em [4] no final desse turno. No início do próximo turno de Marcos, o dano periódico é resolvido; no final, Incendiar reduz para [3].
 
 Quando o Patamar chega a [0], o efeito termina.
 
@@ -171,7 +175,9 @@ Quando um efeito causa dano contínuo, esse dano é aplicado **no início do tur
 
 Depois de sofrer o dano, o personagem pode agir normalmente, inclusive tentando remover, reduzir ou encerrar o efeito quando possuir uma forma válida de fazê-lo.
 
-No **final do turno do alvo**, se o efeito continuar ativo e utilizar Patamar como duração, seu Patamar é reduzido em **[1]**.
+No **final do turno do alvo**, se o efeito continuar ativo, utilizar Patamar como duração e **já estivesse ativo no início daquele turno**, seu Patamar é reduzido em **[1]**.
+
+Um efeito aplicado durante o próprio turno do alvo aguarda o próximo início de turno para resolver seu primeiro efeito periódico e somente então poderá reduzir seu Patamar no final daquele turno.
 
 A quantidade de dano, a duração e quaisquer consequências adicionais são determinadas pela descrição do efeito.
 
@@ -181,7 +187,7 @@ A quantidade de dano, a duração e quaisquer consequências adicionais são det
 
 Quando Incendiar é aplicado, o alvo fica **Incendiado e Confuso imediatamente**.
 
-No início do turno do alvo, enquanto Incendiar permanecer ativo, ele sofre **Dano [1]** antes de agir. No final do turno do alvo, se Incendiar continuar ativo, seu Patamar é reduzido em **[1]**. Ao chegar a [0], termina.
+No início do turno do alvo, enquanto Incendiar permanecer ativo, ele sofre **Dano [1]** antes de agir. No final do turno do alvo, se Incendiar já estava ativo no início daquele turno e continuar ativo, seu Patamar é reduzido em **[1]**. Ao chegar a [0], termina.
 
 Incendiar representa o alvo em chamas. Além da mecânica descrita, o fogo produz consequências narrativas coerentes com sua natureza: pode iluminar, aquecer, incendiar objetos e interagir com o ambiente.
 
