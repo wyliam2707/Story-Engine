@@ -28,9 +28,9 @@ O excedente do efeito vencedor permanece ativo. A mesma regra vale para dissipa�
 
 A descrição informa a duração. Em efeitos que usam o Patamar como duração, **Duração = Patamar**.
 
-Quando o Patamar representa duração em combate, o efeito segue um ciclo simples:
+Quando o Patamar representa duração em combate, o efeito sempre acompanha o **turno do personagem alvo**:
 
-> **Início do turno: aplica seu efeito → Final do turno: reduz seu Patamar em [1].**
+> **Início do turno do alvo: aplica o efeito → Final do turno do alvo: reduz o Patamar em [1].**
 
 Quando o Patamar chega a [0], o efeito termina.
 
@@ -38,11 +38,11 @@ A ficção pode encerrar um efeito antes. Se uma ação realmente elimina sua ca
 
 ## Dano Contínuo
 
-Quando um efeito causa dano contínuo, esse dano é aplicado **no início de cada turno do personagem afetado**, antes de suas Ações e Movimento daquele turno.
+Quando um efeito causa dano contínuo, esse dano é aplicado **no início do turno do personagem afetado**, antes de suas Ações e Movimento daquele turno.
 
 Depois de sofrer o dano, o personagem pode agir normalmente, inclusive tentando remover, reduzir ou encerrar o efeito quando possuir uma forma válida de fazê-lo.
 
-No **final do turno**, se o efeito continuar ativo e utilizar Patamar como duração, seu Patamar é reduzido em **[1]**.
+No **final do turno do alvo**, se o efeito continuar ativo e utilizar Patamar como duração, seu Patamar é reduzido em **[1]**.
 
 A quantidade de dano, a duração e quaisquer consequências adicionais são determinadas pela descrição do efeito.
 
@@ -50,7 +50,7 @@ A quantidade de dano, a duração e quaisquer consequências adicionais são det
 
 > **Incendiar — Dano [1]; Duração igual ao Patamar; Confuso durante a duração.**
 
-No início de cada turno do alvo, enquanto Incendiar permanecer ativo, ele sofre **Dano [1]** antes de agir. No final do turno, se Incendiar continuar ativo, seu Patamar é reduzido em **[1]**. Ao chegar a [0], termina.
+No início do turno do alvo, enquanto Incendiar permanecer ativo, ele sofre **Dano [1]** antes de agir. No final do turno do alvo, se Incendiar continuar ativo, seu Patamar é reduzido em **[1]**. Ao chegar a [0], termina.
 
 Incendiar representa o alvo em chamas. Além da mecânica descrita, o fogo produz consequências narrativas coerentes com sua natureza: pode iluminar, aquecer, incendiar objetos e interagir com o ambiente.
 
