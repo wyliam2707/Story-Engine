@@ -383,3 +383,27 @@ A D07 não define se, quando ou por quais meios os Atributos podem ser aumentado
 A decisão foi explicitada em:
 
 - `regras/pericias.md`.
+
+---
+
+## D08 — Quantos Poderes existem na criação e como são adquiridos?
+
+**Status:** Resolvida.
+
+### Decisão
+
+O W4D **não possui uma quantidade universal de Poderes iniciais**.
+
+A quantidade de Poderes disponível na criação, quais fontes ou tradições existem e as formas pelas quais novos Poderes podem ser adquiridos são **definições do cenário**.
+
+A regra-base de Poderes deve oferecer a estrutura necessária para que o cenário tome essas decisões, da mesma forma que a Mecânica dos Itens estabelece como os itens funcionam sem obrigar todos os cenários a possuir os mesmos itens, recursos ou formas de acesso.
+
+Assim, o núcleo determina **como um Poder funciona**; o cenário determina **quais Poderes existem, quem pode acessá-los e em que quantidade**.
+
+A construção mais completa dessas bases será tratada posteriormente no desenvolvimento do capítulo de Poderes. A D08 não antecipa números, listas ou métodos de aquisição que ainda não foram definidos.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/poderes.md`.
