@@ -241,10 +241,40 @@ A decisão foi explicitada em:
 
 - `regras/testes-e-resolucoes.md`;
 - `regras/combate.md`;
-- `regras/poderes.md`.
+- `regras/poderes.md`;
+- `regras/turnos-e-acoes.md`.
 
 A clarificação de Cura e recuperação também já havia sido alinhada em:
 
 - `regras/vida-e-mana.md`;
 - `regras/poderes.md`;
 - `regras/pericias.md`.
+
+---
+
+## D12 — Status e Patamar: quando vira Azar ou impossibilidade?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Não existe uma tabela universal que converta automaticamente Patamar em **Azar [1]**, **Azar [2]** ou impossibilidade.
+
+O **Patamar do Resultado** determina a intensidade, qualidade e magnitude com que a ação ou efeito prevaleceu. A consequência concreta continua sendo determinada pela intenção da ação e pela narrativa.
+
+Uma ação de **Criar Vantagem**, por exemplo, não possui uma escala fixa de Patamar para Azar. Se um personagem tenta distrair um adversário, um resultado menor pode produzir uma vantagem pequena; um resultado maior pode justificar Azar; e um resultado extraordinário pode, quando a ficção sustentar isso, impedir completamente que o alvo perceba determinada aproximação ou oportunidade. Esses são exemplos de manifestação daquela ação, não uma tabela geral.
+
+A mesma lógica vale para Status. Um Status pode:
+
+- gerar Azar em uma ação que continua possível;
+- tornar uma ação específica impossível;
+- não interferir em outra ação que não dependa da capacidade afetada.
+
+O Patamar mede **o quanto** a condição ou vantagem foi bem-sucedida. A ficção determina **o que** essa intensidade significa naquele caso.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/status.md`;
+- `regras/turnos-e-acoes.md`.
