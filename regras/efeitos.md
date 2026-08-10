@@ -36,18 +36,26 @@ Exemplos:
 
 Quando Dissipar supera o efeito, o efeito é removido. Qualquer excedente de Dissipar não produz outro efeito, salvo se a descrição específica disser o contrário.
 
-## Reflexão
+## Refletir / Redirecionar
 
-**Refletir é uma Reação.** Quando o personagem é alvo de um efeito compatível com sua Reflexão, pode reagir substituindo a defesa original pelo Atributo indicado pela Reflexão.
+**Refletir e Redirecionar são tratados como uma única Reação**, pois usam a mesma lógica de resolução. A diferença está apenas no destino escolhido para o efeito quando a Reação prevalece.
+
+Quando o personagem é alvo de um efeito compatível, pode reagir substituindo a defesa original pelo Atributo indicado pela Reação.
 
 As formas gerais são:
 
 - **Refletir [Efeitos Físicos] — VIG:** substitui a defesa original por **Vigor** contra um efeito físico compatível.
 - **Refletir [Efeitos Mentais] — VON:** substitui a defesa original por **Vontade** contra um efeito mental compatível.
 
-Depois da resolução da Reação, utiliza-se **Patamar × Patamar** para determinar quem sofre o efeito. O lado que prevalecer aplica o Patamar restante ao lado derrotado. Em empate, o efeito é anulado e ninguém o sofre.
+Depois da resolução da Reação, utiliza-se **Patamar × Patamar** para determinar quem sofre o efeito.
 
-Refletir somente pode ser usado contra aquilo que sua descrição permitir. Descrições específicas podem criar outras formas de Reflexão e indicar outros Atributos quando necessário.
+Se a Reação prevalecer, o personagem pode, conforme a descrição do Poder, **devolver o efeito à origem** ou **redirecioná-lo para outro alvo válido**. Não existe uma segunda mecânica de Redirecionar: é a mesma Reação, apenas com outro destino.
+
+Se o efeito prevalecer, o personagem que tentou Refletir/Redirecionar sofre o Patamar restante. Em empate, o efeito é anulado e ninguém o sofre.
+
+Um efeito redirecionado passa a ameaçar um novo alvo. Se esse novo alvo possuir uma Reação compatível, poderá reagir normalmente, pois agora ele é o alvo do efeito.
+
+Refletir/Redirecionar somente pode ser usado contra aquilo que sua descrição permitir. Descrições específicas podem criar outras formas e indicar outros Atributos quando necessário.
 
 ## Imunidade
 
