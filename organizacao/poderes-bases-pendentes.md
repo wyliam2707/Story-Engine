@@ -199,17 +199,21 @@ Esse princípio é compatível com a regra atual de Combate, que já permite que
 
 Foram separados três conceitos de Efeito relacionados à recuperação de Vida. A diferença principal entre eles é **de onde vem a recuperação e quem pode recebê-la**:
 
-- **Curar:** restaura a Vida de outro alvo por uma capacidade externa de cura, tratamento, energia, magia, poder divino ou manifestação equivalente. Não exige causar Dano para produzir a recuperação. Quando o alvo **deseja ser curado**, sua Resistência é considerada **Patamar [0]**. O teste produz um Patamar e apenas o resultado positivo restaura Vida em quantidade igual ao próprio Patamar positivo. Resultado 0 ou negativo não restaura Vida. Curar não causa Dano.
-- **Regenerar-se:** restaura a própria Vida do usuário por uma capacidade interna ou autocentrada. Como conceito, é um efeito de Alcance **Pessoal** e não se transforma automaticamente em Cura de terceiros.
+- **Curar:** restaura a Vida de outro alvo por uma capacidade externa de cura, tratamento, energia, magia, poder divino ou manifestação equivalente. Quando o alvo **deseja ser curado**, sua Resistência é considerada **Patamar [0]**. O teste usa **SAB** e apenas o resultado positivo restaura Vida em quantidade igual ao Patamar positivo. Resultado 0 ou negativo não restaura Vida. Curar, em sua aplicação normal, não causa Dano.
+- **Regenerar-se:** restaura somente a própria Vida do usuário por uma capacidade interna ou autocentrada. Usa **VIG**, possui **Alcance: Pessoal** e pode ser construído com **Ativação: Reação**, exigindo gasto de Mana para essa ativação conforme a definição do Poder. O Patamar positivo obtido restaura a mesma quantidade de Vida do próprio usuário. Regenerar-se não pode ser aplicado a terceiros.
 - **Vampirismo / Roubar Vida:** causa Dano a um ser vivo e restaura Vida do usuário em quantidade igual à **metade do Dano efetivamente causado**, sempre arredondando para baixo. A recuperação depende do Dano realmente sofrido pelo alvo depois de Proteções, Resistências e demais reduções aplicáveis; Dano impedido ou absorvido não gera Vida roubada.
+
+Quando **Curar** é aplicado a um alvo que não aceita o efeito ou cuja própria natureza faz com que a energia curativa seja hostil, o alvo pode oferecer **Resistência ativa** e a resolução passa a ser uma disputa normal de **Ação − Resistência**. Se a descrição do alvo ou do cenário estabelecer que Cura o fere — como pode ocorrer com certos mortos-vivos — um Patamar positivo da disputa é convertido em **Dano igual ao Patamar**, em vez de restaurar Vida.
 
 **Vampirismo / Roubar Vida** pode drenar qualquer alvo que esteja realmente vivo e do qual faça sentido extrair energia vital conforme a descrição do Poder. Isso inclui animais, pessoas, criaturas, árvores e outras plantas vivas. Objetos inanimados, máquinas sem vida e matéria morta não fornecem Vida por essa base, salvo se a descrição específica do cenário estabelecer que possuem alguma forma de vida drenável.
 
-Exemplo de Curar: se o usuário obtém Patamar [3] contra Resistência [0] de um alvo disposto, o alvo recupera **3 de Vida**. Curar não transforma esse resultado em Dano nem exige ferir o alvo para produzir a recuperação.
+Exemplo de Curar: se o usuário obtém Patamar [3] contra Resistência [0] de um alvo disposto, o alvo recupera **3 de Vida**.
+
+Exemplo de Cura hostil: se um morto-vivo vulnerável à Cura resiste e o usuário vence a disputa por Patamar [3], ele sofre **Dano 3** em vez de recuperar Vida.
 
 Exemplo de Vampirismo: se um efeito produz Dano 7, mas o alvo sofre efetivamente apenas Dano 4 após suas defesas, o usuário recupera **2 de Vida**.
 
-O valor-base e o Atributo de **Regenerar-se** ainda precisam ser definidos individualmente.
+O custo exato de Mana de uma forma específica de **Regenerar-se por Reação** ainda pode ser definido pela construção do Poder; o princípio já fechado é que essa forma usa VIG, só afeta o próprio usuário e exige Mana.
 
 ## Sobrecargas Gerais
 
@@ -281,8 +285,8 @@ A Sobrecarga de Duração altera apenas **quanto tempo o efeito permanece ativo*
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Efeito:** Regenerar-se, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
-- valor e funcionamento exatos de **Regenerar-se**;
+- **Efeito:** Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
+- custo exato quando uma versão específica de **Regenerar-se por Reação** exigir valor próprio além das Sobrecargas gerais;
 - possíveis limites ou exceções das demais Sobrecargas, caso sejam necessários.
 
 Essa lista ainda não deve ser considerada fechada até a Base de Efeito e as Sobrecargas serem revisadas individualmente.
