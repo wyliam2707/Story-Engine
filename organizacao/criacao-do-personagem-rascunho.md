@@ -62,6 +62,18 @@ Exemplo: escrever que alguém é um **ex-soldado** não concede Sorte em combate
 
 Da mesma forma, vínculos definidos nessa etapa passam a existir como elementos da ficção e podem ser utilizados pelo Narrador e pelo jogador na história, sem precisarem se transformar automaticamente em modificadores numéricos.
 
+## Etapa 3 — Atributos
+
+Depois de definir o conceito inicial, o jogador distribui os pontos de Atributo concedidos pelo **Patamar de Cenário** entre os oito Atributos do W4D, respeitando o limite inicial por Atributo daquele cenário.
+
+A distribuição é **livre dentro das regras mecânicas**. Não existe uma exigência automática que obrigue determinados valores por profissão, origem, aparência, idade ou história.
+
+Mesmo assim, espera-se que a distribuição faça sentido com o personagem concebido. Essa coerência pertence ao **bom senso entre jogador, Narrador e ficção**, não a uma regra de punição, bônus ou pré-requisito.
+
+Assim, um personagem descrito como alguém fisicamente frágil pode naturalmente ter VIG ou FOR baixos, enquanto um atleta pode escolher valores físicos mais altos, mas o sistema não transforma essas descrições em tabelas obrigatórias.
+
+> **A história orienta a distribuição; a regra apenas define os pontos disponíveis e os limites.**
+
 ## Ainda em revisão
 
 As próximas decisões do fluxo de criação serão analisadas uma por vez. A ordem final ainda não está consolidada.
