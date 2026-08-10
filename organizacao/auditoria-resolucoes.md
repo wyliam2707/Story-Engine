@@ -41,3 +41,38 @@ A decisão foi explicitada em:
 - `regras/poderes.md`.
 
 A alteração foi de **clareza terminológica**, preservando as mecânicas já existentes.
+
+---
+
+## D02 — Qual é toda a função do Patamar de Cenário?
+
+**Status:** Resolvida.
+
+### Decisão
+
+O **Patamar de Cenário [I–V]** possui duas funções oficiais e complementares:
+
+1. **Função mecânica de criação:** determina os pontos iniciais de Atributo e o maior valor inicial permitido por Atributo para os protagonistas.
+2. **Função de referência de escala:** estabelece qual é a escala normal esperada para os protagonistas e serve como régua para comparar ameaças, obstáculos, equipamentos, fenômenos e demais elementos do cenário.
+
+Essa referência **não é um teto do mundo**. Criaturas, chefes, fenômenos e outros elementos podem possuir valores acima do Patamar do Cenário quando isso for narrativamente apropriado.
+
+A referência do Bestiário já expressava esse princípio:
+
+> **O Patamar do cenário define a normalidade, não os limites do mundo.**
+
+Assim, estar acima da escala normal deve ser excepcional e significativo, mas não proibido. Quanto maior a diferença, mais a situação pode exigir preparação, cooperação, vantagens, recursos especiais ou uma abordagem diferente do confronto direto.
+
+O Patamar de Cenário também **não cria fórmulas automáticas para todos os subsistemas**. Ele orienta a escala; regras específicas continuam determinando Dano, Proteção, Resistências, equipamentos, criaturas e demais elementos.
+
+### Relação com dúvidas futuras
+
+A ideia já discutida de usar uma faixa aproximada ligada ao maior Atributo do cenário — incluindo a referência de **+2 para Resistências normalmente testáveis** — pertence principalmente à **D03**, que trata de como o Narrador escolhe Resistências fixas do mundo. Essa questão não foi incorporada à D02 para evitar misturar função de escala com calibração de dificuldade.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/patamar.md`.
+
+O arquivo `bestiario/referencia-de-patamar.md` já estava coerente com essa interpretação e não precisou ser alterado.
