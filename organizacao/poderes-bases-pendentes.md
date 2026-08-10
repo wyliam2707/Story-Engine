@@ -82,12 +82,31 @@ Exemplo conceitual:
 
 > **Todo Poder possui uma descrição narrativa e apenas as bases mecânicas necessárias para explicar como ele funciona.**
 
-## Bases já discutidas
+## Base — Ativação
+
+A Ativação informa **quando e em que ritmo o Poder pode ser utilizado**.
+
+Foram definidos três tipos de Ativação:
+
+- **Ação:** o Poder pode ser utilizado como uma Ação normal durante o turno. É apropriado para capacidades que fazem parte da dinâmica comum do combate, como um Disparo de Energia.
+- **Reação:** o Poder utiliza a Reação do personagem e só pode ser ativado quando sua descrição indicar a condição apropriada. A Reação continua existindo como recurso próprio do combate do W4D e permanece reservada para casos específicos.
+- **Cena:** o Poder exige tempo, preparação ou condições que o colocam fora da dinâmica imediata de um turno de combate. É apropriado para capacidades que não devem ser usadas como resposta rápida durante uma rodada, como uma Cura comum quando assim definida pelo cenário ou pelo próprio Poder.
+
+A existência da Ativação **Reação** não substitui a regra de **Ação Preparada**. Um Poder de Ativação Ação ainda pode ser preparado normalmente quando a regra geral permitir. A Reação deve permanecer para capacidades especificamente construídas para responder a um gatilho sem consumir a Ação normal do turno.
+
+Exemplos:
+
+> **Disparo de Energia — Ativação: Ação**
+
+> **Cura comum — Ativação: Cena**
+
+> **Reflexo sobrenatural — Ativação: Reação**, se a descrição do Poder tiver sido criada para funcionar dessa forma.
+
+## Bases ainda em desenvolvimento
 
 Entre os conceitos que já possuem referências no sistema ou foram discutidos anteriormente estão:
 
 - **Alcance:** Toque, Curto, Médio e Longo;
-- **Ativação:** Ação, além de outras formas que venham a ser definidas;
 - **Alvo/Área:** exemplos a desenvolver incluem Alvo, Próximo e Área;
 - **Duração:** Instante, Cena, Ciclo [4 horas], Dia [24 horas] e outras durações que a estrutura venha a exigir.
 
