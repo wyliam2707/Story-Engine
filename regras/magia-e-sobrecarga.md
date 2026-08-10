@@ -55,6 +55,8 @@ As Sobrecargas são regras gerais do capítulo de Magia e não precisam ser repe
 
 Como regra-base, **Área, Cone, Linha e Aura possuem alcance Curto**.
 
+Por padrão, uma forma coletiva afeta **todos que estiverem dentro de sua área de efeito igualmente, aliados ou inimigos**. A distinção ou exclusão de alvos só acontece quando a descrição específica do Poder, Magia ou efeito disser que isso é permitido.
+
 ### Efeitos com Múltiplos Alvos
 
 Quando uma única Ação produz um efeito que ameaça vários alvos, o usuário realiza **uma única rolagem de Ação** para aquela manifestação.
