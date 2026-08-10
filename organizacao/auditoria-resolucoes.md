@@ -538,3 +538,36 @@ A decisão foi registrada no fluxo em desenvolvimento de criação de personagem
 - `organizacao/criacao-do-personagem-rascunho.md`.
 
 O capítulo `regras/equipamentos-e-fabricacao.md` já era compatível com esta decisão e não precisou de alteração mecânica.
+
+---
+
+## D17 — Existe um fluxo completo de criação de personagem?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Sim. A criação de personagem passa a possuir uma **estrutura completa em oito etapas**, ainda mantida como rascunho para refinamento futuro:
+
+1. receber as definições do cenário;
+2. criar o conceito e a identidade do personagem;
+3. distribuir os Atributos;
+4. calcular Vida e Mana;
+5. escolher os Poderes permitidos pelo cenário;
+6. distribuir as Perícias;
+7. definir equipamentos e Recursos iniciais conforme a riqueza definida pelo cenário;
+8. realizar uma revisão final da ficha.
+
+O conceito e a história funcionam como referência de coerência para Atributos, Perícias, Poderes e Recursos, mas essa coerência é preservada principalmente por **bom senso e diálogo com o Narrador**, não por uma mecânica punitiva.
+
+A etapa de Poderes permanece propositalmente simples enquanto o capítulo próprio de Poderes não for aprofundado. Isso não impede que o fluxo geral de criação seja utilizável: o cenário informa quais Poderes podem ser escolhidos e, em seguida, o personagem distribui suas Perícias conhecendo também as Perícias de Poder às quais pode ter acesso.
+
+A revisão final não concede nem retira pontos. Ela apenas verifica regras, cálculos, acessos e se a ficha representa razoavelmente o personagem concebido.
+
+### Ajustes realizados
+
+O fluxo foi organizado em:
+
+- `organizacao/criacao-do-personagem-rascunho.md`.
+
+O capítulo permanece em `organizacao/` para refinamento futuro antes de ser consolidado como regra oficial.
