@@ -69,6 +69,22 @@ Cada lado pode receber sua própria Sorte ou Azar conforme suas capacidades e co
 
 O resultado não cria uma segunda escala: ele segue a Tabela Geral de Patamar e determina **quem prevalece e em qual grau**.
 
+### Notação abreviada de disputa
+
+Quando uma regra já deixa claro quais Atributos participam de uma oposição ativa, o W4D pode escrever a disputa de forma abreviada usando o sinal **−**.
+
+> **Atributo da Ação − Atributo da Resistência**
+
+O primeiro termo pertence a quem age; o segundo pertence a quem se opõe.
+
+Assim, **INT − AGI** significa que INT produz a Ação e AGI produz a Resistência. Essa escrita não elimina os Dados de Destino. Quando houver rolagem ativa dos dois lados, a resolução completa continua sendo:
+
+> **(INT + Destino da Ação) − (AGI + Destino da Resistência) = Patamar do Resultado**
+
+Um resultado positivo é Patamar em favor da Ação; um resultado negativo é Patamar em favor da Resistência; resultado 0 representa equilíbrio.
+
+O símbolo **×** fica reservado para multiplicação matemática verdadeira, como **VIG × 3**.
+
 ---
 
 ## Quando Fazer um Teste
@@ -125,15 +141,15 @@ Isso permite que ambos sejam afetados individualmente por Sorte ou Azar.
 
 Não existe uma defesa universal para todas as ações. O atributo que oferece Resistência depende da natureza da ameaça.
 
-Exemplos:
+A notação abaixo segue a ordem **Ação − Resistência**:
 
-- golpe físico de força: **FOR × AGI**;
-- disparo ou ataque de precisão: **DES × AGI**;
-- lança de energia: **INT × AGI**;
-- gás venenoso: **INT × VIG**;
-- ataque mental direto: **INT × VON**;
-- manipulação mental: **CAR × VON**;
-- ilusão percebida por discernimento: **CAR × SAB**.
+- golpe físico de força: **FOR − AGI**;
+- disparo ou ataque de precisão: **DES − AGI**;
+- lança de energia: **INT − AGI**;
+- gás venenoso: **INT − VIG**;
+- ataque mental direto: **INT − VON**;
+- manipulação mental: **CAR − VON**;
+- ilusão percebida por discernimento: **CAR − SAB**.
 
 ---
 
@@ -157,4 +173,4 @@ Se nenhuma consequência adicional for plausível, mesmo um resultado negativo e
 
 ## Princípio
 
-> **Contra o cenário, Atributo + Destino enfrenta a Dificuldade da situação. Contra outro personagem, Ação enfrenta Resistência. O resultado determina quem prevalece; o Patamar determina o grau do sucesso ou da resistência.**
+> **Contra o cenário, Atributo + Destino enfrenta a Dificuldade da situação. Contra outro personagem, Ação − Resistência produz o Patamar do Resultado. O sinal determina quem prevalece; o valor absoluto determina o grau do sucesso ou da resistência.**
