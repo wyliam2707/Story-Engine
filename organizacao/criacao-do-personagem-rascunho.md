@@ -132,12 +132,37 @@ A história e o conceito do personagem continuam servindo como referência de bo
 
 > **O núcleo explica como Recursos funcionam. O cenário define com quanto o personagem começa.**
 
-## Ainda em revisão
+## Etapa 8 — Revisão Final
 
-As próximas decisões do fluxo de criação serão analisadas uma por vez. A ordem final ainda não está consolidada.
+Depois de concluir a ficha, jogador e Narrador fazem uma **revisão final** antes do início da campanha.
+
+Essa revisão não concede nem retira pontos. Ela serve apenas para conferir se as regras foram aplicadas corretamente e se a ficha representa de forma razoável o personagem que foi concebido.
+
+Devem ser conferidos os pontos e limites de Atributo, os cálculos de Vida e Mana, os Poderes permitidos pelo cenário, os custos e acessos das Perícias e os equipamentos e Recursos iniciais concedidos pela campanha.
+
+Também é o momento de observar se existe alguma contradição evidente entre a descrição e a ficha. Quando isso ocorrer, a solução normal é **conversar e ajustar a construção**, não aplicar uma penalidade mecânica automática.
+
+> **A revisão final confirma que a ficha funciona e que ela representa o personagem que a mesa pretende colocar em jogo.**
+
+## Estado do fluxo
+
+A estrutura básica de criação está definida em oito etapas:
+
+1. receber as definições do cenário;
+2. criar o conceito e a identidade;
+3. distribuir os Atributos;
+4. calcular Vida e Mana;
+5. escolher os Poderes;
+6. distribuir as Perícias;
+7. definir equipamentos e Recursos iniciais;
+8. realizar a revisão final.
+
+A estrutura pode ser refinada futuramente, especialmente quando o capítulo de Poderes for aprofundado, sem que isso exija reconstruir todo o fluxo.
 
 ## D17 — Estado da auditoria
 
-A D17 continua **aberta**. Este rascunho será usado para aprofundar o fluxo completo de criação antes de transformá-lo em regra oficial.
+A D17 está **resolvida em nível estrutural**. O W4D possui agora um fluxo completo de criação de personagem capaz de orientar jogador e Narrador sem inventar etapas intermediárias.
+
+O texto permanece em `organizacao/` enquanto o capítulo é refinado. Quando a redação final for aprovada, ele poderá ser consolidado nas regras oficiais.
 
 > **Primeiro entender cada etapa. Depois ordenar. Só então consolidar o capítulo.**
