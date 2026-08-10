@@ -201,9 +201,13 @@ Foram separados três conceitos de Efeito relacionados à recuperação de Vida.
 
 - **Curar:** restaura a Vida de outro alvo por uma capacidade externa de cura, tratamento, energia, magia, poder divino ou manifestação equivalente. Não exige causar Dano para produzir a recuperação.
 - **Regenerar-se:** restaura a própria Vida do usuário por uma capacidade interna ou autocentrada. Como conceito, é um efeito de Alcance **Pessoal** e não se transforma automaticamente em Cura de terceiros.
-- **Vampirismo / Roubar Vida:** combina uma ação ofensiva contra outro alvo com recuperação de Vida para o usuário. A recuperação vem da Vida drenada do alvo, portanto depende de um efeito de roubo ou absorção em vez de uma cura independente.
+- **Vampirismo / Roubar Vida:** causa Dano a um ser vivo e restaura Vida do usuário em quantidade igual à **metade do Dano efetivamente causado**, sempre arredondando para baixo. A recuperação depende do Dano realmente sofrido pelo alvo depois de Proteções, Resistências e demais reduções aplicáveis; Dano impedido ou absorvido não gera Vida roubada.
 
-Os valores-base, Atributos, quantidade recuperada e relação exata entre Dano causado e Vida absorvida ainda precisam ser definidos individualmente antes de estes Efeitos serem fechados.
+**Vampirismo / Roubar Vida** pode drenar qualquer alvo que esteja realmente vivo e do qual faça sentido extrair energia vital conforme a descrição do Poder. Isso inclui animais, pessoas, criaturas, árvores e outras plantas vivas. Objetos inanimados, máquinas sem vida e matéria morta não fornecem Vida por essa base, salvo se a descrição específica do cenário estabelecer que possuem alguma forma de vida drenável.
+
+Exemplo: se um efeito de Vampirismo produz Dano 7, mas o alvo sofre efetivamente apenas Dano 4 após suas defesas, o usuário recupera **2 de Vida**.
+
+Os valores-base e Atributos de **Curar** e **Regenerar-se** ainda precisam ser definidos individualmente.
 
 ## Sobrecargas Gerais
 
@@ -275,8 +279,8 @@ A Sobrecarga de Duração altera apenas **quanto tempo o efeito permanece ativo*
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Efeito:** Curar, Regenerar-se, Vampirismo/Roubar Vida, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
-- valores e funcionamento exatos dos Efeitos de recuperação de Vida;
+- **Efeito:** Curar, Regenerar-se, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
+- valores e funcionamento exatos dos Efeitos **Curar** e **Regenerar-se**;
 - possíveis limites ou exceções das demais Sobrecargas, caso sejam necessários.
 
 Essa lista ainda não deve ser considerada fechada até a Base de Efeito e as Sobrecargas serem revisadas individualmente.
