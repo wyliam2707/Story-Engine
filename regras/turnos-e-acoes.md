@@ -54,7 +54,7 @@ Um personagem pode usar sua Ação para alterar a situação e prejudicar algué
 
 Exemplos incluem distrair, provocar, fintar, jogar areia nos olhos, bloquear a visão, pressionar, prender uma roupa, fazer barulho em outra direção ou criar uma abertura para um aliado.
 
-A ação é resolvida com os Atributos e Perícias coerentes com a situação. Uma provocação para desviar a atenção de um adversário, por exemplo, pode resultar em **CAR contra VON**, caso esses sejam os Atributos adequados à narrativa.
+A ação é resolvida com os Atributos e Perícias coerentes com a situação. Uma provocação para desviar a atenção de um adversário, por exemplo, pode resultar em **CAR − VON**, caso esses sejam os Atributos adequados à narrativa. A notação segue a ordem **Ação − Resistência**.
 
 Quando a vantagem consiste em atrapalhar **um alvo específico**:
 
