@@ -359,3 +359,27 @@ A regra atual de graus e custos das Perícias permanece como **regra-base geral 
 A decisão foi explicitada em:
 
 - `regras/pericias.md`.
+
+---
+
+## D07 — INT concede novos Pontos de Perícia depois da criação?
+
+**Status:** Resolvida.
+
+### Decisão
+
+A regra-base continua sendo:
+
+> **Pontos de Perícia = (Patamar de Cenário × 4) + INT**
+
+Se, depois da criação, alguma regra permitir que **INT aumente**, o total de Pontos de Perícia também aumenta na mesma proporção.
+
+Assim, um aumento de +1 em INT acrescenta +1 ao total de Pontos de Perícia; um aumento de +2 acrescenta +2, e assim por diante.
+
+A D07 não define se, quando ou por quais meios os Atributos podem ser aumentados depois da criação. Essa é uma questão separada de evolução. Aqui fica definido apenas que, **caso INT seja ampliada, sua contribuição para o total de Pontos de Perícia acompanha o novo valor**.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/pericias.md`.
