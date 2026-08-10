@@ -31,6 +31,17 @@ Ampliação aumenta a abrangência do efeito em um estágio.
 - **Linha Curta → Linha Média**
 - **Aura Curta → Aura Média**
 
+### Sustentado
+
+A duração-base de Poderes e Magias é **Cena**. Durante a formulação, o personagem pode investir Mana para prolongar um efeito além da Cena:
+
+- **Sustentado [4 horas] — Sobrecarga [1]:** o efeito pode permanecer ativo por até 4 horas.
+- **Sustentado [24 horas] — Sobrecarga [2]:** o efeito pode permanecer ativo por até 24 horas.
+
+Manter um efeito Sustentado não exige Ação, teste ou novo gasto de Mana. Basta que o personagem deseje mantê-lo ativo.
+
+O personagem pode encerrar voluntariamente um efeito Sustentado antes do limite. Se **dormir ou ficar inconsciente**, seus efeitos Sustentados são encerrados.
+
 As Sobrecargas são regras gerais do capítulo de Magia e não precisam ser repetidas em cada Poder, salvo quando uma magia possuir uma exceção própria.
 
 ## Formas de Efeito
@@ -51,11 +62,9 @@ Poderes e Magias podem possuir as durações **Instante, Patamar, Cena ou Susten
 - **Instante:** resolve o efeito imediatamente e termina.
 - **Patamar:** permanece por uma quantidade de turnos determinada pelo Patamar.
 - **Cena:** permanece até o fim da Cena, salvo se for encerrado antes.
-- **Sustentado:** permanece até ser desativado ou até ocorrer uma condição de encerramento indicada pelo efeito.
+- **Sustentado:** prolonga um efeito além da Cena pelo período definido na formulação.
 
 A duração-base continua sendo **Cena**, salvo quando a descrição do Poder ou da Magia informar outra duração.
-
-Sobrecargas podem alterar duração quando a regra ou o efeito assim permitir.
 
 ## Exemplo — Cura
 
