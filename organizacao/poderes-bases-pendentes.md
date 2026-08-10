@@ -199,15 +199,17 @@ Esse princípio é compatível com a regra atual de Combate, que já permite que
 
 Foram separados três conceitos de Efeito relacionados à recuperação de Vida. A diferença principal entre eles é **de onde vem a recuperação e quem pode recebê-la**:
 
-- **Curar:** restaura a Vida de outro alvo por uma capacidade externa de cura, tratamento, energia, magia, poder divino ou manifestação equivalente. Não exige causar Dano para produzir a recuperação.
+- **Curar:** restaura a Vida de outro alvo por uma capacidade externa de cura, tratamento, energia, magia, poder divino ou manifestação equivalente. Não exige causar Dano para produzir a recuperação. Quando o alvo **deseja ser curado**, sua Resistência é considerada **Patamar [0]**. O teste produz um Patamar e apenas o resultado positivo restaura Vida em quantidade igual ao próprio Patamar positivo. Resultado 0 ou negativo não restaura Vida. Curar não causa Dano.
 - **Regenerar-se:** restaura a própria Vida do usuário por uma capacidade interna ou autocentrada. Como conceito, é um efeito de Alcance **Pessoal** e não se transforma automaticamente em Cura de terceiros.
 - **Vampirismo / Roubar Vida:** causa Dano a um ser vivo e restaura Vida do usuário em quantidade igual à **metade do Dano efetivamente causado**, sempre arredondando para baixo. A recuperação depende do Dano realmente sofrido pelo alvo depois de Proteções, Resistências e demais reduções aplicáveis; Dano impedido ou absorvido não gera Vida roubada.
 
 **Vampirismo / Roubar Vida** pode drenar qualquer alvo que esteja realmente vivo e do qual faça sentido extrair energia vital conforme a descrição do Poder. Isso inclui animais, pessoas, criaturas, árvores e outras plantas vivas. Objetos inanimados, máquinas sem vida e matéria morta não fornecem Vida por essa base, salvo se a descrição específica do cenário estabelecer que possuem alguma forma de vida drenável.
 
-Exemplo: se um efeito de Vampirismo produz Dano 7, mas o alvo sofre efetivamente apenas Dano 4 após suas defesas, o usuário recupera **2 de Vida**.
+Exemplo de Curar: se o usuário obtém Patamar [3] contra Resistência [0] de um alvo disposto, o alvo recupera **3 de Vida**. Curar não transforma esse resultado em Dano nem exige ferir o alvo para produzir a recuperação.
 
-Os valores-base e Atributos de **Curar** e **Regenerar-se** ainda precisam ser definidos individualmente.
+Exemplo de Vampirismo: se um efeito produz Dano 7, mas o alvo sofre efetivamente apenas Dano 4 após suas defesas, o usuário recupera **2 de Vida**.
+
+O valor-base e o Atributo de **Regenerar-se** ainda precisam ser definidos individualmente.
 
 ## Sobrecargas Gerais
 
@@ -279,8 +281,8 @@ A Sobrecarga de Duração altera apenas **quanto tempo o efeito permanece ativo*
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Efeito:** Curar, Regenerar-se, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
-- valores e funcionamento exatos dos Efeitos **Curar** e **Regenerar-se**;
+- **Efeito:** Regenerar-se, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
+- valor e funcionamento exatos de **Regenerar-se**;
 - possíveis limites ou exceções das demais Sobrecargas, caso sejam necessários.
 
 Essa lista ainda não deve ser considerada fechada até a Base de Efeito e as Sobrecargas serem revisadas individualmente.
