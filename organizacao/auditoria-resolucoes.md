@@ -510,3 +510,31 @@ A decisão foi explicitada em:
 
 - `regras/combate.md`;
 - `regras/mecanica-dos-itens.md`.
+
+---
+
+## D18 — Os Recursos iniciais são definidos pelo cenário?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Sim. O W4D **não possui um valor universal de riqueza inicial**, nem um pacote obrigatório de Pilas ou equipamentos para todos os personagens.
+
+Cada cenário determina o **nível de riqueza inicial** apropriado para a campanha e, a partir dessa referência, define quais equipamentos, Pilas, bens e demais Recursos os personagens podem possuir ou acessar no início do jogo.
+
+Essa decisão acompanha a regra já existente de Inventário e Recursos, segundo a qual cada cenário determina sua economia, disponibilidade, bens existentes, importância do dinheiro e quais Recursos realmente importam.
+
+O nível de riqueza inicial pode produzir campanhas muito diferentes. Um grupo pode começar apenas com roupas e equipamento cotidiano; outro pode possuir armas, veículos, propriedades, oficinas, tecnologia ou grandes quantidades de dinheiro quando isso fizer sentido para a proposta do cenário.
+
+A história e o conceito do personagem continuam orientando quais Recursos são plausíveis para aquele indivíduo dentro das condições concedidas pelo cenário, usando bom senso em vez de uma tabela universal.
+
+> **O núcleo explica como Recursos funcionam. O cenário define com quanto o personagem começa.**
+
+### Ajustes realizados
+
+A decisão foi registrada no fluxo em desenvolvimento de criação de personagem:
+
+- `organizacao/criacao-do-personagem-rascunho.md`.
+
+O capítulo `regras/equipamentos-e-fabricacao.md` já era compatível com esta decisão e não precisou de alteração mecânica.
