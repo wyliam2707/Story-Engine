@@ -278,3 +278,27 @@ A decisão foi explicitada em:
 
 - `regras/status.md`;
 - `regras/turnos-e-acoes.md`.
+
+---
+
+## D13 — Surpresa: quem age primeiro?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Quando um confronto começa, **todos os envolvidos podem rolar Iniciativa**, inclusive os personagens surpreendidos. A Iniciativa estabelece desde o início a ordem mecânica usada para resolver o confronto.
+
+A surpresa não retira o personagem da ordem. Em vez disso, quem foi surpreendido **não realiza seu turno na primeira rodada** e só começa a agir normalmente quando sua posição de Iniciativa chegar na **segunda rodada**.
+
+Os personagens que estavam conscientes e preparados realizam normalmente seus turnos da primeira rodada conforme a ordem de Iniciativa.
+
+Foi também consolidada a distinção entre **ordem mecânica** e **tempo ficcional**. Os turnos existem para organizar a resolução na mesa, mas ações resolvidas em sequência podem representar acontecimentos simultâneos ou quase simultâneos na ficção.
+
+Assim, em uma emboscada com três assassinos preparados, os três podem atacar praticamente ao mesmo tempo narrativamente, embora suas ações sejam resolvidas uma por uma segundo a Iniciativa.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/iniciativa.md`.
