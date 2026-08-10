@@ -175,3 +175,23 @@ A decisão foi explicitada em:
 
 - `regras/patamar.md`;
 - `regras/testes-e-resolucoes.md`.
+
+---
+
+## D05 — A nota final de Dados de Destino ainda é necessária?
+
+**Status:** Resolvida.
+
+### Decisão
+
+A seção `Estado da Regra` era uma anotação de desenvolvimento e não acrescentava uma regra útil para Narradores ou jogadores.
+
+Como a relação entre Dados de Destino, Sorte, Azar, Perícias e Patamar já está definida no próprio capítulo e em `testes-e-resolucoes.md`, manter uma nota de estado editorial poderia dar a impressão de que a mecânica ainda está provisória.
+
+A seção foi removida. O capítulo agora termina em `Relação com Patamar`, preservando apenas conteúdo de uso efetivo em jogo.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/dados-de-destino.md`.
