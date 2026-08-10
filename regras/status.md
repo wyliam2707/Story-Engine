@@ -10,6 +10,10 @@ Quando um Status atrapalha uma ação que ainda é possível, aplica-se **Azar**
 
 A intensidade, qualidade e magnitude de um Status seguem a **Tabela Geral de Patamar**, como qualquer outro resultado do W4D. Patamares altos podem produzir consequências muito superiores às de um sucesso comum, desde que permaneçam coerentes com a natureza da ação.
 
+Não existe uma tabela universal que converta automaticamente um Status de determinado Patamar em **Azar [1]**, **Azar [2]** ou impossibilidade. O Patamar indica **a intensidade da condição**; a descrição do Status e a situação determinam como essa intensidade interfere em cada ação concreta.
+
+Assim, um mesmo Patamar pode se manifestar de formas diferentes conforme a natureza do Status. Uma condição pode gerar Azar em determinada ação, impedir outra completamente e não afetar uma terceira.
+
 > **Status define o que está acontecendo. Patamar determina a magnitude. Azar representa a dificuldade quando agir ainda é possível.**
 
 ## Agarrado
