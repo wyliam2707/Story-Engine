@@ -57,6 +57,14 @@ Um efeito redirecionado passa a ameaçar um novo alvo. Se esse novo alvo possuir
 
 Refletir/Redirecionar somente pode ser usado contra aquilo que sua descrição permitir. Descrições específicas podem criar outras formas e indicar outros Atributos quando necessário.
 
+## Interceptar
+
+**Interceptar** é um efeito simples de troca de alvo. O personagem precisa possuir um Poder, técnica ou efeito que declare que ele pode interceptar uma ação destinada a outro alvo.
+
+Ao usar Interceptar, o personagem passa imediatamente a ser o **novo alvo** do Poder ou efeito. A partir desse momento, a resolução segue normalmente usando as próprias defesas, Resistências, Imunidades, Vulnerabilidades e demais efeitos do personagem que interceptou.
+
+Interceptar não usa **Patamar × Patamar** para decidir se a troca de alvo acontece, salvo se a própria descrição do Poder disser o contrário. O efeito de Interceptar é justamente permitir que o personagem tome o lugar do alvo original.
+
 ## Imunidade
 
 **Imunidade impede exatamente aquilo que sua descrição declara impedir.** Não existe um pacote automático de efeitos associado à palavra Imunidade.
