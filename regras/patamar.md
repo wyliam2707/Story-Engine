@@ -23,6 +23,24 @@ A escala básica de Patamar vai de **0 a 8**.
 | 7 | Mítico |
 | 8 | Lendário |
 
+## Patamar de Cenário
+
+Além da escala universal de resultados, o Narrador escolhe um **Patamar de Cenário [I–V]** para definir a escala inicial dos protagonistas.
+
+Esse Patamar não cria uma segunda física nem substitui os Atributos [0–8]. Ele determina apenas os **pontos iniciais de Atributo** e o **maior valor inicial permitido por Atributo**.
+
+| Patamar do cenário | Pontos iniciais | Máximo inicial por Atributo | Escala típica |
+|---|---:|---:|---|
+| **I** | 4 | [1] | Humano — terror, sobrevivência, investigação |
+| **II** | 8 | [2] | Heroico — especialistas e ápice humano |
+| **III** | 12 | [3] | Super-heróico — capacidades sobre-humanas |
+| **IV** | 16 | [4] | Colossal — grandes super-seres e monstros |
+| **V** | 20 | [5] | Titânico — ápice sobre-humano |
+
+O Patamar de Cenário define **a escala esperada dos protagonistas**, não o limite absoluto do mundo. Um cenário de Patamar I pode possuir monstros com Atributos [3] ou superiores; isso significa apenas que esses seres estão fora da escala humana normal dos personagens.
+
+O valor do Atributo continua descrevendo a capacidade concreta do indivíduo: [0] humano médio, [1] acima da média, [2] máximo humano, [3] sobre-humano e assim por diante até [8], o extremo possível daquele Atributo no universo.
+
 ## Ação contra Resistência
 
 Quando uma ação encontra oposição, compara-se o **Patamar da Ação** com o **Patamar da Resistência**:
