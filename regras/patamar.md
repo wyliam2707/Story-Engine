@@ -125,15 +125,21 @@ O sinal indica **qual lado prevalece**. O valor absoluto do Patamar efetivo indi
 
 ## Peso Narrativo do Resultado
 
-O Patamar do resultado não determina uma consequência rígida. Ele determina o **peso ou intensidade da consequência**. Cabe ao Narrador interpretar como essa intensidade se manifesta de acordo com a ação, a resistência, o ambiente e o contexto da cena.
+O Patamar do resultado não determina uma consequência rígida. Ele determina o **peso ou intensidade daquilo que pode acontecer** dentro da natureza da ação, dos riscos da cena e da ficção já estabelecida.
 
-Um resultado negativo elevado não significa apenas que a ação falhou. A Resistência pode prevalecer com força suficiente para produzir uma consequência contra quem realizou a ação.
+Um resultado negativo elevado significa que a Resistência prevaleceu com grande intensidade, mas **não cria automaticamente Dano, Status ou qualquer outra punição que não tenha relação plausível com a situação**.
 
-**Exemplo:** um personagem tenta arrombar uma porta e obtém resultado **−3**. A porta permanece fechada e, conforme a situação, o Narrador pode determinar que o personagem perde o equilíbrio e cai.
+A consequência precisa nascer da própria ação, de um risco existente, de uma condição da cena ou de um elemento plausível que o Narrador revele sem contradizer o que já foi estabelecido.
 
-Em um resultado ainda mais intenso, como **−5**, a resistência pode produzir uma consequência proporcionalmente maior; no mesmo exemplo, o impacto poderia até deslocar o ombro do personagem, caso isso seja coerente com a ficção.
+**Exemplo:** um personagem tenta arrombar uma porta e obtém resultado **−3**. A porta permanece fechada. Se o local possui um sistema de segurança plausível, a tentativa pode acionar um alarme. Se o chão está molhado ou instável, o personagem pode escorregar e cair. Se essa queda coloca objetos frágeis que ele carrega em risco, uma poção no bolso pode se quebrar.
 
-Da mesma forma, resultados positivos elevados permitem que a Ação imponha consequências cada vez mais intensas.
+Em um resultado ainda mais intenso, as consequências plausíveis podem se encadear ou ganhar maior gravidade, sempre respeitando o que a situação realmente permite.
+
+Por outro lado, se não existe nenhuma consequência plausível além de não conseguir o que queria, mesmo um resultado negativo muito elevado pode significar apenas que a Resistência prevaleceu de maneira decisiva.
+
+Da mesma forma, resultados positivos elevados permitem que a Ação imponha consequências cada vez mais intensas, mas sempre dentro da natureza do que foi realizado.
+
+> **O Patamar determina a intensidade da consequência possível; a ficção determina quais consequências podem existir.**
 
 > **O sinal determina quem prevalece. O Patamar determina a intensidade. O Narrador determina como essa intensidade se manifesta na ficção.**
 
