@@ -12,6 +12,14 @@ Talentos, Poderes, Magias, equipamentos e cenários devem reutilizar as regras e
 
 Um **Poder não recebe automaticamente um Patamar próprio** apenas por existir. Quando houver uma resolução, o teste produz um Patamar e a descrição do Poder informa como esse Patamar se manifesta ou se converte em outra grandeza.
 
+## Quantidade e Acesso
+
+O W4D **não estabelece uma quantidade universal de Poderes iniciais** para todos os personagens.
+
+A quantidade de Poderes disponível na criação, quais fontes ou tradições existem e as formas pelas quais novos Poderes podem ser adquiridos são **definições do cenário**.
+
+A regra-base de Poderes determina como essas capacidades funcionam mecanicamente. O cenário determina **quais Poderes existem, quem pode acessá-los e em que quantidade**.
+
 ## Funções-base dos Atributos Mentais
 
 - **INT:** dano e efeitos ofensivos.
