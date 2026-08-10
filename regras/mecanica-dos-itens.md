@@ -10,6 +10,8 @@ As regras apresentadas aqui fornecem uma linguagem comum para que cada cenário 
 
 A ficha de um item deve ser tão simples quanto o próprio item permitir.
 
+As regras deste capítulo **não substituem silenciosamente regras já estabelecidas no núcleo**. Quando um item utiliza Dano, Proteção, Alcance, Efeitos ou outra mecânica existente, aplica-se a regra correspondente do W4D. Este capítulo explica como essas mecânicas aparecem nos itens.
+
 ---
 
 ## 1. Essência Narrativa do Item
@@ -22,7 +24,7 @@ Essas características não precisam ser transformadas em bônus ou efeitos indi
 
 A mecânica começa quando existe algo que a narrativa, sozinha, não resolve de maneira suficiente para o jogo.
 
-Por isso, dois itens podem possuir fichas de tamanhos completamente diferentes. Uma lanterna comum talvez precise apenas de nome e descrição, enquanto uma arma tecnológica experimental pode precisar de Dano, Alcance, Munição, efeitos especiais, preço, reparo e fabricação.
+Por isso, dois itens podem possuir fichas de tamanhos completamente diferentes. Uma lanterna comum talvez precise apenas de nome e descrição, enquanto uma arma tecnológica experimental pode precisar de Dano, Alcance, efeitos especiais, preço, reparo e, quando relevante ao cenário, Munição ou Cargas.
 
 > **Nem todo item precisa possuir todas as características de item.**
 
@@ -60,27 +62,66 @@ Sempre que possível, itens especiais devem utilizar a mesma linguagem de Efeito
 
 ### Dano
 
-Usado quando o item causa dano e sua capacidade ofensiva precisa ser definida mecanicamente.
+Usado quando o item modifica o Dano de um ataque.
 
-Armas devem permanecer coerentes com o **Patamar do cenário**. Uma arma não recebe uma escala absurda apenas por possuir uma descrição impressionante; sua capacidade deve fazer sentido dentro do mundo em que existe.
+Pelas regras de Combate:
+
+> **Dano final = Patamar efetivo positivo do acerto + Dano da arma**
+
+O valor registrado na arma é, portanto, seu modificador de Dano. A referência básica já estabelecida no núcleo é:
+
+| Categoria de referência | Dano |
+|---|---:|
+| Desarmado | +0 |
+| Arma leve | +0 |
+| Arma média | +1 |
+| Arma grande | +2 |
+
+Essas categorias são referências mecânicas para construção e comparação. A **Essência Narrativa do item e o cenário** determinam o que uma arma representa concretamente.
+
+Assim, um cenário pode criar uma **Pistola Compacta — Dano [+1]** ou uma **Katana — Dano [+2]** quando essa for a representação adequada daquela arma dentro de sua proposta.
+
+O nome, tamanho aparente ou descrição impressionante de uma arma não aumenta automaticamente seu Dano. O **Patamar do cenário continua sendo o coração da escala**, e armas devem ser construídas em relação a ele.
+
+Não existe, por regra-base, uma segunda rolagem de dano.
 
 ### Alcance
 
-Usado quando a distância de utilização do item é mecanicamente relevante.
+Usado quando a distância de utilização do item é mecanicamente relevante. Quando o item utiliza as faixas de Alcance do W4D, aplicam-se as regras já estabelecidas para Alcance e Movimento.
 
 ### Proteção
 
-Itens defensivos podem possuir uma reserva de **Proteção**, absorvendo dano conforme as regras de Proteção de Item.
+Itens defensivos podem possuir uma reserva de **Proteção**, seguindo as regras já estabelecidas em Combate.
+
+Armaduras ocupam a camada de **Item** na estrutura normal:
+
+> **Barreira → Item → Vida**
+
+A referência básica de armaduras já estabelecida é:
+
+| Armadura | Proteção |
+|---|---:|
+| Leve | 4 |
+| Média | 8 |
+| Pesada | 12 |
+
+Materiais, magia, tecnologia e propriedades especiais podem alterar contra quais ameaças a Proteção funciona, conforme a descrição do item.
 
 ### Munição, Cargas ou Usos
 
-Utilizado quando o item possui quantidade limitada de ativações, disparos, doses, energia ou outro recurso que precise ser acompanhado naquele cenário.
+Munição, Cargas e Usos são registrados **somente quando forem recursos relevantes para o cenário ou para aquele item específico**.
 
-Não é necessário controlar esse campo quando a disponibilidade do recurso não for relevante para a campanha.
+Eles não são características obrigatórias de uma arma.
+
+Em uma campanha de sobrevivência, cada bala pode importar e a Munição pode ser acompanhada disparo por disparo. Em uma fantasia heroica, contar cada flecha pode apenas acrescentar trabalho sem produzir escolhas interessantes; nesse caso, o cenário pode assumir que o arqueiro mantém munição comum suficiente enquanto nada na narrativa disser o contrário.
+
+Itens com usos naturalmente limitados — como uma poção, uma granada, um medpak ou uma bateria especial — ainda podem registrar Cargas ou Usos quando isso fizer parte de sua função.
+
+> **Controle um recurso quando sua escassez fizer diferença. Caso contrário, preserve a fluidez do jogo.**
 
 ### Reparo
 
-Quando apropriado, indica o custo e as condições necessárias para restaurar a Proteção ou funcionamento do item.
+Quando apropriado, indica o custo e as condições necessárias para restaurar a Proteção ou funcionamento do item, seguindo as regras de Reparo.
 
 ### Fabricação
 
@@ -134,35 +175,42 @@ Exemplo:
 
 ## 5. Armas
 
-Armas são itens utilizados para realizar ataques. Sua descrição determina a forma do ataque e quais características são relevantes.
+Armas são itens utilizados para realizar ataques. Elas seguem as regras de **Ataques Físicos e Dano de Armas** do capítulo de Combate.
 
-Uma arma pode definir Dano, Alcance, Munição e propriedades especiais, mas somente quando esses elementos forem necessários.
+A ficha de uma arma registra apenas aquilo que precisa diferenciá-la mecanicamente: seu modificador de **Dano**, seu **Alcance**, propriedades especiais e, quando relevante ao cenário, **Munição**.
 
 O item não substitui a lógica da ação. Uma faca continua podendo cortar uma corda sem exigir que sua ficha possua o efeito "Cortar Corda".
 
 Da mesma forma, o nome ou aparência de uma arma não aumenta automaticamente sua escala. O **Patamar do cenário continua sendo a referência central** para determinar o que aquela arma representa dentro do mundo.
 
-Exemplo estrutural:
+Exemplos estruturais:
 
-> **Pistola**  
-> **Preço:** definido pelo cenário  
-> **Disparo:** Dano conforme o cenário  
-> **Alcance:** conforme o modelo  
-> **Munição:** conforme o modelo
+> **Pistola Compacta**  
+> **Dano:** [+1]  
+> **Alcance:** definido pelo cenário/modelo  
+> **Munição:** somente se sua contagem for relevante para o cenário
 
-Esses valores devem ser preenchidos pelo cenário, não pelo núcleo do W4D.
+> **Katana**  
+> **Dano:** [+2]  
+> **Alcance:** corpo a corpo
+
+Preço, disponibilidade, legalidade e demais informações pertencem à economia e à descrição do cenário.
 
 ---
 
 ## 6. Armaduras e Itens de Proteção
 
-Armaduras e outros equipamentos defensivos podem possuir uma reserva de **Proteção**.
+Armaduras são **Proteções de Item** e seguem as regras do capítulo de Combate.
+
+A referência básica é **Proteção 4** para armadura leve, **Proteção 8** para média e **Proteção 12** para pesada.
 
 A Proteção representa aquilo que o item consegue absorver antes de deixar de oferecer aquela defesa. Quando sua Proteção chega a 0, o item deixa de absorver dano, mas não desaparece automaticamente nem perde todas as suas demais características.
 
 A narrativa determina seu estado real.
 
 Uma armadura sem Proteção ainda pode continuar sendo uma roupa pesada, um objeto metálico ou possuir outra propriedade que não dependa da reserva perdida.
+
+Uma armadura ocupa a camada de **Item**. Uma Barreira criada por Poder pode coexistir com ela porque ocupa outra camada, mas vestir ou invocar uma segunda armadura não cria automaticamente uma nova camada de Proteção.
 
 Itens defensivos especiais podem possuir efeitos adicionais, desde que sua descrição determine claramente como funcionam.
 
@@ -182,7 +230,7 @@ Exemplo:
 > **Uso:** consumível.  
 > **Efeito:** aplica o efeito de recuperação definido pelo cenário. Após o uso, o Medpak é consumido.
 
-Um cenário em que munição seja abundante pode ignorar a contagem de disparos comuns. Outro, baseado em sobrevivência, pode exigir controle preciso das últimas balas disponíveis.
+A relevância é definida pelo cenário. Em sobrevivência, saber que restam três balas pode mudar completamente uma decisão. Em uma fantasia de aventura, controlar individualmente cada flecha pode ser desnecessário.
 
 A mecânica acompanha a relevância do recurso para a história.
 
@@ -218,13 +266,13 @@ Ao criar um equipamento para um cenário W4D, siga esta sequência:
    Identifique apenas as características que produzem dúvida ou efeito relevante durante o jogo.
 
 4. **Existe uma mecânica ou Efeito do W4D que já represente isso?**  
-   Reutilize a linguagem existente sempre que possível.
+   Reutilize a linguagem existente sempre que possível. Uma regra nova não deve duplicar ou contradizer silenciosamente uma regra já estabelecida.
 
 5. **Qual é sua escala?**  
-   Compare Dano, Proteção e demais efeitos com o Patamar e com a realidade do cenário.
+   Compare Dano, Proteção e demais efeitos com o **Patamar do cenário** e com a realidade que ele representa.
 
-6. **Existe alguma limitação?**  
-   Determine Alcance, Munição, Cargas, usos, requisitos ou condições apenas quando forem importantes.
+6. **Existe alguma limitação relevante?**  
+   Determine Alcance, Munição, Cargas, usos, requisitos ou condições somente quando produzirem uma diferença relevante no jogo.
 
 7. **Como ele é obtido?**  
    Se relevante, determine Preço, disponibilidade, raridade, fabricação, mercado ou forma narrativa de aquisição.
@@ -253,19 +301,23 @@ Os exemplos abaixo demonstram apenas formatos possíveis. Seus valores não repr
 > Equipamento especializado para coleta e análise de vestígios.  
 > **Efeito:** quando utilizado integralmente em uma investigação apropriada, concede **Sorte [1]**.
 
-### Arma
+### Arma de Fogo
 
-> **Pistola**  
-> **Preço:** definido pelo cenário  
-> **Disparo:** Dano definido pelo cenário  
-> **Alcance:** definido pelo modelo  
-> **Munição:** definida pelo modelo
+> **Pistola Compacta**  
+> **Dano:** [+1]  
+> **Alcance:** definido pelo cenário/modelo  
+> **Munição:** registrar apenas quando relevante
+
+### Arma Corpo a Corpo
+
+> **Katana**  
+> **Dano:** [+2]  
+> **Alcance:** corpo a corpo
 
 ### Item Defensivo
 
-> **Armadura**  
-> **Preço:** definido pelo cenário  
-> **Proteção:** definida pelo cenário  
+> **Armadura Média**  
+> **Proteção:** [8]  
 > **Reparo:** quando relevante
 
 ### Consumível
@@ -278,7 +330,7 @@ Os exemplos abaixo demonstram apenas formatos possíveis. Seus valores não repr
 
 > **Lâmina de Energia**  
 > Uma arma tecnológica cuja lâmina é formada por energia concentrada.  
-> **Dano:** definido pela escala tecnológica e pelo Patamar do cenário  
+> **Dano:** escolhido dentro da escala de armas e do Patamar do cenário  
 > **Efeito Especial:** apenas se houver alguma capacidade além daquilo que sua natureza e o ataque normal já representam.  
 > **Carga:** somente se controlar energia for relevante para o cenário.
 
@@ -289,5 +341,7 @@ Os exemplos abaixo demonstram apenas formatos possíveis. Seus valores não repr
 A criação de equipamentos não deve se transformar em uma tentativa de simular cada detalhe físico de um objeto.
 
 O W4D utiliza a **Essência Narrativa** para tudo que pode ser compreendido naturalmente e a **mecânica** para aquilo que precisa ser resolvido durante o jogo.
+
+As mecânicas fundamentais já existentes — como Dano, Proteção, Alcance e Efeitos — são reutilizadas pelos itens em vez de serem recriadas neste capítulo.
 
 > **O cenário decide quais itens existem. A Mecânica dos Itens ensina como fazê-los funcionar.**
