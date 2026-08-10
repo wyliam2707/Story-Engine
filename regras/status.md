@@ -77,6 +77,16 @@ Defesas que exigem reação consciente, como Esquiva ou Aparo, não podem ser re
 
 A recuperação depende da causa da inconsciência.
 
+## Incapacitado
+
+O personagem está impossibilitado de agir normalmente por uma condição que o retirou de ação.
+
+Quando a causa é **Vida [0] ou negativa**, o personagem recebe Incapacitado pelo restante da Cena. Recuperar Vida acima de 0 não remove sozinho esse Status; é necessário um Poder ou efeito específico que o remova.
+
+Se um efeito remover Incapacitado enquanto a Vida do personagem continuar em **[0] ou negativa**, a própria condição de Vida continua impondo Incapacitado. Portanto, remover apenas o Status não permite agir enquanto sua causa ainda existir, salvo quando a descrição específica disser explicitamente que o personagem pode agir mesmo nessa condição.
+
+Outras fontes também podem aplicar Incapacitado conforme suas próprias descrições e condições de remoção.
+
 ## Paralisado
 
 O personagem está consciente, mas perdeu total ou parcialmente a capacidade de mover o corpo.
@@ -148,16 +158,17 @@ Isso não impede automaticamente o uso de Poderes. Apenas capacidades que realme
 7. **Surdo** — não consegue ouvir.
 8. **Envenenado** — sofre os efeitos contínuos de uma substância nociva.
 9. **Inconsciente** — não pode agir ou mover-se conscientemente.
-10. **Paralisado** — perdeu total ou parcialmente a capacidade de mover o corpo.
-11. **Amedrontado** — sofre medo intenso relacionado a uma fonte específica.
-12. **Fascinado** — atenção fortemente presa a uma fonte específica.
-13. **Confuso** — dificuldade para compreender ou interpretar corretamente a situação.
-14. **Desorientado** — perdeu referência espacial, direção ou equilíbrio.
-15. **Exausto** — sofre desgaste físico ou mental significativo.
-16. **Enjoado** — sofre náusea, vertigem ou mal-estar relevante.
-17. **Sangrando** — sofre perda contínua de sangue por um ferimento.
-18. **Queimando** — sofre um efeito contínuo de fogo ou equivalente.
-19. **Silenciado** — não consegue produzir os sons necessários para determinadas ações.
+10. **Incapacitado** — está retirado de ação por uma condição incapacitante; remover o Status não elimina uma causa que ainda permaneça ativa.
+11. **Paralisado** — perdeu total ou parcialmente a capacidade de mover o corpo.
+12. **Amedrontado** — sofre medo intenso relacionado a uma fonte específica.
+13. **Fascinado** — atenção fortemente presa a uma fonte específica.
+14. **Confuso** — dificuldade para compreender ou interpretar corretamente a situação.
+15. **Desorientado** — perdeu referência espacial, direção ou equilíbrio.
+16. **Exausto** — sofre desgaste físico ou mental significativo.
+17. **Enjoado** — sofre náusea, vertigem ou mal-estar relevante.
+18. **Sangrando** — sofre perda contínua de sangue por um ferimento.
+19. **Queimando** — sofre um efeito contínuo de fogo ou equivalente.
+20. **Silenciado** — não consegue produzir os sons necessários para determinadas ações.
 
 ## Regra de Interpretação
 
