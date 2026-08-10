@@ -81,20 +81,26 @@ Proteção é uma reserva separada da Vida que absorve dano antes dos PV.
 
 Uma Proteção só funciona contra ameaças às quais seja aplicável. Se não fizer sentido protegê-la daquele efeito, ela é ignorada.
 
-### Limite de Camadas
+### Camadas de Proteção
 
-Para cada natureza de defesa, existem no máximo **duas Proteções aplicáveis antes da Vida**.
+Para cada natureza de defesa, existem no máximo **duas camadas mecânicas de Proteção antes da Vida**:
 
-- **Corpo:** até duas camadas.
-- **Mente:** até duas camadas.
+1. **Barreira:** uma Proteção produzida por Poder, magia ou efeito equivalente.
+2. **Item:** uma Proteção produzida por equipamento usado pelo personagem.
 
-O nome ou a origem não cria uma terceira camada. **Armadura + Reforço** e **Armadura + Campo de Força** ocupam as mesmas duas posições mecânicas; muda apenas a narrativa.
+O **nome não determina a camada**. Reforço, Campo de Força, Escudo Arcano, Bumba Meu Boi ou qualquer outro nome podem representar a mesma camada de **Barreira** se sua função mecânica for criar uma Proteção externa por Poder ou magia.
 
-Poderes podem preencher uma camada que normalmente seria ocupada por item. Um personagem sem armadura pode criar uma armadura mágica e ainda usar outra Proteção externa, respeitando o limite de duas.
+Da mesma forma, armadura metálica, armadura de couro, traje tecnológico ou uma armadura criada magicamente ocupam a camada de **Item** quando funcionam como equipamento vestido pelo personagem.
 
-Quando mais de uma camada se aplica, o dano atravessa da mais externa para a mais interna. Como regra geral:
+Um personagem não utiliza duas armaduras ao mesmo tempo apenas porque uma delas é mágica. Se já estiver usando uma armadura de metal, uma magia que **invoca uma armadura** não cria uma terceira camada nem uma segunda camada de Item; ela só pode ocupar a camada de Item se substituir ou preencher uma camada que esteja livre.
 
-> **Poder/Magia → Item → Vida**
+Por outro lado, uma magia que cria uma **Barreira** pode coexistir com a armadura, pois ocupa a outra camada mecânica.
+
+Assim, a estrutura normal é:
+
+> **Barreira → Item → Vida**
+
+Se não houver Item, um Poder pode invocar um Item e preencher essa camada. Se não houver Barreira, apenas o Item protege antes da Vida. O nome, a origem ou a estética do efeito não criam novas camadas.
 
 Se o dano exceder uma camada, o restante passa para a próxima.
 
@@ -120,9 +126,9 @@ Quando a Proteção de uma armadura chega a **0**, ela deixa de absorver dano at
 
 ## Reforço
 
-Reforçar não é Curar nem Reparar. Ele acrescenta uma Proteção temporária que é consumida antes da Proteção normal e ocupa uma das duas camadas permitidas.
+Reforçar não é Curar nem Reparar. Quando sua descrição cria uma Proteção externa, ele funciona como **Barreira** e é consumido antes da camada de Item.
 
-Exemplo: Armadura 12 + Reforço 5 funciona como **Proteção 5 → Proteção 12 → Vida**.
+Exemplo: Armadura 12 + Reforço 5 funciona como **Barreira 5 → Item 12 → Vida**.
 
 ## Limite
 
