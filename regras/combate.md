@@ -116,15 +116,19 @@ Proteção serve para **Dano**. Ela não reduz Patamar, não impede automaticame
 
 Efeitos como **Gás Venenoso — Dano: Patamar; Ignora Proteção** atingem a Vida porque sua natureza contorna a armadura. Um item como **Máscara de Gás — Imune a Gases** impede o efeito por sua própria descrição.
 
-## Armaduras
+## Armaduras e Itens Defensivos
 
-Armaduras são Proteções de Item.
+Armaduras são Proteções de Item, mas **Proteção não pertence apenas a armaduras**. Qualquer item que possa realmente funcionar como defesa naquela situação pode possuir uma reserva de Proteção quando sua descrição, o cenário ou a própria situação assim determinar.
 
-| Armadura | Proteção |
+Os valores abaixo são apenas **referências de construção**, não valores universais obrigatórios:
+
+| Referência | Proteção |
 |---|---:|
-| Leve | 4 |
-| Média | 8 |
-| Pesada | 12 |
+| Armadura leve | 4 |
+| Armadura média | 8 |
+| Armadura pesada | 12 |
+
+O valor real depende do item e daquilo que ele representa. Uma mochila usada como defesa improvisada pode, por exemplo, oferecer **Proteção 2 ou 4**; um colete balístico pode possuir **Proteção 6**. Esses números não criam novas categorias: são exemplos de como a Proteção pode ser atribuída conforme a natureza do objeto e a escala adotada.
 
 Uma armadura comum protege normalmente contra dano Físico. Materiais, magia, tecnologia e efeitos especiais podem alterar contra quais ameaças ela funciona.
 
