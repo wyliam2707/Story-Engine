@@ -2,14 +2,16 @@
 
 ## Escala de Alcance
 
-O W4D utiliza categorias abstratas de alcance:
+O W4D utiliza categorias narrativas de alcance:
 
 - **Toque** — contato físico direto.
 - **Curto** — distância próxima dentro da cena.
-- **Médio** — distância intermediária de combate.
+- **Médio** — distância intermediária dentro da escala da cena.
 - **Longo** — distância significativa dentro da escala da cena.
 
-A distância concreta depende do cenário, da cena e do meio utilizado.
+Essas categorias são **conceitos narrativos**, não unidades de medida. Elas não correspondem a metros, quadrados, hexágonos ou faixas numéricas fixas.
+
+O W4D não exige que um cenário converta Toque, Curto, Médio ou Longo em distâncias concretas. A posição dos envolvidos, a natureza da cena e o meio utilizado determinam narrativamente o que cabe em cada categoria.
 
 ## Movimento
 
@@ -21,13 +23,13 @@ A distância concreta depende do cenário, da cena e do meio utilizado.
 
 Dentro da faixa normal, não há penalidade apenas pela distância.
 
-Próximo ao limite prático, a ação pode receber **Azar [1]**.
+Próximo ao limite prático do que aquela ação consegue alcançar na ficção, a ação pode receber **Azar [1]**.
 
-Além da faixa normal, mas ainda dentro da capacidade excepcional e plausível do meio utilizado, recebe **Azar [2]**.
+Além da faixa normal, mas ainda dentro de uma possibilidade excepcional e plausível para o meio utilizado, recebe **Azar [2]**.
 
 Além da capacidade real, a ação é impossível.
 
-Um rifle pode possuir alcance Longo na escala de combate e ainda realizar disparos excepcionais a centenas de metros ou distâncias próximas de 2 km, quando plausível, com Azar [2].
+Um rifle pode possuir alcance Longo e ainda tentar um disparo excepcional além do que normalmente seria considerado Longo naquela situação, quando a ficção sustentar essa possibilidade, com Azar [2]. Isso não cria uma nova faixa numérica nem exige medir a distância em metros.
 
 ## Corpo a Corpo e Arremesso
 
@@ -48,4 +50,4 @@ Sobrecargas de Magia podem ampliar a forma ou o alcance conforme as regras do ca
 
 ## Princípio
 
-> **A categoria fornece a escala mecânica; a narrativa, o cenário e o meio utilizado determinam o que é plausível dentro dela.**
+> **Alcance é uma linguagem narrativa de posição e distância, não uma régua em metros. A categoria indica a relação espacial; a ficção determina o que isso significa na cena.**
