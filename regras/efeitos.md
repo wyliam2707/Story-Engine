@@ -2,65 +2,44 @@
 
 ## Conceito
 
-Algumas ações e Poderes produzem efeitos que permanecem atuando por algum tempo, como Veneno, Atordoamento, Medo, Confusão, Queimadura, Sangramento e outros definidos pelo cenário.
+Efeitos descrevem condições que permanecem atuando por algum tempo. O **Patamar** é a régua universal de intensidade e duração quando a descrição do efeito assim determinar.
 
-O **Patamar do efeito** representa sua intensidade e, dentro de combate, também pode representar sua persistência.
+## Efeitos Iguais
 
-## Fora de Combate
+Efeitos iguais não se acumulam.
 
-Fora de combate, o Patamar por si só normalmente é suficiente para indicar a intensidade do efeito e criar uma brecha narrativa apropriada.
+> **O maior substitui o menor.**
 
-O Narrador interpreta a consequência conforme o contexto.
+Se um alvo possui Veneno [3] e recebe Veneno [5], passa para Veneno [5]. Se recebe Veneno [2], permanece com [3].
 
-## Dentro de Combate
+## Efeitos Opostos
 
-Dentro de combate, efeitos persistentes precisam ser acompanhados ao longo dos turnos.
-
-A cada turno, o personagem afetado escolhe **um único efeito persistente** e reduz seu Patamar em **1**.
-
-Os demais efeitos permanecem inalterados.
-
-Quando um efeito chega a Patamar 0, ele termina.
-
-## Intensidade e Consequência
-
-O Patamar não determina automaticamente uma consequência universal. Cada efeito define seu próprio comportamento.
+Efeitos narrativamente opostos se anulam por **Patamar × Patamar**.
 
 Exemplos:
 
-- **Veneno:** pode causar 1 de dano por turno enquanto persistir;
-- **Queimando:** pode causar dano conforme regra própria;
-- **Atordoamento:** pode variar de distração leve até incapacidade severa, conforme o Patamar.
+- Medo [4] × Coragem [2] = **Medo [2]**;
+- Coragem [4] × Medo [2] = **Coragem [2]**;
+- Luz [4] × Escuridão [4] = ambos anulados.
 
-Assim, o Patamar mede a intensidade e a persistência, enquanto a descrição do efeito define sua consequência mecânica e narrativa.
+O excedente do efeito vencedor permanece ativo. A mesma regra vale para dissipação, purificação, bênçãos, maldições e efeitos ambientais quando forem realmente opostos.
 
-## Acúmulo
+## Duração
 
-Efeitos iguais não se somam.
+A descrição informa a duração. Em efeitos que usam o Patamar como duração, **Duração = Patamar**.
 
-Se um personagem possui Veneno 3 e recebe Veneno 2, permanece com Veneno 3.
+A ficção pode encerrar um efeito antes. Se uma ação realmente elimina sua causa, o efeito termina ou é confrontado conforme a situação.
 
-Se recebe Veneno 5, passa para Veneno 5.
+## Incendiar
 
-Efeitos diferentes podem coexistir normalmente.
+> **Incendiar — Dano [1]; Duração igual ao Patamar; Confuso durante a duração.**
 
-## Purificação
+Incendiar representa o alvo em chamas. Além da mecânica descrita, o fogo produz consequências narrativas coerentes com sua natureza: pode iluminar, aquecer, incendiar objetos e interagir com o ambiente.
 
-Alguns cenários, Poderes ou habilidades podem permitir remover efeitos mais rapidamente.
+Descritores podem alterar essas possibilidades. **Fogo Fantasma**, por exemplo, pode funcionar como fogo sobrenatural, mas ser frio ao toque e não produzir luz ou calor.
 
-**Purificar não é uma ação básica universal.** Pode depender de Mana, Poder, tecnologia, regeneração ou outro recurso definido pelo cenário.
+## Narrativa e Patamar
 
-Quando disponível, pode usar:
+A descrição determina o que o efeito significa; o Patamar determina sua intensidade. Não é necessário criar uma regra diferente para cada cenário. Vampiros, anjos, psíquicos, tecnologia, magia e outras fontes podem usar a mesma mecânica com descrições diferentes.
 
-- **CON** contra efeitos físicos;
-- **VON** contra efeitos mentais.
-
-A ação confronta o Patamar atual do efeito. Uma margem positiva pode reduzir esse Patamar conforme a intensidade do resultado.
-
-A existência, o custo e as exceções de Purificação dependem do cenário.
-
-## Variação por Cenário
-
-Os nomes, consequências e exceções dos efeitos podem mudar bastante entre fantasia, terror, ficção científica, super-heróis e outros gêneros.
-
-A regra-base permanece a mesma, enquanto o cenário define os efeitos concretos disponíveis.
+> **A regra mede o efeito; a narrativa define o que ele é.**
