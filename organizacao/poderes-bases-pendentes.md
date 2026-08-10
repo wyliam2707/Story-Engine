@@ -195,6 +195,16 @@ Essa mudança não cria Dano adicional por si só. Ela altera o **tipo e/ou desc
 
 Esse princípio é compatível com a regra atual de Combate, que já permite que um efeito mude o tipo de Dano em vez de dividi-lo.
 
+### Efeitos iniciais de recuperação de Vida
+
+Foram separados três conceitos de Efeito relacionados à recuperação de Vida. A diferença principal entre eles é **de onde vem a recuperação e quem pode recebê-la**:
+
+- **Curar:** restaura a Vida de outro alvo por uma capacidade externa de cura, tratamento, energia, magia, poder divino ou manifestação equivalente. Não exige causar Dano para produzir a recuperação.
+- **Regenerar-se:** restaura a própria Vida do usuário por uma capacidade interna ou autocentrada. Como conceito, é um efeito de Alcance **Pessoal** e não se transforma automaticamente em Cura de terceiros.
+- **Vampirismo / Roubar Vida:** combina uma ação ofensiva contra outro alvo com recuperação de Vida para o usuário. A recuperação vem da Vida drenada do alvo, portanto depende de um efeito de roubo ou absorção em vez de uma cura independente.
+
+Os valores-base, Atributos, quantidade recuperada e relação exata entre Dano causado e Vida absorvida ainda precisam ser definidos individualmente antes de estes Efeitos serem fechados.
+
 ## Sobrecargas Gerais
 
 As **Sobrecargas** fazem parte da estrutura geral de Poderes e devem ficar separadas da descrição dos Efeitos. O Efeito define o que o Poder faz em sua forma-base; a Sobrecarga permite ampliar temporariamente essa forma mediante gasto de Mana.
@@ -203,7 +213,15 @@ As **Sobrecargas** fazem parte da estrutura geral de Poderes e devem ficar separ
 
 As Sobrecargas são escolhidas no momento do uso, antes da resolução do Poder. Um mesmo uso pode receber mais de uma Sobrecarga, pagando o custo de cada estágio aplicado.
 
-A antiga Sobrecarga genérica de **+1 no Patamar final** não faz parte desta nova estrutura. A ampliação deve ser específica: alcance, abrangência, dano, encantamento, duração ou outra propriedade definida.
+A antiga Sobrecarga genérica de **+1 no Patamar final** não faz parte desta nova estrutura. A ampliação deve ser específica: alcance, abrangência, dano, encantamento, duração, ativação ou outra propriedade definida.
+
+### Sobrecarga — Ativação
+
+Um Poder com **Ativação: Ritual** pode reduzir sua Ativação para **Ação** mediante uma Sobrecarga:
+
+- **Ritual → Ação:** +1 Mana.
+
+Essa Sobrecarga permite utilizar durante a dinâmica normal de um turno um Poder que, em sua forma-base, exigiria tempo ou preparação de Ritual. Ela modifica apenas a Ativação daquele uso.
 
 ### Sobrecarga — Alcance
 
@@ -257,7 +275,8 @@ A Sobrecarga de Duração altera apenas **quanto tempo o efeito permanece ativo*
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Efeito:** Cura, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
+- **Efeito:** Curar, Regenerar-se, Vampirismo/Roubar Vida, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
+- valores e funcionamento exatos dos Efeitos de recuperação de Vida;
 - possíveis limites ou exceções das demais Sobrecargas, caso sejam necessários.
 
 Essa lista ainda não deve ser considerada fechada até a Base de Efeito e as Sobrecargas serem revisadas individualmente.
