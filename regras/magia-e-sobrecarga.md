@@ -8,6 +8,24 @@ A magia é formulada **antes de qualquer teste**. O conjurador decide o efeito, 
 
 A Mana investida faz parte da formulação. Se o resultado for melhor ou pior que o esperado, o custo já foi assumido.
 
+## Custo de Mana
+
+Cada Poder possui um **custo-base de Mana** indicado em sua própria descrição. A maioria dos Poderes possui custo-base **0 ou 1**, embora efeitos específicos possam estabelecer outro valor quando necessário.
+
+O custo-base representa o Poder usado exatamente em sua formulação normal. Qualquer Sobrecarga escolhida acrescenta seu próprio custo de Mana à formulação.
+
+> **Custo final = custo-base do Poder + custos de todas as Sobrecargas escolhidas.**
+
+Um Poder de custo-base 0 continua podendo gerar custo de Mana quando recebe Sobrecargas.
+
+Exemplo:
+
+> **Cura — custo-base 1 Mana — Alcance: Toque — Forma: Alvo.**
+
+Usada em sua forma normal, custa **1 Mana**. Se o personagem ampliar o alcance de **Toque para Curto [+1 Mana]** e ampliar a forma de **Alvo para Próximos [+1 Mana]**, o custo final passa a ser **3 Mana**.
+
+Todas as alterações e a Mana total investida são declaradas durante a Formulação, antes do teste.
+
 ## Sobrecargas
 
 Sobrecargas diferentes podem ser combinadas na mesma formulação, desde que o personagem pague toda a Mana e respeite o limite específico de cada uma.
