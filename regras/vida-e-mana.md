@@ -43,8 +43,12 @@ Essas três formas de restaurar Vida não usam necessariamente o mesmo Atributo.
 
 Enquanto a Vida estiver **positiva**, a recuperação natural é rápida e segue Vigor.
 
-- **Descanso Curto [1 hora]:** VIG + Destino contra Patamar [0]; recupera Vida igual ao Patamar obtido, mínimo [1].
-- **Descanso Longo [8 horas]:** usa a mesma recuperação, multiplicada por 4.
+- **Descanso Curto [1 hora]:** VIG + Destino contra Patamar [0]; recupera Vida igual ao Patamar obtido, com **mínimo de 1 ponto recuperado**.
+- **Descanso Longo [8 horas]:** usa a mesma recuperação, aplicando primeiro o mínimo de 1 e depois multiplicando o valor recuperado por 4.
+
+O **mínimo [1] é um piso de recuperação**, não uma consequência negativa da rolagem. Se o resultado do teste for [0] ou negativo, o personagem ainda recupera **1 ponto de Vida** no Descanso Curto. Um resultado negativo nesse teste **não causa Dano** nem faz o descanso ferir o personagem; ele apenas não aumenta a recuperação acima do mínimo.
+
+Exemplo: um humano comum com **VIG [0]** obtém Destino **[-4]** durante a recuperação. Mesmo com esse resultado extremamente raro, o descanso ainda restaura **1 ponto de Vida**.
 
 Enquanto a Vida estiver em **[0] ou negativa**, o personagem entra em recuperação crítica e recupera naturalmente apenas **1 ponto de Vida por dia**, até chegar a [0].
 
@@ -52,8 +56,10 @@ Um tratamento adequado de Medicina durante esse período utiliza **SAB + Destino
 
 ## Recuperação de Mana
 
-- **Descanso Curto [1 hora]:** VON + Destino contra Patamar [0]; recupera Mana igual ao Patamar obtido, mínimo [1].
+- **Descanso Curto [1 hora]:** VON + Destino contra Patamar [0]; recupera Mana igual ao Patamar obtido, com **mínimo de 1 ponto recuperado**.
 - **Descanso Longo [8 horas]:** recupera **100% da Mana**.
+
+O mesmo princípio de mínimo se aplica à recuperação curta de Mana: resultado [0] ou negativo não reduz Mana e não transforma o descanso em perda de recurso; o personagem recupera pelo menos **1 ponto de Mana**.
 
 Itens e efeitos podem oferecer formas adicionais de recuperação, sempre respeitando o máximo. Exemplos: **Poção de Mana — recupera [X] Mana**; **Colar de Mana — recupera [1] Mana por hora**.
 
