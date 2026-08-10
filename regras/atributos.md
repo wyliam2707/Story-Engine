@@ -4,9 +4,23 @@
 
 O W4D utiliza **8 Atributos fundamentais e independentes**. Todos são medidos diretamente em **Patamar de 0 a 8**.
 
-- **Patamar 0** representa a base humana comum.
-- Valores progressivamente maiores representam capacidades extraordinárias.
-- **Patamar 8** representa o extremo da escala de Atributos, reservado a seres de escala universal.
+A escala dos Atributos representa **capacidade absoluta dentro da ficção**. O valor não mede apenas bônus mecânico: ele indica o tipo de feito que o personagem consegue realizar de maneira plausível naquele atributo.
+
+| Valor | Referência geral de capacidade |
+|---:|---|
+| **0** | Humano adulto médio |
+| **1** | Acima da média humana |
+| **2** | Máximo humano |
+| **3** | Sobre-humano |
+| **4** | Colossal |
+| **5** | Titânico / ápice sobre-humano |
+| **6** | Monumental |
+| **7** | Próximo dos limites do cenário |
+| **8** | Extremo possível daquele Atributo no universo |
+
+Essas referências valem para **todos os Atributos**, não apenas Força. Um valor [3] em AGI, INT, VON, SAB, CAR ou DES representa uma ruptura equivalente com o limite humano dentro da natureza daquele Atributo.
+
+Os exemplos concretos dependem do cenário. A escala descreve magnitude e capacidade, não uma unidade física rígida como quilogramas, quilômetros por hora ou QI.
 
 ## Atributos Físicos
 
@@ -28,19 +42,43 @@ O W4D utiliza **8 Atributos fundamentais e independentes**. Todos são medidos d
 
 ## Criação por Patamar de Cenário
 
-O cenário define a escala inicial dos personagens por meio de cinco Patamares de referência.
+O cenário define a **escala esperada dos protagonistas** por meio de cinco Patamares de referência. Esse Patamar determina os pontos iniciais de Atributo e o maior valor que um personagem pode possuir na criação.
 
-| Patamar | Pontos de Atributo | Limite inicial por Atributo | Referência aproximada |
+| Patamar | Pontos de Atributo | Limite inicial por Atributo | Escala típica da história |
 |---|---:|---:|---|
-| **I** | 4 | +1 | Terror / sobrevivência |
-| **II** | 8 | +2 | Aventura / personagens excepcionais |
-| **III** | 12 | +3 | Heroico / fantasia heroica |
-| **IV** | 16 | +4 | Super-humano / alta fantasia |
-| **V** | 20 | +5 | Titânico / épico |
+| **I** | 4 | +1 | Humano — terror, sobrevivência, investigação |
+| **II** | 8 | +2 | Heroico — especialistas e ápice humano |
+| **III** | 12 | +3 | Super-heróico — começam capacidades sobre-humanas |
+| **IV** | 16 | +4 | Colossal — grandes super-seres e monstros |
+| **V** | 20 | +5 | Titânico — ápice sobre-humano |
 
 Cada ponto gasto aumenta um Atributo em +1. O limite indica o maior valor inicial permitido por Atributo naquele Patamar de cenário.
 
-O gênero não é definido pelo Patamar: ele mede apenas a escala de poder dos personagens. Um cenário de terror pode usar Patamar III, assim como um cenário de super-heróis pode usar Patamar II.
+O Patamar de cenário não substitui a escala [0–8] dos Atributos. Ele apenas define **até onde os protagonistas normalmente começam**. Seres, ameaças e entidades podem possuir valores acima do limite inicial dos personagens quando isso fizer sentido.
+
+Em Patamar I, por exemplo, os personagens possuem apenas valores [0] e [1]: são adultos normais ou um pouco acima da média. Essa limitação produz naturalmente histórias em que ameaças sobre-humanas são perigosas, sendo especialmente apropriada para terror e sobrevivência.
+
+## Escala de Força e Carga
+
+A Força usa a mesma escala absoluta dos demais Atributos. A referência abaixo existe para ajudar o Narrador a interpretar **carga, levantamento, empurrão e esforço físico**, sem transformar o jogo em contabilidade de peso.
+
+| FOR | Escala | Referência narrativa de carga e força |
+|---:|---|---|
+| **[0]** | Humano médio | Mochilas, compras, móveis e cargas comuns; objetos pesados exigem esforço ou ajuda |
+| **[1]** | Humano excepcional | Cargas claramente pesadas ainda manejáveis por uma pessoa muito forte |
+| **[2]** | Máximo humano | Feitos no limite da capacidade humana possível |
+| **[3]** | Sobre-humano | Um carro pequeno pode ser carregado como uma mochila pesada; veículos e estruturas leves tornam-se manipuláveis |
+| **[4]** | Colossal | Veículos comuns deixam de representar carga significativa; caminhões e grandes massas entram na escala do personagem |
+| **[5]** | Titânico | Estruturas enormes e massas extraordinárias podem ser movimentadas ou transportadas |
+| **[6]** | Monumental | Cargas de escala estrutural tornam-se manejáveis |
+| **[7]** | Catastrófico | Feitos de força podem atingir escala catastrófica para o cenário |
+| **[8]** | Extremo | Os maiores feitos de força possíveis naquele universo |
+
+A tabela **não representa pesos exatos**. Carregar, levantar, arrastar, empurrar e sustentar não são a mesma tarefa. O Narrador compara a ação desejada com a escala de FOR e com as circunstâncias.
+
+- **Dentro da escala:** não exige teste.
+- **No limite da escala:** pode exigir teste de FOR quando houver incerteza ou consequência relevante.
+- **Claramente além da escala:** normalmente é impossível sem Poder, equipamento, ajuda ou circunstância que torne o feito plausível.
 
 ## Escolha do Atributo
 
