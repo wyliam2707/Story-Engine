@@ -38,24 +38,26 @@ Quando Dissipar supera o efeito, o efeito é removido. Qualquer excedente de Dis
 
 ## Refletir / Redirecionar
 
-**Refletir e Redirecionar são tratados como uma única Reação**, pois usam a mesma lógica de resolução. A diferença está apenas no destino escolhido para o efeito quando a Reação prevalece.
+**Refletir é uma Defesa Ativa usada como Reação.** Em vez de utilizar a defesa normal contra uma ameaça, o personagem emprega uma técnica, Poder, item ou outra capacidade capaz de enfrentar diretamente o efeito e transformá-lo em um contra-ataque quando prevalece.
 
-Quando o personagem é alvo de um efeito compatível, pode reagir substituindo a defesa original pelo Atributo indicado pela Reação.
+A capacidade de Refletir deve descrever **como funciona e contra quais ameaças pode ser usada**. Refletir não possui uma tabela própria de Atributos. A disputa usa os mesmos Atributos do restante do W4D, determinados pela natureza da ação e da resistência.
 
-As formas gerais são:
+Exemplos:
 
-- **Refletir [Efeitos Físicos] — VIG:** substitui a defesa original por **Vigor** contra um efeito físico compatível.
-- **Refletir [Efeitos Mentais] — VON:** substitui a defesa original por **Vontade** contra um efeito mental compatível.
+- **Punho Gentil — Refletir:** usa artes marciais para desviar ataques físicos compatíveis. O Atributo utilizado depende da forma concreta da disputa, conforme a descrição da técnica e a natureza do ataque.
+- **Contrafeitiço — Refletir:** enfrenta magia com magia. Um confronto direto de potência ou controle mágico pode usar **INT × INT**; uma manipulação mental continua sendo enfrentada conforme sua natureza, como **CAR × VON**.
 
-Depois da resolução da Reação, utiliza-se **Patamar × Patamar** para determinar quem sofre o efeito.
+A Reflexão é resolvida em **uma única disputa**. Não existe uma segunda rolagem depois da defesa.
 
-Se a Reação prevalecer, o personagem pode, conforme a descrição do Poder, **devolver o efeito à origem** ou **redirecioná-lo para outro alvo válido**. Não existe uma segunda mecânica de Redirecionar: é a mesma Reação, apenas com outro destino.
+- Se o ataque prevalece, o personagem que tentou Refletir sofre o efeito com o Patamar restante.
+- Em resultado **0**, o efeito é neutralizado e ninguém o sofre.
+- Se Refletir prevalece, o sucesso defensivo transforma-se em **contra-ataque**. O efeito original é devolvido ou redirecionado conforme a descrição da capacidade.
 
-Se o efeito prevalecer, o personagem que tentou Refletir/Redirecionar sofre o Patamar restante. Em empate, o efeito é anulado e ninguém o sofre.
+Quando devolvido ou redirecionado, o efeito mantém **suas propriedades originais** — dano, Status, descritores, duração e demais características — mas seu novo Patamar é determinado pelo resultado da Reflexão. A habilidade usada para Refletir participa normalmente da resolução e pode, portanto, fazer o efeito retornar com maior ou menor intensidade.
 
-Um efeito redirecionado passa a ameaçar um novo alvo. Se esse novo alvo possuir uma Reação compatível, poderá reagir normalmente, pois agora ele é o alvo do efeito.
+**Redirecionar** não é uma segunda mecânica: é uma forma de Reflexão em que o contra-ataque é enviado para outro alvo válido permitido pela descrição, em vez de necessariamente voltar à origem.
 
-Refletir/Redirecionar somente pode ser usado contra aquilo que sua descrição permitir. Descrições específicas podem criar outras formas e indicar outros Atributos quando necessário.
+Um efeito redirecionado passa a ameaçar um novo alvo. Se esse novo alvo possuir uma Reação compatível e ainda puder usá-la, poderá reagir normalmente, pois agora ele é o alvo do efeito.
 
 ## Interceptar
 
