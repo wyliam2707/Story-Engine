@@ -76,3 +76,70 @@ A decisão foi explicitada em:
 - `regras/patamar.md`.
 
 O arquivo `bestiario/referencia-de-patamar.md` já estava coerente com essa interpretação e não precisou ser alterado.
+
+---
+
+## D03 — Como o Narrador escolhe uma Dificuldade do mundo?
+
+**Status:** Resolvida.
+
+### Decisão
+
+A resolução distingue claramente **cenário passivo** de **oposição ativa**.
+
+#### Contra o cenário
+
+O personagem produz seu Patamar de Ação:
+
+> **Patamar da Ação = Atributo + Destino**
+
+A situação possui uma **Dificuldade em Patamar**, representando o grau atual da tarefa dentro das condições gerais da cena.
+
+> **Patamar do Resultado = Patamar da Ação − Dificuldade**
+
+A Dificuldade pode mudar quando a própria situação muda para todos os envolvidos. Chuva forte, pouca iluminação geral, terreno instável ou outras condições compartilhadas podem tornar a tarefa mais difícil ou mais fácil.
+
+A Dificuldade não precisa representar apenas a resistência física de um objeto. Ela representa a **dificuldade real da ação naquela situação**.
+
+#### Contra outro personagem
+
+Ambos os lados produzem seus próprios Patamares:
+
+> **Patamar da Ação = Atributo da Ação + Destino da Ação**
+
+> **Patamar da Resistência = Atributo da Resistência + Destino da Resistência**
+
+Depois:
+
+> **Patamar do Resultado = Patamar da Ação − Patamar da Resistência**
+
+O Patamar do Resultado indica **quem prevalece e em qual grau**.
+
+### Sorte, Azar e Dificuldade
+
+Foi consolidada a seguinte separação:
+
+> **A situação modifica a Dificuldade. Sorte e Azar modificam o personagem.**
+
+Condições gerais da cena alteram a Dificuldade para todos que enfrentam aquela situação.
+
+Condições individuais — como estar Cego, improvisar sem a ferramenta adequada, possuir uma Perícia aplicável ou utilizar equipamento excepcional — afetam especificamente a parada daquele personagem por Sorte ou Azar.
+
+Essa decisão substitui a formulação anterior segundo a qual circunstâncias externas prejudiciais gerariam automaticamente Azar para quem as sofre.
+
+### Faixa prática de incerteza
+
+Os quatro Dados de Destino variam matematicamente de **−4 a +4**, mas a maior parte dos resultados se concentra aproximadamente entre **−2 e +2**.
+
+Por isso, diferenças de até cerca de **2 Patamares** entre capacidade e Dificuldade formam a principal faixa prática de incerteza do sistema.
+
+Isso é uma **referência de julgamento**, não um limite rígido. Valores mais extremos ainda podem ser rolados quando a ficção sustentar uma possibilidade real. Porém, quando a Dificuldade está muito acima da capacidade do personagem, o Narrador deve avaliar se ainda existe uma chance significativa ou se oferecer a rolagem seria apenas uma ilusão de possibilidade.
+
+Da mesma forma, tarefas muito abaixo da capacidade, sem pressão ou consequência relevante, normalmente não precisam de teste.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/testes-e-resolucoes.md`;
+- `regras/turnos-e-acoes.md`.
