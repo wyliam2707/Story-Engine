@@ -56,7 +56,7 @@ Exemplos incluem distrair, provocar, fintar, jogar areia nos olhos, bloquear a v
 
 A ação é resolvida com os Atributos e Perícias coerentes com a situação. Uma provocação para desviar a atenção de um adversário, por exemplo, pode resultar em **CAR contra VON**, caso esses sejam os Atributos adequados à narrativa.
 
-Quando a vantagem consiste em atrapalhar o alvo:
+Quando a vantagem consiste em atrapalhar **um alvo específico**:
 
 - sucesso de Patamar **[1] ou [2]** pode gerar **Azar [1]**;
 - sucesso de Patamar **[3]+** pode gerar **Azar [2]**.
@@ -67,9 +67,15 @@ Patamares elevados aumentam a intensidade e a magnitude da consequência, mas n�
 
 ## Princípio Universal de Vantagem e Dificuldade
 
-> **Você é melhor naquilo que faz: melhora sua própria parada. Algo está atrapalhando você: você recebe Azar. Você atrapalhou alguém: esse alvo recebe Azar.**
+> **Sorte e Azar modificam o personagem. Condições gerais modificam a dificuldade da situação.**
 
-Perícias, Poderes, treinamento e capacidades próprias melhoram a parada de quem age ou se defende quando forem aplicáveis. Circunstâncias externas prejudiciais geram **Azar para quem sofre a dificuldade**.
+Perícias, Poderes, treinamento, condições pessoais e capacidades próprias podem melhorar ou piorar a parada de quem age ou se defende quando forem aplicáveis.
+
+Circunstâncias que pertencem especificamente a um personagem — como estar Cego, improvisar sem a ferramenta adequada ou sofrer uma condição individual relevante — podem gerar **Azar** para ele.
+
+Circunstâncias gerais que alteram a tarefa para todos os envolvidos — como chuva forte, pouca iluminação geral, terreno instável ou condições ambientais semelhantes — modificam a **Dificuldade da situação**, conforme as regras de Testes e Resoluções.
+
+Se um personagem usa uma Ação para criar uma condição que prejudica especificamente outro personagem, o efeito pode gerar Azar para esse alvo conforme a própria resolução da vantagem.
 
 ## O Patamar como Base das Ações
 
