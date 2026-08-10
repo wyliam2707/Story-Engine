@@ -108,6 +108,16 @@ A presença dos Poderes antes desta etapa permite que o jogador saiba quais Per�
 
 A relação exata entre cada Poder, fonte, tradição e Perícia de Poder continuará dependendo das definições do cenário e do futuro aprofundamento do capítulo de Poderes.
 
+### Coerência com o conceito
+
+A escolha das Perícias é mecanicamente livre dentro dos pontos, custos e acessos permitidos. A história do personagem deve servir como referência de bom senso, mas não existe uma mecânica que obrigue determinada Perícia por causa de profissão, passado ou descrição narrativa.
+
+Quando a ficha e a história entrarem em contradição evidente, cabe principalmente ao **Narrador conversar com o jogador e apontar a incoerência**, em vez de o sistema criar penalidades automáticas para corrigi-la.
+
+Exemplo: um personagem pode se descrever como um cirurgião veterano, mas uma ficha sem qualquer investimento em Medicina ou conhecimento relacionado pode não representar bem essa história. O papel da regra é permitir a construção; o papel da mesa é preservar a coerência do personagem com bom senso.
+
+> **A ficha não precisa ser policiada por uma mecânica de coerência. O Narrador ajuda o jogador a fazer a ficha representar a história escolhida.**
+
 ## Ainda em revisão
 
 As próximas decisões do fluxo de criação serão analisadas uma por vez. A ordem final ainda não está consolidada.
