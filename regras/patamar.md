@@ -2,12 +2,39 @@
 
 ## Regra Fundamental
 
-O **Patamar** é a escala universal do W4D. Ele é a base do sistema e serve para representar a intensidade de tudo que possa ser medido mecanicamente, como atributos, sorte, dificuldades, resistências, dano, proteção, poderes e efeitos.
+O **Patamar** é a escala universal de **magnitude** do W4D. Ele é a principal régua usada para medir capacidades, dificuldades, Resistências, resultados e Efeitos quando essas grandezas são expressas diretamente na escala do sistema.
 
 A escala básica de Patamar vai de **0 a 8**.
 
 - **Patamar 0** representa a base humana comum.
-- **Patamar 8** representa o extremo da escala, reservado a capacidades de nível universal.
+- **Patamar 8** representa o extremo da escala, reservado às maiores magnitudes possíveis dentro da natureza daquilo que está sendo medido.
+
+> **Patamar não é o nome genérico para todo número existente no W4D.**
+
+Algumas grandezas são medidas diretamente em Patamar, como:
+
+- Atributos;
+- dificuldades e Resistências fixas;
+- resultados de disputas;
+- Efeitos cuja descrição determine que sua intensidade é medida em Patamar.
+
+Outras grandezas podem ser **calculadas a partir de um Patamar sem serem Patamares**. Dano, Proteção, Vida, Mana e outros valores derivados seguem suas próprias regras e podem ultrapassar [8] quando a mecânica correspondente permitir.
+
+Da mesma forma, **Sorte e Azar não são Patamares**. Eles possuem graus próprios, usados para modificar a mão de Dados de Destino conforme suas regras específicas.
+
+Um **Poder** também não precisa possuir um Patamar próprio. O Poder determina o que é possível fazer; quando uma resolução for necessária, a ação produz um Patamar e a descrição do Poder determina como esse resultado se converte em efeito.
+
+### Exemplos de Terminologia
+
+- **FOR [3]** — um Atributo em Patamar [3].
+- **Resistência [4]** — uma Resistência fixa em Patamar [4].
+- **Resultado [+5]** — a Ação prevaleceu em Patamar [5].
+- **Katana — Dano [+2]** — [+2] é um modificador de Dano, não Patamar [2].
+- **Dano final 7** — é um valor de Dano, não Patamar [7].
+- **Armadura — Proteção 12** — é uma reserva de Proteção, não Patamar [12].
+- **Sorte [2]** — é Grau de Sorte [2], não Patamar [2].
+
+A notação pode utilizar colchetes em diferentes mecânicas por conveniência visual. O **nome da grandeza** determina qual regra está sendo usada.
 
 ## Escala de Patamar
 
@@ -26,6 +53,8 @@ A escala básica de Patamar vai de **0 a 8**.
 ## Patamar de Cenário
 
 Além da escala universal de resultados, o Narrador escolhe um **Patamar de Cenário [I–V]** para definir a escala inicial dos protagonistas.
+
+O **Patamar de Cenário é uma classificação de escala do cenário**, escrita em algarismos romanos. Ele não é um resultado de teste e não substitui a escala universal de Patamar [0–8].
 
 Esse Patamar não cria uma segunda física nem substitui os Atributos [0–8]. Ele determina apenas os **pontos iniciais de Atributo** e o **maior valor inicial permitido por Atributo**.
 
