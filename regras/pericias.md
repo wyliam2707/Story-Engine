@@ -36,10 +36,11 @@ Uma Perícia pode melhorar um Poder ou outra capacidade quando o **próprio pers
 
 A Sinergia concede **Sorte conforme o grau da Perícia**, até o máximo geral de **Sorte [2]**.
 
-Exemplo com o Poder Cura:
+Exemplo com Cura e Medicina:
 
-- **Magia Branca [1]** pode melhorar Cura em combate, concedendo Sorte [1], porque é uma Perícia de Poder/Combate aplicável naquele momento.
-- **Medicina [2]** pode melhorar Cura fora de combate, concedendo Sorte [2], quando houver tempo para examinar, tratar, suturar, operar ou aplicar medicamentos.
+- **Magia Branca [1]** pode melhorar um Poder de Cura em combate, concedendo Sorte [1], porque é uma Perícia de Poder/Combate aplicável naquele momento.
+- **Medicina [1] ou [2]** pode melhorar um **Tratamento Médico durante um descanso**, concedendo Sorte conforme seu grau. O tratamento utiliza **SAB + Destino** quando uma resolução for necessária.
+- **Medicina** também pode melhorar um Poder de Cura fora de combate quando houver tempo e condições para aplicar conhecimento médico de forma real à execução, como examinar, tratar, suturar, operar ou administrar medicamentos.
 
 Medicina não pode ser usada como Sinergia de uma Cura de combate apenas porque é conceitualmente relacionada. A Perícia precisa ser realmente utilizável naquela situação.
 
