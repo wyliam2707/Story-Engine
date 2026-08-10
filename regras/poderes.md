@@ -21,13 +21,17 @@ Um **Poder não recebe automaticamente um Patamar próprio** apenas por existir.
 
 ## Resistência
 
-A Resistência depende da natureza do efeito. Exemplos:
+A Resistência depende da natureza do efeito. Quando uma oposição ativa é escrita de forma abreviada, usa-se a ordem **Ação − Resistência**.
 
-- lança de energia: INT × AGI;
-- gás venenoso: INT × VIG;
-- ataque mental: INT × VON;
-- manipulação: CAR × VON;
-- ilusão: CAR × SAB.
+Exemplos:
+
+- lança de energia: **INT − AGI**;
+- gás venenoso: **INT − VIG**;
+- ataque mental: **INT − VON**;
+- manipulação: **CAR − VON**;
+- ilusão: **CAR − SAB**.
+
+Essa notação não elimina os Dados de Destino. Quando ambos os lados participam ativamente, cada lado acrescenta seu próprio Destino e a diferença produz o Patamar do Resultado.
 
 ## Cura
 
