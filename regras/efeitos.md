@@ -36,6 +36,19 @@ Exemplos:
 
 Quando Dissipar supera o efeito, o efeito é removido. Qualquer excedente de Dissipar não produz outro efeito, salvo se a descrição específica disser o contrário.
 
+## Reflexão
+
+**Refletir é uma Reação.** Quando o personagem é alvo de um efeito compatível com sua Reflexão, pode reagir substituindo a defesa original pelo Atributo indicado pela Reflexão.
+
+As formas gerais são:
+
+- **Refletir [Efeitos Físicos] — VIG:** substitui a defesa original por **Vigor** contra um efeito físico compatível.
+- **Refletir [Efeitos Mentais] — VON:** substitui a defesa original por **Vontade** contra um efeito mental compatível.
+
+Depois da resolução da Reação, utiliza-se **Patamar × Patamar** para determinar quem sofre o efeito. O lado que prevalecer aplica o Patamar restante ao lado derrotado. Em empate, o efeito é anulado e ninguém o sofre.
+
+Refletir somente pode ser usado contra aquilo que sua descrição permitir. Descrições específicas podem criar outras formas de Reflexão e indicar outros Atributos quando necessário.
+
 ## Imunidade
 
 **Imunidade impede exatamente aquilo que sua descrição declara impedir.** Não existe um pacote automático de efeitos associado à palavra Imunidade.
