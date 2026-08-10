@@ -63,6 +63,10 @@ Todo personagem começa com as 12 Perícias Gerais em [0]: Animais, Ciência, Cr
 
 > **Pontos de Perícia = (Patamar de Cenário × 4) + INT**
 
+Os **Pontos de Perícia formam um único orçamento**. O personagem pode distribuí-los entre **Perícias Gerais, Perícias de Combate e Perícias de Poder** às quais tenha acesso, pagando o custo correspondente a cada categoria.
+
+Os custos diferentes não criam reservas separadas de pontos: todos são pagos a partir do mesmo total de Pontos de Perícia.
+
 Perícia Geral [1] custa 1 ponto. Perícia Geral [2] custa 3 pontos no total.
 
 # Perícias de Combate
