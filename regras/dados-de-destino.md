@@ -102,7 +102,3 @@ Exemplo:
 Depois de confrontar Ação e Resistência, a diferença produz o **Patamar do resultado** conforme as regras de Testes e Resoluções.
 
 Assim, Destino, Sorte e Azar modificam a resolução; **Patamar mede a magnitude final quando a regra correspondente o utiliza**.
-
-## Estado da Regra
-
-Esta é a regra-base atualmente adotada para os Dados de Destino e sua interação com Patamar, Sorte, Azar, Perícias e Testes segue as regras gerais atualmente estabelecidas no W4D.
