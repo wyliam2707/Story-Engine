@@ -12,13 +12,21 @@ Ataques à distância ou de precisão usam:
 
 Cada lado acrescenta seus próprios Dados de Destino quando a oposição é ativa.
 
-## Defesa e Reação
+## Defesa
 
 **AGI** é a defesa física padrão quando a ameaça pode ser evitada por movimento.
 
-Uma Reação pode substituir o Atributo usado na Resistência quando a resposta narrada fizer sentido. Essa substituição vale apenas contra aquela ação. Exemplo: bloquear um golpe com escudo pode permitir **FOR** contra aquele ataque; contra um disparo posterior, a defesa volta normalmente a **AGI**.
+Defender-se normalmente **não consome Reação**. Esquivar, aparar ou resistir fazem parte da própria resolução da disputa.
 
-Reação não concede Ação Extra.
+A defesa padrão só muda quando uma **regra, Item, Poder, técnica ou capacidade específica** declarar que outro Atributo pode substituir a defesa normal naquela situação.
+
+Exemplo:
+
+> **Escudo — Bloqueio:** contra ataques físicos compatíveis, permite usar **FOR** no lugar de **AGI** como Resistência.
+
+Essa substituição de Atributo, por si só, não consome Reação. Ela apenas altera qual Atributo é usado na defesa conforme a descrição da capacidade.
+
+Uma capacidade só consome a **Reação** do personagem quando sua própria regra ou descrição disser que ela é usada como Reação, como Refletir/Redirecionar ou Interceptar.
 
 ## Patamar do Ataque
 
