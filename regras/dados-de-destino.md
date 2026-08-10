@@ -44,6 +44,10 @@ O **Destino é +1**.
 
 Sorte e Azar modificam a quantidade de Dados de Destino rolados, mas o resultado final continua sendo formado por **quatro dados**.
 
+> **Sorte e Azar possuem Graus próprios. Eles não são Patamares.**
+
+Assim, **Sorte [2]** significa Grau de Sorte [2], e não Patamar [2]. O uso de colchetes serve apenas para indicar o valor daquela mecânica; sua interpretação vem do nome da grandeza.
+
 ### Sorte
 
 Cada nível de **Sorte** adiciona um dado à mão. Depois da rolagem, conservam-se os **quatro melhores resultados**.
@@ -87,6 +91,18 @@ Somente depois do cancelamento aplica-se o limite da rolagem: o valor efetivamen
 
 Portanto, mesmo quando existirem fontes acumuladas acima de [2], a mão de Dados de Destino possui máximo absoluto de **6 dados**.
 
+## Relação com Patamar
+
+Os Dados de Destino participam do cálculo de uma Ação ou Resistência, mas o valor de Destino obtido **não é, por si só, o Patamar final da ação**.
+
+Exemplo:
+
+> **Ação = Atributo + Destino**
+
+Depois de confrontar Ação e Resistência, a diferença produz o **Patamar do resultado** conforme as regras de Testes e Resoluções.
+
+Assim, Destino, Sorte e Azar modificam a resolução; **Patamar mede a magnitude final quando a regra correspondente o utiliza**.
+
 ## Estado da Regra
 
-Esta é a regra-base atualmente adotada para os Dados de Destino. Sua interação detalhada com o Patamar e outras mecânicas será definida conforme o desenvolvimento do sistema avançar.
+Esta é a regra-base atualmente adotada para os Dados de Destino e sua interação com Patamar, Sorte, Azar, Perícias e Testes segue as regras gerais atualmente estabelecidas no W4D.
