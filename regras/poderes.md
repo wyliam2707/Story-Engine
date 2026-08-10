@@ -31,13 +31,33 @@ A Resistência depende da natureza do efeito. Exemplos:
 
 ## Cura
 
+Um **Poder de Cura** capaz de restaurar a Vida de outros personagens utiliza **SAB**.
+
 Quando não enfrenta Resistência ativa:
 
-> **Cura = SAB + Destino × Patamar [0]**
+> **Patamar da Ação = SAB + Destino**
+
+> **Dificuldade = Patamar [0]**
+
+> **Patamar do Resultado = Patamar da Ação − Dificuldade**
 
 O Patamar positivo obtido restaura a mesma quantidade de Vida. Resultado 0 ou negativo restaura 0.
 
 A Cura pode receber Sinergia de Perícias compatíveis do próprio personagem quando elas puderem ser realmente aplicadas naquela situação.
+
+## Regeneração
+
+Um efeito definido como **Regeneração** e restrito ao próprio personagem representa a capacidade do próprio corpo de se recompor e utiliza **VIG** quando uma resolução for necessária.
+
+Quando não enfrenta Resistência ativa:
+
+> **Patamar da Ação = VIG + Destino**
+
+> **Dificuldade = Patamar [0]**
+
+O Patamar positivo obtido determina a Vida restaurada conforme a descrição do efeito.
+
+Regeneração pessoal não transforma VIG em Atributo geral de Cura: Poderes capazes de curar outros personagens continuam usando **SAB**.
 
 ## Proteção
 
