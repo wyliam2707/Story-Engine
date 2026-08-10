@@ -47,9 +47,13 @@ O limite só é aplicado depois de calcular completamente os valores dos dois la
 | Arma média | +1 |
 | Arma grande | +2 |
 
+O valor indicado na arma é um **modificador de Dano**, não um Patamar. Assim, **Dano [+2]** não significa Patamar [2].
+
 Não existe, por regra-base, uma segunda rolagem de dano.
 
 O **Dano final é um valor derivado**, não um Patamar. Por isso, pode ultrapassar [8] quando modificadores ou efeitos assim determinarem.
+
+Exemplo: um acerto em Patamar [5] com uma arma de Dano [+2] produz **Dano final 7**. Esse valor é **Dano 7**, e não Patamar [7].
 
 ### Resistência e Vulnerabilidade no Dano
 
@@ -78,6 +82,8 @@ Descritores possuem consequências narrativas naturais. Fogo pode iluminar, aque
 ## Proteção
 
 Proteção é uma reserva separada da Vida que absorve dano antes dos PV.
+
+**Proteção é um valor próprio, não um Patamar.** Uma Proteção 12 representa uma reserva de 12 pontos de Proteção; não existe Patamar [12]. Como valor derivado, Proteção pode ultrapassar [8] quando uma regra ou efeito assim determinar.
 
 Uma Proteção só funciona contra ameaças às quais seja aplicável. Se não fizer sentido protegê-la daquele efeito, ela é ignorada.
 
