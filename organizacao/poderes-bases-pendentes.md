@@ -42,21 +42,56 @@ O personagem adquire Poderes específicos dentre aqueles disponíveis nas Catego
 
 O capítulo de criação não precisa escrever todas essas possibilidades antecipadamente. Ele deve fornecer uma estrutura suficientemente clara para que Narradores, jogadores e cenários possam construir novos Poderes mantendo compatibilidade com as regras do W4D.
 
-## Estrutura indicada
+## Descrição narrativa
 
-Cada Poder deverá possuir propriedades próprias em vez de depender de padrões universais implícitos.
+Todo Poder deve possuir uma **descrição narrativa** que explique o que ele é e como se manifesta na ficção.
 
-Entre as bases a desenvolver estão:
+A descrição vem antes das bases mecânicas e serve para orientar sua interpretação no mundo.
 
-- **Alcance:** exemplos já existentes incluem Toque, Curto, Médio e Longo.
-- **Ativação:** por exemplo, Ação, além de outras formas que venham a ser definidas.
-- **Alvo:** exemplos a desenvolver incluem Alvo, Próximo e Área.
-- **Duração:** exemplos discutidos incluem Instante, Cena, Ciclo [4 horas] e Dia [24 horas], além de outras durações que a estrutura venha a exigir.
-- outras propriedades necessárias para construir Poderes de maneira consistente.
+Exemplo:
 
-Exemplo conceitual discutido para um Poder de dano direto:
+> **Disparo de Energia:** dispara um feixe de energia bruta ou elemental contra um alvo.
 
-> **Alcance: Médio; Ativação: Ação; Alvo: Alvo; Duração: Instante.**
+A descrição não substitui as regras, mas determina a natureza da manifestação. As bases mecânicas explicam como essa manifestação funciona no jogo.
+
+## Bases Universais do Poder
+
+Ao construir um Poder, o criador verifica um pequeno conjunto de **Bases Universais**. Elas formam um molde comum para organizar Poderes diferentes sem obrigar todos a funcionarem do mesmo modo.
+
+As bases iniciais a desenvolver são:
+
+- **Ativação:** como o Poder é usado;
+- **Alcance:** até onde o Poder pode atuar;
+- **Alvo/Área:** quem ou o que pode ser afetado e de que forma;
+- **Duração:** por quanto tempo o Poder ou seu efeito permanece ativo;
+- **Efeito:** o que o Poder efetivamente produz mecanicamente, como Dano, Cura, Proteção, Movimento, alteração de Atributo, criação, invocação ou outra capacidade.
+
+Nem toda Base precisa produzir um valor relevante em todo Poder. Quando uma Base não fizer sentido para aquela capacidade, ela poderá ser tratada como **não aplicável** em vez de forçar uma regra desnecessária.
+
+Um Poder também pode exigir bases adicionais específicas quando sua natureza precisar delas.
+
+Exemplo conceitual:
+
+> **Disparo de Energia**  
+> Descrição: dispara um feixe de energia bruta ou elemental.  
+> **Ativação:** Ação  
+> **Alcance:** Médio  
+> **Alvo/Área:** Alvo  
+> **Efeito:** Dano [a definir pela estrutura]  
+> **Duração:** Instante
+
+> **Todo Poder possui uma descrição narrativa e apenas as bases mecânicas necessárias para explicar como ele funciona.**
+
+## Bases já discutidas
+
+Entre os conceitos que já possuem referências no sistema ou foram discutidos anteriormente estão:
+
+- **Alcance:** Toque, Curto, Médio e Longo;
+- **Ativação:** Ação, além de outras formas que venham a ser definidas;
+- **Alvo/Área:** exemplos a desenvolver incluem Alvo, Próximo e Área;
+- **Duração:** Instante, Cena, Ciclo [4 horas], Dia [24 horas] e outras durações que a estrutura venha a exigir.
+
+Essas listas ainda não devem ser consideradas fechadas até cada Base ser revisada individualmente.
 
 ## Persistência no cenário
 
