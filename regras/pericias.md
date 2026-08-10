@@ -4,11 +4,13 @@ Perícias representam grandes áreas de atuação, experiência e treinamento. E
 
 ## Graus de Perícia
 
-- **[0] — Básico:** conhecimento comum; não concede Dado de Destino adicional.
-- **[1] — Treinado:** concede +1 Dado de Destino quando aplicável.
-- **[2] — Especialista:** concede +2 Dados de Destino quando aplicável.
+- **[0] — Básico:** conhecimento comum; não concede Sorte.
+- **[1] — Treinado:** concede **Sorte [1]** quando aplicável.
+- **[2] — Especialista:** concede **Sorte [2]** quando aplicável.
 
-Os Dados concedidos por Perícia respeitam o limite geral de Dados de Destino.
+A Sorte concedida por Perícia usa exatamente a regra geral de **Sorte e Azar** dos Dados de Destino. Perícia não cria um tipo separado de dado.
+
+O limite geral continua sendo **Sorte [2]** ou **Azar [2]**, para uma mão máxima de **6 Dados de Destino**.
 
 ## Princípio Universal
 
@@ -32,7 +34,7 @@ Medicina, Ofícios e outras Perícias gerais não são usadas para executar aç�
 
 Uma Perícia pode melhorar um Poder ou outra capacidade quando o **próprio personagem** consegue aplicar aquele conhecimento de forma real e coerente à execução.
 
-A Sinergia concede Dados de Sorte conforme o grau da Perícia, até o máximo geral de **Sorte [2]**.
+A Sinergia concede **Sorte conforme o grau da Perícia**, até o máximo geral de **Sorte [2]**.
 
 Exemplo com o Poder Cura:
 
@@ -80,4 +82,4 @@ Ao adquirir o primeiro Poder de uma fonte ou tradição, o personagem pode receb
 
 Perícias de Poder seguem o custo das Perícias de Combate e representam domínio pessoal na manifestação dos Poderes.
 
-> **O Poder determina o que é possível. O Atributo determina o Patamar base. A Perícia melhora os Dados de Destino quando aplicável.**
+> **O Poder determina o que é possível. O Atributo determina o Patamar base. A Perícia concede Sorte quando aplicável.**
