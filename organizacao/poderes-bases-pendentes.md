@@ -165,11 +165,45 @@ Quando um Poder possui uma característica permanente ou contínua por sua próp
 
 Da mesma forma, a Duração descreve o tempo do efeito mecânico quando ele realmente possui começo e fim definidos. Ela não substitui a descrição narrativa da natureza do Poder.
 
+## Base — Efeito
+
+A Base **Efeito** descreve o resultado mecânico principal produzido pelo Poder. Os Efeitos terão nomes próprios e funcionarão como peças de construção que podem ser reutilizadas em Poderes narrativamente diferentes.
+
+O nome e a descrição do Poder continuam livres. Assim, **Rifle Arcano**, **Arma Mágica**, **Rajada Infernal** ou outras capacidades podem utilizar a mesma base mecânica quando produzirem resultados equivalentes.
+
+### Efeitos iniciais de Dano
+
+Como ponto de partida, o Dano direto está sendo separado em três bases:
+
+- **Dano Físico Corpo a Corpo:** permite causar Dano Físico em combate corpo a corpo. Como base, o Dano causado é igual ao Patamar positivo do acerto, sem bônus próprio de Dano e sem custo de Mana por essa base.
+- **Dano Físico à Distância:** permite causar Dano Físico à distância. Como base, o Dano causado é igual ao Patamar positivo do acerto, sem bônus próprio de Dano e sem custo de Mana por essa base.
+- **Dano Mágico:** permite causar Dano Mágico por uma manifestação sobrenatural. Como base, o Dano causado é igual ao Patamar positivo do acerto, sem bônus próprio de Dano e sem custo de Mana por essa base.
+
+O Alcance concreto de cada Poder continua sendo definido por sua própria Base de Alcance. Para estas formas de Dano, a construção discutida até aqui trabalha normalmente entre **Toque e Médio**, conforme a manifestação.
+
+Essas três bases representam o ataque simples. Bônus de Dano, Área, efeitos secundários e outras vantagens devem ser tratados separadamente quando a estrutura correspondente for definida.
+
+### Alteração da natureza do Dano
+
+Um Poder ou efeito também pode **mudar a natureza do Dano** em vez de simplesmente aumentar seu valor.
+
+A própria descrição informa essa conversão quando ela fizer parte da capacidade. Por exemplo:
+
+> **Arma Mágica:** enquanto o efeito estiver ativo, o Dano Físico (Concussivo) da arma passa a ser tratado como Dano Mágico.
+
+Essa mudança não cria Dano adicional por si só. Ela altera o **tipo e/ou descritor** do Dano conforme a descrição, preservando a regra já existente de que a natureza do Dano determina quais Proteções, Resistências, Vulnerabilidades, imunidades e consequências narrativas podem interagir com ele.
+
+Esse princípio é compatível com a regra atual de Combate, que já permite que um efeito mude o tipo de Dano em vez de dividi-lo.
+
+### Amplificação de Dano — pendente
+
+Também foi levantada a necessidade de um Efeito capaz de **ampliar o Dano** causado pelo próprio personagem ou por outros alvos, funcionando como um reforço ou buff ofensivo. A forma exata do bônus, custo e interação ainda precisa ser definida antes de ser fechada.
+
 ## Bases ainda em desenvolvimento
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Efeito:** Dano, Cura, Proteção, Movimento, alteração de Atributo, criação, invocação e outras formas de manifestação mecânica.
+- **Efeito:** Cura, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação, amplificação de Dano e outras formas de manifestação mecânica.
 
 Essa lista ainda não deve ser considerada fechada até a Base de Efeito ser revisada individualmente.
 
