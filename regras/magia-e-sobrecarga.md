@@ -55,6 +55,16 @@ As Sobrecargas são regras gerais do capítulo de Magia e não precisam ser repe
 
 Como regra-base, **Área, Cone, Linha e Aura possuem alcance Curto**.
 
+### Efeitos com Múltiplos Alvos
+
+Quando uma única Ação produz um efeito que ameaça vários alvos, o usuário realiza **uma única rolagem de Ação** para aquela manifestação.
+
+Cada alvo afetado realiza sua **própria Resistência** contra o mesmo resultado da Ação. Assim, uma única Área, Cone, Linha, Aura ou outro efeito coletivo pode produzir Patamares finais diferentes para cada personagem atingido.
+
+Exemplo: um mago com **INT 4** obtém **Destino +2**, formando resultado 6 para sua Ação. Esse mesmo resultado é confrontado separadamente pela Resistência de cada alvo dentro do efeito. Um alvo pode evitar completamente a magia, enquanto outro pode sofrê-la em Patamar elevado.
+
+Circunstâncias, Sorte, Azar, capacidades defensivas e demais condições de cada alvo continuam sendo consideradas individualmente em sua própria Resistência.
+
 ## Duração
 
 Poderes e Magias podem possuir as durações **Instante, Patamar, Cena ou Sustentado**.
