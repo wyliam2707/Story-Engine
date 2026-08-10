@@ -1,5 +1,47 @@
 # Equipamentos e Fabricação
 
+## Inventário e Equipamento Cotidiano
+
+O W4D não usa contabilidade rígida de peso ou espaços de inventário para o equipamento cotidiano.
+
+A pergunta-base é:
+
+> **O que uma pessoa normal, naquele cenário e naquela situação, carregaria consigo de forma prática?**
+
+Roupas, armadura, joias, uma ou duas armas quando isso for coerente com o cenário, objetos nos bolsos e uma pequena bolsa fazem parte do equipamento normal de um personagem.
+
+Carregar mais exige uma forma plausível de transporte: mochila, bolsa maior, alforje, carrinho, montaria, veículo ou equivalente.
+
+Nada impede um personagem de andar abarrotado de objetos. A consequência é narrativa: volume, peso, ruído e aparência podem atrapalhar Movimento, escalada, furtividade, passagem por espaços estreitos ou interação social. Quando ainda for possível agir, essas circunstâncias podem gerar **Azar**. Quando a carga tornar a ação fisicamente impossível, não há teste que a torne possível.
+
+Mochilas e recipientes **não aumentam a Força** do personagem; apenas permitem organizar e transportar mais coisas de maneira razoável. Se a carga ultrapassar aquilo que sua Força comporta, a capacidade física volta a ser relevante.
+
+## Carga e Força
+
+A capacidade de levantar, carregar, empurrar, arrastar ou sustentar peso é determinada principalmente por **FOR** e pela escala geral dos Atributos.
+
+Não existe uma conversão universal obrigatória para quilogramas. O Narrador compara o feito pretendido com a escala de FOR e com as circunstâncias da cena.
+
+| FOR | Escala | Referência narrativa |
+|---:|---|---|
+| **[0]** | Humano médio | Carga cotidiana, móveis e objetos pesados comuns; esforço significativo pode exigir ajuda |
+| **[1]** | Humano excepcional | Cargas claramente pesadas ainda manejáveis por uma pessoa muito forte |
+| **[2]** | Máximo humano | Feitos no limite possível da força humana |
+| **[3]** | Sobre-humano | Um carro pequeno pode ser carregado como uma mochila pesada; veículos e estruturas leves tornam-se manipuláveis |
+| **[4]** | Colossal | Veículos comuns deixam de representar carga significativa; caminhões e massas maiores entram na escala do personagem |
+| **[5]** | Titânico | Estruturas enormes e massas extraordinárias podem ser movimentadas ou transportadas |
+| **[6]** | Monumental | Cargas de escala estrutural tornam-se manejáveis |
+| **[7]** | Catastrófico | Feitos de força podem atingir escala catastrófica para o cenário |
+| **[8]** | Extremo | Os maiores feitos de força possíveis naquele universo |
+
+Carregar, levantar, empurrar, arrastar e sustentar não são a mesma tarefa. Algo que o personagem consegue levantar por poucos instantes pode ser pesado demais para carregar por longas distâncias.
+
+Como regra de interpretação:
+
+- **Dentro da escala de FOR:** não exige teste.
+- **No limite da escala:** pode exigir teste de FOR se houver incerteza ou consequência relevante.
+- **Claramente além da escala:** normalmente é impossível sem Poder, equipamento, ajuda ou circunstância que torne o feito plausível.
+
 ## Proteção de Itens
 
 Armaduras e outros itens podem possuir uma reserva de **Proteção**. Quando essa reserva chega a 0, o item deixa de absorver dano, mas seus demais efeitos continuam funcionando normalmente, salvo se algo na narrativa realmente inutilizar o item.
