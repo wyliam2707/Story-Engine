@@ -331,3 +331,31 @@ A decisão preserva a regra geral já consolidada de que **Sorte e Azar modifica
 A decisão foi explicitada em:
 
 - `regras/iniciativa.md`.
+
+---
+
+## D06 — As categorias de Perícia usam o mesmo orçamento de Pontos de Perícia?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Os **Pontos de Perícia formam um único orçamento**.
+
+O total obtido pela regra-base:
+
+> **Pontos de Perícia = (Patamar de Cenário × 4) + INT**
+
+pode ser distribuído entre **Perícias Gerais, Perícias de Combate e Perícias de Poder** às quais o personagem tenha acesso.
+
+Cada categoria mantém seu próprio custo, mas esses custos são pagos a partir do mesmo total de Pontos de Perícia. Não existem reservas separadas para Perícias Gerais, de Combate ou de Poder.
+
+Assim, o jogador pode misturar livremente os investimentos entre as categorias durante a criação, respeitando os custos e requisitos de acesso de cada uma.
+
+A regra atual de graus e custos das Perícias permanece como **regra-base geral do W4D**. Possíveis alterações específicas de cenário não fazem parte da D06 e serão tratadas separadamente quando necessário.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/pericias.md`.
