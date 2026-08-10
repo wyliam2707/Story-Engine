@@ -4,127 +4,80 @@ Perícias representam grandes áreas de atuação, experiência e treinamento. E
 
 ## Graus de Perícia
 
-Todas as Perícias conhecidas utilizam três graus:
+- **[0] — Básico:** conhecimento comum; não concede Dado de Destino adicional.
+- **[1] — Treinado:** concede +1 Dado de Destino quando aplicável.
+- **[2] — Especialista:** concede +2 Dados de Destino quando aplicável.
 
-- **[0] — Básico:** conhecimento comum ou familiaridade com a área. Não concede Dado de Destino adicional.
-- **[1] — Treinado:** formação ou experiência relevante. Concede **+1 Dado de Destino** quando a Perícia é aplicável.
-- **[2] — Especialista:** domínio profissional ou especializado. Concede **+2 Dados de Destino** quando a Perícia é aplicável.
+Os Dados concedidos por Perícia respeitam o limite geral de Dados de Destino.
 
-O grau também determina narrativamente o alcance da competência. Medicina [0] permite cuidados comuns, como limpar e proteger um ferimento simples; Medicina [2] pode representar um médico ou cirurgião capaz de realizar procedimentos complexos.
-
-Os Dados concedidos por Perícia respeitam o limite geral de **6 Dados de Destino**.
-
-## Princípio Universal de Vantagem e Dificuldade
-
-O W4D separa a **capacidade do personagem** das **circunstâncias que o favorecem ou prejudicam**.
+## Princípio Universal
 
 > **Você é melhor naquilo que faz: melhora sua própria parada. Algo está atrapalhando você: você recebe Azar. Você atrapalhou alguém: esse alvo recebe Azar.**
 
-Perícias, Poderes, treinamento e capacidades próprias melhoram a parada de quem realiza ou resiste a uma ação, quando forem aplicáveis.
+Ferramenta adequada não concede bônus por existir; ela representa a condição normal da ação. Ferramenta improvisada pode permitir a tentativa com Azar. Sem o recurso mínimo indispensável, a ação é impossível.
 
-Circunstâncias externas que dificultam uma ação geram **Azar para quem sofre a dificuldade**. Cobertura pode gerar Azar para quem tenta atingir o alvo; escuridão gera Azar para quem depende da visão; terreno ruim pode gerar Azar para quem tenta atravessá-lo; ferramentas inadequadas podem gerar Azar para quem executa a tarefa; condições ou ações que atrapalhem um adversário geram Azar para esse adversário quando forem relevantes.
+## Quando Usar uma Perícia
 
-Esse princípio vale para combate, exploração, interação, investigação, uso de poderes e demais testes. Azar não torna uma ação impossível em possível nem substitui requisitos narrativos necessários para realizar uma ação.
+A narrativa vem antes do teste. Se o personagem possui conhecimento, ferramentas, tempo e condições adequadas para uma tarefa rotineira, não é necessário testar. O teste aparece quando existe risco, oposição, pressão ou incerteza relevante.
 
-## Uso das Perícias
+## Perícias Gerais em Combate
 
-Uma Perícia só beneficia uma ação quando estiver efetivamente sendo utilizada. Não existem combinações fixas entre Atributos e Perícias.
+Perícias que não são de Combate **não se transformam em Perícias de Combate apenas porque a cena é uma luta**.
 
-Quando mais de uma Perícia puder ser aplicada, utiliza-se apenas a mais adequada ou de maior grau aplicável. Perícias nunca somam seus graus ou dados entre si.
+Elas ainda podem resolver ações narrativas durante a cena. Exemplo: usar Esporte para correr e saltar uma fenda durante uma batalha. Isso não transforma Esporte em uma ação ofensiva de combate.
 
-Uma Perícia relacionada, mas não exata, pode ser utilizada como **[0]**, desde que exista relação plausível entre a experiência do personagem e a tarefa. Isso pode fornecer o conhecimento mínimo necessário para tentar uma ação especializada, mas não concede dados adicionais.
+Medicina, Ofícios e outras Perícias gerais não são usadas para executar ações de combate, salvo quando a própria ação narrativa for claramente possível naquele momento.
 
-Perícias também representam conhecimento narrativo. Quando não existe risco, oposição, pressão ou incerteza relevante, não é necessário realizar um teste para aquilo que o personagem naturalmente deveria saber ou conseguir fazer dentro de seu grau de treinamento.
+## Sinergia
 
-## Ferramentas
+Uma Perícia pode melhorar um Poder ou outra capacidade quando o **próprio personagem** consegue aplicar aquele conhecimento de forma real e coerente à execução.
 
-Quando uma ação normalmente exige ferramentas adequadas e ainda pode ser improvisada sem elas, o personagem recebe **Azar [1]**.
+A Sinergia concede Dados de Sorte conforme o grau da Perícia, até o máximo geral de **Sorte [2]**.
 
-Se determinada ferramenta ou recurso for indispensável para tornar a ação possível, sua ausência impede a tentativa.
+Exemplo com o Poder Cura:
 
-## Disputas
+- **Magia Branca [1]** pode melhorar Cura em combate, concedendo Sorte [1], porque é uma Perícia de Poder/Combate aplicável naquele momento.
+- **Medicina [2]** pode melhorar Cura fora de combate, concedendo Sorte [2], quando houver tempo para examinar, tratar, suturar, operar ou aplicar medicamentos.
 
-Em testes opostos, cada participante utiliza normalmente seu próprio Atributo, Perícia e Dados de Destino. Perícia não é subtraída diretamente de outra Perícia.
+Medicina não pode ser usada como Sinergia de uma Cura de combate apenas porque é conceitualmente relacionada. A Perícia precisa ser realmente utilizável naquela situação.
 
-Circunstâncias que atrapalham um dos participantes aplicam Azar à parada desse participante, em vez de aumentar artificialmente a parada do oponente.
+Sinergia mágica é pessoal. Um médico observando outro personagem conjurar Magia Branca não transfere sua Medicina para a magia alheia.
 
-## Cooperação
+## Ferramentas e Condições
 
-Em uma ação conjunta, utiliza-se o melhor Atributo entre os participantes adequados à tarefa. Todos os envolvidos contribuem para o Destino da ação conforme as regras de cooperação e os limites gerais de Dados de Destino. Quando uma Perícia for necessária, utiliza-se somente a melhor Perícia aplicável entre os envolvidos.
+- Procedimento que exige equipamento, sem equipamento mínimo: **impossível**.
+- Procedimento possível com improviso: **Azar**.
+- Equipamento adequado: **teste normal** quando houver necessidade de teste.
+- Tempo e condições plenamente controladas para tarefa rotineira: pode não haver teste.
+
+Exemplo: cirurgia sem instrumentos apropriados pode ser impossível; uma sutura com material improvisado pode sofrer Azar; com kit adequado, resolve-se normalmente.
 
 # Perícias Gerais
 
-Todo personagem começa com as **12 Perícias Gerais em [0]**. Elas representam conhecimentos e capacidades básicas esperadas de uma pessoa no cenário. O cenário pode ajustar a interpretação do que constitui conhecimento comum.
-
-1. **Animais** — cuidar, conduzir, montar, compreender comportamento, treinar e lidar com animais.
-2. **Ciência** — matemática, física, química, biologia e conhecimentos científicos em geral.
-3. **Crime** — furtividade, arrombamento, disfarces, contrabando, falsificação e práticas criminosas.
-4. **Erudição** — história, geografia, política, cultura, religião e conhecimentos gerais.
-5. **Esporte** — correr, nadar, escalar, saltar, acrobacia e atividades físicas.
-6. **Explorar** — sobrevivência, orientação, rastreamento, navegação, acampamento e vida em ambientes selvagens.
-7. **Expressão** — atuação, música, dança, oratória, escrita, desenho e outras formas de expressão.
-8. **Investigação** — procurar pistas, analisar cenas, reunir informações e reconstruir acontecimentos.
-9. **Máquinas** — operar, conduzir, reparar e compreender máquinas, veículos e equipamentos tecnológicos.
-10. **Manipulação** — persuadir, negociar, blefar, intimidar, seduzir e influenciar pessoas.
-11. **Medicina** — primeiros socorros, doenças, tratamentos, anatomia, medicamentos e cirurgia.
-12. **Ofícios** — construir, fabricar, reparar e produzir por meio de profissões e trabalhos manuais.
+Todo personagem começa com as 12 Perícias Gerais em [0]: Animais, Ciência, Crime, Erudição, Esporte, Explorar, Expressão, Investigação, Máquinas, Manipulação, Medicina e Ofícios.
 
 ## Pontos de Perícia
 
-Na criação do personagem, existe um único conjunto de Pontos de Perícia utilizado para **Perícias Gerais, Perícias de Combate e Perícias de Poder**.
-
-A quantidade inicial é:
-
 > **Pontos de Perícia = (Patamar de Cenário × 4) + INT**
 
-| Patamar | Base de Pontos | Pontos com INT |
-|---|---:|---|
-| **I** | 4 | 4 + INT |
-| **II** | 8 | 8 + INT |
-| **III** | 12 | 12 + INT |
-| **IV** | 16 | 16 + INT |
-| **V** | 20 | 20 + INT |
-
-Todas as Perícias Gerais já começam em **[0]**, sem custo. Para aprimorá-las:
-
-- comprar **[1]** custa **1 Ponto de Perícia**;
-- comprar **[2]** custa **3 Pontos de Perícia no total**: **1 ponto** para alcançar [1] e **+2 pontos** para alcançar [2].
-
-Assim, uma Perícia Geral em [1] representa um investimento total de 1 ponto, enquanto uma Perícia Geral em [2] representa um investimento total de 3 pontos.
-
-A evolução de Perícias após a criação será definida posteriormente.
+Perícia Geral [1] custa 1 ponto. Perícia Geral [2] custa 3 pontos no total.
 
 # Perícias de Combate
 
-As Perícias de Combate são separadas das 12 Perícias Gerais. Todo personagem começa com:
+Todo personagem começa com:
 
-- **Luta [0]**
-- **Disparo [0]**
-- **Esquiva [0]**
+- Luta [0]
+- Disparo [0]
+- Esquiva [0]
 
-Cada aumento de uma Perícia de Combate custa **2 pontos**:
+Cada aumento custa 2 pontos. Uma Perícia de Combate em [2] representa investimento total de 4 pontos.
 
-- **[0] para [1]: 2 pontos**
-- **[1] para [2]: +2 pontos**
-
-Uma Perícia de Combate em [2] representa, portanto, um investimento total de 4 pontos.
-
-A Perícia de Combate só é aplicada quando seu treinamento estiver efetivamente sendo utilizado. Aparar com uma arma pode utilizar uma Perícia apropriada; simplesmente esquivar utiliza Esquiva.
-
-Defesas comuns, como esquivar ou aparar, fazem parte da resolução da disputa e não são Ações por si mesmas. Uma ação deliberada para criar ou melhorar uma posição defensiva — como buscar cobertura, erguer uma barreira ou preparar proteção — pode consumir uma Ação e gerar efeitos apropriados, normalmente impondo Azar a quem for prejudicado por essa proteção.
+Defesas comuns como Esquiva e Aparo fazem parte da resolução e não são Ações por si mesmas.
 
 ## Perícias de Poder
 
-Algumas Perícias de Combate surgem quando o personagem aprende poderes relacionados. Ao adquirir seu primeiro poder de determinada fonte ou tradição, ele recebe automaticamente a Perícia correspondente em **[0]**.
+Ao adquirir o primeiro Poder de uma fonte ou tradição, o personagem pode receber a Perícia correspondente em [0], conforme o cenário. Exemplos: Magia Arcana, Magia Branca, Psiquismo.
 
-Exemplos:
+Perícias de Poder seguem o custo das Perícias de Combate e representam domínio pessoal na manifestação dos Poderes.
 
-- aprender Magia Arcana pode conceder **Magia Arcana [0]**;
-- aprender um Poder Psíquico pode conceder **Psiquismo [0]**;
-- outras fontes podem criar Perícias próprias conforme o cenário.
-
-As Perícias de Poder usam o mesmo conjunto de Pontos de Perícia do personagem e seguem, por enquanto, o mesmo custo das Perícias de Combate: 2 pontos para [1] e mais 2 pontos para [2].
-
-O Poder determina **o que é possível fazer**. O Atributo determina o **Patamar base** do efeito. A Perícia representa o domínio na utilização e melhora os Dados de Destino, podendo tornar a manifestação do poder mais eficiente.
-
-As Perícias de Poder não possuem Atributo fixo: o efeito utilizado determina qual Atributo é apropriado.
+> **O Poder determina o que é possível. O Atributo determina o Patamar base. A Perícia melhora os Dados de Destino quando aplicável.**
