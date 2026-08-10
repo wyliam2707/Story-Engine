@@ -52,11 +52,14 @@ A notação pode utilizar colchetes em diferentes mecânicas por conveniência v
 
 ## Patamar de Cenário
 
-Além da escala universal de resultados, o Narrador escolhe um **Patamar de Cenário [I–V]** para definir a escala inicial dos protagonistas.
+Além da escala universal de resultados, o Narrador escolhe um **Patamar de Cenário [I–V]** para definir a escala inicial dos protagonistas e servir como **referência geral da escala normal daquele cenário**.
 
 O **Patamar de Cenário é uma classificação de escala do cenário**, escrita em algarismos romanos. Ele não é um resultado de teste e não substitui a escala universal de Patamar [0–8].
 
-Esse Patamar não cria uma segunda física nem substitui os Atributos [0–8]. Ele determina apenas os **pontos iniciais de Atributo** e o **maior valor inicial permitido por Atributo**.
+O Patamar de Cenário possui duas funções complementares:
+
+1. **Função mecânica de criação:** determina os **pontos iniciais de Atributo** e o **maior valor inicial permitido por Atributo** para os protagonistas.
+2. **Função de referência de escala:** indica qual é a magnitude normalmente esperada para os protagonistas e fornece ao Narrador e ao criador do cenário uma régua para comparar ameaças, obstáculos, equipamentos, fenômenos e demais elementos do mundo.
 
 | Patamar do cenário | Pontos iniciais | Máximo inicial por Atributo | Escala típica |
 |---|---:|---:|---|
@@ -66,7 +69,13 @@ Esse Patamar não cria uma segunda física nem substitui os Atributos [0–8]. E
 | **IV** | 16 | [4] | Colossal — grandes super-seres e monstros |
 | **V** | 20 | [5] | Titânico — ápice sobre-humano |
 
-O Patamar de Cenário define **a escala esperada dos protagonistas**, não o limite absoluto do mundo. Um cenário de Patamar I pode possuir monstros com Atributos [3] ou superiores; isso significa apenas que esses seres estão fora da escala humana normal dos personagens.
+> **O Patamar de Cenário define a normalidade da escala dos protagonistas, não os limites do mundo.**
+
+Um cenário de Patamar I pode possuir monstros com Atributos [3] ou superiores; isso significa apenas que esses seres estão muito acima da escala humana normal dos personagens. Da mesma forma, um cenário III pode possuir um chefe [5], e um cenário V pode apresentar uma entidade [8].
+
+Estar acima do Patamar do Cenário deve ser **excepcional e narrativamente significativo**, não impossível. Quanto maior a diferença de escala, mais uma oposição pode exigir preparação, vantagens, cooperação, recursos especiais ou uma abordagem diferente do confronto direto.
+
+A função de referência **não cria fórmulas automáticas para todo elemento do mundo**. O Patamar de Cenário, por si só, não determina o Dano de uma arma, a Proteção de uma armadura, a Resistência de uma porta ou o Atributo de um monstro. Ele estabelece a régua de comparação a partir da qual esses elementos são construídos pelas regras e orientações apropriadas.
 
 O valor do Atributo continua descrevendo a capacidade concreta do indivíduo: [0] humano médio, [1] acima da média, [2] máximo humano, [3] sobre-humano e assim por diante até [8], o extremo possível daquele Atributo no universo.
 
