@@ -4,13 +4,13 @@
 
 Ataques corpo a corpo baseados em potência usam, como regra-base:
 
-**FOR × AGI**
+**FOR − AGI**
 
 Ataques à distância ou de precisão usam:
 
-**DES × AGI**
+**DES − AGI**
 
-Cada lado acrescenta seus próprios Dados de Destino quando a oposição é ativa.
+A notação segue a ordem **Ação − Resistência**. Cada lado acrescenta seus próprios Dados de Destino quando a oposição é ativa, e a diferença produz o Patamar do Resultado.
 
 ## Defesa
 
