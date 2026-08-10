@@ -243,14 +243,21 @@ A descrição pode também alterar o tipo ou descritor do Dano — por exemplo, 
 
 ### Sobrecarga — Duração
 
-Foi definida a intenção de permitir ampliar a Duração em estágios, sempre ao custo de **+1 Mana por estágio**. A sequência exata precisa ser confirmada antes de ser fechada para não confundir **Ativação: Ação** com **Duração: Instante**.
+Cada estágio amplia a Duração em uma faixa:
+
+- **Instante → Cena:** +1 Mana;
+- **Cena → Ciclo [4 horas]:** +1 Mana;
+- **Ciclo [4 horas] → Dia [24 horas]:** +1 Mana.
+
+Avançar mais de um estágio paga cada estágio separadamente.
+
+A Sobrecarga de Duração altera apenas **quanto tempo o efeito permanece ativo**. Ela não modifica a Ativação do Poder: **Ação, Reação e Ritual** continuam sendo categorias separadas.
 
 ## Bases ainda em desenvolvimento
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
 - **Efeito:** Cura, Proteção, Movimento, alteração de Atributo, Status, criação, invocação, transformação e outras formas de manifestação mecânica;
-- sequência exata da **Sobrecarga de Duração**;
 - possíveis limites ou exceções das demais Sobrecargas, caso sejam necessários.
 
 Essa lista ainda não deve ser considerada fechada até a Base de Efeito e as Sobrecargas serem revisadas individualmente.
