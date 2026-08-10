@@ -46,9 +46,16 @@ Como regra-base, **Área, Cone, Linha e Aura possuem alcance Curto**.
 
 ## Duração
 
-A duração-base de Poderes e Magias é **Cena**, salvo quando a descrição disser o contrário.
+Poderes e Magias podem possuir as durações **Instante, Patamar, Cena ou Sustentado**.
 
-Sobrecargas futuras podem alterar duração, sustentar efeitos ou modificar outras propriedades, mantendo a mesma lógica de formulação antes do teste.
+- **Instante:** resolve o efeito imediatamente e termina.
+- **Patamar:** permanece por uma quantidade de turnos determinada pelo Patamar.
+- **Cena:** permanece até o fim da Cena, salvo se for encerrado antes.
+- **Sustentado:** permanece até ser desativado ou até ocorrer uma condição de encerramento indicada pelo efeito.
+
+A duração-base continua sendo **Cena**, salvo quando a descrição do Poder ou da Magia informar outra duração.
+
+Sobrecargas podem alterar duração quando a regra ou o efeito assim permitir.
 
 ## Exemplo — Cura
 
