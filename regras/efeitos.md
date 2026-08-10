@@ -55,6 +55,23 @@ Quando uma ação possui vários componentes, cada um é resolvido separadamente
 
 > **Leia a descrição: ela determina o alcance da Imunidade.**
 
+## Resistência
+
+**Resistência reduz pela metade o Patamar final** daquilo contra o qual sua descrição protege.
+
+A Resistência não possui valor numérico próprio. Depois que o Patamar final do efeito é determinado, ele é dividido por 2, sempre **arredondando para baixo**.
+
+Exemplos:
+
+- Patamar [6] → **[3]**;
+- Patamar [5] → **[2]**;
+- Patamar [3] → **[1]**;
+- Patamar [1] → **[0]**.
+
+Se a Resistência reduzir o Patamar final para **[0]**, o efeito é anulado.
+
+Assim como Imunidade, Resistência afeta somente aquilo que sua descrição determinar. **Resistência a Fogo**, **Resistência a Veneno**, **Resistência a Efeitos Mentais** e outras formas podem existir conforme o cenário.
+
 ## Duração
 
 Um efeito pode possuir uma das seguintes durações:
