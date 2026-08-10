@@ -120,14 +120,40 @@ Exemplo:
 
 > **Regeneração — Alcance: Pessoal**
 
-Esse tipo de Poder representa capacidades como uma regeneração sobrenatural semelhante à de personagens ficcionais que curam o próprio corpo, sem transformar essa capacidade automaticamente em Cura de terceiros.
+Esse tipo de Poder representa capacidades como uma regeneração sobrenatural que cura o próprio corpo, sem transformar essa capacidade automaticamente em Cura de terceiros.
+
+## Base — Alvo / Área
+
+A Base **Alvo/Área** informa **como o Poder distribui seu efeito entre os elementos alcançados**.
+
+Foram definidos três formatos básicos:
+
+- **Alvo:** afeta um único alvo por utilização.
+- **Próximo:** afeta dois ou mais alvos que estejam encostados ou imediatamente agrupados entre si, conforme a ficção da cena.
+- **Área:** afeta uma região em vez de escolher individualmente cada alvo. A manifestação pode assumir formas como **explosão, cone ou linha**, conforme a descrição do Poder.
+
+Como referência-base, uma **Área é sempre considerada Curta em extensão**. Isso não significa metros fixos: a Área continua seguindo a linguagem narrativa de distância do W4D. A descrição do Poder determina sua forma e o Narrador interpreta quais elementos estão realmente dentro dela.
+
+Exemplos:
+
+> **Disparo de Energia — Alvo/Área: Alvo**
+
+> **Arco Elétrico — Alvo/Área: Próximo**
+
+> **Explosão de Fogo — Alvo/Área: Área (Explosão), extensão Curta**
+
+> **Sopro de Gelo — Alvo/Área: Área (Cone), extensão Curta**
+
+> **Raio Perfurante — Alvo/Área: Área (Linha), extensão Curta**
+
+O **Alcance** e a **Área** cumprem funções diferentes. O Alcance determina onde o Poder pode ser originado ou aplicado; a Área determina quanto espaço o efeito ocupa a partir do ponto apropriado.
 
 ## Bases ainda em desenvolvimento
 
-Entre os conceitos que já possuem referências no sistema ou foram discutidos anteriormente estão:
+Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Alvo/Área:** exemplos a desenvolver incluem Alvo, Próximo e Área;
-- **Duração:** Instante, Cena, Ciclo [4 horas], Dia [24 horas] e outras durações que a estrutura venha a exigir.
+- **Duração:** Instante, Cena, Ciclo [4 horas], Dia [24 horas] e outras durações que a estrutura venha a exigir;
+- **Efeito:** Dano, Cura, Proteção, Movimento, alteração de Atributo, criação, invocação e outras formas de manifestação mecânica.
 
 Essas listas ainda não devem ser consideradas fechadas até cada Base ser revisada individualmente.
 
