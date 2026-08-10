@@ -148,14 +148,30 @@ Exemplos:
 
 O **Alcance** e a **Área** cumprem funções diferentes. O Alcance determina onde o Poder pode ser originado ou aplicado; a Área determina quanto espaço o efeito ocupa a partir do ponto apropriado.
 
+## Base — Duração
+
+A Duração informa **por quanto tempo o efeito mecânico de um Poder permanece ativo**, quando essa informação for necessária.
+
+Foram definidos, como estrutura inicial:
+
+- **Instante:** o efeito acontece e se encerra no momento do uso.
+- **Cena:** o efeito permanece ativo até o encerramento da cena atual.
+- **Ciclo [4 horas]:** o efeito permanece ativo por um ciclo de aproximadamente quatro horas.
+- **Dia [24 horas]:** o efeito permanece ativo por aproximadamente vinte e quatro horas.
+
+O W4D **não utiliza Sustentado como categoria universal de Duração**.
+
+Quando um Poder possui uma característica permanente ou contínua por sua própria natureza — como uma capacidade inata, transformação estável, regeneração constante, superforça permanente ou outra condição semelhante — isso deve ser estabelecido diretamente na **descrição do Poder**. Não é necessário criar uma duração mecânica adicional apenas para dizer que a capacidade faz parte permanente do personagem.
+
+Da mesma forma, a Duração descreve o tempo do efeito mecânico quando ele realmente possui começo e fim definidos. Ela não substitui a descrição narrativa da natureza do Poder.
+
 ## Bases ainda em desenvolvimento
 
 Entre os conceitos que ainda precisam ser revisados individualmente estão:
 
-- **Duração:** Instante, Cena, Ciclo [4 horas], Dia [24 horas] e outras durações que a estrutura venha a exigir;
 - **Efeito:** Dano, Cura, Proteção, Movimento, alteração de Atributo, criação, invocação e outras formas de manifestação mecânica.
 
-Essas listas ainda não devem ser consideradas fechadas até cada Base ser revisada individualmente.
+Essa lista ainda não deve ser considerada fechada até a Base de Efeito ser revisada individualmente.
 
 ## Persistência no cenário
 
