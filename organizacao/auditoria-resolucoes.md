@@ -485,3 +485,28 @@ A D15 remove também a necessidade de exemplos concretos em quilômetros ou metr
 A decisão foi explicitada em:
 
 - `regras/alcance-e-movimento.md`.
+
+---
+
+## D16 — Proteção 4 / 8 / 12 é universal?
+
+**Status:** Resolvida.
+
+### Decisão
+
+Não. Os valores **Proteção 4, 8 e 12** associados a armaduras leve, média e pesada são **referências de construção e comparação**, não valores universais obrigatórios.
+
+Proteção é um valor próprio atribuído ao item conforme aquilo que ele representa, a defesa que oferece e a escala adotada. Ela não depende de o objeto caber obrigatoriamente em uma categoria fixa de armadura.
+
+Assim, um item improvisado também pode oferecer Proteção quando sua utilização realmente justificar isso. Uma mochila usada como defesa pode, por exemplo, oferecer **Proteção 2 ou 4**; um colete balístico pode possuir **Proteção 6**; outros equipamentos podem usar valores diferentes conforme sua natureza.
+
+As referências 4 / 8 / 12 continuam úteis para orientar a criação, mas não restringem valores intermediários, menores ou maiores.
+
+A decisão não altera a regra de camadas: equipamentos defensivos continuam ocupando a camada de **Item** quando funcionam como Proteção de Item.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/combate.md`;
+- `regras/mecanica-dos-itens.md`.
