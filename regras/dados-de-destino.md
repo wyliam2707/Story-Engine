@@ -73,13 +73,19 @@ Perícia não cria um tipo separado de Dado de Destino.
 
 ### Cancelamento e Limite
 
-Sorte e Azar se anulam antes da rolagem, na proporção de **1 para 1**.
+Todas as fontes de **Sorte** e **Azar** são somadas antes da rolagem. Esses valores acumulados podem ultrapassar [2] apenas para fins de **cancelamento**.
 
-Exemplo: **Sorte [2] + Azar [1] = Sorte [1]**.
+Sorte e Azar se anulam na proporção de **1 para 1**.
 
-Depois de considerar todas as fontes e cancelamentos, o resultado final nunca ultrapassa **Sorte [2]** ou **Azar [2]**.
+Exemplos:
 
-Portanto, a mão de Dados de Destino possui máximo absoluto de **6 dados**.
+- Sorte [2] + Azar [1] = **Sorte [1]**;
+- Sorte acumulada [4] + Azar acumulado [3] = **Sorte [1]**;
+- Sorte acumulada [4] + Azar acumulado [1] = Sorte restante [3], mas para a rolagem é tratada como **Sorte [2]**.
+
+Somente depois do cancelamento aplica-se o limite da rolagem: o valor efetivamente utilizado nunca ultrapassa **Sorte [2]** ou **Azar [2]**.
+
+Portanto, mesmo quando existirem fontes acumuladas acima de [2], a mão de Dados de Destino possui máximo absoluto de **6 dados**.
 
 ## Estado da Regra
 
