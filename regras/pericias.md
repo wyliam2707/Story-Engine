@@ -67,6 +67,8 @@ Os **Pontos de Perícia formam um único orçamento**. O personagem pode distrib
 
 Os custos diferentes não criam reservas separadas de pontos: todos são pagos a partir do mesmo total de Pontos de Perícia.
 
+Se, depois da criação, alguma regra permitir que o valor de **INT aumente**, o total de Pontos de Perícia também aumenta na mesma proporção. Essa regra apenas define a consequência de um aumento de INT sobre os Pontos de Perícia; ela não determina por si só como ou quando Atributos podem ser ampliados.
+
 Perícia Geral [1] custa 1 ponto. Perícia Geral [2] custa 3 pontos no total.
 
 # Perícias de Combate
