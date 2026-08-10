@@ -302,3 +302,32 @@ Assim, em uma emboscada com três assassinos preparados, os três podem atacar p
 A decisão foi explicitada em:
 
 - `regras/iniciativa.md`.
+
+---
+
+## D14 — Sorte, Azar e Perícias podem modificar a Iniciativa?
+
+**Status:** Resolvida.
+
+### Decisão
+
+**Sorte e Azar podem modificar a rolagem de Iniciativa quando a fonte realmente afetar a capacidade daquele personagem de perceber, antecipar ou reagir ao início do confronto.**
+
+A aplicação é narrativa e contextual. Não existe uma lista fixa de condições que sempre concedem Sorte ou Azar na Iniciativa.
+
+Exemplos discutidos:
+
+- um Poder de premonição pode conceder Sorte para notar o perigo quando sua descrição realmente oferecer essa vantagem;
+- estar Confuso pode gerar Azar quando a condição prejudicar a percepção do perigo ou a capacidade de reagir ao que acontece ao redor.
+
+Esses exemplos demonstram possibilidades, não criam efeitos universais automáticos.
+
+Perícias também só modificam a Iniciativa quando puderem ser **realmente aplicadas** à percepção, antecipação ou reação naquele momento. Uma relação apenas temática com o confronto não concede Sorte por si só.
+
+A decisão preserva a regra geral já consolidada de que **Sorte e Azar modificam o personagem** e só se aplicam quando a fonte é relevante para a ação ou resolução em questão.
+
+### Ajustes realizados
+
+A decisão foi explicitada em:
+
+- `regras/iniciativa.md`.
