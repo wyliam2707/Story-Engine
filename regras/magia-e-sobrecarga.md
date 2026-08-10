@@ -67,6 +67,14 @@ Exemplo: um mago com **INT 4** obtém **Destino +2**, formando resultado 6 para 
 
 Circunstâncias, Sorte, Azar, capacidades defensivas e demais condições de cada alvo continuam sendo consideradas individualmente em sua própria Resistência.
 
+### Entrada em Efeitos Persistentes
+
+Quando uma **Área, Aura ou outra forma persistente** já está ativa, qualquer personagem que entre em sua região passa a ser afetado **imediatamente**.
+
+Se o efeito exigir uma disputa, o novo alvo realiza sua própria Resistência contra o **mesmo resultado de Ação que originou o efeito**, aplicando normalmente suas circunstâncias, Sorte, Azar e capacidades defensivas.
+
+Entrar depois não cria uma nova rolagem para quem mantém o efeito. A descrição específica pode estabelecer outra forma de resolução quando necessário.
+
 ## Duração
 
 Poderes e Magias podem possuir as durações **Instante, Patamar, Cena ou Sustentado**.
