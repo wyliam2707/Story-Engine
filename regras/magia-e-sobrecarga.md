@@ -75,6 +75,16 @@ Se o efeito exigir uma disputa, o novo alvo realiza sua própria Resistência co
 
 Entrar depois não cria uma nova rolagem para quem mantém o efeito. A descrição específica pode estabelecer outra forma de resolução quando necessário.
 
+### Saída de Efeitos Persistentes
+
+Sair de uma Área, Aura ou outra forma persistente encerra apenas aquilo que **depende da permanência dentro dela**.
+
+Efeitos cuja causa existe somente enquanto o personagem permanece na região deixam de atuar quando ele sai. Exemplo: uma Aura que causa **Cegueira enquanto o alvo estiver dentro dela** deixa de cegá-lo assim que ele abandona a área.
+
+Consequências que foram **aplicadas ao personagem** e possuem existência própria continuam sendo resolvidas pelas regras normais desse efeito, mesmo depois que ele sai da região. Exemplo: se uma Aura aplica **Veneno**, sair da Aura não remove automaticamente o Veneno; ele continua com sua própria duração e resolução.
+
+A descrição específica do efeito determina se uma consequência depende da área ou se permanece no alvo depois da saída.
+
 ## Duração
 
 Poderes e Magias podem possuir as durações **Instante, Patamar, Cena ou Sustentado**.
