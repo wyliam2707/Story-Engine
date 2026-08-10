@@ -10,9 +10,19 @@ Cada envolvido utiliza o maior valor entre **Agilidade (AGI)** e **Sabedoria (SA
 
 AGI representa a capacidade de reagir e agir rapidamente. SAB representa perceber, antecipar ou reconhecer o perigo a tempo de agir.
 
-Cada envolvido rola sua própria Iniciativa. Os participantes agem do **maior resultado para o menor**.
+Cada envolvido rola sua própria Iniciativa. Os participantes agem do **maior resultado bruto para o menor**.
 
-A Iniciativa é um teste normal do sistema: seu resultado final já representa o Patamar obtido no teste.
+Para determinar a ordem, a Iniciativa usa o valor bruto obtido na soma de Atributo + Destino, **sem aplicar o limite universal de Patamar [8]**. Isso evita que resultados diferentes acima de 8 sejam transformados em empates artificiais.
+
+Exemplo:
+
+- AGI 8 + Destino +4 = **Iniciativa 12**;
+- AGI 7 + Destino +3 = **Iniciativa 10**;
+- AGI 6 + Destino +2 = **Iniciativa 8**.
+
+A ordem é 12 → 10 → 8.
+
+Se por algum motivo for necessário interpretar narrativamente a magnitude daquela Iniciativa como um Patamar, aplica-se normalmente a escala universal e seu limite de **[-8, +8]**. O valor bruto continua sendo usado exclusivamente para ordenar os participantes.
 
 ## Surpresa
 
@@ -26,7 +36,7 @@ Poderes, sentidos especiais ou capacidades equivalentes podem permitir que um pe
 
 ## Empate
 
-Quando dois ou mais envolvidos obtêm exatamente o mesmo resultado de Iniciativa, cada personagem empatado rola **Destino [1]**, utilizando um único resultado de **+1, 0 ou -1**.
+Quando dois ou mais envolvidos obtêm exatamente o mesmo resultado bruto de Iniciativa, cada personagem empatado rola **Destino [1]**, utilizando um único resultado de **+1, 0 ou -1**.
 
 O maior resultado age primeiro. Se houver novo empate, os envolvidos ainda empatados repetem o Destino [1] até que a ordem seja definida.
 
