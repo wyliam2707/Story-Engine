@@ -28,13 +28,16 @@ Se um efeito remover Incapacitado enquanto a Vida continuar em **[0] ou negativa
 
 Exemplo: uma Cura pode possuir uma Sobrecarga específica capaz de remover Incapacitado. Se a Cura também elevar a Vida acima de 0, o personagem volta a agir. Se a Vida permanecer em 0 ou negativa, a condição de Vida continua impondo Incapacitado.
 
-## Cura
+## Cura, Recuperação e Regeneração
 
-Cura restaura Vida. Quando não existe Resistência ativa, pode ser resolvida contra **Patamar [0]**.
+Essas três formas de restaurar Vida não usam necessariamente o mesmo Atributo.
 
-> **Cura = SAB + Destino × Patamar [0]**
+- **Cura ou tratamento aplicado a outro personagem:** usa **SAB + Destino** quando uma resolução for necessária. Tratamento médico realizado durante um descanso pode utilizar a Perícia **Medicina** para conceder Sorte conforme seu grau.
+- **Recuperação natural da própria Vida:** usa **VIG + Destino**, pois representa a capacidade do próprio corpo de se recompor com o tempo.
+- **Regeneração:** quando um efeito é definido como regeneração pessoal e funciona somente sobre o próprio personagem, usa **VIG + Destino**, salvo regra específica.
+- **Poder de Cura:** quando o Poder é capaz de curar outros personagens, usa **SAB + Destino** conforme as regras de Poderes.
 
-O Patamar positivo obtido indica quantos pontos de Vida são restaurados. Resultado 0 ou negativo restaura 0 e não causa dano.
+> **SAB restaura outros. VIG representa a recuperação e regeneração do próprio corpo.**
 
 ## Recuperação Natural de Vida
 
@@ -45,7 +48,7 @@ Enquanto a Vida estiver **positiva**, a recuperação natural é rápida e segue
 
 Enquanto a Vida estiver em **[0] ou negativa**, o personagem entra em recuperação crítica e recupera naturalmente apenas **1 ponto de Vida por dia**, até chegar a [0].
 
-Um tratamento adequado de Medicina pode ampliar essa recuperação crítica para **Patamar por dia**, conforme o resultado do tratamento.
+Um tratamento adequado de Medicina durante esse período utiliza **SAB + Destino** e pode ampliar a recuperação crítica para **Patamar por dia**, conforme o resultado do tratamento e as condições disponíveis.
 
 ## Recuperação de Mana
 
