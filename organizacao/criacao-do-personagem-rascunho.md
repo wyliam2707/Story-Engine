@@ -118,6 +118,20 @@ Exemplo: um personagem pode se descrever como um cirurgião veterano, mas uma fi
 
 > **A ficha não precisa ser policiada por uma mecânica de coerência. O Narrador ajuda o jogador a fazer a ficha representar a história escolhida.**
 
+## Etapa 7 — Equipamentos e Recursos
+
+Depois de concluir as escolhas centrais do personagem, o jogador recebe ou escolhe seus **equipamentos, Pilas e demais recursos iniciais** conforme as definições do cenário.
+
+O W4D não possui um pacote universal de riqueza inicial. O cenário determina o **nível de riqueza inicial** apropriado para a campanha e, a partir dele, define o que os personagens podem começar possuindo ou acessando.
+
+Essa definição pode envolver dinheiro, armas, armaduras, ferramentas, veículos, propriedades, munição, componentes, contatos materiais ou outros recursos que façam sentido naquele mundo.
+
+Dois personagens de cenários diferentes — ou mesmo campanhas diferentes — podem começar com recursos muito distintos sem que isso represente uma alteração da regra-base do W4D.
+
+A história e o conceito do personagem continuam servindo como referência de bom senso. Um equipamento inicial deve ser plausível para aquele personagem dentro das condições concedidas pelo cenário, mas não existe uma lista universal obrigatória.
+
+> **O núcleo explica como Recursos funcionam. O cenário define com quanto o personagem começa.**
+
 ## Ainda em revisão
 
 As próximas decisões do fluxo de criação serão analisadas uma por vez. A ordem final ainda não está consolidada.
