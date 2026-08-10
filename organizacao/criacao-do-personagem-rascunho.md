@@ -84,6 +84,30 @@ Como suas fórmulas dependem dos Atributos definidos na etapa anterior, esse cá
 
 Esta etapa não altera as fórmulas existentes; apenas define sua posição no fluxo de criação.
 
+## Etapa 5 — Escolher os Poderes
+
+O jogador escolhe os **Poderes** aos quais seu personagem terá acesso conforme as definições do cenário.
+
+A estrutura completa desta etapa ainda não está definida. O capítulo futuro de Poderes deverá estabelecer as bases necessárias para que cada cenário determine quais Poderes existem, quem pode acessá-los, quantos podem ser escolhidos e como essa escolha funciona.
+
+Por enquanto, esta etapa existe no fluxo por uma razão prática: **as Perícias também podem representar o domínio e o controle dos Poderes**. Assim, é melhor saber quais Poderes e fontes o personagem possui antes de distribuir seus Pontos de Perícia.
+
+> **Escolha primeiro os Poderes permitidos pelo cenário. Depois use as Perícias para representar também o domínio sobre eles.**
+
+## Etapa 6 — Perícias
+
+Depois de definir os Poderes e fontes aos quais possui acesso, o jogador distribui seus **Pontos de Perícia** conforme as regras do capítulo de Perícias.
+
+A regra-base atual utiliza:
+
+> **Pontos de Perícia = (Patamar de Cenário × 4) + INT**
+
+Esse total forma um **único orçamento**, utilizado entre Perícias Gerais, Perícias de Combate e Perícias de Poder às quais o personagem tenha acesso, respeitando os custos próprios de cada categoria.
+
+A presença dos Poderes antes desta etapa permite que o jogador saiba quais Perícias de Poder podem fazer parte de sua construção.
+
+A relação exata entre cada Poder, fonte, tradição e Perícia de Poder continuará dependendo das definições do cenário e do futuro aprofundamento do capítulo de Poderes.
+
 ## Ainda em revisão
 
 As próximas decisões do fluxo de criação serão analisadas uma por vez. A ordem final ainda não está consolidada.
