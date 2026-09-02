@@ -1,12 +1,10 @@
 # Jogador
 
-Status: REFORMULAÇÃO ATIVA
+Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
 
-Esta pasta reúne as regras para criar, ler e usar personagens no novo modelo de autoria narrativa compartilhada.
+Esta pasta reúne as regras necessárias para **criar, ler e usar uma personagem durante a sessão**.
 
-> **A ficha descreve a personagem; não existe para fabricar uma matemática obrigatória em cada cena.**
-
-## Estrutura
+Jogadores e NPCs usam a mesma lógica básica de ficha.
 
 ```text
 jogador/
@@ -21,123 +19,176 @@ jogador/
 └── 1.5-autoridade-da-ficha.md
 ```
 
-## Arquivos já alinhados à reformulação
+## Princípio
 
-`FICHA-EM-BRANCO.md`
-→ estrutura narrativa atual da ficha.
+> **Primeiro cria-se a personagem. Depois a ficha registra e organiza aquilo que essa personagem realmente é.**
 
-`MODELO-DE-FICHA.md`
-→ princípios do novo modelo.
+A ficha oficial serve simultaneamente como:
 
-`1.0-descricao-da-ficha.md`
-→ função e leitura dos campos.
+```text
+ROTEIRO DE CRIAÇÃO
+→ conduz a construção da personagem em uma ordem comum.
 
-`1.1-atributos-pericias-poderes.md`
-→ apesar do nome legado do arquivo, agora define Competências, Conhecimentos e comparação narrativa.
+FONTE CANÔNICA
+→ preserva quem a personagem é depois de aprovada.
 
-`1.2-poderes-e-equipamentos.md`
-→ Poderes como capacidades e graduações apenas como escala comparativa.
+BASE DE COMPARAÇÃO
+→ permite ao Narrador comparar capacidades equivalentes quando isso realmente importar.
+```
 
-`1.4-tracos.md`
-→ verdades automáticas dentro do escopo descrito.
+## Estrutura central da personagem
 
-`1.5-autoridade-da-ficha.md`
-→ ficha como fonte canônica primária da personagem.
+A criação usa sete blocos:
 
-## Arquivo ainda pendente
+```text
+1. Descrição Física
+2. Conceito
+3. Habilidades
+4. Traços e Poderes
+5. Descrição Emocional / Personalidade
+6. Histórico
+7. Estado Atual
+```
 
-`1.3-criacao-da-ficha.md`
-→ ainda contém partes do motor anterior e precisa ser redesenhado em conjunto.
+### Descrição Física
 
-## Linguagem central
+Registra como a personagem existe visualmente no mundo.
+
+### Conceito
+
+Resume quem ela é em essência e serve como primeira referência de coerência para o restante da ficha.
+
+### Habilidades
+
+Registra capacidades adquiridas por treino, prática, formação ou experiência.
+
+Pode incluir:
 
 ```text
 COMPETÊNCIA
-→ o que a personagem sabe fazer.
+→ o que sabe fazer.
 
 CONHECIMENTO
-→ o que ela legitimamente sabe.
+→ o que sabe.
+
+CONHECE
+→ familiaridade relevante com um campo.
 
 ESPECIALISTA
-→ domínio profundo de um campo; sua cadeira possui autoridade compatível com esse repertório.
+→ domínio profundo de um campo; sua interpretação possui forte autoridade quando o assunto está dentro de seu repertório.
+```
+
+### Traços e Poderes
+
+```text
+TRAÇO
+→ verdade especial da personagem dentro da descrição aprovada.
 
 PODER
 → capacidade extraordinária utilizável.
 
-GRADUAÇÃO [1] [2] [3]
-→ comparação de escala quando necessária; não é bônus.
-
-TRAÇO
-→ verdade automática dentro da descrição.
-
-RECURSO
-→ posse, acesso, contato ou infraestrutura estável.
-
-ESTADO ATUAL
-→ como a personagem está agora.
+[1] / [2] / [3]
+→ comparação de intensidade entre capacidades equivalentes, não bônus.
 ```
 
-## Exemplo
+### Descrição Emocional / Personalidade
+
+Registra tendências, desejos, medos, limites, hábitos e relações que realmente alteram interpretação e decisão.
+
+### Histórico
+
+Explica origem, formação, experiências e fatos passados que continuam sustentando quem a personagem é hoje.
+
+### Estado Atual
+
+Registra somente condições temporárias ou fatos presentes que modificam a situação atual sem reescrever a personagem.
+
+## Coerência como limite de criação
+
+O sistema não precisa começar por um orçamento matemático para impedir excesso.
+
+Uma Habilidade, Traço ou Poder precisa nascer legitimamente de:
 
 ```text
-Ravena
-
-Competências e Conhecimentos
---- Especialista em Ocultismo e Demônios.
---- Combatente experiente.
-
-Poderes
---- Empatia [2].
---- Telecinese [2].
-
-Traços
---- TRAÇO: Meio-Demônio
-[natureza parcialmente demoníaca]
+Conceito
++
+Descrição
++
+Natureza
++
+Formação
++
+Experiência
++
+Histórico
 ```
 
-Outro exemplo:
+Quando algo não encontra fundamento suficiente, deve ser explicado ou removido antes da aprovação.
 
 ```text
-Estelar
+"Especialista em Demônios"
++
+histórico de estudo ocultista e convivência sobrenatural
+→ coerente.
 
-Competências e Conhecimentos
---- Princesa de Tamaran; conhece política, protocolo e costumes locais.
---- Guerreira experiente.
-
-Poderes
---- Força Sobre-Humana [2].
---- Voo [2].
+"Especialista em Engenharia Nuclear"
++
+nenhuma formação, experiência ou fato que sustente isso
+→ não aprovar ainda.
 ```
 
-Essas fichas já fornecem informação suficiente para muitas decisões sem qualquer rolagem.
+## Memória por cadeira
 
-## Ficha como autoridade
-
-A ficha informa:
+Cada cadeira de personagem opera somente com:
 
 ```text
-quem a personagem é
-o que sabe
-o que pode fazer
-que limites possui
-que relações importam
-que comparações precisam ser preservadas
+SUA PRÓPRIA FICHA
++
+ESTADO ATUAL RELEVANTE
++
+CONHECIMENTO LEGÍTIMO DA PERSONAGEM
++
+FATOS DA CENA QUE ELA PODE PERCEBER OU CONHECER
 ```
 
-A ficha não concede conhecimento secreto externo nem permite que uma cadeira decida por outra.
-
-## Criação
-
-Até `1.3-criacao-da-ficha.md` ser refeito, usar `FICHA-EM-BRANCO.md` como estrutura e construir cada bloco pela pergunta mais simples:
+Ela não precisa carregar a ficha completa de outras personagens.
 
 ```text
-isso ajuda a interpretar, decidir ou julgar esta personagem?
-→ sim: registrar.
-→ não: não adicionar por hábito.
+IA TÉCNICA PODE TER ACESSO
+≠
+CADEIRA DA PERSONAGEM PODE USAR
 ```
 
-Não criar números preventivamente.
+Comparações entre fichas pertencem ao Narrador/Juiz e, quando a oposição estiver legitimamente envolvida, ao Opositor.
+
+A cadeira pode conhecer capacidades de outra personagem somente na medida em que sua própria personagem tenha aprendido isso dentro da ficção.
+
+## Arquivos
+
+`FICHA-EM-BRANCO.md`
+→ estrutura oficial e roteiro copiável de criação.
+
+`MODELO-DE-FICHA.md`
+→ explica a lógica do modelo e a ordem da criação.
+
+`1.0-descricao-da-ficha.md`
+→ define como os blocos da ficha são lidos.
+
+`1.1-atributos-pericias-poderes.md`
+→ competências, conhecimentos e linguagem comparativa.
+
+`1.2-poderes-e-equipamentos.md`
+→ capacidades extraordinárias e graduações comparativas.
+
+`1.3-criacao-da-ficha.md`
+→ procedimento de criação e aprovação.
+
+`1.4-tracos.md`
+→ verdades especiais da personagem.
+
+`1.5-autoridade-da-ficha.md`
+→ autoridade canônica da ficha durante interpretação, julgamento e representação.
 
 ## Regra final
 
-> **Uma boa ficha permite que a mesa reconheça a personagem sem consultar uma fórmula: quem ela é, o que sabe, o que consegue fazer, quais fatos a limitam e onde sua capacidade é maior ou menor que a de outra peça.**
+> **A ficha é criada de dentro para fora: descrevemos a pessoa, entendemos seu conceito, extraímos habilidades, poderes e traços coerentes, registramos sua vida emocional e seu histórico e somente então tratamos esse conjunto como fonte canônica. Cada cadeira precisa memorizar a própria personagem, não o elenco inteiro.**
