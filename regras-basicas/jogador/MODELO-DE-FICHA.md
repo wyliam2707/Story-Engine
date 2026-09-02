@@ -25,7 +25,7 @@ Toda nova personagem é construída na mesma sequência:
 → competências e conhecimentos sustentados por formação, experiência e conceito.
 
 4. TRAÇOS E PODERES
-→ verdades especiais e capacidades extraordinárias realmente justificadas pela personagem criada.
+→ verdades especiais, capacidades extraordinárias, Equipamentos e Recursos relevantes realmente justificados pela personagem criada.
 
 5. DESCRIÇÃO EMOCIONAL / PERSONALIDADE
 → tendências, desejos, medos, limites, hábitos e relações relevantes.
@@ -34,8 +34,20 @@ Toda nova personagem é construída na mesma sequência:
 → origem, formação e fatos passados que explicam e sustentam a ficha.
 
 7. ESTADO ATUAL
-→ condições temporárias presentes no início ou durante a campanha.
+→ condições temporárias presentes no início ou durante a campanha, incluindo indisponibilidade momentânea de Equipamentos ou Recursos.
 ```
+
+A estrutura oficial continua possuindo **sete blocos principais**.
+
+Dentro do quarto bloco usar, quando necessário:
+
+```text
+### Traços
+### Poderes
+### Equipamentos e Recursos
+```
+
+Não criar um oitavo bloco universal.
 
 ## Criação antes da comparação
 
@@ -64,17 +76,44 @@ o que consegue fazer de extraordinário
 que verdades especiais possui
 → Traços.
 
+que meios externos relevantes possui ou acessa
+→ Equipamentos e Recursos.
+
 por que tudo isso faz sentido
 → Histórico.
 ```
 
-Graduações de Poder, quando existirem, servem somente para comparação entre capacidades equivalentes.
+Graduações de Poder ou de capacidades fornecidas por Equipamentos, quando existirem, servem somente para comparação entre aspectos equivalentes.
+
+## Equipamentos e Recursos
+
+```text
+EQUIPAMENTO
+→ algo externo relevante que a personagem possui ou usa.
+
+RECURSO
+→ acesso, estrutura, patrimônio, veículo, organização, contato institucional ou outro meio relevante.
+```
+
+Não registrar toda posse cotidiana.
+
+Registrar somente quando a existência do item ou acesso importa para identidade, capacidade, continuidade, comparação ou consequência futura.
+
+A ficha preserva a posse ou o acesso canônico; o Estado Atual registra indisponibilidades temporárias.
+
+```text
+FICHA
+→ possui a espada ancestral.
+
+ESTADO ATUAL
+→ espada perdida.
+```
 
 ## Coerência como limite
 
 Nada entra na ficha apenas porque existe espaço para escrever.
 
-Toda Habilidade, Traço ou Poder precisa ser sustentado por pelo menos uma parte coerente da personagem:
+Toda Habilidade, Traço, Poder, Equipamento ou Recurso relevante precisa ser sustentado por pelo menos uma parte coerente da personagem:
 
 ```text
 Conceito
@@ -86,7 +125,7 @@ Histórico
 Natureza estabelecida
 ```
 
-Se uma capacidade não encontra fundamento na personagem criada, ela precisa ser explicada antes de ser aprovada.
+Se um elemento não encontra fundamento na personagem criada, ele precisa ser explicado antes de ser aprovado.
 
 > **A ficha não cria a personagem por orçamento. A personagem criada é que justifica o conteúdo da ficha.**
 
