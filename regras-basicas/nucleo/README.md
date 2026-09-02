@@ -57,7 +57,7 @@ DECLARAÇÃO
 → separação técnica entre várias cadeiras executadas pela mesma IA.
 
 1.7-criacao-emergente.md
-→ criação limitada de fatos ainda indefinidos; permanece em revisão conceitual.
+→ Narrador completa mundo neutro e consequências óbvias; fatos pessoais novos pertencem à cadeira da personagem.
 
 1.8-origem-de-conflitos.md
 → origem de conflitos; permanece em revisão conceitual.
@@ -111,6 +111,12 @@ COMPARAÇÃO DIRETA
 
 TEMPO
 → continuidade compartilhada, não fila fixa de turnos.
+
+MUNDO NEUTRO INDEFINIDO
+→ Narrador pode completar quando coerente e não consequencial.
+
+FATO PESSOAL NOVO
+→ pertence à cadeira da personagem.
 
 OBJEÇÃO SIMPLES
 → resposta simples.
@@ -177,6 +183,7 @@ OPOSITOR
 
 NARRADOR
 → julga coerência e causalidade.
+→ pode completar mundo neutro sem invadir autoria pessoal.
 
 MESA
 → alinha autoridades quando necessário.
