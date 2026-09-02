@@ -1,12 +1,76 @@
 # Regras Básicas
 
-Status: CANÔNICO / ATUAL
+Status: REFORMULAÇÃO ATIVA / BASE EXPERIMENTAL
 
-Esta pasta é a **fonte canônica das regras atuais do Sistema Narrativo**.
+Esta pasta está sendo convertida para um **RPG de autoria narrativa compartilhada**.
 
-Sua finalidade é manter o motor leve, narrativo e executável por IA sem depender de uma segunda camada de regras.
+O objetivo do sistema não é produzir cenas por RNG. O objetivo é permitir que várias cadeiras escrevam a mesma história sem que uma delas tome para si a autoridade das outras.
 
-> **Complexidade na construção; simplicidade na mesa.**
+> **As cadeiras escrevem. A ficha estabelece fatos. O Narrador julga. A ficção continua.**
+
+## Princípio central
+
+A ficha não existe principalmente para calcular chance de sucesso.
+
+Ela existe para registrar:
+
+```text
+quem a personagem é
+→ identidade, natureza, relações e estado persistente
+
+o que ela sabe
+→ conhecimentos e especialidades legítimos
+
+o que ela pode fazer
+→ Poderes, Traços, Recursos e capacidades
+
+como ela se compara
+→ graduações usadas somente quando uma comparação realmente importa
+```
+
+Quando a ficção já fornece uma resposta coerente, não se cria uma rolagem apenas para introduzir acaso.
+
+```text
+FATOS SUFICIENTES
+→ julgar pela ficção
+
+DÚVIDA OU DISCORDÂNCIA ENTRE AUTORIDADES
+→ abrir Mesa somente com as partes afetadas
+
+ACASO
+→ só entra se uma regra futura ou a própria mesa decidir entregar deliberadamente aquela parte da autoria ao acaso
+```
+
+## Autoria e cadeiras
+
+O sistema trabalha com:
+
+```text
+JOGADOR HUMANO
+→ decide sua personagem.
+
+JOGADOR IA
+→ decide uma personagem autônoma dedicada.
+
+JOGADOR IA EVENTUAL
+→ decide personagens eventuais quando precisam de agência própria.
+
+OPOSITOR
+→ representa fatos, recursos, intenções e resistência do lado adversarial.
+
+NARRADOR / JUIZ
+→ julga o encontro entre as decisões e a realidade estabelecida.
+```
+
+O usuário humano também pode entrar temporariamente em **modo Diretor** escrevendo entre colchetes:
+
+```text
+[quero que esta luta mostre que Corvin está em clara desvantagem]
+```
+
+Isso não é fala nem conhecimento da personagem. É uma proposta de direção autoral.
+
+O Diretor não é uma cadeira separada do Jogador Humano; é o mesmo autor em outro modo operacional.
 
 ## Entrada
 
@@ -21,46 +85,7 @@ Começar ou continuar campanha
 → INICIO-E-RETOMADA.md
 ```
 
-## Fluxo de criação
-
-```text
-CAMPANHA
-→ define sobre o que a história é.
-
-TEMPORADA
-→ define o arco atual.
-
-FICHAS
-→ definem quem são as personagens e o que precisam levar para decidir de forma coerente nessa história.
-```
-
-Quando uma temporada termina:
-
-```text
-EPÍLOGO
-→ consolida o resultado real.
-
-“E AGORA?”
-→ abre a definição da próxima direção.
-```
-
-Problemas ainda abertos continuam verdadeiros, mas não escolhem automaticamente o próximo arco.
-
-## Regra de localização
-
-`regras-basicas/` contém somente regras, procedimentos e modelos de funcionamento.
-
-Nenhum estado vivo de campanha deve ser armazenado aqui.
-
-```text
-regras-basicas/
-→ como o sistema funciona.
-
-campanhas/<nome>/
-→ o que é verdade naquela mesa.
-```
-
-> **Regra fica aqui. Verdade concreta fica na campanha.**
+Esses arquivos ainda carregam partes do motor anterior e serão revisados gradualmente.
 
 ## Estrutura
 
@@ -76,203 +101,144 @@ regras-basicas/
 └── registro/
 ```
 
-### Núcleo
+## Núcleo
 
-Regras comuns: resolução, combate, tempo, alcance, movimento, Vida, Mente, Mana, Potência e autoridade das cadeiras.
+O Núcleo define autoria, julgamento, comparação e continuidade.
 
-Também define:
+Os arquivos prioritários da reformulação são:
 
 ```text
-JOGADOR HUMANO
-JOGADOR IA
-JOGADOR IA EVENTUAL
-OPOSITOR
-NARRADOR
+nucleo/0.0-autoria-narrativa.md
+→ filosofia e autoridade do sistema.
+
+nucleo/0.1-resolucao.md
+→ como a ficção resolve ações e conflitos sem exigir RNG.
+
+nucleo/1.0-tribunal.md
+→ soberania das cadeiras e modo Diretor.
+
+nucleo/1.0.1-auditoria-das-cadeiras.md
+→ quando abrir Mesa e quem realmente precisa participar.
+
+nucleo/1.1-narrador.md
+→ função do Narrador como Juiz.
+
+nucleo/1.5-opositor.md
+→ função factual e adversarial do Opositor.
 ```
 
-Iniciativa de uma peça não concede autoridade sobre as demais. Conhecimento técnico da IA não se transforma automaticamente em conhecimento da personagem.
+Arquivos antigos de dado, Mana, Potência, dano, iniciativa e outros subsistemas permanecem temporariamente na árvore como material a revisar. Eles não devem ser usados para contradizer os princípios novos já consolidados nos arquivos acima.
 
-### Jogador
+## Jogador e ficha
 
-Ficha, Atributos, Perícias, Poderes, equipamentos, Traços, Recursos e interpretação da própria personagem.
+A ficha passa a funcionar principalmente como **fonte de fatos narrativos e comparação**.
+
+Exemplos:
 
 ```text
-ATRIBUTO + PERÍCIA
-→ mede execução.
+Ravena
+→ Especialista em Ocultismo e Demônios.
 
-PODER / EQUIPAMENTO
-→ capacidade extraordinária utilizável e graduável.
+Estelar
+→ Princesa de Tamaran; conhece política, protocolo e costumes locais.
 
-TRAÇO
-→ verdade absoluta dentro da descrição aprovada.
+Personagem A
+→ Força Sobre-Humana [1].
 
-RECURSO
-→ posse, acesso ou infraestrutura estável.
+Personagem B
+→ Força Sobre-Humana [2].
 ```
 
-A ficha é a **fonte canônica primária da personagem**. Narração, interpretação, resolução, escrita literária e representação visual devem partir dela e ser complementadas pelo Estado Atual e pelo contexto da campanha conforme `jogador/1.5-autoridade-da-ficha.md`.
+`[2]` não significa bônus de +2 em uma rolagem. Significa que, quando ambas as capacidades forem diretamente comparáveis e os demais fatos não alterarem a situação, `[2]` é superior a `[1]`.
 
-Versão genérica, memória da IA, adaptação famosa ou convenção de gênero não substituem características já definidas na ficha da campanha.
+A ficha continua sendo a fonte canônica primária da personagem conforme `jogador/1.5-autoridade-da-ficha.md`.
 
-Blocos interpretativos devem priorizar aquilo que realmente pode mudar decisões dentro do foco da campanha.
+## Regra de localização
 
-### Mestre
-
-Julgamento e apresentação da sentença: interpretar intenções, aplicar verdades relevantes, testar somente quando existir incerteza real, narrar o resultado e parar quando surgir nova decisão voluntária.
+`regras-basicas/` contém somente regras, procedimentos e modelos.
 
 ```text
-mestre/narrativa.md
-→ identidade persistente da campanha.
+regras-basicas/
+→ como o sistema funciona.
 
-mestre/roteiro.md
-→ temporada ativa.
+campanhas/<nome>/
+→ o que é verdade naquela campanha.
 ```
 
-O Mestre julga; não joga pelo Opositor nem transforma iniciativa do protagonista em obediência alheia.
+> **Regra fica aqui. Verdade concreta fica na campanha.**
 
-### Trava operacional — resolução antes da prosa
+## Fluxo de cena
 
-O caráter narrativo do sistema não autoriza resolver incertezas por conveniência literária.
-
-Toda ação declarada passa primeiro pelo Motor. A prosa só apresenta uma realidade que já foi julgada.
+Por padrão:
 
 ```text
-INTENÇÃO
-→ conferir estado, ficha, capacidade e método
-→ verificar oposição e incerteza
-
-resultado evidente ou impossível
-→ estabelecer sentença diretamente
-
-resultado incerto ou disputa legítima
-→ aplicar a resolução mecânica pertinente
-→ aceitar o resultado
-→ estabelecer sentença
-
-SÓ DEPOIS
+DECLARAÇÃO
+→ identificar o que pertence à própria cadeira
+→ conferir fatos relevantes
+→ verificar se outra autoridade é afetada
+→ permitir objeção factual quando necessária
+→ Narrador julga
 → narrar
 ```
 
-Enquanto houver uma rolagem, disputa, Potência, Resistência, dano, cura ou outra resolução específica pendente, o Narrador não pode antecipar o resultado em forma literária.
+Não existe obrigação de abrir uma auditoria formal para cada frase.
+
+A Mesa abre somente quando existe:
 
 ```text
-NARRAÇÃO
-≠ mecanismo de resolução
-
-NARRAÇÃO
-→ apresentação da sentença já estabelecida
+dúvida real
+Discordância
+conflito de autoridade
+direção autoral que afeta outra cadeira
+necessidade de esclarecer fatos antes da prosa
 ```
 
-> **Primeiro o Motor decide o que aconteceu. Depois a literatura mostra como aconteceu.**
+Se ninguém afetado discorda e os fatos estão claros, a história continua.
 
-### Opositor
+## Trava operacional
 
-Movimenta o lado adversarial dentro de conhecimento, meios, tempo e oportunidades legítimos.
+Narrar não significa decidir arbitrariamente.
 
-Planos, processos e prazos reais pertencem à campanha correspondente.
-
-Oposição nova não deve ser criada retroativamente para invalidar uma solução já declarada ou julgada.
-
-### Registro
-
-Preserva o que precisa continuar verdadeiro e define onde salvar dentro de `campanhas/<nome>/`.
+O Narrador deve primeiro saber quais fatos e autoridades sustentam a continuação da cena.
 
 ```text
-registro/fontes-da-campanha.md
-→ onde cada verdade pertence.
-
-registro/salvar-a-historia.md
-→ salvar sem continuar jogando.
-
-registro/fechar-capitulo.md
-→ checkpoint, reset operacional e reancoragem.
-
-registro/reancoragem-operacional.md
-→ transforma regras, fichas, Estado, Narrativa e Roteiro carregados em um modelo operacional integrado da mesa.
-
-registro/estado-atual.md
-→ fotografia do presente.
-
-registro/livro-e-capitulos.md
-→ histórico canônico.
-
-registro/canonizacao-e-correcoes.md
-→ mudanças permanentes e correções de cânone.
+FATOS + AUTORIDADES
+→ JULGAMENTO
+→ SENTENÇA NARRATIVA
+→ PROSA
 ```
 
-## Roteamento simples
+A diferença para o motor anterior é importante:
 
 ```text
-Criar campanha
-→ CRIACAO-DE-CAMPANHA.md
+INCERTEZA
+≠ rolagem obrigatória
 
-Criar próxima temporada
-→ CRIACAO-DE-TEMPORADA.md
+DISPUTA
+≠ rolagem obrigatória
 
-Começar ou continuar
-→ INICIO-E-RETOMADA.md
-
-Regra comum a todos
-→ nucleo/
-
-Ficha ou capacidade própria de personagem
-→ jogador/
-
-Autoridade da ficha sobre representação e uso da personagem
-→ jogador/1.5-autoridade-da-ficha.md
-
-Julgamento ou apresentação imparcial
-→ mestre/
-
-Decisão adversarial
-→ opositor/
-
-Algo precisa continuar verdadeiro
-→ registro/
-
-Recarregar o Motor, fichas e presente como um modelo operacional integrado
-→ registro/reancoragem-operacional.md
-
-Corrigir fato já canônico ou consolidar mudança permanente
-→ registro/canonizacao-e-correcoes.md
+FICÇÃO JÁ RESPONDE
+→ seguir a ficção
 ```
 
-## Carregamento
+## Estado da migração
 
-Não reler toda a árvore por hábito.
+A reformulação começou pelo núcleo de autoria e resolução.
+
+Ainda precisam de revisão conjunta, entre outros:
 
 ```text
-entrada da campanha
-→ carregar núcleo operacional
-→ seguir registro/reancoragem-operacional.md.
-
-situação exige detalhe específico
-→ consultar a regra pertinente.
-
-fim de capítulo
-→ seguir registro/fechar-capitulo.md
-→ reancorar conforme registro/reancoragem-operacional.md.
+criação completa da ficha
+Patamares e orçamentos
+Vida / Mente / Mana
+combate e dano
+iniciativa e tempo
+Potência de Efeito
+modelos de campanha e temporada que ainda citam o motor mecânico anterior
 ```
 
-O sistema deve operar por **modelo operacional integrado + consulta sob demanda**, não por carregamento integral obrigatório de todo arquivo em toda sessão nem por consulta de regras isoladas sem preservar o Motor já carregado.
+Até essa revisão terminar, preferir os princípios novos quando houver conflito conceitual e marcar inconsistências para correção em vez de inventar compatibilidade automática.
 
-A trava `INTENÇÃO → JULGAMENTO/RESOLUÇÃO → SENTENÇA → NARRAÇÃO` faz parte do modelo operacional permanente e não deve depender de consulta posterior a uma regra especializada.
+## Regra final
 
-## Vigência dos arquivos
-
-A partir desta consolidação, `regras-basicas/` substitui integralmente a antiga árvore `sistema/`.
-
-Cabeçalhos editoriais antigos dentro de alguns arquivos, como `REFORMULAÇÃO / NÃO IMPLEMENTADO`, não reativam regras removidas nem tornam `sistema/` necessário. A vigência operacional é definida por esta pasta e pelas regras atuais nela contidas; um arquivo só deixa de valer se estiver explicitamente marcado como rascunho, legado ou incompatível.
-
-## Regra de trabalho
-
-Não criar subsistema preventivamente.
-
-```text
-necessidade real aparece
-→ identificar a função ausente ou ambígua
-→ corrigir somente essa função
-→ manter o restante simples.
-```
-
-> **Preservar função, remover duplicação e criar regra somente quando ela realmente evita ambiguidade ou perda de continuidade.**
+> **Este sistema é uma estrutura para vários autores contarem uma história juntos. Cada cadeira conserva sua soberania; a ficha fornece fatos, conhecimentos, capacidades e comparações; o Opositor apresenta a resistência legítima; o Narrador julga coerência; e o acaso só recebe autoria quando a mesa deliberadamente quiser entregá-la a ele.**
