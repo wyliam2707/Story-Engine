@@ -1,6 +1,6 @@
 # Modelo de Ficha
 
-Status: CANÔNICO DA REFORMULAÇÃO
+Este arquivo define a ficha oficial usada durante a criação de personagem.
 
 A ficha copiável e preenchível é:
 
@@ -8,55 +8,99 @@ A ficha copiável e preenchível é:
 FICHA-EM-BRANCO.md
 ```
 
-Toda nova personagem deve partir desse modelo enquanto a nova criação de personagens ainda está sendo refinada.
+Ela não é apenas um formulário final. É o **roteiro operacional de criação da personagem**.
 
-## Princípios
+## Ordem de criação
 
-```text
-FICHA
-→ fonte canônica primária da personagem.
-
-COMPETÊNCIAS E CONHECIMENTOS
-→ fatos sobre treinamento, experiência e autoridade legítima de saber.
-
-PODERES
-→ capacidades utilizáveis; graduação somente quando comparação de escala for necessária.
-
-TRAÇOS
-→ verdades automáticas dentro da descrição.
-
-RECURSOS
-→ posse, acesso, contatos e infraestrutura estáveis.
-
-ESTADO ATUAL
-→ mudanças temporárias e situação presente.
-```
-
-A ficha não exige mais, como base universal:
+Toda nova personagem é construída na mesma sequência:
 
 ```text
-Atributos numéricos
-Perícias numéricas
-Mana
-Vida e Mente por blocos mecânicos
-Pontos de Poder
-orçamentos por Patamar
+1. DESCRIÇÃO FÍSICA
+→ como a personagem existe visualmente no mundo.
+
+2. CONCEITO
+→ quem ela é em essência.
+
+3. HABILIDADES
+→ competências e conhecimentos sustentados por formação, experiência e conceito.
+
+4. TRAÇOS E PODERES
+→ verdades especiais e capacidades extraordinárias realmente justificadas pela personagem criada.
+
+5. DESCRIÇÃO EMOCIONAL / PERSONALIDADE
+→ tendências, desejos, medos, limites, hábitos e relações relevantes.
+
+6. HISTÓRICO
+→ origem, formação e fatos passados que explicam e sustentam a ficha.
+
+7. ESTADO ATUAL
+→ condições temporárias presentes no início ou durante a campanha.
 ```
 
-Esses elementos permanecem pendentes de revisão e só voltam se uma função narrativa concreta justificar sua existência.
+## Criação antes da comparação
 
-## Arquivos principais
+A ficha não começa perguntando quantos pontos serão distribuídos.
+
+Primeiro define-se a pessoa.
+
+Depois extraímos dela:
+
+```text
+quem é
+→ Conceito.
+
+como é
+→ Descrição Física.
+
+como pensa e reage
+→ Descrição Emocional / Personalidade.
+
+o que aprendeu
+→ Habilidades.
+
+o que consegue fazer de extraordinário
+→ Poderes.
+
+que verdades especiais possui
+→ Traços.
+
+por que tudo isso faz sentido
+→ Histórico.
+```
+
+Graduações de Poder, quando existirem, servem somente para comparação entre capacidades equivalentes.
+
+## Coerência como limite
+
+Nada entra na ficha apenas porque existe espaço para escrever.
+
+Toda Habilidade, Traço ou Poder precisa ser sustentado por pelo menos uma parte coerente da personagem:
+
+```text
+Conceito
+Descrição
+Origem
+Formação
+Experiência
+Histórico
+Natureza estabelecida
+```
+
+Se uma capacidade não encontra fundamento na personagem criada, ela precisa ser explicada antes de ser aprovada.
+
+> **A ficha não cria a personagem por orçamento. A personagem criada é que justifica o conteúdo da ficha.**
+
+## Fonte operacional
+
+As regras de leitura e construção ficam em:
 
 ```text
 1.0-descricao-da-ficha.md
 1.1-atributos-pericias-poderes.md
 1.2-poderes-e-equipamentos.md
+1.3-criacao-da-ficha.md
 1.4-tracos.md
 1.5-autoridade-da-ficha.md
-../nucleo/0.0-autoria-narrativa.md
-../nucleo/0.1-resolucao.md
 ```
 
-`1.3-criacao-da-ficha.md` ainda contém partes do motor anterior e será revisado em conjunto.
-
-> **A ficha deve dizer claramente quem a personagem é, o que sabe, o que pode fazer e quais fatos precisam ser respeitados — não reconstruir uma matemática que a cena não precisa.**
+`FICHA-EM-BRANCO.md` continua sendo a única estrutura copiável oficial durante a criação.
