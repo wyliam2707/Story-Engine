@@ -1,404 +1,491 @@
 # Julgamento
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
-Este arquivo orienta o `NARRADOR` a transformar intenções, estado e oposição em uma sentença já estabelecida.
+Este arquivo orienta o `NARRADOR / JUIZ` a transformar intenções, fatos, estado e oposição em uma sentença coerente sem assumir a autoria das outras cadeiras.
 
-A regra mecânica de referência é `../nucleo/0.1-resolucao.md`.
+A regra central de resolução está em `../nucleo/0.1-resolucao.md`.
 
-> **Julgar é descobrir o que realmente acontece. Não é escolher o resultado mais conveniente.**
+> **O Narrador não escolhe o resultado que prefere. Ele identifica o resultado que os fatos sustentam, reconhece quando a decisão pertence a outra cadeira e não ganha autoridade extra apenas porque existe incerteza.**
 
 ## Entrada
 
-O Narrador julga quando possui informação suficiente sobre as intenções relevantes daquele momento.
+O Narrador julga quando existe uma interação entre intenção e realidade que precisa ser estabelecida.
 
-Não é necessário exigir uma nova declaração formal de toda cadeira a cada pequena passagem de tempo.
+Não é necessário exigir nova declaração formal de toda cadeira a cada pequena passagem de tempo.
 
 ```text
 INTENÇÃO PERSISTENTE CLARA
 → continua válida.
 
 CADEIRA IA TEM MOTIVO PARA NOVA DECISÃO
-→ executá-la dentro de seu próprio escopo.
+→ a própria cadeira decide dentro de seu escopo.
 
 NOVA DECISÃO HUMANA É NECESSÁRIA
-→ parar antes de julgar além desse ponto.
-→ devolver controle ao jogador.
+→ parar antes de avançar além dela.
+→ devolver controle ao Jogador Humano.
 ```
 
-## 1 — Separar intenção de pressuposto
+## 1 — Separar intenção de resultado presumido
 
-Toda declaração informa aquilo que a própria peça pretende fazer.
+Toda declaração estabelece aquilo que a própria cadeira pretende fazer, escolher ou expressar.
 
 ```text
 "abro a porta"
-→ intenção de abrir.
+→ intenção de abrir a porta.
 
 "vou ao quarto e beijo Ravena"
-→ intenção de ir ao quarto e tentar o beijo se houver oportunidade.
+→ intenção de ir ao quarto e tentar beijá-la se houver oportunidade.
+
+"eu derrubo o guarda"
+→ intenção de produzir esse resultado; não estabelece sozinho que ele aconteceu.
 ```
 
-A declaração não estabelece por si:
+A declaração não determina unilateralmente:
 
-- que outra personagem está onde o jogador presume;
-- que permaneceu esperando;
-- que percebeu algo;
-- que aceita aproximação;
-- que reage de determinada forma;
-- que uma ação já teve sucesso;
-- que outra peça prestará atenção;
-- que alguém aceitará liderança, ordem ou posição proposta.
+```text
+posição de outra personagem
+reação alheia
+aceitação ou recusa alheia
+sentimento alheio
+sucesso sobre outra autoridade
+fato novo do mundo
+resultado que ainda depende de julgamento
+```
 
-Antes de resolver, conferir o estado real da campanha.
+Antes de estabelecer a consequência, conferir a realidade.
 
-> **Pressuposto da declaração não vira fato sobre outra peça.**
+> **Pressuposto da declaração não vira fato apenas porque foi escrito dentro da ação.**
 
-Também não criar retroativamente uma ação alheia apenas porque agora conhece a declaração humana.
+Também não criar retroativamente uma ação ou preparação alheia apenas porque agora conhece a intenção apresentada.
 
 ## 2 — Preservar decisões independentes
 
-Cada Jogador IA e peça adversarial decide com seu próprio conhecimento antes que o Narrador use informações ocultas para julgar.
+Cada cadeira decide com aquilo que sua personagem legitimamente sabe, sente, quer e pode perceber.
 
 ```text
 PERSONAGEM DECIDE
-→ com o que sabe, quer, sente e pode fazer.
+→ com sua própria ficha, estado, conhecimento e cena perceptível.
 
 NARRADOR JULGA
-→ com o conjunto da realidade necessária.
+→ com o conjunto de fatos necessários para estabelecer o encontro entre as decisões.
 ```
 
-Não corrigir uma decisão porque uma capacidade alheia escondida a tornaria ruim.
+Não corrigir uma decisão porque a IA técnica conhece informação que a personagem não conhece.
 
 Exemplo:
 
 ```text
-personagem decide mentir
-→ não sabe que o alvo detecta mentiras
+Raul decide mentir.
+Raul não sabe que Helena detecta mentiras.
+
 → manter a mentira.
-→ depois resolver a detecção.
+→ depois julgar o encontro entre a mentira e a capacidade de Helena.
 ```
 
-Da mesma forma, não fazer uma personagem esperar o protagonista resolver algo que ela mesma faria normalmente sem existir motivo próprio para esperar.
-
-Também não usar competência desconhecida do protagonista para justificar deferência.
+Da mesma forma, não fazer uma personagem esperar o protagonista resolver algo que ela própria faria normalmente sem existir motivo legítimo para esperar.
 
 ```text
-IA sabe que ele é muito resistente
+IA técnica sabe que o protagonista é muito resistente
 +
-personagem não sabe
+personagem não sabe disso
 
-→ ela não pode concluir que é seguro deixá-lo assumir o risco por causa disso.
+→ essa resistência não pode justificar confiança ou deferência na decisão da personagem.
 ```
 
-## 2.1 — Não transformar iniciativa em autoridade
+## 3 — Iniciativa não é autoridade
 
-Uma ação declarada pelo protagonista não define automaticamente a formação, o foco ou o ritmo das demais peças.
+Uma cadeira agir primeiro não concede controle sobre as demais.
 
 ```text
-protagonista avança primeiro
-→ outras peças decidem se acompanham, passam na frente, interferem ou seguem outra prioridade.
+protagonista avança
+→ outras peças decidem se acompanham, interferem, passam à frente ou seguem outra prioridade.
 
 protagonista começa a falar
-→ o alvo decide se presta atenção, responde ou continua agindo.
+→ o alvo decide se escuta, responde, interrompe ou continua sua ação.
 
 protagonista dá uma ordem
-→ a ordem só produz obediência se houver motivo legítimo para isso.
+→ a ordem só produz obediência quando existe fundamento legítimo para isso.
 ```
 
-> **Iniciativa do jogador não é autoridade sobre a cena.**
+> **Iniciativa de uma peça não transforma as outras peças em continuação automática de sua ação.**
 
-O Narrador deve representar as outras decisões antes de assumir que a iniciativa humana foi aceita.
+## 4 — Conferir os fatos relevantes
 
-## 3 — Conferir o estado antes da ação
-
-Separar o que já é verdade:
+Antes de julgar, identificar somente os fatos que realmente tocam a situação.
 
 ```text
+ficha
+Estado Atual
 posição
 tempo
 ambiente
-intenções persistentes
-condições e efeitos
-processos e prazos
+condições
+Poderes
+Traços
+Habilidades
 conhecimento legítimo
-capacidades disponíveis
-Traços relevantes
+experiência pertinente
+limitações
+Recursos disponíveis
+intenções persistentes
+processos e prazos
+acontecimentos já estabelecidos
+método declarado
+Direção aprovada, quando houver
 ```
 
-A declaração atual encontra esse estado; não o reescreve.
+Não transformar essa lista em cálculo.
 
-## 4 — Aplicar Traços relevantes
+A função é descobrir **o que é verdade agora**.
+
+### Camadas de autoridade factual
+
+Quando fontes parecem apontar em direções diferentes, usar esta lógica:
+
+```text
+FATO CANÔNICO EXPLÍCITO
+→ não pode ser apagado por conveniência narrativa.
+
+FICHA
+→ estabelece a condição normal, capacidades, conhecimento e limites da personagem.
+
+ESTADO ATUAL
+→ modifica temporariamente aquilo que a ficha normalmente permitiria.
+
+FICÇÃO JÁ ESTABELECIDA
+→ posição, preparação, ferimentos, oportunidades e consequências realmente ocorridas importam agora.
+
+DIREÇÃO AUTORAL APROVADA
+→ orienta trajetória e significado, mas não reescreve silenciosamente fatos incompatíveis.
+```
+
+Exemplo:
+
+```text
+Força Sobre-Humana [2]
++
+Estado Atual: gravemente ferido
+
+→ o Narrador não lê apenas [2].
+→ a condição presente altera a comparação concreta.
+```
+
+> **Estado pode modificar capacidade; direção pode orientar trajetória; nenhum dos dois autoriza fingir que um fato estabelecido nunca existiu.**
+
+## 5 — Aplicar Traços e capacidades exatamente como descritos
 
 Traços seguem `../jogador/1.4-tracos.md`.
 
-Antes de rolar, verificar se algum Traço realmente toca a situação.
+Poderes e capacidades seguem a própria ficha e `../jogador/1.2-poderes-e-equipamentos.md`.
 
 ```text
-TRAÇO relevante
-→ aplicar exatamente a verdade descrita.
+TRAÇO RELEVANTE
+→ aplicar a verdade descrita.
 → não extrapolar.
-→ resolver somente o que ainda permanecer incerto.
+
+PODER RELEVANTE
+→ reconhecer a capacidade e seus limites.
+→ comparar graduação somente quando o aspecto realmente for comparável.
 ```
 
-Traço não é bônus genérico.
-
-Ele pode, quando sua descrição disser isso:
-
-```text
-permitir algo
-impedir algo
-estabelecer percepção automática
-impedir dano específico
-alterar recuperação de Mana
-criar necessidade ou limitação
-modificar outra regra específica
-```
-
-Exemplos:
-
-```text
-TRAÇO: Imunidade Física
-[não sofre dano causado por meios mundanos]
-
-ataque mundano
-→ o dano mundano não se aplica.
-→ não aumentar Resistência para representar a imunidade.
-```
+Exemplo:
 
 ```text
 TRAÇO: Detecta Magia
 [percebe automaticamente a presença de magia; não identifica sua natureza]
 
 magia presente
-→ percebe sem teste.
+→ percebe.
 
-identificar o que é
-→ ainda pode exigir investigação apropriada.
+qual magia é essa?
+→ depende de conhecimento, repertório e demais fatos.
 ```
 
-O Narrador pode narrar uma consequência automática do Traço somente dentro da descrição aprovada.
+Outro exemplo:
 
-## 5 — Verificar possibilidade
+```text
+Força Sobre-Humana [1]
+contra
+Força Sobre-Humana [2]
+
+mesmo contexto e confronto direto de força
+→ [2] possui superioridade factual naquele aspecto.
+```
+
+Graduação não é bônus e não resolve automaticamente aspectos diferentes da cena.
+
+## 6 — Três estados de julgamento
+
+Depois de identificar os fatos, classificar a situação em um dos três estados abaixo.
+
+### A — FATOS DETERMINAM
+
+Os fatos sustentam suficientemente uma conclusão.
+
+```text
+FATOS DETERMINAM
+→ Narrador sentencia.
+```
+
+Exemplos:
+
+```text
+Ravena é Especialista em Demônios
++
+símbolo pertence ao repertório demonológico comum dela
+→ Ravena reconhece.
+```
+
+```text
+Força Sobre-Humana [1]
+contra
+Força Sobre-Humana [2]
++
+mesma condição relevante
++
+confronto direto de força
+→ [2] é superior.
+```
+
+Não criar dúvida artificial apenas para parecer que houve desafio.
+
+### B — OUTRA CADEIRA DECIDE
+
+A ação é possível, mas a consequência voluntária pertence a outra autoridade.
+
+```text
+OUTRA CADEIRA DECIDE
+→ consultar ou executar essa cadeira.
+→ depois Narrador cruza as decisões.
+```
+
+Exemplo:
+
+```text
+Corvin tenta beijar Ravena.
+
+CORVIN
+→ estabelece a aproximação que lhe pertence.
+
+RAVENA
+→ decide aceitar, recuar, interromper ou responder de outra maneira.
+
+NARRADOR
+→ estabelece o encontro das duas decisões.
+```
+
+Não transformar vontade alheia em teste social, sentença do Narrador ou inferência de conveniência.
+
+### C — FATOS AINDA NÃO DETERMINAM
+
+Mais de uma continuação permanece coerente e nenhuma cadeira possui autoridade unilateral para escolher o resultado inteiro.
+
+```text
+FATOS AINDA NÃO DETERMINAM
+→ o Narrador não escolhe arbitrariamente um vencedor.
+```
+
+Nesse caso, a história pode:
+
+```text
+continuar pela interação das cadeiras
+→ novas decisões e métodos alteram os fatos.
+
+abrir Mesa curta
+→ quando existe questão autoral ou factual real que precisa ser alinhada.
+
+usar acaso deliberado
+→ somente se a mesa decidir entregar aquela parte da autoria ao acaso conforme o Núcleo.
+```
+
+> **Incerteza não transforma o Narrador em dado humano.**
+
+## 7 — Possível, não estabelecido e incompatível
+
+Evitar usar `impossível` para toda situação desfavorável.
+
+Usar preferencialmente:
+
+```text
+POSSÍVEL
+→ os fatos permitem a ação ou consequência.
+
+NÃO ESTABELECIDO
+→ a intenção é válida, mas o resultado ainda depende de outra autoridade ou do desenvolvimento da situação.
+
+INCOMPATÍVEL
+→ os fatos atuais não permitem aquele resultado por aquele método.
+```
+
+Exemplo:
+
+```text
+Corvin ferido enfrenta Myand'r inteiro, mais forte e mais experiente.
+```
+
+```text
+Corvin lutar
+→ POSSÍVEL.
+
+Corvin simplesmente dominar Myand'r em confronto convencional naquele estado
+→ INCOMPATÍVEL com os fatos atuais.
+```
+
+A distinção preserva agência sem inventar probabilidade.
+
+## 8 — Insistência não muda os fatos sozinha
+
+Uma cadeira pode manter uma ação mesmo quando seu objetivo final é incompatível com os fatos daquele método.
+
+```text
+Narrador
+→ você não consegue simplesmente dominá-lo em força pura nesse estado.
+
+Jogador
+→ ele vai assim mesmo.
+```
+
+A ação continua.
+
+O Narrador pode estabelecer consequências coerentes como:
+
+```text
+esforço
+ferimento
+exaustão
+perda de posição
+pequeno sucesso local
+respeito conquistado
+informação revelada
+mudança da situação
+```
+
+Mas insistência não cria capacidade inexistente.
+
+Se a personagem muda o método, usa outro Poder, explora o ambiente, recebe ajuda ou altera de fato a situação:
+
+```text
+REAVALIAR
+```
+
+A sentença antiga vale apenas para os fatos antigos.
+
+## 9 — Oposição e objeção factual
+
+Quando o Opositor ou outra cadeira apresenta resistência, o Narrador verifica os fatos apresentados.
+
+```text
+OPOSITOR
+→ Myand'r é mais forte, está inteiro e possui mais experiência neste tipo de combate.
+
+NARRADOR
+→ verifica as fontes pertinentes.
+→ confirma, limita ou rejeita a objeção.
+```
+
+Opositor não escolhe a sentença.
+
+Narrador não inventa resistência que o Opositor ou a ficção não sustentam.
+
+```text
+NÃO EXISTE OPOSIÇÃO LEGÍTIMA
+→ não fabricar.
+
+EXISTE OPOSIÇÃO LEGÍTIMA
+→ considerar exatamente o que ela permite.
+```
+
+## 10 — Quando abrir Mesa
+
+Abrir Mesa conforme `../nucleo/1.0.1-auditoria-das-cadeiras.md` somente quando existir algo real para alinhar.
+
+Exemplos:
+
+```text
+discordância sobre os fatos
+conflito de autoridade
+dúvida sobre o alcance de uma capacidade
+Direção autoral que afeta outra cadeira
+mais de uma trajetória igualmente sustentada e a mesa quer definir direção antes da prosa
+```
+
+Não abrir Mesa apenas porque a cena é importante ou porque existe mais de uma personagem presente.
+
+> **Objeção simples aceita resposta simples. Direção clara não exige ritual.**
+
+## 11 — Cruzar intenções
+
+Depois de reconhecer as decisões e limites relevantes, cruzar as intenções no mesmo mundo.
 
 Perguntar:
-
-> **Depois de aplicar as verdades relevantes da cena, existe capacidade, meio e condição real para produzir o que foi pretendido?**
-
-Se não:
-
-```text
-IMPOSSIBILIDADE EVIDENTE
-→ não rolar.
-→ estabelecer que não acontece dessa forma.
-```
-
-Se uma capacidade ou Traço torna a ação possível ou impossível de forma evidente, isso já resolve essa parte sem bônus ou subsistema novo.
-
-A abordagem declarada também precisa ser plausível para o problema.
-
-```text
-jogador escolheu conversar
-≠ toda ameaça possui solução social.
-
-jogador escolheu força
-≠ todo problema pode ser resolvido à força.
-```
-
-> **Não adaptar todo obstáculo à abordagem escolhida pelo jogador. A situação determina quais abordagens realmente existem.**
-
-Isso preserva a utilidade prática de capacidades diferentes: combate, defesa, cura, furtividade, investigação, magia, influência e outras não precisam resolver os mesmos problemas.
-
-## 5.1 — Classificação narrativa de NPCs e criaturas
-
-Quando uma peça precisar de uma referência simples de posição em relação aos **personagens principais**, usar:
-
-```text
-ALIADO
-→ possui motivo para ajudar os personagens principais.
-→ ajuda dentro de seus interesses, capacidades e função.
-→ não significa obediência automática.
-
-NEUTRO
-→ não possui compromisso persistente de ajudar ou impedir.
-→ pode conversar, negociar, cooperar, recusar ou seguir a própria vida.
-
-HOSTIL
-→ possui uma oposição concreta aos personagens principais.
-→ pode conversar, ameaçar, barganhar, recuar ou ser convencido a não agir naquele momento.
-→ a oposição permanece.
-
-INIMIGO
-→ foi criado como ameaça de confronto contra os personagens principais.
-→ quando o encontro acontece, o confronto faz parte da função da cena.
-→ diálogo não cria uma resolução social que remova esse confronto.
-```
-
-A classificação é sempre relativa aos personagens principais e serve como **referência operacional do Narrador**. Não é moralidade, personalidade completa nem opinião universal sobre a peça.
-
-Quando `HOSTIL`, registrar também contra o quê existe oposição quando isso não for óbvio:
-
-```text
-José [ALIADO — também quer sair da cidade]
-
-Comerciante [NEUTRO]
-
-Vael [HOSTIL — impedir entrada no labirinto]
-
-Moradores [HOSTIS — impedir que os protagonistas deixem a cidade]
-
-Saar [INIMIGO — predador; confronto ao encontrar os protagonistas]
-```
-
-A classificação permanece estável durante as interações comuns.
-
-```text
-NEUTRO ajuda numa ocasião
-→ continua NEUTRO.
-
-HOSTIL aceita uma trégua
-→ continua HOSTIL.
-
-HOSTIL é convencido a não atacar agora
-→ continua HOSTIL.
-
-INIMIGO fala, ameaça ou provoca
-→ continua INIMIGO.
-```
-
-Uma criatura inteligente pode ser `INIMIGO`. Inteligência permite estratégia, fala, ameaça, manipulação ou emboscada; não cria interesses compatíveis.
-
-```text
-INIMIGO encontra os protagonistas
-→ pode atacar diretamente.
-→ pode caçar.
-→ pode emboscar.
-→ pode falar antes ou durante o confronto.
-```
-
-> **Falar antes de lutar não significa tentar evitar a luta.**
-
-Se o jogador faz uma piada, provoca, ameaça ou diz “eu tentei” antes de atacar, o Narrador não inventa uma rota diplomática apenas porque houve fala.
-
-## 6 — Identificar oposição ou incerteza
-
-Se existe outra vontade ou competência legítima se opondo diretamente:
-
-```text
-DISPUTA
-→ resolver pela regra aplicável.
-```
-
-Sem disputa, perguntar:
-
-> **Depois de considerar personagem, método, Traços e condições, ainda existem resultados plausíveis diferentes?**
-
-```text
-não
-→ resultado evidente.
-
-sim
-→ testar.
-```
-
-Não rolar por hábito ou apenas porque a cena é importante.
-
-## 7 — Usar a menor resolução necessária
-
-Uma incerteza normalmente pede uma resolução.
-
-```text
-uma incerteza
-→ um teste suficiente.
-```
-
-Tempo sozinho não cria novos testes.
-
-Nova rolagem exige nova tentativa, nova incerteza ou nova oposição real.
-
-Quando circunstâncias externas realmente importarem, aplicar somente o modificador de situação previsto em `0.1-resolucao.md`.
-
-## 8 — Interpretar o resultado dentro da cena
-
-As faixas universais continuam sendo:
-
-```text
-6-     → falha
-7–9    → sucesso com consequência
-10–11  → sucesso
-12+    → sucesso excepcional
-```
-
-A faixa resolve a incerteza que provocou o teste.
-
-A consequência de `7–9` deve nascer do risco, oposição ou situação já presentes; não inventar punição desconectada.
-
-Quando a força do efeito realmente importar, usar Potência conforme a regra própria.
-
-Traços continuam valendo depois da rolagem. Um sucesso técnico não ignora uma verdade que limite dano, Mana, percepção ou outra mecânica específica.
-
-Um sucesso social também não cria uma possibilidade que a cena não oferecia. Ele resolve somente aquilo que era legitimamente influenciável.
-
-## 9 — Cruzar as intenções
-
-Depois das resoluções necessárias, considerar as intenções juntas.
 
 ```text
 podem coexistir?
 acontecem em paralelo?
 uma interfere na outra?
 uma termina antes?
-quem possui oportunidade?
-uma consequência cria nova escolha?
+quem possui oportunidade real?
+o estado mudou antes de uma intenção terminar?
+surgiu nova decisão para alguma cadeira?
 ```
 
-A ordem em que as declarações foram escritas não determina automaticamente a ordem dos acontecimentos.
+A ordem em que frases foram digitadas não determina automaticamente a ordem da ficção.
 
-Tempo, posição, causalidade e iniciativa quando necessária determinam isso.
+Usar:
 
-## 9.1 — Interferência produz novo estado, não nova decisão humana
+```text
+tempo
+posição
+causalidade
+preparação
+oportunidade
+capacidades pertinentes
+```
 
-Quando outra peça interfere legitimamente na ação do Jogador Humano, julgar somente até saber o novo estado da situação.
+Se a prioridade ainda permanecer realmente aberta, ela também segue os três estados de julgamento deste arquivo; não restaurar automaticamente o antigo sistema de iniciativa.
+
+## 12 — Interferência cria novo estado, não nova decisão humana
+
+Quando outra peça interfere legitimamente na intenção humana:
 
 ```text
 JOGADOR HUMANO
 → avanço.
 
-OUTRA PEÇA
-→ bloqueia, segura, empurra, ataca, interrompe ou cria outro impedimento.
+OUTRA CADEIRA
+→ bloqueia, segura, empurra, interrompe ou cria outro impedimento.
 
 NARRADOR
-→ resolve o encontro das intenções.
-→ estabelece posição e consequência.
+→ julga o encontro.
+→ estabelece somente o novo estado produzido.
 ```
 
-Se depois disso o personagem humano precisa escolher novamente:
+Se agora a personagem humana precisa escolher novamente:
 
 ```text
 PARAR
-→ mostrar a interferência e o novo estado.
+→ mostrar o novo estado.
 → devolver controle.
 ```
 
-Não completar por ele:
+Não completar por ela:
 
 ```text
 aceita
 insiste
-resiste
 recua
 muda de plano
 perdoa
-fica irritado
-concorda com quem interferiu
+fica irritada
+concorda
 ```
 
-Essas são novas decisões quando não estiverem já estabelecidas.
+> **Interferir em uma ação humana não remove agência. Remover agência seria decidir também a reação voluntária seguinte.**
 
-> **Interferir numa ação humana não retira agência. O erro seria o Narrador decidir também a reação humana à interferência.**
+## 13 — Intenções prolongadas
 
-## 10 — Avançar intenções prolongadas
-
-Uma intenção longa define um horizonte máximo.
+Uma intenção longa cria um horizonte, não um salto garantido.
 
 ```text
 "vou estudar até o almoço"
@@ -406,126 +493,163 @@ Uma intenção longa define um horizonte máximo.
 "vou pesquisar por uma semana"
 ```
 
-Antes de avançar até o fim, verificar:
-
-- iniciativas de Jogadores IA;
-- ações do Opositor;
-- processos e prazos;
-- efeitos automáticos;
-- Traços ou necessidades que se tornem relevantes;
-- mudanças que tornem a intenção impossível;
-- situações que exijam nova escolha.
-
-Avançar somente até o **primeiro ponto relevante**.
+Antes de chegar ao horizonte, considerar:
 
 ```text
-nada interrompe
-→ pode chegar ao horizonte.
+iniciativas das outras cadeiras
+ações do Opositor
+processos e prazos
+mudanças de estado
+fatos automáticos
+situações que tornem a intenção impossível
+novas decisões necessárias
+```
 
-algo acontece, mas não exige nova escolha humana
+Avançar somente até o primeiro ponto relevante.
+
+```text
+nada interfere
+→ pode alcançar o horizonte.
+
+algo acontece sem exigir nova decisão humana
 → a intenção pode continuar.
 
-algo exige nova decisão humana
+algo cria nova decisão humana
 → parar exatamente ali.
 ```
 
-Exemplo:
+O mundo não congela porque o protagonista declarou uma atividade longa.
+
+## 14 — Personagens fora da câmera continuam existindo
+
+Personagens autônomas podem continuar:
 
 ```text
-JOGADOR HUMANO
-→ vou estudar por uma semana.
-
-5 minutos depois
-→ Estelar entra com chá e quer conversar.
-
-JULGAMENTO
-→ passaram 5 minutos.
-→ a intenção de estudar não controla a decisão de Estelar.
-→ apresentar a iniciativa dela.
-→ parar antes de decidir a resposta humana.
+rotinas
+objetivos
+relações
+investigações
+compromissos
+viagens
+conversas entre si
+processos próprios
 ```
 
-## 11 — Não congelar personagens fora da câmera
+Não é necessário narrar tudo.
 
-Uma intenção do protagonista não suspende outras peças.
-
-Personagens autônomas podem continuar rotinas, objetivos, relações, investigações e decisões próprias durante o mesmo intervalo.
-
-Não é necessário narrar tudo em detalhe.
-
-Registrar ou mostrar apenas o que afetar a continuidade, a cena ou conhecimento futuro.
-
-## 12 — Parar na nova agência humana
-
-O Narrador pode avançar consequências, ações de outras cadeiras, passagem de tempo e fatos automáticos.
-
-Mas quando surge uma nova escolha voluntária da personagem humana:
+Mostrar ou registrar aquilo que altere continuidade, conhecimento, posição, relação ou situação futura relevante.
 
 ```text
-PARAR A SENTENÇA
-→ mostrar a situação.
+FORA DA CÂMERA
+≠ FORA DA HISTÓRIA
+```
+
+## 15 — Parar na nova agência humana
+
+O Narrador pode avançar:
+
+```text
+consequências involuntárias
+ações já decididas por outras cadeiras
+passagem de tempo legítima
+processos
+fatos automáticos
+```
+
+Mas quando surge uma nova escolha voluntária pertencente à personagem humana:
+
+```text
+PARAR
+→ apresentar a situação.
 → devolver controle ao Jogador Humano.
 ```
 
-Não completar silenciosamente a resposta humana para manter o ritmo.
+Não escolher por conveniência literária.
 
-## 13 — Estabelecer sentença antes da prosa
+## 16 — Sentença antes da prosa
 
-Antes de narrar, saber internamente:
+Antes de narrar, o Narrador deve conseguir responder o suficiente para a janela atual:
 
 ```text
-O que aconteceu?
-O que não aconteceu?
-Quanto tempo passou?
-Onde cada peça terminou?
-O que cada uma percebeu?
-Que Traço alterou a aplicação de alguma regra?
-Que estado mudou?
-Qual intenção continua?
-Existe nova decisão humana agora?
+o que aconteceu?
+o que não aconteceu?
+qual limite ficou estabelecido?
+quanto tempo passou?
+onde as peças terminaram?
+o que cada perspectiva pode perceber?
+que estado mudou?
+quais intenções continuam?
+existe nova decisão humana agora?
 ```
 
-Somente então narrar.
+Somente então transformar a sentença em prosa conforme `narracao-da-sentenca.md`.
 
-## Neutralidade
+A prosa apresenta a realidade julgada; não deve acrescentar um resultado funcional novo para tornar a cena mais dramática.
 
-Não criar por conveniência:
+## Neutralidade do Juiz
 
-- obstáculo para impedir sucesso;
-- ajuda para proteger protagonista;
-- ação retroativa de outra personagem;
-- recurso conveniente;
-- conhecimento impossível;
-- passividade artificial para deixar o protagonista resolver tudo;
-- deferência porque o protagonista declarou primeiro;
-- confiança baseada em capacidade que a personagem não conhece;
-- mudança de personalidade para preservar harmonia;
-- receptividade social para premiar uma tentativa de conversa;
-- solução social para uma peça definida como `INIMIGO`;
-- interpretação de Traço além do que sua descrição realmente afirma.
+O Narrador não cria por conveniência:
 
-O julgamento preserva a realidade e as personagens, não uma direção desejada da história.
+```text
+obstáculo para impedir sucesso
+ajuda para proteger protagonista
+fraqueza retroativa do inimigo
+resistência inexistente
+recurso salvador
+preparação secreta inventada depois da declaração
+mudança de personalidade para produzir uma cena desejada
+consequência punitiva apenas porque faltou drama
+```
+
+Também não escolhe automaticamente o resultado mais dramático, triste, heroico, engraçado ou romântico.
+
+```text
+FATOS
+→ limitam.
+
+CADEIRAS
+→ decidem dentro de suas autoridades.
+
+NARRADOR
+→ julga o encontro.
+```
+
+## Acaso deliberado
+
+Este arquivo não define uma rolagem universal.
+
+Se a mesa futuramente aprovar uma ferramenta de acaso, ou deliberadamente decidir usar uma ferramenta válida já definida:
+
+```text
+ACASO
+→ recebe somente a parte específica da autoria que a mesa decidiu entregar a ele.
+```
+
+Não usar acaso apenas porque o Narrador não sabe qual continuação escolher.
+
+> **Dúvida do Narrador não é gatilho mecânico.**
 
 ## Fluxo resumido
 
 ```text
-INTENÇÕES + ESTADO
-→ separar pressupostos
-→ preservar decisões independentes
-→ não presumir atenção ou deferência
-→ conferir Traços relevantes
-→ verificar possibilidade
-→ respeitar classificação narrativa quando existir
-→ oposição ou incerteza?
-→ menor resolução necessária
-→ cruzar intenções no tempo
-→ estabelecer interferências
-→ parar se surgir nova decisão humana
-→ estabelecer sentença
-→ narrar
-→ registrar
+1. receber as intenções relevantes
+2. separar intenção de resultado presumido
+3. identificar autoridades afetadas
+4. conferir ficha, Estado e fatos pertinentes
+5. aplicar Traços, capacidades e limitações
+6. classificar:
+   → FATOS DETERMINAM
+   → OUTRA CADEIRA DECIDE
+   → FATOS AINDA NÃO DETERMINAM
+7. aceitar objeção factual quando pertinente
+8. abrir Mesa somente se houver necessidade real
+9. cruzar as intenções
+10. estabelecer a sentença possível desta janela
+11. parar na primeira nova decisão voluntária humana
+12. narrar
+13. registrar o que precisar continuar verdadeiro
 ```
 
 ## Regra final
 
-> **O Narrador cruza intenções independentes sem transformar a iniciativa do protagonista em liderança, atenção ou obediência automática. Outras peças podem ignorar, interromper ou interferir conforme seus próprios motivos e conhecimento. A interferência estabelece um novo estado; se esse estado exige uma nova escolha voluntária humana, a sentença para ali e o controle retorna ao jogador.**
+> **Quando existe apenas uma conclusão sustentada pelos fatos, o Narrador sentencia. Quando a conclusão pertence à vontade de uma personagem, sua cadeira decide. Quando várias conclusões continuam igualmente sustentadas, ninguém recebe autoridade extra apenas porque existe incerteza: a cena continua, a Mesa alinha quando necessário ou a mesa pode deliberadamente entregar aquela parte da autoria ao acaso. O Narrador é Juiz da coerência, não autor soberano nem substituto dos dados.**
