@@ -1,37 +1,35 @@
 # Fechar Capítulo — Reset Operacional
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define o comportamento do comando **`fechar o capítulo`** durante uma campanha.
 
-Variações equivalentes, como `fechar capítulo` ou sem acento, usam o mesmo protocolo.
+> **Fechar o capítulo é salvar a história, atualizar as fontes, fazer um reset operacional e reancorar a mesa antes de continuar.**
 
-> **Fechar o capítulo é salvar a história, atualizar as fontes, fazer um reset operacional e reancorar a IA antes de continuar.**
-
-## Função do comando
+## Função
 
 O comando existe para impedir que uma sessão longa degrade gradualmente:
 
-- regras de agência;
-- interpretação das personagens;
-- tom e foco da campanha;
-- direção da temporada;
-- critérios de julgamento do Narrador;
-- separação entre conhecimento técnico e conhecimento das personagens.
+```text
+regras de agência
+interpretação das personagens
+tom e foco da campanha
+direção da temporada
+critérios de julgamento
+separação entre conhecimento técnico e conhecimento ficcional
+```
 
 Ele não apaga o que aconteceu.
 
-Ele transforma o capítulo encerrado em fontes canônicas e faz essas fontes voltarem a ser a base operacional do próximo capítulo.
-
 ```text
 CONVERSA DO CAPÍTULO
-→ matéria que acabou de ser jogada.
+→ matéria jogada.
 
 LIVRO + ESTADO + FICHAS + OUTRAS FONTES ATUALIZADAS
-→ memória canônica depois do fechamento.
+→ memória canônica consolidada.
 
-MODELO OPERACIONAL REANCORADO
-→ modo de operação do próximo capítulo.
+MODELO REANCORADO
+→ base operacional do capítulo seguinte.
 ```
 
 ## Protocolo
@@ -51,22 +49,24 @@ Ao receber `fechar o capítulo`:
 
 Parar exatamente no último fato legitimamente estabelecido.
 
-Antes de salvar:
+Não criar:
 
-- não criar despedida;
-- não terminar uma conversa que ainda não terminou;
-- não avançar para a manhã seguinte;
-- não executar evento futuro;
-- não decidir reação ainda pendente;
-- não fabricar cliffhanger.
+```text
+despedida
+fala final conveniente
+passagem de tempo
+reação ainda pendente
+cliffhanger fabricado
+nova decisão humana
+```
 
-O fechamento não cria um final melhor. Ele usa o ponto em que a ficção realmente chegou.
+O fechamento não melhora artificialmente o final do capítulo.
 
 ## 2 — Consolidar
 
 Transformar o trecho encerrado em capítulo do Livro conforme `livro-e-capitulos.md`.
 
-O Livro preserva:
+Preservar:
 
 ```text
 o que realmente aconteceu
@@ -74,7 +74,7 @@ quem decidiu o quê
 mudanças de relação
 consequências
 descobertas
-passagem de tempo relevante
+passagem de tempo real
 causa e efeito necessários para continuidade
 ```
 
@@ -82,169 +82,145 @@ A forma literária pode melhorar. O cânone não muda.
 
 ## 3 — Atualizar
 
-Depois de consolidar o capítulo, atualizar somente as fontes realmente afetadas.
+Atualizar somente fontes realmente afetadas.
 
 ```text
 estado/atual.md
-→ ponto exato de continuação.
+→ realidade global presente e ponto de continuação.
 
 fichas
-→ somente mudanças consolidadas de personagem, relação ou conhecimento que precisem permanecer disponíveis.
+→ mudanças permanentes e recortes pessoais temporários pertinentes.
 
 mundo/
-→ somente verdade estável que mudou.
+→ verdades estáveis alteradas.
 
 opositor/
-→ planos, processos e prazos que continuem vivos ou tenham mudado.
+→ planos, processos e prazos vivos.
 
 mestre/
-→ somente informação operacional que realmente mudou.
+→ informação operacional realmente modificada.
 ```
 
 Seguir `salvar-a-historia.md`.
 
-Detalhe transitório que não precisa continuar verdadeiro não precisa ser promovido a registro permanente.
+Não promover detalhe transitório sem função futura a registro permanente.
 
 ## 4 — Reset operacional
 
-Depois que o capítulo foi salvo e as fontes foram atualizadas, considerar encerrado o contexto operacional daquele capítulo.
-
-Isso **não significa apagar literalmente a conversa**. Significa mudar a hierarquia usada para continuar.
-
-```text
-ANTES DO FECHAMENTO
-→ conversa recente ainda participa diretamente da operação.
-
-DEPOIS DO FECHAMENTO
-→ fontes canônicas atualizadas passam a ser a base operacional principal.
-```
+Depois do salvamento, fontes consolidadas voltam a ser a base principal.
 
 Não continuar carregando como autoridade:
 
-- interpretações provisórias;
-- detalhes transitórios não consolidados;
-- intenções já encerradas;
-- hipóteses descartadas;
-- leituras antigas substituídas por atualização de ficha ou Estado;
-- hábitos narrativos que surgiram apenas por repetição durante o capítulo.
+```text
+interpretações provisórias
+hipóteses descartadas
+intenções encerradas
+detalhes transitórios não consolidados
+leituras antigas substituídas
+hábitos narrativos surgidos apenas por repetição
+```
 
-Se algo do capítulo precisa continuar importando, deve estar recuperável no Livro ou em alguma fonte operacional apropriada.
-
-> **Reset operacional não apaga o passado. Ele impede que ruído acumulado da conversa substitua regras e fontes canônicas.**
+> **Reset operacional não apaga o passado. Ele impede que ruído acumulado substitua regras e fontes canônicas.**
 
 ## 5 — Recarregar e reancorar
 
-Antes de narrar o próximo capítulo, reancorar a operação conforme:
+Antes de narrar o próximo capítulo, seguir:
 
 ```text
 registro/reancoragem-operacional.md
 ```
 
-A reancoragem não significa apenas abrir arquivos. Ela reconstrói uma representação funcional e integrada do Motor, das personagens e do presente.
-
-### Sempre recarregar
+Carregar, por padrão:
 
 ```text
-regras-basicas/nucleo/1.0-tribunal.md
-regras-basicas/nucleo/1.3-jogador-ia.md
-regras-basicas/mestre/README.md
-regras-basicas/mestre/julgamento.md
-regras-basicas/mestre/perspectiva-e-fala.md
-regras-basicas/mestre/ritmo-e-descricao.md
-
+regras centrais de autoria e julgamento
 campanhas/<nome>/mestre/narrativa.md
 campanhas/<nome>/mestre/roteiro.md
 campanhas/<nome>/estado/atual.md
 fichas das personagens relevantes
 ```
 
-Se houver `JOGADOR IA EVENTUAL` ativo ou provável na abertura, recarregar também:
+Quando houver oposição relevante, carregar também as fontes adversariais pertinentes.
+
+Outras regras entram somente quando a cena realmente exigir.
+
+### Regras especializadas
+
+Consultar sob demanda, por exemplo:
 
 ```text
-regras-basicas/nucleo/1.4-jogador-ia-eventual.md
-```
+romance ou intimidade
+→ regra específica pertinente.
 
-Depois de carregar essas fontes, formar o modelo operacional descrito em `reancoragem-operacional.md` antes de continuar a ficção.
+criação emergente
+→ nucleo/1.7-criacao-emergente.md.
 
-### Recarregar sob demanda
-
-Consultar somente quando o próximo trecho realmente precisar:
-
-```text
-romance / intimidade
-→ mestre/intimidade-e-romance.md
-
-criação de cenário ou histórico menor
-→ nucleo/1.7-criacao-emergente.md
-
-combate, dano, Mana, movimento ou outra resolução específica
-→ regra mecânica pertinente
+conflito rápido ou combate
+→ núcleo atual de julgamento, capacidades, Estado e tempo.
 
 registro adicional
-→ arquivo pertinente de registro/
+→ arquivo pertinente de registro/.
 ```
 
-Se o foco persistente da campanha depender fortemente de uma regra específica — por exemplo romance — essa regra pode fazer parte da reancoragem normal daquela campanha.
+Não consultar `Vida`, `Mente`, `Mana`, dano matemático ou outros arquivos legados como se fossem um subsistema automaticamente ativado pela cena.
 
-Uma consulta específica deve detalhar ou corrigir o modelo já carregado; não deve substituir o restante do Motor por uma regra isolada.
+```text
+CENA FICOU PERIGOSA
+≠
+MOTOR LEGADO VOLTOU A SER ATIVO
+```
 
-Não reler `regras-basicas/` inteiro sem necessidade.
-
-> **Recarregar o núcleo operacional, formar a imagem integrada e consultar especialidades sob demanda.**
+Se uma capacidade possuir custo, recurso ou limitação própria legitimamente definida, consultar essa fonte específica.
 
 ## 6 — Continuar
 
-Depois da reancoragem, continuar a campanha a partir de `estado/atual.md`.
-
-Não presumir passagem de tempo nem uma nova decisão humana apenas porque começou outro capítulo.
+Depois da reancoragem, continuar a partir de `estado/atual.md`.
 
 ```text
 ESTADO DIZ QUE A CENA CONTINUA
-→ novo capítulo pode abrir exatamente dali.
+→ abrir o novo capítulo dali.
 
 ESTADO TERMINOU NUMA NOVA ESCOLHA HUMANA
-→ apresentar a situação e devolver a decisão.
+→ apresentar a situação e devolver controle.
 
 ESTADO PERMITE AVANÇO SEM NOVA ESCOLHA
 → continuar normalmente.
 ```
 
-O novo capítulo usa as fontes reancoradas como base, não a inércia narrativa do capítulo anterior.
+Não presumir passagem de tempo porque o arquivo do capítulo mudou.
 
-## Se o capítulo também encerrou a temporada
+## Se o capítulo encerrou a temporada
 
-Se a condição de encerramento de `mestre/roteiro.md` foi alcançada, o fechamento de temporada tem precedência sobre a abertura automática de outro capítulo.
+Se a condição de encerramento do roteiro foi alcançada:
 
 ```text
-FECHAR CAPÍTULO
-→ consolidar e atualizar
-→ reset operacional
-→ recarregar e reancorar
-→ reconhecer que a temporada terminou
+consolidar capítulo
+→ atualizar fontes
+→ reconhecer encerramento da temporada
 → escrever epílogo
 → arquivar roteiro
+→ organizar arquivo da temporada
 → perguntar “E agora?”
 ```
 
-Não abrir uma nova temporada ou novo arco antes da resposta a **“E agora?”**.
+Não abrir nova temporada automaticamente.
 
 ## Checklist
 
 ```text
 [ ] parei no último fato real?
 [ ] capítulo foi consolidado no Livro?
-[ ] Estado Atual representa exatamente a continuação?
-[ ] fichas só receberam mudanças realmente consolidadas?
+[ ] Estado global representa exatamente o presente?
+[ ] fichas receberam somente mudanças legítimas?
+[ ] condições temporárias foram atualizadas corretamente?
 [ ] processos, prazos e Opositor foram atualizados quando necessário?
-[ ] deixei de tratar ruído transitório da conversa como fonte principal?
-[ ] recarreguei o núcleo operacional?
-[ ] recarreguei narrativa, roteiro, estado e fichas relevantes?
-[ ] formei o modelo integrado conforme reancoragem-operacional.md?
-[ ] consultei regras específicas somente se necessárias?
+[ ] ruído transitório deixou de ser fonte principal?
+[ ] reancorei autoridades e realidade presente?
+[ ] não reativei Vida, Mente, Mana ou outro mecanismo legado por hábito?
 [ ] continuei sem inventar passagem de tempo ou decisão humana?
 [ ] se a temporada terminou, parei em “E agora?”?
 ```
 
 ## Regra final
 
-> **`Fechar o capítulo` significa: consolidar o passado, atualizar o presente, resetar o contexto operacional, recarregar as regras e fontes essenciais, reancorá-las como um modelo integrado e só então continuar. O Livro preserva o que aconteceu; o Estado mostra de onde continuar; as fichas preservam quem as personagens são; e a reancoragem impede que uma sessão longa substitua o sistema por hábitos narrativos acumulados.**
+> **`Fechar o capítulo` significa consolidar o passado, atualizar o presente, resetar o ruído operacional, reancorar a mesa e só então continuar. O checkpoint não reativa o motor legado: Vida, Mente, Mana e demais mecanismos antigos permanecem inativos salvo se uma nova regra canônica específica vier a defini-los deliberadamente.**
