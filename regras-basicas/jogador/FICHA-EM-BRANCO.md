@@ -40,6 +40,16 @@ Descrição do conceito:
 --- [Nome do Poder] [graduação apenas quando comparação for útil]
 [descrição objetiva do que permite fazer e limites relevantes]
 
+### Equipamentos e Recursos
+
+--- EQUIPAMENTO: [item extraordinário ou relevante]
+[capacidade, função, limite ou condição importante]
+
+--- RECURSO: [acesso, estrutura, patrimônio, veículo, contato institucional ou outro meio relevante]
+[escopo do recurso e o que ele realmente torna disponível]
+
+Registrar aqui somente aquilo cuja existência importa para identidade, capacidade ou continuidade da personagem. Itens cotidianos comuns não precisam ser listados.
+
 ## 5 — Descrição Emocional / Personalidade
 
 Personalidade:
@@ -62,7 +72,7 @@ Fatos passados que ainda influenciam a personagem:
 
 ## 7 — Estado Atual
 
---- [condição física, emocional, transformação, efeito ativo, ausência de equipamento, localização ou outra condição temporária relevante]
+--- [condição física, emocional, transformação, efeito ativo, ausência de equipamento, indisponibilidade de recurso, localização ou outra condição temporária relevante]
 
 ---
 
@@ -83,16 +93,16 @@ HABILIDADES
 → o que aprendeu a fazer e o que sabe.
 
 TRAÇOS E PODERES
-→ verdades especiais e capacidades extraordinárias sustentadas pela personagem criada.
+→ verdades especiais, capacidades extraordinárias, equipamentos e recursos relevantes sustentados pela personagem criada.
 
 DESCRIÇÃO EMOCIONAL / PERSONALIDADE
 → como tende a pensar, sentir, escolher e se relacionar.
 
 HISTÓRICO
-→ de onde veio e o que explica quem ela se tornou.
+→ de onde veio e o que explica quem ela se tornou e aquilo que possui ou acessa de forma relevante.
 
 ESTADO ATUAL
-→ como está agora; não redefine quem ela é.
+→ como está agora; também registra indisponibilidades temporárias sem apagar a posse ou o acesso canônico da ficha.
 ```
 
 A criação não distribui pontos para inventar capacidades.
@@ -113,6 +123,6 @@ HISTÓRICO
 → sustentam o conteúdo da ficha.
 ```
 
-Se uma Habilidade, Traço ou Poder não encontra fundamento suficiente na personagem criada, ele precisa ser explicado antes de ser aprovado.
+Se uma Habilidade, Traço, Poder, Equipamento ou Recurso relevante não encontra fundamento suficiente na personagem criada, ele precisa ser explicado antes de ser aprovado.
 
 > **Primeiro cria-se a personagem. Depois a ficha registra somente aquilo que essa criação sustenta.**
