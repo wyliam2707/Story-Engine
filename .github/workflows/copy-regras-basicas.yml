@@ -1,0 +1,44 @@
+name: Copy regras-basicas
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  copy:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout W4D-RPG
+        uses: actions/checkout@v4
+        with:
+          path: target
+
+      - name: Checkout Sistema-Narrativo
+        uses: actions/checkout@v4
+        with:
+          repository: wyliam2707/Sistema-Narrativo
+          ref: main
+          path: source
+
+      - name: Copy regras-basicas
+        run: |
+          rm -rf target/regras-basicas
+          cp -R source/regras-basicas target/regras-basicas
+
+      - name: Commit copied folder
+        working-directory: target
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add regras-basicas
+          if git diff --cached --quiet; then
+            echo "Nothing to copy"
+            exit 0
+          fi
+          git commit -m "Copy regras-basicas from Sistema-Narrativo"
+          git push
