@@ -231,11 +231,35 @@ Para cada uma, basta começar com:
 
 ```text
 Nome
-Importância
+IMPORTÂNCIA NARRATIVA
 CONTROLE
 Conceito, quando já conhecido
 ESTADO DA FICHA: EM CRIAÇÃO
 ```
+
+A Importância Narrativa serve somente para organizar quanto desenvolvimento e continuidade precisam ser preservados:
+
+```text
+PROTAGONISTA
+RECORRENTE
+EVENTUAL
+INCIDENTAL
+```
+
+Ela não mede poder, não concede bônus, não define autoridade e não determina quem vence uma cena.
+
+```text
+IMPORTÂNCIA NARRATIVA
+→ quanto preservar.
+
+CONTROLE
+→ quem decide.
+
+FICHA
+→ quem a personagem é e o que consegue fazer.
+```
+
+Não usar `Patamar` como nível geral durante a criação. Patamar pertence ao motor anterior e não faz parte da ficha ativa.
 
 Confirmar o elenco inicial antes da revisão detalhada das fichas.
 
@@ -469,4 +493,4 @@ Uma trama secundária pode receber desenvolvimento dentro dos limites preparados
 
 ## Regra final
 
-> **Nova campanha segue três passos dependentes: a Narrativa define que história queremos jogar; na primeira Temporada o Jogador fornece a direção e o Narrador cria o problema, lista o que precisa ser resolvido, responde previamente as questões estruturais e registra uma Diretriz Fechada; as Fichas são então construídas através da lente da campanha, usando a primeira temporada como contexto inicial. Depois do START, a IA improvisa dentro do tabuleiro preparado, não a verdade estrutural da temporada. Cada temporada termina com resolução, epílogo, consolidação e “E agora?”, e o ciclo retorna ao Passo 02.**
+> **Nova campanha segue três passos dependentes: a Narrativa define que história queremos jogar; na primeira Temporada o Jogador fornece a direção e o Narrador cria o problema, lista o que precisa ser resolvido, responde previamente as questões estruturais e registra uma Diretriz Fechada; as Fichas são então construídas através da lente da campanha, usando a primeira temporada como contexto inicial. Depois do START, a IA improvisa dentro do tabuleiro preparado, não a verdade estrutural da temporada. Cada temporada termina com resolução, epílogo, consolidação e “E agora?”, e o ciclo retorna ao Passo 02. Importância Narrativa organiza persistência e não funciona como nível de poder.**
