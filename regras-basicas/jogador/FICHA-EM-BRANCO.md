@@ -1,56 +1,56 @@
 # [NOME DA PERSONAGEM]
 
 ESTADO DA FICHA: EM CRIAÇÃO
-Importância: / CONTROLE: / Patamar:
+Importância: / CONTROLE:
 Nome real: / Idade:
 Aparência:
 Estilo:
 Conceito:
 Descrição:
 
-## Estado inicial
+## Estado Atual Inicial
 
-Vida [5 blocos]: Leve [ ] > Sério [ ] > Grave [ ] > Crítico [ ] > Incapacitado [ ]
-Mente [5 blocos]: Leve [ ] > Sério [ ] > Grave [ ] > Crítico [ ] > Incapacitado [ ]
-Mana [ ] / Deslocamento: andar [ ]
+--- Condição física:
+--- Condição mental/emocional:
+--- Localização inicial:
+--- Condições ou limitações ativas:
 
-## Atributos
+## Competências e Conhecimentos
 
-Força [ ] Agilidade [ ] Vigor [ ] Intelecto [ ] Vontade [ ] Presença [ ]
-Total de Atributos: [ ] / [ ]
-
-## Perícias
-
-Esporte [ ] Combate [ ] Defesa [ ] Conjuração [ ] Furtividade [ ] Percepção [ ] Investigação [ ] Sobrevivência [ ] Medicina [ ] Tecnologia [ ] Ocultismo [ ] Influência [ ] Enganação [ ] Ofício: [especialidade] [ ]
-Total de Perícias: [ ] / [ ]
+--- [competência, treinamento ou conhecimento relevante]
+--- Especialista em [área].
+--- Conhece [área, cultura, organização ou assunto].
 
 ## Poderes e Equipamentos
 
---- [Nome] [ ] - custo [ ] pontos.
-Pontos de Poder: [ ] / [ ]
+--- [Nome do Poder] [graduação, se comparação for necessária]
+[limite ou descrição objetiva, quando necessário]
+
+--- [Equipamento]
+[capacidade relevante, quando necessário]
 
 ## Traços
 
---- TRAÇO: [ ]
-[descrição objetiva, no máximo duas linhas]
+--- TRAÇO: [nome]
+[verdade objetiva dentro do escopo exato]
 
 ## Recursos
 
---- [Recurso]: [descrição objetiva]
+--- [Recurso]: [posse, acesso, contato ou infraestrutura estável]
 
-## Personalidade e tendências
-
---- [ ]
-
-## Desejos / objetivos
+## Personalidade e Tendências
 
 --- [ ]
 
-## Medos / limites
+## Desejos / Objetivos
 
 --- [ ]
 
-## Rotina e hábitos persistentes
+## Medos / Limites
+
+--- [ ]
+
+## Rotina e Hábitos Persistentes
 
 --- [ ]
 
@@ -68,10 +68,14 @@ Pontos de Poder: [ ] / [ ]
 
 --- [Relacionamento] [descrição pelo ponto de vista da personagem]
 
-## Conhecimento relevante
+## Conhecimento Relevante
 
---- [ ]
+--- [fato que a personagem legitimamente sabe e não pode simplesmente esquecer]
 
-## História consolidada relevante
+## História Consolidada Relevante
 
---- [ ]
+--- [fato passado que ainda altera interpretação, decisão ou capacidade]
+
+## Observações de Comparação
+
+--- [quando necessário, registrar diferenças relevantes que não cabem naturalmente em outro bloco]
