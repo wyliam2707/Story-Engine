@@ -1,7 +1,8 @@
 # [NOME DA PERSONAGEM]
 
 ESTADO DA FICHA: EM CRIAÇÃO
-Importância: / CONTROLE:
+IMPORTÂNCIA NARRATIVA: [PROTAGONISTA / RECORRENTE / EVENTUAL / INCIDENTAL]
+CONTROLE:
 Nome real: / Idade:
 
 ## 1 — Descrição Física
@@ -86,7 +87,36 @@ Se este recorte contradizer a mesma condição presente registrada no Estado da 
 
 Esta ficha é também o roteiro oficial de criação da personagem.
 
-Preencher na ordem:
+Antes dos sete blocos, registrar dois metadados distintos:
+
+```text
+IMPORTÂNCIA NARRATIVA
+→ quanto a campanha precisa preservar, acompanhar e desenvolver esta personagem.
+→ não mede poder, não concede autoridade e não altera resolução.
+
+CONTROLE
+→ qual cadeira decide voluntariamente pela personagem.
+```
+
+Usar a Importância Narrativa apenas como organização:
+
+```text
+PROTAGONISTA
+→ peça central ou permanente da campanha; desenvolvimento e continuidade exigem preservação profunda.
+
+RECORRENTE
+→ retorna com frequência e possui desenvolvimento que precisa persistir.
+
+EVENTUAL
+→ ganha relevância em partes específicas da história e precisa ser preservada enquanto isso importar.
+
+INCIDENTAL
+→ peça pequena cuja existência normalmente exige pouco registro persistente.
+```
+
+A Importância Narrativa não concede bônus, Vida, Mana, Poder, imunidade narrativa, prioridade de ação ou direito de decidir por outra cadeira.
+
+Preencher os sete blocos na ordem:
 
 ```text
 DESCRIÇÃO FÍSICA
@@ -129,6 +159,17 @@ HISTÓRICO
 → sustentam o conteúdo da ficha.
 ```
 
+Não existe `Patamar` ativo na ficha nova.
+
+```text
+PATAMAR
+→ conceito do motor anterior.
+→ não mede nível geral.
+→ não concede pontos.
+→ não limita Poderes.
+→ não determina resultados.
+```
+
 Se uma Habilidade, Traço, Poder, Equipamento ou Recurso relevante não encontra fundamento suficiente na personagem criada, ele precisa ser explicado antes de ser aprovado.
 
-> **Primeiro cria-se a personagem. Depois a ficha registra somente aquilo que essa criação sustenta.**
+> **Primeiro cria-se a personagem. Depois a ficha registra somente aquilo que essa criação sustenta. Importância organiza persistência; não mede poder.**
