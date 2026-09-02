@@ -51,7 +51,7 @@ DECLARAÇÃO
 → agência eventual com conhecimento separado.
 
 1.5-opositor.md
-→ oposição legítima e objeção factual curta.
+→ oposição legítima, objeção factual curta e precedência de cadeira própria sobre função adversarial.
 
 1.6-execucao-por-uma-unica-ia.md
 → separação técnica entre várias cadeiras executadas pela mesma IA.
@@ -118,6 +118,10 @@ MUNDO NEUTRO INDEFINIDO
 FATO PESSOAL NOVO
 → pertence à cadeira da personagem.
 
+CADEIRA PRÓPRIA
+→ prevalece sobre função adversarial.
+→ ser antagonista não transfere autoria ao Opositor.
+
 OPOSIÇÃO ESTRUTURAL
 → precisa pertencer à Diretriz Fechada antes do START.
 
@@ -127,6 +131,7 @@ CONFLITO DERIVADO
 OPOSITOR
 → pode jogar para vencer.
 → não pode reconstruir o tabuleiro para vencer.
+→ controla apenas forças adversariais sem cadeira própria.
 
 OBJEÇÃO SIMPLES
 → resposta simples.
@@ -170,16 +175,16 @@ iniciativa matemática
 Corvin
 → vai para cima do Rei para mostrar quem manda.
 
+CADEIRA DO REI
+→ decide como o Rei reage.
+
 Opositor
-→ O Rei é mais forte e está em melhores condições.
+→ apresenta que o Rei é mais forte e está em melhores condições.
 
 Narrador
-→ Corvin pode avançar e lutar, mas dominá-lo diretamente em força pura é incompatível com os fatos atuais.
+→ julga o encontro entre as duas intenções.
 
-Jogador
-→ ele vai assim mesmo.
-
-→ continuar a cena sem criar rolagem apenas para fingir que a diferença factual desapareceu.
+→ nenhuma rolagem é criada apenas para fingir que a diferença factual desapareceu.
 ```
 
 ## Regra estrutural
@@ -187,11 +192,13 @@ Jogador
 ```text
 JOGADORES
 → escrevem suas próprias peças.
+→ mantêm essa autoria mesmo quando suas personagens se tornam antagonistas.
 
 OPOSITOR
 → representa resistência e fatos adversariais legítimos.
-→ movimenta oposição existente e consequências derivadas.
+→ movimenta oposição existente sem cadeira própria e consequências derivadas.
 → não amplia retroativamente a Diretriz Fechada.
+→ não assume personagem que já possua cadeira própria.
 
 NARRADOR
 → julga coerência e causalidade.
@@ -209,4 +216,4 @@ TEMPO
 
 ## Regra final
 
-> **O Núcleo não existe para perguntar aos dados o que autores e ficção já conseguem determinar. Ele existe para preservar autoria, estabelecer limites, organizar o tempo, resolver conflitos de autoridade e manter a história coerente enquanto várias cadeiras a escrevem juntas. Arquivos legados não possuem autoridade sobre a reformulação atual; oposição estrutural pertence ao tabuleiro preparado e conflitos novos só surgem legitimamente quando a própria ficção os produz por causalidade.**
+> **O Núcleo não existe para perguntar aos dados o que autores e ficção já conseguem determinar. Ele existe para preservar autoria, estabelecer limites, organizar o tempo, resolver conflitos de autoridade e manter a história coerente enquanto várias cadeiras a escrevem juntas. Arquivos legados não possuem autoridade sobre a reformulação atual; oposição estrutural pertence ao tabuleiro preparado, conflitos novos só surgem legitimamente quando a própria ficção os produz por causalidade e uma personagem nunca perde sua cadeira apenas por se tornar antagonista.**
