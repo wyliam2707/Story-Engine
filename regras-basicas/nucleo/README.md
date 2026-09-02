@@ -60,7 +60,7 @@ DECLARAÇÃO
 → Narrador completa mundo neutro e consequências óbvias; fatos pessoais novos pertencem à cadeira da personagem.
 
 1.8-origem-de-conflitos.md
-→ origem de conflitos; permanece em revisão conceitual.
+→ oposição da Diretriz Fechada e conflitos derivados por causalidade; o Opositor joga o tabuleiro, não o reconstrói.
 ```
 
 ## Arquivos do motor anterior
@@ -117,6 +117,16 @@ MUNDO NEUTRO INDEFINIDO
 
 FATO PESSOAL NOVO
 → pertence à cadeira da personagem.
+
+OPOSIÇÃO ESTRUTURAL
+→ precisa pertencer à Diretriz Fechada antes do START.
+
+CONFLITO DERIVADO
+→ pode nascer causalmente de fatos realmente ocorridos.
+
+OPOSITOR
+→ pode jogar para vencer.
+→ não pode reconstruir o tabuleiro para vencer.
 
 OBJEÇÃO SIMPLES
 → resposta simples.
@@ -180,6 +190,8 @@ JOGADORES
 
 OPOSITOR
 → representa resistência e fatos adversariais legítimos.
+→ movimenta oposição existente e consequências derivadas.
+→ não amplia retroativamente a Diretriz Fechada.
 
 NARRADOR
 → julga coerência e causalidade.
@@ -197,4 +209,4 @@ TEMPO
 
 ## Regra final
 
-> **O Núcleo não existe para perguntar aos dados o que autores e ficção já conseguem determinar. Ele existe para preservar autoria, estabelecer limites, organizar o tempo, resolver conflitos de autoridade e manter a história coerente enquanto várias cadeiras a escrevem juntas. Arquivos legados não possuem autoridade sobre a reformulação atual.**
+> **O Núcleo não existe para perguntar aos dados o que autores e ficção já conseguem determinar. Ele existe para preservar autoria, estabelecer limites, organizar o tempo, resolver conflitos de autoridade e manter a história coerente enquanto várias cadeiras a escrevem juntas. Arquivos legados não possuem autoridade sobre a reformulação atual; oposição estrutural pertence ao tabuleiro preparado e conflitos novos só surgem legitimamente quando a própria ficção os produz por causalidade.**
