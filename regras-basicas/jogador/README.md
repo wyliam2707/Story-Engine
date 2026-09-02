@@ -1,6 +1,6 @@
 # Jogador
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: REFORMULAÇÃO ATIVA
 
 Esta pasta reúne as regras necessárias para **criar, ler e usar uma personagem durante a sessão**.
 
@@ -35,6 +35,43 @@ FONTE CANÔNICA
 BASE DE COMPARAÇÃO
 → permite ao Narrador comparar capacidades equivalentes quando isso realmente importar.
 ```
+
+## Metadados da personagem
+
+Antes dos sete blocos, a ficha registra:
+
+```text
+IMPORTÂNCIA NARRATIVA
+→ quanto a campanha precisa preservar, acompanhar e desenvolver a personagem.
+
+CONTROLE
+→ qual cadeira decide voluntariamente por ela.
+```
+
+Importância Narrativa usa:
+
+```text
+PROTAGONISTA
+RECORRENTE
+EVENTUAL
+INCIDENTAL
+```
+
+Ela serve somente para organização e profundidade de persistência.
+
+```text
+IMPORTÂNCIA NARRATIVA
+≠ poder
+≠ nível
+≠ autoridade
+≠ prioridade de ação
+≠ bônus
+≠ imunidade narrativa
+```
+
+Uma personagem incidental pode ser mais poderosa que uma protagonista.
+
+`Patamar` pertence ao motor anterior e não existe como nível geral ativo da ficha nova.
 
 ## Estrutura central da personagem
 
@@ -80,12 +117,20 @@ ESPECIALISTA
 
 ### Traços e Poderes
 
+O quarto bloco também guarda Equipamentos e Recursos relevantes.
+
 ```text
 TRAÇO
 → verdade especial da personagem dentro da descrição aprovada.
 
 PODER
 → capacidade extraordinária utilizável.
+
+EQUIPAMENTO
+→ item externo relevante que a personagem possui ou usa.
+
+RECURSO
+→ acesso, estrutura, patrimônio, veículo, contato institucional ou outro meio externo relevante.
 
 [1] / [2] / [3]
 → comparação de intensidade entre capacidades equivalentes, não bônus.
@@ -101,13 +146,21 @@ Explica origem, formação, experiências e fatos passados que continuam sustent
 
 ### Estado Atual
 
-Registra somente condições temporárias ou fatos presentes que modificam a situação atual sem reescrever a personagem.
+Registra somente o **recorte pessoal temporário** da personagem.
+
+```text
+campanhas/<nome>/estado/atual.md
+→ fonte canônica global do presente.
+
+FICHA / ESTADO ATUAL
+→ parte desse presente que precisa acompanhar aquela cadeira.
+```
 
 ## Coerência como limite de criação
 
 O sistema não precisa começar por um orçamento matemático para impedir excesso.
 
-Uma Habilidade, Traço ou Poder precisa nascer legitimamente de:
+Uma Habilidade, Traço, Poder, Equipamento ou Recurso relevante precisa nascer legitimamente de:
 
 ```text
 Conceito
@@ -137,6 +190,8 @@ nenhuma formação, experiência ou fato que sustente isso
 → não aprovar ainda.
 ```
 
+Não usar Patamar, orçamento de pontos ou Importância Narrativa para justificar algo que a personagem criada não sustenta.
+
 ## Memória por cadeira
 
 Cada cadeira de personagem opera somente com:
@@ -144,14 +199,14 @@ Cada cadeira de personagem opera somente com:
 ```text
 SUA PRÓPRIA FICHA
 +
-ESTADO ATUAL RELEVANTE
+SEU RECORTE PESSOAL DO ESTADO ATUAL
 +
 CONHECIMENTO LEGÍTIMO DA PERSONAGEM
 +
 FATOS DA CENA QUE ELA PODE PERCEBER OU CONHECER
 ```
 
-Ela não precisa carregar a ficha completa de outras personagens.
+Ela não precisa carregar a ficha completa de outras personagens nem receber o Estado global inteiro.
 
 ```text
 IA TÉCNICA PODE TER ACESSO
@@ -172,10 +227,10 @@ A cadeira pode conhecer capacidades de outra personagem somente na medida em que
 → explica a lógica do modelo e a ordem da criação.
 
 `1.0-descricao-da-ficha.md`
-→ define como os blocos da ficha são lidos.
+→ define como os blocos, Importância Narrativa e Controle são lidos.
 
 `1.1-atributos-pericias-poderes.md`
-→ competências, conhecimentos e linguagem comparativa.
+→ competências, conhecimentos e linguagem comparativa; registra Patamar como legado.
 
 `1.2-poderes-e-equipamentos.md`
 → capacidades extraordinárias e graduações comparativas.
@@ -191,4 +246,4 @@ A cadeira pode conhecer capacidades de outra personagem somente na medida em que
 
 ## Regra final
 
-> **A ficha é criada de dentro para fora: descrevemos a pessoa, entendemos seu conceito, extraímos habilidades, poderes e traços coerentes, registramos sua vida emocional e seu histórico e somente então tratamos esse conjunto como fonte canônica. Cada cadeira precisa memorizar a própria personagem, não o elenco inteiro.**
+> **A ficha é criada de dentro para fora: descrevemos a pessoa, entendemos seu conceito, extraímos Habilidades, Traços, Poderes, Equipamentos e Recursos coerentes, registramos sua vida emocional e seu Histórico e somente então tratamos esse conjunto como fonte canônica. Importância Narrativa organiza persistência; Controle define autoria; Patamar não pertence ao sistema ativo. Cada cadeira precisa memorizar a própria personagem, não o elenco inteiro.**
