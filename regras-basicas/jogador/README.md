@@ -1,10 +1,12 @@
 # Jogador
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: REFORMULAÇÃO ATIVA
 
-Esta pasta reúne as regras necessárias para **criar, ler e usar uma personagem durante a sessão**.
+Esta pasta reúne as regras para criar, ler e usar personagens no novo modelo de autoria narrativa compartilhada.
 
-Jogadores e NPCs usam a mesma lógica básica de ficha.
+> **A ficha descreve a personagem; não existe para fabricar uma matemática obrigatória em cada cena.**
+
+## Estrutura
 
 ```text
 jogador/
@@ -19,98 +21,123 @@ jogador/
 └── 1.5-autoridade-da-ficha.md
 ```
 
-## Estrutura
+## Arquivos já alinhados à reformulação
 
 `FICHA-EM-BRANCO.md`
-→ única estrutura operacional copiável para iniciar uma nova ficha.
+→ estrutura narrativa atual da ficha.
 
 `MODELO-DE-FICHA.md`
-→ identifica a ficha em branco como modelo oficial e aponta para as regras que explicam seus campos.
+→ princípios do novo modelo.
 
 `1.0-descricao-da-ficha.md`
-→ o que a ficha representa, seus campos, Estado inicial, Controle, Importância, Recursos, personalidade, relações, conhecimento e diferença entre Ficha e Estado Atual.
+→ função e leitura dos campos.
 
 `1.1-atributos-pericias-poderes.md`
-→ Atributos, Perícias, Patamares e a base universal `Atributo + Perícia`.
+→ apesar do nome legado do arquivo, agora define Competências, Conhecimentos e comparação narrativa.
 
 `1.2-poderes-e-equipamentos.md`
-→ Poderes e equipamentos como capacidades extraordinárias graduáveis e sua diferença em relação a Traços e Recursos.
-
-`1.3-criacao-da-ficha.md`
-→ criação e revisão por blocos, preenchendo somente conteúdo aprovado.
+→ Poderes como capacidades e graduações apenas como escala comparativa.
 
 `1.4-tracos.md`
-→ verdades absolutas próprias da personagem, cada uma em bloco independente, com descrição objetiva e sem extrapolação.
+→ verdades automáticas dentro do escopo descrito.
 
 `1.5-autoridade-da-ficha.md`
-→ estabelece a ficha como fonte canônica primária da personagem para narração, interpretação, resolução, Livro e representação visual.
+→ ficha como fonte canônica primária da personagem.
 
-## Linguagem central da ficha
+## Arquivo ainda pendente
+
+`1.3-criacao-da-ficha.md`
+→ ainda contém partes do motor anterior e precisa ser redesenhado em conjunto.
+
+## Linguagem central
 
 ```text
-ATRIBUTO + PERÍCIA
-→ mede execução.
+COMPETÊNCIA
+→ o que a personagem sabe fazer.
 
-PODER / EQUIPAMENTO
-→ define capacidade extraordinária utilizável e sua força quando pertinente.
+CONHECIMENTO
+→ o que ela legitimamente sabe.
+
+ESPECIALISTA
+→ domínio profundo de um campo; sua cadeira possui autoridade compatível com esse repertório.
+
+PODER
+→ capacidade extraordinária utilizável.
+
+GRADUAÇÃO [1] [2] [3]
+→ comparação de escala quando necessária; não é bônus.
 
 TRAÇO
-→ define uma verdade absoluta daquela personagem dentro da própria descrição.
+→ verdade automática dentro da descrição.
 
 RECURSO
-→ registra posse, acesso ou infraestrutura estável.
-
-PERSONALIDADE / DESEJO / MEDO / HÁBITO
-→ orienta interpretação e decisão sem criar automatismo.
-
-RELAÇÃO
-→ registra o vínculo pelo ponto de vista do dono da ficha.
-
-CONHECIMENTO RELEVANTE
-→ preserva fatos que a personagem não pode esquecer sem perder continuidade.
+→ posse, acesso, contato ou infraestrutura estável.
 
 ESTADO ATUAL
-→ registra como a personagem está agora.
+→ como a personagem está agora.
 ```
 
-## Ficha como fonte canônica primária
-
-A ficha é a **fonte canônica primária da personagem**.
+## Exemplo
 
 ```text
-FICHA
-→ quem a personagem é e o que precisa permanecer imediatamente disponível para interpretá-la, representá-la e usar suas capacidades.
+Ravena
 
-ESTADO ATUAL
-→ como ela está agora e quais mudanças temporárias estão ativas.
+Competências e Conhecimentos
+--- Especialista em Ocultismo e Demônios.
+--- Combatente experiente.
 
-LIVROS / CENÁRIO / ARQUIVOS
-→ contexto externo, lore e fatos do mundo.
+Poderes
+--- Empatia [2].
+--- Telecinese [2].
+
+Traços
+--- TRAÇO: Meio-Demônio
+[natureza parcialmente demoníaca]
 ```
 
-Toda narração, interpretação, resolução ou representação visual de uma personagem deve partir da ficha conforme `1.5-autoridade-da-ficha.md`.
+Outro exemplo:
 
-Se uma personagem for baseada em figura conhecida de outra obra, a versão genérica ou a memória da IA não substituem aquilo que a ficha da campanha já definiu.
+```text
+Estelar
 
-O que merece entrar na ficha depende do foco da campanha. Romance, terror e investigação podem exigir conhecimentos e relações diferentes.
+Competências e Conhecimentos
+--- Princesa de Tamaran; conhece política, protocolo e costumes locais.
+--- Guerreira experiente.
+
+Poderes
+--- Força Sobre-Humana [2].
+--- Voo [2].
+```
+
+Essas fichas já fornecem informação suficiente para muitas decisões sem qualquer rolagem.
+
+## Ficha como autoridade
+
+A ficha informa:
+
+```text
+quem a personagem é
+o que sabe
+o que pode fazer
+que limites possui
+que relações importam
+que comparações precisam ser preservadas
+```
+
+A ficha não concede conhecimento secreto externo nem permite que uma cadeira decida por outra.
 
 ## Criação
 
-A criação usa a ordem da própria ficha e revisa cada seção como bloco independente.
-
-Listas de personalidade, desejos, medos, relações, conhecimentos, Traços e Recursos usam uma linha por ideia relevante, permitindo revisão individual.
-
-Quando houver base suficiente:
+Até `1.3-criacao-da-ficha.md` ser refeito, usar `FICHA-EM-BRANCO.md` como estrutura e construir cada bloco pela pergunta mais simples:
 
 ```text
-propor
-→ corrigir ou aprovar
-→ salvar somente o aprovado
-→ avançar
+isso ajuda a interpretar, decidir ou julgar esta personagem?
+→ sim: registrar.
+→ não: não adicionar por hábito.
 ```
 
-A ficha é calibrada pelo que a própria personagem é, não para equilibrá-la automaticamente com outra peça.
+Não criar números preventivamente.
 
-## Princípio
+## Regra final
 
-> **Complexidade na construção; simplicidade na mesa. A ficha preserva a continuidade da personagem e é sua fonte canônica primária: Atributo + Perícia mede execução, Poder define capacidade, Traço estabelece verdade, Recurso registra acesso e os blocos de interpretação mantêm quem a personagem é e o que ela sabe.**
+> **Uma boa ficha permite que a mesa reconheça a personagem sem consultar uma fórmula: quem ela é, o que sabe, o que consegue fazer, quais fatos a limitam e onde sua capacidade é maior ou menor que a de outra peça.**
