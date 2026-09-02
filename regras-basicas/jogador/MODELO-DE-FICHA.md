@@ -10,6 +10,31 @@ FICHA-EM-BRANCO.md
 
 Ela não é apenas um formulário final. É o **roteiro operacional de criação da personagem**.
 
+## Metadados antes dos blocos
+
+Toda ficha registra primeiro:
+
+```text
+ESTADO DA FICHA
+IMPORTÂNCIA NARRATIVA
+CONTROLE
+```
+
+`IMPORTÂNCIA NARRATIVA` organiza quanto desenvolvimento e continuidade precisam ser preservados:
+
+```text
+PROTAGONISTA
+RECORRENTE
+EVENTUAL
+INCIDENTAL
+```
+
+Ela não mede capacidade, não concede bônus, não cria autoridade e não funciona como nível.
+
+`CONTROLE` define qual cadeira decide voluntariamente pela personagem.
+
+`Patamar` não faz parte do modelo ativo da reformulação.
+
 ## Ordem de criação
 
 Toda nova personagem é construída na mesma sequência:
@@ -34,7 +59,7 @@ Toda nova personagem é construída na mesma sequência:
 → origem, formação e fatos passados que explicam e sustentam a ficha.
 
 7. ESTADO ATUAL
-→ condições temporárias presentes no início ou durante a campanha, incluindo indisponibilidade momentânea de Equipamentos ou Recursos.
+→ recorte pessoal das condições temporárias presentes no início ou durante a campanha, incluindo indisponibilidade momentânea de Equipamentos ou Recursos.
 ```
 
 A estrutura oficial continua possuindo **sete blocos principais**.
@@ -51,7 +76,7 @@ Não criar um oitavo bloco universal.
 
 ## Criação antes da comparação
 
-A ficha não começa perguntando quantos pontos serão distribuídos.
+A ficha não começa perguntando quantos pontos serão distribuídos nem qual é o Patamar da personagem.
 
 Primeiro define-se a pessoa.
 
@@ -126,6 +151,20 @@ Natureza estabelecida
 ```
 
 Se um elemento não encontra fundamento na personagem criada, ele precisa ser explicado antes de ser aprovado.
+
+```text
+IMPORTÂNCIA NARRATIVA
+→ organiza persistência.
+
+CONTROLE
+→ define autoria.
+
+FICHA
+→ estabelece identidade e capacidades.
+
+PATAMAR
+→ legado; não usar.
+```
 
 > **A ficha não cria a personagem por orçamento. A personagem criada é que justifica o conteúdo da ficha.**
 
