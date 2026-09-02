@@ -29,7 +29,7 @@ PASSO 03 — FICHAS
 DEPOIS
 → pareamento mínimo
 → situação inicial
-→ Mesa operacional
+→ Configuração das Cadeiras
 → START
 ```
 
@@ -230,23 +230,39 @@ RECURSO / CUSTO / CONDIÇÃO ESPECÍFICA
 
 O Estado Atual é presente operacional, não histórico.
 
-## 6 — Mesa operacional
+## 6 — Configuração das Cadeiras
 
-Registrar no `README.md` da campanha quem ocupa cada cadeira necessária.
+Registrar no `README.md` da campanha quem ocupa cada cadeira necessária e qual função de autoridade está ativa.
+
+A Configuração das Cadeiras responde:
+
+> **Quem está sentado e qual autoridade cada cadeira possui nesta campanha?**
+
+Ela é um registro persistente de composição da campanha. Não é uma Mesa aberta nem um procedimento de auditoria.
 
 Exemplo:
 
 ```text
-## Mesa operacional
+## Configuração das Cadeiras
 
 JOGADOR HUMANO → <personagem>
 JOGADOR IA — <personagem> → <personagem>
 JOGADOR IA EVENTUAL → ATIVO, quando necessário
 OPOSITOR → ATIVO
-NARRADOR → ATIVO
+NARRADOR / JUIZ → ATIVO
 ```
 
 Cada personagem com cadeira própria mantém sua própria autoridade mesmo quando uma única IA técnica executa várias cadeiras.
+
+A palavra `Mesa` fica reservada ao procedimento temporário de alinhamento definido pelo Núcleo:
+
+```text
+DÚVIDA / DISCORDÂNCIA / CONFLITO REAL
+→ abrir Mesa.
+
+QUESTÃO RESOLVIDA
+→ encerrar Mesa e voltar à ficção.
+```
 
 ## 7 — START
 
@@ -264,7 +280,7 @@ fichas necessárias estão aprovadas?
 pareamento essencial foi resolvido?
 Estado inicial está definido?
 CONTROLE das peças está claro?
-Mesa operacional está registrada?
+Configuração das Cadeiras está registrada?
 ```
 
 Se faltar algo essencial:
@@ -316,4 +332,4 @@ fabricar vantagem ou obstáculo para responder a uma ação já declarada
 
 ## Regra final
 
-> **Nova campanha segue três passos dependentes: Narrativa, Temporada e Fichas. A situação inicial registra fatos atuais concretos, não trilhos universais herdados do motor anterior. Vida, Mente e Mana não são pressupostos da campanha nova; qualquer condição, custo ou recurso só existe quando uma fonte canônica específica realmente o estabelece.**
+> **Nova campanha segue três passos dependentes: Narrativa, Temporada e Fichas. Depois disso, a Configuração das Cadeiras registra quem ocupa cada autoridade persistente; Mesa é reservada ao alinhamento temporário que só abre diante de dúvida, discordância ou conflito real. A situação inicial registra fatos atuais concretos, não trilhos universais herdados do motor anterior. Vida, Mente e Mana não são pressupostos da campanha nova; qualquer condição, custo ou recurso só existe quando uma fonte canônica específica realmente o estabelece.**
