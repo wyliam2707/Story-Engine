@@ -6,6 +6,32 @@ O Núcleo define como as cadeiras compartilham autoria, como o tempo avança e c
 
 > **A literatura não substitui julgamento; o julgamento também não precisa virar matemática quando a ficção já responde.**
 
+## Terminologia estrutural
+
+Usar estes termos com funções diferentes:
+
+```text
+CADEIRA
+→ unidade de autoria.
+→ define quem pode decidir dentro de determinada autoridade.
+
+CONFIGURAÇÃO DAS CADEIRAS
+→ registro persistente de quem ocupa cada cadeira na campanha.
+→ responde quem está sentado e com qual função.
+
+TRIBUNAL
+→ estrutura de autoridade do sistema.
+→ define soberania, limites, conflito de autoridade e função do Narrador/Juiz.
+
+MESA
+→ procedimento temporário de alinhamento.
+→ abre somente quando existe dúvida, discordância, direção compartilhada ou conflito real que precise ser resolvido.
+```
+
+> **A Configuração diz quem está sentado. O Tribunal diz quais são as autoridades. A Mesa só abre quando essas autoridades precisam conversar.**
+
+Não usar `Mesa` como nome da composição permanente da campanha.
+
 ## Fluxo atual
 
 ```text
@@ -204,8 +230,15 @@ NARRADOR
 → julga coerência e causalidade.
 → pode completar mundo neutro sem invadir autoria pessoal.
 
+CONFIGURAÇÃO DAS CADEIRAS
+→ registra permanentemente quem ocupa cada autoridade da campanha.
+
+TRIBUNAL
+→ define a estrutura de autoridade e julgamento.
+
 MESA
-→ alinha autoridades quando necessário.
+→ alinha temporariamente autoridades quando necessário.
+→ não representa a composição permanente da campanha.
 
 FICHA
 → estabelece fatos, capacidades, conhecimentos e comparações.
@@ -216,4 +249,4 @@ TEMPO
 
 ## Regra final
 
-> **O Núcleo não existe para perguntar aos dados o que autores e ficção já conseguem determinar. Ele existe para preservar autoria, estabelecer limites, organizar o tempo, resolver conflitos de autoridade e manter a história coerente enquanto várias cadeiras a escrevem juntas. Arquivos legados não possuem autoridade sobre a reformulação atual; oposição estrutural pertence ao tabuleiro preparado, conflitos novos só surgem legitimamente quando a própria ficção os produz por causalidade e uma personagem nunca perde sua cadeira apenas por se tornar antagonista.**
+> **O Núcleo não existe para perguntar aos dados o que autores e ficção já conseguem determinar. Ele existe para preservar autoria, estabelecer limites, organizar o tempo, resolver conflitos de autoridade e manter a história coerente enquanto várias cadeiras a escrevem juntas. A Configuração das Cadeiras registra quem participa; o Tribunal define a autoridade; a Mesa só aparece quando é preciso alinhar essas autoridades. Arquivos legados não possuem autoridade sobre a reformulação atual; oposição estrutural pertence ao tabuleiro preparado, conflitos novos só surgem legitimamente quando a própria ficção os produz por causalidade e uma personagem nunca perde sua cadeira apenas por se tornar antagonista.**
