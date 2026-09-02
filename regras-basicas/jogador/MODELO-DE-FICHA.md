@@ -50,7 +50,7 @@ Toda nova personagem é construída na mesma sequência:
 → competências e conhecimentos sustentados por formação, experiência e conceito.
 
 4. TRAÇOS E PODERES
-→ verdades especiais, capacidades extraordinárias, Equipamentos e Recursos relevantes realmente justificados pela personagem criada.
+→ verdades especiais, capacidades extraordinárias, Contrapesos, Equipamentos e Recursos relevantes realmente justificados pela personagem criada.
 
 5. DESCRIÇÃO EMOCIONAL / PERSONALIDADE
 → tendências, desejos, medos, limites, hábitos e relações relevantes.
@@ -69,6 +69,7 @@ Dentro do quarto bloco usar, quando necessário:
 ```text
 ### Traços
 ### Poderes
+### Contrapesos
 ### Equipamentos e Recursos
 ```
 
@@ -101,6 +102,9 @@ o que consegue fazer de extraordinário
 que verdades especiais possui
 → Traços.
 
+onde suas capacidades possuem vulnerabilidade real
+→ Contrapesos.
+
 que meios externos relevantes possui ou acessa
 → Equipamentos e Recursos.
 
@@ -108,7 +112,61 @@ por que tudo isso faz sentido
 → Histórico.
 ```
 
-Graduações de Poder ou de capacidades fornecidas por Equipamentos, quando existirem, servem somente para comparação entre aspectos equivalentes.
+## Poderes: descrição, graduação e limite
+
+Poder não é apenas nome mais número.
+
+```text
+DESCRIÇÃO
+→ o que a capacidade faz e qual seu escopo.
+
+GRADUAÇÃO
+→ intensidade comparativa quando a escala importa.
+
+LIMITES
+→ onde a capacidade deixa de ajudar.
+```
+
+A escala compartilhada é:
+
+```text
+[1] — EXTRAORDINÁRIO
+[2] — ELITE
+[3] — ÁPICE
+```
+
+A maior parte das capacidades deve permanecer entre `[1]` e `[2]`.
+
+`[3]` é raro, representa uma das maiores referências daquele aspecto no cenário e nunca significa poder absoluto.
+
+A régua interna `1 / 10 / 100` dá peso comum às graduações entre fichas criadas separadamente. Ela não é bônus, dano, tonelagem, dificuldade ou orçamento.
+
+Capacidades diferentes podem ser comparadas quando atuam diretamente sobre o mesmo aspecto da ficção.
+
+Muitas capacidades `[1]` dão versatilidade; não se somam automaticamente para produzir uma capacidade `[2]` ou `[3]`.
+
+## Contrapesos
+
+Toda personagem com capacidades extraordinárias precisa possuir pelo menos um Contrapeso significativo.
+
+```text
+FRAQUEZA
+DEPENDÊNCIA
+RESTRIÇÃO
+CUSTO
+CONDIÇÃO DE FUNCIONAMENTO
+VULNERABILIDADE ESPECÍFICA
+```
+
+Contrapeso precisa ser capaz de realmente limitar, enfraquecer, expor ou colocar a personagem em dificuldade.
+
+Um único Contrapeso pode afetar vários Poderes quando existe uma causa comum coerente.
+
+Quando útil, ele também pode receber `[1]–[3]` para indicar peso.
+
+Toda capacidade `[3]` precisa estar coberta por um Contrapeso `[3]` ou por uma limitação de peso narrativo claramente equivalente.
+
+Contrapeso não compra Poder e não funciona como orçamento.
 
 ## Equipamentos e Recursos
 
@@ -138,7 +196,7 @@ ESTADO ATUAL
 
 Nada entra na ficha apenas porque existe espaço para escrever.
 
-Toda Habilidade, Traço, Poder, Equipamento ou Recurso relevante precisa ser sustentado por pelo menos uma parte coerente da personagem:
+Toda Habilidade, Traço, Poder, Contrapeso, Equipamento ou Recurso relevante precisa ser sustentado por pelo menos uma parte coerente da personagem:
 
 ```text
 Conceito
@@ -160,13 +218,13 @@ CONTROLE
 → define autoria.
 
 FICHA
-→ estabelece identidade e capacidades.
+→ estabelece identidade, capacidades e vulnerabilidades.
 
 PATAMAR
 → legado; não usar.
 ```
 
-> **A ficha não cria a personagem por orçamento. A personagem criada é que justifica o conteúdo da ficha.**
+> **A ficha não cria a personagem por orçamento. A personagem criada é que justifica o conteúdo da ficha. Poderes possuem descrição e intensidade; Contrapesos garantem vulnerabilidades reais.**
 
 ## Fonte operacional
 
