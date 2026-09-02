@@ -72,7 +72,13 @@ Fatos passados que ainda influenciam a personagem:
 
 ## 7 — Estado Atual
 
---- [condição física, emocional, transformação, efeito ativo, ausência de equipamento, indisponibilidade de recurso, localização ou outra condição temporária relevante]
+Este bloco guarda somente o **recorte pessoal temporário** desta personagem. A realidade global do presente fica em `campanhas/<nome>/estado/atual.md`.
+
+--- [condição física, emocional, transformação, efeito ativo, ausência de equipamento, indisponibilidade de recurso, localização, intenção pessoal persistente ou outra condição temporária relevante]
+
+Não copiar para este bloco segredos, processos globais, estado de outras personagens ou fatos que esta cadeira não conhece legitimamente.
+
+Se este recorte contradizer a mesma condição presente registrada no Estado da Campanha, sincronizar a ficha com a realidade global.
 
 ---
 
@@ -102,7 +108,7 @@ HISTÓRICO
 → de onde veio e o que explica quem ela se tornou e aquilo que possui ou acessa de forma relevante.
 
 ESTADO ATUAL
-→ como está agora; também registra indisponibilidades temporárias sem apagar a posse ou o acesso canônico da ficha.
+→ recorte pessoal de como está agora; registra apenas condições temporárias relevantes desta personagem e indisponibilidades momentâneas sem apagar a posse ou o acesso canônico da ficha.
 ```
 
 A criação não distribui pontos para inventar capacidades.
