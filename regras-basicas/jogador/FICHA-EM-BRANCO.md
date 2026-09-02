@@ -39,7 +39,18 @@ Descrição do conceito:
 ### Poderes
 
 --- [Nome do Poder] [graduação apenas quando comparação for útil]
-[descrição objetiva do que permite fazer e limites relevantes]
+[descrição objetiva do que permite fazer, como funciona e limites relevantes]
+
+Usar normalmente `[1]` ou `[2]`. `[3]` é reservado a capacidades de ápice realmente sustentadas pela ficção e nunca significa poder absoluto.
+
+### Contrapesos
+
+--- CONTRAPESO — [Fraqueza / Dependência / Restrição / Custo / Condição] [graduação quando o peso comparativo for útil]
+[descrição objetiva de como isso pode limitar, enfraquecer, expor ou colocar a personagem em dificuldade]
+
+Toda personagem com capacidades extraordinárias precisa possuir pelo menos um Contrapeso significativo. Um mesmo Contrapeso pode afetar vários Poderes quando existe uma causa comum coerente.
+
+Toda capacidade `[3]` precisa estar coberta por um Contrapeso `[3]` ou limitação de peso narrativo claramente equivalente.
 
 ### Equipamentos e Recursos
 
@@ -129,7 +140,7 @@ HABILIDADES
 → o que aprendeu a fazer e o que sabe.
 
 TRAÇOS E PODERES
-→ verdades especiais, capacidades extraordinárias, equipamentos e recursos relevantes sustentados pela personagem criada.
+→ verdades especiais, capacidades extraordinárias, Contrapesos, equipamentos e recursos relevantes sustentados pela personagem criada.
 
 DESCRIÇÃO EMOCIONAL / PERSONALIDADE
 → como tende a pensar, sentir, escolher e se relacionar.
@@ -159,6 +170,46 @@ HISTÓRICO
 → sustentam o conteúdo da ficha.
 ```
 
+Quando uma capacidade graduada for necessária:
+
+```text
+[1]
+→ extraordinário.
+
+[2]
+→ elite entre extraordinários.
+
+[3]
+→ ápice raro; referência daquele aspecto no cenário.
+```
+
+A escala possui peso comparativo interno `1 / 10 / 100`, mas esses valores não são bônus, dano, toneladas ou orçamento.
+
+A graduação não substitui a descrição. Capacidades diferentes podem ser comparadas quando atuam diretamente sobre o mesmo aspecto da ficção.
+
+Nenhum Poder pode ser absoluto. Toda descrição precisa possuir escopo e limites legíveis.
+
+```text
+MUITOS [1]
+→ versatilidade.
+
+UM [3]
+→ domínio de ápice naquele aspecto.
+
+MUITOS [1]
+≠ automaticamente UM [3].
+```
+
+Contrapesos também não funcionam como moeda de compra.
+
+```text
+CONTRAPESO
+→ vulnerabilidade real da personagem.
+
+CONTRAPESO
+≠ pontos para adquirir Poderes.
+```
+
 Não existe `Patamar` ativo na ficha nova.
 
 ```text
@@ -170,6 +221,6 @@ PATAMAR
 → não determina resultados.
 ```
 
-Se uma Habilidade, Traço, Poder, Equipamento ou Recurso relevante não encontra fundamento suficiente na personagem criada, ele precisa ser explicado antes de ser aprovado.
+Se uma Habilidade, Traço, Poder, Contrapeso, Equipamento ou Recurso relevante não encontra fundamento suficiente na personagem criada, ele precisa ser explicado antes de ser aprovado.
 
-> **Primeiro cria-se a personagem. Depois a ficha registra somente aquilo que essa criação sustenta. Importância organiza persistência; não mede poder.**
+> **Primeiro cria-se a personagem. Depois a ficha registra somente aquilo que essa criação sustenta. Descrição define capacidade; graduação define intensidade; limites e Contrapesos impedem poder absoluto. Importância organiza persistência; não mede poder.**
