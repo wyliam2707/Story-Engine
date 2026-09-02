@@ -1,18 +1,14 @@
 # Manual de Registro da Campanha
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
 Esta pasta é o **manual de persistência da história**.
 
-Ela explica como transformar acontecimentos já julgados e narrados em arquivos permanentes dentro de:
+Ela explica como transformar fatos já estabelecidos em fontes permanentes dentro de:
 
 ```text
 campanhas/<nome>/
 ```
-
-`regras-basicas/registro/` contém somente regras e modelos.
-
-Nenhum fato vivo de uma campanha deve ser salvo aqui.
 
 > **O jogo acontece na mesa. O Registro preserva o que precisa continuar verdadeiro depois da resposta.**
 
@@ -21,26 +17,26 @@ Nenhum fato vivo de uma campanha deve ser salvo aqui.
 O Registro responde:
 
 ```text
-SOBRE O QUE A CAMPANHA É AO LONGO DAS TEMPORADAS?
-→ mestre/narrativa.md.
+SOBRE O QUE A CAMPANHA É?
+→ mestre/narrativa.md
 
-QUAL É O ARCO ATIVO AGORA?
-→ mestre/roteiro.md.
+QUAL É O ARCO ATIVO?
+→ mestre/roteiro.md
 
-QUEM É A PERSONAGEM E O QUE ELA PRECISA LEMBRAR PARA SER INTERPRETADA?
-→ ficha da personagem.
-
-O QUE ACONTECEU?
-→ Livro / histórico canônico.
+QUEM É A PERSONAGEM?
+→ ficha
 
 COMO A CAMPANHA ESTÁ AGORA?
-→ Estado Atual.
+→ estado/atual.md
 
-O QUE É VERDADE EXTERNA À PERSONAGEM?
-→ mundo, livros e demais fontes apropriadas.
+O QUE ACONTECEU?
+→ livro/
 
-O QUE CONTINUA EXISTINDO FORA DA CENA?
-→ processos, prazos, planos e outras fontes apropriadas.
+O QUE É VERDADE ESTÁVEL DO CENÁRIO?
+→ mundo/
+
+O QUE CONTINUA AGINDO FORA DA CENA?
+→ processos, prazos, opositor/ e fontes apropriadas
 ```
 
 Registrar não cria ficção.
@@ -49,17 +45,17 @@ Registrar não cria ficção.
 DECLARAÇÃO
 → intenção.
 
-JULGAMENTO / RESOLUÇÃO
+JULGAMENTO
 → estabelece realidade.
 
 NARRAÇÃO
 → apresenta a realidade.
 
 REGISTRO
-→ preserva a realidade que precisa sobreviver.
+→ preserva o que precisa sobreviver.
 ```
 
-## Arquitetura deste manual
+## Arquivos do manual
 
 ```text
 registro/
@@ -74,169 +70,93 @@ registro/
 └── reancoragem-operacional.md
 ```
 
-### `fontes-da-campanha.md`
+## Fontes principais
 
-Explica onde cada tipo de verdade deve ser salvo.
+### Ficha
 
-> **Cada verdade deve ter uma fonte principal.**
+Preserva identidade, capacidades, conhecimentos, Traços, Poderes, Equipamentos, Recursos, personalidade, relações e Histórico relevantes da personagem.
 
-### `salvar-a-historia.md`
+O bloco `Estado Atual` da ficha guarda somente o recorte pessoal temporário daquela personagem.
 
-Manual operacional para salvar sem avançar a ficção, incluindo o fechamento de temporada.
+### Estado da Campanha
 
-### `fechar-capitulo.md`
+`campanhas/<nome>/estado/atual.md` é a fonte canônica global do presente.
 
-Define o comando **`fechar o capítulo`** como checkpoint completo:
-
-```text
-salvar
-→ atualizar
-→ reset operacional
-→ recarregar
-→ continuar
-```
-
-O reset não apaga o cânone. Ele faz regras e fontes consolidadas voltarem a ser a base principal antes do próximo capítulo.
-
-### `estado-atual.md`
-
-Define a fotografia operacional necessária para retomar a campanha exatamente de onde ela parou.
-
-### `livro-e-capitulos.md`
-
-Define o histórico canônico do que realmente aconteceu.
-
-### `arquivo-de-temporada.md`
-
-Define como uma temporada encerrada vira uma unidade histórica em:
+Pode guardar:
 
 ```text
-livro/temporada-[N]/
+momento
+localização
+presenças
+posições relevantes
+condições temporárias
+efeitos ativos
+transformações em curso
+Equipamentos ou Recursos indisponíveis
+intenções persistentes
+processos e prazos
+primeiro ponto ainda aberto
 ```
 
-A pasta reúne capítulos, epílogo, `resumo-da-temporada.md` e `mapa-de-eventos.md`.
+Não é histórico completo.
 
-Capítulos e epílogo preservam o cânone detalhado. Resumo e mapa são derivados de consulta e reancoragem e nunca substituem Ficha, Estado, Narrativa, Roteiro ou capítulo quando houver divergência.
+### Livro
 
-`arquivo-de-temporada.md` é a regra específica para a localização e organização de temporadas encerradas e, nesse escopo, prevalece sobre exemplos antigos que mantenham epílogos ou capítulos encerrados soltos na raiz de `livro/`.
+Preserva o que realmente aconteceu.
 
-## Estrutura recomendada de uma campanha
+Não registra como fato consumado:
 
 ```text
-campanhas/<nome>/
-├── README.md
-├── personagens/
-├── estado/
-│   └── atual.md
-├── mundo/
-├── mestre/
-│   ├── narrativa.md
-│   ├── roteiro.md
-│   └── temporadas/
-├── opositor/
-└── livro/
-    ├── README.md
-    ├── temporada-1/
-    ├── temporada-2/
-    └── ...
+intenção ainda não executada
+hipótese
+plano futuro
+decisão ainda aberta
+metaconversa
+versão anulada
 ```
 
-Função de cada área:
+### Mundo
+
+Preserva verdades externas estáveis.
+
+### Opositor
+
+Preserva planos, processos, recursos e conhecimentos adversariais legitimamente existentes.
+
+Plano não é acontecimento até ocorrer.
+
+## Vida, Mente e Mana
+
+Os antigos mecanismos universais de `Vida`, `Mente` e `Mana` pertencem ao motor legado.
+
+Eles não são campos obrigatórios de ficha, Estado, capítulo, reancoragem ou fechamento.
 
 ```text
-README
-→ identidade, estado geral e roteamento da campanha.
-
-PERSONAGENS
-→ fichas reais; principal fonte de interpretação de cada personagem.
-
-ESTADO
-→ como a campanha precisa ser retomada agora.
-
-MUNDO
-→ verdades estáveis do cenário.
-
-MESTRE / NARRATIVA
-→ identidade persistente da campanha.
-
-MESTRE / ROTEIRO
-→ temporada ativa.
-
-MESTRE / TEMPORADAS
-→ roteiros já encerrados e arquivados.
-
-OPOSITOR
-→ planos, processos e informações do outro lado da trama.
-
-LIVRO
-→ o que efetivamente aconteceu, organizado por temporada quando os arcos forem encerrados.
+VIDA UNIVERSAL
+MENTE UNIVERSAL
+MANA UNIVERSAL
+→ não registrar como pressupostos do sistema ativo.
 ```
 
-## Narrativa e roteiro
+Quando uma personagem, Poder, Equipamento, Traço ou campanha possuir **um recurso ou condição específica realmente definida**, registrar aquilo pelo nome e escopo próprios.
 
-A direção da história possui duas camadas.
-
-### `mestre/narrativa.md`
-
-Preserva o que não deve ser redescoberto ou reinventado a cada temporada:
+Exemplos:
 
 ```text
-foco principal
-gênero e tom
-experiência desejada
-temas e conflitos recorrentes
-o que não deve dominar
-premissas gerais
+Condição: braço fraturado.
+
+Transformação: forma espectral ativa.
+
+Recurso específico: três cargas restantes do artefato.
+
+Limitação: Poder indisponível até o amanhecer.
 ```
 
-Ela é a identidade persistente da campanha.
+> **Registrar o fato que existe; não recriar uma barra genérica para representá-lo.**
 
-### `mestre/roteiro.md`
+## Conhecimento por personagem
 
-Preserva somente o arco atual:
-
-```text
-situação inicial
-foco aplicado
-trama de fundo
-prazo ou processo
-miniquests ou variações
-direção da temporada
-condição de encerramento
-```
-
-O roteiro não é histórico nem Estado Atual. Ele não registra cada cena e não determina resultados.
-
-Quando sua condição de encerramento é alcançada, ele deixa de dirigir a campanha atual, é arquivado em `mestre/temporadas/`, e o Narrador conclui o procedimento de arquivo da temporada antes de perguntar **“E agora?”**.
-
-Uma miniquest pode terminar, surgir outra e o Estado pode mudar sem que a Narrativa da Campanha seja reescrita.
-
-Mudança real da identidade da campanha deve ser deliberada; não acontece automaticamente porque uma trama secundária ficou interessante.
-
-## Ficha e memória da personagem
-
-A ficha é a principal fonte de interpretação da personagem.
-
-Quando um fato adquirido passa a ser importante para decisões futuras, relações, evolução emocional ou leitura recorrente de situações, ele deve ser consolidado em `Conhecimento relevante` ou no bloco apropriado da própria ficha.
-
-```text
-se esquecer provavelmente faria a personagem agir de forma incoerente nesta história
-→ consolidar na ficha.
-
-se importa apenas para o momento atual
-→ Estado Atual.
-
-se é contexto externo já bem guardado em livro, mundo ou outra fonte
-→ não duplicar integralmente na ficha.
-```
-
-O que merece consolidação depende da Narrativa da Campanha e da Temporada. Romance, terror, investigação e ação podem tornar informações diferentes importantes para interpretação.
-
-Conhecimento consolidado não deve ser tratado novamente como descoberta apenas porque a campanha foi retomada depois.
-
-## Verdade estabelecida x informação disponível
-
-Um fato pode ser verdadeiro na campanha sem ser conhecido por todas as personagens.
+Um fato pode ser verdadeiro sem ser conhecido por todas as cadeiras.
 
 ```text
 CAMPANHA SABE
@@ -244,43 +164,15 @@ CAMPANHA SABE
 PERSONAGEM SABE
 ```
 
-Arquivos podem permanecer visíveis no repositório, mas informação reservada não pode ser usada por uma personagem que ainda não a descobriu.
+Se uma informação precisa orientar decisões recorrentes de uma personagem, consolidá-la na ficha quando apropriado.
 
-Relações registradas na ficha representam o ponto de vista do dono daquela ficha. A percepção de outra personagem só entra como conhecimento quando for legitimamente conhecida.
-
-## Registrar somente fatos concluídos
-
-Nunca salvar como acontecimento algo que ainda é somente intenção, hipótese ou plano.
-
-```text
-JOGADOR
-→ vou procurar Ravena amanhã.
-
-NÃO SALVAR COMO HISTÓRIA
-→ encontrou Ravena amanhã.
-```
-
-Pode ser preservado, quando relevante:
-
-```text
-INTENÇÃO ATUAL
-→ pretende procurar Ravena amanhã.
-```
-
-Da mesma forma, um plano futuro do Opositor permanece plano até realmente acontecer.
+Não copiar conhecimento automaticamente para outras personagens.
 
 ## Processos e prazos
 
-Um resultado pode continuar vivo mesmo fora da cena.
+Processos continuam existindo fora da cena quando já foram legitimamente estabelecidos.
 
 Exemplo:
-
-```text
-Dick inicia investigação.
-NARRADOR estabelece: primeiras pistas em 10 dias.
-```
-
-Salvar:
 
 ```text
 Processo: investigação de Dick
@@ -288,127 +180,70 @@ Estado: em andamento
 Prazo: primeiras pistas em 10 dias
 ```
 
-O processo não precisa ser redeclarado em toda janela distante.
-
-## Fechamento de capítulo
-
-O comando **`fechar o capítulo`** possui função especial e segue `fechar-capitulo.md`.
-
-Durante a fase de salvamento:
-
-- parar no último fato estabelecido;
-- não criar cena extra;
-- não resolver ação pendente;
-- não decidir pelo jogador;
-- não fabricar fechamento dramático.
-
-Depois que o capítulo foi consolidado e as fontes atualizadas:
-
-```text
-→ resetar o operacional
-→ recarregar regras e fontes essenciais
-→ continuar a partir do Estado Atual
-```
-
-Assim, o próximo capítulo não depende da inércia de uma conversa muito longa para lembrar como o sistema deve funcionar.
-
-## Fechamento de temporada
-
-Quando a condição de encerramento do roteiro for alcançada:
-
-```text
-→ parar no resultado real
-→ fechar o último capítulo real
-→ escrever o epílogo
-→ consolidar fichas e Estado
-→ arquivar o roteiro encerrado
-→ agrupar capítulos em livro/temporada-[N]/
-→ criar/atualizar README da temporada
-→ criar resumo-da-temporada.md
-→ criar mapa-de-eventos.md
-→ atualizar referências para os novos caminhos
-→ reancorar
-→ perguntar “E agora?”
-```
-
-O procedimento detalhado está em `arquivo-de-temporada.md`.
-
-O epílogo responde as perguntas relevantes para aquele tipo de campanha e registra apenas o que realmente ficou estabelecido.
-
-```text
-EPÍLOGO
-→ resultado real da temporada.
-
-RESUMO DA TEMPORADA
-→ condensação derivada para reancoragem.
-
-MAPA DE EVENTOS
-→ índice cronológico e causal derivado.
-
-PROBLEMAS ABERTOS
-→ continuam verdadeiros.
-
-PROBLEMAS ABERTOS
-≠
-próxima temporada obrigatória.
-```
-
-A próxima temporada só nasce depois da nova direção fornecida pelo usuário, conforme `../CRIACAO-DE-TEMPORADA.md`.
-
-## Uso do arquivo anterior na temporada seguinte
-
-Ao preparar uma temporada posterior, usar normalmente:
-
-```text
-mestre/narrativa.md
-+ resposta a “E agora?”
-+ resumo-da-temporada da temporada anterior
-+ epílogo da temporada anterior
-+ fichas consolidadas
-+ Estado consolidado
-+ processos/problemas ainda vivos pertinentes
-```
-
-Consultar `mapa-de-eventos.md` quando a cronologia ou origem de conhecimento importar e abrir capítulos completos somente quando o detalhe canônico for necessário.
-
-Isso reduz o carregamento sem transformar resumo ou mapa em novas fontes de verdade.
+O Registro preserva o processo; não precisa reencená-lo a cada resposta.
 
 ## Duplicação legítima
 
-Uma mesma realidade pode aparecer em duas fontes quando cada uma possui função diferente.
+Uma mesma realidade pode aparecer em duas fontes quando cada uma responde a uma pergunta diferente.
 
 ```text
 LIVRO
-→ registra que a personagem descobriu um fato.
+→ registra que Corvin foi ferido.
 
-FICHA / CONHECIMENTO RELEVANTE
-→ preserva o fato que ela precisa continuar sabendo.
+ESTADO DA CAMPANHA
+→ registra que o ferimento ainda existe agora.
+
+FICHA / ESTADO ATUAL DA PERSONAGEM
+→ pode carregar o recorte pessoal desse ferimento.
 ```
+
+Isso não exige trilho numérico universal.
 
 Outro exemplo:
 
 ```text
 LIVRO
-→ registra que houve um ferimento.
+→ registra que Ravena aprendeu um fato.
 
-ESTADO ATUAL
-→ preserva as marcas de Vida que ainda estão presentes.
+FICHA DE RAVENA
+→ preserva o conhecimento que ela precisa continuar levando consigo.
 ```
 
-Isso não é duplicação ruim porque cada fonte responde a uma pergunta diferente.
+## Fechar capítulo
 
-O mesmo vale para resumo e mapa, desde que sejam tratados explicitamente como derivados e não como autoridade concorrente.
+O comando `fechar o capítulo` segue `fechar-capitulo.md`:
+
+```text
+parar
+→ consolidar capítulo
+→ atualizar fontes afetadas
+→ reset operacional
+→ reancorar
+→ continuar do Estado atual
+```
+
+O fechamento não fabrica clímax, passagem de tempo nem nova decisão.
+
+## Fechar temporada
+
+Quando a condição de encerramento for realmente alcançada:
+
+```text
+fechar último capítulo
+→ escrever epílogo
+→ consolidar fichas, Estado, mundo e processos
+→ arquivar roteiro
+→ organizar livro/temporada-[N]/
+→ criar resumo e mapa de eventos
+→ reancorar
+→ perguntar “E agora?”
+```
+
+A próxima temporada não nasce automaticamente de um problema aberto.
 
 ## Salvar não joga
 
-Quando o usuário pedir apenas para **salvar** ou **registrar**:
-
-- parar no último fato estabelecido;
-- não criar uma cena extra;
-- não resolver ação ainda pendente;
-- não decidir pelo jogador;
-- não executar automaticamente plano futuro;
-- não inventar consequência para produzir fechamento.
+Quando o pedido for apenas salvar ou registrar:
 
 ```text
 SALVAR
@@ -419,33 +254,28 @@ SALVAR
 continuar jogando.
 ```
 
-Isso é diferente do comando `fechar o capítulo`, que inclui continuação **depois** do salvamento, reset e reancoragem.
+Parar no último fato estabelecido e não decidir nada que ainda esteja aberto.
 
-`Fechar temporada` também não continua para um novo arco: termina em **“E agora?”**.
+## Dados vivos ficam em `campanhas/`
 
-## Dados vivos ficam somente em `campanhas/`
+Isso inclui, conforme a necessidade real:
 
-Isso inclui:
+```text
+Narrativa da Campanha
+Roteiro ativo
+fichas
+Estado global
+relações e conhecimentos consolidados
+condições e efeitos presentes
+Equipamentos e Recursos relevantes
+processos e prazos
+mundo
+planos do Opositor
+capítulos, epílogos, resumos e mapas
+```
 
-- narrativa da campanha;
-- roteiro da temporada ativa;
-- roteiros arquivados;
-- fichas reais;
-- relações consolidadas;
-- conhecimento relevante;
-- Estado Atual;
-- Vida, Mente, Mana e condições atuais;
-- acontecimentos;
-- capítulos, epílogos, resumos e mapas de temporadas;
-- mundo;
-- processos;
-- prazos;
-- eventos futuros já estabelecidos;
-- planos do Opositor;
-- registros do Mestre.
-
-Recursos permanentes pertencem à ficha; recursos temporários podem pertencer ao Estado Atual quando precisarem ser acompanhados.
+Não criar campos mecânicos apenas porque existiam em versões anteriores.
 
 ## Regra final
 
-> **Registro é a memória canônica da campanha. A Narrativa preserva a identidade persistente; o Roteiro preserva a temporada ativa; a ficha preserva a interpretação da personagem; o Livro preserva o passado; o Estado preserva o presente. Temporadas encerradas são agrupadas conforme `arquivo-de-temporada.md`: capítulos e epílogo preservam o cânone, enquanto resumo e mapa facilitam reancoragem sem competir com as fontes principais. `Fechar o capítulo` acrescenta um reset operacional entre capítulos; `fechar temporada` consolida também sua unidade histórica antes de perguntar “E agora?”.**
+> **Registro é a memória canônica da campanha. A ficha preserva a personagem, o Estado preserva o presente global, o Livro preserva o passado e as demais fontes preservam o contexto que lhes pertence. Vida, Mente e Mana não são estruturas universais do sistema ativo; registrar somente condições, custos e recursos que realmente existam em uma fonte canônica específica.**
