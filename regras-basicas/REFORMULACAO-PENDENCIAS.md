@@ -63,26 +63,42 @@ jogador/README.md
 13. Mesa só abre com dúvida, discordância, direção compartilhada ou conflito real de autoridade.
 14. Só participam da Mesa as autoridades afetadas.
 15. Resultado geral conhecido ainda pode produzir uma cena dramaticamente aberta em significado e execução.
+16. A ficha deve servir também como roteiro de criação da personagem.
+17. A criação parte da pessoa, não de pontos: Descrição Física → Conceito → Habilidades → Traços e Poderes → Descrição Emocional/Personalidade → Histórico → Estado Atual.
+18. Habilidades separam o que a personagem sabe fazer do que ela sabe; Conhece/Especialista indicam autoridade de conhecimento.
+19. Conceito, descrição, formação, natureza e histórico justificam Habilidades, Traços e Poderes.
+20. Cada cadeira de personagem precisa memorizar somente sua própria ficha, seu Estado Atual, seu conhecimento legítimo e os fatos perceptíveis da cena.
+21. A cadeira não precisa carregar fichas completas das demais personagens; comparação entre fichas pertence ao Narrador/Juiz e, quando pertinente, ao Opositor.
 ```
 
 ## Pendências prioritárias
 
 ### 1 — Criação de personagem
 
-Reescrever:
+Reescrever e fechar:
 
 ```text
 jogador/1.3-criacao-da-ficha.md
 ```
 
-Decidir:
+A estrutura da criação já está definida:
 
 ```text
-como limitar uma ficha sem voltar a orçamento matemático excessivo
-se existe Patamar global ou apenas capacidades graduadas
-como distinguir personagem comum, heroica, cósmica etc.
-quantas especialidades são razoáveis
-como aprovar Poderes amplos
+Descrição Física
+→ Conceito
+→ Habilidades
+→ Traços e Poderes
+→ Descrição Emocional / Personalidade
+→ Histórico
+→ Estado Atual
+```
+
+Ainda precisamos decidir somente o que for realmente necessário para evitar abuso sem reconstruir orçamento matemático, principalmente:
+
+```text
+se existe alguma trava adicional para Poderes muito amplos
+como calibrar [1]-[3] durante a criação
+se ainda existe Patamar global ou se ele desaparece por completo
 ```
 
 ### 2 — Traços
@@ -106,6 +122,7 @@ Adicionar futuramente, se necessário:
 ```text
 autoridade epistêmica de Especialistas
 comparação entre fichas
+regra explícita de memória por cadeira
 relação entre ficha e Direção
 ```
 
