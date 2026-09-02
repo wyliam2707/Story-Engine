@@ -1,6 +1,6 @@
 # Fontes da Campanha
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define **onde salvar cada tipo de verdade** dentro de `campanhas/<nome>/`.
 
@@ -9,73 +9,54 @@ Este arquivo define **onde salvar cada tipo de verdade** dentro de `campanhas/<n
 ## Regra de roteamento
 
 ```text
-QUEM É A PERSONAGEM E O QUE ELA PRECISA LEMBRAR PARA SER INTERPRETADA?
-→ ficha da personagem.
+QUEM É A PERSONAGEM E O QUE ELA PRECISA LEVAR CONSIGO?
+→ personagens/<nome>.md
 
 SOBRE O QUE A CAMPANHA É AO LONGO DAS TEMPORADAS?
-→ mestre/narrativa.md.
+→ mestre/narrativa.md
 
-QUAL É O ARCO QUE ESTÁ SENDO JOGADO AGORA?
-→ mestre/roteiro.md.
+QUAL É O ARCO ATIVO?
+→ mestre/roteiro.md
 
 COMO A CAMPANHA ESTÁ AGORA?
-→ estado/atual.md.
+→ estado/atual.md
 
-O QUE É VERDADE ESTÁVEL NO CENÁRIO?
-→ mundo/.
-
-O QUE MAIS O MESTRE PRECISA PRESERVAR?
-→ mestre/.
+O QUE É VERDADE ESTÁVEL DO CENÁRIO?
+→ mundo/
 
 O QUE O OUTRO LADO DA TRAMA ESTÁ FAZENDO?
-→ opositor/.
+→ opositor/
 
 O QUE REALMENTE ACONTECEU?
-→ livro/.
+→ livro/
 ```
 
 ## `personagens/`
 
-Guarda as fichas reais das personagens.
+Guarda as fichas reais.
 
-A ficha é a **principal fonte de interpretação** e pode conter:
-
-- identidade;
-- Estado inicial;
-- Atributos e Perícias;
-- Poderes e equipamentos;
-- Traços;
-- Recursos permanentes;
-- personalidade e tendências;
-- desejos, medos e hábitos;
-- relações pelo ponto de vista do dono da ficha;
-- conhecimento relevante;
-- história consolidada que ainda influencia a personagem.
-
-Não usar a ficha como diário completo de tudo que aconteceu.
-
-## Conhecimento relevante da personagem
-
-Informação que uma personagem precisa lembrar para interpretar, decidir ou reagir com continuidade deve ser consolidada em `Conhecimento relevante` na ficha quando isso for a forma mais direta de mantê-la disponível.
-
-Regra prática:
+A ficha pode conter:
 
 ```text
-se esquecer provavelmente faria a personagem agir de forma incoerente nesta história
-→ ficha / Conhecimento relevante.
-
-se importa apenas para a situação presente
-→ Estado Atual.
-
-se é contexto externo amplo já guardado em outra fonte
-→ consultar essa fonte quando necessário.
+identidade
+Descrição Física
+Conceito
+Habilidades e Conhecimentos
+Traços e Poderes
+Equipamentos e Recursos relevantes
+Descrição Emocional / Personalidade
+relações
+Histórico
+Estado Atual pessoal
 ```
 
-O que é relevante depende da Narrativa da Campanha e do Roteiro da Temporada. Romance, terror, investigação, ação ou outros focos podem tornar conhecimentos diferentes importantes.
+O bloco `Estado Atual` da ficha é apenas o recorte pessoal temporário daquela personagem.
 
-Uma campanha ainda pode possuir arquivos adicionais de conhecimento quando o volume ou a organização justificar, mas eles não devem esconder da ficha uma informação essencial para interpretar a personagem corretamente.
+A ficha não é diário completo nem cópia do Estado global.
 
-O importante é preservar a separação:
+## Conhecimento relevante
+
+Quando esquecer uma informação provavelmente faria a personagem interpretar ou decidir de forma incoerente, consolidar esse conhecimento na própria ficha ou na fonte específica apropriada.
 
 ```text
 PERSONAGEM A SABE
@@ -83,70 +64,77 @@ PERSONAGEM A SABE
 PERSONAGEM B SABE
 ```
 
-Conhecimento consolidado não deve ser reapresentado como descoberta apenas porque a campanha foi retomada depois.
+Arquivos tecnicamente acessíveis não concedem conhecimento ficcional automático.
 
 ## Relações e ponto de vista
 
-Relações registradas na ficha pertencem ao ponto de vista íntimo do dono daquela ficha.
+Relações registradas na ficha pertencem ao ponto de vista íntimo daquela personagem.
 
 ```text
 FICHA DE A
-→ como A entende seus vínculos.
+→ como A entende o vínculo.
 
 FICHA DE B
-→ como B entende seus vínculos.
+→ como B entende o vínculo.
 ```
 
-As duas leituras podem ser diferentes sem contradição.
-
-O que A sabe sobre a percepção de B pode ser registrado em `Conhecimento relevante` de A quando isso realmente importar.
+As leituras podem divergir sem que uma esteja errada.
 
 ## `estado/atual.md`
 
-Guarda o retrato operacional do presente.
+É a fonte canônica global da realidade presente.
 
-Exemplos:
+Pode registrar, quando necessário:
 
-- local e momento atuais;
-- quem está presente;
-- marcas atuais de Vida e Mente;
-- Mana atual;
-- condições e efeitos ativos;
-- posição importante;
-- alterações temporárias de deslocamento;
-- ação interrompida ou processo imediato;
-- fatos recentes que ainda alteram diretamente as opções atuais.
+```text
+momento e local
+quem está presente
+posição das peças
+condições temporárias
+efeitos ativos
+transformações em curso
+Equipamentos ou Recursos indisponíveis
+intenções persistentes
+ações interrompidas
+processos e prazos próximos
+fatos recentes que ainda alteram a situação
+primeiro ponto ainda aberto
+```
 
-Não é histórico.
+Não registrar `Vida`, `Mente` ou `Mana` como estruturas universais.
 
-A estrutura de Vida, Mente, Mana máxima normal e deslocamentos básicos vem da ficha. O Estado Atual acompanha somente como esses elementos estão agora.
+```text
+RECURSO OU CONDIÇÃO ESPECÍFICA FOI DEFINIDO
+→ acompanhar conforme sua própria regra.
+
+NADA DEFINIU
+→ não inventar barra, reserva ou trilho genérico.
+```
 
 ## `mundo/`
 
-Guarda verdades estáveis do cenário.
+Guarda verdades estáveis externas às personagens.
 
 Exemplos:
 
-- localização de uma cidade;
-- regra política estabelecida;
-- organização conhecida;
-- característica permanente de um local;
-- evento que alterou de forma duradoura o mundo.
+```text
+localização de uma cidade
+regra política estabelecida
+organização existente
+característica permanente de um local
+evento que alterou duradouramente o cenário
+```
 
-Não usar para planos secretos ou condições temporárias de personagens.
+Não usar `mundo/` para estados temporários pessoais nem planos secretos adversariais.
 
 ## `mestre/`
 
-Guarda informações operacionais próprias do Narrador quando a campanha realmente precisar delas.
-
 ### `mestre/narrativa.md`
 
-É a fonte principal da **identidade persistente da campanha**.
-
-Pode registrar de forma curta:
+Fonte da identidade persistente da campanha:
 
 ```text
-foco principal
+foco
 gênero e tom
 experiência desejada
 temas e conflitos recorrentes
@@ -154,159 +142,129 @@ o que não deve dominar
 premissas gerais
 ```
 
-A Narrativa continua válida entre temporadas e só muda por decisão deliberada sobre a proposta da campanha.
-
 ### `mestre/roteiro.md`
 
-É a fonte principal da **temporada ativa**.
-
-Pode registrar:
+Fonte da temporada ativa:
 
 ```text
-situação inicial
-foco aplicado
-trama de fundo
-prazo ou processo
-miniquests ou variações
-direção da temporada
+problema estrutural
+Diretriz Fechada
+processos preparados
+limites do arco
 condição de encerramento
 ```
 
-O roteiro não determina acontecimentos nem resultados. Ele transforma a Narrativa da Campanha em um arco jogável atual.
-
-```text
-NARRATIVA
-→ sobre o que a campanha é.
-
-ROTEIRO
-→ que arco está sendo jogado agora.
-
-ESTADO
-→ o que está acontecendo agora.
-
-LIVRO
-→ o que aconteceu.
-```
+O roteiro não determina decisões voluntárias nem resultados futuros.
 
 ### `mestre/temporadas/`
 
-Guarda roteiros de temporadas já encerradas.
-
-```text
-mestre/roteiro.md
-→ temporada ativa.
-
-mestre/temporadas/temporada-[N].md
-→ roteiro arquivado; não dirige mais o presente.
-```
-
-A classificação operacional de NPCs ou criaturas (`ALIADO`, `NEUTRO`, `HOSTIL`, `INIMIGO`) pode aparecer no material do Mestre quando for útil, sempre relativa aos personagens principais e conforme `../mestre/julgamento.md`.
-
-Outros arquivos de `mestre/` podem conter:
-
-- referências de cena;
-- fatos ocultos que não pertencem especificamente ao Opositor;
-- material necessário para julgamento futuro.
-
-Esses arquivos podem ser visíveis no repositório sem se tornarem conhecimento automático das personagens.
+Guarda roteiros de temporadas encerradas.
 
 ## `opositor/`
 
-Guarda o outro lado da trama.
+Guarda oposição sem cadeira própria e processos adversariais legitimamente existentes.
 
 Pode conter:
 
-- planos de vilões;
-- objetivos adversariais;
-- preparação;
-- prazos;
-- conhecimento de agentes adversariais;
-- recursos legitimamente disponíveis;
-- etapas futuras já julgadas como processos válidos.
+```text
+objetivos
+planos
+preparação
+prazos
+conhecimento adversarial
+recursos disponíveis
+processos em andamento
+```
 
 Plano não é acontecimento.
 
-```text
-opositor/
-→ preserva que o vilão pretende atacar em 5 dias.
-
-livro/
-→ só registra o ataque quando ele realmente acontecer.
-```
-
 ## `livro/`
 
-Guarda a história canônica do que efetivamente aconteceu.
+Guarda o histórico canônico do que efetivamente aconteceu.
 
-O Livro não registra:
-
-- intenção que não foi executada;
-- hipótese descartada como se fosse verdade;
-- plano futuro como se já tivesse ocorrido;
-- metaconversa;
-- discussão de regra;
-- versões anuladas ou substituídas.
-
-### Epílogo de temporada
-
-Quando uma temporada termina, o epílogo registra como ela **realmente** terminou:
+Não registrar como acontecimento:
 
 ```text
-livro/temporada-[N]-epilogo.md
+intenção ainda não executada
+hipótese
+plano futuro
+metaconversa
+versão anulada
+resultado ainda aberto
 ```
 
-Pode consolidar, conforme o tipo de campanha:
-
-```text
-relações resultantes
-onde as personagens terminaram
-conhecimento importante adquirido
-objetivos concluídos
-mudanças consolidadas
-problemas ainda abertos
-```
-
-O epílogo não cria a próxima temporada nem decide acontecimentos futuros.
+Temporadas encerradas seguem `arquivo-de-temporada.md`.
 
 ## Duplicação legítima
 
-Uma mesma realidade pode aparecer em duas fontes quando cada uma possui função diferente.
+Uma mesma realidade pode aparecer em mais de uma fonte quando cada ocorrência possui função diferente.
+
+Exemplo:
 
 ```text
 LIVRO
-→ registra que Ravena descobriu um costume importante de Estelar.
+→ registra que a personagem sofreu um ferimento.
 
-FICHA DE RAVENA / CONHECIMENTO RELEVANTE
-→ preserva aquilo que Ravena agora sabe e deve considerar no futuro.
+ESTADO DA CAMPANHA
+→ registra que o ferimento continua presente.
+
+FICHA / ESTADO ATUAL PESSOAL
+→ registra somente o recorte necessário para aquela cadeira.
 ```
 
-Outro exemplo:
+Outro:
 
 ```text
 LIVRO
-→ registra que Corvin foi ferido.
+→ registra que Ravena descobriu um fato.
 
-ESTADO ATUAL
-→ preserva as marcas de Vida que ainda estão presentes.
+FICHA DE RAVENA
+→ preserva o conhecimento que ela precisa continuar possuindo.
 ```
 
-O Livro preserva o acontecimento. A fonte operacional preserva aquilo que ainda precisa ser usado.
+Duplicação funcional não significa autoridade concorrente.
+
+## Vida, Mente, Mana e outros mecanismos antigos
+
+Os arquivos legados podem mencionar estruturas antigas, mas as fontes de campanha novas não devem tratá-las como padrão.
+
+```text
+Vida universal
+Mente universal
+Mana universal
+→ não fazem parte do modelo ativo.
+```
+
+Se uma campanha ou personagem possuir uma condição, reserva, carga, transformação ou custo particular realmente estabelecido, registrar o elemento específico em sua fonte correta.
+
+Exemplos:
+
+```text
+Condição: envenenado até receber antídoto.
+
+Recurso: 2 cargas restantes do artefato.
+
+Limitação: voo indisponível enquanto as asas estiverem feridas.
+```
+
+> **A fonte registra a verdade concreta; não converte toda verdade em uma estatística universal.**
 
 ## Evitar cópia sem função
 
 Não repetir por padrão:
 
-- a cena inteira no Estado Atual;
-- a ficha inteira no README;
-- todos os segredos em vários arquivos;
-- todo o Livro em Conhecimento relevante;
-- toda a lore do mundo dentro de cada ficha;
-- todo plano do Opositor em Estado Atual;
-- toda a Narrativa dentro do Roteiro;
-- o roteiro inteiro em vários arquivos ativos.
+```text
+cena inteira no Estado
+ficha inteira no README
+segredos em vários arquivos
+todo o Livro na ficha
+toda a lore do mundo em cada personagem
+todo plano do Opositor no Estado
+Narrativa inteira dentro do Roteiro
+```
 
-Se uma informação já possui fonte principal suficiente, apontar para ela ou consultá-la quando necessário.
+Quando uma fonte principal já basta, consultar essa fonte quando necessário.
 
 ## Regra final
 
-> **Escolha a fonte pela função da verdade: Narrativa guarda a identidade persistente da campanha; Roteiro guarda a temporada ativa; a ficha guarda quem a personagem é e o que precisa permanecer disponível para interpretá-la; Estado Atual guarda o presente; mundo guarda contexto estável; mestre e opositor guardam material operacional próprio; Livro guarda o que aconteceu, incluindo o epílogo de cada temporada.**
+> **Escolha a fonte pela função da verdade: ficha guarda a personagem; Narrativa guarda a identidade da campanha; Roteiro guarda o arco ativo; Estado guarda o presente global; mundo guarda contexto estável; Opositor guarda oposição legítima; Livro guarda o que aconteceu. Vida, Mente e Mana não são campos universais dessas fontes.**
