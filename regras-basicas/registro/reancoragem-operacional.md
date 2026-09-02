@@ -4,7 +4,7 @@ Status: CANÔNICO DA REFORMULAÇÃO
 
 Esta regra define como reconstruir uma campanha ao iniciar, retomar ou continuar depois de um checkpoint sem misturar cadeiras, conhecimentos ou regras antigas.
 
-> **Reancorar não é carregar tudo em todo mundo. É reconstruir uma mesa funcional: o Narrador recupera a realidade necessária para julgar; cada cadeira recupera somente a própria personagem; o Opositor recupera a oposição legítima; e a ficção retorna exatamente no primeiro ponto ainda aberto.**
+> **Reancorar não é carregar tudo em todo mundo. É reconstruir uma configuração funcional de cadeiras e realidade: o Narrador recupera a realidade necessária para julgar; cada cadeira recupera somente a própria personagem; o Opositor recupera a oposição legítima; e a ficção retorna exatamente no primeiro ponto ainda aberto.**
 
 A reancoragem não cria uma segunda camada de regras. Ela transforma as fontes canônicas já existentes em uma representação operacional suficiente para continuar a história.
 
@@ -19,7 +19,7 @@ ao começar uma campanha pronta
 ao retomar uma campanha em outro chat
 após perda ou redução importante de contexto
 depois de fechar um capítulo
-quando uma mudança permanente alterar de forma relevante uma ficha, a mesa ou o funcionamento da campanha
+quando uma mudança permanente alterar de forma relevante uma ficha, a Configuração das Cadeiras ou o funcionamento da campanha
 ```
 
 Durante o jogo normal, não repetir o procedimento a cada resposta.
@@ -59,6 +59,7 @@ saber quem pode decidir o quê agora
 A reancoragem precisa restaurar:
 
 ```text
+Configuração das Cadeiras
 autoridade
 fatos relevantes
 fichas das peças necessárias
@@ -383,7 +384,7 @@ não agir
 
 Tudo deve nascer da própria ficha, estado, conhecimento e situação.
 
-Não centralizar a mesa artificialmente na personagem humana.
+Não centralizar a campanha artificialmente na personagem humana.
 
 ```text
 A está ocupada
@@ -555,6 +556,8 @@ Não existe prioridade automática do protagonista.
 Depois da reancoragem:
 
 ```text
+CONFIGURAÇÃO DAS CADEIRAS E AUTORIDADES RECONSTRUÍDAS
++
 MOTOR RECONSTRUÍDO
 +
 REALIDADE ATUAL RECONSTRUÍDA
@@ -613,6 +616,7 @@ Antes de produzir ficção, o Narrador deve conseguir responder:
 ```text
 [ ] Sei sobre o que esta campanha é.
 [ ] Sei qual temporada está ativa e quais são seus limites.
+[ ] Sei qual é a Configuração das Cadeiras relevante agora.
 [ ] Sei o presente necessário para continuar.
 [ ] Sei quais cadeiras estão relevantes agora.
 [ ] Cada cadeira possui apenas seu próprio pacote decisório.
@@ -629,4 +633,4 @@ Se uma resposta essencial for não, consultar somente a fonte necessária antes 
 
 ## Regra final
 
-> **Reancorar significa reconstruir uma mesa funcional, não recarregar um conjunto antigo de fórmulas. O Narrador recupera a realidade necessária para julgar; cada cadeira recupera somente sua própria ficha, Estado Atual, conhecimento legítimo, percepção e intenção; o Opositor recupera apenas a oposição pertinente; e a IA preserva a separação entre acesso técnico e conhecimento ficcional. A Mesa só aparece quando existe dúvida ou conflito real. Depois disso, a história retorna exatamente ao primeiro ponto ainda aberto, parando sempre que uma nova decisão voluntária pertencer ao Jogador Humano.**
+> **Reancorar significa reconstruir a Configuração das Cadeiras, suas autoridades e a realidade necessária para continuar, não recarregar um conjunto antigo de fórmulas. O Narrador recupera o que precisa para julgar; cada cadeira recupera somente sua própria ficha, Estado Atual, conhecimento legítimo, percepção e intenção; o Opositor recupera apenas a oposição pertinente; e a IA preserva a separação entre acesso técnico e conhecimento ficcional. A Mesa não é a composição da campanha: só aparece quando existe dúvida ou conflito real. Depois disso, a história retorna exatamente ao primeiro ponto ainda aberto, parando sempre que uma nova decisão voluntária pertencer ao Jogador Humano.**
