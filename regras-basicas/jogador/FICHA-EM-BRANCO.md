@@ -3,79 +3,116 @@
 ESTADO DA FICHA: EM CRIAÇÃO
 Importância: / CONTROLE:
 Nome real: / Idade:
+
+## 1 — Descrição Física
+
 Aparência:
+Porte:
 Estilo:
+Marcas ou características distintivas:
+
+## 2 — Conceito
+
 Conceito:
-Descrição:
 
-## Estado Atual Inicial
+Descrição do conceito:
 
---- Condição física:
---- Condição mental/emocional:
---- Localização inicial:
---- Condições ou limitações ativas:
+## 3 — Habilidades
 
-## Competências e Conhecimentos
+### Competências
 
---- [competência, treinamento ou conhecimento relevante]
---- Especialista em [área].
---- Conhece [área, cultura, organização ou assunto].
+--- [algo que a personagem sabe fazer por treino, prática, profissão ou experiência]
 
-## Poderes e Equipamentos
+### Conhecimentos
 
---- [Nome do Poder] [graduação, se comparação for necessária]
-[limite ou descrição objetiva, quando necessário]
+--- Conhece: [campo, cultura, organização, tecnologia ou assunto]
+--- Especialista: [campo de domínio profundo]
 
---- [Equipamento]
-[capacidade relevante, quando necessário]
+## 4 — Traços e Poderes
 
-## Traços
+### Traços
 
 --- TRAÇO: [nome]
-[verdade objetiva dentro do escopo exato]
+[verdade objetiva da personagem dentro de seu escopo]
 
-## Recursos
+### Poderes
 
---- [Recurso]: [posse, acesso, contato ou infraestrutura estável]
+--- [Nome do Poder] [graduação apenas quando comparação for útil]
+[descrição objetiva do que permite fazer e limites relevantes]
 
-## Personalidade e Tendências
+## 5 — Descrição Emocional / Personalidade
 
---- [ ]
+Personalidade:
 
-## Desejos / Objetivos
+Desejos e objetivos:
 
---- [ ]
+Medos, limites e aversões:
 
-## Medos / Limites
+Hábitos e tendências recorrentes:
 
---- [ ]
+Relações relevantes:
 
-## Rotina e Hábitos Persistentes
+## 6 — Histórico
 
---- [ ]
+Origem:
 
-## Relações
+Formação e experiências:
 
-### Relações positivas
+Fatos passados que ainda influenciam a personagem:
 
---- [Nome] [relação objetiva pelo ponto de vista da personagem]
+## 7 — Estado Atual
 
-### Relações negativas
+--- [condição física, emocional, transformação, efeito ativo, ausência de equipamento, localização ou outra condição temporária relevante]
 
---- [Nome] [relação objetiva pelo ponto de vista da personagem]
+---
 
-### Relacionamentos
+## Regra de criação
 
---- [Relacionamento] [descrição pelo ponto de vista da personagem]
+Esta ficha é também o roteiro oficial de criação da personagem.
 
-## Conhecimento Relevante
+Preencher na ordem:
 
---- [fato que a personagem legitimamente sabe e não pode simplesmente esquecer]
+```text
+DESCRIÇÃO FÍSICA
+→ quem vemos.
 
-## História Consolidada Relevante
+CONCEITO
+→ quem essa pessoa é em essência.
 
---- [fato passado que ainda altera interpretação, decisão ou capacidade]
+HABILIDADES
+→ o que aprendeu a fazer e o que sabe.
 
-## Observações de Comparação
+TRAÇOS E PODERES
+→ verdades especiais e capacidades extraordinárias sustentadas pela personagem criada.
 
---- [quando necessário, registrar diferenças relevantes que não cabem naturalmente em outro bloco]
+DESCRIÇÃO EMOCIONAL / PERSONALIDADE
+→ como tende a pensar, sentir, escolher e se relacionar.
+
+HISTÓRICO
+→ de onde veio e o que explica quem ela se tornou.
+
+ESTADO ATUAL
+→ como está agora; não redefine quem ela é.
+```
+
+A criação não distribui pontos para inventar capacidades.
+
+```text
+CONCEITO
++
+DESCRIÇÃO
++
+NATUREZA
++
+FORMAÇÃO
++
+EXPERIÊNCIA
++
+HISTÓRICO
+
+→ sustentam o conteúdo da ficha.
+```
+
+Se uma Habilidade, Traço ou Poder não encontra fundamento suficiente na personagem criada, ele precisa ser explicado antes de ser aprovado.
+
+> **Primeiro cria-se a personagem. Depois a ficha registra somente aquilo que essa criação sustenta.**
