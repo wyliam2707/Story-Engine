@@ -4,7 +4,7 @@ Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define como iniciar ou retomar uma campanha usando `regras-basicas/` sem reativar o motor anterior.
 
-> **Carregar somente o necessário para reconstruir a mesa, a realidade presente e o primeiro ponto ainda aberto.**
+> **Carregar somente o necessário para reconstruir as cadeiras, a realidade presente e o primeiro ponto ainda aberto.**
 
 ## Entrada
 
@@ -75,6 +75,8 @@ LIVRO / MUNDO / OPOSITOR / OUTRAS FONTES
 → contexto consultado somente quando necessário.
 ```
 
+O `README.md` da campanha também preserva, quando aplicável, a **Configuração das Cadeiras**: quem ocupa cada autoridade persistente.
+
 Não pedir novamente informação já registrada em fonte canônica.
 
 ## Reancoragem
@@ -90,7 +92,8 @@ Fluxo:
 ```text
 CARREGAR FONTES NECESSÁRIAS
 → REANCORAR
-→ reconstruir autoridades e realidade presente
+→ reconstruir Configuração das Cadeiras e autoridades
+→ reconstruir a realidade presente
 → separar pacotes das cadeiras
 → restaurar intenções e processos ainda vivos
 → identificar o primeiro ponto aberto
@@ -163,6 +166,25 @@ PERSONAGEM SABE
 
 Comparações técnicas pertencem ao Narrador/Juiz e, quando pertinente, ao Opositor.
 
+## Configuração das Cadeiras e Mesa
+
+Não confundir composição persistente com procedimento temporário.
+
+```text
+CONFIGURAÇÃO DAS CADEIRAS
+→ quem ocupa cada autoridade na campanha.
+→ deve ser reconstruída na retomada.
+
+TRIBUNAL
+→ estrutura que define essas autoridades e seus limites.
+
+MESA
+→ só abre quando existe dúvida, discordância, direção compartilhada ou conflito real.
+→ não é uma etapa permanente da retomada.
+```
+
+Se não houver questão pendente, nenhuma Mesa precisa ser aberta para continuar.
+
 ## Campanha em criação
 
 ```text
@@ -188,7 +210,7 @@ Um problema ainda aberto não obriga que o próximo arco seja sobre ele.
 ```text
 CRIAÇÃO: CONCLUÍDA
 → carregar fontes mínimas
-→ reconstruir cadeiras necessárias
+→ reconstruir Configuração das Cadeiras e autoridades necessárias
 → carregar Narrativa
 → carregar Roteiro ativo
 → carregar Estado da Campanha
@@ -244,7 +266,7 @@ RECARREGAR
 → fontes essenciais.
 
 REANCORAR
-→ reconstruir a mesa funcional.
+→ reconstruir Configuração das Cadeiras, autoridades e realidade presente.
 
 CONTINUAR
 → a partir do Estado consolidado.
@@ -274,4 +296,4 @@ Se uma campanha histórica possui um recurso particular que continua canonicamen
 
 ## Regra final
 
-> **Para começar ou retomar uma campanha pronta, reconstruir autoridades, fichas, Estado global, conhecimento por cadeira, intenções e processos antes da nova ficção. Vida, Mente e Mana não são campos universais de retomada; somente condições, recursos e custos definidos por fontes canônicas específicas continuam sendo acompanhados.**
+> **Para começar ou retomar uma campanha pronta, reconstruir a Configuração das Cadeiras, suas autoridades, fichas, Estado global, conhecimento por cadeira, intenções e processos antes da nova ficção. A Mesa não é uma fase fixa da retomada: só abre quando existe uma questão real entre autoridades. Vida, Mente e Mana não são campos universais de retomada; somente condições, recursos e custos definidos por fontes canônicas específicas continuam sendo acompanhados.**
