@@ -44,6 +44,12 @@ Fica afastada da rotina imediata do campus e reúne a biblioteca arcana familiar
 
 A Âncora de Retorno de Daniel está vinculada permanentemente à Casa Arcanus, permitindo que ele retorne para lá imediatamente em uma emergência.
 
+### Garagem e transporte
+
+Há pelo menos um carro funcional e legalizado na garagem da Casa Arcanus.
+
+Daniel sabe dirigir, mas nunca precisou depender de um carro em sua rotina: para deslocamentos ligados à Casa Arcanus, portais sempre foram seu meio habitual.
+
 ## Residência da Liga
 
 Kara mantém como principal residência terrestre uma instalação segura da Liga da Justiça em Metropolis.
