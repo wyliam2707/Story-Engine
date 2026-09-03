@@ -4,32 +4,33 @@ Status: REFORMULAÇÃO ATIVA
 
 Este arquivo define como uma nova campanha nasce usando `regras-basicas/`.
 
-> **Cada passo usa o anterior como base: primeiro definir a narrativa, depois criar e fechar estruturalmente a temporada, depois construir fichas persistentes para essa campanha.**
+> **Toda campanha precisa de uma Direção antes do START. A Direção define que tipo de história estamos tentando escrever; ela não precisa definir antecipadamente uma trama.**
 
 ## Fluxo geral
 
 Ao receber `Nova campanha`:
 
 ```text
-PASSO 01 — CAMPANHA
+PASSO 01 — DIREÇÃO DA CAMPANHA
 → definir a identidade narrativa persistente.
+→ definir o foco inicial suficiente para começar.
 
-PASSO 02 — TEMPORADA
-→ receber a direção do Jogador.
-→ criar o problema da temporada.
-→ listar o que precisa ser resolvido.
-→ responder previamente as questões estruturais.
-→ registrar a Diretriz Fechada.
+PASSO 02 — CONFIGURAÇÃO DAS CADEIRAS
+→ identificar quais autoridades precisam existir.
+→ registrar quem executa cada uma.
 
-PASSO 03 — FICHAS
-→ identificar o elenco inicial.
-→ construir as personagens através da lente da campanha.
-→ usar a primeira temporada apenas como contexto inicial.
+PASSO 03 — FICHAS INICIAIS
+→ criar somente as personagens que precisam existir no começo.
+
+PASSO 04 — ESTADO INICIAL
+→ registrar a situação concreta de abertura.
+
+ESTRUTURA OPCIONAL
+→ Temporada / Arco Preparado / Diretriz Fechada, quando a campanha se beneficiar disso.
 
 DEPOIS
-→ pareamento mínimo
-→ situação inicial
-→ Configuração das Cadeiras
+→ pareamento mínimo, quando necessário
+→ conferir condições de início
 → START
 ```
 
@@ -54,28 +55,36 @@ campanhas/<nome>/
 └── livro/
 ```
 
+A presença dessas pastas não obriga o uso de todas as estruturas narrativas possíveis. Um arquivo de roteiro, por exemplo, só recebe autoridade quando existir um arco preparado ativo.
+
 O `README.md` da campanha começa com:
 
 ```text
 CRIAÇÃO: EM ANDAMENTO
-Etapa atual: PASSO 01 — CAMPANHA
+Etapa atual: PASSO 01 — DIREÇÃO DA CAMPANHA
 ```
 
-## PASSO 01 — Narrativa da Campanha
+## PASSO 01 — Direção da Campanha
 
-O primeiro passo define **que tipo de história esta campanha quer acompanhar ao longo das temporadas**.
+A Direção da Campanha define **que tipo de história esta campanha pretende acompanhar**.
 
-Perguntar somente o necessário:
+Ela é o mínimo narrativo obrigatório antes do START.
+
+Perguntar somente o necessário para compreender, quando relevante:
 
 ```text
-foco principal
-gênero e tom
-experiência desejada
-temas e relações que devem receber espaço
-tipos de conflito compatíveis
-o que não deve dominar
-premissas gerais já válidas
+que tipo de história queremos acompanhar?
+qual é o foco inicial?
+qual gênero e tom interessam?
+que experiência queremos produzir?
+que temas e relações devem receber espaço?
+que tipos de conflito são compatíveis?
+o que não deve dominar?
+onde ou em que situação começamos?
+que premissas gerais já são válidas?
 ```
+
+Nem toda campanha precisa responder formalmente a todos esses itens. A Direção está suficiente quando permite ao Narrador distinguir desenvolvimento coerente de desvio arbitrário.
 
 Registrar em:
 
@@ -83,167 +92,24 @@ Registrar em:
 campanhas/<nome>/mestre/narrativa.md
 ```
 
-A Narrativa da Campanha é persistente entre temporadas.
+Esse arquivo funciona como registro persistente da **Direção da Campanha**.
 
 ```text
-NARRATIVA
-→ identidade da campanha.
+DIREÇÃO DA CAMPANHA
+→ identidade, foco e limites narrativos persistentes.
+
+TRAMA PREPARADA
+→ opcional.
 
 TEMPORADA
-→ arco atual.
+→ opcional.
 ```
 
-Uma trama secundária interessante não reescreve automaticamente a identidade da campanha.
+Uma trama secundária interessante não reescreve automaticamente a Direção da Campanha.
 
-## PASSO 02 — Criar a Temporada
+> **Direção não é roteiro. Ela informa para onde a história quer olhar sem decidir antecipadamente o que acontecerá.**
 
-Depois da Narrativa, seguir `CRIACAO-DE-TEMPORADA.md`.
-
-Fluxo:
-
-```text
-DIREÇÃO DO JOGADOR
-↓
-PROBLEMA DA TEMPORADA
-↓
-LISTA DO QUE PRECISA SER RESOLVIDO
-↓
-RESPOSTAS CANÔNICAS NECESSÁRIAS
-↓
-DIRETRIZ FECHADA
-```
-
-O roteiro ativo fica em:
-
-```text
-campanhas/<nome>/mestre/roteiro.md
-```
-
-O roteiro estabelece o tabuleiro estrutural, não cenas futuras nem decisões voluntárias das personagens.
-
-Quando a temporada termina:
-
-```text
-resolver o arco
-→ escrever epílogo
-→ consolidar mudanças
-→ arquivar roteiro
-→ perguntar “E agora?”
-```
-
-## PASSO 03 — Criar as Fichas
-
-Somente depois de existir Narrativa da Campanha e roteiro inicial, construir o elenco que já precisa de agência.
-
-Para cada personagem, começar com:
-
-```text
-Nome
-IMPORTÂNCIA NARRATIVA
-CONTROLE
-Conceito, quando já conhecido
-ESTADO DA FICHA: EM CRIAÇÃO
-```
-
-### Importância Narrativa
-
-```text
-PROTAGONISTA
-RECORRENTE
-EVENTUAL
-INCIDENTAL
-```
-
-Importância Narrativa indica quanto desenvolvimento e continuidade precisam ser preservados.
-
-```text
-IMPORTÂNCIA NARRATIVA
-→ quanto preservar.
-
-CONTROLE
-→ qual Cadeira de Personagem possui autoridade sobre essa peça.
-
-EXECUTOR
-→ definido na Configuração das Cadeiras; indica quem ou o que opera essa autoridade.
-
-FICHA
-→ quem é e o que consegue fazer.
-```
-
-`CONTROLE` não deve ser preenchido com `HUMANO` ou `IA` como se fossem tipos de autoridade.
-
-Exemplo:
-
-```text
-CONTROLE: CADEIRA DE PERSONAGEM A
-```
-
-A forma de execução dessa cadeira é registrada depois na Configuração das Cadeiras.
-
-Importância Narrativa não mede poder, não concede bônus e não altera autoridade.
-
-`Patamar` pertence ao motor anterior e não faz parte da criação ativa.
-
-Depois do elenco, seguir:
-
-```text
-jogador/1.3-criacao-da-ficha.md
-```
-
-A ficha é persistente além da temporada que ajudou a contextualizar sua criação.
-
-## 4 — Pareamento mínimo
-
-Antes do START, comparar somente personagens cujas fichas possuam fatos cruzados relevantes.
-
-Verificar quando necessário:
-
-```text
-se já se conhecem
-natureza atual da relação
-fatos compartilhados importantes
-conhecimento legítimo de uma sobre a outra
-obrigações, acessos ou vínculos recorrentes
-```
-
-Se uma lacuna puder surgir naturalmente em cena sem contradição, não é preciso preenchê-la antes.
-
-## 5 — Situação inicial
-
-Depois das fichas e do pareamento, registrar em:
-
-```text
-campanhas/<nome>/estado/atual.md
-```
-
-somente o presente necessário para abrir a primeira cena.
-
-Quando relevante:
-
-```text
-momento ou período
-local
-personagens presentes
-posições relevantes
-situação imediata
-condições ou efeitos temporários ativos
-transformações em curso
-equipamentos ou recursos temporariamente indisponíveis
-intenções persistentes
-processos ou prazos já em andamento
-primeiro ponto ainda aberto
-```
-
-Não criar campos universais de `Vida`, `Mente` ou `Mana`.
-
-```text
-RECURSO / CUSTO / CONDIÇÃO ESPECÍFICA
-→ só acompanhar se existir legitimamente na ficha, Poder, Equipamento, Traço, regra canônica ou Estado da campanha.
-```
-
-O Estado Atual é presente operacional, não histórico.
-
-## 6 — Configuração das Cadeiras
+## PASSO 02 — Configuração das Cadeiras
 
 Registrar no `README.md` da campanha quais autoridades existem e quem executa cada uma.
 
@@ -315,24 +181,178 @@ QUESTÃO RESOLVIDA
 → encerrar Mesa e voltar à ficção.
 ```
 
-## 7 — START
+## PASSO 03 — Criar as Fichas Iniciais
+
+Depois que a Direção e as autoridades necessárias estiverem claras, construir somente o elenco que já precisa de agência no início.
+
+Não é necessário criar antecipadamente todas as pessoas que poderão existir na campanha.
+
+Para cada personagem, começar com:
+
+```text
+Nome
+IMPORTÂNCIA NARRATIVA
+CONTROLE
+Conceito, quando já conhecido
+ESTADO DA FICHA: EM CRIAÇÃO
+```
+
+### Importância Narrativa
+
+```text
+PROTAGONISTA
+RECORRENTE
+EVENTUAL
+INCIDENTAL
+```
+
+Importância Narrativa indica quanto desenvolvimento e continuidade precisam ser preservados.
+
+```text
+IMPORTÂNCIA NARRATIVA
+→ quanto preservar.
+
+CONTROLE
+→ qual Cadeira de Personagem possui autoridade sobre essa peça.
+
+EXECUTOR
+→ definido na Configuração das Cadeiras; indica quem ou o que opera essa autoridade.
+
+FICHA
+→ quem é e o que consegue fazer.
+```
+
+`CONTROLE` não deve ser preenchido com `HUMANO` ou `IA` como se fossem tipos de autoridade.
+
+Exemplo:
+
+```text
+CONTROLE: CADEIRA DE PERSONAGEM A
+```
+
+Importância Narrativa não mede poder, não concede bônus e não altera autoridade.
+
+`Patamar` pertence ao motor anterior e não faz parte da criação ativa.
+
+Depois do elenco, seguir:
+
+```text
+jogador/1.3-criacao-da-ficha.md
+```
+
+A ficha é persistente e não depende da existência de uma temporada.
+
+## Pareamento mínimo
+
+Antes do START, comparar somente personagens cujas fichas possuam fatos cruzados relevantes.
+
+Verificar quando necessário:
+
+```text
+se já se conhecem
+natureza atual da relação
+fatos compartilhados importantes
+conhecimento legítimo de uma sobre a outra
+obrigações, acessos ou vínculos recorrentes
+```
+
+Se uma lacuna puder surgir naturalmente em cena sem contradição, não é preciso preenchê-la antes.
+
+## PASSO 04 — Estado Inicial
+
+Depois das fichas necessárias e do pareamento relevante, registrar em:
+
+```text
+campanhas/<nome>/estado/atual.md
+```
+
+somente o presente necessário para abrir a primeira cena.
+
+Quando relevante:
+
+```text
+momento ou período
+local
+personagens presentes
+posições relevantes
+situação imediata
+condições ou efeitos temporários ativos
+transformações em curso
+equipamentos ou recursos temporariamente indisponíveis
+intenções persistentes
+processos ou prazos já em andamento
+primeiro ponto ainda aberto
+```
+
+Não criar campos universais de `Vida`, `Mente` ou `Mana`.
+
+```text
+RECURSO / CUSTO / CONDIÇÃO ESPECÍFICA
+→ só acompanhar se existir legitimamente na ficha, Poder, Equipamento, Traço, regra canônica ou Estado da campanha.
+```
+
+O Estado Inicial é o primeiro Estado Atual da campanha. Ele registra o presente operacional, não um roteiro do futuro.
+
+## Estrutura opcional — Temporada / Arco Preparado
+
+Depois que existe uma Direção da Campanha, pode-se escolher preparar um arco antes do START ou em qualquer momento posterior.
+
+```text
+QUEREMOS UM ARCO PREPARADO?
+
+SIM
+→ seguir CRIACAO-DE-TEMPORADA.md.
+→ registrar roteiro e Diretriz Fechada conforme esse módulo exigir.
+
+NÃO
+→ nenhuma Temporada é exigida.
+→ começar a partir da Direção da Campanha + Fichas + Estado Inicial.
+→ a campanha pode crescer de forma emergente.
+```
+
+Temporada e Diretriz Fechada são ferramentas de estrutura, não requisitos universais do motor.
+
+```text
+DIREÇÃO DA CAMPANHA
+→ obrigatória.
+
+TEMPORADA / ARCO PREPARADO
+→ opcional.
+
+DIRETRIZ FECHADA
+→ existe quando a estrutura escolhida a exigir.
+```
+
+Quando uma Temporada estiver ativa, seu roteiro estabelece o tabuleiro estrutural daquele arco, não cenas futuras nem decisões voluntárias das personagens.
+
+Quando não houver Temporada ativa, a Direção da Campanha continua sendo a referência para impedir crescimento arbitrário ou mudança invisível de proposta.
+
+## START
 
 Antes da primeira cena, conferir somente se a campanha consegue funcionar:
 
 ```text
 estrutura existe?
-Narrativa da Campanha foi aprovada?
-Direção da temporada está clara?
-problema da temporada existe?
-Diretriz Fechada está registrada?
-condição de encerramento existe?
-elenco inicial foi confirmado?
+Direção da Campanha foi aprovada?
+elenco inicial necessário foi confirmado?
 fichas necessárias estão aprovadas?
-pareamento essencial foi resolvido?
+pareamento essencial foi resolvido, quando necessário?
 Estado inicial está definido?
 CONTROLE das peças está claro?
-Configuração das Cadeiras registra também os Executores?
+Configuração das Cadeiras registra os Executores?
+se um Arco Preparado foi escolhido, sua preparação necessária está concluída?
 ```
+
+Não exigir por padrão:
+
+```text
+Temporada ativa
+problema de temporada
+Diretriz Fechada
+condição de encerramento de arco
+```
+
+Esses elementos só são requisitos quando a campanha escolheu usar a estrutura correspondente.
 
 Se faltar algo essencial:
 
@@ -352,35 +372,54 @@ CRIAÇÃO: CONCLUÍDA
 
 START é somente a passagem da criação para o jogo.
 
-## Ciclo entre temporadas
+## Ciclos e arcos posteriores
 
-Depois da primeira temporada, a campanha e as fichas continuam existindo.
+A campanha e as fichas continuam existindo independentemente de temporadas.
 
 ```text
 CAMPANHA
 → persistente.
 
+DIREÇÃO DA CAMPANHA
+→ persistente até mudança deliberada.
+
 FICHAS
 → persistentes.
 
-TEMPORADA
-→ renovável.
+TEMPORADA / ARCO PREPARADO
+→ opcional e renovável.
 ```
 
-Uma nova temporada pode exigir complementar uma ficha quando uma lacuna tiver alta chance de causar interpretação incoerente. Isso não significa revisar todas as fichas automaticamente.
+Quando um arco preparado termina:
+
+```text
+resolver o arco
+→ escrever epílogo quando pertinente
+→ consolidar mudanças
+→ arquivar roteiro
+→ perguntar “E agora?” quando isso fizer sentido para a execução
+```
+
+A campanha pode então criar outro arco preparado ou simplesmente continuar de modo emergente dentro de sua Direção.
 
 ## Criação emergente depois do START
 
 Lacunas menores podem ser completadas conforme `nucleo/1.7-criacao-emergente.md`.
 
-A criação emergente não pode:
+Sempre vale:
 
 ```text
-alterar a Diretriz Fechada
-introduzir retroativamente um novo problema estrutural
-fabricar vantagem ou obstáculo para responder a uma ação já declarada
+não fabricar vantagem ou obstáculo retroativamente para responder a uma ação já declarada
+não mudar invisivelmente a Direção da Campanha
+```
+
+Quando houver uma Diretriz Fechada ativa, vale também:
+
+```text
+não alterar a Diretriz Fechada por improvisação
+não introduzir retroativamente um novo problema estrutural que a torne falsa ou incompleta
 ```
 
 ## Regra final
 
-> **Nova campanha segue três passos dependentes: Narrativa, Temporada e Fichas. Depois disso, a Configuração das Cadeiras registra separadamente quais autoridades existem e quem as executa; Humano e IA são formas de execução, não tipos de soberania narrativa. Mesa continua reservada ao alinhamento temporário diante de dúvida, discordância ou conflito real.**
+> **Nova campanha exige Direção, autoridades necessárias, fichas iniciais suficientes e um Estado Inicial concreto. A Direção informa que história estamos tentando escrever sem precisar predeterminar uma trama. Temporadas, Arcos Preparados e Diretrizes Fechadas são estruturas opcionais: quando escolhidas, organizam um arco; quando ausentes, a campanha pode crescer emergentemente sem perder sua identidade narrativa.**
