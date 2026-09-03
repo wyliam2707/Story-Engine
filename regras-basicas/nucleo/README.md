@@ -41,8 +41,8 @@ Não usar `HUMANO`, `IA` ou `IA EVENTUAL` como espécies diferentes de soberania
 CADEIRA DE PERSONAGEM
 → decide voluntariamente por uma personagem.
 
-OPOSITOR
-→ representa oposição legítima dentro de sua autoridade.
+OPOSITOR — OPCIONAL
+→ representa forças adversariais persistentes sem cadeira própria quando a campanha se beneficia de uma autoridade estratégica dedicada.
 
 NARRADOR / JUIZ
 → julga o encontro entre fatos e autoridades.
@@ -62,9 +62,13 @@ CADEIRA DE PERSONAGEM B
 
 NARRADOR / JUIZ
 → EXECUTOR: IA.
+
+OPOSITOR
+→ ATIVO: NÃO, salvo quando a campanha realmente precisar dessa função.
 ```
 
 Mudar o executor não muda a natureza da cadeira.
+Ativar ou não o Opositor não altera as regras de autoria das demais cadeiras.
 
 ## Fluxo atual
 
@@ -113,7 +117,7 @@ Quando determinada cadeira depende de entrada externa de seu executor, a execuç
 → perfil de execução compartilhada por IA para cadeiras distintas.
 
 1.5-opositor.md
-→ oposição legítima, objeção factual curta e precedência de cadeira própria sobre função adversarial.
+→ função opcional para oposição persistente sem cadeira própria, objeção factual curta e precedência de cadeira própria sobre função adversarial.
 
 1.6-execucao-por-uma-unica-ia.md
 → separação técnica entre várias cadeiras executadas pela mesma IA.
@@ -122,7 +126,7 @@ Quando determinada cadeira depende de entrada externa de seu executor, a execuç
 → Narrador completa mundo neutro e consequências óbvias; fatos pessoais novos pertencem à cadeira da personagem.
 
 1.8-origem-de-conflitos.md
-→ fontes legítimas de oposição, conflitos derivados por causalidade e limites contra reconstrução retroativa; Diretriz Fechada só restringe quando estiver ativa.
+→ fontes legítimas de oposição, conflitos derivados por causalidade e limites contra reconstrução retroativa; Opositor e Diretriz Fechada só restringem quando estiverem ativos.
 ```
 
 Os nomes físicos `1.2-jogador-humano.md`, `1.3-jogador-ia.md` e `1.4-jogador-ia-eventual.md` são mantidos por compatibilidade documental. Conceitualmente, eles são **perfis de execução**, não tipos fundamentais de cadeira.
@@ -204,9 +208,11 @@ CONFLITO DERIVADO
 → pode nascer causalmente de fatos realmente ocorridos.
 
 OPOSITOR
-→ pode jogar para vencer.
+→ função opcional.
+→ quando ativo, pode jogar para vencer dentro de seu escopo.
 → não pode reconstruir o tabuleiro para vencer.
-→ controla apenas forças adversariais sem cadeira própria.
+→ controla apenas forças adversariais sem cadeira própria incluídas em seu escopo.
+→ sua ausência não elimina conflitos, perigos, processos ou consequências.
 
 OBJEÇÃO SIMPLES
 → resposta simples.
@@ -253,12 +259,14 @@ CADEIRA DE PERSONAGEM A
 CADEIRA DE PERSONAGEM B
 → decide como B reage.
 
-OPOSITOR
-→ apresenta um fato adversarial pertinente, se estiver dentro de sua autoridade.
+OPOSITOR, SE ATIVO E PERTINENTE
+→ apresenta um fato adversarial dentro de seu escopo.
 
 NARRADOR / JUIZ
-→ julga o encontro entre intenções, fichas e Estado.
+→ julga o encontro entre intenções, fichas, Estado e demais fatos legítimos.
 ```
+
+Se não houver Opositor ativo, nada falta ao julgamento: usar as cadeiras existentes, o mundo, o Estado, os processos e a causalidade já estabelecida.
 
 Nenhuma rolagem é criada apenas para fingir que uma diferença factual desapareceu.
 
@@ -274,8 +282,8 @@ EXECUTORES
 → podem ser humanos, IAs ou outros participantes.
 → não recebem autoridade extra por sua natureza técnica.
 
-OPOSITOR
-→ representa resistência e fatos adversariais legítimos.
+OPOSITOR, QUANDO ATIVO
+→ representa resistência persistente e fatos adversariais legítimos dentro de seu escopo.
 → não assume personagem que já possua cadeira própria.
 
 NARRADOR / JUIZ
@@ -283,7 +291,7 @@ NARRADOR / JUIZ
 → pode completar mundo neutro sem invadir autoria pessoal.
 
 CONFIGURAÇÃO DAS CADEIRAS
-→ registra quais autoridades existem e quem as executa.
+→ registra quais autoridades existem, quais funções opcionais estão ativas e quem as executa.
 
 TRIBUNAL
 → define a estrutura de autoridade e julgamento.
@@ -300,4 +308,4 @@ TEMPO
 
 ## Regra final
 
-> **O Núcleo organiza autoria, não tecnologia. Cadeira define autoridade; Executor define quem a opera. Humanos, IAs ou outros participantes podem executar cadeiras sem alterar sua soberania. O Narrador julga, a Mesa alinha quando necessário e nenhuma troca de executor transforma conhecimento técnico em conhecimento ficcional. Estruturas de preparação, como Temporada e Diretriz Fechada, só entram quando a campanha escolhe usá-las.**
+> **O Núcleo organiza autoria, não tecnologia nem obrigação de antagonismo. Cadeira define autoridade; Executor define quem a opera. Humanos, IAs ou outros participantes podem executar cadeiras sem alterar sua soberania. O Narrador julga, a Mesa alinha quando necessário e nenhuma troca de executor transforma conhecimento técnico em conhecimento ficcional. Opositor, Temporada e Diretriz Fechada são estruturas opcionais: só entram quando a campanha realmente precisa delas.**
