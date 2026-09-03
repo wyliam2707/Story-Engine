@@ -4,7 +4,7 @@ Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define **como salvar a campanha sem continuar jogando**.
 
-> **Salvar preserva. Não cria.**
+> **Salvar preserva. Não cria. Direção pendente é preservada como Direção, não como acontecimento.**
 
 ## Quando registrar
 
@@ -38,22 +38,24 @@ um processo começou, terminou ou mudou?
 um prazo foi criado ou alterado?
 um fato estável do mundo mudou?
 um plano legítimo do Opositor mudou?
+existe Direção do Diretor ainda não consumada que precisa sobreviver ao contexto?
 ```
 
-Se nada precisa sobreviver à resposta, não criar registro por obrigação.
+Se nada precisa sobreviver, não criar registro por obrigação.
 
 ## Procedimento básico
 
 ```text
 1. PARAR no último fato estabelecido.
 2. IDENTIFICAR o que realmente mudou.
-3. SEPARAR personagem, passado, presente, mundo e processos.
-4. ESCOLHER a fonte principal correta.
-5. ATUALIZAR somente os arquivos afetados.
-6. NÃO avançar a ficção durante o salvamento.
+3. IDENTIFICAR Direções ainda ativas, se houver.
+4. SEPARAR personagem, passado, presente, mundo, processos e Direção.
+5. ESCOLHER a fonte principal correta.
+6. ATUALIZAR somente os arquivos afetados.
+7. NÃO avançar a ficção durante o salvamento.
 ```
 
-## O que nunca deve ser promovido a fato
+## O que nunca deve ser promovido a fato consumado
 
 Não salvar como realidade concluída:
 
@@ -63,8 +65,44 @@ ação ainda não julgada
 hipótese
 suspeita como certeza
 plano futuro como acontecimento
+Direção ainda não consumada como se já tivesse acontecido
 segredo como conhecimento de quem não o descobriu
-resultado que ainda depende de uma nova decisão
+resultado ainda aberto
+```
+
+## Direções Autorais Ativas
+
+Se uma Direção do Diretor ainda precisa ser cumprida depois do salvamento, preservá-la em fonte apropriada conforme `fontes-da-campanha.md`.
+
+Normalmente, uma Direção local ainda ativa vai para:
+
+```text
+campanhas/<nome>/estado/atual.md
+```
+
+Registrar:
+
+```text
+Direção
+Escopo fechado
+O que permanece aberto
+```
+
+Exemplo:
+
+```text
+Direção: A perde o confronto atual.
+Escopo fechado: resultado do confronto.
+Permanece aberto: método, falas e decisões intermediárias.
+```
+
+Não executar a Direção durante o salvamento apenas para transformá-la em fato e evitar registrá-la como pendente.
+
+Quando a Direção já foi consumada:
+
+```text
+→ registrar somente o acontecimento real.
+→ remover a Direção da lista ativa.
 ```
 
 ## Salvar no meio da cena
@@ -77,23 +115,15 @@ Nesse caso:
 NÃO terminar a cena.
 NÃO criar despedida.
 NÃO concluir conflito pendente.
-NÃO escolher a próxima ação humana.
+NÃO escolher próxima ação.
+NÃO consumir Direção pendente por conveniência.
 ```
 
-Registrar o último estado fechado e deixar explícito o que continua aberto.
-
-Exemplo:
-
-```text
-Local: corredor da mansão
-Situação: Corvin abriu a porta da biblioteca
-Ravena está do outro lado
-Próxima decisão humana ainda não foi declarada
-```
+Registrar último estado fechado e deixar explícito o que continua aberto.
 
 ## Processos fora de cena
 
-Quando uma ação estabelecida cria um processo longo, registrar:
+Quando ação estabelecida cria processo longo, registrar:
 
 ```text
 PROCESSO
@@ -103,15 +133,7 @@ PRAZO, quando existir
 RESULTADO FUTURO já estabelecido, se houver
 ```
 
-Exemplo:
-
-```text
-Processo: investigação de Dick
-Estado: em andamento
-Prazo: primeiras pistas em 10 dias
-```
-
-Não é necessário reencenar Dick a cada janela para o processo continuar.
+Plano permanece plano até acontecer.
 
 ## Conhecimento adquirido
 
@@ -122,17 +144,16 @@ SE ESQUECER PROVAVELMENTE GERARIA INTERPRETAÇÃO INCOERENTE
 → ficha.
 
 IMPORTA APENAS AGORA
-→ Estado Atual, se ainda pertinente.
-
-CONTEXTO EXTERNO JÁ PRESERVADO
-→ consultar a fonte externa quando necessário.
+→ Estado, se pertinente.
 ```
 
 Não copiar automaticamente para outras personagens.
 
+Direção do Diretor nunca vira conhecimento de personagem apenas porque está registrada no Estado global.
+
 ## Evolução da personagem
 
-Quando uma mudança realmente se torna duradoura, atualizar o bloco estável apropriado da ficha.
+Quando mudança se torna duradoura, atualizar o bloco estável apropriado da ficha conforme `canonizacao-e-correcoes.md`.
 
 Pode afetar:
 
@@ -148,21 +169,13 @@ Equipamentos e Recursos
 Histórico
 ```
 
-Emoção momentânea não deve reescrever a ficha permanente.
+Emoção momentânea não reescreve ficha permanente.
 
 ## Mudança de Estado
 
 Condições presentes entram, mudam e saem conforme a realidade.
 
-```text
-ANTES
-→ braço fraturado.
-
-DEPOIS DA RECUPERAÇÃO
-→ condição removida do Estado.
-```
-
-O Livro continua preservando que o ferimento aconteceu quando isso for historicamente relevante.
+O Livro preserva acontecimentos historicamente relevantes depois que deixam de alterar o presente.
 
 ### Sem trilhos universais
 
@@ -176,21 +189,7 @@ Mana
 
 como reservas universais.
 
-Esses mecanismos pertencem ao motor legado.
-
-Se existir um recurso, custo ou condição específica definida por ficha, Poder, Traço, Equipamento ou regra canônica, acompanhar **essa coisa específica**.
-
-Exemplo:
-
-```text
-Artefato: 2 cargas restantes.
-
-Condição: exausto após sustentar o ritual.
-
-Limitação: teleporte indisponível até o amanhecer.
-```
-
-> **Persistir a verdade concreta, não reconstruir a barra antiga.**
+Se existir recurso, custo ou condição específica, acompanhar essa coisa concreta.
 
 ## Planos do Opositor
 
@@ -212,6 +211,7 @@ Durante a sessão, o mais importante é não perder:
 
 ```text
 Estado Atual
+Direções Autorais Ativas
 mudanças consolidadas da personagem
 conhecimento relevante
 processos e prazos
@@ -221,13 +221,13 @@ oposição ainda viva
 
 Capítulos podem consolidar várias sentenças depois.
 
-# Fechar temporada
+## Fechar temporada
 
-O fechamento de temporada começa somente quando a condição de encerramento registrada no roteiro foi realmente alcançada.
+O fechamento começa somente quando condição de encerramento realmente foi alcançada ou o Diretor explicitamente encerra/redefine o arco.
 
-## 1 — Parar no resultado real
+### 1 — Parar no resultado real
 
-Não criar:
+Não criar automaticamente:
 
 ```text
 nova ameaça para terminar com gancho
@@ -237,56 +237,33 @@ nova missão
 próxima temporada
 ```
 
-## 2 — Escrever o epílogo
+### 2 — Escrever epílogo
 
-O epílogo registra **como a temporada realmente terminou**.
+O epílogo registra como a temporada realmente terminou.
 
-Pode responder, conforme a campanha:
+Não consome Direções futuras que ainda não se realizaram.
 
-```text
-onde as personagens terminaram?
-quais relações mudaram?
-que conhecimentos importantes foram adquiridos?
-que objetivos foram concluídos?
-que mudanças ficaram consolidadas?
-que problemas realmente permanecem abertos?
-```
-
-> **Epílogo registra resultado. Não escolhe futuro.**
-
-## 3 — Consolidar fontes
+### 3 — Consolidar fontes
 
 Atualizar somente o que realmente mudou:
 
 ```text
 FICHAS
-→ mudanças permanentes da personagem.
-
 ESTADO
-→ realidade presente deixada pelo encerramento.
-
 MUNDO
-→ mudanças estáveis.
-
 OPOSITOR
-→ processos ou planos ainda existentes.
+DIREÇÕES PERSISTENTES, se alguma continuar além do arco por decisão do Diretor
 ```
 
-## 4 — Arquivar roteiro
+### 4 — Arquivar roteiro
 
-Mover o roteiro encerrado para:
+Mover roteiro encerrado para:
 
 ```text
 campanhas/<nome>/mestre/temporadas/temporada-[N].md
 ```
 
-marcado como `ENCERRADA`.
-
-## 5 — Perguntar “E agora?”
-
-Depois do epílogo e da consolidação:
-
-> **E agora?**
+### 5 — Perguntar “E agora?”
 
 Problema aberto não é próximo arco obrigatório.
 
@@ -294,28 +271,17 @@ Problema aberto não é próximo arco obrigatório.
 
 ```text
 [ ] salvei somente fatos já estabelecidos?
+[ ] preservei Direções ainda ativas sem tratá-las como acontecimento?
+[ ] removi Direções já consumadas?
 [ ] o Estado global representa o presente real?
-[ ] condições e efeitos ativos foram atualizados?
-[ ] Equipamentos e Recursos estão com disponibilidade correta?
+[ ] condições e efeitos foram atualizados?
 [ ] conhecimento importante ficou com a personagem certa?
-[ ] evolução consolidada atualizou a ficha correta?
 [ ] processos e prazos continuam coerentes?
 [ ] planos futuros não viraram acontecimentos?
-[ ] removi condições que já terminaram?
 [ ] não criei Vida, Mente ou Mana universais?
 [ ] não avancei a ficção durante o salvamento?
 ```
 
-Se for fechamento de temporada:
-
-```text
-[ ] condição de encerramento realmente alcançada?
-[ ] epílogo descreve somente o resultado real?
-[ ] fichas e Estado foram consolidados?
-[ ] roteiro foi arquivado?
-[ ] nenhuma nova temporada nasceu antes de “E agora?”?
-```
-
 ## Regra final
 
-> **Salvar a história é distribuir verdades já estabelecidas nas fontes corretas. O Livro preserva o passado, o Estado preserva o presente global e a ficha preserva a personagem. Vida, Mente e Mana não são recursos universais do salvamento; condições, custos e recursos só são acompanhados quando uma fonte canônica específica realmente os define.**
+> **Salvar a história distribui verdades já estabelecidas nas fontes corretas e preserva Direções ainda ativas sem executá-las. O Livro guarda o passado, o Estado guarda o presente e limites autorais locais ainda pendentes, e a ficha guarda a personagem. Salvar nunca joga por conta própria.**
