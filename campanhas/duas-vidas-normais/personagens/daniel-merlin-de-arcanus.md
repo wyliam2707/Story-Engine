@@ -26,7 +26,7 @@ Descrição curta: Daniel cresceu cercado por magia e conhecimento arcano. Na un
 
 Essa imagem não é falsa. Daniel realmente sabe socializar e consegue circular com facilidade entre outras pessoas. Apenas não é onde prefere passar a maior parte do tempo.
 
-Quando pode escolher, volta para casa, fecha a porta e desaparece entre livros e magia.
+Quando pode escolher, volta para seu apartamento, fecha a porta e desaparece entre livros — ou abre um portal para a Casa Arcanus quando precisa de sua biblioteca e recursos mágicos.
 
 ## 3 — Competências e Conhecimentos
 
@@ -75,7 +75,7 @@ Daniel pertence a uma antiga família de usuários de magia. Magia faz parte de 
 Sua linhagem envelhece de maneira extremamente lenta e pode viver por períodos muito superiores aos humanos comuns. Isso não significa invulnerabilidade nem impossibilidade de morrer.
 
 --- TRAÇO: Dupla Vida
-Na universidade Daniel apresenta principalmente seu lado atlético, sociável e descontraído. Em casa aparece com muito mais clareza o estudioso recluso que prefere livros, magia e silêncio. As duas facetas são legítimas.
+Na universidade Daniel apresenta principalmente seu lado atlético, sociável e descontraído. Em sua vida particular aparece com muito mais clareza o estudioso recluso que prefere livros, magia e silêncio. As duas facetas são legítimas.
 
 ### Poderes
 
@@ -135,16 +135,25 @@ Sua longevidade e natureza mágica não transformam automaticamente seu corpo em
 ### Equipamentos e Recursos
 
 --- EQUIPAMENTO: Âncora de Retorno
-Daniel carrega um pequeno objeto mágico ligado a um ponto de retorno previamente preparado em sua residência.
+Daniel carrega um pequeno objeto mágico ligado permanentemente a um ponto de retorno preparado na Casa Arcanus.
 
 Quando ativado, transporta Daniel imediatamente para esse ponto, sem os 30 segundos a 1 minuto normalmente necessários para construir um portal.
 
-A âncora funciona apenas para o destino ao qual foi previamente vinculada e não permite escolher um novo destino no momento da ativação. Outras âncoras podem existir se Daniel tiver preparado previamente outros locais.
+A âncora funciona apenas para a Casa Arcanus e não permite escolher outro destino no momento da ativação. É uma saída de emergência preparada com antecedência, não um teleporte instantâneo universal.
 
---- RECURSO: residência familiar
-Daniel possui acesso à antiga casa de sua família. O local contém livros, grimórios, registros e estruturas mágicas acumuladas ao longo da história da linhagem.
+--- RECURSO: apartamento universitário
+Daniel mora em um apartamento comum próximo ao campus.
+
+O local é deliberadamente normal e não apresenta fenômenos mágicos visíveis. É sua base para a vida universitária e o espaço onde pode receber pessoas sem expô-las automaticamente ao mundo arcano.
+
+--- RECURSO: Casa Arcanus
+Antiga propriedade ancestral da família e principal residência de Morgana.
+
+Daniel cresceu ali e continua tendo acesso integral ao local, que contém livros, grimórios, registros, salas de estudo, estruturas mágicas e recursos acumulados ao longo da história da linhagem.
 
 A casa possui fenômenos mágicos próprios que Daniel considera cotidianos, ainda que para visitantes possam parecer profundamente anormais.
+
+Daniel pode abrir um portal comum até a Casa Arcanus quando deseja estudar, pesquisar ou utilizar seus recursos; sua Âncora de Retorno também aponta especificamente para ela como destino de emergência.
 
 --- RECURSO: biblioteca arcana familiar
 Grande coleção de conhecimento mágico construída ao longo de gerações. É uma excelente fonte para pesquisa, mas possuir a biblioteca não significa que Daniel saiba imediatamente tudo o que está registrado nela.
@@ -205,15 +214,15 @@ Atualmente, apenas sua mãe, Morgana de Arcanus, permanece viva entre seus famil
 Formação e experiências:
 Magia nunca foi apresentada a Daniel como algo secreto ou extraordinário.
 
-Ele cresceu entre grimórios, objetos encantados, rituais, estruturas mágicas e acontecimentos sobrenaturais tratados dentro de casa como parte normal da existência.
+Ele cresceu entre grimórios, objetos encantados, rituais, estruturas mágicas e acontecimentos sobrenaturais tratados dentro da Casa Arcanus como parte normal da existência.
 
 Recebeu educação mágica desde cedo, principalmente sob uma tradição familiar em que Morgana valorizava poder direto e treinamento exigente. Daniel desenvolveu outro caminho: barreiras, controle, selamento, suporte e preparação.
 
 Apesar dessa origem, também construiu uma vida integrada à sociedade contemporânea.
 
-Na universidade tornou-se conhecido como um jovem atlético, inteligente e socialmente confortável.
+Durante a universidade escolheu morar em um apartamento comum próximo ao campus. Isso lhe permite manter uma rotina civil independente enquanto continua a acessar a Casa Arcanus em poucos minutos por meio de portais quando precisa estudar magia, consultar a biblioteca ou visitar Morgana.
 
-Poucas pessoas imaginariam que, depois das aulas, o mesmo universitário prefere retornar para uma casa ancestral e passar horas estudando textos mágicos.
+Na universidade tornou-se conhecido como um jovem atlético, inteligente e socialmente confortável.
 
 Daniel também possui experiência heroica, usando suas capacidades quando considera necessário, mas evita transformar essa atuação em centro de sua identidade pública.
 
