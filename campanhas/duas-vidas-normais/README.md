@@ -49,7 +49,11 @@ Texto entre colchetes representa comunicação do Diretor fora da ficção. A se
 
 O Livro registra a ficção canonizada da campanha em capítulos.
 
-Ao fechar um capítulo, preservar marcações como `NARRADOR`, nome da personagem e `PERSONAGEM — pensamento` quando a origem da fala, ação ou interioridade estiver estabelecida.
+Ao fechar ou salvar a continuidade, não existe relação obrigatória de 1:1 entre o bloco jogado e um capítulo literário. O Narrador deve dividir ou agrupar o material em quantos capítulos forem necessários para preservar coerência narrativa, unidade dramática, ritmo, transições e leitura natural.
+
+Um fechamento operacional pode gerar um capítulo, vários capítulos ou consolidar material com continuidade anterior quando isso for narrativamente mais coerente. A divisão em capítulos serve ao Livro, não à duração da sessão ou ao momento em que o Diretor pediu para salvar.
+
+Ao fechar capítulos, preservar marcações como `NARRADOR`, nome da personagem e `PERSONAGEM — pensamento` quando a origem da fala, ação ou interioridade estiver estabelecida.
 
 Direção, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
 
