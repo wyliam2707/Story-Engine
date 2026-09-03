@@ -4,7 +4,7 @@ Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define como iniciar ou retomar uma campanha usando `regras-basicas/` sem reativar o motor anterior.
 
-> **Carregar somente o necessário para reconstruir as cadeiras, a realidade presente e o primeiro ponto ainda aberto.**
+> **Carregar somente o necessário para reconstruir as cadeiras, a realidade presente, a Direção da Campanha e o primeiro ponto ainda aberto.**
 
 ## Entrada
 
@@ -26,15 +26,26 @@ Seguir:
 CRIACAO-DE-CAMPANHA.md
 ```
 
-A criação segue:
+A criação universal exige:
 
 ```text
-PASSO 01 — Narrativa da Campanha
-PASSO 02 — Temporada
-PASSO 03 — Fichas
+PASSO 01 — Direção da Campanha
+PASSO 02 — Configuração das Cadeiras
+PASSO 03 — Fichas Iniciais
+PASSO 04 — Estado Inicial
+```
+
+Depois disso, quando desejado:
+
+```text
+ESTRUTURA OPCIONAL
+→ Temporada / Arco Preparado / Diretriz Fechada
+→ seguir CRIACAO-DE-TEMPORADA.md
 ```
 
 A ficção começa somente depois do START.
+
+> **Temporada não é requisito universal de início. Direção da Campanha é.**
 
 ## Continuar campanha
 
@@ -49,21 +60,27 @@ Depois carregar, por padrão:
 ```text
 mestre/narrativa.md
 +
-mestre/roteiro.md
-+
 estado/atual.md
 +
 fichas das personagens atualmente relevantes
 ```
 
+Carregar também:
+
+```text
+mestre/roteiro.md
+```
+
+**somente quando houver uma Temporada / Arco Preparado ativo**.
+
 Essas fontes têm funções diferentes:
 
 ```text
-NARRATIVA DA CAMPANHA
-→ identidade persistente.
+DIREÇÃO DA CAMPANHA / NARRATIVA
+→ identidade, foco e limites narrativos persistentes.
 
 ROTEIRO DA TEMPORADA
-→ tabuleiro estrutural do arco ativo.
+→ tabuleiro estrutural de um Arco Preparado ativo, quando existir.
 
 FICHA
 → quem a personagem é, o que sabe, consegue fazer e possui legitimamente.
@@ -75,9 +92,32 @@ LIVRO / MUNDO / OPOSITOR / OUTRAS FONTES
 → contexto consultado somente quando necessário.
 ```
 
-O `README.md` da campanha também preserva, quando aplicável, a **Configuração das Cadeiras**: quais autoridades existem, quem ou o que as executa e quais peças pertencem a elas.
+O `README.md` da campanha também preserva, quando aplicável, a **Configuração das Cadeiras**: quais autoridades existem e quem as executa.
 
 Não pedir novamente informação já registrada em fonte canônica.
+
+## Campanha com ou sem Arco Preparado
+
+Antes da retomada, identificar qual estrutura está ativa.
+
+```text
+SEM ARCO PREPARADO ATIVO
+→ Direção da Campanha continua sendo a referência estrutural persistente.
+→ não inventar um roteiro ausente.
+→ continuar a partir do Estado e das decisões das cadeiras.
+
+COM ARCO PREPARADO ATIVO
+→ carregar também Roteiro e Diretriz Fechada.
+→ respeitar os limites estruturais daquele arco.
+```
+
+A ausência de Temporada não significa ausência de direção.
+
+```text
+SEM TEMPORADA
+≠
+SEM DIREÇÃO
+```
 
 ## Reancoragem
 
@@ -93,7 +133,9 @@ Fluxo:
 CARREGAR FONTES NECESSÁRIAS
 → REANCORAR
 → reconstruir Configuração das Cadeiras e autoridades
+→ reconstruir a Direção da Campanha
 → reconstruir a realidade presente
+→ carregar Arco Preparado somente se estiver ativo
 → separar pacotes das cadeiras
 → restaurar intenções e processos ainda vivos
 → identificar o primeiro ponto aberto
@@ -119,7 +161,8 @@ que Equipamentos ou Recursos estão indisponíveis?
 que intenções persistem?
 que processos ou prazos estão prestes a interferir?
 qual foi o último fato estabelecido?
-qual é a primeira decisão voluntária ainda aberta e a qual cadeira ela pertence?
+qual é a primeira decisão ainda aberta?
+a qual cadeira essa decisão pertence?
 ```
 
 Não presumir campos universais de `Vida`, `Mente` ou `Mana`.
@@ -193,14 +236,15 @@ CRIAÇÃO: EM ANDAMENTO
 → não iniciar ficção.
 ```
 
-## Entre temporadas
+## Entre Arcos Preparados
 
-Se a temporada anterior terminou e ainda não existe um novo roteiro ativo:
+Se uma Temporada anterior terminou e ainda não existe novo roteiro ativo:
 
 ```text
-→ consultar epílogo e fontes consolidadas
-→ retomar ou fazer a pergunta “E agora?”
-→ não escolher a próxima temporada automaticamente
+→ consultar epílogo e fontes consolidadas quando relevantes
+→ manter a Direção da Campanha
+→ escolher entre continuidade emergente ou novo Arco Preparado
+→ não criar automaticamente uma nova Temporada
 ```
 
 Um problema ainda aberto não obriga que o próximo arco seja sobre ele.
@@ -211,8 +255,8 @@ Um problema ainda aberto não obriga que o próximo arco seja sobre ele.
 CRIAÇÃO: CONCLUÍDA
 → carregar fontes mínimas
 → reconstruir Configuração das Cadeiras e autoridades necessárias
-→ carregar Narrativa
-→ carregar Roteiro ativo
+→ carregar Direção da Campanha
+→ carregar Roteiro somente se existir Arco Preparado ativo
 → carregar Estado da Campanha
 → carregar fichas relevantes
 → restaurar intenções e processos pertinentes
@@ -252,6 +296,24 @@ Uma intenção longa não congela as outras cadeiras nem os processos já estabe
 
 Uma cena de combate, investigação, romance, exploração ou cotidiano continua usando a mesma estrutura de autoria. Nenhuma lente ativa automaticamente um motor mecânico legado.
 
+## Direção durante o jogo
+
+A Direção da Campanha continua válida mesmo quando não existe roteiro ativo.
+
+Ela serve para julgar se um desenvolvimento é compatível com a história que a campanha pretende acompanhar.
+
+```text
+CURIOSIDADE DE CENA
+≠ autorização automática para mudar a identidade da campanha.
+
+AUSÊNCIA DE ROTEIRO
+≠ permissão para criar qualquer trama.
+```
+
+Quando houver Direção Autoral nova que realmente altere a identidade da campanha, consolidar a mudança deliberadamente em `mestre/narrativa.md`.
+
+Quando a intenção for apenas preparar um arco específico sem mudar a identidade persistente, usar `CRIACAO-DE-TEMPORADA.md`.
+
 ## Fechar capítulo
 
 O comando:
@@ -284,7 +346,7 @@ CONTINUAR
 → a partir do Estado consolidado.
 ```
 
-Se a temporada também terminou, o fechamento de temporada substitui a continuação normal e termina em **“E agora?”**.
+Se um Arco Preparado também terminou, aplicar seu encerramento antes de decidir como a campanha continuará.
 
 ## O que não reativar na retomada
 
@@ -308,4 +370,4 @@ Se uma campanha histórica possui um recurso particular que continua canonicamen
 
 ## Regra final
 
-> **Para começar ou retomar uma campanha pronta, reconstruir a Configuração das Cadeiras, suas autoridades, executores, fichas, Estado global, conhecimento por cadeira, intenções e processos antes da nova ficção. Toda nova decisão voluntária volta para a cadeira que possui sua autoridade; se o executor dessa cadeira depender de entrada externa, a execução aguarda essa entrada em vez de inventar a escolha. A Mesa não é uma fase fixa da retomada: só abre quando existe uma questão real entre autoridades. Vida, Mente e Mana não são campos universais de retomada; somente condições, recursos e custos definidos por fontes canônicas específicas continuam sendo acompanhados.**
+> **Para começar ou retomar uma campanha, reconstruir primeiro sua Direção, Configuração das Cadeiras, fichas, Estado global, conhecimentos, intenções e processos. Temporada e Diretriz Fechada só entram quando existir um Arco Preparado ativo; sua ausência não remove a Direção da Campanha nem impede a ficção de continuar. A Mesa continua sendo um procedimento sob demanda e toda nova decisão voluntária retorna à cadeira correta.**
