@@ -332,8 +332,10 @@ regras-basicas/modulos/ROMANCE.md
 → orientações para histórias que tratam romance e intimidade adulta como foco relevante.
 
 regras-basicas/modulos/LIVRO.md
-→ arquivo literário opcional do que realmente aconteceu.
+→ registro opcional da ficção canonizada, organizado como uma obra composta por capítulos.
 ```
+
+Quando o Livro estiver ativo, ele registra o que aconteceu na ficção e exclui Direção, consultas, auditorias, instruções de cena e demais metaconversas.
 
 Módulo inativo não participa da campanha.
 
