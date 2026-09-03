@@ -38,39 +38,61 @@ DÚVIDA OU DISCORDÂNCIA ENTRE AUTORIDADES
 → abrir Mesa somente com as partes afetadas
 
 ACASO
-→ só entra se uma regra futura ou a própria mesa decidir entregar deliberadamente aquela parte da autoria ao acaso
+→ só entra se uma regra futura ou a própria Mesa decidir entregar deliberadamente aquela parte da autoria ao acaso
 ```
 
-## Autoria e cadeiras
+## Autoria, cadeiras e executores
 
-O sistema trabalha com:
+O motor separa **autoridade narrativa** de **forma de execução**.
 
 ```text
-JOGADOR HUMANO
-→ decide sua personagem.
-
-JOGADOR IA
-→ decide uma personagem autônoma dedicada.
-
-JOGADOR IA EVENTUAL
-→ decide personagens eventuais quando precisam de agência própria.
+CADEIRA DE PERSONAGEM
+→ decide voluntariamente por uma personagem.
 
 OPOSITOR
-→ representa fatos, recursos, intenções e resistência do lado adversarial.
+→ representa fatos, recursos, intenções e resistência do lado adversarial dentro de sua autoridade.
 
 NARRADOR / JUIZ
-→ julga o encontro entre as decisões e a realidade estabelecida.
+→ julga o encontro entre decisões e realidade estabelecida.
+
+DIREÇÃO AUTORAL
+→ camada fora da ficção para intenção, trajetória, tom ou limite narrativo.
 ```
 
-O usuário humano também pode entrar temporariamente em **modo Diretor** escrevendo entre colchetes:
+Separadamente:
 
 ```text
-[quero que esta luta mostre que Corvin está em clara desvantagem]
+EXECUTOR
+→ pessoa, IA ou outro meio que opera uma cadeira ou função.
 ```
 
-Isso não é fala nem conhecimento da personagem. É uma proposta de direção autoral.
+Portanto:
 
-O Diretor não é uma cadeira separada do Jogador Humano; é o mesmo autor em outro modo operacional.
+```text
+CADEIRA
+→ define autoridade.
+
+EXECUTOR
+→ define quem a opera.
+```
+
+Uma Cadeira de Personagem pode ser executada por humano, IA ou outro participante sem mudar sua soberania.
+
+Uma mesma pessoa ou IA pode executar várias cadeiras, mas isso não mistura conhecimento, intenção ou autoridade.
+
+```text
+MESMO EXECUTOR
+≠
+MESMA CADEIRA
+```
+
+Na execução textual adotada pelo sistema, colchetes sinalizam **Direção Autoral**:
+
+```text
+[quero que esta luta deixe claro que a Personagem A está em desvantagem]
+```
+
+Isso não é fala, pensamento ou conhecimento da personagem.
 
 ## Entrada
 
@@ -115,7 +137,7 @@ nucleo/0.1-resolucao.md
 → como a ficção resolve ações e conflitos sem exigir RNG.
 
 nucleo/1.0-tribunal.md
-→ soberania das cadeiras e modo Diretor.
+→ soberania das cadeiras, separação entre Cadeira e Executor e Direção Autoral.
 
 nucleo/1.0.1-auditoria-das-cadeiras.md
 → quando abrir Mesa e quem realmente precisa participar.
@@ -125,6 +147,9 @@ nucleo/1.1-narrador.md
 
 nucleo/1.5-opositor.md
 → função factual e adversarial do Opositor.
+
+nucleo/1.6-execucao-por-uma-unica-ia.md
+→ como uma mesma IA pode executar várias autoridades sem fundi-las.
 ```
 
 Arquivos antigos de dado, Mana, Potência, dano, iniciativa e outros subsistemas permanecem temporariamente na árvore como material a revisar. Eles não devem ser usados para contradizer os princípios novos já consolidados nos arquivos acima.
@@ -136,16 +161,16 @@ A ficha passa a funcionar principalmente como **fonte de fatos narrativos e comp
 Exemplos:
 
 ```text
-Ravena
-→ Especialista em Ocultismo e Demônios.
-
-Estelar
-→ Princesa de Tamaran; conhece política, protocolo e costumes locais.
-
 Personagem A
-→ Força Sobre-Humana [1].
+→ Especialista em Ocultismo.
 
 Personagem B
+→ conhece política, protocolo e costumes de sua cultura de origem.
+
+Personagem C
+→ Força Sobre-Humana [1].
+
+Personagem D
 → Força Sobre-Humana [2].
 ```
 
@@ -187,7 +212,7 @@ A Mesa abre somente quando existe:
 
 ```text
 dúvida real
-Discordância
+discordância
 conflito de autoridade
 direção autoral que afeta outra cadeira
 necessidade de esclarecer fatos antes da prosa
@@ -241,4 +266,4 @@ Até essa revisão terminar, preferir os princípios novos quando houver conflit
 
 ## Regra final
 
-> **Este sistema é uma estrutura para vários autores contarem uma história juntos. Cada cadeira conserva sua soberania; a ficha fornece fatos, conhecimentos, capacidades e comparações; o Opositor apresenta a resistência legítima; o Narrador julga coerência; e o acaso só recebe autoria quando a mesa deliberadamente quiser entregá-la a ele.**
+> **Este sistema é uma estrutura para vários autores contarem uma história juntos. Cadeiras definem autoridade; executores apenas as operam. Cada cadeira conserva sua soberania; a ficha fornece fatos, conhecimentos, capacidades e comparações; o Opositor apresenta resistência legítima; o Narrador julga coerência; e o acaso só recebe autoria quando a Mesa deliberadamente quiser entregá-la a ele.**
