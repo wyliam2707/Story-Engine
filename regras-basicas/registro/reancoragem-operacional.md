@@ -2,79 +2,77 @@
 
 Status: CANÔNICO DA REFORMULAÇÃO
 
-Esta regra define como reconstruir uma campanha ao iniciar, retomar ou continuar depois de um checkpoint sem misturar cadeiras, conhecimentos ou regras antigas.
+Esta regra define como reconstruir uma campanha ao iniciar, retomar ou continuar depois de um checkpoint sem misturar cadeiras, conhecimentos, Direções ou regras antigas.
 
-> **Reancorar não é carregar tudo em todo mundo. É reconstruir uma configuração funcional de cadeiras e realidade: o Narrador recupera a realidade necessária para julgar; cada cadeira recupera somente a própria personagem; o Opositor recupera a oposição legítima; e a ficção retorna exatamente no primeiro ponto ainda aberto.**
+> **Reancorar não é carregar tudo em todo mundo. É reconstruir Diretor, autoridades, realidade presente e primeiro ponto ainda aberto; cada cadeira recupera somente sua própria personagem.**
 
-A reancoragem não cria uma segunda camada de regras. Ela transforma as fontes canônicas já existentes em uma representação operacional suficiente para continuar a história.
+A reancoragem não cria nova regra. Ela transforma fontes canônicas já existentes em uma representação operacional suficiente para continuar.
 
 ---
 
 ## 1 — Quando reancorar
 
-Executar esta regra:
+Executar:
 
 ```text
 ao começar uma campanha pronta
-ao retomar uma campanha em outro chat
-após perda ou redução importante de contexto
-depois de fechar um capítulo
-quando uma mudança permanente alterar de forma relevante uma ficha, a Configuração das Cadeiras ou o funcionamento da campanha
+ao retomar em outro chat
+depois de perda importante de contexto
+depois de fechar capítulo
+quando mudança permanente altera de forma relevante ficha, autoridade ou funcionamento
 ```
 
-Durante o jogo normal, não repetir o procedimento a cada resposta.
+Durante jogo normal, não repetir a cada resposta.
 
 ```text
 REANCORAR
-→ reconstruir o modelo operacional.
+→ reconstruir modelo operacional.
 
 JOGAR
 → usar esse modelo.
 
 DÚVIDA ESPECÍFICA
-→ consultar somente a fonte pertinente.
+→ consultar somente fonte pertinente.
 ```
 
 ---
 
 ## 2 — Barreira antes da ficção
 
-Quando uma campanha precisa de reancoragem, não produzir nova ficção antes de reconstruir o estado operacional mínimo.
+Quando a campanha precisa de reancoragem, não produzir nova ficção antes de reconstruir o mínimo operacional.
 
 ```text
 CARREGAR FONTES NECESSÁRIAS
 → REANCORAR
-→ IDENTIFICAR O PRIMEIRO PONTO ABERTO
+→ IDENTIFICAR PRIMEIRO PONTO ABERTO
 → SÓ ENTÃO CONTINUAR A FICÇÃO
 ```
 
 Reconhecer nomes e acontecimentos não basta.
 
-```text
-saber o que aconteceu
-≠
-saber quem pode decidir o quê agora
-```
-
 A reancoragem precisa restaurar:
 
 ```text
-Configuração das Cadeiras
-autoridade e executor de cada função relevante
+Diretor e executor
+Direção da Campanha
+Direções vinculantes ainda ativas, quando houver
+pedidos autorais pendentes de análise/auditoria, quando houver
+Configuração das Cadeiras e funções
+executor de cada autoridade relevante
 fatos relevantes
 fichas das peças necessárias
 conhecimento legítimo por cadeira
 intenções persistentes
 posição e Estado Atual
 processos e prazos ativos
-primeira decisão voluntária ainda aberta e a cadeira a que pertence
+primeira decisão ainda aberta e a cadeira responsável
 ```
 
 ---
 
 ## 3 — Fontes mínimas
 
-Carregar somente o necessário para a situação atual.
+Carregar somente o necessário.
 
 Por padrão:
 
@@ -93,28 +91,26 @@ regras-basicas/nucleo/1.1-narrador.md
 +
 campanhas/<nome>/mestre/narrativa.md
 +
-campanhas/<nome>/mestre/roteiro.md
-+
 campanhas/<nome>/estado/atual.md
 +
 fichas das personagens relevantes
 ```
 
-Quando a configuração usar uma única IA ou outro mesmo executor para várias cadeiras e isso for operacionalmente relevante, consultar também:
+Carregar `mestre/roteiro.md` somente se houver Arco Preparado ativo.
+
+Quando uma única IA executa várias autoridades e isso for operacionalmente relevante:
 
 ```text
 regras-basicas/nucleo/1.6-execucao-por-uma-unica-ia.md
 ```
 
-Quando houver oposição relevante, carregar também:
+Quando houver oposição relevante:
 
 ```text
 regras-basicas/nucleo/1.5-opositor.md
 +
-fontes adversariais necessárias da campanha
+fontes adversariais necessárias
 ```
-
-Outros arquivos entram somente quando a cena realmente exigir.
 
 > **Reancoragem mínima é preferível a releitura integral da árvore.**
 
@@ -122,139 +118,181 @@ Outros arquivos entram somente quando a cena realmente exigir.
 
 ## 4 — Reconstruir o Motor
 
-A primeira imagem operacional deve ser simples:
+A primeira imagem operacional deve ser:
 
 ```text
+DIRETOR CONDUZ
+→ pode deixar aberto, consultar, orientar ou determinar.
+
 CADEIRAS DECIDEM
-→ cada uma somente dentro de sua autoridade.
+→ cada uma somente sua personagem e somente quando há decisão real disponível.
 
 EXECUTORES OPERAM
-→ humano, IA ou outro participante executa uma cadeira sem alterar sua soberania.
+→ humano, IA ou outro participante não altera a natureza da autoridade.
 
 FICHA ESTABELECE FATOS
 → identidade, capacidades, conhecimento, limitações e comparações.
 
 OPOSITOR APRESENTA RESISTÊNCIA
-→ ações adversariais e fatos adversariais legítimos.
+→ somente quando ativo, pertinente e legitimamente fundamentado.
 
 NARRADOR JULGA
-→ cruza fatos, autoridades, contexto e causalidade.
+→ cruza Direção, fatos, decisões e causalidade.
 
-MESA ALINHA
-→ somente quando existe dúvida, objeção ou conflito real.
+MESA AUDITA
+→ somente quando existe dúvida, objeção, análise ou conflito real.
 
 FICÇÃO CONTINUA
 → depois da sentença suficiente.
 ```
 
-O fluxo normal é:
+Fluxo:
 
 ```text
 DECLARAÇÃO
-→ identificar a cadeira
+→ identificar Direção pertinente
 → separar intenção de resultado presumido
-→ identificar autoridades afetadas
-→ consultar fatos relevantes
-→ permitir objeção factual quando necessária
+→ consultar fatos
+→ fatos determinam?
+   SIM → sentenciar
+   NÃO → continuar
+→ existe decisão real disponível a outra cadeira?
+   SIM → executar a cadeira
+   NÃO → não criar reação
+→ auditar objeção factual, quando houver
 → Narrador julga
-→ abrir Mesa somente se houver dúvida ou discordância real
+→ Mesa somente se necessária
 → narrar
-→ se surgir nova decisão voluntária, devolvê-la à cadeira correta
+→ devolver nova decisão à cadeira correta
 ```
 
 ### Invariantes centrais
 
-A reancoragem deve restaurar sempre:
-
 ```text
+DIRETOR
+→ autoridade máxima sobre aquilo que efetivamente determina.
+→ não fecha automaticamente o que deixou aberto.
+
 CADEIRA DE PERSONAGEM
-→ decide voluntariamente por sua própria personagem.
+→ decide voluntariamente pela própria personagem dentro do espaço aberto.
 
 EXECUTOR
-→ opera a cadeira ou função configurada.
-→ não recebe autoridade extra por ser humano, IA ou outro participante.
+→ opera a autoridade.
+→ não recebe autoridade extra por ser humano ou IA.
 
 MESMO EXECUTOR
 ≠ MESMA CADEIRA.
 
-OPOSITOR
-→ representa oposição legítima dentro de sua autoridade.
-
 NARRADOR / JUIZ
-→ não escolhe voluntariamente por uma Cadeira de Personagem.
+→ julga; não escolhe voluntariamente por uma cadeira.
 
-DIREÇÃO AUTORAL
-→ pode ser sinalizada por [ ] na execução textual.
-→ não transfere conhecimento para a personagem.
-```
+MESA
+→ audita; não governa o Diretor.
 
-Também restaurar:
+SER AFETADO
+≠ TER REAÇÃO AUTOMÁTICA.
 
-```text
-DECLARAÇÃO
-≠ resultado sobre outra autoridade.
-
-INCERTEZA
-≠ rolagem obrigatória.
-
-DISPUTA
-≠ rolagem obrigatória.
-
-FICÇÃO JÁ RESPONDE
-→ seguir a ficção.
-
-NOVA ESCOLHA VOLUNTÁRIA
-→ pertence à cadeira responsável.
-
-EXECUTOR DEPENDE DE ENTRADA EXTERNA
-→ aguardar essa entrada em vez de inventar a escolha.
+OBJEÇÃO
+→ precisa de fundamento.
 ```
 
 ---
 
-## 5 — Reconstruir a realidade da campanha
+## 5 — Reconstruir o Diretor e a Direção
 
-O Narrador/Juiz precisa recuperar o panorama necessário para julgar.
+Identificar:
 
-Carregar e integrar:
+```text
+quem executa a função de Diretor
+qual é a Direção da Campanha vigente
+qual é a Direção do Arco, se houver
+quais Direções específicas continuam válidas
+que resultados, trajetórias ou condições foram explicitamente fechados
+que aspectos permaneceram abertos
+se existe pedido de auditoria/análise ainda não resolvido
+```
+
+Não ampliar uma Direção durante a reancoragem.
+
+Exemplo:
+
+```text
+REGISTRO AUTORAL
+→ A perde o confronto.
+
+REANCORAGEM CORRETA
+→ derrota de A continua fechada.
+→ forma da derrota continua aberta se nunca foi determinada.
+
+REANCORAGEM INCORRETA
+→ concluir que A se rende, sente medo ou sofre ferimento específico sem que isso tenha sido determinado.
+```
+
+> **Reancorar uma Direção é preservar seu escopo, não aumentar seu alcance.**
+
+---
+
+## 6 — Direção não contamina personagem
+
+Restaurar explicitamente:
+
+```text
+DIRETOR SABE / DETERMINA
+≠ PERSONAGEM SABE / QUER
+
+EXECUTOR SABE
+≠ PERSONAGEM SABE
+
+NARRADOR SABE
+≠ PERSONAGEM SABE
+
+OPOSITOR SABE
+≠ FORÇA ADVERSARIAL SABE
+
+FICHA ALHEIA EXISTE
+≠ PERSONAGEM CONHECE SEU CONTEÚDO
+```
+
+Uma personagem continua decidindo a partir de sua própria experiência mesmo quando o executor conhece um resultado autoralmente fechado.
+
+---
+
+## 7 — Reconstruir a realidade da campanha
+
+O Narrador/Juiz recupera o panorama necessário para julgar.
 
 ```text
 NARRATIVA DA CAMPANHA
 → identidade persistente, foco, gênero, tom e premissas.
 
 ROTEIRO DA TEMPORADA
-→ problema atual, Diretriz Fechada, processos, limites e condição de encerramento, quando esse modelo estiver ativo.
+→ preparação do arco, somente quando ativo.
+
+DIRETRIZ FECHADA
+→ verdades estruturais protegidas, somente quando existente.
 
 ESTADO ATUAL
 → presente operacional.
 
 MUNDO RELEVANTE
-→ fatos externos estáveis necessários para a cena.
+→ fatos externos estáveis.
 
 PROCESSOS E PRAZOS
-→ aquilo que continua avançando fora da atenção imediata.
+→ o que continua avançando.
 
 OPOSIÇÃO RELEVANTE
-→ somente quando realmente necessária.
+→ somente quando necessária.
 ```
 
 O Narrador pode conhecer essas fontes para julgar.
 
 Isso não significa que todas as personagens recebem esse conhecimento.
 
-```text
-NARRADOR SABE PARA JULGAR
-≠
-PERSONAGEM SABE PARA DECIDIR
-```
-
 ---
 
-## 6 — Montar um pacote para cada cadeira
+## 8 — Montar pacote para cada cadeira
 
-Cada Cadeira de Personagem deve ser reconstruída separadamente.
-
-### Pacote de personagem
+Cada Cadeira de Personagem é reconstruída separadamente.
 
 ```text
 FICHA DA PRÓPRIA PERSONAGEM
@@ -268,24 +306,6 @@ FATOS DA CENA QUE PODE PERCEBER OU CONHECER
 INTENÇÃO ATUAL, quando houver
 ```
 
-Exemplo abstrato:
-
-```text
-CADEIRA — PERSONAGEM A
-→ ficha A
-→ estado de A
-→ conhecimento de A
-→ cena perceptível por A
-→ intenção persistente de A
-
-CADEIRA — PERSONAGEM B
-→ ficha B
-→ estado de B
-→ conhecimento de B
-→ cena perceptível por B
-→ intenção persistente de B
-```
-
 Os pacotes não são fundidos.
 
 ```text
@@ -294,136 +314,35 @@ PACOTE A
 PACOTE B
 ```
 
-Um mesmo executor pode operar ambos, mas precisa trocar de escopo ao trocar de cadeira.
+O mesmo executor pode operar ambos, mas precisa trocar de escopo.
 
 ---
 
-## 7 — Memória por cadeira
+## 9 — Restaurar autonomia corretamente
 
-Cada cadeira precisa conhecer profundamente apenas sua própria peça.
+Autonomia não significa que a personagem ganha uma decisão em toda consequência.
 
-```text
-SUA FICHA
-+
-SEU ESTADO
-+
-SEU CONHECIMENTO
-+
-SUA PERCEPÇÃO DA CENA
-+
-SUA INTENÇÃO
-```
-
-Não exigir que uma cadeira memorize fichas completas alheias.
-
-Quando for necessário comparar personagens:
+Restaurar:
 
 ```text
-CADEIRAS
-→ declaram suas próprias ações e intenções.
+PERSONAGEM PODE INICIAR ALGO
+→ se possui motivo e meios.
 
-NARRADOR / JUIZ
-→ consulta as fichas pertinentes e compara.
+PERSONAGEM É AFETADA
+→ verificar se existe decisão real disponível.
 
-OPOSITOR
-→ pode apresentar fatos adversariais pertinentes quando sua função estiver envolvida.
+PERCEPÇÃO + TEMPO + OPORTUNIDADE + MEIO
+→ podem abrir decisão.
+
+SEM OPORTUNIDADE REAL
+→ não criar reação retroativa.
 ```
 
-Exemplo:
+Personagens autônomas podem iniciar ações, manter intenções, procurar outras pessoas, agir fora da câmera, aceitar, recusar, ajudar, contrariar ou não agir.
 
-```text
-PERSONAGEM A
-→ sabe ficcionalmente que B é muito forte.
+Tudo nasce da ficha, Estado, conhecimento e situação.
 
-FICHA TÉCNICA DE B
-→ Força Sobre-Humana [3].
-
-CADEIRA A
-→ não precisa conhecer o [3].
-
-NARRADOR
-→ usa [3] quando a comparação realmente importar.
-```
-
----
-
-## 8 — Separação de conhecimento
-
-Um executor pode possuir acesso amplo sem transformar esse acesso em conhecimento ficcional.
-
-Restaurar explicitamente:
-
-```text
-EXECUTOR SABE
-≠ PERSONAGEM SABE
-
-IA TÉCNICA SABE
-≠ PERSONAGEM SABE
-
-NARRADOR SABE
-≠ PERSONAGEM SABE
-
-OPOSITOR SABE
-≠ ANTAGONISTA SABE
-
-DIREÇÃO AUTORAL SABE / PROPÕE
-≠ PERSONAGEM SABE
-
-FICHA ALHEIA EXISTE
-≠ PERSONAGEM CONHECE SEU CONTEÚDO
-```
-
-Antes de uma cadeira usar uma informação, verificar:
-
-```text
-está na própria ficha?
-foi aprendida legitimamente na ficção?
-é perceptível agora?
-é conhecimento comum coerente com sua formação?
-```
-
-Se não, a informação não entra na decisão daquela personagem.
-
----
-
-## 9 — Restaurar autonomia
-
-Reancorar uma Cadeira de Personagem não significa apenas lembrar sua personalidade.
-
-Significa restaurar sua autoridade para decidir.
-
-Personagens autônomas podem:
-
-```text
-iniciar ações
-manter intenções
-mudar de intenção quando a situação justificar
-procurar outras personagens
-agir fora da presença de outra peça
-interagir entre si
-aceitar
-recusar
-ajudar
-contrariar
-não agir
-```
-
-Tudo deve nascer da própria ficha, Estado, conhecimento e situação.
-
-Não centralizar a campanha artificialmente em uma única personagem por causa de quem a executa.
-
-```text
-A está ocupada
-≠ B e C esperam A.
-
-A diz "vamos"
-≠ B e C aceitaram.
-
-A procura B
-≠ C entra automaticamente na cena.
-```
-
-> **Vínculo não é sincronização.**
+> **Vínculo não é sincronização. Autonomia não é imunidade à causalidade.**
 
 ---
 
@@ -433,9 +352,10 @@ Uma intenção já estabelecida continua enquanto:
 
 ```text
 não terminou
-não foi abandonada pela cadeira
+não foi abandonada
 não se tornou impossível
 nenhuma mudança relevante exige nova decisão
+nenhuma Direção superior a substituiu
 ```
 
 Exemplos:
@@ -448,49 +368,36 @@ Exemplos:
 
 Não exigir redeclaração apenas porque houve reancoragem.
 
-Para cada intenção persistente relevante, recuperar:
-
-```text
-quem a mantém
-o que pretende continuar fazendo
-qual horizonte existe, se houver
-o que poderia interrompê-la
-```
-
 ---
 
 ## 11 — Restaurar tempo, processos e prazos
 
-O mundo continua existindo enquanto uma intenção longa permanece ativa.
-
-Reancorar também:
+Reancorar:
 
 ```text
 processos em andamento
 prazos ativos
 compromissos futuros já estabelecidos
 efeitos temporários
-movimentos do Opositor já legitimados
+movimentos legítimos do Opositor
 atividades de personagens fora da cena
 ```
 
-Não inventar novo movimento apenas para preencher tempo.
-
-Não congelar movimento que já estava canonicamente em andamento.
+Não inventar movimento novo apenas para preencher tempo.
 
 ```text
 PROCESSO JÁ EXISTE
 → continua.
 
 PROCESSO NÃO EXISTE
-→ não criar retroativamente durante a reancoragem.
+→ não criar retroativamente.
 ```
 
 ---
 
 ## 12 — Restaurar o Estado Atual
 
-O Estado Atual deve permitir responder rapidamente:
+O Estado deve permitir responder:
 
 ```text
 quando estamos?
@@ -501,64 +408,63 @@ como cada uma está agora?
 que condições temporárias importam?
 que intenção continua?
 que processo está prestes a interferir?
-existe uma ação interrompida?
+existe ação interrompida?
 ```
 
-A reancoragem não usa o Estado Atual como histórico completo.
-
-Se uma informação antiga já não altera a retomada, ela permanece no Livro ou em outra fonte canônica apropriada.
+Não usar o Estado como histórico completo.
 
 ---
 
-## 13 — Verificar se existe Mesa pendente
+## 13 — Verificar auditoria pendente
 
-A reancoragem não cria auditoria formal obrigatória.
+A reancoragem não cria Mesa obrigatória.
 
-Perguntar apenas:
+Perguntar:
 
 ```text
+existe pedido do Diretor para conferir algo?
 existe objeção ainda não resolvida?
 existe conflito de autoridade pendente?
-existe Direção Autoral [ ] ainda aguardando alinhamento?
 existe dúvida factual que precisa ser resolvida antes da prosa?
 ```
 
-Se não:
+Se o Diretor havia dito:
+
+```text
+[confira nos livros antes de continuar]
+```
+
+a reancoragem não pode atravessar esse pedido.
+
+```text
+AUDITORIA PENDENTE
+→ resolver antes da ficção.
+```
+
+Se não houver questão:
 
 ```text
 NENHUMA MESA PENDENTE
 → continuar normalmente.
 ```
 
-Se sim:
-
-```text
-MESA
-→ somente com as autoridades diretamente afetadas.
-```
-
-> **Autonomia precisa ser reconstruída sempre. Auditoria visível só aparece quando existe algo real para auditar.**
-
 ---
 
 ## 14 — Encontrar o primeiro ponto aberto
-
-Antes de voltar à ficção, identificar exatamente onde a autoria ainda está aberta.
 
 Perguntar:
 
 ```text
 qual foi o último fato estabelecido?
+que Direção ainda limita a cena?
 que ações já foram concluídas?
 que intenções ainda continuam?
-que acontecimentos automáticos já estão em curso?
-existe pergunta dirigida a alguma personagem?
-existe interferência que acabou de criar uma nova escolha?
-existe decisão voluntária ainda não declarada?
-a qual cadeira essa decisão pertence?
+que acontecimentos automáticos estão em curso?
+existe nova decisão realmente disponível?
+a qual cadeira pertence?
 ```
 
-### Se existe nova decisão voluntária
+### Se existe nova decisão
 
 ```text
 DEVOLVER À CADEIRA RESPONSÁVEL
@@ -566,31 +472,27 @@ DEVOLVER À CADEIRA RESPONSÁVEL
 → executar essa cadeira sem que outra autoridade escolha por ela
 ```
 
-Se o executor dessa cadeira depende de entrada externa:
+Se o executor depende de entrada externa:
 
 ```text
 AGUARDAR ENTRADA
-→ não avançar por cima da escolha
-→ não inventar resposta
 ```
 
-Se o executor pode decidir no mesmo fluxo:
+Se pode decidir no mesmo fluxo:
 
 ```text
 TROCAR PARA A CADEIRA CORRETA
-→ formar sua decisão com o pacote legítimo
+→ formar decisão com pacote legítimo
 → voltar ao fluxo normal
 ```
 
-### Se não existe nova decisão voluntária
+### Se não existe nova decisão
 
 ```text
-→ continuar as intenções persistentes
-→ processar iniciativas legítimas das cadeiras
-→ avançar somente até o próximo ponto relevante
+→ continuar intenções persistentes
+→ processar iniciativas legítimas
+→ avançar até próximo ponto relevante
 ```
-
-Não existe prioridade automática de uma personagem por causa de seu executor.
 
 ---
 
@@ -599,9 +501,9 @@ Não existe prioridade automática de uma personagem por causa de seu executor.
 Depois da reancoragem:
 
 ```text
-CONFIGURAÇÃO DAS CADEIRAS, EXECUTORES E AUTORIDADES RECONSTRUÍDA
+DIRETOR E DIREÇÃO RECONSTRUÍDOS
 +
-MOTOR RECONSTRUÍDO
+CONFIGURAÇÃO DAS AUTORIDADES RECONSTRUÍDA
 +
 REALIDADE ATUAL RECONSTRUÍDA
 +
@@ -609,66 +511,54 @@ PACOTES DAS CADEIRAS SEPARADOS
 +
 INTENÇÕES E PROCESSOS RESTAURADOS
 +
+AUDITORIAS PENDENTES RESOLVIDAS
++
 PONTO ABERTO IDENTIFICADO
 → CONTINUAR
 ```
 
 Não recitar as regras ao participante por padrão.
 
-Uma confirmação curta pode ser usada quando útil:
-
-```text
-Reancoragem concluída.
-```
-
-A confirmação não substitui a reconstrução real.
-
 ---
 
 ## O que esta regra não reativa
 
-A reancoragem não deve restaurar automaticamente mecanismos pertencentes ao motor anterior.
-
-Não tratar como invariantes do sistema:
+Não restaurar automaticamente:
 
 ```text
 Atributo + Perícia
 Valor de Ação
 2d6 universal
-faixas 6- / 7–9 / 10–11 / 12+
+faixas de sucesso
 Potência de Execução
 Defesa matemática
 Resistência matemática
-Mana como recurso universal
-Vida/Mente como trilhos obrigatórios
-rodadas de duração fixa
+Mana universal
+Vida/Mente universais
+rodadas fixas
 iniciativa numérica obrigatória
-auditoria formal obrigatória em toda janela
+auditoria formal em toda janela
 ```
 
-Se algum subsistema futuro for aprovado, ele será carregado somente quando a regra nova correspondente realmente fizer parte do sistema.
-
-> **Reancorar preserva o sistema atual; não ressuscita o sistema anterior.**
+> **Reancorar preserva o sistema atual; não ressuscita o anterior.**
 
 ---
 
-## Checklist interno de reancoragem
-
-Antes de produzir ficção, o Narrador deve conseguir responder:
+## Checklist interno
 
 ```text
-[ ] Sei sobre o que esta campanha é.
-[ ] Sei qual arco ou temporada está ativo, quando houver, e quais são seus limites.
-[ ] Sei qual é a Configuração das Cadeiras relevante agora.
-[ ] Sei quem executa cada autoridade relevante.
-[ ] Sei o presente necessário para continuar.
-[ ] Sei quais cadeiras estão relevantes agora.
-[ ] Cada cadeira possui apenas seu próprio pacote decisório.
-[ ] Conhecimento técnico não foi transformado em conhecimento ficcional.
+[ ] Sei quem é o Diretor.
+[ ] Sei a Direção da Campanha.
+[ ] Sei se existe Direção específica ainda vinculante.
+[ ] Sei exatamente o que ela fecha e o que deixa aberto.
+[ ] Sei a Configuração das Cadeiras e executores.
+[ ] Sei o presente necessário.
+[ ] Cada cadeira possui apenas seu próprio pacote.
+[ ] Conhecimento técnico não virou conhecimento ficcional.
 [ ] Intenções persistentes foram restauradas.
-[ ] Processos e prazos relevantes foram restaurados.
-[ ] Sei se existe Mesa pendente ou não.
-[ ] Sei qual é a primeira decisão voluntária ainda aberta e a qual cadeira ela pertence.
+[ ] Processos e prazos foram restaurados.
+[ ] Sei se existe auditoria pendente.
+[ ] Sei qual é a primeira decisão realmente disponível e a qual cadeira pertence.
 ```
 
 Se uma resposta essencial for não, consultar somente a fonte necessária antes de narrar.
@@ -677,4 +567,4 @@ Se uma resposta essencial for não, consultar somente a fonte necessária antes 
 
 ## Regra final
 
-> **Reancorar significa reconstruir a Configuração das Cadeiras, seus executores, suas autoridades e a realidade necessária para continuar, não recarregar um conjunto antigo de fórmulas. O Narrador recupera o que precisa para julgar; cada cadeira recupera somente sua própria ficha, Estado Atual, conhecimento legítimo, percepção e intenção; o Opositor recupera apenas a oposição pertinente; e o executor preserva a separação entre acesso técnico e conhecimento ficcional. Depois disso, a história retorna ao primeiro ponto ainda aberto. Toda nova decisão voluntária pertence à cadeira responsável; se seu executor depender de entrada externa, a execução aguarda essa entrada em vez de decidir por ela.**
+> **Reancorar significa reconstruir Diretor, Direções ainda válidas, Configuração das Autoridades, realidade presente e pacotes separados das cadeiras. O executor pode conhecer mais do que cada personagem, mas não transfere esse conhecimento. Direção fechada continua fechada somente no escopo determinado; auditoria pendente deve ser resolvida antes de continuar; e uma cadeira só recebe nova decisão quando a ficção realmente deixa uma escolha disponível.**
