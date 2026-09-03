@@ -153,23 +153,41 @@ Criar uma lista objetiva.
 
 Essa lista contém **problemas estruturais**, não cenas futuras.
 
-### Tamanho da lista
+### Suficiência da lista
 
-Por padrão, uma temporada deve possuir **entre 10 e 15 perguntas estruturais**, com **12 como alvo aproximado**.
+Não existe quantidade mínima, máxima ou ideal universal de questões estruturais.
+
+A quantidade nasce da complexidade real do arco.
 
 ```text
-MENOS DE 10
-→ verificar se faltam causa, obstáculos, meios, prazo, resolução ou encerramento importantes.
+ARCO SIMPLES
+→ pode exigir poucas questões estruturais.
 
-10 A 15
-→ faixa normal para uma temporada fechada.
+ARCO COMPLEXO
+→ pode exigir mais questões estruturais.
 
-MAIS DE 15
-→ parar e revisar.
-→ agrupar perguntas dependentes.
-→ remover detalhes que podem ser respondidos dentro de outra questão.
-→ eliminar curiosidades que não são necessárias para resolver ou encerrar a temporada.
+QUANTIDADE
+→ não mede qualidade nem preparação.
 ```
+
+A lista está suficiente quando o Narrador já conhece as verdades necessárias para que o problema **exista, se mova e possa ser resolvido** sem precisar inventar retroativamente sua estrutura durante a sessão.
+
+Como verificação, considerar somente quando forem relevantes:
+
+```text
+origem ou causa
+funcionamento necessário para agir
+obstáculos já existentes
+meios, acessos ou pistas
+processos e prazos
+possibilidades de resolução
+limites da improvisação
+condição de encerramento
+```
+
+Esses elementos não precisam virar perguntas separadas. Uma única questão pode cobrir vários deles, e alguns podem não existir naquele arco.
+
+> **Preparação suficiente fecha as verdades necessárias do arco; não preenche uma cota de perguntas.**
 
 Uma pergunta só entra na lista quando sua resposta for necessária para **sustentar, resolver ou encerrar** a temporada.
 
@@ -198,6 +216,8 @@ Exemplo abstrato:
 8. executar a resolução;
 9. confirmar que a condição de encerramento foi alcançada.
 ```
+
+Esse exemplo não define quantidade esperada. Um arco pode precisar de menos ou mais itens.
 
 A lista pode incluir investigação, romance, ação, sobrevivência, política, cotidiano ou qualquer outro tipo de problema compatível com a campanha.
 
@@ -460,7 +480,7 @@ Antes de ativá-la, conferir:
 Direção do Arco está clara?
 problema da temporada foi criado?
 lista do que precisa ser resolvido existe?
-a lista possui normalmente entre 10 e 15 perguntas estruturais?
+a lista cobre todas as questões estruturais realmente necessárias?
 cada item estrutural possui resposta canônica suficiente?
 há pelo menos uma resolução possível para os problemas que exigem resolução?
 os riscos e obstáculos necessários já possuem fundamento?
@@ -469,6 +489,8 @@ os limites de escala estão claros?
 condição de encerramento existe?
 Diretriz Fechada foi registrada no roteiro?
 ```
+
+Não perguntar quantos itens existem. Perguntar se falta alguma verdade estrutural sem a qual o Narrador teria de inventar retroativamente causa, funcionamento, obstáculo, resolução ou encerramento.
 
 Se faltar algo estrutural:
 
@@ -583,4 +605,4 @@ Não usar a nova temporada como desculpa para escrever biografia, rever personal
 
 ## Regra final
 
-> **Temporada é um módulo opcional de Arco Preparado. A campanha precisa de Direção para existir, mas não precisa de Temporada. Quando uma Temporada é escolhida, sua Direção de Arco, problema, perguntas estruturais, respostas canônicas e Diretriz Fechada são preparados antes de o arco entrar em jogo. O roteiro fecha o tabuleiro necessário, não as decisões das personagens. Ao terminar, a campanha pode criar outro arco ou continuar emergentemente dentro de sua Direção persistente.**
+> **Temporada é um módulo opcional de Arco Preparado. A campanha precisa de Direção para existir, mas não precisa de Temporada. Quando uma Temporada é escolhida, sua Direção de Arco, problema, questões estruturais necessárias, respostas canônicas e Diretriz Fechada são preparados antes de o arco entrar em jogo. Não existe cota universal de perguntas: preparação suficiente é a que fecha as verdades estruturais necessárias sem antecipar decisões das personagens. O roteiro fecha o tabuleiro necessário, não as decisões das personagens. Ao terminar, a campanha pode criar outro arco ou continuar emergentemente dentro de sua Direção persistente.**
