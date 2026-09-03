@@ -10,3 +10,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 002 — Plano Avançado
 003 — Atividade Extracurricular
 004 — Nada de Cosplay
+005 — Efeitos Ambientais
