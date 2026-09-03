@@ -61,7 +61,7 @@ oposicao.md
 → somente se o módulo Opositor for ativado.
 
 livro/
-→ somente se o módulo Livro for ativado.
+→ somente se o módulo Livro for ativado; contém a obra registrada em capítulos.
 ```
 
 ## Passo 1 — Direção
@@ -206,7 +206,18 @@ Seguir `modulos/ROMANCE.md` quando esse foco fizer parte relevante da história.
 
 ### Livro
 
-Seguir `modulos/LIVRO.md` quando a campanha quiser arquivo literário dos acontecimentos.
+Seguir `modulos/LIVRO.md` quando a campanha quiser preservar a ficção jogada em capítulos.
+
+Ao ativar o módulo, criar:
+
+```text
+livro/
+└── README.md
+```
+
+O `README.md` do Livro funciona como índice da obra. Cada vez que `fechar o capítulo` for usado, um novo arquivo numerado é salvo dentro de `livro/` e o índice é atualizado.
+
+O Livro contém a ficção canonizada — narração, falas, ações e pensamentos estabelecidos — e não contém Direção, consultas, auditorias, instruções de cena ou outras metaconversas.
 
 ## Passo 7 — Auditoria de início
 
@@ -223,6 +234,7 @@ Antes de começar, confirmar:
 [ ] cada ficha é autossuficiente.
 [ ] estado.md representa o ponto inicial.
 [ ] somente módulos realmente usados estão ativos.
+[ ] se Livro estiver ativo, livro/README.md existe como índice.
 [ ] fatos secretos necessários já possuem fonte legítima.
 ```
 
@@ -265,4 +277,4 @@ Não pedir novamente informação que já está registrada.
 
 ## Regra final
 
-> **Nomeie e ancore a campanha antes de escrevê-la. Depois, crie somente as fontes necessárias para a história existir agora. Direção define a proposta; configuração define as autoridades; fichas definem as pessoas; Estado define o presente. O restante entra apenas quando cumprir função real.**
+> **Nomeie e ancore a campanha antes de escrevê-la. Depois, crie somente as fontes necessárias para a história existir agora. Direção define a proposta; configuração define as autoridades; fichas definem as pessoas; Estado define o presente. Quando ativo, o Livro preserva a ficção passada em capítulos. O restante entra apenas quando cumprir função real.**
