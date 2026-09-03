@@ -14,91 +14,142 @@ CORREÇÃO DE CÂNONE
 
 Nos dois casos, o objetivo é manter **uma única versão vigente** sem reescrever silenciosamente a campanha.
 
+> **Cadeiras podem apontar e interpretar mudanças. O Narrador verifica. O Diretor possui a palavra final sobre a canonização da obra.**
+
 ## Mudança permanente de ficha
 
-Uma consequência pode ser real sem precisar redefinir imediatamente a ficha.
+Uma consequência pode ser real sem redefinir imediatamente a ficha.
 
 ```text
-ferimento, emoção, condição ou mudança ainda reversível
-→ pode permanecer no Estado Atual ou no Livro.
+ferimento, emoção ou condição ainda reversível
+→ pode permanecer no Estado Atual ou Livro.
 
 mudança realmente consolidada em quem a personagem é
 → pode justificar atualização permanente da ficha.
 ```
 
-Antes de consolidar uma mudança permanente de ficha, o Narrador apresenta ao JOGADOR HUMANO:
-
-- o que mudou;
-- qual bloco ou capacidade seria alterado;
-- por que a mudança já deve ser considerada estável.
-
-O JOGADOR HUMANO pode:
+Antes de consolidar uma mudança permanente, identificar:
 
 ```text
-APROVAR
-→ atualizar a ficha.
-
-AJUSTAR
-→ alinhar a forma da atualização antes de registrar.
-
-RECUSAR A CONSOLIDAÇÃO
-→ não transformar a consequência em mudança permanente naquele momento.
+o que mudou
+qual bloco ou capacidade seria alterado
+que fatos sustentam a mudança
+se a mudança pertence à consequência factual ou à interpretação voluntária da personagem
 ```
 
-Recusar a consolidação não apaga automaticamente um acontecimento que já ocorreu. O fato continua na fonte apropriada enquanto ainda for verdadeiro.
+### Quando a mudança envolve interioridade da personagem
 
-> **A ficção pode produzir a mudança; a ficha só é redefinida permanentemente depois da aprovação.**
+Se a atualização pretende registrar algo como:
 
-Isso vale para alterações positivas ou negativas de capacidade, Traço, Recurso, personalidade, desejo, medo, limite, relação ou outra característica estável da ficha.
+```text
+novo desejo estável
+novo medo
+mudança de opinião
+mudança de relação do ponto de vista da personagem
+novo objetivo voluntário
+mudança profunda de personalidade
+```
 
-Registrar no bloco `Conhecimento relevante` um fato que a personagem legitimamente acabou de aprender não exige inventar nova interpretação; apenas preserve aquilo que já foi estabelecido. Se o registro também redefinir de forma ampla a personagem, aplicar a aprovação acima.
+consultar a própria Cadeira de Personagem para preservar a autoria da interioridade enquanto a questão estiver aberta.
+
+```text
+CADEIRA
+→ informa como a personagem realmente viveu ou consolidou a mudança.
+
+NARRADOR
+→ verifica compatibilidade com o que aconteceu.
+
+DIRETOR
+→ canoniza a forma final ou mantém a questão aberta.
+```
+
+Se o Diretor já determinou explicitamente a mudança como Direção vinculante, não existe veto inferior contra o resultado determinado. Ainda assim, não ampliar a determinação para detalhes internos que ele não fechou.
+
+> **Direção vinculante fecha somente o que foi determinado; o restante da interioridade continua pertencendo à cadeira.**
+
+## Conhecimento adquirido
+
+Registrar conhecimento que a personagem legitimamente adquiriu não exige nova decisão emocional.
+
+```text
+PERSONAGEM APRENDEU O FATO
+→ preservar esse conhecimento quando necessário.
+```
+
+Não copiar automaticamente para outras personagens.
 
 ## Correção de cânone
 
-Correção existe para substituir uma versão incorreta, não para criar duas realidades concorrentes.
+Correção substitui uma versão incorreta; não cria duas realidades concorrentes.
 
-Podem apontar uma inconsistência:
+Podem apontar inconsistência:
 
 ```text
-JOGADOR HUMANO
-JOGADOR IA
-JOGADOR IA EVENTUAL
+DIRETOR
+CADEIRA DE PERSONAGEM
 OPOSITOR
-NARRADOR
+NARRADOR / JUIZ
+EXECUTOR IA
 ```
 
-Mas uma correção que altera fato já consolidado só entra em vigor depois da aprovação do JOGADOR HUMANO.
-
-Fluxo mínimo:
+Quando a correção altera fato já consolidado, o fluxo normal é:
 
 ```text
-1. identificar o fato atual.
+1. identificar o fato vigente.
 2. mostrar a inconsistência e a correção proposta.
-3. consultar somente as fontes realmente relevantes.
-4. JOGADOR HUMANO aprova, ajusta ou recusa.
-5. se aprovada, substituir a versão incorreta.
-6. alinhar somente as fontes cuja validade depende dessa correção.
+3. consultar somente as fontes relevantes.
+4. Diretor aprova, ajusta, recusa ou determina outra versão.
+5. se aprovada/determinada, substituir a versão incorreta.
+6. alinhar somente as fontes cuja validade depende da correção.
 ```
+
+> **A aprovação canônica final pertence ao Diretor.**
+
+## Pedido de verificação do Diretor
+
+Quando o Diretor diz:
+
+```text
+[acho que isso contradiz os livros; confira]
+```
+
+isso não é uma determinação de que a hipótese dele está correta.
+
+É uma ordem de auditoria.
+
+```text
+PARAR A PROGRESSÃO PERTINENTE
+→ consultar fontes
+→ confirmar, rejeitar ou qualificar a hipótese
+→ apresentar o resultado
+→ corrigir somente se houver base ou nova Direção do Diretor
+```
+
+Não concordar automaticamente apenas porque a hipótese veio do Diretor.
+
+A autoridade final do Diretor sobre a ficção não transforma pedidos de investigação em conclusões predeterminadas.
 
 ## Uma única versão vigente
 
-Depois da correção aprovada:
+Depois da correção aprovada ou determinada:
 
 ```text
 VERSÃO ANTIGA
 → deixa de ser cânone atual.
 
 VERSÃO CORRIGIDA
-→ passa a ser a verdade vigente.
+→ passa a ser verdade vigente.
 ```
 
-O histórico técnico do Git pode preservar a edição anterior, mas os arquivos atuais não devem manter duas versões contraditórias como igualmente válidas.
+O histórico técnico do Git pode preservar a edição anterior.
 
-Se um capítulo salvo contiver o erro, corrigir o próprio capítulo afetado quando necessário. Não criar um novo capítulo apenas para explicar que o anterior estava errado.
+Os arquivos ativos não devem manter versões contraditórias como igualmente válidas.
+
+Se um capítulo salvo contiver erro, corrigir o próprio capítulo afetado quando necessário.
 
 ## Consequências dependentes
 
-Corrigir um fato não apaga tudo que aconteceu depois dele.
+Corrigir um fato não apaga tudo que aconteceu depois.
 
 ```text
 consequência existia somente por causa do fato corrigido
@@ -110,35 +161,61 @@ consequência possui fundamento independente
 
 Revisar somente aquilo que realmente depende da informação substituída.
 
-## Correção não é ferramenta contra o jogador
+## Correção não é oposição retroativa
 
-Não usar correção de cânone para invalidar retroativamente uma solução eficaz.
+Nenhuma autoridade inferior pode usar correção para invalidar retroativamente uma solução legítima.
 
 ```text
-jogador encontra uma entrada legítima
-→ depois inventar que “sempre existiu” uma barreira ali
+personagem encontra entrada legítima
+→ depois inventar que “sempre existiu” uma barreira
 → NÃO é correção.
 ```
 
 O mesmo vale para imunidade, armadilha, poder, recurso, guarda, conhecimento, aliança ou preparação inventados depois para alterar um resultado.
 
-> **Correção resolve erro de continuidade. Não corrige o sucesso dos jogadores.**
+O Diretor pode conscientemente decidir mudar o cânone, mas isso deve ser tratado como **mudança autoral explícita**, não disfarçado de erro técnico que sempre teria sido verdade.
+
+> **Correção resolve erro. Direção pode mudar a obra. Não confundir as duas operações.**
 
 ## Planos e possibilidades
 
-Nem toda alteração de material reservado é correção de cânone.
-
 ```text
 FATO já estabelecido
-→ mudança retroativa exige correção aprovada.
+→ mudança retroativa exige correção ou determinação autoral explícita.
 
 PLANO ainda não executado
-→ pode mudar legitimamente pela decisão da peça responsável.
+→ pode mudar legitimamente pela autoridade responsável.
 
 POSSIBILIDADE ainda não estabelecida
 → pode ser descartada ou substituída.
+
+DIREÇÃO VINCULANTE DO DIRETOR
+→ pode fechar prospectivamente o que ainda estava aberto.
 ```
+
+## O sistema não governa o Diretor
+
+Se uma mudança consciente do Diretor contradizer o cânone atual, a auditoria deve apontar de forma curta as consequências relevantes.
+
+O Diretor pode:
+
+```text
+pedir explicação
+pedir alternativas
+voltar atrás
+ajustar
+manter a decisão
+```
+
+Se mantiver conscientemente:
+
+```text
+→ atualizar o cânone afetado.
+→ não continuar debatendo a legitimidade da escolha.
+```
+
+> **Auditoria informa o Diretor; não governa o Diretor.**
 
 ## Regra final
 
-> **Mudança permanente de ficha é consolidada com aprovação. Correção de cânone substitui a versão errada com aprovação. Em ambos os casos, atualizar somente as fontes realmente afetadas e nunca usar a edição retroativa para fabricar dificuldade.**
+> **Mudança permanente e correção preservam uma única versão canônica. A cadeira continua autoridade sobre interioridade ainda aberta; o Narrador verifica fatos; o Diretor possui a palavra final sobre canonização. Pedido de auditoria verifica antes de corrigir, enquanto uma mudança autoral consciente deve ser registrada como mudança — nunca disfarçada de fato que “sempre esteve lá”.**
