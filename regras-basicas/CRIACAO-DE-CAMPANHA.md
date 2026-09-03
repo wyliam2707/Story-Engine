@@ -4,7 +4,7 @@ Status: REFORMULAÇÃO ATIVA
 
 Este arquivo define como uma nova campanha nasce usando `regras-basicas/`.
 
-> **Toda campanha precisa de uma Direção antes do START. A Direção define que tipo de história estamos tentando escrever; ela não precisa definir antecipadamente uma trama.**
+> **Toda campanha precisa de uma Direção antes do START. A Direção define que tipo de história estamos tentando escrever; o Diretor pode depois deixar a ficção emergir ou fechar trajetórias e resultados quando decidir fazê-lo.**
 
 ## Fluxo geral
 
@@ -12,11 +12,11 @@ Ao receber `Nova campanha`:
 
 ```text
 PASSO 01 — DIREÇÃO DA CAMPANHA
-→ definir a identidade narrativa persistente.
-→ definir o foco inicial suficiente para começar.
+→ definir identidade narrativa persistente.
+→ definir foco inicial suficiente para começar.
 
-PASSO 02 — CONFIGURAÇÃO DAS CADEIRAS
-→ identificar quais autoridades precisam existir.
+PASSO 02 — CONFIGURAÇÃO DAS AUTORIDADES
+→ identificar Diretor, Cadeiras, Narrador e funções opcionais.
 → registrar quem executa cada uma.
 
 PASSO 03 — FICHAS INICIAIS
@@ -26,12 +26,11 @@ PASSO 04 — ESTADO INICIAL
 → registrar a situação concreta de abertura.
 
 ESTRUTURA OPCIONAL
-→ Arco Preparado / Temporada, quando a campanha se beneficiar disso.
-→ Diretriz Fechada somente quando esse arco possuir verdades que realmente precisam ser fechadas antes do jogo.
-→ Opositor somente quando houver forças adversariais persistentes sem cadeira própria que se beneficiem de estratégia autônoma.
+→ Arco Preparado / Temporada, quando útil.
+→ Diretriz Fechada somente quando esse arco possuir verdades estruturais que precisam existir antes de serem descobertas ou testadas.
+→ Opositor somente quando forças adversariais persistentes sem cadeira própria precisarem de autoridade estratégica.
 
 DEPOIS
-→ pareamento mínimo, quando necessário
 → conferir condições de início
 → START
 ```
@@ -60,22 +59,13 @@ Estruturas adicionais são materializadas somente quando realmente usadas.
 
 ```text
 campanhas/<nome>/opositor/
-→ criar somente se a função OPOSITOR estiver ativa
+→ criar somente se OPOSITOR estiver ativo
   e existir informação adversarial persistente que precise de registro próprio.
-```
-
-A presença das pastas universais também não obriga o uso de todas as estruturas narrativas possíveis. Um arquivo de roteiro, por exemplo, só recebe autoridade quando existir um arco preparado ativo.
-
-O `README.md` da campanha começa com:
-
-```text
-CRIAÇÃO: EM ANDAMENTO
-Etapa atual: PASSO 01 — DIREÇÃO DA CAMPANHA
 ```
 
 ## PASSO 01 — Direção da Campanha
 
-A Direção da Campanha define **que tipo de história esta campanha pretende acompanhar**.
+A Direção da Campanha define **que tipo de história esta campanha pretende acompanhar persistentemente**.
 
 Ela é o mínimo narrativo obrigatório antes do START.
 
@@ -93,7 +83,7 @@ onde ou em que situação começamos?
 que premissas gerais já são válidas?
 ```
 
-Nem toda campanha precisa responder formalmente a todos esses itens. A Direção está suficiente quando permite ao Narrador distinguir desenvolvimento coerente de desvio arbitrário.
+Nem toda campanha precisa responder formalmente a todos esses itens.
 
 Registrar em:
 
@@ -101,25 +91,33 @@ Registrar em:
 campanhas/<nome>/mestre/narrativa.md
 ```
 
-Esse arquivo funciona como registro persistente da **Direção da Campanha**.
-
 ```text
 DIREÇÃO DA CAMPANHA
 → identidade, foco e limites narrativos persistentes.
 
-TRAMA PREPARADA
-→ opcional.
+DIREÇÃO DO DIRETOR DURANTE O JOGO
+→ pode orientar ou fechar trajetórias, condições e resultados específicos.
 
-TEMPORADA
+TRAMA PREPARADA / TEMPORADA
 → opcional.
 
 DIRETRIZ FECHADA
-→ opcional inclusive dentro de uma Temporada.
+→ opcional dentro de um Arco Preparado.
 ```
 
-Uma trama secundária interessante não reescreve automaticamente a Direção da Campanha.
+A Direção da Campanha não precisa predeterminar uma trama para existir.
 
-> **Direção não é roteiro. Ela informa para onde a história quer olhar sem decidir antecipadamente o que acontecerá.**
+Isso não significa proibir o Diretor de determinar algo posteriormente.
+
+```text
+DIREÇÃO DA CAMPANHA
+→ referência persistente ampla.
+
+DIREÇÃO VINCULANTE DO DIRETOR
+→ intervenção autoral específica quando ele decidir exercê-la.
+```
+
+> **A campanha pode permanecer emergente sem tornar o Diretor incapaz de dirigir.**
 
 ### Atenção não redefine a Direção
 
@@ -133,34 +131,25 @@ ATENÇÃO EM CENA
 ≠ mudança automática da Direção da Campanha.
 ```
 
-Uma personagem pode conversar longamente com um NPC, explorar um local secundário ou investigar um detalhe menor sem que isso obrigue o Narrador a transformá-lo em novo eixo da campanha.
+Se o interesse revelar vontade real de mudar o foco persistente, o Diretor pode deliberadamente alterar a Direção da Campanha.
 
-Se o interesse das cadeiras revelar vontade real de mudar o foco persistente, essa mudança deve acontecer por **Direção Autoral deliberada**, não como escalada invisível da improvisação.
-
-> **A atenção pode aprofundar um elemento; não concede, por si só, autoridade para ampliar sua importância estrutural.**
-
-## PASSO 02 — Configuração das Cadeiras
+## PASSO 02 — Configuração das Autoridades
 
 Registrar no `README.md` da campanha quais autoridades existem e quem executa cada uma.
 
-A Configuração das Cadeiras responde a duas perguntas diferentes:
-
 ```text
-CADEIRA / FUNÇÃO
-→ qual autoridade existe?
+AUTORIDADE / FUNÇÃO
+→ o que pode decidir.
 
 EXECUTOR
-→ quem ou o que opera essa autoridade nesta campanha?
+→ quem ou o que opera essa autoridade nesta campanha.
 ```
-
-> **Cadeira define autoridade. Executor define quem a opera.**
-
-Ela é um registro persistente de composição da campanha. Não é uma Mesa aberta nem um procedimento de auditoria.
 
 Exemplo:
 
 ```text
-## Configuração das Cadeiras
+DIRETOR
+→ EXECUTOR: HUMANO
 
 CADEIRA DE PERSONAGEM A
 → PERSONAGEM: <nome>
@@ -180,29 +169,15 @@ NARRADOR / JUIZ
 → EXECUTOR: IA
 ```
 
-Se a campanha realmente se beneficiar de uma função adversarial persistente:
+O mesmo humano pode executar o Diretor e uma Cadeira de Personagem sem fundir as funções.
 
 ```text
-OPOSITOR
-→ ATIVO: SIM
-→ EXECUTOR: <humano, IA ou outro participante>
-→ ESCOPO: <forças adversariais sem cadeira própria que representa>
+DIRETOR
+≠
+CADEIRA DA PERSONAGEM DO DIRETOR
 ```
 
-A configuração poderia igualmente usar outros arranjos:
-
-```text
-várias cadeiras executadas por humanos
-uma pessoa executando mais de uma cadeira
-uma IA executando várias cadeiras
-Narrador humano
-Narrador IA
-outro participante executando uma função
-campanha sem Opositor
-campanha que ativa Opositor somente depois que uma força adversarial persistente surge
-```
-
-Nenhuma dessas escolhas altera a autoridade definida pelo Tribunal.
+Da mesma forma:
 
 ```text
 MESMO EXECUTOR
@@ -210,13 +185,26 @@ MESMO EXECUTOR
 MESMA CADEIRA
 ```
 
-Cada personagem com cadeira própria mantém conhecimento, intenção e soberania separados mesmo quando o mesmo executor opera várias cadeiras.
+Uma campanha pode usar outros arranjos:
 
-A palavra `Mesa` fica reservada ao procedimento temporário de alinhamento definido pelo Núcleo.
+```text
+várias cadeiras executadas por humanos
+uma pessoa executando mais de uma cadeira
+uma IA executando várias cadeiras
+Narrador humano
+Narrador IA
+outro participante executando função
+campanha sem Opositor
+campanha que ativa Opositor depois
+```
+
+Nenhuma dessas escolhas altera a autoridade definida pelo Tribunal.
+
+A palavra `Mesa` fica reservada ao procedimento temporário de auditoria e alinhamento.
 
 ### Opositor é opcional
 
-A existência de conflito, dificuldade ou antagonismo não exige uma função `OPOSITOR` ativa.
+A existência de conflito, dificuldade ou antagonismo não exige `OPOSITOR` ativo.
 
 ```text
 CONFLITO ENTRE PERSONAGENS COM CADEIRA
@@ -232,19 +220,16 @@ FORÇA ADVERSARIAL PERSISTENTE SEM CADEIRA PRÓPRIA
 → pode justificar ativar OPOSITOR.
 ```
 
-Ativar Opositor quando uma ou mais forças adversariais persistentes se beneficiarem de planejamento, recursos, objetivos e decisões estratégicas próprias sem que cada peça possua cadeira dedicada.
+Ativar Opositor prospectivamente.
 
-Não ativar apenas porque a história possui problemas.
-
-> **Opositor organiza oposição persistente quando ela precisa de uma autoridade própria; não é a fonte obrigatória de todo problema da ficção.**
-
-Se a necessidade surgir depois do START, a Configuração das Cadeiras pode ser atualizada prospectivamente e a função passa a existir a partir dali. Isso não autoriza inventar retroativamente preparação ou recursos adversariais.
+```text
+ATIVAR AGORA
+≠ inventar que planos ou recursos sempre existiram.
+```
 
 ## PASSO 03 — Criar as Fichas Iniciais
 
-Depois que a Direção e as autoridades necessárias estiverem claras, construir somente o elenco que já precisa de agência no início.
-
-Não é necessário criar antecipadamente todas as pessoas que poderão existir na campanha.
+Depois que Direção e autoridades necessárias estiverem claras, construir somente o elenco que já precisa de agência no início.
 
 Para cada personagem, começar com:
 
@@ -275,13 +260,13 @@ CONTROLE
 → qual Cadeira de Personagem possui autoridade sobre essa peça.
 
 EXECUTOR
-→ definido na Configuração das Cadeiras; indica quem ou o que opera essa autoridade.
+→ definido na Configuração das Autoridades.
 
 FICHA
 → quem é e o que consegue fazer.
 ```
 
-`CONTROLE` não deve ser preenchido com `HUMANO` ou `IA` como se fossem tipos de autoridade.
+`CONTROLE` não deve ser preenchido com `HUMANO` ou `IA`.
 
 Exemplo:
 
@@ -291,15 +276,13 @@ CONTROLE: CADEIRA DE PERSONAGEM A
 
 Importância Narrativa não mede poder, não concede bônus e não altera autoridade.
 
-`Patamar` pertence ao motor anterior e não faz parte da criação ativa.
+`Patamar` pertence ao motor anterior.
 
 Depois do elenco, seguir:
 
 ```text
 jogador/1.3-criacao-da-ficha.md
 ```
-
-A ficha é persistente e não depende da existência de uma temporada.
 
 ## Pareamento mínimo
 
@@ -315,11 +298,11 @@ conhecimento legítimo de uma sobre a outra
 obrigações, acessos ou vínculos recorrentes
 ```
 
-Se uma lacuna puder surgir naturalmente em cena sem contradição, não é preciso preenchê-la antes.
+Se uma lacuna puder surgir naturalmente em cena sem contradição, não preenchê-la antes por obrigação.
 
 ## PASSO 04 — Estado Inicial
 
-Depois das fichas necessárias e do pareamento relevante, registrar em:
+Registrar em:
 
 ```text
 campanhas/<nome>/estado/atual.md
@@ -345,49 +328,34 @@ primeiro ponto ainda aberto
 
 Não criar campos universais de `Vida`, `Mente` ou `Mana`.
 
-```text
-RECURSO / CUSTO / CONDIÇÃO ESPECÍFICA
-→ só acompanhar se existir legitimamente na ficha, Poder, Equipamento, Traço, regra canônica ou Estado da campanha.
-```
-
-O Estado Inicial é o primeiro Estado Atual da campanha. Ele registra o presente operacional, não um roteiro do futuro.
+O Estado Inicial registra o presente operacional, não um roteiro do futuro.
 
 ## Estrutura opcional — Temporada / Arco Preparado
 
-Depois que existe uma Direção da Campanha, pode-se escolher preparar um arco antes do START ou em qualquer momento posterior.
+Depois que existe Direção da Campanha, pode-se preparar um arco antes do START ou posteriormente.
 
 ```text
 QUEREMOS UM ARCO PREPARADO?
 
 SIM
 → seguir CRIACAO-DE-TEMPORADA.md.
-→ registrar somente a preparação realmente necessária no Roteiro.
-→ criar Diretriz Fechada apenas se houver verdades que precisem existir e permanecer fixas antes de serem descobertas, enfrentadas ou testadas.
+→ registrar somente a preparação necessária.
+→ criar Diretriz Fechada apenas se houver verdades que precisem existir antes de serem descobertas ou testadas.
 
 NÃO
-→ nenhuma Temporada é exigida.
-→ começar a partir da Direção da Campanha + Fichas + Estado Inicial.
-→ a campanha pode crescer de forma emergente.
+→ começar a partir de Direção + Fichas + Estado.
+→ a campanha pode crescer emergentemente.
 ```
 
-Temporada e Diretriz Fechada são ferramentas de estrutura, não requisitos universais do motor.
+Temporada e Diretriz Fechada são ferramentas de estrutura, não limites à autoridade autoral do Diretor.
 
 ```text
-DIREÇÃO DA CAMPANHA
-→ obrigatória.
+ROTEIRO
+→ não predetermina sozinho decisões das personagens.
 
-TEMPORADA / ARCO PREPARADO
-→ opcional.
-
-DIRETRIZ FECHADA
-→ opcional dentro do Arco Preparado.
+DIRETOR
+→ pode deliberadamente fechar uma trajetória ou resultado durante a condução da obra.
 ```
-
-Quando uma Temporada estiver ativa, seu Roteiro registra a preparação daquele arco, não cenas futuras nem decisões voluntárias das personagens.
-
-Quando houver Diretriz Fechada, ela protege somente as verdades estruturais explicitamente fechadas.
-
-Quando não houver Diretriz Fechada, o arco ainda respeita Direção, cânone, Estado e proibição de retroatividade oportunista.
 
 ## START
 
@@ -396,35 +364,30 @@ Antes da primeira cena, conferir somente se a campanha consegue funcionar:
 ```text
 estrutura existe?
 Direção da Campanha foi aprovada?
+Diretor está identificado?
+Configuração das autoridades está clara?
 elenco inicial necessário foi confirmado?
 fichas necessárias estão aprovadas?
-pareamento essencial foi resolvido, quando necessário?
 Estado inicial está definido?
-CONTROLE das peças está claro?
-Configuração das Cadeiras registra os Executores?
-se OPOSITOR estiver ativo, seu Executor e Escopo estão claros?
+se OPOSITOR estiver ativo, Executor e Escopo estão claros?
 se um Arco Preparado foi escolhido, sua preparação necessária está concluída?
-se esse arco realmente precisa de Diretriz Fechada, ela foi registrada?
 ```
 
 Não exigir por padrão:
 
 ```text
 Opositor ativo
-pasta opositor/
 Temporada ativa
-problema de temporada
 Diretriz Fechada
+problema central
 condição de encerramento de arco
 ```
-
-Esses elementos só são requisitos quando a estrutura escolhida realmente os utiliza.
 
 Se faltar algo essencial:
 
 ```text
 CRIAÇÃO: EM ANDAMENTO
-→ registrar a etapa
+→ registrar etapa
 → não iniciar ficção.
 ```
 
@@ -436,53 +399,20 @@ CRIAÇÃO: CONCLUÍDA
 → abrir a primeira cena.
 ```
 
-START é somente a passagem da criação para o jogo.
-
-## Ciclos e arcos posteriores
-
-A campanha e as fichas continuam existindo independentemente de temporadas.
-
-```text
-CAMPANHA
-→ persistente.
-
-DIREÇÃO DA CAMPANHA
-→ persistente até mudança deliberada.
-
-FICHAS
-→ persistentes.
-
-OPOSITOR
-→ opcional e ativável quando surgir necessidade legítima.
-
-TEMPORADA / ARCO PREPARADO
-→ opcional e renovável.
-
-DIRETRIZ FECHADA
-→ existe somente enquanto alguma estrutura ativa precisar dela.
-```
-
-Quando um arco preparado termina, consolidar mudanças e decidir se haverá outro arco preparado ou continuidade emergente.
-
 ## Criação emergente depois do START
 
 Lacunas menores podem ser completadas conforme `nucleo/1.7-criacao-emergente.md`.
 
-Sempre vale:
+Sempre vale para autoridades inferiores:
 
 ```text
-não fabricar vantagem ou obstáculo retroativamente para responder a uma ação já declarada
+não fabricar vantagem ou obstáculo retroativamente
 não mudar invisivelmente a Direção da Campanha
-não contradizer fatos já estabelecidos
+não contradizer fatos estabelecidos por conveniência
 ```
 
-Quando houver uma Diretriz Fechada ativa, vale também:
-
-```text
-não alterar por improvisação as verdades que foram fechadas
-não introduzir retroativamente estrutura que torne essas verdades falsas ou incompletas
-```
+O Diretor pode conscientemente alterar a direção ou um fato mediante determinação/correção explícita. O sistema pode apontar as consequências, mas não existe para impedi-lo de dirigir a própria obra.
 
 ## Regra final
 
-> **Nova campanha exige Direção, autoridades necessárias, fichas iniciais suficientes e um Estado Inicial concreto. A Direção informa que história estamos tentando escrever sem precisar predeterminar uma trama. Opositor, Temporadas e Diretrizes Fechadas são estruturas opcionais: o Opositor só é ativado quando forças adversariais persistentes sem cadeira própria realmente precisam de uma autoridade estratégica; Temporadas só existem quando se deseja um Arco Preparado; e a Diretriz Fechada só aparece quando certas verdades precisam ser fixadas antes de serem descobertas, enfrentadas ou testadas.**
+> **Nova campanha exige Direção da Campanha, Diretor identificado, autoridades necessárias, fichas suficientes e Estado Inicial concreto. A história pode crescer de forma emergente porque qualquer cadeira pode iniciar ideias dentro de sua autoridade, mas o Diretor continua podendo orientar ou fechar trajetórias e resultados. Opositor, Temporadas e Diretrizes Fechadas permanecem estruturas opcionais.**
