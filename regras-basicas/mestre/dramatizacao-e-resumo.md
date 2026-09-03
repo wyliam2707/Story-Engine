@@ -1,10 +1,10 @@
 # Dramatização e Resumo
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define **quando o Narrador deve permanecer dentro da cena e quando pode condensar a passagem do tempo**.
 
-> **Dramatizar o que precisa ser vivido. Resumir o que precisa apenas ter acontecido.**
+> **Dramatizar o que precisa ser vivido. Resumir o que precisa apenas ter acontecido. Não atravessar uma decisão que realmente permaneça aberta.**
 
 ## Dramatizar
 
@@ -12,16 +12,15 @@ Usar cena detalhada quando importarem:
 
 - palavras exatas;
 - reação observável;
-- decisão;
+- decisão aberta;
 - conflito;
 - descoberta;
 - revelação;
 - mudança de relação;
 - humor;
 - ação decisiva;
-- posição ou causalidade precisa.
-
-Dramatizar significa mostrar o momento próximo da perspectiva em vez de saltar diretamente para o resultado final.
+- posição ou causalidade precisa;
+- execução de Direção do Diretor cujo caminho ainda importa.
 
 ## Resumir
 
@@ -37,119 +36,83 @@ Exemplos:
 - recuperação;
 - espera;
 - dias semelhantes;
-- processo já registrado em andamento.
+- processo registrado em andamento.
 
-Resumo não apaga consequência, prazo ou informação importante.
+Resumo não apaga consequência, prazo, Direção ativa ou informação importante.
 
 ## Intenção longa
 
-Uma intenção pode cobrir horas ou dias conforme `../nucleo/0.8-tempo-e-acoes.md`.
-
-Se a intenção já autoriza continuar e nenhuma nova decisão relevante surgir, o Narrador pode condensar o período.
-
-Exemplo:
+Se intenção já autoriza continuar e nenhuma nova decisão realmente disponível surgir, o Narrador pode condensar o período.
 
 ```text
 CADEIRA DE A
 → vou passar a tarde estudando.
 
 NARRADOR
-→ julga a intenção.
-→ nada relevante cria uma nova escolha.
-→ resume a tarde até o ponto permitido.
+→ nada cria nova escolha real.
+→ pode resumir até o ponto permitido.
 ```
 
-O resumo não significa que todo período declarado precisa necessariamente ser consumido.
+O resumo não garante consumir todo o horizonte declarado.
 
-Se o objetivo terminar antes, a sentença pode parar antes.
+## Nova escolha aberta encerra o resumo
 
-## Nova escolha relevante encerra o resumo
+O Narrador não resume por cima de acontecimento que realmente ofereça escolha voluntária capaz de mudar continuidade.
 
-O Narrador não pode resumir por cima de um acontecimento que ofereça a uma personagem uma escolha voluntária significativa capaz de mudar sua continuidade.
-
-O critério não é urgência.
+Antes de parar, verificar:
 
 ```text
-fato irrelevante para decidir
-→ continuar o resumo.
-
-fato cria nova escolha relevante
-→ devolver a decisão à cadeira responsável.
+a personagem percebe?
+possui tempo?
+possui oportunidade?
+possui meio para escolher entre caminhos reais?
+a questão ainda está aberta ou o Diretor já fechou esse ponto?
 ```
-
-Isso inclui acontecimentos sociais, afetivos e cotidianos quando realmente mudam as opções da personagem.
-
-Exemplos:
 
 ```text
-mensagem pessoal relevante
-→ pode levar a responder, procurar alguém, mudar o plano ou continuar como estava.
-→ a decisão pertence à cadeira da personagem afetada.
+NOVA ESCOLHA REALMENTE ABERTA
+→ devolver à cadeira responsável.
 
-convite significativo
-→ aceitar, recusar, negociar ou alterar a intenção pertence à cadeira responsável.
-
-nova informação importante
-→ manter ou revisar o plano pertence à cadeira responsável.
+PERSONAGEM FOI AFETADA, MAS NÃO HÁ ESCOLHA REAL
+→ aplicar consequência e continuar conforme os fatos.
 ```
 
-O Narrador não escolhe automaticamente que uma personagem ignora algo apenas porque sua intenção anterior era longa.
+> **Resumo não atravessa agência real. Também não fabrica agência que a situação não oferece.**
 
-> **Resumo pode atravessar tempo; não pode atravessar uma nova escolha que pertença a outra cadeira.**
+## Conversa dramatizada preserva janelas reais de participação
 
-## Conversa dramatizada também preserva agência
+Conversa não é cutscene.
 
-Uma conversa não é uma cutscene.
-
-Quando uma personagem está presente e pode legitimamente ouvir ou participar, o Narrador não deve encadear várias falas substanciais de outras cadeiras atravessando pontos em que a cadeira dessa personagem poderia querer falar, interromper, perguntar, discordar, mudar de assunto, agir ou sair.
+Quando uma personagem está presente e possui oportunidade legítima de participar, não encadear várias falas substanciais atravessando pontos em que ela poderia querer falar, interromper ou agir.
 
 O critério não é quantidade fixa de falas.
 
-Usar o **menor bloco conversacional natural** que preserve o ritmo sem atravessar uma nova escolha relevante.
+Usar o menor bloco natural que preserve ritmo sem atravessar decisão real.
 
-```text
-fala ou troca breve
-→ nenhum novo ponto relevante de participação
-→ pode continuar.
+Exemplos de pontos que normalmente podem abrir janela:
 
-revelação, pergunta, proposta, acusação, provocação, decisão, mudança de assunto ou informação relevante
-→ pode mudar o que uma personagem quer fazer ou dizer
-→ devolver a decisão à cadeira afetada.
-```
-
-Exemplos de pontos que normalmente abrem uma janela de intervenção:
-
-- pergunta dirigida a uma personagem;
-- informação nova capaz de alterar sua posição;
-- comentário sobre alguém ou algo que ela pode querer contestar;
-- proposta, convite ou plano;
+- pergunta dirigida;
+- informação nova capaz de alterar posição;
+- proposta ou convite;
 - acusação ou provocação significativa;
-- revelação pessoal ou factual;
+- revelação;
 - mudança importante de relação;
 - decisão de outra personagem que afete a cena;
-- mudança de assunto antes que uma cadeira afetada tenha tido oportunidade razoável de reagir ao anterior;
-- pausa natural depois de uma fala substantiva quando uma personagem está inserida na conversa.
+- pausa natural depois de fala substantiva.
+
+Ainda assim:
 
 ```text
-CADEIRA A
-→ diz algo relevante.
+FALA DIRIGIDA
+≠ resposta garantida.
 
-CADEIRA B
-→ pode responder brevemente se a resposta for imediata e não atravessar a oportunidade de C.
-
-SURGE PONTO EM QUE C PODE QUERER ENTRAR
-→ a decisão volta para a CADEIRA DE C.
+PERSONAGEM NÃO PERCEBE OU NÃO POSSUI OPORTUNIDADE
+→ não criar janela artificial.
 ```
 
-Não é necessário transformar diálogo em iniciativa rígida de uma frase por participante. Saudações, confirmações curtas, respostas automáticas e pequenos encadeamentos que não alterem opções podem permanecer no mesmo bloco.
+## Intenção de observar
 
-Mas o Narrador não pode produzir páginas de diálogo entre outras personagens e depois devolver a uma cadeira apenas quando o assunto já mudou ou a oportunidade de intervenção passou.
-
-> **A personagem deve receber a conversa enquanto sua cadeira ainda pode participar dela, não um relatório depois que a oportunidade terminou.**
-
-### Intenção de apenas observar
-
-Uma Cadeira de Personagem pode declarar que sua personagem pretende apenas ouvir, observar ou deixar as outras conversarem.
+Uma cadeira pode declarar:
 
 ```text
 "fico ouvindo"
@@ -157,234 +120,156 @@ Uma Cadeira de Personagem pode declarar que sua personagem pretende apenas ouvir
 "não interrompo por enquanto"
 ```
 
-Essa intenção permite ao Narrador avançar a conversa por um bloco maior enquanto ela continuar válida.
+Essa intenção permite bloco maior enquanto continuar válida.
 
-Ainda assim, uma mudança realmente nova pode exigir nova decisão quando tornar plausível que a intenção anterior precise ser reconsiderada, por exemplo:
+Mudança realmente nova pode exigir nova decisão se abrir escolha relevante.
+
+## Direção do Diretor e resumo
+
+O Diretor pode orientar ritmo diretamente:
 
 ```text
-assunto muda radicalmente
-segredo importante é revelado
-alguém se dirige diretamente à personagem
-conflito muda de natureza
-surge decisão que afeta diretamente sua personagem
+[resuma essa semana até o encontro de sexta]
 ```
 
-O Narrador não interpreta silêncio anterior como autorização ilimitada para atravessar toda a conversa.
+Se nenhum ponto não fechado exige agência antes disso, resumir conforme a Direção.
+
+Se existe decisão aberta importante no caminho, o Narrador não deve atravessá-la silenciosamente apenas para chegar ao marco, salvo se o Diretor também fechou essa decisão ou resultado.
+
+```text
+DIRETOR FECHOU MARCO, MAS NÃO AS DECISÕES INTERMEDIÁRIAS
+→ preservar agência intermediária.
+
+DIRETOR FECHOU TAMBÉM A TRAJETÓRIA
+→ executar o escopo determinado.
+```
+
+## Pedido de auditoria interrompe resumo
+
+Se o Diretor diz:
+
+```text
+[pare; confira se isso é coerente antes de continuar]
+```
+
+a condensação para imediatamente no último fato estabelecido.
+
+Auditar antes de avançar tempo ficcional.
 
 ## Processos registrados
 
-Um processo já estabelecido pode avançar fora de cena sem precisar ser reencenado a cada janela distante.
+Processo estabelecido pode avançar fora de cena sem reencenação constante.
 
-Exemplo:
+Quando o prazo ou nova situação abrir decisão:
 
 ```text
-REGISTRO
-→ uma personagem investiga o desaparecimento.
-→ primeiras pistas em 10 dias.
+→ cadeira responsável decide.
 ```
 
-Enquanto nada exige nova decisão, a campanha pode avançar sem dramatizar cada dia da investigação.
-
-Quando o prazo ou uma nova situação tornar essa personagem relevante novamente:
+Quando produzir consequência automática já estabelecida:
 
 ```text
-→ cadeira responsável assume
-→ forma nova intenção quando necessário
+→ Narrador aplica.
 ```
 
 ## Prazos interrompem resumo
 
-O Narrador não resume por cima de um prazo registrado relevante.
-
-Exemplo:
+Não resumir por cima de prazo relevante.
 
 ```text
-CADEIRA DE A
-→ vou estudar o dia todo.
+INTENÇÃO
+→ estudar o dia todo.
 
-REGISTRO
-→ veneno produz efeito em 1 hora.
+PROCESSO
+→ determinada condição muda em 1 hora.
+
+RESUMO
+→ avança no máximo até esse ponto.
+→ aplica mudança.
+→ reavalia.
 ```
 
-A narração pode condensar no máximo até esse ponto.
+## Outra cadeira durante resumo
+
+Quando outra personagem possui motivo e oportunidade para iniciar algo, sua cadeira pode agir.
+
+Se a ação alcançar outra personagem:
 
 ```text
-1 hora passa
-→ veneno entra em efeito
-→ consequência é aplicada
-→ situação é reavaliada
+→ verificar se existe nova decisão real.
+→ devolver somente se existir.
 ```
 
-O mesmo vale para:
+## Opositor durante resumo
 
-- tempestade registrada;
-- compromisso;
-- chegada de aliado;
-- entrada de inimigo;
-- estágio de plano adversarial;
-- condição que muda no tempo;
-- outro fato já estabelecido.
-
-## Outra cadeira durante o resumo
-
-Quando um resumo alcança o momento em que outra personagem precisa escolher algo:
+Quando processo adversarial alcança ponto de decisão:
 
 ```text
-CADEIRA CORRESPONDENTE
-→ decide.
+OPOSITOR, SE ATIVO E PERTINENTE
+→ decide dentro de seu escopo.
+
+NARRADOR
+→ julga.
 ```
 
-A nova intenção dessa personagem pode continuar sendo processada sem devolver automaticamente o foco à cadeira que iniciou o resumo.
-
-Mas, se sua ação produzir uma nova escolha relevante para outra personagem:
-
-```text
-→ devolver a decisão à cadeira dessa personagem.
-```
-
-O Narrador não escolhe a reação apenas para preservar o resumo.
-
-## Inimigo ou força adversarial
-
-Quando o resumo alcança uma entrada ou decisão adversarial:
-
-```text
-→ OPOSITOR assume ou declara movimento, quando possuir essa autoridade
-→ Tribunal julga a nova situação
-```
-
-Um plano registrado não autoriza o Narrador a decidir por uma personagem que possua cadeira própria quando chega o momento da escolha.
-
-Se o movimento adversarial criar uma nova decisão relevante para alguma personagem, o resumo chega ao ponto de contato e a escolha retorna à cadeira correspondente.
+Não inventar oposição apenas para interromper passagem de tempo.
 
 ## Quando sair do resumo
 
-Interromper a condensação ou transferir a execução quando surgir:
+Interromper ou transferir execução quando surgir:
 
-- nova decisão voluntária relevante;
+- nova decisão realmente aberta;
 - informação capaz de mudar escolha;
 - obstáculo não coberto pela intenção;
 - oportunidade significativa;
 - conflito;
 - descoberta importante;
-- prazo ou efeito aplicável;
-- iniciativa de outra personagem que crie uma escolha real para uma cadeira;
-- mudança causal que torne o próximo passo incerto.
-
-```text
-RESUMO
-→ algo cria nova escolha
-→ identificar a cadeira responsável
-→ apresentar a nova situação
-→ devolver a decisão
-```
-
-A escolha não precisa ser urgente. Basta ser relevante o bastante para que continuar automaticamente significasse decidir pela personagem.
-
-Se o executor da cadeira responsável depende de entrada externa:
-
-```text
-→ aguardar essa entrada.
-```
-
-Se o executor pode decidir no mesmo fluxo:
-
-```text
-→ executar a cadeira separadamente e continuar.
-```
-
-> **A nova escolha é uma questão de autoridade; parar ou continuar é uma questão de execução.**
+- prazo aplicável;
+- pedido de auditoria do Diretor;
+- mudança causal que torne o próximo passo aberto.
 
 ## Quando continuar resumindo
 
-Uma fala casual, gesto rotineiro ou pequeno detalhe não exige automaticamente nova janela.
+Pode continuar quando:
 
-O resumo pode continuar quando:
-
-- não surge escolha nova relevante;
-- a intenção continua cobrindo o próximo passo;
-- nenhuma oposição entra;
+- não surge escolha real;
+- intenção cobre o próximo passo;
+- nenhuma oposição legítima entra;
 - nenhum prazo interfere;
-- nada muda as opções reais.
+- nada muda opções reais;
+- nenhuma Direção ativa exige dramatização daquele ponto.
 
-Exemplos de fatos que normalmente podem ser absorvidos pelo resumo:
-
-```text
-notificação automática
-ruído cotidiano
-mudança comum de iluminação
-pequeno detalhe de rotina
-informação já esperada e sem efeito sobre a decisão atual
-```
-
-> **Não interromper por hábito. Interromper quando a ficção volta a precisar de agência.**
+> **Não interromper por hábito. Interromper quando a ficção volta a precisar de agência, julgamento ou auditoria.**
 
 ## Outras cadeiras podem continuar em cena
 
-Enquanto uma cadeira mantém intenção longa, outras podem produzir cenas próprias.
+Enquanto A mantém intenção longa:
 
 ```text
-CADEIRA A
-→ intenção longa continua.
-
 CADEIRA B ↔ CADEIRA C
-→ conversa, conflito, rotina, relação ou outra ação própria.
+→ conversa, conflito, rotina ou relação própria.
 ```
 
-Se essas cenas ainda não criarem uma nova escolha relevante para A, elas podem continuar normalmente.
-
-Quando alguma iniciativa alcançar A de modo significativo, a decisão retorna à Cadeira de A.
+Se isso ainda não abre decisão para A, pode continuar.
 
 ## Condensar sem virar relatório
 
 Resumo ainda é narração.
 
-Evitar:
-
-```text
-08h estudou
-10h estudou
-12h almoçou
-14h estudou
-```
-
-Preferir uma passagem que preserve sensação de tempo e consequência:
-
-```text
-A manhã passa entre anotações e páginas marcadas. Depois do almoço, o trabalho continua sem novidade suficiente para alterar o plano.
-```
-
-Quando uma fala ou pequeno momento possuir valor de personagem, ele pode ser preservado dentro de uma passagem condensada.
+Preferir passagem natural a lista de horários quando a lista não possui função.
 
 ## Cena tranquila não é resumo automático
 
-Cotidiano pode ser dramatizado quando o valor está em:
+Cotidiano pode ser dramatizado quando valor está em convivência, relação, humor, personalidade ou conversa.
 
-- convivência;
-- relação;
-- humor;
-- personalidade;
-- conversa;
-- mudança emocional legitimamente estabelecida.
+Ação longa pode ser resumida quando processo já está determinado e não exige escolhas.
 
-Da mesma forma, ação longa pode ser resumida quando seu processo já está determinado e não exige novas escolhas.
-
-## Mudança de tempo, lugar ou foco
-
-Quando houver mudança clara, pode-se usar:
-
-```text
-* * *
-```
-
-A quebra ajuda orientação, mas não é obrigatória.
-
-## Relação com o Registro
+## Relação com Registro
 
 Resumo não substitui Registro.
 
-Depois da sentença, fatos que precisem continuar verdadeiros devem ser preservados em `../registro/` e, quando forem específicos de uma campanha, dentro de `campanhas/<nome>/`.
+Depois da sentença, fatos e Direções ainda ativas que precisam continuar verdadeiros devem ser preservados nas fontes apropriadas.
 
 ## Regra final
 
-> **Dramatize decisão, descoberta, conflito, relação e ação que precisa ser acompanhada. Resuma rotina, espera, repetição e processo já determinado. Quando qualquer acontecimento criar uma nova escolha relevante, devolva-a à cadeira responsável antes de atravessá-la. Em conversas, preserve janelas naturais de intervenção: diálogo não é cutscene. Se o executor dessa cadeira precisar fornecer entrada externa, aguarde; se puder decidir no mesmo fluxo, execute a cadeira separadamente e continue.**
+> **Dramatize decisão, descoberta, conflito, relação e execução que precisa ser vivida. Resuma rotina, espera e processos determinados. Pare somente diante de escolha realmente aberta, prazo, julgamento ou auditoria pertinente; ser afetado não basta para criar reação. Direção do Diretor pode definir ritmo e marcos, mas fecha somente o escopo que ele determinou.**
