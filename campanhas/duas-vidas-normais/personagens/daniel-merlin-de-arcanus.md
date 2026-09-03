@@ -16,9 +16,11 @@ Estilo universitário: roupas esportivas ou casuais, aparência cuidada e descon
 
 Estilo particular: em casa prefere roupas confortáveis e uma rotina muito mais reclusa, cercada de livros, anotações, grimórios e pesquisa mágica.
 
-Estilo heroico — Myrddin: adota deliberadamente uma aparência inspirada em um mago clássico de fantasia — chapéu largo, casaco ou manto em camadas, botas, luvas, cintos, bolsas de componentes e pequenos objetos arcanos. A silhueta e a postura ficam muito diferentes das de Daniel na faculdade. Para alguém de fora do mundo mágico, o visual pode parecer exageradamente próximo de um personagem de RPG.
+Estilo heroico — Myrddin: adota deliberadamente uma aparência de mago clássico de fantasia, assimétrica e marcante. Usa um grande chapéu pontudo e irregular, botas altas, luvas, calças listradas, cintos, bolsas de componentes e múltiplas camadas de tecido escuro, couro, penas e partes gastas ou desfiadas. Um manto irregular completa a silhueta.
 
-Essa diferença visual ajuda a impedir associação casual entre sua identidade universitária e sua atuação heroica.
+Sob a aba do chapéu, o rosto fica oculto por sombra encantada; o elemento facial mais visível são olhos amarelos luminosos. A combinação de sombra, camadas, acessórios e proporções visuais quebra fortemente a silhueta civil de Daniel.
+
+Para alguém de fora do mundo mágico, o conjunto pode parecer exageradamente próximo de um personagem de RPG ou de um cosplay extremamente elaborado. Essa diferença visual ajuda a impedir associação casual entre sua identidade universitária e sua atuação heroica.
 
 Myrddin não é um codinome inventado. É o segundo nome de Daniel na forma tradicional da linhagem. Seu nome ancestral completo é Daniel Myrddin o'r Dirgel; na vida pública moderna, a família usa a forma Daniel Merlin de Arcanus. A persona heroica simplesmente utiliza Myrddin isoladamente.
 
