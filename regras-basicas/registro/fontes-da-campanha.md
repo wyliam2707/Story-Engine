@@ -4,7 +4,7 @@ Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define **onde salvar cada tipo de verdade** dentro de `campanhas/<nome>/`.
 
-> **Cada verdade deve ter uma fonte principal.**
+> **Cada verdade deve ter uma fonte principal. Direção persistente também precisa de uma fonte quando deve sobreviver ao contexto imediato.**
 
 ## Regra de roteamento
 
@@ -12,11 +12,16 @@ Este arquivo define **onde salvar cada tipo de verdade** dentro de `campanhas/<n
 QUEM É A PERSONAGEM E O QUE ELA PRECISA LEVAR CONSIGO?
 → personagens/<nome>.md
 
-SOBRE O QUE A CAMPANHA É AO LONGO DAS TEMPORADAS?
+SOBRE O QUE A CAMPANHA É AO LONGO DOS ARCOS?
 → mestre/narrativa.md
 
-QUAL É O ARCO ATIVO?
+QUAL É O ARCO PREPARADO ATIVO?
 → mestre/roteiro.md
+
+QUE DIREÇÃO AUTORAL AINDA LIMITA O PONTO ATUAL?
+→ estado/atual.md, quando for local/operacional.
+→ mestre/narrativa.md, quando alterar a identidade persistente da campanha.
+→ mestre/roteiro.md, quando for uma Direção persistente daquele arco.
 
 COMO A CAMPANHA ESTÁ AGORA?
 → estado/atual.md
@@ -24,12 +29,74 @@ COMO A CAMPANHA ESTÁ AGORA?
 O QUE É VERDADE ESTÁVEL DO CENÁRIO?
 → mundo/
 
-O QUE O OUTRO LADO DA TRAMA ESTÁ FAZENDO?
+O QUE O LADO ADVERSARIAL ESTÁ FAZENDO?
 → opositor/
 
 O QUE REALMENTE ACONTECEU?
 → livro/
 ```
+
+## Direções do Diretor
+
+Nem toda Direção precisa ser salva.
+
+```text
+DIREÇÃO JÁ CONSUMADA NA MESMA JANELA
+→ não precisa de registro separado.
+→ o resultado real entra nas fontes normais.
+
+DIREÇÃO QUE AINDA LIMITA A CONTINUAÇÃO
+→ precisa ser preservada antes de checkpoint, troca de chat ou perda de contexto.
+```
+
+Roteamento:
+
+### Direção da Campanha
+
+```text
+campanhas/<nome>/mestre/narrativa.md
+```
+
+Guarda identidade, foco e limites persistentes.
+
+### Direção de Arco
+
+Quando houver Arco Preparado:
+
+```text
+campanhas/<nome>/mestre/roteiro.md
+```
+
+Pode guardar Direção do Arco e determinações persistentes próprias daquele arco quando realmente precisarem sobreviver entre cenas.
+
+### Direção local / resultado ainda não consumado
+
+Se o Diretor fechou algo que ainda precisa ser cumprido a partir do ponto atual:
+
+```text
+campanhas/<nome>/estado/atual.md
+```
+
+Pode registrar um bloco como:
+
+```text
+## Direções Autorais Ativas
+
+- A deve perder o confronto atual.
+  Escopo fechado: resultado do confronto.
+  Permanece aberto: método, falas e decisões intermediárias não especificadas.
+```
+
+Esse bloco é operacional e temporário.
+
+Quando a Direção for consumada:
+
+```text
+→ remover da lista de Direções Autorais Ativas.
+→ registrar o que realmente aconteceu nas fontes normais.
+```
+
+> **Registrar uma Direção ativa significa preservar um limite autoral ainda não consumado; não significa transformar o conteúdo inteiro da Direção em fato já acontecido.**
 
 ## `personagens/`
 
@@ -43,20 +110,18 @@ Descrição Física
 Conceito
 Habilidades e Conhecimentos
 Traços e Poderes
-Equipamentos e Recursos relevantes
+Equipamentos e Recursos
 Descrição Emocional / Personalidade
 relações
 Histórico
 Estado Atual pessoal
 ```
 
-O bloco `Estado Atual` da ficha é apenas o recorte pessoal temporário daquela personagem.
-
-A ficha não é diário completo nem cópia do Estado global.
+O bloco `Estado Atual` da ficha é apenas recorte pessoal temporário.
 
 ## Conhecimento relevante
 
-Quando esquecer uma informação provavelmente faria a personagem interpretar ou decidir de forma incoerente, consolidar esse conhecimento na própria ficha ou na fonte específica apropriada.
+Quando esquecer uma informação provavelmente faria a personagem decidir de forma incoerente, consolidar esse conhecimento na ficha ou fonte apropriada.
 
 ```text
 PERSONAGEM A SABE
@@ -64,11 +129,11 @@ PERSONAGEM A SABE
 PERSONAGEM B SABE
 ```
 
-Arquivos tecnicamente acessíveis não concedem conhecimento ficcional automático.
+Direção do Diretor nunca entra automaticamente como conhecimento de personagem.
 
 ## Relações e ponto de vista
 
-Relações registradas na ficha pertencem ao ponto de vista íntimo daquela personagem.
+Relações registradas na ficha pertencem ao ponto de vista daquela personagem.
 
 ```text
 FICHA DE A
@@ -78,13 +143,13 @@ FICHA DE B
 → como B entende o vínculo.
 ```
 
-As leituras podem divergir sem que uma esteja errada.
+As leituras podem divergir.
 
 ## `estado/atual.md`
 
-É a fonte canônica global da realidade presente.
+É a fonte canônica global da realidade presente e do limite autoral operacional ainda ativo.
 
-Pode registrar, quando necessário:
+Pode registrar:
 
 ```text
 momento e local
@@ -93,23 +158,16 @@ posição das peças
 condições temporárias
 efeitos ativos
 transformações em curso
-Equipamentos ou Recursos indisponíveis
+equipamentos ou recursos indisponíveis
 intenções persistentes
 ações interrompidas
 processos e prazos próximos
 fatos recentes que ainda alteram a situação
+Direções Autorais Ativas ainda não consumadas
 primeiro ponto ainda aberto
 ```
 
-Não registrar `Vida`, `Mente` ou `Mana` como estruturas universais.
-
-```text
-RECURSO OU CONDIÇÃO ESPECÍFICA FOI DEFINIDO
-→ acompanhar conforme sua própria regra.
-
-NADA DEFINIU
-→ não inventar barra, reserva ou trilho genérico.
-```
+Não registrar `Vida`, `Mente` ou `Mana` universais.
 
 ## `mundo/`
 
@@ -118,20 +176,18 @@ Guarda verdades estáveis externas às personagens.
 Exemplos:
 
 ```text
-localização de uma cidade
+localização de cidade
 regra política estabelecida
 organização existente
-característica permanente de um local
+característica permanente de local
 evento que alterou duradouramente o cenário
 ```
-
-Não usar `mundo/` para estados temporários pessoais nem planos secretos adversariais.
 
 ## `mestre/`
 
 ### `mestre/narrativa.md`
 
-Fonte da identidade persistente da campanha:
+Fonte da identidade persistente:
 
 ```text
 foco
@@ -140,21 +196,24 @@ experiência desejada
 temas e conflitos recorrentes
 o que não deve dominar
 premissas gerais
+mudanças persistentes de Direção determinadas pelo Diretor
 ```
 
 ### `mestre/roteiro.md`
 
-Fonte da temporada ativa:
+Fonte do Arco Preparado ativo:
 
 ```text
-problema estrutural
+Direção do Arco
+problema estrutural, quando houver
 Diretriz Fechada
 processos preparados
 limites do arco
 condição de encerramento
+Direções persistentes específicas do arco, quando realmente necessárias
 ```
 
-O roteiro não determina decisões voluntárias nem resultados futuros.
+O Roteiro não decide sozinho pelas personagens. Uma Direção registrada ali precisa vir da autoridade legítima do Diretor ou da preparação já aprovada.
 
 ### `mestre/temporadas/`
 
@@ -186,68 +245,56 @@ Não registrar como acontecimento:
 
 ```text
 intenção ainda não executada
+Direção ainda não consumada
 hipótese
 plano futuro
 metaconversa
-versão anulada
 resultado ainda aberto
 ```
 
-Temporadas encerradas seguem `arquivo-de-temporada.md`.
+Quando uma Direção finalmente se realiza, o Livro registra **o acontecimento**, não a ordem autoral que existia antes dele.
 
 ## Duplicação legítima
 
-Uma mesma realidade pode aparecer em mais de uma fonte quando cada ocorrência possui função diferente.
-
-Exemplo:
+Uma realidade pode aparecer em mais de uma fonte quando cada ocorrência possui função diferente.
 
 ```text
 LIVRO
-→ registra que a personagem sofreu um ferimento.
+→ registra que A foi ferida.
 
 ESTADO DA CAMPANHA
 → registra que o ferimento continua presente.
 
-FICHA / ESTADO ATUAL PESSOAL
-→ registra somente o recorte necessário para aquela cadeira.
+FICHA / ESTADO PESSOAL
+→ carrega o recorte necessário para A.
 ```
 
-Outro:
+Outro exemplo:
 
 ```text
-LIVRO
-→ registra que Ravena descobriu um fato.
+ESTADO
+→ registra que “A perde este confronto” ainda é uma Direção ativa.
 
-FICHA DE RAVENA
-→ preserva o conhecimento que ela precisa continuar possuindo.
+LIVRO
+→ depois registra como a derrota realmente aconteceu.
+
+ESTADO
+→ remove a Direção já consumada.
 ```
 
 Duplicação funcional não significa autoridade concorrente.
 
-## Vida, Mente, Mana e outros mecanismos antigos
+## Vida, Mente, Mana e mecanismos antigos
 
-Os arquivos legados podem mencionar estruturas antigas, mas as fontes de campanha novas não devem tratá-las como padrão.
+Não tratar como padrão:
 
 ```text
 Vida universal
 Mente universal
 Mana universal
-→ não fazem parte do modelo ativo.
 ```
 
-Se uma campanha ou personagem possuir uma condição, reserva, carga, transformação ou custo particular realmente estabelecido, registrar o elemento específico em sua fonte correta.
-
-Exemplos:
-
-```text
-Condição: envenenado até receber antídoto.
-
-Recurso: 2 cargas restantes do artefato.
-
-Limitação: voo indisponível enquanto as asas estiverem feridas.
-```
-
-> **A fonte registra a verdade concreta; não converte toda verdade em uma estatística universal.**
+Se campanha ou personagem possuir condição, reserva, carga, transformação ou custo particular realmente estabelecido, registrar o elemento específico em sua fonte correta.
 
 ## Evitar cópia sem função
 
@@ -258,13 +305,12 @@ cena inteira no Estado
 ficha inteira no README
 segredos em vários arquivos
 todo o Livro na ficha
-toda a lore do mundo em cada personagem
+toda a lore em cada personagem
 todo plano do Opositor no Estado
 Narrativa inteira dentro do Roteiro
+Direção já consumada como se ainda estivesse pendente
 ```
-
-Quando uma fonte principal já basta, consultar essa fonte quando necessário.
 
 ## Regra final
 
-> **Escolha a fonte pela função da verdade: ficha guarda a personagem; Narrativa guarda a identidade da campanha; Roteiro guarda o arco ativo; Estado guarda o presente global; mundo guarda contexto estável; Opositor guarda oposição legítima; Livro guarda o que aconteceu. Vida, Mente e Mana não são campos universais dessas fontes.**
+> **Escolha a fonte pela função da verdade. Ficha guarda a personagem; Narrativa guarda identidade persistente; Roteiro guarda preparação e Direções de arco quando pertinentes; Estado guarda o presente e Direções Autorais Ativas ainda não consumadas; Mundo guarda contexto estável; Opositor guarda oposição legítima; Livro guarda o que aconteceu. Uma Direção ativa é limite autoral, não acontecimento consumado nem conhecimento da personagem.**
