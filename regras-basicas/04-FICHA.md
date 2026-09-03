@@ -27,6 +27,53 @@ O presente temporário não fica duplicado na ficha. Ele pertence ao `estado.md`
 
 Quem executa a personagem também não pertence à ficha; isso fica na configuração da campanha.
 
+## A ficha registra linhas de raciocínio
+
+A ficha não é um catálogo exaustivo de tudo o que a personagem consegue fazer.
+
+> **A ficha registra a lógica de atuação da personagem.**
+>
+> **Ela estabelece fatos suficientes para julgar a ficção; não tenta catalogar todas as ações possíveis.**
+
+Competências, conhecimentos, Traços, Poderes e Meios estabelecem grandes domínios de repertório, especialidade, natureza e forma de atuação.
+
+Uma aplicação pequena, óbvia e compatível com esses fatos pode surgir naturalmente em cena sem receber uma entrada própria na ficha.
+
+Exemplo:
+
+```text
+uma bruxa centenária, formada desde cedo em uma tradição mágica
+→ pode acender uma vela, abrir uma porta à distância, puxar um livro ou aquecer água por magia
+→ sem precisar possuir um Poder separado para cada truque cotidiano.
+```
+
+Isso não autoriza expansão ilimitada.
+
+Quando uma aplicação começa a decidir um obstáculo relevante, superar resistência real, criar uma solução importante ou produzir efeito extraordinário cuja escala importa, ela precisa encontrar sustentação suficiente nos fatos registrados da personagem.
+
+```text
+aplicação trivial coerente
+→ pode decorrer naturalmente do repertório estabelecido.
+
+efeito relevante para julgamento
+→ deve ser sustentado por Competência, Conhecimento, Traço, Poder, Meio ou outro fato canônico pertinente.
+```
+
+Um Poder também deve ser lido como uma linha de raciocínio, não como uma lista fechada de técnicas.
+
+```text
+Proteção e Selamento
+→ delimitar
+→ conter
+→ estabilizar
+→ impedir passagem
+→ sustentar estruturas
+```
+
+A personagem pode produzir aplicações diferentes dentro desse mesmo domínio sem que cada forma precise ser registrada separadamente.
+
+A descrição continua definindo o escopo. A linha de raciocínio permite variedade coerente; não cria capacidades fora dela.
+
 ## Descrição Física
 
 Registra o suficiente para reconhecer a personagem:
@@ -110,6 +157,8 @@ como funciona
 qual é seu escopo
 quais limites importam
 ```
+
+O Poder não precisa enumerar cada técnica possível. Ele estabelece um domínio de capacidade suficientemente claro para que aplicações coerentes possam ser julgadas dentro dele.
 
 ## Graduação
 
@@ -272,4 +321,4 @@ Não pedir novamente informação já fornecida.
 
 ## Regra final
 
-> **A ficha descreve uma pessoa, não um orçamento. Competências e conhecimentos estabelecem repertório; Traços estabelecem verdades; Poderes estabelecem capacidades; graduação compara intensidade somente quando necessário; limites são registrados quando existem. Estado temporário e executor ficam fora da ficha para que cada verdade tenha uma única fonte.**
+> **A ficha descreve uma pessoa, não um orçamento nem um catálogo de ações. Ela registra a lógica de atuação da personagem e fatos suficientes para julgar a ficção. Competências e conhecimentos estabelecem repertório; Traços estabelecem verdades; Poderes estabelecem domínios de capacidade; graduação compara intensidade somente quando necessário; limites são registrados quando existem. Aplicações triviais coerentes podem decorrer naturalmente desses fatos, enquanto efeitos relevantes precisam de sustentação canônica suficiente. Estado temporário e executor ficam fora da ficha para que cada verdade tenha uma única fonte.**
