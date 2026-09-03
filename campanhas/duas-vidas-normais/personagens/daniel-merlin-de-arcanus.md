@@ -32,8 +32,10 @@ Quando pode escolher, volta para seu apartamento, fecha a porta e desaparece ent
 
 ### Competências
 
---- Formação universitária
-Daniel é um estudante inteligente e competente, acostumado a conciliar formação acadêmica comum com estudos mágicos muito mais antigos.
+--- Formação universitária — Física
+Daniel cursa Física. Gosta particularmente de comparar fenômenos mundanos e mágicos, observando onde as mesmas ideias de força, energia, movimento, campo, matéria e espaço permanecem úteis e onde a magia altera ou contorna essas relações.
+
+Ele não presume que magia seja apenas física desconhecida nem que física explique toda magia; valoriza as duas como formas diferentes de compreender fenômenos reais.
 
 --- Atletismo
 Treina e pratica atividades físicas de verdade. Sua imagem de atleta universitário não é apenas fachada social.
@@ -54,6 +56,9 @@ Possui conhecimento profundo de teoria, construção e funcionamento de magia de
 
 --- Especialista: barreiras e estruturas mágicas
 Entende proteção, contenção, estabilidade e interação entre forças mágicas em profundidade excepcional.
+
+--- Conhece: Física
+Possui formação universitária no estudo de fenômenos físicos e consegue aplicar modelos, matemática e raciocínio científico a problemas mundanos. Quando pertinente, também consegue comparar esses modelos com fenômenos mágicos sem presumir que um domínio substitua o outro.
 
 --- Conhece: criaturas e fenômenos sobrenaturais
 Familiaridade ampla com entidades, manifestações e acontecimentos ligados ao mundo mágico.
@@ -172,7 +177,7 @@ Seu lado nerd relacionado à magia é genuíno e muito mais intenso do que sua a
 Daniel tende a analisar problemas antes de simplesmente atacá-los. Prefere controlar uma situação, limitar possibilidades e proteger aquilo que importa. Isso não significa passividade: quando considera necessária uma intervenção, pode agir com bastante decisão.
 
 Desejos e objetivos:
-- concluir sua formação universitária;
+- concluir sua graduação em Física;
 - aprofundar continuamente seu conhecimento mágico;
 - manter algum espaço de vida comum separado das obrigações de sua linhagem;
 - preservar autonomia sobre como utiliza suas capacidades;
@@ -187,6 +192,7 @@ Medos, limites e aversões:
 Hábitos e tendências:
 - passa muito tempo lendo;
 - pesquisa magia por interesse genuíno, mesmo sem necessidade imediata;
+- gosta de confrontar explicações físicas e mágicas para fenômenos quando ambas são pertinentes;
 - mantém hábitos atléticos;
 - socializa com facilidade, mas frequentemente prefere voltar para casa cedo;
 - tende a usar soluções indiretas, controle e preparação antes de força bruta.
@@ -219,6 +225,8 @@ Ele cresceu entre grimórios, objetos encantados, rituais, estruturas mágicas e
 Recebeu educação mágica desde cedo, principalmente sob uma tradição familiar em que Morgana valorizava poder direto e treinamento exigente. Daniel desenvolveu outro caminho: barreiras, controle, selamento, suporte e preparação.
 
 Apesar dessa origem, também construiu uma vida integrada à sociedade contemporânea.
+
+Na universidade escolheu cursar Física por interesse genuíno no funcionamento do mundo mundano e pela possibilidade de comparar seus modelos com fenômenos que conhece através da magia. Para Daniel, compreender uma explicação física e compreender uma explicação arcana são atividades complementares quando o fenômeno permite, não rivais automáticas.
 
 Durante a universidade escolheu morar em um apartamento comum próximo ao campus. Isso lhe permite manter uma rotina civil independente enquanto continua a acessar a Casa Arcanus em poucos minutos por meio de portais quando precisa estudar magia, consultar a biblioteca ou visitar Morgana.
 
