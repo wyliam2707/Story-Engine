@@ -4,8 +4,8 @@ Momento: noite de quarta-feira, nas últimas semanas do período universitário.
 
 ## Locais atuais relevantes
 
-- Daniel está na Casa Arcanus, conversando com Morgana depois de perguntar por um meio de transporte para sexta-feira.
-- Kara teve sua última posição ficcional estabelecida após as aulas na Metropolis University; sua localização exata no encerramento do capítulo permanece aberta.
+- Daniel está na Casa Arcanus, depois de conversar com Morgana sobre um meio de transporte para sexta-feira.
+- Kara está em seu quarto na residência da Liga, separando opções de roupa para a festa.
 
 ## Condições relevantes
 
@@ -33,12 +33,14 @@ Momento: noite de quarta-feira, nas últimas semanas do período universitário.
 - Daniel encerrou a troca de mensagens em tom normal dizendo que estaria esperando por sexta.
 - Kara respondeu: “Então até sexta, Daniel.”
 - Para Kara, a saída de sexta já é percebida como um encontro de verdade.
+- Kara começou a pensar no que vestir e separou opções que preservem sua aparência civil discreta sem parecer roupa de aula.
 
 ## Conhecimento social recente
 
 ### Kara
 
 - Sabe que Daniel gosta de passar tempo com ela e aceitou sair para dançar na festa de sexta.
+- Percebe a saída de sexta como um encontro de verdade e gosta da ideia.
 - Não sabe que Daniel usa portais como meio habitual de deslocamento nem que foi à Casa Arcanus procurar um carro para buscá-la.
 
 ### Daniel
@@ -79,6 +81,8 @@ Momento: noite de quarta-feira, nas últimas semanas do período universitário.
 Daniel perguntou à mãe se havia na Casa Arcanus algum meio de transporte que pudesse usar para buscar alguém sem depender de portal.
 
 Morgana informou que há um carro funcional e legalizado na garagem e provocou Daniel sobre sua preferência por portais.
+
+Mais tarde, em seu quarto na residência da Liga, Kara reconheceu para si mesma que a saída de sexta é um encontro, gostou da ideia e começou a separar opções de roupa para dançar com Daniel.
 
 O Capítulo 3 — “Atividade Extracurricular” foi encerrado e registrado no Livro.
 
