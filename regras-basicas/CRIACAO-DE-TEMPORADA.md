@@ -347,6 +347,64 @@ RETROATIVIDADE OPORTUNISTA
 → proibida.
 ```
 
+## Atenção, aprofundamento e expansão
+
+A atenção das cadeiras pode aprofundar qualquer elemento coerente do arco, mas não promove automaticamente esse elemento a nova estrutura central.
+
+```text
+APROFUNDAR
+→ revelar mais sobre algo que já existe.
+→ desenvolver personalidade, contexto, história local ou consequências compatíveis.
+→ acrescentar detalhes que não mudam a natureza estrutural do arco.
+
+EXPANDIR
+→ criar novo problema estrutural.
+→ criar nova causa, facção, conspiração, ameaça principal ou eixo capaz de mudar o arco.
+```
+
+Aprofundar pode acontecer naturalmente dentro da ficção e das autoridades já existentes.
+
+Expandir exige fundamento estrutural legítimo. Pode vir, por exemplo, de:
+
+```text
+fato já estabelecido que realmente conduz à expansão
+preparação prévia do Roteiro
+Diretriz Fechada, quando pertinente
+desenvolvimento prospectivo criado antes de ser necessário para responder a uma ação
+Direção Autoral deliberada
+alinhamento de Mesa quando houver conflito de autoridade
+```
+
+Não usar a curiosidade como justificativa retroativa para promover um detalhe.
+
+```text
+muita atenção a um NPC
+≠ NPC se torna conspirador central.
+
+exploração longa de um local
+≠ local se torna origem secreta do problema.
+
+pergunta repetida sobre um objeto
+≠ objeto ganha função estrutural que antes não possuía.
+```
+
+Uma investigação pode responder de formas diferentes sem criar uma trama maior:
+
+```text
+PISTA
+→ aproxima de uma verdade realmente existente.
+
+EXCLUSÃO
+→ mostra que aquele caminho não pertence ao problema procurado.
+
+CONTEXTO
+→ amplia compreensão do mundo sem criar novo eixo estrutural.
+```
+
+> **Curiosidade deve ser recompensada com compreensão, não necessariamente com escalada.**
+
+Quando uma expansão legítima realmente for desejada, registrá-la como mudança prospectiva ou Direção Autoral apropriada. Não fingir depois que ela sempre existiu.
+
 ## Movimento independente do mundo
 
 Problemas e processos já estabelecidos não dependem da atenção das personagens para existir.
@@ -514,4 +572,4 @@ Um problema aberto continua existindo quando isso for verdade na ficção, mas n
 
 ## Regra final
 
-> **Temporada é um módulo opcional de Arco Preparado. O Roteiro registra apenas a preparação útil. A Diretriz Fechada é ainda mais específica: existe somente quando certas verdades precisam estar decididas antes de serem descobertas, enfrentadas ou testadas. Sem Diretriz Fechada, o arco pode evoluir prospectivamente dentro da Direção e do cânone; com ela, as verdades fechadas não podem ser reescritas retroativamente. Em ambos os casos, o roteiro prepara o mundo — nunca as decisões das personagens.**
+> **Temporada é um módulo opcional de Arco Preparado. O Roteiro registra apenas a preparação útil. A Diretriz Fechada é ainda mais específica: existe somente quando certas verdades precisam estar decididas antes de serem descobertas, enfrentadas ou testadas. Atenção pode aprofundar elementos do arco, mas não os promove automaticamente a nova estrutura. Sem Diretriz Fechada, o arco pode evoluir prospectivamente dentro da Direção e do cânone; com ela, as verdades fechadas não podem ser reescritas retroativamente. Em ambos os casos, o roteiro prepara o mundo — nunca as decisões das personagens.**
