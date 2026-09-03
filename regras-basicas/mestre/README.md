@@ -29,10 +29,11 @@ OPOSITOR
 → representa resistência, planos, ações e fatos adversariais legítimos.
 
 NARRADOR / JUIZ
-→ preserva a identidade narrativa da campanha.
-→ preserva a Diretriz da temporada ativa.
+→ preserva a Direção da Campanha.
+→ preserva o Roteiro quando houver Arco Preparado ativo.
+→ preserva a Diretriz Fechada somente quando ela existir nesse arco.
 → confere a realidade.
-→ consulta fichas, estado e continuidade.
+→ consulta fichas, Estado e continuidade.
 → cruza intenções independentes.
 → reconhece limites e comparações.
 → identifica quem possui autoridade sobre cada decisão.
@@ -145,7 +146,9 @@ Seguir `../nucleo/1.6-execucao-por-uma-unica-ia.md`.
 ## Rotina principal
 
 ```text
-1. carregar a Narrativa da Campanha e o Roteiro da temporada ativa.
+1. carregar a Direção da Campanha.
+   → carregar Roteiro somente se houver Arco Preparado ativo.
+   → carregar Diretriz Fechada somente se existir nesse Roteiro.
 2. conferir o Estado Atual necessário.
 3. identificar as cadeiras realmente afetadas.
 4. restaurar intenções persistentes relevantes.
@@ -163,7 +166,7 @@ Seguir `../nucleo/1.6-execucao-por-uma-unica-ia.md`.
 13. narrar até que surja uma nova decisão voluntária que pertença a alguma cadeira.
 14. devolver essa decisão à cadeira correta; se o executor depender de entrada externa, aguardar em vez de decidir por ela.
 15. registrar somente aquilo que precisa continuar verdadeiro.
-16. conferir se a condição de encerramento da temporada foi alcançada.
+16. se houver Arco Preparado com condição de encerramento, conferir se ela foi alcançada.
 ```
 
 Não exigir declaração formal de todas as cadeiras a cada pequena mudança.
@@ -305,32 +308,42 @@ Uma mudança real de identidade da campanha exige decisão deliberada; não nasc
 
 ## Roteiro da temporada
 
-A temporada ativa possui:
+Quando houver Arco Preparado ativo, ele pode possuir:
 
 ```text
 campanhas/<nome>/mestre/roteiro.md
 ```
 
-Ele registra o tabuleiro preparado para o arco atual, conforme `../CRIACAO-DE-TEMPORADA.md`.
+O Roteiro registra somente a preparação útil daquele arco, conforme `../CRIACAO-DE-TEMPORADA.md`.
 
 Pode incluir:
 
 ```text
-direção do Jogador
-problema da temporada
+Direção do Arco
 situação inicial
-verdades estruturais
-problemas que precisam ser resolvidos
-obstáculos e processos já existentes
+problema ou foco do arco, quando houver
+verdades estruturais já estabelecidas
+questões que precisam ser resolvidas
+obstáculos e processos existentes
 prazos
-resoluções possíveis
-limites da Diretriz Fechada
-condição de encerramento
+resoluções possíveis, quando precisarem ser conhecidas
+condição de encerramento, quando útil
+Diretriz Fechada, somente quando necessária
 ```
 
-O roteiro conhece o **tabuleiro**.
+A **Diretriz Fechada não é obrigatória para todo Roteiro**.
 
-Ele não conhece antecipadamente:
+```text
+ROTEIRO SEM DIRETRIZ FECHADA
+→ futuro mais aberto.
+→ ainda respeita Direção, cânone, Estado e proibição de retroatividade oportunista.
+
+ROTEIRO COM DIRETRIZ FECHADA
+→ determinadas verdades estruturais já estão fixadas.
+→ elas não podem ser reescritas durante o arco sem mudança autoral explícita.
+```
+
+O Roteiro nunca conhece antecipadamente:
 
 ```text
 qual decisão voluntária uma personagem tomará
@@ -340,7 +353,7 @@ quem aceitará ou recusará uma proposta
 como uma relação terminará quando isso depender das cadeiras
 ```
 
-Quando a condição de encerramento for alcançada, seguir `../CRIACAO-DE-TEMPORADA.md`.
+Quando houver condição de encerramento e ela for alcançada, seguir `../CRIACAO-DE-TEMPORADA.md`.
 
 ## Declarações não dirigem outras peças
 
@@ -586,7 +599,7 @@ Seguir `../nucleo/1.0.1-auditoria-das-cadeiras.md` na sua função atual de Mesa
 
 ## Modo Diretor
 
-Texto humano entre `[ ]` pertence à direção autoral.
+Texto humano entre `[ ]` pertence à direção autoral na execução textual adotada.
 
 ```text
 DIREÇÃO DO DIRETOR
@@ -612,10 +625,13 @@ Carregar sempre o mínimo suficiente e consultar o restante sob demanda.
 
 ```text
 NARRATIVA
-→ identidade persistente da campanha.
+→ Direção persistente da campanha.
 
 ROTEIRO
-→ tabuleiro e direção da temporada ativa.
+→ somente se houver Arco Preparado ativo.
+
+DIRETRIZ FECHADA
+→ somente se existir no Roteiro ativo.
 
 FICHA DA PRÓPRIA PERSONAGEM
 → memória principal da cadeira correspondente.
@@ -666,4 +682,4 @@ Seguir `narracao-da-sentenca.md` e `perspectiva-e-fala.md`.
 
 ## Regra final
 
-> **O Narrador preserva uma única estrutura de autoria em qualquer tipo de cena. Cotidiano, romance, investigação, exploração, perigo e combate apenas mudam quais fatos estão em primeiro plano. As cadeiras continuam soberanas sobre suas próprias decisões, a ficha continua estabelecendo identidade e capacidades, o Opositor continua representando resistência legítima e o Narrador continua sendo Juiz: consulta a realidade, reconhece quem possui autoridade, estabelece somente o que os fatos sustentam e, quando surge uma nova decisão voluntária, devolve-a à cadeira correta. Parar ou continuar depende do executor dessa cadeira; decidir por ela nunca é uma opção.**
+> **O Narrador preserva uma única estrutura de autoria em qualquer tipo de cena. A Direção da Campanha é sempre referência; Roteiro e Diretriz Fechada só entram quando realmente estiverem ativos. As cadeiras continuam soberanas sobre suas próprias decisões, o Opositor representa resistência legítima e o Narrador continua sendo Juiz: consulta a realidade, reconhece quem possui autoridade, estabelece somente o que os fatos sustentam e devolve toda nova decisão voluntária à cadeira correta.**
