@@ -50,7 +50,7 @@ Se a intenção já autoriza continuar e nenhuma nova decisão relevante surgir,
 Exemplo:
 
 ```text
-JOGADOR
+CADEIRA DE A
 → vou passar a tarde estudando.
 
 NARRADOR
@@ -65,7 +65,7 @@ Se o objetivo terminar antes, a sentença pode parar antes.
 
 ## Nova escolha relevante encerra o resumo
 
-O Narrador não pode resumir por cima de um acontecimento que ofereça à cadeira humana uma escolha voluntária significativa capaz de mudar sua continuidade.
+O Narrador não pode resumir por cima de um acontecimento que ofereça a uma personagem uma escolha voluntária significativa capaz de mudar sua continuidade.
 
 O critério não é urgência.
 
@@ -73,8 +73,8 @@ O critério não é urgência.
 fato irrelevante para decidir
 → continuar o resumo.
 
-fato cria escolha humana relevante
-→ PARAR.
+fato cria nova escolha relevante
+→ devolver a decisão à cadeira responsável.
 ```
 
 Isso inclui acontecimentos sociais, afetivos e cotidianos quando realmente mudam as opções da personagem.
@@ -84,44 +84,42 @@ Exemplos:
 ```text
 mensagem pessoal relevante
 → pode levar a responder, procurar alguém, mudar o plano ou continuar como estava.
-→ parar.
+→ a decisão pertence à cadeira da personagem afetada.
 
 convite significativo
-→ aceitar, recusar, negociar ou alterar a intenção pertence ao jogador.
-→ parar.
+→ aceitar, recusar, negociar ou alterar a intenção pertence à cadeira responsável.
 
 nova informação importante
-→ manter ou revisar o plano pertence ao jogador.
-→ parar.
+→ manter ou revisar o plano pertence à cadeira responsável.
 ```
 
-O Narrador não escolhe automaticamente que a personagem humana ignora algo apenas porque sua intenção anterior era longa.
+O Narrador não escolhe automaticamente que uma personagem ignora algo apenas porque sua intenção anterior era longa.
 
-> **Resumo pode atravessar tempo; não pode atravessar uma nova escolha humana.**
+> **Resumo pode atravessar tempo; não pode atravessar uma nova escolha que pertença a outra cadeira.**
 
 ## Conversa dramatizada também preserva agência
 
 Uma conversa não é uma cutscene.
 
-Quando a personagem humana está presente e pode legitimamente ouvir ou participar, o Narrador não deve encadear várias falas substanciais de outras cadeiras atravessando pontos em que o jogador poderia querer falar, interromper, perguntar, discordar, mudar de assunto, agir ou sair.
+Quando uma personagem está presente e pode legitimamente ouvir ou participar, o Narrador não deve encadear várias falas substanciais de outras cadeiras atravessando pontos em que a cadeira dessa personagem poderia querer falar, interromper, perguntar, discordar, mudar de assunto, agir ou sair.
 
 O critério não é quantidade fixa de falas.
 
-Usar o **menor bloco conversacional natural** que preserve o ritmo sem atravessar uma nova escolha humana relevante.
+Usar o **menor bloco conversacional natural** que preserve o ritmo sem atravessar uma nova escolha relevante.
 
 ```text
 fala ou troca breve
-→ nenhum novo ponto relevante de participação humana
+→ nenhum novo ponto relevante de participação
 → pode continuar.
 
 revelação, pergunta, proposta, acusação, provocação, decisão, mudança de assunto ou informação relevante
-→ pode mudar o que a personagem humana quer fazer ou dizer
-→ PARAR.
+→ pode mudar o que uma personagem quer fazer ou dizer
+→ devolver a decisão à cadeira afetada.
 ```
 
 Exemplos de pontos que normalmente abrem uma janela de intervenção:
 
-- pergunta dirigida à personagem humana;
+- pergunta dirigida a uma personagem;
 - informação nova capaz de alterar sua posição;
 - comentário sobre alguém ou algo que ela pode querer contestar;
 - proposta, convite ou plano;
@@ -129,30 +127,29 @@ Exemplos de pontos que normalmente abrem uma janela de intervenção:
 - revelação pessoal ou factual;
 - mudança importante de relação;
 - decisão de outra personagem que afete a cena;
-- mudança de assunto antes que a personagem humana tenha tido oportunidade razoável de reagir ao anterior;
-- pausa natural depois de uma fala substantiva quando a personagem humana está inserida na conversa.
+- mudança de assunto antes que uma cadeira afetada tenha tido oportunidade razoável de reagir ao anterior;
+- pausa natural depois de uma fala substantiva quando uma personagem está inserida na conversa.
 
 ```text
-CADEIRA IA A
+CADEIRA A
 → diz algo relevante.
 
-CADEIRA IA B
-→ pode responder brevemente se a resposta for imediata e não atravessar a oportunidade humana.
+CADEIRA B
+→ pode responder brevemente se a resposta for imediata e não atravessar a oportunidade de C.
 
-SURGE PONTO EM QUE O HUMANO PODE QUERER ENTRAR
-→ parar.
-→ devolver controle.
+SURGE PONTO EM QUE C PODE QUERER ENTRAR
+→ a decisão volta para a CADEIRA DE C.
 ```
 
 Não é necessário transformar diálogo em iniciativa rígida de uma frase por participante. Saudações, confirmações curtas, respostas automáticas e pequenos encadeamentos que não alterem opções podem permanecer no mesmo bloco.
 
-Mas o Narrador não pode produzir páginas de diálogo entre outras personagens e depois devolver ao humano apenas quando o assunto já mudou ou a oportunidade de intervenção passou.
+Mas o Narrador não pode produzir páginas de diálogo entre outras personagens e depois devolver a uma cadeira apenas quando o assunto já mudou ou a oportunidade de intervenção passou.
 
-> **A personagem humana deve receber a conversa enquanto ainda pode participar dela, não um relatório depois que ela terminou.**
+> **A personagem deve receber a conversa enquanto sua cadeira ainda pode participar dela, não um relatório depois que a oportunidade terminou.**
 
-### Permissão para apenas observar
+### Intenção de apenas observar
 
-O Jogador Humano pode declarar que sua personagem pretende apenas ouvir, observar ou deixar as outras conversarem.
+Uma Cadeira de Personagem pode declarar que sua personagem pretende apenas ouvir, observar ou deixar as outras conversarem.
 
 ```text
 "fico ouvindo"
@@ -162,12 +159,12 @@ O Jogador Humano pode declarar que sua personagem pretende apenas ouvir, observa
 
 Essa intenção permite ao Narrador avançar a conversa por um bloco maior enquanto ela continuar válida.
 
-Ainda assim, uma mudança realmente nova pode devolver agência quando tornar plausível que a intenção anterior precise ser reconsiderada, por exemplo:
+Ainda assim, uma mudança realmente nova pode exigir nova decisão quando tornar plausível que a intenção anterior precise ser reconsiderada, por exemplo:
 
 ```text
 assunto muda radicalmente
 segredo importante é revelado
-alguém se dirige diretamente à personagem humana
+alguém se dirige diretamente à personagem
 conflito muda de natureza
 surge decisão que afeta diretamente sua personagem
 ```
@@ -202,7 +199,7 @@ O Narrador não resume por cima de um prazo registrado relevante.
 Exemplo:
 
 ```text
-JOGADOR
+CADEIRA DE A
 → vou estudar o dia todo.
 
 REGISTRO
@@ -228,43 +225,41 @@ O mesmo vale para:
 - condição que muda no tempo;
 - outro fato já estabelecido.
 
-## Aliado ou personagem eventual
+## Outra cadeira durante o resumo
 
-Quando um resumo alcança o momento em que uma personagem eventual precisa escolher algo:
-
-```text
-PERSONAGEM EVENTUAL
-→ cadeira correspondente decide.
-```
-
-A nova intenção dessa personagem pode continuar sendo processada sem devolver automaticamente o foco ao Jogador Humano.
-
-Mas, se sua ação produzir uma nova escolha relevante para a personagem humana:
+Quando um resumo alcança o momento em que outra personagem precisa escolher algo:
 
 ```text
-→ PARAR nesse ponto
-→ apresentar a situação
-→ devolver controle ao humano
+CADEIRA CORRESPONDENTE
+→ decide.
 ```
 
-O Narrador não escolhe a reação humana apenas para preservar o resumo.
+A nova intenção dessa personagem pode continuar sendo processada sem devolver automaticamente o foco à cadeira que iniciou o resumo.
+
+Mas, se sua ação produzir uma nova escolha relevante para outra personagem:
+
+```text
+→ devolver a decisão à cadeira dessa personagem.
+```
+
+O Narrador não escolhe a reação apenas para preservar o resumo.
 
 ## Inimigo ou força adversarial
 
 Quando o resumo alcança uma entrada ou decisão adversarial:
 
 ```text
-→ OPOSITOR assume ou declara movimento
+→ OPOSITOR assume ou declara movimento, quando possuir essa autoridade
 → Tribunal julga a nova situação
 ```
 
-Um plano registrado não autoriza o Narrador a decidir como o vilão age quando chega o momento da escolha.
+Um plano registrado não autoriza o Narrador a decidir por uma personagem que possua cadeira própria quando chega o momento da escolha.
 
-Se o movimento adversarial criar uma nova decisão relevante para a personagem humana, o resumo para nesse ponto.
+Se o movimento adversarial criar uma nova decisão relevante para alguma personagem, o resumo chega ao ponto de contato e a escolha retorna à cadeira correspondente.
 
 ## Quando sair do resumo
 
-Interromper a condensação quando surgir:
+Interromper a condensação ou transferir a execução quando surgir:
 
 - nova decisão voluntária relevante;
 - informação capaz de mudar escolha;
@@ -273,18 +268,32 @@ Interromper a condensação quando surgir:
 - conflito;
 - descoberta importante;
 - prazo ou efeito aplicável;
-- iniciativa de outra personagem que crie uma escolha real para a cadeira humana;
+- iniciativa de outra personagem que crie uma escolha real para uma cadeira;
 - mudança causal que torne o próximo passo incerto.
 
 ```text
 RESUMO
 → algo cria nova escolha
-→ PARAR
+→ identificar a cadeira responsável
 → apresentar a nova situação
-→ abrir nova janela
+→ devolver a decisão
 ```
 
 A escolha não precisa ser urgente. Basta ser relevante o bastante para que continuar automaticamente significasse decidir pela personagem.
+
+Se o executor da cadeira responsável depende de entrada externa:
+
+```text
+→ aguardar essa entrada.
+```
+
+Se o executor pode decidir no mesmo fluxo:
+
+```text
+→ executar a cadeira separadamente e continuar.
+```
+
+> **A nova escolha é uma questão de autoridade; parar ou continuar é uma questão de execução.**
 
 ## Quando continuar resumindo
 
@@ -324,7 +333,7 @@ CADEIRA B ↔ CADEIRA C
 
 Se essas cenas ainda não criarem uma nova escolha relevante para A, elas podem continuar normalmente.
 
-Quando alguma iniciativa alcançar A de modo significativo, o Narrador para no ponto de contato e devolve sua decisão.
+Quando alguma iniciativa alcançar A de modo significativo, a decisão retorna à Cadeira de A.
 
 ## Condensar sem virar relatório
 
@@ -378,4 +387,4 @@ Depois da sentença, fatos que precisem continuar verdadeiros devem ser preserva
 
 ## Regra final
 
-> **Dramatize decisão, descoberta, conflito, relação e ação que precisa ser acompanhada. Resuma rotina, espera, repetição e processo já determinado. Quando qualquer acontecimento criar uma nova escolha relevante para a cadeira humana, pare exatamente ali. Em conversas, preserve janelas naturais de intervenção: diálogo não é cutscene e não pode avançar por cima da oportunidade de participação do jogador.**
+> **Dramatize decisão, descoberta, conflito, relação e ação que precisa ser acompanhada. Resuma rotina, espera, repetição e processo já determinado. Quando qualquer acontecimento criar uma nova escolha relevante, devolva-a à cadeira responsável antes de atravessá-la. Em conversas, preserve janelas naturais de intervenção: diálogo não é cutscene. Se o executor dessa cadeira precisar fornecer entrada externa, aguarde; se puder decidir no mesmo fluxo, execute a cadeira separadamente e continue.**
