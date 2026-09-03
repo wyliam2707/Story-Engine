@@ -2,21 +2,21 @@
 
 Status: REFORMULAÇÃO ATIVA / BASE EXPERIMENTAL
 
-Esta pasta está sendo convertida para um **RPG de autoria narrativa compartilhada**.
+Esta pasta define um **RPG puramente narrativo de autoria distribuída**.
 
-O objetivo do sistema não é produzir cenas por RNG. O objetivo é permitir que várias cadeiras escrevam a mesma história sem que uma delas tome para si a autoridade das outras.
+O motor não depende de dados para produzir a história. Ele organiza quem pode decidir cada parte da ficção, como fatos são preservados, como intenções independentes se encontram e como o Diretor conduz a obra sem precisar escrever tudo sozinho.
 
-> **As cadeiras escrevem. A ficha estabelece fatos. O Narrador julga. A ficção continua.**
+> **As cadeiras escrevem as personagens. A ficha estabelece fatos. O Narrador julga. O Diretor conduz.**
 
 ## Princípio central
 
 A ficha não existe principalmente para calcular chance de sucesso.
 
-Ela existe para registrar:
+Ela registra:
 
 ```text
 quem a personagem é
-→ identidade, natureza, relações e estado persistente
+→ identidade, natureza, relações e fatos persistentes
 
 o que ela sabe
 → conhecimentos e especialidades legítimos
@@ -28,71 +28,156 @@ como ela se compara
 → graduações usadas somente quando uma comparação realmente importa
 ```
 
-Quando a ficção já fornece uma resposta coerente, não se cria uma rolagem apenas para introduzir acaso.
+Quando a ficção já fornece resposta suficiente, não se cria chance apenas para introduzir incerteza.
 
 ```text
-FATOS SUFICIENTES
-→ julgar pela ficção
+FATOS DETERMINAM
+→ Narrador sentencia.
 
-DÚVIDA OU DISCORDÂNCIA ENTRE AUTORIDADES
-→ abrir Mesa somente com as partes afetadas
+DECISÃO REALMENTE DISPONÍVEL A OUTRA CADEIRA
+→ a cadeira decide.
 
-ACASO
-→ só entra se uma regra futura ou a própria Mesa decidir entregar deliberadamente aquela parte da autoria ao acaso
+DÚVIDA OU OBJEÇÃO REAL
+→ Mesa / Auditoria verifica.
+
+DIRETOR FECHOU A QUESTÃO
+→ executar dentro do escopo determinado.
 ```
 
-## Autoria, cadeiras e executores
-
-O motor separa **autoridade narrativa** de **forma de execução**.
+## Estrutura de autoria
 
 ```text
-CADEIRA DE PERSONAGEM
-→ decide voluntariamente por uma personagem.
+DIRETOR
+→ autoridade autoral máxima sobre a direção da ficção.
+→ pode também executar uma Cadeira de Personagem.
+→ pode consultar, orientar ou determinar.
 
-OPOSITOR — OPCIONAL
-→ representa forças adversariais persistentes sem cadeira própria quando a campanha se beneficia de uma autoridade estratégica dedicada.
+CADEIRA DE PERSONAGEM
+→ decide voluntariamente pela própria personagem dentro do espaço que permanece aberto.
 
 NARRADOR / JUIZ
-→ julga o encontro entre decisões e realidade estabelecida.
+→ julga o encontro entre decisões, fatos e realidade estabelecida.
 
-DIREÇÃO AUTORAL
-→ camada fora da ficção para intenção, trajetória, tom ou limite narrativo.
-```
+MESA / AUDITORIA
+→ verifica fatos, coerência, limites e autoridade quando necessário.
+→ informa e alinha; não governa o Diretor.
 
-Separadamente:
+OPOSITOR — OPCIONAL
+→ representa forças adversariais persistentes sem cadeira própria quando a campanha precisa de autoridade estratégica dedicada.
 
-```text
 EXECUTOR
 → pessoa, IA ou outro meio que opera uma cadeira ou função.
 ```
 
-Portanto:
-
 ```text
 CADEIRA
-→ define autoridade.
+→ define autoria da personagem.
 
 EXECUTOR
 → define quem a opera.
-```
 
-Uma Cadeira de Personagem pode ser executada por humano, IA ou outro participante sem mudar sua soberania.
-
-Uma mesma pessoa ou IA pode executar várias cadeiras, mas isso não mistura conhecimento, intenção ou autoridade.
-
-```text
 MESMO EXECUTOR
 ≠
 MESMA CADEIRA
 ```
 
-Na execução textual adotada pelo sistema, colchetes sinalizam **Direção Autoral**:
+## Diretor e espaço aberto
+
+O Diretor não precisa decidir toda a história.
+
+Qualquer cadeira pode iniciar uma conversa, plano, relação, conflito ou ideia dentro de sua autoridade.
+
+O Narrador pode desenvolver mundo neutro e consequências legítimas.
+
+O Opositor pode mover suas forças quando estiver ativo.
+
+O Diretor intervém quando quiser orientar ou fechar algo.
 
 ```text
-[quero que esta luta deixe claro que a Personagem A está em desvantagem]
+DIRETOR NÃO DETERMINOU
+→ o espaço continua emergente.
+
+DIRETOR DETERMINOU
+→ o ponto determinado fica fechado.
+→ o restante continua aberto.
 ```
 
-Isso não é fala, pensamento ou conhecimento da personagem.
+> **A autoridade do Diretor é absoluta sobre aquilo que ele efetivamente determina, mas não se expande automaticamente para aquilo que deixou aberto.**
+
+## Direção não vira conhecimento da personagem
+
+Uma Direção do Diretor existe fora da ficção.
+
+```text
+DIRETOR SABE / DETERMINA
+≠
+PERSONAGEM SABE / QUER
+```
+
+Se o Diretor determina que uma personagem perderá um confronto, ela ainda pode sinceramente tentar vencer quando isso for coerente com sua ficha e conhecimento.
+
+O executor preserva simultaneamente:
+
+```text
+intenção legítima da personagem
++
+resultado fechado pelo Diretor
+```
+
+sem fazer a personagem se sabotar e sem usar sua autonomia para invalidar o que foi determinado.
+
+## `[ ]` na execução textual
+
+Na execução textual adotada pelo sistema:
+
+```text
+[texto]
+→ comunicação do Diretor fora da ficção.
+```
+
+Os colchetes identificam a camada. O conteúdo define a operação.
+
+```text
+[quero que X provoque Y até chegar a Z]
+→ Direção.
+
+[acho que X foi incoerente; justifique]
+→ Análise.
+
+[confira nos livros se isso já estava estabelecido]
+→ Auditoria.
+
+[o que seria mais coerente?]
+→ Consulta.
+
+[isso está errado; corrija segundo o cânone]
+→ Correção.
+```
+
+Quando o Diretor pede auditoria ou análise antes de continuar, a progressão pertinente fica suspensa até a verificação terminar.
+
+## Ser afetado não cria reação automática
+
+```text
+SER AFETADO
+≠
+TER UMA DECISÃO DISPONÍVEL
+```
+
+Uma cadeira só recebe nova decisão quando a personagem realmente possui escolha naquele instante.
+
+Podem importar:
+
+```text
+percepção
+tempo
+oportunidade
+posição
+capacidade
+meio disponível
+```
+
+> **A existência de uma cadeira protege autoria, não garante oposição.**
 
 ## Entrada
 
@@ -107,7 +192,9 @@ Começar ou continuar campanha
 → INICIO-E-RETOMADA.md
 ```
 
-A Direção da Campanha é obrigatória para o START. Arco Preparado, Diretriz Fechada e Opositor são estruturas opcionais usadas somente quando a campanha realmente precisa delas.
+A Direção da Campanha é obrigatória para o START.
+
+Arco Preparado, Diretriz Fechada e Opositor são estruturas opcionais.
 
 ## Estrutura
 
@@ -125,85 +212,67 @@ regras-basicas/
 
 ## Núcleo
 
-O Núcleo define autoria, julgamento, comparação e continuidade.
+O Núcleo define autoria, julgamento, direção e continuidade.
 
-Arquivos centrais ativos:
+Arquivos centrais:
 
 ```text
 nucleo/0.0-autoria-narrativa.md
-→ filosofia e autoridade do sistema.
+→ filosofia, Diretor, Direção e espaço aberto.
 
 nucleo/0.1-resolucao.md
-→ como a ficção resolve ações e conflitos sem exigir RNG.
+→ fatos determinam, decisão real disponível e Direção fechada.
 
 nucleo/0.8-tempo-e-acoes.md
-→ continuidade temporal, intenções persistentes e devolução de novas decisões à cadeira correta.
+→ continuidade temporal e intenções persistentes.
 
 nucleo/1.0-tribunal.md
-→ soberania das cadeiras, separação entre Cadeira e Executor e Direção Autoral.
+→ estrutura de autoridade.
 
 nucleo/1.0.1-auditoria-das-cadeiras.md
-→ quando abrir Mesa e quem realmente precisa participar.
+→ Mesa sob demanda e validação factual de objeções.
 
 nucleo/1.1-narrador.md
-→ função do Narrador como Juiz.
+→ Narrador como Juiz.
+
+nucleo/1.2-jogador-humano.md
+→ execução humana e separação entre Cadeira e Diretor.
+
+nucleo/1.3-jogador-ia.md
+→ IA dedicada preservando personagem e Direção.
 
 nucleo/1.5-opositor.md
-→ função opcional para oposição persistente sem cadeira própria.
+→ função adversarial opcional.
 
 nucleo/1.6-execucao-por-uma-unica-ia.md
-→ como uma mesma IA pode executar várias autoridades sem fundi-las.
+→ separação técnica entre várias autoridades executadas pela mesma IA.
 
 nucleo/1.7-criacao-emergente.md
-→ criação de mundo neutro, autoria pessoal e preenchimento epistêmico.
+→ criação neutra e preenchimento epistêmico.
 
 nucleo/1.8-origem-de-conflitos.md
-→ fontes legítimas de oposição e limites contra reconstrução retroativa.
+→ fontes legítimas de oposição e proibição de reconstrução retroativa.
 ```
-
-Os antigos marcadores de rolagens, Mana, Vida/Mente, Potência, dano, iniciativa e outros subsistemas do motor anterior foram removidos da árvore ativa.
-
-```text
-HISTÓRICO DO GIT
-→ preserva as versões antigas quando for necessário consultar a evolução do sistema.
-
-ÁRVORE ATIVA
-→ contém somente documentos que ainda cumprem função no motor atual ou estão em revisão real para essa função.
-```
-
-> **Legado histórico não precisa permanecer como arquivo ativo para continuar recuperável.**
 
 ## Jogador e ficha
 
-A ficha funciona principalmente como **fonte de fatos narrativos e comparação**.
+A ficha é fonte canônica da personagem.
 
-Exemplos:
+Graduações `[1]–[3]` existem apenas para comparar intensidade de capacidades equivalentes quando isso realmente importa.
 
 ```text
-Personagem A
-→ Especialista em Ocultismo.
-
-Personagem B
-→ conhece política, protocolo e costumes de sua cultura de origem.
-
-Personagem C
-→ Força Sobre-Humana [1].
-
-Personagem D
-→ Força Sobre-Humana [2].
+[1] < [2] < [3]
 ```
 
-`[2]` não significa bônus de +2 em uma rolagem. Significa que, quando ambas as capacidades forem diretamente comparáveis e os demais fatos não alterarem a situação, `[2]` é superior a `[1]`.
+Elas não são bônus de teste, dano ou dificuldade.
 
-A ficha continua sendo a fonte canônica primária da personagem conforme `jogador/1.5-autoridade-da-ficha.md`.
+A cadeira usa apenas a própria ficha, Estado pessoal, conhecimento legítimo e cena perceptível.
 
 ## Regra de localização
 
-`regras-basicas/` contém somente regras, procedimentos e modelos.
-
 ```text
 regras-basicas/
-→ como o sistema funciona.
+→ como o motor funciona.
 
 campanhas/<nome>/
 → o que é verdade naquela campanha.
@@ -213,75 +282,91 @@ campanhas/<nome>/
 
 ## Fluxo de cena
 
-Por padrão:
+```text
+DECLARAÇÃO
+→ identificar Direção pertinente
+→ separar intenção de resultado presumido
+→ conferir fatos
+→ fatos determinam?
+   SIM → sentenciar
+   NÃO → continuar
+→ existe decisão real disponível a outra cadeira?
+   SIM → executar a cadeira
+   NÃO → não criar reação
+→ auditar objeção factual, quando houver
+→ Narrador julga
+→ narrar
+→ devolver nova decisão realmente disponível à autoridade correta
+```
+
+A Mesa não é ritual obrigatório.
+
+Ela abre quando existe algo real para verificar ou alinhar.
+
+## Opositor
+
+Opositor é opcional.
+
+Ele não existe para garantir dificuldade.
+
+```text
+NÃO HÁ OPOSIÇÃO LEGÍTIMA
+→ não fabricar.
+
+HÁ OPOSIÇÃO LEGÍTIMA
+→ usar somente fatos, meios, conhecimento e oportunidade realmente existentes.
+```
+
+## Registro
 
 ```text
 DECLARAÇÃO
-→ identificar o que pertence à própria cadeira
-→ conferir fatos relevantes
-→ verificar se outra autoridade é afetada
-→ permitir objeção factual quando necessária
-→ Narrador julga
-→ narrar
-→ devolver toda nova decisão voluntária à cadeira responsável
+→ intenção.
+
+JULGAMENTO
+→ estabelece realidade.
+
+NARRAÇÃO
+→ apresenta realidade.
+
+REGISTRO
+→ preserva o que precisa continuar verdadeiro.
 ```
 
-Não existe obrigação de abrir uma auditoria formal para cada frase.
+Salvar não cria nova ficção.
 
-A Mesa abre somente quando existe:
+## Motor legado
+
+Não reativar automaticamente:
 
 ```text
-dúvida real
-discordância
-conflito de autoridade
-direção autoral que afeta outra cadeira
-necessidade de esclarecer fatos antes da prosa
+Atributo + Perícia
+2d6 universal
+Potência de Execução
+Defesa / Resistência matemáticas
+Vida universal
+Mente universal
+Mana universal
+iniciativa numérica
+rodadas fixas
 ```
 
-Se ninguém afetado discorda e os fatos estão claros, a história continua.
+O Git preserva o histórico. A árvore ativa deve representar apenas o motor atual.
 
-## Trava operacional
+## O sistema não governa o Diretor
 
-Narrar não significa decidir arbitrariamente.
+O motor pode apontar brevemente uma contradição relevante e o Diretor pode pedir explicação ou alternativas.
 
-O Narrador deve primeiro saber quais fatos e autoridades sustentam a continuação da cena.
+Se, compreendendo a questão, o Diretor determinar:
 
 ```text
-FATOS + AUTORIDADES
-→ JULGAMENTO
-→ SENTENÇA NARRATIVA
-→ PROSA
+faça assim mesmo
 ```
 
-A diferença para o motor anterior é importante:
+a execução segue.
 
-```text
-INCERTEZA
-≠ rolagem obrigatória
-
-DISPUTA
-≠ rolagem obrigatória
-
-FICÇÃO JÁ RESPONDE
-→ seguir a ficção
-```
-
-## Estado atual da reformulação
-
-A árvore ativa já não preserva subsistemas mortos apenas como aviso de que não devem ser usados.
-
-Um arquivo pode continuar marcado como `REFORMULAÇÃO` quando ainda precisa de revisão real, mas sua permanência deve responder a uma função atual do sistema.
-
-```text
-FUNÇÃO ATUAL EXISTE
-→ preservar e revisar.
-
-SÓ EXPLICA MECÂNICA MORTA
-→ remover; o Git já preserva o histórico.
-```
-
-Esse critério vale para futuras varreduras de limpeza.
+> **O sistema protege a obra contra violações acidentais de autoridade e coerência, não contra decisões conscientes de seu próprio Diretor.**
 
 ## Regra final
 
-> **Este sistema é uma estrutura para vários autores contarem uma história juntos. Cadeiras definem autoridade; executores apenas as operam. Cada cadeira conserva sua soberania; a ficha fornece fatos, conhecimentos, capacidades e comparações; o Opositor só entra quando uma campanha precisa dessa função; o Narrador julga coerência; e o acaso só recebe autoria quando deliberadamente escolhido.**
+> **Este é um RPG puramente narrativo de autoria distribuída. As cadeiras escrevem personagens independentes; a ficha fornece fatos; o Narrador julga; a Mesa audita; o Opositor só entra quando necessário; e o Diretor conduz a obra, podendo deixar a história emergir ou fechar exatamente os pontos que decidir fechar.**
