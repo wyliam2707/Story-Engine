@@ -306,8 +306,38 @@ Não produzir nova ficção antes de reconstruir o mínimo necessário.
 9. restaurar intenções, processos e prazos;
 10. identificar Auditoria pendente;
 11. identificar o primeiro ponto ainda aberto;
-12. só então continuar a ficção.
+12. restaurar o indicador operacional da execução;
+13. confirmar explicitamente que Narrador/Juiz e Cadeiras executadas pela IA estão reconstruídos;
+14. só então continuar a ficção.
 ```
+
+### Confirmação operacional
+
+Depois de toda reancoragem, o executor IA deve confirmar explicitamente que o sistema foi reconstruído antes de voltar à ficção.
+
+Durante o jogo, cada resposta de execução deve terminar com um indicador operacional curto:
+
+```text
+[W4D: OK | Narrador/Juiz ✓ | Cadeiras IA ✓]
+```
+
+Esse indicador significa que Narrador/Juiz e os pacotes separados das Cadeiras atribuídas à IA permanecem operacionais. Não significa que todas as Cadeiras estão presentes na cena.
+
+Quando existir uma decisão concreta aberta para uma Cadeira, o indicador pode especificá-la:
+
+```text
+[W4D: OK | Decisão aberta: KARA — Cadeira]
+```
+
+Se o executor perceber que perdeu contexto suficiente para não executar corretamente uma Cadeira, o Narrador/Juiz ou a separação entre autoridades, não deve declarar `OK` nem improvisar continuidade. Deve parar a ficção e indicar a necessidade de reancoragem.
+
+Exemplo:
+
+```text
+[W4D: REANCORAR | contexto operacional insuficiente]
+```
+
+O indicador é metaconversa operacional. Não entra no Livro nem se torna fato ficcional.
 
 ## Reconstruir sem contaminar
 
