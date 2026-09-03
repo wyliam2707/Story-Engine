@@ -27,11 +27,11 @@ Conceito: bruxa ancestral extremamente experiente, mãe e principal formadora de
 
 Descrição curta: Morgana cresceu e viveu dentro da tradição dos Arcanus por um período muito superior ao de Daniel.
 
-Enquanto Daniel desenvolveu excelência em barreiras, controle e contenção, Morgana desenvolveu poder direto, fortalecimento pessoal, resistência e atuação de linha de frente.
+Enquanto Daniel levou proteção, selamento e controle a níveis muito altos, Morgana desenvolveu poder direto, fortalecimento pessoal, resistência e atuação de linha de frente.
 
 Ela não é simplesmente mais poderosa que Daniel.
 
-Os dois possuem a mesma base familiar e capacidades de escala comparável, mas investiram sua experiência em lados diferentes da tradição.
+Os dois dominam o mesmo repertório familiar e possuem a mesma matriz de capacidade, mas investiram sua experiência em lados diferentes da tradição.
 
 ## 3 — Competências e Conhecimentos
 
@@ -83,44 +83,51 @@ Morgana tende a utilizar magia de forma direta e incorporada ao próprio movimen
 
 Quando Daniel prefere controlar uma situação, Morgana tende mais facilmente a atravessá-la.
 
+### Repertório Arcanus
+
+Morgana e Daniel foram formados na mesma tradição familiar e compartilham os mesmos seis grandes domínios mágicos. A diferença entre os dois está no patamar de especialização e na forma preferida de aplicar cada domínio, não em possuírem repertórios diferentes.
+
+A matriz de especialização de ambos segue o padrão **3 / 2 / 2 / 1 / 1 / 1**.
+
 ### Poderes
 
 --- PODER ARCANO [3 — ÁPICE]
 Especialidade central de Morgana.
 
-Pode aplicar força mágica diretamente através de impactos, projeções de energia e outras manifestações diretas.
+Pode aplicar força mágica diretamente através de impactos, projeções de energia e outras manifestações ofensivas.
 
-É o equivalente funcional da Barreira Arcana [3] de Daniel: mesma excelência, aplicação oposta.
+É o equivalente funcional da Proteção e Selamento [3] de Daniel: mesma excelência dentro da tradição, aplicação quase oposta.
 
---- FORTALECIMENTO ARCANO [2 — ELITE]
-Pode reforçar temporariamente o próprio corpo ou, quando necessário, outras pessoas.
+--- FORTALECIMENTO E RESISTÊNCIA [2 — ELITE]
+Morgana pode reforçar magicamente o próprio corpo ou, quando necessário, outras pessoas.
 
-Em si mesma, pode ampliar força, velocidade, estabilidade e capacidade física.
+O mesmo domínio permite ampliar força, velocidade, estabilidade e capacidade física e também sustentar reforços capazes de suportar forças muito superiores às humanas.
 
---- RESISTÊNCIA ARCANA [2 — ELITE]
-Pode sustentar reforços mágicos capazes de permitir que seu corpo suporte forças muito superiores às humanas.
+Em Morgana, esse campo é uma das principais bases de seu estilo de combate de linha de frente. Sua resistência extraordinária depende de magia; não é uma resistência natural kryptoniana.
 
-Não é resistência natural kryptoniana; depende de magia.
+--- MOBILIDADE E TELEPORTE [2 — ELITE]
+Morgana manipula magicamente deslocamento e posição no espaço.
 
---- BARREIRA ARCANA [1 — EXTRAORDINÁRIO]
-Conhece e utiliza barreiras mágicas, mas não possui a especialização extrema de Daniel.
+Pode utilizar voo, impulsos, movimentação tridimensional e abrir portais entre locais adequadamente definidos.
 
-Para Morgana, barreiras são uma ferramenta.
+Seu domínio espacial também permite aplicações perceptivas quando constrói magia especificamente para ler relações de posição ao redor. A percepção espacial demonstrada em ficção — incluindo reconstruir o conteúdo visível na tela do celular de Daniel dentro da Casa Arcanus — é uma técnica desse domínio, não um sétimo poder separado.
 
-Para Daniel, são sua principal arte.
+Essa técnica não equivale a onisciência, rastreamento universal ou acesso automático a qualquer lugar; alcance, contexto e execução continuam relevantes.
 
---- MOBILIDADE ARCANA [1 — EXTRAORDINÁRIO]
-Pode utilizar magia para voo, impulsos e movimentação tridimensional.
+--- PROTEÇÃO E SELAMENTO [1 — EXTRAORDINÁRIO]
+Morgana conhece a arte Arcanus de erguer barreiras, proteger posições, conter forças e impor selos sobre criaturas, passagens ou fenômenos.
 
---- TELEPORTE [1 — EXTRAORDINÁRIO]
-Pode abrir portais seguindo os princípios da tradição Arcanus.
+É uma ferramenta legítima de seu repertório, mas não sua especialidade. Onde Daniel tende a construir limites, Morgana tende a utilizar proteção suficiente para continuar avançando.
 
---- PERCEPÇÃO ESPACIAL [1 — EXTRAORDINÁRIO]
-Morgana pode estender percepção mágica ao espaço ao seu redor e acompanhar detalhes que não dependem de sua linha normal de visão.
+--- CONTROLE ARCANO [1 — EXTRAORDINÁRIO]
+Morgana pode manipular forças, objetos, trajetórias e efeitos através da magia.
 
-Em ficção, demonstrou precisão suficiente para reconstruir o conteúdo visível na tela do celular de Daniel enquanto ele digitava dentro da Casa Arcanus, sem tocar no aparelho nem olhar por cima do ombro.
+Conhece telecinese, retenção e reposicionamento, mas costuma empregar controle como apoio para uma solução mais direta em vez de fazer dele o centro do confronto.
 
-A capacidade não equivale a onisciência, rastreamento universal ou acesso automático a qualquer lugar; alcance, contexto e execução continuam relevantes.
+--- CURA MÁGICA [1 — EXTRAORDINÁRIO]
+Morgana pode estabilizar feridos e acelerar processos de recuperação por magia.
+
+É uma capacidade real da tradição Arcanus, mas não uma área em que tenha concentrado sua especialização. Não equivale a cura absoluta, regeneração ilimitada ou ressurreição automática.
 
 ### Limites e Vulnerabilidades
 
@@ -179,9 +186,9 @@ Relações relevantes:
 --- Daniel Merlin de Arcanus
 Filho e único membro próximo de sua família ainda vivo.
 
-Morgana foi uma das principais responsáveis por sua educação mágica.
+Morgana foi uma das principais responsáveis por sua educação mágica. Os dois compartilham o mesmo repertório Arcanus, mas desenvolveram especializações diferentes.
 
-Seu estilo direto ajudou indiretamente Daniel a desenvolver barreiras cada vez melhores.
+Seu estilo direto ajudou indiretamente Daniel a levar Proteção e Selamento a um nível muito superior ao dela.
 
 A relação entre os dois inclui afeto, intimidade familiar, provocações e diferenças claras de personalidade e estilo mágico.
 
@@ -201,7 +208,7 @@ Morgana participou diretamente da formação mágica do filho.
 
 Seu método de treinamento frequentemente privilegiava experiência prática e capacidade real de lidar com situações perigosas.
 
-A necessidade de se defender do estilo direto da mãe contribuiu para Daniel transformar barreiras em sua maior especialidade.
+Daniel aprendeu o mesmo repertório fundamental que ela, mas seguiu uma especialização diferente. A necessidade de se defender do estilo direto da mãe contribuiu para transformar Proteção e Selamento em sua maior especialidade.
 
 ## Fatos já estabelecidos em ficção
 
