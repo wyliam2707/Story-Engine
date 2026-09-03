@@ -26,7 +26,8 @@ PASSO 04 — ESTADO INICIAL
 → registrar a situação concreta de abertura.
 
 ESTRUTURA OPCIONAL
-→ Temporada / Arco Preparado / Diretriz Fechada, quando a campanha se beneficiar disso.
+→ Arco Preparado / Temporada, quando a campanha se beneficiar disso.
+→ Diretriz Fechada somente quando esse arco possuir verdades que realmente precisam ser fechadas antes do jogo.
 
 DEPOIS
 → pareamento mínimo, quando necessário
@@ -103,6 +104,9 @@ TRAMA PREPARADA
 
 TEMPORADA
 → opcional.
+
+DIRETRIZ FECHADA
+→ opcional inclusive dentro de uma Temporada.
 ```
 
 Uma trama secundária interessante não reescreve automaticamente a Direção da Campanha.
@@ -171,15 +175,7 @@ MESMA CADEIRA
 
 Cada personagem com cadeira própria mantém conhecimento, intenção e soberania separados mesmo quando o mesmo executor opera várias cadeiras.
 
-A palavra `Mesa` fica reservada ao procedimento temporário de alinhamento definido pelo Núcleo:
-
-```text
-DÚVIDA / DISCORDÂNCIA / CONFLITO REAL
-→ abrir Mesa.
-
-QUESTÃO RESOLVIDA
-→ encerrar Mesa e voltar à ficção.
-```
+A palavra `Mesa` fica reservada ao procedimento temporário de alinhamento definido pelo Núcleo.
 
 ## PASSO 03 — Criar as Fichas Iniciais
 
@@ -302,7 +298,8 @@ QUEREMOS UM ARCO PREPARADO?
 
 SIM
 → seguir CRIACAO-DE-TEMPORADA.md.
-→ registrar roteiro e Diretriz Fechada conforme esse módulo exigir.
+→ registrar somente a preparação realmente necessária no Roteiro.
+→ criar Diretriz Fechada apenas se houver verdades que precisem existir e permanecer fixas antes de serem descobertas, enfrentadas ou testadas.
 
 NÃO
 → nenhuma Temporada é exigida.
@@ -320,12 +317,14 @@ TEMPORADA / ARCO PREPARADO
 → opcional.
 
 DIRETRIZ FECHADA
-→ existe quando a estrutura escolhida a exigir.
+→ opcional dentro do Arco Preparado.
 ```
 
-Quando uma Temporada estiver ativa, seu roteiro estabelece o tabuleiro estrutural daquele arco, não cenas futuras nem decisões voluntárias das personagens.
+Quando uma Temporada estiver ativa, seu Roteiro registra a preparação daquele arco, não cenas futuras nem decisões voluntárias das personagens.
 
-Quando não houver Temporada ativa, a Direção da Campanha continua sendo a referência para impedir crescimento arbitrário ou mudança invisível de proposta.
+Quando houver Diretriz Fechada, ela protege somente as verdades estruturais explicitamente fechadas.
+
+Quando não houver Diretriz Fechada, o arco ainda respeita Direção, cânone, Estado e proibição de retroatividade oportunista.
 
 ## START
 
@@ -341,6 +340,7 @@ Estado inicial está definido?
 CONTROLE das peças está claro?
 Configuração das Cadeiras registra os Executores?
 se um Arco Preparado foi escolhido, sua preparação necessária está concluída?
+se esse arco realmente precisa de Diretriz Fechada, ela foi registrada?
 ```
 
 Não exigir por padrão:
@@ -352,7 +352,7 @@ Diretriz Fechada
 condição de encerramento de arco
 ```
 
-Esses elementos só são requisitos quando a campanha escolheu usar a estrutura correspondente.
+Esses elementos só são requisitos quando a estrutura escolhida realmente os utiliza.
 
 Se faltar algo essencial:
 
@@ -388,19 +388,12 @@ FICHAS
 
 TEMPORADA / ARCO PREPARADO
 → opcional e renovável.
+
+DIRETRIZ FECHADA
+→ existe somente enquanto alguma estrutura ativa precisar dela.
 ```
 
-Quando um arco preparado termina:
-
-```text
-resolver o arco
-→ escrever epílogo quando pertinente
-→ consolidar mudanças
-→ arquivar roteiro
-→ perguntar “E agora?” quando isso fizer sentido para a execução
-```
-
-A campanha pode então criar outro arco preparado ou simplesmente continuar de modo emergente dentro de sua Direção.
+Quando um arco preparado termina, consolidar mudanças e decidir se haverá outro arco preparado ou continuidade emergente.
 
 ## Criação emergente depois do START
 
@@ -411,15 +404,16 @@ Sempre vale:
 ```text
 não fabricar vantagem ou obstáculo retroativamente para responder a uma ação já declarada
 não mudar invisivelmente a Direção da Campanha
+não contradizer fatos já estabelecidos
 ```
 
 Quando houver uma Diretriz Fechada ativa, vale também:
 
 ```text
-não alterar a Diretriz Fechada por improvisação
-não introduzir retroativamente um novo problema estrutural que a torne falsa ou incompleta
+não alterar por improvisação as verdades que foram fechadas
+não introduzir retroativamente estrutura que torne essas verdades falsas ou incompletas
 ```
 
 ## Regra final
 
-> **Nova campanha exige Direção, autoridades necessárias, fichas iniciais suficientes e um Estado Inicial concreto. A Direção informa que história estamos tentando escrever sem precisar predeterminar uma trama. Temporadas, Arcos Preparados e Diretrizes Fechadas são estruturas opcionais: quando escolhidas, organizam um arco; quando ausentes, a campanha pode crescer emergentemente sem perder sua identidade narrativa.**
+> **Nova campanha exige Direção, autoridades necessárias, fichas iniciais suficientes e um Estado Inicial concreto. A Direção informa que história estamos tentando escrever sem precisar predeterminar uma trama. Temporadas são opcionais; e, mesmo quando existe um Arco Preparado, a Diretriz Fechada só aparece se houver verdades que realmente precisem ser fixadas antes de serem descobertas, enfrentadas ou testadas.**
