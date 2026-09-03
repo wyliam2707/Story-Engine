@@ -18,8 +18,12 @@ Executor: IA
 CADEIRAS
 - Daniel → Executor: HUMANO
 - Kara Zor-El → Executor: IA
+- Clark Kent / Superman → Executor: IA, recorrente
+- Morgana de Arcanus → Executor: IA, recorrente
 
-Personagens secundárias podem receber Cadeira eventual quando uma decisão voluntária relevante exigir autoria própria.
+Clark e Morgana são familiares recorrentes dos protagonistas, não apenas figuras utilitárias de cena. Continuam coadjuvantes, mas preservam autoria própria quando possuem uma decisão voluntária realmente disponível.
+
+Outras personagens secundárias podem receber Cadeira eventual quando uma decisão voluntária relevante exigir autoria própria.
 
 ## Módulos
 
@@ -48,4 +52,4 @@ Esta campanha é uma fanfic.
 
 Referências externas da DC Comics podem preencher lacunas quando necessário, mas os arquivos desta campanha têm prioridade sobre qualquer versão externa dos personagens.
 
-Personagens como membros da Liga da Justiça e a mãe de Daniel entram inicialmente como figuras de cena. Fichas próprias só serão criadas se adquirirem importância persistente suficiente para justificar uma fonte canônica separada.
+Clark Kent e Morgana de Arcanus possuem fichas próprias por sua importância familiar persistente. Outros membros da Liga da Justiça e demais figuras secundárias recebem ficha própria somente se adquirirem importância persistente suficiente para justificar uma fonte canônica separada.
