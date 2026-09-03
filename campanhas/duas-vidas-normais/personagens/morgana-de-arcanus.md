@@ -113,6 +113,13 @@ Pode utilizar magia para voo, impulsos e movimentação tridimensional.
 --- TELEPORTE [1 — EXTRAORDINÁRIO]
 Pode abrir portais seguindo os princípios da tradição Arcanus.
 
+--- PERCEPÇÃO ESPACIAL [1 — EXTRAORDINÁRIO]
+Morgana pode estender percepção mágica ao espaço ao seu redor e acompanhar detalhes que não dependem de sua linha normal de visão.
+
+Em ficção, demonstrou precisão suficiente para reconstruir o conteúdo visível na tela do celular de Daniel enquanto ele digitava dentro da Casa Arcanus, sem tocar no aparelho nem olhar por cima do ombro.
+
+A capacidade não equivale a onisciência, rastreamento universal ou acesso automático a qualquer lugar; alcance, contexto e execução continuam relevantes.
+
 ### Limites e Vulnerabilidades
 
 --- Conjuração complexa exige execução
@@ -162,7 +169,8 @@ Hábitos e tendências:
 - pode utilizar magia para assuntos que Daniel considera completamente banais;
 - observa Daniel com facilidade;
 - demonstra curiosidade sobre a vida amorosa do filho;
-- seu treinamento mágico tende a ser direto e prático.
+- seu treinamento mágico tende a ser direto e prático;
+- tende a interpretar limites de maneira bastante literal quando isso lhe permite encontrar uma brecha divertida.
 
 Relações relevantes:
 
@@ -201,9 +209,11 @@ A necessidade de se defender do estilo direto da mãe contribuiu para Daniel tra
 - possui meios mágicos de chamar Daniel à distância;
 - sabe utilizar portais;
 - existe um caldeirão no porão da Casa Arcanus;
-- sabe que Daniel conheceu uma garota que considera normal;
-- sabe que eles marcaram um almoço;
-- aceitou não investigar a garota por meios mágicos após Daniel estabelecer esse limite.
+- sabe que Daniel conheceu Kara, uma garota que ele considera normal;
+- sabe que Daniel e Kara já almoçaram juntos;
+- sabe que existe flerte entre os dois e que discutiram a possibilidade de sair para dançar;
+- aceitou não investigar Kara por rastreamento, leitura de mente, hipnose, feitiços de localização, espíritos ou meios mágicos equivalentes explicitamente proibidos por Daniel;
+- posteriormente utilizou percepção espacial para acompanhar o conteúdo da tela de Daniel enquanto ele digitava dentro da Casa Arcanus, explorando uma brecha que não havia sido explicitamente proibida.
 
 ## Pontos ainda abertos
 
