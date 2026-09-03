@@ -1,10 +1,10 @@
 # Narração da Sentença
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define **como o Narrador transforma uma sentença já julgada em ficção**.
 
-A realidade é estabelecida em `../nucleo/` e pelas regras de resolução.
+A realidade é estabelecida pelo Núcleo, pelas decisões das cadeiras, pelas Direções do Diretor e pelo julgamento.
 
 A narração apresenta essa realidade.
 
@@ -15,14 +15,17 @@ A narração apresenta essa realidade.
 O Narrador só começa a prosa conclusiva depois de saber o que realmente aconteceu.
 
 ```text
-DECLARAÇÕES
+DIREÇÃO PERTINENTE
++
+DECLARAÇÕES DAS CADEIRAS
++
+FATOS
 → JULGAMENTO
-→ RESOLUÇÃO, se necessária
-→ RESULTADO ESTABELECIDO
+→ SENTENÇA
 → NARRAÇÃO
 ```
 
-Se ainda existe uma incerteza que precisa de teste, ela é resolvida antes da conclusão narrativa.
+Se ainda existe decisão, auditoria ou questão factual pendente que precisa ser resolvida antes da consequência, não narrar por cima dela.
 
 ## O que a cena precisa comunicar
 
@@ -39,53 +42,75 @@ Quando relevante, a sentença deve deixar claro:
 
 A prosa pode ser literária, mas não deve esconder causalidade.
 
-## Resultado vira ficção
+## Sentença vira ficção
 
-Um resultado mecânico não precisa aparecer apenas como `sucesso` ou `falha`.
+A narração escolhe **como mostrar** aquilo que já foi estabelecido.
 
-Ele pode aparecer na cena como:
+Pode apresentar, conforme a sentença:
 
 ```text
-FALHA
-→ o objetivo não foi alcançado.
-→ consequência somente quando fizer parte do risco concreto.
+OBJETIVO ALCANÇADO
+→ mostrar como a ação produziu a consequência julgada.
 
-SUCESSO COM CONSEQUÊNCIA
-→ o objetivo principal foi alcançado.
-→ uma consequência ligada ao risco também permanece ou surge.
+OBJETIVO NÃO ALCANÇADO
+→ mostrar o limite real encontrado.
 
-SUCESSO
-→ objetivo alcançado sem consequência adicional criada pelo teste.
-
-SUCESSO EXCEPCIONAL
-→ objetivo alcançado de maneira especialmente favorável.
-→ quando houver espaço ficcional, benefício adicional diretamente relacionado à ação.
+CUSTO OU CONSEQUÊNCIA
+→ mostrar somente aquilo que decorreu legitimamente da situação.
 
 TEMPO
-→ a tentativa consumiu parte do intervalo.
+→ mostrar ou condensar o intervalo realmente transcorrido.
 
-DESGASTE
-→ recurso, condição ou posição realmente mudou.
+DESGASTE / CONDIÇÃO
+→ apresentar mudança concreta já julgada.
 
 DESCOBERTA
-→ algo foi legitimamente percebido ou concluído.
+→ mostrar o que foi legitimamente percebido, aprendido ou concluído.
+
+DIREÇÃO FECHADA DO DIRETOR
+→ apresentar o resultado determinado sem inventar conteúdo extra fora de seu escopo.
 ```
 
-A narração escolhe **como mostrar** o resultado, sem mudar seu peso.
+A prosa não transforma um resultado em outro.
 
-Um sucesso com consequência continua sendo sucesso no objetivo principal. A prosa não deve transformá-lo em falha disfarçada.
+## Direção do Diretor na narração
 
-## Detalhe narrativo não é licença para criar fato novo
+Quando o Diretor fecha algo, a narração respeita exatamente esse escopo.
+
+```text
+DIRETOR
+→ A perde.
+```
+
+A narração deve chegar à derrota de A.
+
+Isso não autoriza inventar automaticamente:
+
+```text
+que A se rende
+que A sente medo
+que A queria perder
+que A sofre ferimento permanente
+fala exata
+motivo emocional
+forma específica da derrota
+```
+
+salvo quando esses elementos também estiverem estabelecidos por Direção, cadeira, fatos ou julgamento.
+
+> **Direção fecha o que foi determinado. A prosa não usa essa autoridade para preencher o restante arbitrariamente.**
+
+## Detalhe narrativo não é licença para criar fato funcional
 
 O Narrador pode acrescentar detalhes de apresentação quando forem coerentes e não alterarem a realidade funcional da cena.
 
-Exemplos de detalhes normalmente seguros:
+Exemplos normalmente seguros:
 
-- textura de uma superfície já existente;
-- intensidade da luz já compatível com o local;
+- textura de superfície já existente;
+- intensidade de luz compatível;
 - ruído ambiente plausível;
-- cheiro coerente com algo presente;
-- pequenos gestos já compatíveis com a ação julgada;
+- cheiro coerente;
+- pequenos gestos compatíveis com a ação julgada;
 - variações de frase que não criem nova decisão.
 
 Mas a narração não pode inventar, apenas para enriquecer a prosa, algo que altere:
@@ -109,7 +134,7 @@ DETALHE DE APRESENTAÇÃO
 → pode dar forma ao que já existe.
 
 FATO QUE MUDA A SITUAÇÃO
-→ precisa vir do cenário, Registro, declaração legítima ou julgamento aplicável.
+→ precisa vir de fonte, declaração legítima, Direção ou julgamento.
 ```
 
 > **A prosa pode colorir a realidade. Não pode aumentar o tabuleiro escondido dentro da descrição.**
@@ -137,14 +162,6 @@ A cena apresenta apenas aquilo que a perspectiva atual pode legitimamente:
 
 Se a causa real estiver oculta, mostrar sinais observáveis sem entregar automaticamente a explicação.
 
-Exemplo:
-
-```text
-A chama toca a madeira, mas não aquece a superfície.
-```
-
-Isso pode ser mostrado sem afirmar imediatamente a natureza oculta do fenômeno.
-
 ## Clareza causal
 
 A ordem narrada deve respeitar a ordem real dos acontecimentos.
@@ -152,66 +169,46 @@ A ordem narrada deve respeitar a ordem real dos acontecimentos.
 ```text
 porta abre
 → personagem atravessa
-→ disparo ocorre
+→ algo acontece
 ```
 
-não pode virar:
-
-```text
-personagem já está do outro lado
-→ depois a porta é descrita abrindo
-```
-
-quando essa inversão mudaria posição ou compreensão da cena.
+não deve ser invertido quando a inversão mudaria posição, oportunidade ou compreensão.
 
 ## Clareza espacial
 
-Em situações em que posição importa, o Narrador deve manter compreensível:
+Quando posição importa, manter compreensível:
 
 ```text
 quem está onde
 quem alcança quem
 qual caminho foi percorrido
-onde ocorreu a interrupção
+onde ocorreu interrupção
 como a posição terminou
 ```
 
-Durante ação rápida, clareza vale mais do que ornamentação.
+Durante ação rápida, clareza vale mais que ornamentação.
 
-## Mecânica e prosa
+## Narrar capacidade sem converter em números
 
-Quando for útil mostrar uma resolução, apresentar apenas a mecânica necessária e depois retornar à ficção.
-
-Exemplo de disputa:
+Graduações, quando usadas no julgamento, não precisam aparecer como números na prosa.
 
 ```text
-Teste: 2d6 + Furtividade - Percepção + situação
-Resultado: sucesso com consequência
+JULGAMENTO
+→ Força [2] supera Força [1] no confronto direto pertinente.
+
+PROSA
+→ mostrar a diferença de força concretamente.
 ```
 
-Exemplo sem oposição:
+Evitar:
 
 ```text
-Teste: 2d6 + Perícia + situação
-Resultado: sucesso
+"ele usa Força [2]"
 ```
 
-Depois:
+como substituto da cena.
 
-```text
-→ narrar o que isso significou na cena.
-```
-
-Evitar transformar a prosa em relatório de números.
-
-```text
-ERRADO COMO PROSA
-→ ele usa FOR 6 e causa 12 de dano.
-
-CERTO
-→ narrar o golpe e sua consequência.
-→ atualizar números separadamente quando necessário.
-```
+A ficha sustenta o julgamento; a narração apresenta o acontecimento.
 
 ## Rotina e consequência já determinadas
 
@@ -220,43 +217,102 @@ Ações automáticas, naturais, rotineiras ou já determinadas pelos fatos podem
 Exemplos:
 
 ```text
-veneno chega ao prazo e produz o efeito estabelecido.
+processo registrado alcança o prazo
+→ aplicar o efeito estabelecido.
 
-tempestade registrada alcança a região.
+intenção persistente continua sem interferência
+→ pode avançar.
 
-motor continua funcionando depois de já ter sido ligado.
+máquina já ligada continua funcionando
+→ não exige nova decisão apenas para permanecer ligada.
 ```
 
-Isso não permite ao Narrador decidir uma nova ação voluntária por uma personagem.
+Isso não permite ao Narrador decidir nova ação voluntária por uma personagem.
+
+## Ser afetado não cria reação dentro da prosa
+
+A narração não deve inventar uma reação apenas porque uma personagem sofreu uma consequência.
+
+```text
+CONSEQUÊNCIA JULGADA
+→ narrar.
+
+NOVA DECISÃO REALMENTE DISPONÍVEL
+→ parar e devolver à cadeira.
+
+SEM DECISÃO DISPONÍVEL
+→ não inserir reação retroativa por hábito.
+```
+
+Pequenos reflexos involuntários podem ser narrados quando são consequência física evidente; escolha voluntária não.
 
 ## Limite da sentença
 
 A narração termina no primeiro ponto em que:
 
-- uma nova decisão voluntária se torna necessária;
-- uma nova janela precisa ser aberta;
+- uma nova decisão voluntária realmente disponível se torna necessária;
+- uma auditoria pedida pelo Diretor precisa ser resolvida;
 - um prazo registrado relevante entra em efeito;
-- uma personagem eventual torna-se relevante e precisa ser assumida;
-- uma força adversarial entra em campo e precisa do Opositor;
+- uma personagem eventual precisa ser assumida para decidir;
+- uma força adversarial entra em campo e exige autoridade apropriada;
 - a intenção original deixa de determinar o próximo passo.
 
 Exemplo:
 
 ```text
-JOGADOR
+CADEIRA
 → vou até a porta, entro e pego o livro.
 
 SENTENÇA
 → chega à porta.
 → abre.
-→ atrás dela existe uma situação que exige escolha.
+→ atrás dela existe situação que cria nova escolha.
 → PARA.
 ```
 
-O Narrador não completa `pego o livro` só porque estava na declaração inicial.
+Não completar `pego o livro` só porque estava na declaração inicial se a nova situação interrompeu legitimamente o caminho.
 
-> **A sentença pode avançar enquanto a realidade já está determinada. Quando a consequência volta a ser escolha, a narração devolve o controle ao Tribunal.**
+> **A sentença pode avançar enquanto realidade e intenção já determinam o próximo passo. Quando a ficção volta a precisar de agência, a prosa para.**
+
+## Pedido do Diretor durante a narração
+
+Se o Diretor interrompe com:
+
+```text
+[confira isso]
+[isso foi incoerente; justifique]
+[corrija conforme os livros]
+```
+
+parar a progressão pertinente.
+
+Não transformar o pedido em comentário lateral e continuar narrando.
+
+```text
+PEDIDO DE AUDITORIA / ANÁLISE
+→ suspender a progressão pertinente
+→ verificar
+→ responder
+→ corrigir ou receber nova Direção
+→ retomar depois
+```
+
+## Sem motor legado
+
+Este arquivo não usa:
+
+```text
+2d6 universal
+sucesso / falha por faixas de dado
+Potência de Execução
+dano numérico universal
+Vida / Mente universais
+Mana universal
+Ataque + Defesa
+```
+
+Se uma campanha possuir recurso, custo ou condição específica legitimamente definida, narrar a consequência concreta correspondente.
 
 ## Regra final
 
-> **Narre somente o que foi estabelecido, use detalhes para tornar a cena viva sem criar recursos ou obstáculos novos, preserve percepção, causa e posição, e pare exatamente onde uma nova decisão ou evento relevante exige novo julgamento.**
+> **Narre somente o que foi estabelecido por Direção, decisões, fatos e julgamento. Use detalhes para tornar a cena viva sem criar recursos, obstáculos ou reações novas; preserve percepção, causa e posição; e pare exatamente onde uma nova decisão realmente disponível, uma auditoria pendente ou outro fato relevante exige voltar ao Tribunal.**
