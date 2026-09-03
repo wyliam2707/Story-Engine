@@ -2,12 +2,46 @@
 
 Uma campanha precisa de poucas fontes para começar.
 
-> **Direção suficiente + autoridades definidas + personagens necessárias + Estado inicial = campanha pronta para jogar.**
+> **Nome e pasta definidos + Direção suficiente + autoridades definidas + personagens necessárias + Estado inicial = campanha pronta para jogar.**
+
+## Passo 0 — Nome e pasta da campanha
+
+Antes de escrever Direção, fichas, Estado ou qualquer outro artefato da campanha:
+
+```text
+1. definir um nome para a campanha;
+2. derivar um slug estável para a pasta;
+3. criar campanhas/<slug>/;
+4. criar imediatamente campanhas/<slug>/README.md como arquivo-âncora.
+```
+
+Exemplo:
+
+```text
+Nome: Duas Vidas Normais
+Slug: duas-vidas-normais
+Pasta: campanhas/duas-vidas-normais/
+```
+
+Em sistemas como GitHub, uma pasta vazia não persiste. Por isso o `README.md` deve nascer junto com a campanha, ainda que inicialmente contenha apenas:
+
+```text
+# [NOME DA CAMPANHA]
+
+STATUS
+→ EM PREPARAÇÃO
+```
+
+Depois, no Passo 2, esse mesmo `README.md` recebe a configuração completa de autoridades e módulos.
+
+> **Nenhum arquivo de campanha deve ser produzido sem um destino canônico já definido.**
+
+Se o nome ainda não estiver decidido, resolver o nome antes de prosseguir. Um nome provisório só deve ser usado quando o Diretor aceitar explicitamente que ele é provisório.
 
 ## Estrutura mínima
 
 ```text
-campanhas/<nome>/
+campanhas/<slug>/
 ├── README.md
 ├── direcao.md
 ├── estado.md
@@ -32,7 +66,7 @@ livro/
 
 ## Passo 1 — Direção
 
-Criar `direcao.md`.
+Criar `direcao.md` **dentro da pasta já definida no Passo 0**.
 
 Modelo mínimo:
 
@@ -67,12 +101,15 @@ O Diretor pode alterar e aprofundar a Direção durante a campanha.
 
 ## Passo 2 — Configuração de Autoridades
 
-Criar `README.md` da campanha.
+Atualizar o `README.md` criado no Passo 0.
 
 Modelo:
 
 ```text
 # [NOME DA CAMPANHA]
+
+STATUS
+→ EM PREPARAÇÃO
 
 DIRETOR
 Executor: [humano / IA / outro]
@@ -99,6 +136,12 @@ Não registrar executor dentro da ficha da personagem.
 ## Passo 3 — Personagens
 
 Criar somente as fichas necessárias para começar, seguindo `04-FICHA.md` e `modelos/FICHA.md`.
+
+Todas as fichas da campanha devem ser salvas em:
+
+```text
+campanhas/<slug>/personagens/
+```
 
 Personagens secundárias podem receber ficha ou Cadeira depois se ganharem importância real.
 
@@ -170,6 +213,9 @@ Seguir `modulos/LIVRO.md` quando a campanha quiser arquivo literário dos aconte
 Antes de começar, confirmar:
 
 ```text
+[ ] A campanha possui nome definido.
+[ ] A pasta canônica campanhas/<slug>/ existe e contém README.md.
+[ ] Todos os arquivos da campanha estão sendo gravados dentro dessa pasta.
 [ ] Sei quem é o Diretor.
 [ ] Sei quem executa o Narrador.
 [ ] Cada personagem inicial possui Cadeira e executor definidos.
@@ -178,6 +224,13 @@ Antes de começar, confirmar:
 [ ] estado.md representa o ponto inicial.
 [ ] somente módulos realmente usados estão ativos.
 [ ] fatos secretos necessários já possuem fonte legítima.
+```
+
+Quando a preparação estiver concluída, atualizar no `README.md`:
+
+```text
+STATUS
+→ PRONTA PARA JOGAR
 ```
 
 ## START
@@ -198,7 +251,8 @@ O Diretor não precisa fornecer a primeira ação. Uma Cadeira pode iniciar algo
 Quando uma campanha já existe:
 
 ```text
-README da campanha
+localizar a pasta canônica da campanha
+→ README da campanha
 → direcao.md
 → estado.md
 → fichas relevantes
@@ -211,4 +265,4 @@ Não pedir novamente informação que já está registrada.
 
 ## Regra final
 
-> **Crie somente as fontes necessárias para a história existir agora. Direção define a proposta; configuração define as autoridades; fichas definem as pessoas; Estado define o presente. O restante entra apenas quando cumprir função real.**
+> **Nomeie e ancore a campanha antes de escrevê-la. Depois, crie somente as fontes necessárias para a história existir agora. Direção define a proposta; configuração define as autoridades; fichas definem as pessoas; Estado define o presente. O restante entra apenas quando cumprir função real.**
