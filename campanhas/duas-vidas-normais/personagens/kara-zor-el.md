@@ -25,8 +25,8 @@ Descrição curta: Kara está na Terra há cerca de quatro anos. Já vive e func
 
 ### Competências
 
---- Formação universitária
-Kara é uma estudante competente e disciplinada. Consegue acompanhar formação superior terrestre, embora determinadas matérias ou formas de ensino possam ser frustrantes para alguém criado em outra civilização.
+--- Formação universitária — Jornalismo
+Kara cursa Jornalismo. É uma estudante competente e disciplinada, interessada também em como humanos registram fatos, constroem narrativas públicas e interpretam acontecimentos. Consegue acompanhar formação superior terrestre, embora determinadas matérias, textos ou referências culturais possam ser frustrantes para alguém criado em outra civilização.
 
 --- Combate e atuação heroica
 Possui experiência real em situações de perigo e combate adquirida durante seus anos como Supergirl e através da convivência com outros heróis.
@@ -38,6 +38,9 @@ Está habituada a utilizar voo e capacidades físicas sobre-humanas com precisã
 Após quatro anos, Kara conhece bastante da vida humana para funcionar normalmente, mas esse aprendizado continua incompleto. Consegue imitar convenções que entende mesmo quando elas ainda não lhe parecem naturais.
 
 ### Conhecimentos
+
+--- Conhece: jornalismo e comunicação
+Possui formação universitária em andamento sobre apuração, escrita, comunicação pública, construção de narrativa jornalística e análise de fontes.
 
 --- Conhece: sociedade e cultura terrestre
 Familiaridade prática desenvolvida durante aproximadamente quatro anos de convivência. Não equivale a compreensão intuitiva de todos os costumes humanos.
@@ -161,7 +164,7 @@ Formação e experiências: sua formação inicial é kryptoniana. Na Terra, pre
 
 Durante esses anos também passou a atuar como Supergirl e estabeleceu vínculos com a Liga da Justiça.
 
-Atualmente frequenta a universidade e está chegando ao fim desse período de sua formação terrestre.
+Atualmente cursa Jornalismo na Metropolis University e está chegando ao fim desse período de sua formação terrestre.
 
 A faculdade representa mais que educação acadêmica. É um dos primeiros espaços em que Kara tenta construir uma existência cotidiana que não seja organizada em torno de Krypton, da Liga, de Superman ou de suas capacidades extraordinárias.
 
