@@ -330,3 +330,46 @@ O canto da boca dela sobe.
 
 **MORGANA:**
 — Embora eu esteja profundamente curiosa para saber quanto tempo levaria até você tentar abrir um portal do banco do motorista só para não procurar estacionamento.
+
+**KARA — POV**
+
+**NARRADOR:**
+Mais tarde, já em seu quarto na residência da Liga, Kara olha outra vez para a conversa com Daniel.
+
+A última mensagem dele continua ali.
+
+**DANIEL — mensagem:**
+— Estarei esperando por sexta.
+
+Depois, a própria resposta.
+
+**KARA — mensagem:**
+— Então até sexta, Daniel.
+
+Ela bloqueia a tela.
+
+**KARA — pensamento:**
+*Isso é um encontro.*
+
+**NARRADOR:**
+A constatação não vem acompanhada de dúvida.
+
+Foi ela quem encontrou a festa, mandou o cartaz e pediu que Daniel a buscasse.
+
+Kara gosta da ideia.
+
+Ela olha para as roupas que costuma usar na universidade. Cabelos presos, óculos e peças largas fazem parte de uma presença construída justamente para passar despercebida.
+
+**KARA — pensamento:**
+*Posso continuar sendo discreta sem parecer que estou indo para uma aula.*
+
+**NARRADOR:**
+Algumas opções são casuais demais. Outras se aproximam mais da maneira como costuma se apresentar fora da universidade.
+
+Kara abre o armário e começa a separar algumas peças sobre a cama.
+
+**KARA — pensamento:**
+*Eu preciso de uma roupa para dançar com um garoto normal.*
+
+**NARRADOR:**
+Ela sorri e continua escolhendo.
