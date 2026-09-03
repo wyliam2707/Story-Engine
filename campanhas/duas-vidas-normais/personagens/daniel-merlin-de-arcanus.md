@@ -93,49 +93,55 @@ Quando uma conjuração da tradição de Daniel exige componente verbal, ele rea
 
 Isso não significa que toda magia precise de palavras nem que o simples uso do idioma produza magia por si só.
 
+### Repertório Arcanus
+
+Daniel e Morgana foram formados na mesma tradição familiar e compartilham os mesmos seis grandes domínios mágicos. A diferença entre os dois está no patamar de especialização e na forma preferida de aplicar cada domínio, não em possuírem repertórios incompatíveis.
+
+A matriz de especialização de ambos segue o padrão **3 / 2 / 2 / 1 / 1 / 1**.
+
 ### Poderes
 
---- BARREIRA ARCANA [3 — ÁPICE]
+--- PROTEÇÃO E SELAMENTO [3 — ÁPICE]
 Especialidade central de Daniel.
 
-Pode criar barreiras mágicas de resistência extraordinária para proteger pessoas, áreas ou posições. As barreiras podem assumir formas como paredes, planos, domos ou estruturas de contenção.
+Reúne a arte Arcanus de impor limites mágicos: impedir passagem, absorver ou conter forças, proteger pessoas e áreas, fechar acessos e restringir criaturas, poderes ou fenômenos.
 
-Daniel consegue moldá-las rapidamente durante situações de perigo e também construir defesas mais complexas quando possui preparação. Mesmo em nível Ápice, uma barreira não é absolutamente indestrutível.
+Daniel pode criar paredes, planos, domos e estruturas complexas de contenção. Selamentos simples podem ser executados rapidamente; estruturas específicas ou extremamente complexas tornam-se mais eficazes quando ele conhece aquilo que pretende conter e podem exigir símbolos, preparação ou componentes.
 
-Sua especialização nasceu em parte das próprias aulas de Morgana: crescer sob o treinamento ofensivo e direto da mãe tornou defesa uma necessidade antes de se tornar preferência e excelência.
+Sua especialização nasceu em parte das próprias aulas de Morgana: crescer sob o treinamento ofensivo e direto da mãe tornou defesa uma necessidade antes de se tornar preferência e excelência. Mesmo em nível Ápice, nenhuma barreira ou selo é absolutamente inviolável.
 
 --- CONTROLE ARCANO [2 — ELITE]
 Daniel manipula forças, matéria e efeitos através da magia.
 
 Inclui telecinese, desvio de objetos, retenção, reposicionamento, alteração de trajetórias e manipulação de fenômenos mágicos existentes.
 
-É sua principal ferramenta para controlar uma situação sem depender de destruição direta.
+É uma de suas principais ferramentas para controlar uma situação sem depender de destruição direta.
 
---- SELAMENTO [2 — ELITE]
-Pode restringir criaturas, poderes, passagens e fenômenos por meio de estruturas mágicas.
+--- MOBILIDADE E TELEPORTE [2 — ELITE]
+Daniel manipula magicamente deslocamento e posição no espaço.
 
-Selamentos simples podem ser produzidos rapidamente. Selamentos específicos ou extremamente complexos tornam-se mais eficazes quando Daniel conhece previamente a natureza daquilo que pretende conter e podem exigir símbolos, preparação ou componentes adequados.
+Pode produzir voo, impulsos e outras formas de mobilidade arcana, além de abrir passagens entre dois pontos separados.
 
---- TELEPORTE [1 — EXTRAORDINÁRIO]
-Daniel pode abrir passagens mágicas entre dois pontos separados no espaço.
+Para portais, o destino precisa ser conhecido, percebido ou definido de forma suficientemente segura para que consiga estabelecer a conexão. Um portal comum ainda exige normalmente entre 30 segundos e 1 minuto de concentração e construção, conforme distância, precisão e condições do local; o patamar elevado representa domínio espacial amplo, não teleporte instantâneo universal em combate.
 
-O destino precisa ser conhecido, percebido ou definido de forma suficientemente segura para que ele consiga estabelecer a conexão.
+Uma vez aberto, o portal permite passagem praticamente imediata e pode ser utilizado por outras pessoas enquanto permanecer estável.
 
-A abertura de um portal normalmente exige entre 30 segundos e 1 minuto de concentração e construção mágica, dependendo da distância, precisão e condições do local.
+--- PODER ARCANO [1 — EXTRAORDINÁRIO]
+Daniel pode aplicar força mágica diretamente através de impactos, projeções e manifestações ofensivas simples.
 
-Uma vez aberto, o portal permite passagem praticamente imediata entre origem e destino e pode ser utilizado por outras pessoas enquanto permanecer estável.
+Conhece esse aspecto da tradição Arcanus e pode utilizá-lo quando necessário, mas não é seu foco. Em confronto direto, tende a preferir controle, proteção e contenção.
 
-O teleporte é especialmente poderoso em grandes distâncias, mas pouco eficiente para perseguições imediatas ou deslocamentos curtos muito rápidos.
+--- FORTALECIMENTO E RESISTÊNCIA [1 — EXTRAORDINÁRIO]
+Daniel pode aplicar reforços mágicos temporários ao próprio corpo ou a outras pessoas.
+
+O mesmo domínio pode ampliar força, velocidade, estabilidade e outras capacidades físicas ou permitir que o alvo suporte forças que normalmente seriam perigosas.
+
+Daniel utiliza esse campo principalmente como suporte. Sua resistência física extraordinária depende da magia e não transforma seu corpo naturalmente em equivalente ao de um kryptoniano.
 
 --- CURA MÁGICA [1 — EXTRAORDINÁRIO]
 Daniel pode estabilizar feridos e acelerar processos de recuperação através da magia.
 
 É capaz de tratar danos que ultrapassariam facilmente primeiros socorros comuns, mas não possui regeneração instantânea ilimitada, cura absoluta ou ressurreição automática.
-
---- FORTALECIMENTO [1 — EXTRAORDINÁRIO]
-Daniel pode aplicar reforços mágicos temporários sobre si mesmo ou outras pessoas.
-
-Dependendo do encantamento, pode melhorar proteção, resistência, força, velocidade, percepção ou estabilidade. O fortalecimento amplia capacidades existentes dentro do efeito construído; não concede permanentemente uma nova natureza ao alvo.
 
 ### Limites e Vulnerabilidades
 
@@ -146,7 +152,7 @@ Nem toda magia de Daniel acontece instantaneamente. Efeitos complexos podem exig
 Daniel consegue improvisar muita magia, mas selamentos, manipulações e respostas específicas tornam-se mais precisos quando entende aquilo com que está lidando.
 
 --- Corpo físico
-Sua longevidade e natureza mágica não transformam automaticamente seu corpo em equivalente ao de um kryptoniano. Se uma defesa falhar, impactos físicos extraordinários continuam sendo perigosos.
+Sua longevidade e natureza mágica não transformam automaticamente seu corpo em equivalente ao de um kryptoniano. Se uma defesa ou reforço falhar, impactos físicos extraordinários continuam sendo perigosos.
 
 ### Equipamentos e Recursos
 
@@ -218,11 +224,9 @@ Relações relevantes:
 --- Morgana de Arcanus
 Mãe de Daniel e único membro próximo de sua família ainda vivo.
 
-Morgana possui um estilo mágico muito mais frontal do que o filho: poder direto, fortalecimento, resistência, mobilidade e combate ofensivo. Sua forma de lutar se aproxima mais, em função, do estilo de Supergirl do que do estilo controlador de Daniel.
+Morgana domina o mesmo repertório Arcanus, mas possui um estilo mágico muito mais frontal: poder direto, fortalecimento, resistência, mobilidade e combate ofensivo. Sua forma de lutar se aproxima mais, em função, do estilo de Supergirl do que do estilo controlador de Daniel.
 
-Foi também uma das principais responsáveis pela formação mágica dele. O treinamento ofensivo de Morgana ajudou Daniel a desenvolver barreiras cada vez melhores até transformá-las em sua maior especialidade.
-
-Sua personalidade, poderes exatos e detalhes da relação com Daniel permanecem abertos até se tornarem relevantes em cena.
+Foi também uma das principais responsáveis pela formação mágica dele. O treinamento ofensivo de Morgana ajudou Daniel a desenvolver Proteção e Selamento até transformar esse domínio em sua maior especialidade.
 
 ## 6 — Histórico
 
@@ -238,7 +242,7 @@ Magia nunca foi apresentada a Daniel como algo secreto ou extraordinário.
 
 Ele cresceu entre grimórios, objetos encantados, rituais, estruturas mágicas e acontecimentos sobrenaturais tratados dentro da Casa Arcanus como parte normal da existência.
 
-Recebeu educação mágica desde cedo, principalmente sob uma tradição familiar em que Morgana valorizava poder direto e treinamento exigente. Daniel desenvolveu outro caminho: barreiras, controle, selamento, suporte e preparação.
+Recebeu educação mágica desde cedo dentro do mesmo repertório Arcanus dominado por Morgana. Os dois desenvolveram especializações diferentes: Morgana levou poder direto e fortalecimento muito mais longe; Daniel concentrou-se em proteção, selamento, controle e domínio espacial.
 
 Apesar dessa origem, também construiu uma vida integrada à sociedade contemporânea.
 
