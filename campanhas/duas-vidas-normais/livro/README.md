@@ -9,3 +9,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 001 — Desgaste Acadêmico
 002 — Plano Avançado
 003 — Atividade Extracurricular
+004 — Nada de Cosplay
