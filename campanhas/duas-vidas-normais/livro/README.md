@@ -7,3 +7,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 ## Capítulos
 
 001 — Desgaste Acadêmico
+002 — Plano Avançado
