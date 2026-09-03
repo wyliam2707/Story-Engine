@@ -28,6 +28,7 @@ PASSO 04 — ESTADO INICIAL
 ESTRUTURA OPCIONAL
 → Arco Preparado / Temporada, quando a campanha se beneficiar disso.
 → Diretriz Fechada somente quando esse arco possuir verdades que realmente precisam ser fechadas antes do jogo.
+→ Opositor somente quando houver forças adversariais persistentes sem cadeira própria que se beneficiem de estratégia autônoma.
 
 DEPOIS
 → pareamento mínimo, quando necessário
@@ -39,7 +40,7 @@ Não pedir novamente informação já fornecida.
 
 ## 1 — Estrutura da campanha
 
-Depois que o nome for aprovado, materializar:
+Depois que o nome for aprovado, materializar somente a estrutura universal:
 
 ```text
 campanhas/<nome>/
@@ -52,11 +53,18 @@ campanhas/<nome>/
 │   ├── narrativa.md
 │   ├── roteiro.md
 │   └── temporadas/
-├── opositor/
 └── livro/
 ```
 
-A presença dessas pastas não obriga o uso de todas as estruturas narrativas possíveis. Um arquivo de roteiro, por exemplo, só recebe autoridade quando existir um arco preparado ativo.
+Estruturas adicionais são materializadas somente quando realmente usadas.
+
+```text
+campanhas/<nome>/opositor/
+→ criar somente se a função OPOSITOR estiver ativa
+  e existir informação adversarial persistente que precise de registro próprio.
+```
+
+A presença das pastas universais também não obriga o uso de todas as estruturas narrativas possíveis. Um arquivo de roteiro, por exemplo, só recebe autoridade quando existir um arco preparado ativo.
 
 O `README.md` da campanha começa com:
 
@@ -166,10 +174,19 @@ CADEIRAS EVENTUAIS
 → EXECUTOR COMPARTILHADO: IA, quando necessário
 
 OPOSITOR
-→ EXECUTOR: IA
+→ ATIVO: NÃO
 
 NARRADOR / JUIZ
 → EXECUTOR: IA
+```
+
+Se a campanha realmente se beneficiar de uma função adversarial persistente:
+
+```text
+OPOSITOR
+→ ATIVO: SIM
+→ EXECUTOR: <humano, IA ou outro participante>
+→ ESCOPO: <forças adversariais sem cadeira própria que representa>
 ```
 
 A configuração poderia igualmente usar outros arranjos:
@@ -181,6 +198,8 @@ uma IA executando várias cadeiras
 Narrador humano
 Narrador IA
 outro participante executando uma função
+campanha sem Opositor
+campanha que ativa Opositor somente depois que uma força adversarial persistente surge
 ```
 
 Nenhuma dessas escolhas altera a autoridade definida pelo Tribunal.
@@ -194,6 +213,32 @@ MESMA CADEIRA
 Cada personagem com cadeira própria mantém conhecimento, intenção e soberania separados mesmo quando o mesmo executor opera várias cadeiras.
 
 A palavra `Mesa` fica reservada ao procedimento temporário de alinhamento definido pelo Núcleo.
+
+### Opositor é opcional
+
+A existência de conflito, dificuldade ou antagonismo não exige uma função `OPOSITOR` ativa.
+
+```text
+CONFLITO ENTRE PERSONAGENS COM CADEIRA
+→ cada cadeira continua decidindo sua própria personagem.
+
+PERIGO AMBIENTAL OU PROCESSO IMPESSOAL
+→ pertence ao mundo, Estado e julgamento causal.
+
+NPC COM AGÊNCIA PRÓPRIA
+→ pode receber cadeira própria ou eventual quando necessário.
+
+FORÇA ADVERSARIAL PERSISTENTE SEM CADEIRA PRÓPRIA
+→ pode justificar ativar OPOSITOR.
+```
+
+Ativar Opositor quando uma ou mais forças adversariais persistentes se beneficiarem de planejamento, recursos, objetivos e decisões estratégicas próprias sem que cada peça possua cadeira dedicada.
+
+Não ativar apenas porque a história possui problemas.
+
+> **Opositor organiza oposição persistente quando ela precisa de uma autoridade própria; não é a fonte obrigatória de todo problema da ficção.**
+
+Se a necessidade surgir depois do START, a Configuração das Cadeiras pode ser atualizada prospectivamente e a função passa a existir a partir dali. Isso não autoriza inventar retroativamente preparação ou recursos adversariais.
 
 ## PASSO 03 — Criar as Fichas Iniciais
 
@@ -357,6 +402,7 @@ pareamento essencial foi resolvido, quando necessário?
 Estado inicial está definido?
 CONTROLE das peças está claro?
 Configuração das Cadeiras registra os Executores?
+se OPOSITOR estiver ativo, seu Executor e Escopo estão claros?
 se um Arco Preparado foi escolhido, sua preparação necessária está concluída?
 se esse arco realmente precisa de Diretriz Fechada, ela foi registrada?
 ```
@@ -364,6 +410,8 @@ se esse arco realmente precisa de Diretriz Fechada, ela foi registrada?
 Não exigir por padrão:
 
 ```text
+Opositor ativo
+pasta opositor/
 Temporada ativa
 problema de temporada
 Diretriz Fechada
@@ -404,6 +452,9 @@ DIREÇÃO DA CAMPANHA
 FICHAS
 → persistentes.
 
+OPOSITOR
+→ opcional e ativável quando surgir necessidade legítima.
+
 TEMPORADA / ARCO PREPARADO
 → opcional e renovável.
 
@@ -434,4 +485,4 @@ não introduzir retroativamente estrutura que torne essas verdades falsas ou inc
 
 ## Regra final
 
-> **Nova campanha exige Direção, autoridades necessárias, fichas iniciais suficientes e um Estado Inicial concreto. A Direção informa que história estamos tentando escrever sem precisar predeterminar uma trama. Temporadas são opcionais; e, mesmo quando existe um Arco Preparado, a Diretriz Fechada só aparece se houver verdades que realmente precisem ser fixadas antes de serem descobertas, enfrentadas ou testadas.**
+> **Nova campanha exige Direção, autoridades necessárias, fichas iniciais suficientes e um Estado Inicial concreto. A Direção informa que história estamos tentando escrever sem precisar predeterminar uma trama. Opositor, Temporadas e Diretrizes Fechadas são estruturas opcionais: o Opositor só é ativado quando forças adversariais persistentes sem cadeira própria realmente precisam de uma autoridade estratégica; Temporadas só existem quando se deseja um Arco Preparado; e a Diretriz Fechada só aparece quando certas verdades precisam ser fixadas antes de serem descobertas, enfrentadas ou testadas.**
