@@ -2,175 +2,243 @@
 
 Status: REFORMULAÇÃO ATIVA
 
-O Núcleo define como as cadeiras compartilham autoria, como o tempo avança e como o Narrador julga a ficção.
+O Núcleo define como a autoria é distribuída, como o Diretor conduz a história, como o tempo avança e como o Narrador julga a ficção.
 
-> **A literatura não substitui julgamento; o julgamento também não precisa virar matemática quando a ficção já responde.**
+> **As cadeiras escrevem as personagens. O Narrador julga o encontro entre elas. O Diretor conduz a história.**
 
 ## Terminologia estrutural
 
-Usar estes termos com funções diferentes:
-
 ```text
+DIRETOR
+→ autoridade autoral máxima sobre a direção da ficção.
+→ pode também executar uma Cadeira de Personagem.
+→ pode consultar, orientar ou determinar.
+
+DIREÇÃO AUTORAL
+→ conteúdo emitido pelo Diretor fora da ficção.
+→ pode definir trajetória, tom, limite, condição, forma ou resultado.
+
 CADEIRA
-→ unidade de autoria.
-→ define quem pode decidir dentro de determinada autoridade.
+→ unidade de autoria de uma personagem.
+→ decide voluntariamente dentro do espaço que permanece aberto.
 
 EXECUTOR
 → pessoa, IA ou outro meio que opera uma cadeira ou função.
 → não altera a autoridade daquela cadeira.
 
 CONFIGURAÇÃO DAS CADEIRAS
-→ registro persistente das autoridades existentes na campanha e de quem as executa.
+→ registro persistente das autoridades existentes e de quem as executa.
 
 TRIBUNAL
-→ estrutura de autoridade do sistema.
-→ define soberania, limites, conflito de autoridade e função do Narrador/Juiz.
+→ estrutura que define autoridade, limites e julgamento.
 
-MESA
-→ procedimento temporário de alinhamento.
-→ abre somente quando existe dúvida, discordância, direção compartilhada ou conflito real que precise ser resolvido.
-```
+MESA / AUDITORIA
+→ procedimento temporário de verificação e alinhamento.
+→ não é autoridade criativa acima do Diretor.
 
-> **Cadeira define autoridade. Executor define quem a opera. A Configuração registra ambos. O Tribunal define os limites. A Mesa só abre quando essas autoridades precisam conversar.**
-
-Não usar `HUMANO`, `IA` ou `IA EVENTUAL` como espécies diferentes de soberania narrativa.
-
-## Funções estruturais
-
-```text
-CADEIRA DE PERSONAGEM
-→ decide voluntariamente por uma personagem.
+NARRADOR / JUIZ
+→ julga fatos, causalidade e o encontro entre decisões.
 
 OPOSITOR — OPCIONAL
-→ representa forças adversariais persistentes sem cadeira própria quando a campanha se beneficia de uma autoridade estratégica dedicada.
-
-NARRADOR / JUIZ
-→ julga o encontro entre fatos e autoridades.
-
-DIREÇÃO AUTORAL
-→ camada fora da ficção para intenção, trajetória, tom ou limite narrativo.
+→ representa forças adversariais persistentes sem cadeira própria dentro de escopo definido.
 ```
 
-A forma concreta de execução é configurada por campanha.
+> **Cadeira define autoria da personagem. Executor define quem a opera. Narrador julga. Mesa audita. Diretor conduz.**
+
+## Diretor e espaço aberto
+
+O Diretor não precisa escrever tudo.
 
 ```text
-CADEIRA DE PERSONAGEM A
-→ EXECUTOR: HUMANO.
+DIRETOR NÃO DETERMINOU
+→ cadeiras, Narrador, Opositor e criação emergente continuam produzindo ficção dentro de suas autoridades.
 
-CADEIRA DE PERSONAGEM B
-→ EXECUTOR: IA.
-
-NARRADOR / JUIZ
-→ EXECUTOR: IA.
-
-OPOSITOR
-→ ATIVO: NÃO, salvo quando a campanha realmente precisar dessa função.
+DIRETOR DETERMINOU
+→ o ponto determinado fica fechado.
+→ o restante continua aberto.
 ```
 
-Mudar o executor não muda a natureza da cadeira.
-Ativar ou não o Opositor não altera as regras de autoria das demais cadeiras.
+Exemplo:
+
+```text
+DIRETOR
+→ A perde.
+
+FECHADO
+→ A perde.
+
+ABERTO
+→ como tenta vencer.
+→ falas.
+→ decisões intermediárias.
+→ forma da derrota, se não especificada.
+```
+
+> **A autoridade do Diretor é absoluta sobre aquilo que ele efetivamente determina, mas não se expande automaticamente para aquilo que deixou aberto.**
+
+## Direção não é conhecimento ficcional
+
+```text
+DIRETOR SABE / DETERMINA
+≠
+PERSONAGEM SABE / QUER
+```
+
+Uma determinação de derrota não faz a personagem desejar perder nem se sabotar.
+
+O executor conhece a Direção e preserva o resultado fechado; a cadeira continua decidindo a partir do conhecimento e da personalidade da personagem.
+
+## `[ ]` na execução textual
+
+No modo textual adotado:
+
+```text
+[texto]
+→ comunicação do Diretor fora da ficção.
+```
+
+Os colchetes identificam a camada. A intenção do texto define a operação.
+
+```text
+[quero X]
+→ Direção.
+
+[justifique X]
+→ Análise.
+
+[confira X nas fontes]
+→ Auditoria.
+
+[o que seria mais coerente?]
+→ Consulta.
+
+[corrija X]
+→ Correção.
+```
+
+Pedido de auditoria ou análise suspende a progressão pertinente até ser respondido.
 
 ## Fluxo atual
 
 ```text
 DECLARAÇÃO
+→ identificar Direção pertinente
 → separar intenção de resultado presumido
-→ identificar autoridades afetadas
 → consultar ficha, Estado e continuidade
-→ permitir objeção factual quando necessária
-→ Narrador / Juiz julga
-→ abrir Mesa somente se houver dúvida ou discordância real
+→ perguntar se os fatos determinam
+   → SIM: sentenciar
+   → NÃO: continuar
+→ perguntar se existe decisão voluntária realmente disponível a outra cadeira
+   → SIM: executar essa cadeira
+   → NÃO: não criar reação
+→ auditar objeções factuais quando existirem
+→ Narrador / Juiz cruza decisões e julga
+→ Mesa somente se houver dúvida real
 → narrar
-→ devolver toda nova decisão voluntária à cadeira correta
+→ devolver toda nova decisão realmente disponível à cadeira correta
 ```
 
-Quando determinada cadeira depende de entrada externa de seu executor, a execução aguarda essa entrada em vez de inventar a decisão.
+## Ser afetado não cria oposição
 
-## Arquivos canônicos da reformulação
+```text
+SER AFETADO
+≠
+TER UMA DECISÃO DISPONÍVEL
+```
+
+Uma cadeira só é convocada quando os fatos deixam escolha real.
+
+Podem importar:
+
+```text
+percepção
+tempo
+oportunidade
+posição
+capacidade
+meio disponível
+```
+
+> **A existência de uma cadeira protege autoria, não garante oposição.**
+
+## Objeção factual
+
+Uma objeção precisa apontar fundamento:
+
+```text
+fato
+capacidade
+Traço
+posição
+percepção
+oportunidade
+meio
+conhecimento
+limite de autoridade
+```
+
+Objeção sem fundamento não cria veto.
+
+```text
+AUDITORIA
+→ verifica validade.
+→ não fabrica reação.
+```
+
+## Arquivos canônicos principais
 
 ```text
 0.0-autoria-narrativa.md
-→ filosofia central: vários autores, soberania das cadeiras e acaso opcional.
+→ filosofia central, Diretor, espaço aberto e Direção Autoral.
 
 0.1-resolucao.md
-→ ficção primeiro; comparação e julgamento sem rolagem obrigatória.
+→ ficção primeiro, fatos determinam, decisão real disponível e Direção fechada.
 
 0.8-tempo-e-acoes.md
 → tempo contínuo e intenções persistentes.
 
 1.0-tribunal.md
-→ autoridade universal das cadeiras, separação entre Cadeira e Executor e Direção Autoral.
+→ estrutura de autoridade.
 
 1.0.1-auditoria-das-cadeiras.md
-→ Mesa sob demanda, somente com autoridades afetadas.
+→ Mesa sob demanda e validação factual de objeções.
 
 1.1-narrador.md
 → Narrador como Juiz.
 
 1.2-jogador-humano.md
-→ perfil de execução humana de uma Cadeira de Personagem; não cria autoridade diferente.
+→ execução humana e separação entre Cadeira e Diretor.
 
 1.3-jogador-ia.md
-→ perfil de execução por IA dedicada; não cria autoridade diferente.
+→ IA dedicada preservando personagem e Direção sem misturá-las.
 
 1.4-jogador-ia-eventual.md
-→ perfil de execução compartilhada por IA para cadeiras distintas.
+→ execução compartilhada de cadeiras eventuais.
 
 1.5-opositor.md
-→ função opcional para oposição persistente sem cadeira própria, objeção factual curta e precedência de cadeira própria sobre função adversarial.
+→ função adversarial opcional.
 
 1.6-execucao-por-uma-unica-ia.md
-→ separação técnica entre várias cadeiras executadas pela mesma IA.
+→ separação de escopos quando uma IA executa várias funções.
 
 1.7-criacao-emergente.md
-→ Narrador completa mundo neutro e consequências óbvias; fatos pessoais novos pertencem à cadeira da personagem.
+→ criação neutra, autoridade epistêmica e proibição de retroatividade oportunista.
 
 1.8-origem-de-conflitos.md
-→ fontes legítimas de oposição, conflitos derivados por causalidade e limites contra reconstrução retroativa; Opositor e Diretriz Fechada só restringem quando estiverem ativos.
+→ fontes legítimas de oposição e conflitos derivados.
 ```
-
-Os nomes físicos `1.2-jogador-humano.md`, `1.3-jogador-ia.md` e `1.4-jogador-ia-eventual.md` são mantidos por compatibilidade documental. Conceitualmente, eles são **perfis de execução**, não tipos fundamentais de cadeira.
-
-## Histórico do motor anterior
-
-Os marcadores de subsistemas que já não possuem função no motor atual foram removidos da árvore ativa.
-
-Isso inclui o antigo conjunto de regras universais de:
-
-```text
-rolagens obrigatórias
-faixas de consequência por dado
-disputas matemáticas
-combate separado
-trilho de dano
-iniciativa matemática
-alcance universal
-Mana universal
-Vida / Mente universais
-ataques mentais como subsistema separado
-cura por trilho universal
-Potência de Efeito
-```
-
-O histórico permanece recuperável pelo Git.
-
-```text
-HISTÓRICO DO GIT
-→ preserva a evolução e as mecânicas abandonadas.
-
-NÚCLEO ATIVO
-→ contém somente regras que ainda possuem função atual.
-```
-
-> **Legado histórico não possui autoridade apenas porque ainda pode ser consultado no Git.**
-
-Nenhuma reancoragem, julgamento, combate, investigação ou registro deve reconstruir essas mecânicas antigas a partir do histórico.
 
 ## Princípios atuais
 
 ```text
 FICÇÃO JÁ RESPONDE
 → seguir a ficção.
+
+DIRETOR FECHOU ALGO
+→ respeitar exatamente o escopo fechado.
+
+DIRETOR PEDIU AUDITORIA
+→ verificar antes de continuar.
 
 INCERTEZA
 → não obriga RNG.
@@ -182,64 +250,40 @@ COMPARAÇÃO DIRETA
 → usar fatos e graduações pertinentes.
 
 TEMPO
-→ continuidade compartilhada, não fila fixa de turnos.
-
-MUNDO NEUTRO INDEFINIDO
-→ Narrador pode completar quando coerente e não consequencial.
-
-FATO PESSOAL NOVO
-→ pertence à cadeira da personagem.
+→ continuidade compartilhada, não fila fixa.
 
 CADEIRA PRÓPRIA
-→ prevalece sobre função adversarial.
-→ ser antagonista não transfere autoria ao Opositor.
+→ decide voluntariamente a própria personagem quando existe decisão real disponível.
 
 MESMO EXECUTOR
-→ pode operar várias cadeiras.
-→ não mistura conhecimento, intenção ou autoridade.
+→ pode operar várias cadeiras sem misturar conhecimento.
 
-OPOSIÇÃO ESTRUTURAL
-→ precisa possuir fonte canônica legítima.
-→ não pode nascer retroativamente apenas para responder a uma jogada.
-→ quando houver Diretriz Fechada ativa, precisa respeitar as verdades que ela fechou.
-
-DIRETRIZ FECHADA
-→ ferramenta opcional de Arco Preparado.
-→ fecha somente verdades que precisam existir antes de serem descobertas, enfrentadas ou testadas.
-→ sua ausência não autoriza retroatividade.
-
-CONFLITO DERIVADO
-→ pode nascer causalmente de fatos realmente ocorridos.
+OPOSIÇÃO
+→ precisa possuir origem legítima.
+→ não pode ser fabricada retroativamente.
 
 OPOSITOR
-→ função opcional.
-→ quando ativo, pode jogar para vencer dentro de seu escopo.
-→ não pode reconstruir o tabuleiro para vencer.
-→ controla apenas forças adversariais sem cadeira própria incluídas em seu escopo.
-→ sua ausência não elimina conflitos, perigos, processos ou consequências.
+→ opcional.
+→ pode jogar para vencer dentro do escopo real.
+→ não reconstrói o tabuleiro depois da jogada.
 
-OBJEÇÃO SIMPLES
-→ resposta simples.
+MESA
+→ verifica e alinha.
+→ não governa o Diretor.
 
-DÚVIDA OU DISCORDÂNCIA REAL
-→ abrir Mesa.
-
-DIREÇÃO AUTORAL
-→ conceito do sistema fora da ficção.
-
-[ ]
-→ convenção da execução textual para sinalizar Direção Autoral.
+REGISTRO
+→ preserva; não cria.
 ```
 
 ## Combate no núcleo atual
 
-Combate não ativa um subsistema mecânico separado.
+Combate não ativa subsistema mecânico separado.
 
 ```text
 COMBATE
 → mesma estrutura de autoria
-→ posição, intenção, Habilidades, Poderes, Traços, Estado, ambiente e oposição em primeiro plano
-→ Narrador julga o encontro
+→ posição, intenção, Habilidades, Poderes, Traços, Estado, ambiente e oposição
+→ Narrador julga
 ```
 
 Não usar automaticamente:
@@ -254,62 +298,28 @@ Mana
 iniciativa matemática
 ```
 
-## Exemplo curto
+## O motor não protege a obra do próprio Diretor
+
+As regras existem para impedir violações acidentais de autoridade, metaconhecimento, retroatividade e incoerências não percebidas.
+
+Elas não existem para impedir uma decisão consciente do Diretor depois que ele compreende a consequência.
 
 ```text
-CADEIRA DE PERSONAGEM A
-→ A tenta dominar B em força pura.
+SISTEMA
+→ pode avisar brevemente sobre contradição relevante.
 
-CADEIRA DE PERSONAGEM B
-→ decide como B reage.
+DIRETOR
+→ pode pedir explicação ou alternativa.
 
-OPOSITOR, SE ATIVO E PERTINENTE
-→ apresenta um fato adversarial dentro de seu escopo.
+DIRETOR
+→ pode manter a decisão.
 
-NARRADOR / JUIZ
-→ julga o encontro entre intenções, fichas, Estado e demais fatos legítimos.
+DEPOIS DE MANTER
+→ executar.
 ```
 
-Se não houver Opositor ativo, nada falta ao julgamento: usar as cadeiras existentes, o mundo, o Estado, os processos e a causalidade já estabelecida.
-
-Nenhuma rolagem é criada apenas para fingir que uma diferença factual desapareceu.
-
-## Regra estrutural
-
-```text
-CADEIRAS DE PERSONAGEM
-→ escrevem suas próprias peças.
-→ mantêm essa autoria independentemente de quem as executa.
-
-EXECUTORES
-→ operam cadeiras ou funções.
-→ podem ser humanos, IAs ou outros participantes.
-→ não recebem autoridade extra por sua natureza técnica.
-
-OPOSITOR, QUANDO ATIVO
-→ representa resistência persistente e fatos adversariais legítimos dentro de seu escopo.
-→ não assume personagem que já possua cadeira própria.
-
-NARRADOR / JUIZ
-→ julga coerência e causalidade.
-→ pode completar mundo neutro sem invadir autoria pessoal.
-
-CONFIGURAÇÃO DAS CADEIRAS
-→ registra quais autoridades existem, quais funções opcionais estão ativas e quem as executa.
-
-TRIBUNAL
-→ define a estrutura de autoridade e julgamento.
-
-MESA
-→ alinha temporariamente autoridades quando necessário.
-
-FICHA
-→ estabelece fatos, capacidades, conhecimentos e comparações.
-
-TEMPO
-→ permite que todas as cadeiras continuem vivendo sem sincronização artificial.
-```
+> **Auditoria informa o Diretor; não governa o Diretor.**
 
 ## Regra final
 
-> **O Núcleo organiza autoria, não tecnologia nem obrigação de antagonismo. Cadeira define autoridade; Executor define quem a opera. Humanos, IAs ou outros participantes podem executar cadeiras sem alterar sua soberania. O Narrador julga, a Mesa alinha quando necessário e nenhuma troca de executor transforma conhecimento técnico em conhecimento ficcional. Opositor, Temporada e Diretriz Fechada são estruturas opcionais: só entram quando a campanha realmente precisa delas.**
+> **O Núcleo organiza um RPG puramente narrativo de autoria distribuída. Cadeiras escrevem personagens independentes; o Narrador julga; o Diretor conduz e pode fechar o que decidir fechar; a Mesa audita sem virar veto; e uma personagem só recebe nova decisão quando a ficção realmente deixa uma escolha disponível. Opositor, Temporada e Diretriz Fechada continuam opcionais.**
