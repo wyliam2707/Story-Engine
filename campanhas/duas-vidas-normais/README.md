@@ -26,13 +26,21 @@ Personagens secundárias podem receber Cadeira eventual quando uma decisão volu
 - Arco Preparado: ATIVO
 - Opositor: INATIVO
 - Romance: ATIVO
-- Livro: INATIVO
+- Livro: ATIVO
 
 ## Convenção textual
 
 Texto normal do Diretor durante a ficção representa ação, intenção ou fala da Cadeira de Daniel, quando o contexto não indicar outra coisa.
 
 Texto entre colchetes representa comunicação do Diretor fora da ficção. A semântica define se é Direção, Consulta, Auditoria, Análise ou Correção.
+
+## Registro em Livro
+
+O Livro registra a ficção canonizada da campanha em capítulos.
+
+Ao fechar um capítulo, preservar marcações como `NARRADOR`, nome da personagem e `PERSONAGEM — pensamento` quando a origem da fala, ação ou interioridade estiver estabelecida.
+
+Direção, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
 
 ## Cânone externo
 
