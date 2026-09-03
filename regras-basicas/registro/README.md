@@ -4,13 +4,13 @@ Status: CANÔNICO DA REFORMULAÇÃO
 
 Esta pasta é o **manual de persistência da história**.
 
-Ela explica como transformar fatos já estabelecidos em fontes permanentes dentro de:
+Ela explica como transformar fatos já estabelecidos e Direções ainda ativas em fontes permanentes dentro de:
 
 ```text
 campanhas/<nome>/
 ```
 
-> **O jogo acontece na mesa. O Registro preserva o que precisa continuar verdadeiro depois da resposta.**
+> **O jogo acontece na mesa. O Registro preserva o que precisa continuar verdadeiro — e preserva como Direção, não como acontecimento, aquilo que o Diretor ainda determinou para o futuro imediato.**
 
 ## Função do Registro
 
@@ -20,8 +20,11 @@ O Registro responde:
 SOBRE O QUE A CAMPANHA É?
 → mestre/narrativa.md
 
-QUAL É O ARCO ATIVO?
+QUAL É O ARCO PREPARADO ATIVO?
 → mestre/roteiro.md
+
+QUE DIREÇÃO LOCAL AINDA LIMITA A CONTINUAÇÃO?
+→ estado/atual.md / Direções Autorais Ativas
 
 QUEM É A PERSONAGEM?
 → ficha
@@ -45,14 +48,44 @@ Registrar não cria ficção.
 DECLARAÇÃO
 → intenção.
 
+DIREÇÃO DO DIRETOR
+→ limite autoral, quando houver.
+
 JULGAMENTO
 → estabelece realidade.
 
 NARRAÇÃO
-→ apresenta a realidade.
+→ apresenta realidade.
 
 REGISTRO
 → preserva o que precisa sobreviver.
+```
+
+## Direção ativa não é acontecimento
+
+Se o Diretor determinou algo que ainda não aconteceu:
+
+```text
+DIREÇÃO AINDA ATIVA
+→ preservar como Direção.
+
+LIVRO
+→ ainda não registra como acontecimento.
+```
+
+Exemplo:
+
+```text
+Direção: A perde o confronto atual.
+Escopo fechado: resultado do confronto.
+Permanece aberto: método e decisões intermediárias.
+```
+
+Quando a derrota realmente acontecer:
+
+```text
+→ Livro pode registrar como aconteceu.
+→ Estado remove a Direção já consumada.
 ```
 
 ## Arquivos do manual
@@ -74,9 +107,7 @@ registro/
 
 ### Ficha
 
-Preserva identidade, capacidades, conhecimentos, Traços, Poderes, Equipamentos, Recursos, personalidade, relações e Histórico relevantes da personagem.
-
-O bloco `Estado Atual` da ficha guarda somente o recorte pessoal temporário daquela personagem.
+Preserva identidade, capacidades, conhecimentos, Traços, Poderes, Equipamentos, Recursos, personalidade, relações e Histórico.
 
 ### Estado da Campanha
 
@@ -92,13 +123,12 @@ posições relevantes
 condições temporárias
 efeitos ativos
 transformações em curso
-Equipamentos ou Recursos indisponíveis
+equipamentos ou recursos indisponíveis
 intenções persistentes
 processos e prazos
+Direções Autorais Ativas
 primeiro ponto ainda aberto
 ```
-
-Não é histórico completo.
 
 ### Livro
 
@@ -108,6 +138,7 @@ Não registra como fato consumado:
 
 ```text
 intenção ainda não executada
+Direção ainda não consumada
 hipótese
 plano futuro
 decisão ainda aberta
@@ -125,35 +156,6 @@ Preserva planos, processos, recursos e conhecimentos adversariais legitimamente 
 
 Plano não é acontecimento até ocorrer.
 
-## Vida, Mente e Mana
-
-Os antigos mecanismos universais de `Vida`, `Mente` e `Mana` pertencem ao motor legado.
-
-Eles não são campos obrigatórios de ficha, Estado, capítulo, reancoragem ou fechamento.
-
-```text
-VIDA UNIVERSAL
-MENTE UNIVERSAL
-MANA UNIVERSAL
-→ não registrar como pressupostos do sistema ativo.
-```
-
-Quando uma personagem, Poder, Equipamento, Traço ou campanha possuir **um recurso ou condição específica realmente definida**, registrar aquilo pelo nome e escopo próprios.
-
-Exemplos:
-
-```text
-Condição: braço fraturado.
-
-Transformação: forma espectral ativa.
-
-Recurso específico: três cargas restantes do artefato.
-
-Limitação: Poder indisponível até o amanhecer.
-```
-
-> **Registrar o fato que existe; não recriar uma barra genérica para representá-lo.**
-
 ## Conhecimento por personagem
 
 Um fato pode ser verdadeiro sem ser conhecido por todas as cadeiras.
@@ -164,50 +166,57 @@ CAMPANHA SABE
 PERSONAGEM SABE
 ```
 
-Se uma informação precisa orientar decisões recorrentes de uma personagem, consolidá-la na ficha quando apropriado.
+O mesmo vale para Direção:
 
-Não copiar conhecimento automaticamente para outras personagens.
+```text
+DIRETOR / EXECUTOR SABE
+≠
+PERSONAGEM SABE
+```
 
 ## Processos e prazos
 
-Processos continuam existindo fora da cena quando já foram legitimamente estabelecidos.
-
-Exemplo:
-
-```text
-Processo: investigação de Dick
-Estado: em andamento
-Prazo: primeiras pistas em 10 dias
-```
+Processos continuam existindo fora da cena quando legitimamente estabelecidos.
 
 O Registro preserva o processo; não precisa reencená-lo a cada resposta.
 
 ## Duplicação legítima
 
-Uma mesma realidade pode aparecer em duas fontes quando cada uma responde a uma pergunta diferente.
+Uma mesma realidade pode aparecer em duas fontes quando cada uma responde a pergunta diferente.
 
 ```text
 LIVRO
-→ registra que Corvin foi ferido.
+→ registra que A foi ferida.
 
-ESTADO DA CAMPANHA
+ESTADO
 → registra que o ferimento ainda existe agora.
 
-FICHA / ESTADO ATUAL DA PERSONAGEM
-→ pode carregar o recorte pessoal desse ferimento.
+FICHA / ESTADO PESSOAL
+→ carrega o recorte necessário.
 ```
 
-Isso não exige trilho numérico universal.
-
-Outro exemplo:
+Direção pendente segue lógica diferente:
 
 ```text
-LIVRO
-→ registra que Ravena aprendeu um fato.
+ESTADO
+→ preserva a Direção enquanto ainda está ativa.
 
-FICHA DE RAVENA
-→ preserva o conhecimento que ela precisa continuar levando consigo.
+LIVRO
+→ registra apenas o acontecimento depois que ele ocorrer.
 ```
+
+## Vida, Mente e Mana
+
+Os antigos mecanismos universais pertencem ao motor legado.
+
+```text
+VIDA UNIVERSAL
+MENTE UNIVERSAL
+MANA UNIVERSAL
+→ não registrar como pressupostos do sistema ativo.
+```
+
+Registrar somente condição, custo ou recurso específico realmente existente.
 
 ## Fechar capítulo
 
@@ -217,16 +226,15 @@ O comando `fechar o capítulo` segue `fechar-capitulo.md`:
 parar
 → consolidar capítulo
 → atualizar fontes afetadas
+→ preservar Direções ainda ativas sem executá-las
 → reset operacional
-→ reancorar
+→ reancorar Diretor, autoridades e realidade
 → continuar do Estado atual
 ```
 
-O fechamento não fabrica clímax, passagem de tempo nem nova decisão.
-
 ## Fechar temporada
 
-Quando a condição de encerramento for realmente alcançada:
+Quando o arco realmente termina:
 
 ```text
 fechar último capítulo
@@ -239,11 +247,7 @@ fechar último capítulo
 → perguntar “E agora?”
 ```
 
-A próxima temporada não nasce automaticamente de um problema aberto.
-
 ## Salvar não joga
-
-Quando o pedido for apenas salvar ou registrar:
 
 ```text
 SALVAR
@@ -254,28 +258,25 @@ SALVAR
 continuar jogando.
 ```
 
-Parar no último fato estabelecido e não decidir nada que ainda esteja aberto.
+Isso inclui não consumir uma Direção pendente durante o salvamento.
 
 ## Dados vivos ficam em `campanhas/`
 
-Isso inclui, conforme a necessidade real:
+Conforme necessidade:
 
 ```text
-Narrativa da Campanha
+Direção da Campanha
+Direções Autorais Ativas
 Roteiro ativo
 fichas
 Estado global
 relações e conhecimentos consolidados
-condições e efeitos presentes
-Equipamentos e Recursos relevantes
 processos e prazos
 mundo
 planos do Opositor
 capítulos, epílogos, resumos e mapas
 ```
 
-Não criar campos mecânicos apenas porque existiam em versões anteriores.
-
 ## Regra final
 
-> **Registro é a memória canônica da campanha. A ficha preserva a personagem, o Estado preserva o presente global, o Livro preserva o passado e as demais fontes preservam o contexto que lhes pertence. Vida, Mente e Mana não são estruturas universais do sistema ativo; registrar somente condições, custos e recursos que realmente existam em uma fonte canônica específica.**
+> **Registro é a memória canônica da campanha. A ficha preserva a personagem, o Estado preserva o presente e Direções locais ainda ativas, o Livro preserva o passado e as demais fontes preservam seu próprio contexto. Direção pendente nunca vira acontecimento apenas porque foi salva, e conhecimento autoral nunca vira conhecimento da personagem.**
