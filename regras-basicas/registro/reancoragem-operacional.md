@@ -60,14 +60,14 @@ A reancoragem precisa restaurar:
 
 ```text
 Configuração das Cadeiras
-autoridade
+autoridade e executor de cada função relevante
 fatos relevantes
 fichas das peças necessárias
 conhecimento legítimo por cadeira
 intenções persistentes
-posição e estado atual
+posição e Estado Atual
 processos e prazos ativos
-primeira decisão humana ainda aberta
+primeira decisão voluntária ainda aberta e a cadeira a que pertence
 ```
 
 ---
@@ -91,8 +91,6 @@ regras-basicas/nucleo/1.0.1-auditoria-das-cadeiras.md
 +
 regras-basicas/nucleo/1.1-narrador.md
 +
-regras-basicas/nucleo/1.6-execucao-por-uma-unica-ia.md
-+
 campanhas/<nome>/mestre/narrativa.md
 +
 campanhas/<nome>/mestre/roteiro.md
@@ -100,6 +98,12 @@ campanhas/<nome>/mestre/roteiro.md
 campanhas/<nome>/estado/atual.md
 +
 fichas das personagens relevantes
+```
+
+Quando a configuração usar uma única IA ou outro mesmo executor para várias cadeiras e isso for operacionalmente relevante, consultar também:
+
+```text
+regras-basicas/nucleo/1.6-execucao-por-uma-unica-ia.md
 ```
 
 Quando houver oposição relevante, carregar também:
@@ -123,6 +127,9 @@ A primeira imagem operacional deve ser simples:
 ```text
 CADEIRAS DECIDEM
 → cada uma somente dentro de sua autoridade.
+
+EXECUTORES OPERAM
+→ humano, IA ou outro participante executa uma cadeira sem alterar sua soberania.
 
 FICHA ESTABELECE FATOS
 → identidade, capacidades, conhecimento, limitações e comparações.
@@ -152,7 +159,7 @@ DECLARAÇÃO
 → Narrador julga
 → abrir Mesa somente se houver dúvida ou discordância real
 → narrar
-→ parar na primeira nova decisão voluntária humana
+→ se surgir nova decisão voluntária, devolvê-la à cadeira correta
 ```
 
 ### Invariantes centrais
@@ -160,12 +167,25 @@ DECLARAÇÃO
 A reancoragem deve restaurar sempre:
 
 ```text
-JOGADOR HUMANO decide sua personagem.
-JOGADOR IA decide sua própria personagem.
-JOGADOR IA EVENTUAL decide a peça que assumiu.
-OPOSITOR representa oposição legítima.
-NARRADOR / JUIZ não escolhe voluntariamente por outra cadeira.
-DIRETOR usa [ ] e não transfere conhecimento para a personagem.
+CADEIRA DE PERSONAGEM
+→ decide voluntariamente por sua própria personagem.
+
+EXECUTOR
+→ opera a cadeira ou função configurada.
+→ não recebe autoridade extra por ser humano, IA ou outro participante.
+
+MESMO EXECUTOR
+≠ MESMA CADEIRA.
+
+OPOSITOR
+→ representa oposição legítima dentro de sua autoridade.
+
+NARRADOR / JUIZ
+→ não escolhe voluntariamente por uma Cadeira de Personagem.
+
+DIREÇÃO AUTORAL
+→ pode ser sinalizada por [ ] na execução textual.
+→ não transfere conhecimento para a personagem.
 ```
 
 Também restaurar:
@@ -183,8 +203,11 @@ DISPUTA
 FICÇÃO JÁ RESPONDE
 → seguir a ficção.
 
-NOVA ESCOLHA HUMANA
-→ parar e devolver controle.
+NOVA ESCOLHA VOLUNTÁRIA
+→ pertence à cadeira responsável.
+
+EXECUTOR DEPENDE DE ENTRADA EXTERNA
+→ aguardar essa entrada em vez de inventar a escolha.
 ```
 
 ---
@@ -200,7 +223,7 @@ NARRATIVA DA CAMPANHA
 → identidade persistente, foco, gênero, tom e premissas.
 
 ROTEIRO DA TEMPORADA
-→ problema atual, Diretriz Fechada, processos, limites e condição de encerramento.
+→ problema atual, Diretriz Fechada, processos, limites e condição de encerramento, quando esse modelo estiver ativo.
 
 ESTADO ATUAL
 → presente operacional.
@@ -229,7 +252,7 @@ PERSONAGEM SABE PARA DECIDIR
 
 ## 6 — Montar um pacote para cada cadeira
 
-Cada cadeira de personagem deve ser reconstruída separadamente.
+Cada Cadeira de Personagem deve ser reconstruída separadamente.
 
 ### Pacote de personagem
 
@@ -271,7 +294,7 @@ PACOTE A
 PACOTE B
 ```
 
-Uma única IA técnica pode executar ambos, mas precisa trocar de escopo ao trocar de cadeira.
+Um mesmo executor pode operar ambos, mas precisa trocar de escopo ao trocar de cadeira.
 
 ---
 
@@ -326,11 +349,14 @@ NARRADOR
 
 ## 8 — Separação de conhecimento
 
-A IA técnica pode possuir acesso amplo sem transformar esse acesso em conhecimento ficcional.
+Um executor pode possuir acesso amplo sem transformar esse acesso em conhecimento ficcional.
 
 Restaurar explicitamente:
 
 ```text
+EXECUTOR SABE
+≠ PERSONAGEM SABE
+
 IA TÉCNICA SABE
 ≠ PERSONAGEM SABE
 
@@ -340,7 +366,7 @@ NARRADOR SABE
 OPOSITOR SABE
 ≠ ANTAGONISTA SABE
 
-DIRETOR SABE
+DIREÇÃO AUTORAL SABE / PROPÕE
 ≠ PERSONAGEM SABE
 
 FICHA ALHEIA EXISTE
@@ -362,7 +388,7 @@ Se não, a informação não entra na decisão daquela personagem.
 
 ## 9 — Restaurar autonomia
 
-Reancorar uma cadeira de IA não significa apenas lembrar sua personalidade.
+Reancorar uma Cadeira de Personagem não significa apenas lembrar sua personalidade.
 
 Significa restaurar sua autoridade para decidir.
 
@@ -373,7 +399,7 @@ iniciar ações
 manter intenções
 mudar de intenção quando a situação justificar
 procurar outras personagens
-agir fora da presença do protagonista
+agir fora da presença de outra peça
 interagir entre si
 aceitar
 recusar
@@ -382,9 +408,9 @@ contrariar
 não agir
 ```
 
-Tudo deve nascer da própria ficha, estado, conhecimento e situação.
+Tudo deve nascer da própria ficha, Estado, conhecimento e situação.
 
-Não centralizar a campanha artificialmente na personagem humana.
+Não centralizar a campanha artificialmente em uma única personagem por causa de quem a executa.
 
 ```text
 A está ocupada
@@ -493,7 +519,7 @@ Perguntar apenas:
 ```text
 existe objeção ainda não resolvida?
 existe conflito de autoridade pendente?
-existe direção [ ] ainda aguardando alinhamento?
+existe Direção Autoral [ ] ainda aguardando alinhamento?
 existe dúvida factual que precisa ser resolvida antes da prosa?
 ```
 
@@ -522,32 +548,49 @@ Antes de voltar à ficção, identificar exatamente onde a autoria ainda está a
 Perguntar:
 
 ```text
-o último fato estabelecido qual foi?
+qual foi o último fato estabelecido?
 que ações já foram concluídas?
 que intenções ainda continuam?
 que acontecimentos automáticos já estão em curso?
-existe pergunta dirigida à personagem humana?
+existe pergunta dirigida a alguma personagem?
 existe interferência que acabou de criar uma nova escolha?
-existe decisão humana ainda não declarada?
+existe decisão voluntária ainda não declarada?
+a qual cadeira essa decisão pertence?
 ```
 
-### Se existe nova decisão humana
+### Se existe nova decisão voluntária
 
 ```text
-PARAR NELA
+DEVOLVER À CADEIRA RESPONSÁVEL
 → apresentar somente a situação necessária
-→ devolver controle ao Jogador Humano
+→ executar essa cadeira sem que outra autoridade escolha por ela
 ```
 
-### Se não existe nova decisão humana
+Se o executor dessa cadeira depende de entrada externa:
+
+```text
+AGUARDAR ENTRADA
+→ não avançar por cima da escolha
+→ não inventar resposta
+```
+
+Se o executor pode decidir no mesmo fluxo:
+
+```text
+TROCAR PARA A CADEIRA CORRETA
+→ formar sua decisão com o pacote legítimo
+→ voltar ao fluxo normal
+```
+
+### Se não existe nova decisão voluntária
 
 ```text
 → continuar as intenções persistentes
-→ processar iniciativas legítimas de outras cadeiras
+→ processar iniciativas legítimas das cadeiras
 → avançar somente até o próximo ponto relevante
 ```
 
-Não existe prioridade automática do protagonista.
+Não existe prioridade automática de uma personagem por causa de seu executor.
 
 ---
 
@@ -556,7 +599,7 @@ Não existe prioridade automática do protagonista.
 Depois da reancoragem:
 
 ```text
-CONFIGURAÇÃO DAS CADEIRAS E AUTORIDADES RECONSTRUÍDAS
+CONFIGURAÇÃO DAS CADEIRAS, EXECUTORES E AUTORIDADES RECONSTRUÍDA
 +
 MOTOR RECONSTRUÍDO
 +
@@ -570,7 +613,7 @@ PONTO ABERTO IDENTIFICADO
 → CONTINUAR
 ```
 
-Não recitar as regras ao usuário por padrão.
+Não recitar as regras ao participante por padrão.
 
 Uma confirmação curta pode ser usada quando útil:
 
@@ -586,7 +629,7 @@ A confirmação não substitui a reconstrução real.
 
 A reancoragem não deve restaurar automaticamente mecanismos pertencentes ao motor anterior.
 
-Até que sejam deliberadamente reformulados e aprovados, não tratar como invariantes do sistema:
+Não tratar como invariantes do sistema:
 
 ```text
 Atributo + Perícia
@@ -615,8 +658,9 @@ Antes de produzir ficção, o Narrador deve conseguir responder:
 
 ```text
 [ ] Sei sobre o que esta campanha é.
-[ ] Sei qual temporada está ativa e quais são seus limites.
+[ ] Sei qual arco ou temporada está ativo, quando houver, e quais são seus limites.
 [ ] Sei qual é a Configuração das Cadeiras relevante agora.
+[ ] Sei quem executa cada autoridade relevante.
 [ ] Sei o presente necessário para continuar.
 [ ] Sei quais cadeiras estão relevantes agora.
 [ ] Cada cadeira possui apenas seu próprio pacote decisório.
@@ -624,7 +668,7 @@ Antes de produzir ficção, o Narrador deve conseguir responder:
 [ ] Intenções persistentes foram restauradas.
 [ ] Processos e prazos relevantes foram restaurados.
 [ ] Sei se existe Mesa pendente ou não.
-[ ] Sei qual é a primeira nova decisão humana ainda aberta.
+[ ] Sei qual é a primeira decisão voluntária ainda aberta e a qual cadeira ela pertence.
 ```
 
 Se uma resposta essencial for não, consultar somente a fonte necessária antes de narrar.
@@ -633,4 +677,4 @@ Se uma resposta essencial for não, consultar somente a fonte necessária antes 
 
 ## Regra final
 
-> **Reancorar significa reconstruir a Configuração das Cadeiras, suas autoridades e a realidade necessária para continuar, não recarregar um conjunto antigo de fórmulas. O Narrador recupera o que precisa para julgar; cada cadeira recupera somente sua própria ficha, Estado Atual, conhecimento legítimo, percepção e intenção; o Opositor recupera apenas a oposição pertinente; e a IA preserva a separação entre acesso técnico e conhecimento ficcional. A Mesa não é a composição da campanha: só aparece quando existe dúvida ou conflito real. Depois disso, a história retorna exatamente ao primeiro ponto ainda aberto, parando sempre que uma nova decisão voluntária pertencer ao Jogador Humano.**
+> **Reancorar significa reconstruir a Configuração das Cadeiras, seus executores, suas autoridades e a realidade necessária para continuar, não recarregar um conjunto antigo de fórmulas. O Narrador recupera o que precisa para julgar; cada cadeira recupera somente sua própria ficha, Estado Atual, conhecimento legítimo, percepção e intenção; o Opositor recupera apenas a oposição pertinente; e o executor preserva a separação entre acesso técnico e conhecimento ficcional. Depois disso, a história retorna ao primeiro ponto ainda aberto. Toda nova decisão voluntária pertence à cadeira responsável; se seu executor depender de entrada externa, a execução aguarda essa entrada em vez de decidir por ela.**
