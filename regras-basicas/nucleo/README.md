@@ -131,36 +131,40 @@ Quando determinada cadeira depende de entrada externa de seu executor, a execuç
 
 Os nomes físicos `1.2-jogador-humano.md`, `1.3-jogador-ia.md` e `1.4-jogador-ia-eventual.md` são mantidos por compatibilidade documental. Conceitualmente, eles são **perfis de execução**, não tipos fundamentais de cadeira.
 
-## Arquivos do motor anterior
+## Histórico do motor anterior
 
-Os arquivos abaixo são **marcadores de legado**. Eles não contêm regra ativa e não devem ser usados para reconstruir o motor antigo:
+Os marcadores de subsistemas que já não possuem função no motor atual foram removidos da árvore ativa.
 
-```text
-0.2-rolagens.md
-0.3-consequencias.md
-0.4-disputas-simultaneas.md
-0.5-combate.md
-0.6-dano-e-ferimentos.md
-0.7-iniciativa.md
-0.9-alcance-e-movimento.md
-0.10-mana.md
-0.11-vida-e-mente.md
-0.12-ataques-mentais.md
-0.13-cura-e-recuperacao.md
-0.14-potencia-de-efeito.md
-```
-
-O conteúdo histórico permanece recuperável pelo histórico do Git.
+Isso inclui o antigo conjunto de regras universais de:
 
 ```text
-LEGADO
-→ referência histórica.
-
-LEGADO
-≠ regra pendente que pode ser aplicada enquanto ninguém olha.
+rolagens obrigatórias
+faixas de consequência por dado
+disputas matemáticas
+combate separado
+trilho de dano
+iniciativa matemática
+alcance universal
+Mana universal
+Vida / Mente universais
+ataques mentais como subsistema separado
+cura por trilho universal
+Potência de Efeito
 ```
 
-Nenhuma reancoragem, julgamento, combate, investigação ou registro deve consultar esses arquivos como autoridade mecânica.
+O histórico permanece recuperável pelo Git.
+
+```text
+HISTÓRICO DO GIT
+→ preserva a evolução e as mecânicas abandonadas.
+
+NÚCLEO ATIVO
+→ contém somente regras que ainda possuem função atual.
+```
+
+> **Legado histórico não possui autoridade apenas porque ainda pode ser consultado no Git.**
+
+Nenhuma reancoragem, julgamento, combate, investigação ou registro deve reconstruir essas mecânicas antigas a partir do histórico.
 
 ## Princípios atuais
 
@@ -229,7 +233,7 @@ DIREÇÃO AUTORAL
 
 ## Combate no núcleo atual
 
-Combate não ativa o motor legado.
+Combate não ativa um subsistema mecânico separado.
 
 ```text
 COMBATE
