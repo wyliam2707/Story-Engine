@@ -1,7 +1,7 @@
 # Duas Vidas Normais
 
 STATUS
-→ EM PREPARAÇÃO
+→ PRONTA PARA JOGAR
 
 ## Proposta curta
 
