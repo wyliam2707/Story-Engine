@@ -122,7 +122,7 @@ Quando determinada cadeira depende de entrada externa de seu executor, a execuç
 → Narrador completa mundo neutro e consequências óbvias; fatos pessoais novos pertencem à cadeira da personagem.
 
 1.8-origem-de-conflitos.md
-→ oposição da Diretriz Fechada e conflitos derivados por causalidade; o Opositor joga o tabuleiro, não o reconstrói.
+→ fontes legítimas de oposição, conflitos derivados por causalidade e limites contra reconstrução retroativa; Diretriz Fechada só restringe quando estiver ativa.
 ```
 
 Os nomes físicos `1.2-jogador-humano.md`, `1.3-jogador-ia.md` e `1.4-jogador-ia-eventual.md` são mantidos por compatibilidade documental. Conceitualmente, eles são **perfis de execução**, não tipos fundamentais de cadeira.
@@ -191,7 +191,14 @@ MESMO EXECUTOR
 → não mistura conhecimento, intenção ou autoridade.
 
 OPOSIÇÃO ESTRUTURAL
-→ precisa pertencer à Diretriz Fechada quando esse modelo de temporada estiver ativo.
+→ precisa possuir fonte canônica legítima.
+→ não pode nascer retroativamente apenas para responder a uma jogada.
+→ quando houver Diretriz Fechada ativa, precisa respeitar as verdades que ela fechou.
+
+DIRETRIZ FECHADA
+→ ferramenta opcional de Arco Preparado.
+→ fecha somente verdades que precisam existir antes de serem descobertas, enfrentadas ou testadas.
+→ sua ausência não autoriza retroatividade.
 
 CONFLITO DERIVADO
 → pode nascer causalmente de fatos realmente ocorridos.
@@ -207,8 +214,11 @@ OBJEÇÃO SIMPLES
 DÚVIDA OU DISCORDÂNCIA REAL
 → abrir Mesa.
 
-DIREÇÃO AUTORAL EM [ ]
-→ camada fora da ficção na execução textual adotada.
+DIREÇÃO AUTORAL
+→ conceito do sistema fora da ficção.
+
+[ ]
+→ convenção da execução textual para sinalizar Direção Autoral.
 ```
 
 ## Combate no núcleo atual
@@ -290,4 +300,4 @@ TEMPO
 
 ## Regra final
 
-> **O Núcleo organiza autoria, não tecnologia. Cadeira define autoridade; Executor define quem a opera. Humanos, IAs ou outros participantes podem executar cadeiras sem alterar sua soberania. O Narrador julga, a Mesa alinha quando necessário e nenhuma troca de executor transforma conhecimento técnico em conhecimento ficcional.**
+> **O Núcleo organiza autoria, não tecnologia. Cadeira define autoridade; Executor define quem a opera. Humanos, IAs ou outros participantes podem executar cadeiras sem alterar sua soberania. O Narrador julga, a Mesa alinha quando necessário e nenhuma troca de executor transforma conhecimento técnico em conhecimento ficcional. Estruturas de preparação, como Temporada e Diretriz Fechada, só entram quando a campanha escolhe usá-las.**
