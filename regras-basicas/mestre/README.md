@@ -160,9 +160,10 @@ Seguir `../nucleo/1.6-execucao-por-uma-unica-ia.md`.
 10. permitir objeção factual curta quando necessária.
 11. abrir Mesa somente se houver dúvida, discordância ou conflito real de autoridade.
 12. estabelecer a sentença.
-13. narrar até a primeira nova decisão humana relevante.
-14. registrar somente aquilo que precisa continuar verdadeiro.
-15. conferir se a condição de encerramento da temporada foi alcançada.
+13. narrar até que surja uma nova decisão voluntária que pertença a alguma cadeira.
+14. devolver essa decisão à cadeira correta; se o executor depender de entrada externa, aguardar em vez de decidir por ela.
+15. registrar somente aquilo que precisa continuar verdadeiro.
+16. conferir se a condição de encerramento da temporada foi alcançada.
 ```
 
 Não exigir declaração formal de todas as cadeiras a cada pequena mudança.
@@ -258,7 +259,7 @@ Define descrição, atmosfera e primeiro plano da cena sem trocar o sistema de a
 
 ### `dramatizacao-e-resumo.md`
 
-Define quando viver a cena em detalhe e quando condensar tempo, rotina ou repetição sem atravessar nova escolha humana.
+Define quando viver a cena em detalhe e quando condensar tempo, rotina ou repetição sem atravessar nova escolha voluntária de uma cadeira.
 
 ### `intimidade-e-romance.md`
 
@@ -512,7 +513,7 @@ As regras antigas de Ataque, Defesa, Potência, Resistência, dano numérico e i
 
 ## Intenções longas e tempo
 
-Uma intenção humana pode definir um horizonte:
+Uma intenção de uma Cadeira de Personagem pode definir um horizonte:
 
 ```text
 "vou estudar até o almoço"
@@ -525,25 +526,40 @@ Isso não congela o mundo nem garante um salto direto até o final.
 Enquanto a intenção continua:
 
 ```text
-Jogadores IA podem agir
-Jogadores IA podem interagir entre si
+outras cadeiras podem agir
+outras cadeiras podem interagir entre si
 personagens podem mudar de intenção quando suas atividades terminam
 Opositor pode agir dentro de fatos e processos legítimos
 processos continuam
 prazos avançam
 ```
 
-Se algo cria uma nova decisão humana significativa:
+Se algo cria uma nova decisão significativa para alguma personagem:
 
 ```text
-PARAR NO PONTO EM QUE ACONTECEU
+IDENTIFICAR A CADEIRA RESPONSÁVEL
 → apresentar a nova situação
-→ devolver controle ao Jogador Humano
+→ devolver a decisão a essa cadeira
 ```
 
-Se não cria nova escolha humana, o mundo pode continuar normalmente até o próximo ponto relevante.
+Se o executor dessa cadeira depende de entrada externa:
 
-Seguir `../nucleo/0.8-tempo-e-acoes.md` enquanto suas partes compatíveis com a reformulação permanecerem em vigor.
+```text
+AGUARDAR A ENTRADA
+→ não decidir por ela para manter o fluxo.
+```
+
+Se o executor pode decidir no mesmo fluxo:
+
+```text
+EXECUTAR A CADEIRA SEPARADAMENTE
+→ colher sua decisão
+→ continuar.
+```
+
+Se não cria nova escolha, o mundo pode continuar normalmente até o próximo ponto relevante.
+
+Seguir `../nucleo/0.8-tempo-e-acoes.md`.
 
 ## Mesa de Direção
 
@@ -636,7 +652,8 @@ quais fatos determinaram isso?
 que decisões vieram de quais cadeiras?
 o que mudou na situação?
 qual intenção continua?
-existe nova decisão humana agora?
+existe nova decisão voluntária agora?
+a qual cadeira ela pertence?
 ```
 
 Só depois transforma a sentença em prosa.
@@ -649,4 +666,4 @@ Seguir `narracao-da-sentenca.md` e `perspectiva-e-fala.md`.
 
 ## Regra final
 
-> **O Narrador preserva uma única estrutura de autoria em qualquer tipo de cena. Cotidiano, romance, investigação, exploração, perigo e combate apenas mudam quais fatos estão em primeiro plano. As cadeiras continuam soberanas sobre suas próprias decisões, a ficha continua estabelecendo identidade e capacidades, o Opositor continua representando resistência legítima e o Narrador continua sendo Juiz: consulta a realidade, reconhece quem possui autoridade, estabelece somente o que os fatos sustentam e narra até a primeira nova decisão humana.**
+> **O Narrador preserva uma única estrutura de autoria em qualquer tipo de cena. Cotidiano, romance, investigação, exploração, perigo e combate apenas mudam quais fatos estão em primeiro plano. As cadeiras continuam soberanas sobre suas próprias decisões, a ficha continua estabelecendo identidade e capacidades, o Opositor continua representando resistência legítima e o Narrador continua sendo Juiz: consulta a realidade, reconhece quem possui autoridade, estabelece somente o que os fatos sustentam e, quando surge uma nova decisão voluntária, devolve-a à cadeira correta. Parar ou continuar depende do executor dessa cadeira; decidir por ela nunca é uma opção.**
