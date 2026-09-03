@@ -75,7 +75,7 @@ LIVRO / MUNDO / OPOSITOR / OUTRAS FONTES
 → contexto consultado somente quando necessário.
 ```
 
-O `README.md` da campanha também preserva, quando aplicável, a **Configuração das Cadeiras**: quem ocupa cada autoridade persistente.
+O `README.md` da campanha também preserva, quando aplicável, a **Configuração das Cadeiras**: quais autoridades existem, quem ou o que as executa e quais peças pertencem a elas.
 
 Não pedir novamente informação já registrada em fonte canônica.
 
@@ -119,7 +119,7 @@ que Equipamentos ou Recursos estão indisponíveis?
 que intenções persistem?
 que processos ou prazos estão prestes a interferir?
 qual foi o último fato estabelecido?
-qual é a primeira decisão humana ainda aberta?
+qual é a primeira decisão voluntária ainda aberta e a qual cadeira ela pertence?
 ```
 
 Não presumir campos universais de `Vida`, `Mente` ou `Mana`.
@@ -144,7 +144,7 @@ CADEIRA
 
 ## Separação das cadeiras
 
-Uma única IA técnica pode executar várias cadeiras, mas cada uma opera somente com:
+Um mesmo executor pode operar várias cadeiras, mas cada uma funciona somente com:
 
 ```text
 sua própria ficha
@@ -159,7 +159,7 @@ sua intenção atual, quando houver
 ```
 
 ```text
-IA TÉCNICA SABE
+EXECUTOR SABE
 ≠
 PERSONAGEM SABE
 ```
@@ -172,7 +172,7 @@ Não confundir composição persistente com procedimento temporário.
 
 ```text
 CONFIGURAÇÃO DAS CADEIRAS
-→ quem ocupa cada autoridade na campanha.
+→ quais autoridades existem na campanha e quem as executa.
 → deve ser reconstruída na retomada.
 
 TRIBUNAL
@@ -233,8 +233,20 @@ CADEIRAS DECIDEM
 → Narrador/Juiz julga
 → Mesa somente se houver dúvida ou conflito real
 → narrar
-→ parar na primeira nova escolha voluntária humana
+→ quando surgir nova decisão voluntária, devolvê-la à cadeira correta
 ```
+
+A forma de continuidade depende do executor dessa cadeira:
+
+```text
+EXECUTOR PODE DECIDIR NO MESMO FLUXO
+→ executar a cadeira separadamente e continuar.
+
+EXECUTOR DEPENDE DE ENTRADA EXTERNA
+→ apresentar a situação e aguardar essa entrada.
+```
+
+O Narrador não escolhe a decisão apenas para evitar uma interrupção operacional.
 
 Uma intenção longa não congela as outras cadeiras nem os processos já estabelecidos.
 
@@ -296,4 +308,4 @@ Se uma campanha histórica possui um recurso particular que continua canonicamen
 
 ## Regra final
 
-> **Para começar ou retomar uma campanha pronta, reconstruir a Configuração das Cadeiras, suas autoridades, fichas, Estado global, conhecimento por cadeira, intenções e processos antes da nova ficção. A Mesa não é uma fase fixa da retomada: só abre quando existe uma questão real entre autoridades. Vida, Mente e Mana não são campos universais de retomada; somente condições, recursos e custos definidos por fontes canônicas específicas continuam sendo acompanhados.**
+> **Para começar ou retomar uma campanha pronta, reconstruir a Configuração das Cadeiras, suas autoridades, executores, fichas, Estado global, conhecimento por cadeira, intenções e processos antes da nova ficção. Toda nova decisão voluntária volta para a cadeira que possui sua autoridade; se o executor dessa cadeira depender de entrada externa, a execução aguarda essa entrada em vez de inventar a escolha. A Mesa não é uma fase fixa da retomada: só abre quando existe uma questão real entre autoridades. Vida, Mente e Mana não são campos universais de retomada; somente condições, recursos e custos definidos por fontes canônicas específicas continuam sendo acompanhados.**
