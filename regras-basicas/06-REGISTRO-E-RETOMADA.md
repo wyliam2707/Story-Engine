@@ -45,7 +45,7 @@ oposicao.md
 → que oposição persistente opcional continua agindo?
 
 livro/
-→ o que aconteceu em forma literária, quando esse módulo estiver ativo?
+→ que ficção já aconteceu, organizada em capítulos, quando o módulo Livro estiver ativo?
 ```
 
 ## Direção e Estado são diferentes
@@ -82,7 +82,7 @@ direcao.md
 → remove a Direção local já consumida.
 
 livro/
-→ pode registrar como aconteceu, se o módulo estiver ativo.
+→ pode registrar como aconteceu, se o módulo Livro estiver ativo.
 ```
 
 ## Estado
@@ -106,6 +106,63 @@ Não é diário completo.
 
 A ficha não duplica esse estado.
 
+## Livro e capítulos
+
+Quando o módulo Livro estiver ativo, o Livro preserva a ficção já acontecida.
+
+```text
+livro/
+→ obra completa registrada.
+
+livro/001-....md
+→ primeiro capítulo.
+
+livro/002-....md
+→ segundo capítulo.
+```
+
+O capítulo registra ficção, não a Direção usada para conduzi-la.
+
+Entram:
+
+```text
+narração válida
+ações realmente realizadas
+falas
+pensamentos explicitamente estabelecidos
+descobertas
+consequências
+passagem de tempo ocorrida
+```
+
+Não entram:
+
+```text
+Direção
+Consulta
+Auditoria
+Análise
+instrução de cena
+metaconversa
+hipótese
+resultado aberto
+versão anulada ou refeita
+```
+
+Quando a origem estiver estabelecida, preservar marcadores como:
+
+```text
+NARRADOR
+KARA
+KARA — pensamento
+DANIEL
+DANIEL — pensamento
+```
+
+Isso permite reconstruir o passado sem transformar conhecimento do leitor em conhecimento universal das personagens.
+
+> **O Livro preserva a ficção. Não preserva o processo autoral que ficou fora da ficção.**
+
 ## Conhecimento
 
 ```text
@@ -127,6 +184,8 @@ fatos perceptíveis da cena
 ```
 
 Conhecimento recorrente importante pode ser consolidado na ficha da personagem quando fizer parte estável de seu repertório.
+
+O fato de um capítulo mostrar um pensamento, segredo ou narração externa não concede esse conhecimento a outra Cadeira.
 
 ## Salvar
 
@@ -152,6 +211,28 @@ segredo como conhecimento de quem não o descobriu
 ```
 
 > **Salvar não joga.**
+
+## Fechar capítulo
+
+Quando o módulo Livro estiver ativo, `fechar o capítulo` é uma operação de registro e checkpoint.
+
+```text
+1. parar no último fato realmente estabelecido;
+2. reunir somente a ficção válida desde o último capítulo fechado;
+3. excluir Direção, consultas, auditorias, instruções de cena e demais metaconversas;
+4. preservar quem narrou, falou, agiu ou pensou quando essa origem estiver definida;
+5. salvar o novo capítulo dentro de livro/;
+6. atualizar o índice do Livro;
+7. atualizar somente as fontes vivas realmente afetadas;
+8. executar checkpoint operacional;
+9. reancorar antes de continuar.
+```
+
+Não criar um acontecimento novo apenas para produzir um encerramento melhor.
+
+Se uma cena foi corrigida ou refeita, entra somente a versão final válida.
+
+> **Fechar capítulo registra onde a ficção parou. Não joga o fechamento.**
 
 ## Correção de cânone
 
@@ -220,11 +301,12 @@ Não produzir nova ficção antes de reconstruir o mínimo necessário.
 4. carregar estado.md;
 5. carregar fichas relevantes;
 6. carregar arco.md/oposicao.md somente se ativos e pertinentes;
-7. reconstruir pacotes separados das Cadeiras;
-8. restaurar intenções, processos e prazos;
-9. identificar Auditoria pendente;
-10. identificar o primeiro ponto ainda aberto;
-11. só então continuar a ficção.
+7. usar capítulos anteriores apenas para reconstruir passado quando necessário, sem universalizar conhecimento;
+8. reconstruir pacotes separados das Cadeiras;
+9. restaurar intenções, processos e prazos;
+10. identificar Auditoria pendente;
+11. identificar o primeiro ponto ainda aberto;
+12. só então continuar a ficção.
 ```
 
 ## Reconstruir sem contaminar
@@ -236,6 +318,9 @@ DIRETOR SABE
 ≠ PERSONAGEM SABE
 
 ESTADO GLOBAL EXISTE
+≠ TODAS AS PERSONAGENS SABEM
+
+LIVRO MOSTRA
 ≠ TODAS AS PERSONAGENS SABEM
 
 MESMO EXECUTOR
@@ -261,8 +346,8 @@ PARAR
 → CONTINUAR
 ```
 
-Se o módulo Livro estiver ativo, `fechar o capítulo` também pode consolidar o capítulo antes da reancoragem.
+Com o módulo Livro ativo, `fechar o capítulo` consolida primeiro a ficção do capítulo e então executa esse checkpoint.
 
 ## Regra final
 
-> **A ficha preserva a pessoa. O Estado preserva o presente. A Direção preserva a condução autoral. O mundo preserva fatos externos. Módulos preservam somente o que lhes pertence. Reancorar reconstrói essas fontes sem transformá-las em conhecimento universal e retorna exatamente ao primeiro ponto ainda aberto.**
+> **A ficha preserva a pessoa. O Estado preserva o presente. A Direção preserva a condução autoral. O mundo preserva fatos externos. O Livro preserva a ficção passada em capítulos. Reancorar reconstrói essas fontes sem transformá-las em conhecimento universal e retorna exatamente ao primeiro ponto ainda aberto.**
