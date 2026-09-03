@@ -86,6 +86,11 @@ Sua linhagem envelhece de maneira extremamente lenta e pode viver por períodos 
 --- TRAÇO: Dupla Vida
 Na universidade Daniel apresenta principalmente seu lado atlético, sociável e descontraído. Em sua vida particular aparece com muito mais clareza o estudioso recluso que prefere livros, magia e silêncio. As duas facetas são legítimas.
 
+--- TRAÇO: Idioma Ritual — Galês
+Quando uma conjuração da tradição de Daniel exige componente verbal, ele realiza a fórmula em galês.
+
+Isso não significa que toda magia precise de palavras nem que o simples uso do idioma produza magia por si só.
+
 ### Poderes
 
 --- BARREIRA ARCANA [3 — ÁPICE]
@@ -151,7 +156,9 @@ Quando ativado, transporta Daniel imediatamente para esse ponto, sem os 30 segun
 A âncora funciona apenas para a Casa Arcanus e não permite escolher outro destino no momento da ativação. É uma saída de emergência preparada com antecedência, não um teleporte instantâneo universal.
 
 --- RECURSO: apartamento universitário
-Daniel mora em um apartamento comum próximo ao campus.
+Daniel mora no terceiro andar de um prédio comum próximo ao campus.
+
+O apartamento é pequeno, organizado e quase todo integrado: sala e cozinha praticamente compartilham o mesmo espaço, enquanto banheiro e quarto ficam a poucos passos, com pouca divisão interna.
 
 O local é deliberadamente normal e não apresenta fenômenos mágicos visíveis. É sua base para a vida universitária e o espaço onde pode receber pessoas sem expô-las automaticamente ao mundo arcano.
 
