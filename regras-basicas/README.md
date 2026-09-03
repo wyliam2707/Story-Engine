@@ -49,8 +49,8 @@ O motor separa **autoridade narrativa** de **forma de execução**.
 CADEIRA DE PERSONAGEM
 → decide voluntariamente por uma personagem.
 
-OPOSITOR
-→ representa fatos, recursos, intenções e resistência do lado adversarial dentro de sua autoridade.
+OPOSITOR — OPCIONAL
+→ representa forças adversariais persistentes sem cadeira própria quando a campanha se beneficia de uma autoridade estratégica dedicada.
 
 NARRADOR / JUIZ
 → julga o encontro entre decisões e realidade estabelecida.
@@ -100,14 +100,14 @@ Isso não é fala, pensamento ou conhecimento da personagem.
 Nova campanha
 → CRIACAO-DE-CAMPANHA.md
 
-Nova temporada
+Novo Arco Preparado / Temporada
 → CRIACAO-DE-TEMPORADA.md
 
 Começar ou continuar campanha
 → INICIO-E-RETOMADA.md
 ```
 
-Esses arquivos ainda carregam partes do motor anterior e serão revisados gradualmente.
+A Direção da Campanha é obrigatória para o START. Arco Preparado, Diretriz Fechada e Opositor são estruturas opcionais usadas somente quando a campanha realmente precisa delas.
 
 ## Estrutura
 
@@ -127,7 +127,7 @@ regras-basicas/
 
 O Núcleo define autoria, julgamento, comparação e continuidade.
 
-Os arquivos prioritários da reformulação são:
+Arquivos centrais ativos:
 
 ```text
 nucleo/0.0-autoria-narrativa.md
@@ -135,6 +135,9 @@ nucleo/0.0-autoria-narrativa.md
 
 nucleo/0.1-resolucao.md
 → como a ficção resolve ações e conflitos sem exigir RNG.
+
+nucleo/0.8-tempo-e-acoes.md
+→ continuidade temporal, intenções persistentes e devolução de novas decisões à cadeira correta.
 
 nucleo/1.0-tribunal.md
 → soberania das cadeiras, separação entre Cadeira e Executor e Direção Autoral.
@@ -146,17 +149,33 @@ nucleo/1.1-narrador.md
 → função do Narrador como Juiz.
 
 nucleo/1.5-opositor.md
-→ função factual e adversarial do Opositor.
+→ função opcional para oposição persistente sem cadeira própria.
 
 nucleo/1.6-execucao-por-uma-unica-ia.md
 → como uma mesma IA pode executar várias autoridades sem fundi-las.
+
+nucleo/1.7-criacao-emergente.md
+→ criação de mundo neutro, autoria pessoal e preenchimento epistêmico.
+
+nucleo/1.8-origem-de-conflitos.md
+→ fontes legítimas de oposição e limites contra reconstrução retroativa.
 ```
 
-Arquivos antigos de dado, Mana, Potência, dano, iniciativa e outros subsistemas permanecem temporariamente na árvore como material a revisar. Eles não devem ser usados para contradizer os princípios novos já consolidados nos arquivos acima.
+Os antigos marcadores de rolagens, Mana, Vida/Mente, Potência, dano, iniciativa e outros subsistemas do motor anterior foram removidos da árvore ativa.
+
+```text
+HISTÓRICO DO GIT
+→ preserva as versões antigas quando for necessário consultar a evolução do sistema.
+
+ÁRVORE ATIVA
+→ contém somente documentos que ainda cumprem função no motor atual ou estão em revisão real para essa função.
+```
+
+> **Legado histórico não precisa permanecer como arquivo ativo para continuar recuperável.**
 
 ## Jogador e ficha
 
-A ficha passa a funcionar principalmente como **fonte de fatos narrativos e comparação**.
+A ficha funciona principalmente como **fonte de fatos narrativos e comparação**.
 
 Exemplos:
 
@@ -204,6 +223,7 @@ DECLARAÇÃO
 → permitir objeção factual quando necessária
 → Narrador julga
 → narrar
+→ devolver toda nova decisão voluntária à cadeira responsável
 ```
 
 Não existe obrigação de abrir uma auditoria formal para cada frase.
@@ -246,24 +266,22 @@ FICÇÃO JÁ RESPONDE
 → seguir a ficção
 ```
 
-## Estado da migração
+## Estado atual da reformulação
 
-A reformulação começou pelo núcleo de autoria e resolução.
+A árvore ativa já não preserva subsistemas mortos apenas como aviso de que não devem ser usados.
 
-Ainda precisam de revisão conjunta, entre outros:
+Um arquivo pode continuar marcado como `REFORMULAÇÃO` quando ainda precisa de revisão real, mas sua permanência deve responder a uma função atual do sistema.
 
 ```text
-criação completa da ficha
-Patamares e orçamentos
-Vida / Mente / Mana
-combate e dano
-iniciativa e tempo
-Potência de Efeito
-modelos de campanha e temporada que ainda citam o motor mecânico anterior
+FUNÇÃO ATUAL EXISTE
+→ preservar e revisar.
+
+SÓ EXPLICA MECÂNICA MORTA
+→ remover; o Git já preserva o histórico.
 ```
 
-Até essa revisão terminar, preferir os princípios novos quando houver conflito conceitual e marcar inconsistências para correção em vez de inventar compatibilidade automática.
+Esse critério vale para futuras varreduras de limpeza.
 
 ## Regra final
 
-> **Este sistema é uma estrutura para vários autores contarem uma história juntos. Cadeiras definem autoridade; executores apenas as operam. Cada cadeira conserva sua soberania; a ficha fornece fatos, conhecimentos, capacidades e comparações; o Opositor apresenta resistência legítima; o Narrador julga coerência; e o acaso só recebe autoria quando a Mesa deliberadamente quiser entregá-la a ele.**
+> **Este sistema é uma estrutura para vários autores contarem uma história juntos. Cadeiras definem autoridade; executores apenas as operam. Cada cadeira conserva sua soberania; a ficha fornece fatos, conhecimentos, capacidades e comparações; o Opositor só entra quando uma campanha precisa dessa função; o Narrador julga coerência; e o acaso só recebe autoria quando deliberadamente escolhido.**
