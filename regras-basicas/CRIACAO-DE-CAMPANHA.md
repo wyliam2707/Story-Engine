@@ -161,13 +161,26 @@ IMPORTÂNCIA NARRATIVA
 → quanto preservar.
 
 CONTROLE
-→ quem decide.
+→ qual Cadeira de Personagem possui autoridade sobre essa peça.
+
+EXECUTOR
+→ definido na Configuração das Cadeiras; indica quem ou o que opera essa autoridade.
 
 FICHA
 → quem é e o que consegue fazer.
 ```
 
-Ela não mede poder, não concede bônus e não altera autoridade.
+`CONTROLE` não deve ser preenchido com `HUMANO` ou `IA` como se fossem tipos de autoridade.
+
+Exemplo:
+
+```text
+CONTROLE: CADEIRA DE PERSONAGEM A
+```
+
+A forma de execução dessa cadeira é registrada depois na Configuração das Cadeiras.
+
+Importância Narrativa não mede poder, não concede bônus e não altera autoridade.
 
 `Patamar` pertence ao motor anterior e não faz parte da criação ativa.
 
@@ -232,11 +245,19 @@ O Estado Atual é presente operacional, não histórico.
 
 ## 6 — Configuração das Cadeiras
 
-Registrar no `README.md` da campanha quem ocupa cada cadeira necessária e qual função de autoridade está ativa.
+Registrar no `README.md` da campanha quais autoridades existem e quem executa cada uma.
 
-A Configuração das Cadeiras responde:
+A Configuração das Cadeiras responde a duas perguntas diferentes:
 
-> **Quem está sentado e qual autoridade cada cadeira possui nesta campanha?**
+```text
+CADEIRA / FUNÇÃO
+→ qual autoridade existe?
+
+EXECUTOR
+→ quem ou o que opera essa autoridade nesta campanha?
+```
+
+> **Cadeira define autoridade. Executor define quem a opera.**
 
 Ela é um registro persistente de composição da campanha. Não é uma Mesa aberta nem um procedimento de auditoria.
 
@@ -245,14 +266,44 @@ Exemplo:
 ```text
 ## Configuração das Cadeiras
 
-JOGADOR HUMANO → <personagem>
-JOGADOR IA — <personagem> → <personagem>
-JOGADOR IA EVENTUAL → ATIVO, quando necessário
-OPOSITOR → ATIVO
-NARRADOR / JUIZ → ATIVO
+CADEIRA DE PERSONAGEM A
+→ PERSONAGEM: <nome>
+→ EXECUTOR: HUMANO
+
+CADEIRA DE PERSONAGEM B
+→ PERSONAGEM: <nome>
+→ EXECUTOR: IA
+
+CADEIRAS EVENTUAIS
+→ EXECUTOR COMPARTILHADO: IA, quando necessário
+
+OPOSITOR
+→ EXECUTOR: IA
+
+NARRADOR / JUIZ
+→ EXECUTOR: IA
 ```
 
-Cada personagem com cadeira própria mantém sua própria autoridade mesmo quando uma única IA técnica executa várias cadeiras.
+A configuração poderia igualmente usar outros arranjos:
+
+```text
+várias cadeiras executadas por humanos
+uma pessoa executando mais de uma cadeira
+uma IA executando várias cadeiras
+Narrador humano
+Narrador IA
+outro participante executando uma função
+```
+
+Nenhuma dessas escolhas altera a autoridade definida pelo Tribunal.
+
+```text
+MESMO EXECUTOR
+≠
+MESMA CADEIRA
+```
+
+Cada personagem com cadeira própria mantém conhecimento, intenção e soberania separados mesmo quando o mesmo executor opera várias cadeiras.
 
 A palavra `Mesa` fica reservada ao procedimento temporário de alinhamento definido pelo Núcleo:
 
@@ -280,7 +331,7 @@ fichas necessárias estão aprovadas?
 pareamento essencial foi resolvido?
 Estado inicial está definido?
 CONTROLE das peças está claro?
-Configuração das Cadeiras está registrada?
+Configuração das Cadeiras registra também os Executores?
 ```
 
 Se faltar algo essencial:
@@ -332,4 +383,4 @@ fabricar vantagem ou obstáculo para responder a uma ação já declarada
 
 ## Regra final
 
-> **Nova campanha segue três passos dependentes: Narrativa, Temporada e Fichas. Depois disso, a Configuração das Cadeiras registra quem ocupa cada autoridade persistente; Mesa é reservada ao alinhamento temporário que só abre diante de dúvida, discordância ou conflito real. A situação inicial registra fatos atuais concretos, não trilhos universais herdados do motor anterior. Vida, Mente e Mana não são pressupostos da campanha nova; qualquer condição, custo ou recurso só existe quando uma fonte canônica específica realmente o estabelece.**
+> **Nova campanha segue três passos dependentes: Narrativa, Temporada e Fichas. Depois disso, a Configuração das Cadeiras registra separadamente quais autoridades existem e quem as executa; Humano e IA são formas de execução, não tipos de soberania narrativa. Mesa continua reservada ao alinhamento temporário diante de dúvida, discordância ou conflito real.**
