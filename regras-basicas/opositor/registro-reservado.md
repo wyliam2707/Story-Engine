@@ -2,51 +2,57 @@
 
 Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
 
-Este arquivo define **a regra e o modelo** do Registro Reservado do Opositor.
+Este arquivo define **a regra e o modelo** do Registro Reservado usado quando uma campanha possui `OPOSITOR` ativo.
 
-Ele não guarda planos reais de nenhuma campanha.
+Ele não guarda planos reais de nenhuma campanha e não é uma estrutura obrigatória.
 
-Todo conteúdo vivo deve ser salvo dentro da campanha correspondente:
+```text
+OPOSITOR INATIVO
+→ este modelo não precisa ser usado.
+
+OPOSITOR ATIVO + informação adversarial persistente
+→ pode usar Registro Reservado.
+```
+
+Quando utilizado, o conteúdo vivo deve ser salvo dentro da campanha correspondente:
 
 ```text
 campanhas/<nome>/opositor/
 ```
 
-ou em outra subpasta equivalente definida pela estrutura daquela campanha.
+ou em outra fonte equivalente definida pela estrutura daquela campanha.
 
 ```text
 regras-basicas/opositor/registro-reservado.md
-→ REGRA / MODELO
+→ REGRA / MODELO OPCIONAL
 
 campanhas/<nome>/opositor/...
-→ DADOS REAIS DA CAMPANHA
+→ DADOS REAIS, somente quando a estrutura existir
 ```
 
 ## Visibilidade
 
 `Reservado` não significa escondido no repositório.
 
-Todos os arquivos podem permanecer visíveis, nomeados e fáceis de localizar para inspeção, auditoria e edição manual.
+Os arquivos podem permanecer visíveis, nomeados e fáceis de localizar para inspeção, auditoria e edição manual.
 
 A restrição é somente de **uso dentro do jogo**:
 
 ```text
 ARQUIVO VISÍVEL
-→ pode ser lido e editado pelo responsável pelo sistema.
+→ pode ser lido por quem administra a campanha.
 
 CONTEÚDO RESERVADO
-→ Jogador Humano, Jogador IA e Jogador IA Eventual
-   não usam esse conteúdo como conhecimento de suas personagens
-   enquanto ele não for descoberto legitimamente na ficção.
+→ nenhuma cadeira de personagem usa esse conteúdo como conhecimento ficcional
+  enquanto ele não for descoberto legitimamente.
 ```
 
 ## Função
 
-O Registro Reservado da campanha existe para que planos, prazos e processos de antagonistas continuem verdadeiros sem depender da memória da IA.
+Quando necessário, o Registro Reservado preserva planos, prazos e processos de forças adversariais para que continuem verdadeiros sem depender da memória do executor.
 
 Pode preservar:
 
-- planos de vilões;
 - objetivos adversariais;
 - alvos;
 - preparação em andamento;
@@ -56,22 +62,31 @@ Pode preservar:
 - gatilhos;
 - estágios de execução;
 - deslocamentos;
-- ataques planejados;
-- sequestros planejados;
-- armadilhas;
+- ações planejadas;
+- armadilhas já legitimamente preparadas;
 - consequências futuras já estabelecidas;
 - outros processos internos do lado adversarial.
 
-## Como um plano entra no Registro da campanha
+Não registrar informação apenas para preencher a pasta.
 
-O Opositor declara a intenção do lado adversarial.
+```text
+FATO ADVERSARIAL PERSISTENTE QUE PRECISA CONTINUAR VERDADEIRO
+→ registrar.
+
+REAÇÃO LOCAL SEM IMPORTÂNCIA FUTURA
+→ pode permanecer somente na cena ou no Estado pertinente.
+```
+
+## Como um plano entra no Registro
+
+Quando o Opositor está ativo, ele pode declarar a intenção de uma força dentro de seu escopo.
 
 ```text
 OPOSITOR
-→ Vilão X começa a preparar um ataque para daqui a 5 dias.
+→ uma força adversarial começa a preparar uma ação para daqui a alguns dias.
 ```
 
-O Narrador julga:
+O Narrador / Juiz verifica:
 
 ```text
 possui fundamento?
@@ -79,40 +94,39 @@ possui conhecimento?
 possui meios?
 possui tempo?
 possui oportunidade?
+essa força está realmente dentro do escopo do Opositor?
 ```
 
-Se o plano for válido, o Narrador estabelece o processo e o prazo aplicáveis.
-
-Somente então ele passa a ser verdade da campanha e deve ser salvo em:
-
-```text
-campanhas/<nome>/opositor/...
-```
+Se o plano for válido, o processo e o prazo passam a fazer parte da realidade da campanha e podem ser registrados.
 
 ```text
 DECLARAÇÃO DO OPOSITOR
-→ NARRADOR julga
+→ NARRADOR / JUIZ verifica
 → processo adversarial estabelecido
-→ REGISTRO DA CAMPANHA preserva
+→ REGISTRO preserva
 ```
+
+Se a força possuir cadeira própria, a intenção vem dessa cadeira e não do Opositor. O registro ainda pode preservar o plano na fonte apropriada, mas não altera sua autoria.
 
 ## Modelo de entrada
 
 ```text
-VILÃO X
-Plano: atacar a base dos Titãs
+FORÇA ADVERSARIAL A
+Objetivo: impedir acesso a determinada região
+Plano atual: reforçar os pontos de entrada
 Estado: preparação em andamento
-Prazo: ataque em 5 dias
+Prazo: concluir em 5 dias
 Recursos: [somente os já estabelecidos]
-Conhecimento: [somente o que o vilão realmente sabe]
+Conhecimento: [somente o que essa força realmente sabe]
 
-VILÃO Y
-Plano: sequestrar Fulano
-Estado: preparação em andamento
-Prazo: tentativa em 3 dias
+FORÇA ADVERSARIAL B
+Objetivo: recuperar determinado recurso
+Plano atual: localizar quem o possui
+Estado: investigação em andamento
+Prazo: [quando houver]
 ```
 
-Esse bloco é apenas um modelo. Os nomes, planos e prazos reais pertencem ao arquivo da campanha.
+Esse bloco é apenas um modelo. Identidades, planos e prazos reais pertencem à campanha.
 
 ## Plano não é sucesso
 
@@ -130,69 +144,70 @@ O plano pode ser:
 - abandonado;
 - derrotado por outra ação legítima.
 
-Quando isso acontecer, o Registro da campanha deve ser atualizado para refletir o estado real.
+Quando isso acontecer, o Registro deve ser atualizado para refletir o estado real.
 
 ## Passagem do tempo
 
 Um processo adversarial registrado pode continuar fora da cena principal sem precisar ser redeclarado em todas as janelas.
 
-O Opositor volta a agir quando:
+Quando o Opositor estiver ativo, ele volta a decidir quando:
 
 - chega uma etapa do plano;
 - o prazo vence;
 - surge nova decisão adversarial;
 - a situação muda;
 - aparece nova oportunidade;
-- uma força adversarial entra em campo.
+- uma força de seu escopo entra em campo.
+
+Processos que não possuem vontade própria continuam avançando por causalidade e Estado; não precisam de Opositor apenas para o tempo passar.
 
 ## Fiscalização
 
-O Opositor usa o Registro da campanha para impedir que planos e prazos internos sejam esquecidos.
+O Registro serve para impedir que fatos internos já estabelecidos sejam esquecidos.
 
 ```text
-REGISTRO DA CAMPANHA
-→ ataque começa hoje.
+REGISTRO
+→ determinado processo alcança sua etapa hoje.
 
-OPOSITOR
-→ traz o prazo para a janela.
+OPOSITOR, SE ATIVO
+→ traz a decisão adversarial pertinente quando houver.
 
-NARRADOR
-→ verifica o Registro.
-→ reconhece a entrada do evento.
+NARRADOR / JUIZ
+→ verifica a fonte e aplica o que realmente se tornou relevante.
 ```
 
 A fiscalização não cria nem antecipa o fato.
 
 ## Conhecimento compartimentado
 
-O Opositor pode conhecer todo o material adversarial necessário para administrar o outro lado da trama.
+O executor do Opositor pode conhecer todo o material necessário para administrar sua função.
 
-Esse conhecimento não pertence automaticamente a cada vilão ou NPC.
+Esse conhecimento não pertence automaticamente a cada força representada.
 
 ```text
 OPOSITOR SABE
 ≠
-VILÃO SABE
+FORÇA ADVERSARIAL SABE
 ```
 
-Cada peça adversarial só pode agir com o conhecimento que ela própria possui legitimamente.
+Cada peça só pode agir com o conhecimento que ela própria possui legitimamente.
 
 ## Restrição operacional
 
 O conteúdo real pode estar totalmente visível dentro de `campanhas/<nome>/`.
 
-A regra não tenta impedir que o responsável pela campanha o leia.
+A regra não tenta impedir que quem administra a campanha o leia.
 
-Ela apenas impede que uma persona use esse conteúdo como conhecimento ficcional sem fundamento.
+Ela apenas impede que uma cadeira use esse conteúdo como conhecimento ficcional sem fundamento.
 
 ```text
-RESPONSÁVEL PELO SISTEMA LEU O ARQUIVO
+EXECUTOR LEU O ARQUIVO
 ≠
 PERSONAGEM DESCOBRIU A INFORMAÇÃO
 ```
 
-Se uma informação adversarial for descoberta legitimamente, o Narrador registra o fato correspondente no local apropriado da própria campanha para a personagem que a descobriu.
+Se uma informação adversarial for descoberta legitimamente, registrar o fato correspondente na fonte apropriada para que o conhecimento da personagem possa ser reconstruído depois.
 
 ## Regra final
 
-> **Este arquivo contém apenas a regra e o modelo. Todo plano, processo, prazo ou conhecimento adversarial real deve ser salvo em `campanhas/<nome>/`. “Reservado” é uma restrição operacional de conhecimento, não ocultação física do arquivo.**
+> **O Registro Reservado é um modelo opcional para campanhas com Opositor ativo e informação adversarial persistente que precise ser preservada. Ele não cria planos, não torna o Opositor obrigatório e não concede conhecimento às personagens. “Reservado” é uma restrição operacional de conhecimento, não ocultação física do arquivo.**
