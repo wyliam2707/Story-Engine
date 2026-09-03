@@ -8,7 +8,7 @@ Duas Vidas Normais
 
 O início e consolidação do relacionamento entre Kara Zor-El e Daniel enquanto ambos acreditam estar se relacionando com uma pessoa normal e escondem suas próprias vidas extraordinárias.
 
-Em paralelo, Supergirl e a identidade heroica de Daniel se encontram sem se reconhecer e desenvolvem uma rivalidade genuína.
+Em paralelo, Supergirl e Myrddin, a identidade heroica de Daniel, se encontram sem se reconhecer e desenvolvem uma rivalidade genuína.
 
 ## Situação inicial
 
@@ -31,7 +31,7 @@ Como duas pessoas que procuram uma relação comum constroem um namoro verdadeir
 - Kara apresenta Daniel à sua vida apenas de forma limitada quando a Liga se torna relevante.
 - Daniel mantém Kara afastada da dimensão mágica de sua casa e família quando possível.
 - A Liga da Justiça e a mãe de Daniel entram inicialmente como figuras de cena, principalmente quando úteis para contraste ou comédia.
-- Supergirl e a identidade heroica de Daniel se encontram sem se reconhecer.
+- Supergirl e Myrddin se encontram sem se reconhecer.
 - A relação heroica entre os dois se torna rivalidade real por motivos que devem nascer das cenas e decisões efetivamente jogadas.
 - O namoro continua funcionando enquanto a rivalidade paralela cresce.
 
@@ -41,7 +41,9 @@ Como duas pessoas que procuram uma relação comum constroem um namoro verdadeir
 - Eles inicialmente desconhecem as identidades extraordinárias um do outro.
 - Kara gosta de Daniel como pessoa, não por sua magia ou identidade heroica.
 - Daniel gosta de Kara como pessoa, não por ela ser Supergirl.
-- Supergirl e a identidade heroica de Daniel desenvolvem rivalidade sem reconhecer um ao outro.
+- A identidade heroica de Daniel usa o nome Myrddin.
+- Supergirl e Myrddin desenvolvem rivalidade sem reconhecer um ao outro.
+- Daniel tende a perceber e memorizar também características físicas e cinéticas de pessoas que chamam sua atenção, como postura, proporções e maneira de se mover; isso pode gerar familiaridade com Supergirl sem determinar sozinho sua identidade.
 - Por volta dos quarenta dias de relacionamento, Kara e Daniel já mantêm intimidade adulta recorrente, tratada de forma não gráfica.
 - A revelação das identidades acontece aproximadamente no meio do segundo mês de namoro.
 
@@ -53,7 +55,7 @@ Como duas pessoas que procuram uma relação comum constroem um namoro verdadeir
 - cenas exatas dos encontros;
 - motivo específico da rivalidade heroica;
 - intensidade de cada conflito;
-- identidade heroica pública de Daniel;
+- pistas concretas percebidas por cada um antes da descoberta;
 - circunstância exata da revelação;
 - quem reconhece quem primeiro;
 - reações emocionais e decisões após a descoberta.
