@@ -11,3 +11,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 003 — Atividade Extracurricular
 004 — Nada de Cosplay
 005 — Efeitos Ambientais
+006 — Vínculo Continuado
