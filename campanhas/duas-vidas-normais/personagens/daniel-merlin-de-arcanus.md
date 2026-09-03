@@ -1,6 +1,7 @@
 # DANIEL MERLIN DE ARCANUS
 
-Nome / identificação: Daniel Merlin de Arcanus
+Nome tradicional: Daniel Myrddin o'r Dirgel
+Nome público moderno: Daniel Merlin de Arcanus
 Nome usado normalmente: Daniel Arcanus
 Nome heroico: Myrddin
 Idade: aproximadamente 20 anos
@@ -19,7 +20,7 @@ Estilo heroico — Myrddin: adota deliberadamente uma aparência inspirada em um
 
 Essa diferença visual ajuda a impedir associação casual entre sua identidade universitária e sua atuação heroica.
 
-O nome Myrddin é uma forma tradicional associada ao nome Merlin. Para Daniel, funciona como nome arcano; retrospectivamente, porém, torna a relação entre sua identidade civil e heroica quase comicamente evidente para quem descobrir as duas.
+Myrddin não é um codinome inventado. É o segundo nome de Daniel na forma tradicional da linhagem. Seu nome ancestral completo é Daniel Myrddin o'r Dirgel; na vida pública moderna, a família usa a forma Daniel Merlin de Arcanus. A persona heroica simplesmente utiliza Myrddin isoladamente.
 
 ## 2 — Conceito
 
@@ -240,4 +241,4 @@ Na universidade tornou-se conhecido como um jovem atlético, inteligente e socia
 
 Daniel também possui experiência heroica, usando suas capacidades quando considera necessário, mas evita transformar essa atuação em centro de sua identidade pública.
 
-Em atuação extraordinária usa o nome Myrddin. O visual em serviço é marcadamente o de um mago clássico, contraste suficiente para que Supergirl possa apelidá-lo de “Mago Cosplay” sem reconhecer Daniel por baixo daquela persona. O próprio nome Myrddin, por sua relação com Merlin, se torna uma pista retrospectivamente óbvia apenas depois que alguém possui motivo para ligar as duas identidades.
+Na tradição familiar, seu nome completo é Daniel Myrddin o'r Dirgel. Na sociedade moderna, essa forma é apresentada como Daniel Merlin de Arcanus. Em atuação extraordinária usa apenas Myrddin, isto é, seu próprio segundo nome tradicional em vez de um codinome inventado. O visual em serviço é marcadamente o de um mago clássico, contraste suficiente para que Supergirl possa apelidá-lo de “Mago Cosplay” sem reconhecer Daniel por baixo daquela persona.
