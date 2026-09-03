@@ -1,13 +1,13 @@
 # Estado
 
-Momento: sexta-feira, início da noite, nas últimas semanas do período universitário. O primeiro encontro de Kara e Daniel acontecerá nesta noite.
+Momento: madrugada de sábado, depois do primeiro encontro de Kara e Daniel.
 
 ## Locais atuais relevantes
 
-- Daniel acabou de sair da Casa Arcanus de carro e segue em direção a Metropolis para buscar Kara.
-- Kara está na residência da Liga, já preparada para o encontro; ainda não foi estabelecido em ficção que ela tenha saído rumo à estação.
-- O encontro combinado é às 19h30 na entrada da estação da Avenida Centennial, perto da praça.
-- A Festa de Fim de Semestre começa às 20h no salão do Centro Acadêmico.
+- Daniel e Kara estão dormindo no apartamento de Daniel, próximo ao campus.
+- Daniel dorme atrás de Kara, abraçado a ela.
+- Kara está usando uma camisa e um shorts emprestados de Daniel.
+- O carro usado no encontro ficou estacionado próximo ao Centro Acadêmico.
 
 ## Condições relevantes
 
@@ -17,119 +17,105 @@ Momento: sexta-feira, início da noite, nas últimas semanas do período univers
 - Kara conhece o nome público completo Daniel Merlin de Arcanus.
 - Daniel conhece Kara como Kara Zor-El.
 - Daniel percebeu no primeiro encontro uma sensação difícil de identificar em Kara, semelhante a calor ou energia quase solar, sem reconhecê-la como assinatura kryptoniana nem como magia.
-- Kara e Daniel mantêm interesse e flerte mútuos. A saída desta noite foi explicitamente tratada por Kara como um primeiro encontro.
-- As mensagens de “bom dia” e os almoços juntos começaram a formar pequenas rotinas espontâneas entre os dois.
+- Kara e Daniel mantêm interesse e flerte mútuos. O primeiro encontro foi claramente romântico e terminou com o primeiro beijo dos dois.
+- Eles escolheram dividir a cama, com carinho e beijos, sem transformar a noite automaticamente em sexo.
+- As mensagens de “bom dia” e os almoços juntos já formaram pequenas rotinas espontâneas entre os dois.
 - A piada recorrente sobre Kara ser pequena o bastante para ser levada pelo vento continua entre eles; para Kara, a piada possui um segundo sentido que Daniel desconhece.
 
-## Quinta-feira
+## Primeiro encontro — sexta-feira
 
-- Daniel e Kara se cruzaram pela manhã no campus e combinaram informalmente o almoço.
-- O almoço foi cotidiano, com conversa sobre aulas, professores, música, basquete, Jornalismo e Física.
-- Daniel informou que buscaria Kara de carro na sexta.
-- À tarde, Daniel convidou Kara para acompanhá-lo a um pequeno mercado próximo ao campus.
-- Daniel comprou chá, leite e produtos de limpeza para o apartamento.
-- Durante a ida ao mercado, os dois conversaram sobre como se vestiriam para a festa.
-- Daniel disse que Kara provavelmente ficaria linda com qualquer coisa; Kara recebeu o elogio positivamente.
-- Os dois combinaram tentar ficar um pouco mais arrumados e brincar sobre a reação um do outro.
-- Daniel e Kara fizeram piada sobre evitar aparência de “CEO de dorama” e sobre não usar “cosplay”.
-- Depois do mercado, Daniel mostrou a Kara o prédio onde mora e informou que seu apartamento fica no terceiro andar.
-- Kara agora conhece fisicamente o prédio do apartamento de Daniel.
+- Daniel chegou à estação da Avenida Centennial cerca de dez minutos adiantado.
+- Kara chegou pouco depois usando cabelo aparentemente preto e solto, óculos e roupa mais arrumada, jovem e mais ajustada do que sua composição universitária habitual.
+- Daniel usou terno azul-acinzentado de corte clássico e ajustado, camisa branca com colarinho aberto, sem gravata, e tênis brancos.
+- Kara recebeu positivamente a mudança visual de Daniel; Daniel deixou claro que a considera muito bonita.
+- Daniel disse a Kara, em galês, “Hardd iawn” e depois explicou que significava “lindíssima”. Kara sabe, portanto, que Daniel fala pelo menos algum galês.
+- Daniel abriu a porta do carro para Kara e depois ofereceu o braço ao chegarem ao Centro Acadêmico; Kara percebeu que ele é mais formal do que parece na faculdade.
+- Durante o trajeto, Daniel brincou que dirigir tem o inconveniente de obrigá-lo a olhar para a estrada em vez de continuar olhando para Kara.
+- Na festa, os dois beberam, conversaram e dançaram por várias horas.
+- Daniel usou discretamente Fortalecimento e Cura Mágica para reduzir cansaço e pequenos incômodos físicos durante a noite; Kara não percebeu magia e interpretou sua resistência como compatível com o fato de ele ser atleta.
+- Kara dançou por horas com muito pouco cansaço; Daniel percebeu apenas que ela tinha muita energia e não associou isso a uma natureza extraordinária.
+- Daniel reparou cada vez mais no controle corporal, postura, ritmo e forma de movimento de Kara, sem conectar esses detalhes à Supergirl.
+- Daniel disse a Kara que parece que “o ambiente fica um pouco mais quente” quando ela chega. Kara interpretou como elogio à presença dela e respondeu brincando que possui “efeitos ambientais interessantes”.
+- Em uma música lenta, Daniel demonstrou saber dança social e explicou que aprendeu com a mãe por tradição familiar; Kara recebeu isso positivamente.
+- A festa terminou tarde e nenhum dos dois mostrou pressa em encerrar a companhia.
 
-## Sexta-feira
+## Apartamento de Daniel
 
-- As aulas terminaram pela manhã; a tarde ficou livre.
-- Daniel acordou mais animado que o normal e enviou “bom dia” a Kara.
-- Kara e Daniel almoçaram juntos antes do compromisso familiar de Daniel.
-- Daniel explicou que iria à Casa Arcanus visitar a mãe e buscar roupa mais adequada para o encontro.
-- Kara disse que usaria cabelo solto, roupa menos parecida com a composição discreta de aula e continuaria usando os óculos.
-- Daniel disse que, se o objetivo dela era passar despercebida, isso não estava funcionando muito bem; internamente, já a considera linda mesmo com as roupas largas da universidade.
-- Kara interpretou o comentário como sinal de que Daniel presta bastante atenção nela.
-
-## Treinamento em Casa Arcanus
-
-- Antes de se arrumar, Daniel treinou com Morgana.
-- Morgana utilizou Poder Arcano, fortalecimento, mobilidade e pressão direta para testar a proteção de alvos frágeis.
-- Daniel demonstrou sua especialidade em Barreira Arcana protegendo múltiplos alvos contra ataques simultâneos, móveis e de grande força.
-- No exercício final, Morgana venceu o confronto direto, mas Daniel manteve a esfera-alvo intacta e cumpriu o objetivo de proteção.
-- Daniel também utilizou Controle Arcano, Selamento e Fortalecimento durante o treino.
-- Morgana reforçou a diferença entre os estilos dos dois: ela atravessa e aplica força; Daniel controla onde essa força termina.
-- Daniel atribuiu seu apego a barreiras a “instinto de sobrevivência”, em referência bem-humorada ao treinamento da mãe.
-
-## Preparação para o encontro
-
-### Kara
-
-- Kara voltou à residência da Liga e escolheu uma roupa mais arrumada, jovem e adequada para dançar, mais próxima do corpo do que suas roupas largas de universidade, sem ser formal demais.
-- O modelo exato da roupa ainda não foi estabelecido.
-- Kara mantém o Alterador Cromático ativo: o cabelo continua aparentemente preto.
-- Para o encontro, deixou o cabelo solto e manteve os óculos.
-- Escolheu acessórios e perfume.
-- Kara deliberadamente não enviou uma nova mensagem porque quer ver a reação de Daniel quando ele a encontrar.
-
-### Daniel
-
-- Morgana ajudou Daniel a escolher a roupa.
-- Daniel veste terno azul-acinzentado de corte clássico e ajustado, camisa branca com colarinho aberto, sem gravata, e tênis brancos.
-- O visual é mais formal que o habitual da universidade, mas jovem e distante do estilo heroico de Myrddin.
-- Morgana brincou que ele estava sem chapéu, sem luvas de couro e sem camadas dramaticamente desnecessárias, dizendo que quase parecia um rapaz deste século.
-- Morgana também disse diretamente: “Ficou bonito, filho.”
+- Depois da festa, Daniel convidou Kara para tomar chá em seu apartamento.
+- Daniel deixou o carro estacionado e os dois caminharam cerca de cinco minutos até o prédio.
+- Kara entrou pela primeira vez no apartamento de Daniel.
+- O apartamento é pequeno, organizado e quase todo integrado: sala e cozinha praticamente compartilham o mesmo espaço; banheiro e quarto ficam a poucos passos. Há pouca divisão interna e o espaço acomoda duas pessoas sem dificuldade.
+- Para Kara, o apartamento confirmou a imagem de uma vida universitária genuinamente comum de Daniel.
+- Daniel preparou chá com leite e mel.
+- Por volta de 02h18, Kara percebeu que havia perdido o metrô.
+- Daniel convidou Kara a ficar e disse que a levaria para casa no dia seguinte.
+- Daniel se ofereceu para dormir no sofá; Kara recusou a necessidade e disse que ele poderia dormir na própria cama.
+- Daniel emprestou a Kara uma camisa e um shorts para dormir.
+- Kara tomou banho primeiro; depois Daniel tomou banho, deixando Kara sozinha no apartamento por alguns minutos.
+- Kara não investigou nem procurou segredos. Apenas observou o espaço cotidiano e processou a decisão de passar a noite ali.
+- Daniel e Kara dividiram a cama.
+- Daniel deixou explicitamente claro que a presença de Kara no apartamento não criava obrigação de qualquer intimidade adicional.
+- Kara respondeu que não estaria ali se não quisesse estar e aceitou o carinho dele.
+- Daniel e Kara se beijaram pela primeira vez.
+- Depois de mais alguns beijos mantendo o mesmo limite, Daniel abraçou Kara por trás e os dois adormeceram juntos.
+- O último pensamento estabelecido de Kara antes de dormir foi: “Eu não queria que a noite acabasse.”
 
 ## Conhecimento social recente
 
 ### Kara
 
-- Sabe que Daniel gosta de passar tempo com ela e aceitou sair para dançar.
-- Percebe a saída desta noite como um primeiro encontro e gosta da ideia.
-- Sabe que Daniel mora no terceiro andar de um prédio a poucos minutos do campus e já viu o prédio pessoalmente.
-- Sabe que Daniel foi visitar a mãe e buscar uma roupa mais formal para a noite.
-- Não sabe que Casa Arcanus é uma propriedade mágica, que Daniel treinou com Morgana ou que ele é Myrddin.
+- Sabe que Daniel gosta de passar tempo com ela e a considera muito bonita.
+- Sabe que Daniel fala pelo menos algum galês.
+- Sabe que Daniel aprendeu dança social com a mãe por tradição familiar.
+- Conhece o interior do apartamento de Daniel e o considera coerente com a vida comum que ele apresenta.
+- Sabe que Daniel não tentou transformar a permanência dela no apartamento em obrigação sexual.
+- Beijou Daniel e escolheu dormir com ele na mesma cama.
+- Não sabe que Daniel usou magia durante a festa, que Casa Arcanus é uma propriedade mágica ou que ele é Myrddin.
 
 ### Daniel
 
-- Sabe que Kara considera a saída desta noite um primeiro encontro.
-- Sabe que Kara pretende usar o cabelo solto, manter os óculos e vestir algo mais arrumado que suas roupas de aula.
-- Não conhece a localização da residência da Liga; recebeu apenas o ponto público da estação da Avenida Centennial.
-- Não sabe que Kara é Supergirl nem que sua composição universitária é deliberadamente construída para reduzir associação com a identidade heroica.
+- Sabe que Kara gostou do encontro, dos elogios e da proximidade física.
+- Sabe que Kara aceitou permanecer no apartamento e dividir a cama sem expectativa automática de sexo.
+- Percebe que Kara possui muita energia e excelente controle corporal, mas ainda interpreta isso dentro de explicações normais.
+- Não sabe que Kara é Supergirl nem que sua resistência e controle corporal vêm de fisiologia kryptoniana e experiência heroica.
 
 ### Morgana
 
-- Sabe que Daniel está interessado em Kara.
-- Sabe que a saída desta noite é o primeiro encontro dos dois.
-- Treinou Daniel nesta tarde e ajudou a escolher sua roupa.
+- Sabe que Daniel estava indo ao primeiro encontro com Kara.
+- Não foi estabelecido que saiba ainda como a noite terminou.
 - Continua sem investigar Kara pelos meios mágicos explicitamente proibidos por Daniel.
 
 ### Clark
 
 - Sabe que Kara conheceu Daniel na faculdade e que ele estuda Física.
 - Kara havia afirmado que Daniel é normal.
-- Ainda não foi estabelecido em ficção que Clark saiba dos almoços, do mercado ou do encontro desta noite.
+- Ainda não foi estabelecido em ficção que Clark saiba do primeiro encontro ou que Kara passou a noite no apartamento de Daniel.
 
-## Recursos recentemente estabelecidos
+## Recursos e fatos persistentes
 
 - Há pelo menos um carro funcional e legalizado na garagem da Casa Arcanus.
 - Daniel sabe dirigir.
-- Daniel está usando esse carro para buscar Kara nesta noite.
-- O modelo e demais características do carro ainda não foram estabelecidos.
+- Daniel normalmente prefere portais para deslocamentos ligados à Casa Arcanus, mas usou o carro para o encontro.
+- O apartamento de Daniel fica no terceiro andar de um prédio a poucos minutos do campus.
+- O apartamento é deliberadamente comum e não possui magia visível.
+- O idioma usado por Daniel em fórmulas verbais de sua tradição mágica é o galês; isso ainda não foi presenciado por Kara em contexto mágico.
 
 ## Processos e prazos
 
-- Daniel deve buscar Kara às 19h30 na estação da Avenida Centennial.
-- A Festa de Fim de Semestre começa às 20h.
+- Daniel disse que levará Kara para casa no sábado.
 - As identidades heroicas ainda não se encontraram.
 - A Direção da campanha prevê que Kara e Daniel desenvolvam um namoro real antes da revelação de suas identidades extraordinárias.
 
 ## Último fato estabelecido
 
-Daniel terminou de se arrumar na Casa Arcanus. Morgana aprovou o resultado entre provocações sobre o visual de Myrddin.
+Daniel e Kara estão dormindo juntos no apartamento de Daniel depois do primeiro encontro.
 
-Daniel pegou o carro da garagem, saiu da Casa Arcanus e segue para Metropolis.
+Eles se beijaram pela primeira vez, escolheram manter a intimidade em carinho e beijos e adormeceram abraçados.
 
-Kara está preparada na residência da Liga, mas sua saída rumo à estação ainda não foi estabelecida.
-
-O Capítulo 4 — “Nada de Cosplay” foi encerrado e registrado no Livro.
+O Capítulo 5 — “Efeitos Ambientais” foi encerrado e registrado no Livro.
 
 ## Primeiro ponto aberto
 
-A continuidade começa antes do encontro das 19h30.
+A continuidade começa na manhã de sábado, no apartamento de Daniel.
 
-Daniel está a caminho da estação da Avenida Centennial. Kara ainda precisa sair da residência da Liga e chegar ao ponto combinado. O encontro entre os dois ainda não ocorreu.
+Nenhuma ação ou conversa da manhã foi ainda estabelecida.
