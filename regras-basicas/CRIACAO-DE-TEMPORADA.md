@@ -2,11 +2,38 @@
 
 Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
 
-Este arquivo define o **Passo 02** da criação: transformar a direção desejada pelo Jogador em uma temporada concreta, preparada antes do START e limitada por uma diretriz estrutural fechada.
+Este arquivo define um **módulo opcional de Arco Preparado / Temporada**.
 
-O Passo 01 está em `CRIACAO-DE-CAMPANHA.md`. O Passo 03 está em `jogador/1.3-criacao-da-ficha.md` e pertence principalmente à criação inicial da campanha.
+Uma campanha não precisa possuir Temporada para começar ou continuar. O requisito universal é possuir uma **Direção da Campanha** suficiente, conforme `CRIACAO-DE-CAMPANHA.md`.
 
-> **A campanha diz sobre o que a história é. O Jogador aponta a direção da temporada. O Narrador transforma essa direção em um problema jogável, define o que precisa ser resolvido e estabelece previamente as respostas canônicas que limitam sua improvisação.**
+Usar este módulo quando a campanha se beneficiar de um arco previamente estruturado, com problema concreto, respostas estruturais preparadas e uma Diretriz Fechada.
+
+> **Direção da Campanha é obrigatória. Temporada é opcional. Quando uma Temporada é escolhida, sua preparação estrutural precisa estar concluída antes de aquele arco entrar em jogo.**
+
+## Quando usar
+
+Este módulo é apropriado quando se deseja deliberadamente um arco com:
+
+```text
+foco específico
+problema central
+questões estruturais que precisam de resposta prévia
+processos ou prazos preparados
+condição de encerramento
+limites claros para a improvisação estrutural
+```
+
+Não usar apenas porque toda campanha “deveria” possuir uma temporada.
+
+```text
+CAMPANHA SEM TEMPORADA
+→ continua válida.
+→ usa Direção da Campanha + Fichas + Estado + regras do Núcleo.
+
+CAMPANHA COM TEMPORADA
+→ acrescenta um Arco Preparado.
+→ usa também Roteiro + Diretriz Fechada enquanto o arco estiver ativo.
+```
 
 ## Entrada
 
@@ -14,13 +41,14 @@ Antes de criar uma temporada, carregar:
 
 ```text
 mestre/narrativa.md
+→ Direção da Campanha.
 ```
 
-Se não for a primeira temporada, carregar também apenas o necessário do encerramento anterior:
+Se não for o primeiro arco preparado, carregar também apenas o necessário do que já aconteceu:
 
 ```text
-resposta a “E agora?”
-+ epílogo da temporada anterior
+orientação autoral para o novo arco, quando houver
++ epílogo do arco anterior, quando existir
 + fichas consolidadas
 + estado consolidado
 + problemas realmente abertos, quando relevantes
@@ -30,12 +58,12 @@ A nova temporada parte do que realmente aconteceu. Não reinicia relações, con
 
 Um problema aberto anteriormente continua existindo quando isso for canônico, mas não vira automaticamente o foco da nova temporada.
 
-## Fluxo obrigatório da temporada
+## Fluxo obrigatório quando o módulo é escolhido
 
-Antes do START, seguir esta ordem:
+Depois que a decisão de usar uma Temporada / Arco Preparado foi tomada, seguir esta ordem antes de colocar **esse arco** em jogo:
 
 ```text
-DIREÇÃO DO JOGADOR
+DIREÇÃO DO ARCO
 ↓
 PROBLEMA DA TEMPORADA
 ↓
@@ -45,30 +73,30 @@ RESPOSTAS CANÔNICAS
 ↓
 DIRETRIZ FECHADA
 ↓
-START
+ARCO PRONTO
 ```
 
-Nenhuma dessas etapas deve ser substituída pela improvisação durante a sessão.
+Nenhuma dessas etapas deve ser substituída por improvisação estrutural durante o próprio arco.
 
-## 1 — Direção do Jogador
+> **O fluxo é obrigatório para uma Temporada escolhida; a escolha de possuir uma Temporada não é obrigatória para a campanha.**
 
-O Jogador não precisa escrever a aventura. Ele informa **o que deseja explorar agora**.
+## 1 — Direção do Arco
 
-Na primeira temporada, perguntar de forma simples qual direção ele quer para o primeiro arco.
+A Direção do Arco informa **o que se deseja explorar agora dentro da Direção da Campanha**.
 
-Depois de uma temporada encerrada, usar a resposta a:
+Ela pode nascer de Direção Autoral, de uma decisão de preparação entre os participantes ou de outra fonte de autoridade definida pela configuração da campanha.
 
-> **E agora?**
+Quem fornece a Direção não precisa escrever a aventura.
 
-Exemplos:
+Exemplos abstratos:
 
 ```text
-quero explorar a vida dos três fora da cidade
-quero que decidam se continuam juntos
-quero uma temporada em Tamaran
-quero alguns meses de cotidiano
-quero uma temporada de terror
-quero investigar um problema que ficou aberto
+explorar como o grupo funciona depois de uma grande mudança
+acompanhar uma viagem para outra região
+passar alguns meses em cotidiano e relações
+fazer um arco de terror
+investigar um problema que ficou aberto
+acompanhar uma crise política localizada
 ```
 
 A direção pode incluir quando relevante:
@@ -83,39 +111,37 @@ evento de encerramento
 personagens que devem receber foco
 ```
 
-Não transformar a direção do Jogador em uma sequência obrigatória de cenas.
+Não transformar a Direção do Arco em uma sequência obrigatória de cenas.
 
 ## 2 — Criar o problema da temporada
 
-A partir da direção recebida, o Narrador cria uma situação concreta capaz de sustentar o arco.
+A partir da direção recebida, o Narrador cria uma situação concreta capaz de sustentar o arco quando esse tipo de problema fizer parte da proposta.
 
 O problema deve:
 
-- combinar com `mestre/narrativa.md`;
-- explorar a direção fornecida pelo Jogador;
+- combinar com a Direção da Campanha registrada em `mestre/narrativa.md`;
+- explorar a Direção do Arco;
 - ser adequado às personagens envolvidas;
-- possuir escala suficiente para sustentar a temporada, sem crescer além do necessário;
+- possuir escala suficiente para sustentar a temporada sem crescer além do necessário;
 - permitir que capacidades centrais das personagens tenham oportunidades naturais de importar quando isso fizer parte da proposta;
 - possuir uma condição real de resolução.
 
 Exemplo abstrato:
 
 ```text
-DIREÇÃO DO JOGADOR
-→ explorar se o relacionamento continua fora da situação que o iniciou.
-→ decidir onde morar.
-→ contar aos amigos.
-→ continuar a vida heroica.
-→ temporada de 40 dias.
-→ no final chegam os pais de uma das personagens.
+DIREÇÃO DO ARCO
+→ acompanhar um grupo depois do evento que os uniu.
+→ decidir onde viver.
+→ retomar responsabilidades anteriores.
+→ explorar como a relação entre eles funciona fora da crise.
+→ existe um prazo externo de quarenta dias.
 
 PROBLEMA DA TEMPORADA
 → fora da situação anterior, as personagens precisam descobrir como encaixar
-  o relacionamento na vida real enquanto retomam suas responsabilidades,
-  com 40 dias até a chegada dos pais.
+  sua nova realidade na vida cotidiana enquanto o prazo continua avançando.
 ```
 
-O Narrador cria o problema. O Jogador decide como enfrentá-lo.
+O Narrador cria o problema estrutural. As personagens decidem como enfrentá-lo.
 
 ## 3 — Lista do que precisa ser resolvido
 
@@ -149,15 +175,15 @@ Uma pergunta só entra na lista quando sua resposta for necessária para **suste
 
 ```text
 PERGUNTA ESTRUTURAL
-→ “Por que a cidade está presa?”
+→ “Por que a cidade está isolada?”
 
 DETALHE DERIVADO
 → “De que material é feita a terceira porta?”
 ```
 
-O segundo não vira uma pergunta estrutural salvo quando sua resposta for realmente necessária para a resolução.
+O segundo não vira pergunta estrutural salvo quando sua resposta for realmente necessária para a resolução.
 
-> **A lista não cataloga tudo que pode existir. Ela identifica somente o que o Narrador precisa saber antes de jogar.**
+> **A lista não cataloga tudo que pode existir. Ela identifica somente o que o Narrador precisa saber antes de jogar aquele arco.**
 
 Exemplo abstrato:
 
@@ -175,13 +201,13 @@ Exemplo abstrato:
 
 A lista pode incluir investigação, romance, ação, sobrevivência, política, cotidiano ou qualquer outro tipo de problema compatível com a campanha.
 
-Não incluir um item apenas porque seria interessante. Cada item deve contribuir para a direção da temporada ou para sua resolução.
+Não incluir um item apenas porque seria interessante. Cada item deve contribuir para a Direção do Arco ou para sua resolução.
 
-## 4 — Responder a lista antes do START
+## 4 — Responder a lista antes de ativar o arco
 
-Depois de criar a lista, o Narrador responde **cada item** antes de iniciar a ficção.
+Depois de criar a lista, o Narrador responde **cada item estrutural necessário** antes de colocar a temporada em jogo.
 
-A resposta não determina o que as personagens farão. Ela estabelece a realidade que já existe e pelo menos uma forma concreta pela qual aquele problema pode ser resolvido.
+A resposta não determina o que as personagens farão. Ela estabelece a realidade que já existe e pelo menos uma forma concreta pela qual aquele problema pode ser resolvido quando isso for necessário.
 
 Para cada item, registrar somente o que for relevante entre:
 
@@ -191,7 +217,7 @@ Como este problema pode ser resolvido?
 Como essa resposta pode ser descoberta ou alcançada?
 Que pistas, meios ou acessos existem?
 Que obstáculos ou riscos já existem?
-Que processos continuam acontecendo independentemente do Jogador?
+Que processos continuam acontecendo independentemente das personagens?
 O que acontece se o assunto for ignorado por algum tempo?
 Quais limites não podem ser ultrapassados pela improvisação?
 ```
@@ -200,7 +226,7 @@ Nem todo item precisa de todos esses campos.
 
 ### Solução possível não é resultado predeterminado
 
-Definir uma resolução possível não significa escolher a ação futura do Jogador.
+Definir uma resolução possível não significa escolher a ação futura das personagens.
 
 ```text
 RESOLUÇÃO POSSÍVEL
@@ -210,29 +236,29 @@ RESULTADO PREDETERMINADO
 → decidir que as personagens obrigatoriamente usarão essa maneira e terão sucesso.
 ```
 
-O primeiro é obrigatório quando necessário para a estrutura da temporada.
+O primeiro é necessário quando a estrutura do problema exige uma resolução conhecida.
 O segundo é proibido.
 
-O Jogador pode encontrar outra solução coerente com as regras e com a verdade já estabelecida. Nesse caso, o Narrador julga normalmente sem alterar retroativamente a Diretriz Fechada apenas para impedir ou favorecer a tentativa.
+As personagens podem encontrar outra solução coerente com as regras e com a verdade já estabelecida. Nesse caso, o Narrador julga normalmente sem alterar retroativamente a Diretriz Fechada apenas para impedir ou favorecer a tentativa.
 
 ## 5 — Diretriz Fechada
 
 Depois que a lista estiver respondida, consolidar as respostas no roteiro ativo como **Diretriz Fechada da Temporada**.
 
-A Diretriz Fechada representa o espaço estrutural dentro do qual a temporada pode existir.
+A Diretriz Fechada representa o espaço estrutural dentro do qual aquele arco preparado pode existir.
 
 ```text
 DIRETRIZ FECHADA
-→ verdade já preparada antes do jogo.
+→ verdade já preparada antes do arco.
 → problemas que pertencem à temporada.
 → respostas canônicas conhecidas pelo Narrador.
 → obstáculos e processos que já existem.
 → limites de escala e direção.
 ```
 
-Depois do START, o Narrador pode improvisar **dentro** dessa diretriz, mas não pode ultrapassá-la apenas porque consegue criar algo novo ou porque o Jogador demonstrou interesse em um detalhe.
+Depois que o arco entra em jogo, o Narrador pode improvisar **dentro** dessa diretriz, mas não pode ultrapassá-la apenas porque consegue criar algo novo ou porque uma personagem demonstrou interesse em um detalhe.
 
-O Narrador não pode, sem mudança deliberada da temporada:
+O Narrador não pode, sem mudança deliberada da proposta do arco:
 
 - criar um novo problema principal;
 - substituir os problemas estruturais já definidos;
@@ -240,14 +266,14 @@ O Narrador não pode, sem mudança deliberada da temporada:
 - transformar um detalhe incidental em nova origem do problema;
 - aumentar a escala da ameaça além do que foi preparado;
 - criar uma nova facção, conspiração, invasão, verdade secreta ou antagonista estrutural que torne a diretriz anterior incompleta ou falsa;
-- promover um NPC, local ou objeto a peça central apenas porque recebeu muita atenção do Jogador;
+- promover um NPC, local ou objeto a peça central apenas porque recebeu muita atenção;
 - inventar um novo eixo para evitar que a temporada chegue à resolução preparada.
 
 > **A improvisação pode aprofundar o caminho. Não pode reescrever o tabuleiro.**
 
 ### Intenção do roteiro
 
-Fechar um roteiro não significa escrever antecipadamente a história que os personagens viverão.
+Fechar um roteiro não significa escrever antecipadamente a história que as personagens viverão.
 
 O roteiro deve conhecer:
 
@@ -265,24 +291,20 @@ Ele não deve conhecer antecipadamente:
 
 ```text
 que decisões voluntárias as personagens tomarão;
-qual caminho o Jogador escolherá;
+qual caminho escolherão;
 qual ordem de cenas acontecerá;
 quem vencerá cada conflito;
 qual solução possível será efetivamente usada;
 como relações dependentes de escolha terminarão.
 ```
 
-> **O roteiro fecha o tabuleiro necessário para chegar ao final; as jogadas continuam pertencendo aos personagens.**
+> **O roteiro fecha o tabuleiro necessário para chegar ao final; as jogadas continuam pertencendo às personagens.**
 
-Outra forma de resumir:
-
-> **O roteiro não escreve a história antes do Jogador. Ele prepara o mundo o suficiente para que a história possa acontecer sem que o Narrador precise inventar continuamente sua causa, seus obstáculos e seu destino.**
-
-Se o Jogador deliberadamente quiser abandonar ou reformular a própria direção da temporada, isso deve ser tratado como mudança explícita de proposta, não como improvisação invisível do Narrador.
+Se a Direção Autoral deliberadamente abandonar ou reformular a proposta daquele arco, isso deve ser tratado como mudança explícita de proposta, não como improvisação invisível do Narrador.
 
 ## Movimento independente do mundo
 
-Os problemas e processos previstos na Diretriz Fechada não dependem da iniciativa do Jogador para existir.
+Os problemas e processos previstos na Diretriz Fechada não dependem da atenção das personagens para existir.
 
 ```text
 IGNORAR UM PROBLEMA
@@ -299,13 +321,11 @@ Quando coerente com a diretriz:
 - ameaças já existentes agem;
 - guardiões continuam protegendo o que protegem;
 - criaturas já previstas continuam existindo;
-- eventos previamente estabelecidos podem chegar até o Jogador.
-
-Se o Jogador decidir passar quarenta dias pescando, o mundo não precisa esperar quarenta dias para voltar a existir.
+- eventos previamente estabelecidos podem alcançar as personagens.
 
 Isso não autoriza o Narrador a criar problemas novos. Autoriza apenas os elementos já preparados a continuarem se movendo.
 
-## O que pode ser improvisado depois do START
+## O que pode ser improvisado depois que o arco começa
 
 Dentro da Diretriz Fechada, o Narrador pode improvisar normalmente:
 
@@ -318,21 +338,23 @@ Dentro da Diretriz Fechada, o Narrador pode improvisar normalmente:
 - complicações locais derivadas de riscos já estabelecidos;
 - consequências legítimas das decisões;
 - desenvolvimento pessoal e relacional das personagens;
-- soluções novas propostas pelo Jogador, quando compatíveis com o mundo.
+- soluções novas propostas pelas cadeiras, quando compatíveis com o mundo.
 
 A criação emergente continua seguindo `nucleo/1.7-criacao-emergente.md`.
 
-Improvisação completa lacunas menores. Ela não substitui preparação estrutural.
+Improvisação completa lacunas menores. Ela não substitui a preparação estrutural escolhida para esse arco.
 
 ## Roteiro ativo
 
-A temporada atual é registrada em:
+Quando existir uma temporada ativa, registrar em:
 
 ```text
 campanhas/<nome>/mestre/roteiro.md
 ```
 
-Esse arquivo representa **somente a temporada ativa**.
+Esse arquivo representa **somente o Arco Preparado ativo**.
+
+Se não houver Temporada ativa, o arquivo não deve ser tratado como autoridade obrigatória para a campanha atual.
 
 Estrutura recomendada:
 
@@ -341,20 +363,20 @@ Estrutura recomendada:
 
 Status: ATIVA
 
-## Direção do Jogador
-→ o que o Jogador pediu para explorar nesta temporada.
+## Direção do Arco
+→ o que se pretende explorar neste arco.
 
 ## Problema da Temporada
-→ situação concreta criada pelo Narrador a partir da direção.
+→ situação concreta preparada a partir da direção.
 
 ## Situação inicial
 → onde o arco começa e que condição já está em andamento.
 
 ## Foco aplicado
-→ como a temporada explora a narrativa permanente da campanha.
+→ como a temporada explora a Direção permanente da campanha.
 
 ## Prazo / processos
-→ aquilo que avança com o tempo independentemente da atenção do Jogador.
+→ aquilo que avança com o tempo independentemente da atenção das personagens.
 
 ## O que precisa ser resolvido
 1. ...
@@ -402,38 +424,40 @@ O roteiro não escolhe:
 - quem se apaixona;
 - quem aceita uma proposta;
 - que decisão voluntária uma personagem tomará;
-- que solução o Jogador necessariamente usará;
+- que solução será necessariamente usada;
 - se uma relação continuará ou terminará quando isso depender das personagens.
 
 Mas o roteiro deve conhecer previamente as respostas estruturais necessárias para que esses problemas possam ser enfrentados sem o Narrador inventar a temporada enquanto ela é jogada.
 
-## Relação com a narrativa da campanha
+## Relação com a Direção da Campanha
 
-`mestre/narrativa.md` continua sendo a identidade persistente.
+`mestre/narrativa.md` continua sendo a referência persistente da Direção da Campanha.
 
 ```text
-NARRATIVA
-→ sobre o que a campanha é ao longo das temporadas.
+DIREÇÃO DA CAMPANHA
+→ sobre que tipo de história a campanha pretende acompanhar.
 
-DIREÇÃO DO JOGADOR
-→ o que ele quer explorar agora.
+DIREÇÃO DO ARCO
+→ o que se deseja explorar agora.
 
 ROTEIRO / DIRETRIZ FECHADA
-→ qual problema concreto existe nesta temporada e quais são seus limites.
+→ qual problema concreto existe neste Arco Preparado e quais são seus limites.
 ```
 
 Uma temporada pode variar atmosfera, local, ameaça e ritmo sem apagar a identidade da campanha.
 
-Mudança real da narrativa da campanha é uma decisão deliberada, não consequência automática de uma temporada diferente.
+Mudança real da Direção da Campanha é uma decisão deliberada, não consequência automática de um arco diferente.
 
-## Verificação antes do START
+## Verificação antes de ativar a temporada
 
-A temporada ainda não está pronta se alguma pergunta estrutural necessária depender de ser inventada durante o jogo.
+A campanha pode estar pronta mesmo sem uma temporada.
 
-Antes do START, conferir:
+Mas, **se este módulo foi escolhido**, a temporada ainda não está pronta se alguma pergunta estrutural necessária depender de ser inventada durante o próprio arco.
+
+Antes de ativá-la, conferir:
 
 ```text
-direção do Jogador está clara?
+Direção do Arco está clara?
 problema da temporada foi criado?
 lista do que precisa ser resolvido existe?
 a lista possui normalmente entre 10 e 15 perguntas estruturais?
@@ -450,14 +474,14 @@ Se faltar algo estrutural:
 
 ```text
 TEMPORADA: EM CRIAÇÃO
-→ não iniciar ficção.
+→ a campanha pode existir, mas este arco preparado ainda não deve ser ativado.
 ```
 
 Se estiver suficiente:
 
 ```text
 TEMPORADA: PRONTA
-→ pode seguir para as etapas restantes da criação da campanha ou para o START.
+→ pode ser ativada como estrutura do arco atual.
 ```
 
 ## Encerramento da temporada
@@ -467,11 +491,11 @@ Quando a condição de encerramento do roteiro for realmente alcançada:
 ```text
 1. concluir somente a situação já em resolução;
 2. não inventar um novo arco;
-3. escrever o epílogo da temporada;
+3. escrever o epílogo da temporada, quando pertinente;
 4. consolidar fichas e estado;
 5. arquivar o roteiro encerrado;
-6. perguntar: “E agora?”;
-7. voltar ao PASSO 02 somente depois da resposta.
+6. perguntar “E agora?” quando essa for a forma escolhida de receber nova Direção Autoral;
+7. decidir se haverá outro Arco Preparado ou continuidade emergente.
 ```
 
 O encerramento existe para marcar um ponto real de resolução. A campanha pode continuar, mas aquela Diretriz Fechada deixa de dirigir a história.
@@ -480,26 +504,22 @@ O encerramento existe para marcar um ponto real de resolução. A campanha pode 
 
 O epílogo registra **como a temporada realmente terminou**. Não decide um futuro que ainda não aconteceu.
 
-Salvar em:
+Salvar, quando utilizado, em:
 
 ```text
 campanhas/<nome>/livro/temporada-[N]-epilogo.md
 ```
 
-Responder, conforme forem relevantes para aquela campanha:
+Responder somente ao que for relevante para aquela campanha:
 
 ```text
 Onde as personagens terminaram?
 Quais relações mudaram?
-Quem está com quem?
-Quem ainda vive ou trabalha junto?
 Que conhecimento importante foi adquirido?
 Que objetivos foram concluídos?
 Que mudanças precisam permanecer nas fichas?
 Que problemas realmente ficaram abertos?
 ```
-
-As perguntas do epílogo acompanham o tipo de história.
 
 > **O epílogo consolida o resultado real da temporada. Não cria a próxima.**
 
@@ -519,61 +539,39 @@ Status: ENCERRADA
 
 O roteiro encerrado deixa de dirigir o jogo atual.
 
-## “E agora?”
+## Depois do arco
 
-Depois do epílogo e da consolidação, perguntar simplesmente:
+Encerrar uma temporada não obriga a criar outra.
 
-> **E agora?**
+```text
+TEMPORADA ENCERRADA
+→ consolidar o que mudou
+→ manter a Direção da Campanha
+→ escolher entre:
+   NOVO ARCO PREPARADO
+   ou
+   CONTINUIDADE EMERGENTE
+```
 
-A resposta do Jogador inicia a criação da próxima temporada pela etapa **Direção do Jogador**.
-
-Um problema aberto no epílogo não vira automaticamente a próxima temporada.
+Um problema aberto continua existindo quando isso for verdade na ficção, mas não vira automaticamente o próximo foco.
 
 ```text
 PROBLEMA CONTINUA EXISTINDO
 ≠
-PRÓXIMA TEMPORADA É SOBRE ELE
+PRÓXIMO ARCO É SOBRE ELE
 ```
 
-Somente depois da resposta a “E agora?” criar a nova temporada.
-
-## O ciclo retorna ao Passo 02
-
-Depois que a campanha já existe, uma nova temporada não reinicia a criação inteira.
-
-```text
-TEMPORADA ENCERRADA
-→ epílogo
-→ consolidação
-→ “E agora?”
-→ DIREÇÃO DO JOGADOR
-→ NOVA TEMPORADA
-```
-
-Não voltar automaticamente ao Passo 01. A Narrativa da Campanha continua válida até que uma mudança deliberada de proposta seja aprovada.
-
-Não repetir automaticamente o Passo 03. As fichas aprovadas continuam sendo as mesmas personagens.
-
-```text
-CAMPANHA
-→ persistente.
-
-FICHAS
-→ persistentes.
-
-TEMPORADA
-→ renovável.
-```
+A campanha não volta automaticamente ao início de sua criação. Direção, fichas e Estado continuam válidos até serem legitimamente alterados.
 
 ## Nova temporada e fichas
 
 Ao criar uma nova temporada, usar normalmente:
 
 ```text
-narrativa da campanha
-+ resposta a “E agora?”
-+ epílogo anterior
-+ estado consolidado
+Direção da Campanha
++ Direção do novo Arco
++ epílogo anterior, quando houver
++ Estado consolidado
 + fichas existentes
 ```
 
@@ -585,4 +583,4 @@ Não usar a nova temporada como desculpa para escrever biografia, rever personal
 
 ## Regra final
 
-> **Toda temporada é preparada antes do jogo. O Jogador fornece a direção; o Narrador cria um problema compatível, reduz a temporada a uma lista curta de perguntas estruturais — normalmente entre 10 e 15 — e responde previamente cada uma. Essas respostas formam a Diretriz Fechada da temporada. O roteiro fecha o tabuleiro necessário, não as jogadas dos personagens. Depois do START, o Narrador improvisa cenas, caminhos, reações e consequências dentro dessa diretriz, mas não cria continuamente uma nova verdade estrutural apenas porque pode. O mundo preparado continua se movendo mesmo quando o Jogador ignora seus problemas. Quando a condição de encerramento é alcançada, a temporada termina, é consolidada e o Narrador pergunta “E agora?” para iniciar uma nova direção.**
+> **Temporada é um módulo opcional de Arco Preparado. A campanha precisa de Direção para existir, mas não precisa de Temporada. Quando uma Temporada é escolhida, sua Direção de Arco, problema, perguntas estruturais, respostas canônicas e Diretriz Fechada são preparados antes de o arco entrar em jogo. O roteiro fecha o tabuleiro necessário, não as decisões das personagens. Ao terminar, a campanha pode criar outro arco ou continuar emergentemente dentro de sua Direção persistente.**
