@@ -113,6 +113,24 @@ Uma trama secundária interessante não reescreve automaticamente a Direção da
 
 > **Direção não é roteiro. Ela informa para onde a história quer olhar sem decidir antecipadamente o que acontecerá.**
 
+### Atenção não redefine a Direção
+
+A atenção dada a um elemento durante a sessão pode justificar mais detalhe, compreensão, relação ou exploração, mas não muda automaticamente sua importância estrutural.
+
+```text
+ATENÇÃO EM CENA
+→ pode aprofundar o que já está ali.
+
+ATENÇÃO EM CENA
+≠ mudança automática da Direção da Campanha.
+```
+
+Uma personagem pode conversar longamente com um NPC, explorar um local secundário ou investigar um detalhe menor sem que isso obrigue o Narrador a transformá-lo em novo eixo da campanha.
+
+Se o interesse das cadeiras revelar vontade real de mudar o foco persistente, essa mudança deve acontecer por **Direção Autoral deliberada**, não como escalada invisível da improvisação.
+
+> **A atenção pode aprofundar um elemento; não concede, por si só, autoridade para ampliar sua importância estrutural.**
+
 ## PASSO 02 — Configuração das Cadeiras
 
 Registrar no `README.md` da campanha quais autoridades existem e quem executa cada uma.
