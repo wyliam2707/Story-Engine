@@ -1,0 +1,9 @@
+# Duas Vidas Normais — Livro
+
+Este diretório preserva a ficção canonizada da campanha em capítulos.
+
+Direção, consultas, auditorias, instruções de cena e demais metaconversas não fazem parte do Livro.
+
+## Capítulos
+
+001 — Desgaste Acadêmico
