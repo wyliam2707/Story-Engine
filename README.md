@@ -266,10 +266,21 @@ Combate, romance, investigação, exploração e cotidiano usam a mesma estrutur
 
 # Campanha
 
+Antes de qualquer ficha, Direção ou Estado, a campanha deve possuir **nome e pasta canônica**.
+
+```text
+Nome da campanha
+→ slug estável
+→ campanhas/<slug>/README.md
+→ só então criar os demais arquivos.
+```
+
+Em GitHub, o `README.md` funciona como arquivo-âncora porque pastas vazias não persistem.
+
 A estrutura mínima recomendada é:
 
 ```text
-campanhas/<nome>/
+campanhas/<slug>/
 ├── README.md
 ├── direcao.md
 ├── estado.md
@@ -285,6 +296,8 @@ oposicao.md
 livro/
 ```
 
+> **Nenhum arquivo de campanha deve ser produzido sem um destino canônico já definido.**
+
 Para criar uma campanha, siga:
 
 ```text
@@ -294,7 +307,8 @@ regras-basicas/07-CRIAR-CAMPANHA.md
 Para retomar uma campanha existente:
 
 ```text
-README da campanha
+localizar a pasta canônica da campanha
+→ README da campanha
 → direcao.md
 → estado.md
 → fichas relevantes
