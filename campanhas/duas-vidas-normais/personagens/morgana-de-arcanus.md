@@ -15,7 +15,9 @@ Estilo cotidiano: prefere roupas práticas e confortáveis.
 
 Seu visual cotidiano não precisa denunciar imediatamente a escala de sua experiência ou poder.
 
-Estilo mágico: ao contrário da aparência clássica de mago adotada por Daniel, Morgana tende a uma apresentação mais direta e funcional.
+Estilo mágico: ao contrário da aparência clássica e deliberadamente teatral adotada por Myrddin, Morgana tende a uma apresentação direta, elegante e funcional.
+
+Em atuação extraordinária, usa vestido preto com legging por baixo e botas práticas. O conjunto preserva mobilidade e permite combate sem depender de troca de roupa cerimonial ou elementos que atrapalhem movimento.
 
 Sua magia se manifesta principalmente através do próprio corpo, movimento e projeção de poder.
 
@@ -213,12 +215,15 @@ A necessidade de se defender do estilo direto da mãe contribuiu para Daniel tra
 - sabe que Daniel e Kara já almoçaram juntos;
 - sabe que existe flerte entre os dois e que discutiram a possibilidade de sair para dançar;
 - aceitou não investigar Kara por rastreamento, leitura de mente, hipnose, feitiços de localização, espíritos ou meios mágicos equivalentes explicitamente proibidos por Daniel;
-- posteriormente utilizou percepção espacial para acompanhar o conteúdo da tela de Daniel enquanto ele digitava dentro da Casa Arcanus, explorando uma brecha que não havia sido explicitamente proibida.
+- posteriormente utilizou percepção espacial para acompanhar o conteúdo da tela de Daniel enquanto ele digitava dentro da Casa Arcanus, explorando uma brecha que não havia sido explicitamente proibida;
+- sabe que o primeiro encontro de Daniel e Kara foi “melhor que o planejado” e que os dois permaneceram juntos durante o fim de semana;
+- sabe que Daniel pretende apresentá-la a Kara algum dia, mas respeitou o limite explícito de que isso não aconteceria naquele fim de semana;
+- entende Kara atualmente como namorada de Daniel.
 
 ## Pontos ainda abertos
 
 - idade aparente e real;
-- aparência exata;
+- aparência exata além do estilo de roupa já estabelecido;
 - origem histórica específica;
 - alcance completo de seu conhecimento mágico;
 - nome de técnicas;
