@@ -1,6 +1,6 @@
 # Perspectiva e Fala
 
-Status: REFORMULAÇÃO / NÃO IMPLEMENTADO
+Status: CANÔNICO DA REFORMULAÇÃO
 
 Este arquivo define como o Narrador apresenta **perspectiva, interpretação, fala, pensamento e voz** sem transformar conhecimento operacional em conhecimento ficcional.
 
@@ -8,11 +8,7 @@ Este arquivo define como o Narrador apresenta **perspectiva, interpretação, fa
 
 O padrão é **terceira pessoa próxima**.
 
-A cena acompanha uma perspectiva por vez e mostra somente aquilo que essa perspectiva pode legitimamente perceber ou já saber naquele momento.
-
-Conclusões pessoais, sentimentos voluntários, pensamentos e interpretações internas só aparecem quando já estiverem legitimamente estabelecidos pela cadeira que controla a personagem ou por efeito objetivo aplicável.
-
-Mudanças de foco podem ocorrer entre cenas ou quando a estrutura da campanha permitir, mas não devem produzir metaconhecimento acidental.
+A cena acompanha uma perspectiva por vez e mostra somente aquilo que ela pode legitimamente perceber ou já saber naquele momento.
 
 ```text
 PERSPECTIVA
@@ -25,9 +21,7 @@ NARRADOR
 
 ## O Narrador interpreta todas as personagens
 
-Na apresentação da cena, o Narrador pode interpretar **todas as personagens envolvidas**, inclusive a personagem do Jogador Humano.
-
-Interpretar significa dar forma concreta ao que já foi decidido:
+Na apresentação da cena, o Narrador pode dar forma concreta ao que já foi decidido:
 
 - tom de voz;
 - postura;
@@ -41,114 +35,77 @@ Interpretar significa dar forma concreta ao que já foi decidido:
 - pequenos gestos compatíveis;
 - maneira pessoal de executar a ação declarada.
 
-A ficha e o Registro podem estabelecer como uma personagem costuma agir, falar ou se apresentar.
-
-O Narrador usa essas características para evitar que a personagem do Jogador Humano vire uma presença neutra ou sem personalidade apenas porque o usuário declarou sua intenção de forma curta.
-
-```text
-JOGADOR HUMANO
-→ pergunto se ela quer vir comigo.
-
-FICHA
-→ personagem bem-humorada, provocadora e flertadora.
-
-NARRADOR
-→ apresenta a pergunta com esse jeito de falar.
-```
-
-Isso não transfere a decisão ao Narrador.
-
-> **A cadeira escolhe o que a personagem decide. O Narrador interpreta como aquela pessoa realiza a decisão já tomada.**
+> **A cadeira escolhe o que a personagem decide. O Narrador interpreta como essa decisão aparece.**
 
 ## Interpretar não é decidir
 
-O Narrador pode enriquecer a execução de uma intenção, mas não pode acrescentar uma nova escolha voluntária.
-
 ```text
-JOGADOR
-→ pergunto se ela vem comigo.
+CADEIRA
+→ pergunta se B quer acompanhar.
 
 NARRADOR PODE
-→ escolher tom, sorriso, postura e formulação compatíveis.
+→ escolher tom, postura e formulação compatíveis com a ficha.
 
-NARRADOR NÃO PODE
-→ acrescentar uma promessa.
-→ confessar um segredo.
+NARRADOR NÃO PODE, POR CONTA PRÓPRIA
+→ acrescentar promessa.
+→ confessar segredo.
 → decidir mentir.
-→ ameaçar alguém.
+→ ameaçar.
 → mudar o objetivo da fala.
 ```
 
-Exemplo:
+## Diretor pode determinar conteúdo
+
+A limitação acima vale para o **Narrador agindo por conta própria**.
+
+O Diretor possui autoridade autoral diferente.
 
 ```text
-JOGADOR HUMANO
-→ pergunto se ela quer vir comigo.
+DIRETOR
+→ [quero que A diga exatamente “não volto atrás”.]
 ```
 
-Se a personalidade sustenta isso, o Narrador pode apresentar:
+Nesse caso, a fala determinada deve acontecer, salvo mudança posterior do próprio Diretor.
+
+Isso não significa que o Narrador ganhou liberdade para inventar falas semelhantes depois.
 
 ```text
-Ele deixou surgir um meio sorriso antes de olhar para ela.
+DIRETOR DETERMINOU A FRASE
+→ frase fechada.
 
-[Corvin] — Então... vai me deixar ir sozinho ou pretende melhorar bastante a minha noite?
+DIRETOR NÃO DETERMINOU O RESTO
+→ postura, emoção interna e continuação permanecem abertas às autoridades apropriadas.
 ```
 
-Mas não poderia acrescentar:
+> **Direção explícita pode fechar conteúdo; o Narrador não pode ampliar esse fechamento por conta própria.**
+
+## Direção não vira conhecimento da personagem
+
+Mesmo quando o Diretor determina uma fala ou resultado:
 
 ```text
-[Corvin] — Vem comigo e prometo que nunca mais vou esconder nada de você.
+DIRETOR SABE O FUTURO DA CENA
+≠
+PERSONAGEM SABE O FUTURO DA CENA
 ```
 
-se essa promessa não foi declarada ou já determinada.
+Se a fala depende apenas da determinação autoral, o executor produz a ação no momento apropriado sem fazer a personagem raciocinar a partir de metaconhecimento.
 
 ## Fala direta
 
-Toda fala direta usa identificação explícita:
+Toda fala direta usa identificação explícita quando isso ajudar clareza:
 
 ```text
 [Nome] — Fala.
 ```
 
-Exemplo:
-
-```text
-[Ravena] — Não faça isso.
-```
-
-A identificação preserva clareza de autoria em cenas com várias peças.
+A identificação preserva autoria em cenas com várias peças.
 
 ## Falar não obriga atenção nem resposta
 
-Dirigir uma fala a outra peça é uma tentativa de comunicação. Não cria automaticamente uma conversa.
+Dirigir fala a outra peça é tentativa de comunicação.
 
-```text
-JOGADOR
-→ falo com ela.
-
-ALVO
-→ pode prestar atenção.
-→ pode ignorar.
-→ pode interromper.
-→ pode responder enquanto continua outra ação.
-→ pode sair.
-→ pode atacar.
-```
-
-O Narrador não coloca a cena em pausa apenas porque alguém começou a falar.
-
-```text
-inimigo avança para atacar
-+
-protagonista começa a conversar
-
-→ o inimigo não precisa parar.
-→ pode ignorar a fala.
-→ pode responder durante o ataque.
-→ pode interromper antes da frase terminar, se a ficção permitir.
-```
-
-Da mesma forma, uma personagem neutra ou aliada não precisa responder a toda provocação, pergunta ou comentário quando possui outra prioridade.
+Não cria automaticamente conversa.
 
 ```text
 FALA
@@ -164,39 +121,37 @@ FALA
 ≠ negociação automática.
 ```
 
-A atenção e a resposta pertencem à cadeira responsável pela outra peça, conforme `../nucleo/1.0-tribunal.md`.
+A outra cadeira só recebe decisão se existe oportunidade real de ouvir, responder, interromper ou agir.
 
-> **O jogador controla o que sua personagem diz. Não controla se os outros consideram aquilo importante.**
+```text
+PERSONAGEM FOI ALVO DE UMA FALA
+≠
+REAÇÃO AUTOMÁTICA
+```
 
 ## Da declaração para a fala
 
-Uma cadeira pode declarar a fala de duas formas.
+Uma cadeira pode declarar fala de duas formas.
 
 ### Fala exata
 
 ```text
-JOGADOR
-→ [Ravena] — Não vou com você.
+CADEIRA
+→ [Personagem] — Não vou com você.
 ```
 
 O Narrador preserva o conteúdo e não muda seu significado.
 
-Pode interpretar ao redor da fala com expressão, postura, ritmo ou gesto compatíveis.
-
 ### Intenção de fala
 
 ```text
-JOGADOR IA — Ravena
+CADEIRA
 → digo que não vou com ele.
 ```
 
-O Narrador pode transformar isso em fala natural compatível com a voz da personagem:
+O Narrador pode transformar em frase natural compatível com a voz da personagem.
 
-```text
-[Ravena] — Não vou.
-```
-
-Ao formular a frase, o Narrador não pode acrescentar por conta própria:
+Ao formular, não acrescenta por conta própria:
 
 - promessa;
 - confissão;
@@ -204,157 +159,94 @@ Ao formular a frase, o Narrador não pode acrescentar por conta própria:
 - ameaça;
 - segredo;
 - compromisso;
-- informação nova que a personagem não possui;
+- informação nova;
 - mudança de intenção.
 
-> **O Narrador pode escolher a forma verbal. A cadeira escolhe o conteúdo voluntário.**
+> **O Narrador pode escolher a forma verbal. A cadeira escolhe o conteúdo voluntário, salvo conteúdo explicitamente determinado pelo Diretor.**
 
 ## Completar o que a personagem já sabe
 
-O Jogador Humano não precisa reproduzir de memória todo conhecimento que sua personagem já possui.
+O executor humano não precisa reproduzir de memória todo conhecimento da personagem.
 
-Quando uma declaração identifica suficientemente a intenção, o Narrador pode completar detalhes de execução usando somente informação que a própria personagem conhece legitimamente.
+Quando a intenção está suficientemente identificada, o Narrador pode completar detalhes usando somente informação que a própria personagem conhece legitimamente.
 
-As fontes podem ser:
+Fontes:
 
 ```text
 FICHA DA PERSONAGEM
 +
-FATOS JÁ ESTABELECIDOS NA CENA
+FATOS JÁ ESTABELECIDOS
 +
-REGISTRO QUE REPRESENTE O CONHECIMENTO DA PERSONAGEM
-```
-
-Exemplo:
-
-```text
-JOGADOR HUMANO
-→ falo para ela vir comigo depois.
-
-A personagem sabe que ela se chama Ravena.
-```
-
-O Narrador pode apresentar:
-
-```text
-[Corvin] — Ravena, vem comigo depois.
-```
-
-O jogador não precisa escrever novamente o nome.
-
-Outros exemplos:
-
-```text
-"vou para a casa dela"
-→ se a personagem conhece o local, usar o local conhecido.
-
-"pergunto pelo irmão dela"
-→ se a personagem sabe quem é, o Narrador pode usar o nome correto.
-
-"uso a fraqueza que descobri"
-→ se essa fraqueza pertence ao conhecimento legítimo da personagem, identificar qual é.
+REGISTRO QUE REPRESENTE CONHECIMENTO DA PERSONAGEM
 ```
 
 Isso não cria conhecimento novo.
 
-```text
-PERSONAGEM SABE
-→ Narrador pode completar a execução.
+## Declaração ambígua
 
-PERSONAGEM NÃO SABE
-→ Narrador não completa usando informação técnica, secreta ou reservada.
-```
-
-> **Ficha e Registro funcionam também como memória da personagem. O jogo não exige que a memória do jogador humano seja idêntica à memória da personagem.**
-
-## Declaração ambígua e conhecimento legítimo
-
-Quando existir mais de uma interpretação plausível, o Narrador deve preferir a leitura compatível com o conhecimento e a intenção já demonstrada pela personagem, sem inventar uma nova escolha.
-
-Se a diferença mudar de forma relevante o objetivo, alvo ou decisão voluntária, não completar silenciosamente: a escolha continua pertencendo à cadeira.
+Quando existe mais de uma interpretação plausível, preferir a leitura compatível com conhecimento e intenção já demonstrados sem inventar escolha nova.
 
 ```text
 DETALHE JÁ DETERMINADO PELO CONTEXTO
 → pode completar.
 
 ESCOLHA ENTRE ALTERNATIVAS REAIS
-→ pertence ao jogador.
+→ pertence à cadeira.
 ```
+
+Se o Diretor explicitamente fecha uma das alternativas, ela deixa de ser escolha aberta no escopo determinado.
 
 ## Pensamento direto
 
-Quando um pensamento direto estiver legitimamente estabelecido, usar:
+Quando pensamento direto estiver legitimamente estabelecido, usar:
 
 ```text
 [Nome, pensa] — Pensamento.
 ```
 
-O Narrador não inventa pensamento voluntário para explicar a ação de outra cadeira.
+O Narrador não inventa pensamento voluntário para explicar ação de outra cadeira.
 
 ```text
 AÇÃO OBSERVÁVEL
 → pode ser narrada.
 
 MOTIVAÇÃO INTERNA NÃO DECLARADA
-→ não deve ser inventada.
+→ não inventar.
 ```
 
-## Jogador Humano
+O Diretor pode determinar uma interioridade específica se quiser fechá-la, mas essa determinação deve ser explícita.
 
-O Narrador interpreta a execução das decisões do personagem humano, mas não decide pensamento, sentimento voluntário, interpretação pessoal ou intenção nova por ele.
+## Consequência involuntária
 
-Pode narrar consequências involuntárias legitimamente produzidas pela situação, como:
+O Narrador pode narrar efeitos involuntários legitimamente produzidos:
 
 - dor;
 - perda de equilíbrio;
 - reflexo físico;
 - dificuldade para respirar após esforço;
 - percepção estabelecida;
-- efeito de condição ou poder.
+- efeito de condição ou Poder.
 
-Também pode usar personalidade, voz, hábitos e conhecimento já estabelecidos para dar forma à ação declarada.
+Isso não se transforma automaticamente em escolha emocional ou moral.
 
-Mas não transforma isso automaticamente em escolha emocional ou moral.
+## Jogadores IA e Eventuais
 
-```text
-"a dor sobe pelo braço"
-→ consequência física possível.
-
-"ele fala com o humor provocador que já o caracteriza"
-→ interpretação da execução.
-
-"ele decide que está com medo e quer fugir"
-→ decisão voluntária; não pertence ao Narrador.
-```
-
-## Jogadores IA e Eventual
-
-A mesma separação vale para peças controladas por Jogador IA ou Jogador IA Eventual.
-
-O Narrador interpreta aquilo que foi declarado e julgado, respeitando a personalidade da peça, mas não inventa uma motivação secreta para completar a literatura.
+A mesma separação vale para peças executadas por IA.
 
 ```text
 IA DECLARA INTENÇÃO
-→ Narrador pode dar forma à ação e à fala.
+→ Narrador dá forma.
 
-IA NÃO DECLARA NOVA DECISÃO OU MOTIVAÇÃO INTERNA
-→ Narrador não a cria como verdade.
+IA NÃO DECLARA NOVA MOTIVAÇÃO
+→ Narrador não cria como verdade.
+
+DIRETOR FECHA RESULTADO
+→ executor preserva o resultado sem inserir metaconhecimento na personagem.
 ```
 
 ## Opositor e adversários
 
-O Narrador também interpreta a execução das ações adversariais já declaradas pelo Opositor, mas não expõe automaticamente planos ou pensamentos reservados.
-
-Pode mostrar sinais perceptíveis:
-
-- gesto;
-- expressão;
-- hesitação;
-- silêncio;
-- movimento;
-- ação;
-- fala;
-- consequência observável.
+O Narrador interpreta ações adversariais já declaradas pelo Opositor, mas não expõe automaticamente planos ou pensamentos reservados.
 
 ```text
 OPOSITOR SABE
@@ -362,58 +254,54 @@ OPOSITOR SABE
 PERSONAGEM SABE
 ```
 
-Uma fala dirigida ao adversário não cancela sua intenção já estabelecida. Se ele tinha motivo para continuar atacando, fugir, proteger algo ou concluir outra ação, somente uma decisão própria ou uma resolução legítima altera isso.
-
 ## Voz individual
 
-Cada personagem deve soar como ele mesmo.
+Cada personagem deve soar como ela mesma.
 
-Considerar, quando já estabelecido:
+Considerar:
 
 - vocabulário;
 - formalidade;
 - extensão das frases;
 - humor;
 - hábitos;
-- relação com o interlocutor;
-- estado atual;
+- relação com interlocutor;
+- Estado atual;
 - conhecimento disponível;
 - personalidade.
 
-A voz geral da narração pode ser consistente sem fazer todos falarem igual.
-
-> **A personagem não perde sua voz porque a declaração do jogador foi curta ou funcional.**
+> **A personagem não perde sua voz porque a declaração do executor foi curta.**
 
 ## Subtexto
 
 Nem toda emoção precisa ser explicada.
 
-Olhar, silêncio, proximidade, afastamento, cuidado, irritação, hesitação e mudança de assunto podem carregar subtexto quando forem compatíveis com o que foi estabelecido e não criarem uma decisão nova.
-
-Evitar repetir a mesma informação em três camadas:
-
-```text
-narração
-+ pensamento
-+ fala
-```
-
-Se o comportamento já comunica o necessário, não explicar de novo por obrigação.
+Olhar, silêncio, proximidade, afastamento, cuidado, irritação e hesitação podem carregar subtexto quando compatíveis com o que foi estabelecido e sem criar decisão nova.
 
 ## Informação oculta
 
-Conhecimento usado pelo Narrador para julgar continua oculto até ser legitimamente percebido ou descoberto.
+Conhecimento usado pelo Narrador para julgar continua oculto até descoberta legítima.
 
 ```text
 NARRADOR SABE
 → para julgar.
 
 PERSONAGEM NÃO SABE
-→ não pode aparecer na fala, ação ou explicação como se ela soubesse.
+→ não aparece como conhecimento dela.
 ```
 
-Quando apropriado, mostrar apenas evidências observáveis.
+## Pedido de auditoria do Diretor
+
+Se o Diretor interrompe com:
+
+```text
+[essa fala parece incoerente; confira a ficha ou os livros]
+```
+
+parar a progressão pertinente, verificar e responder antes de continuar.
+
+Não defender a formulação anterior apenas porque ela era uma interpretação possível.
 
 ## Regra final
 
-> **O Narrador dá forma às decisões já tomadas sem controlar outras cadeiras. Falar é apenas uma tentativa de comunicação: não garante atenção, resposta, pausa ou negociação. A outra peça continua agindo conforme sua própria decisão, enquanto o Jogador Humano conserva autoridade somente sobre aquilo que sua personagem decide dizer ou fazer.**
+> **O Narrador dá forma às decisões sem controlar outras cadeiras. Fala não garante atenção ou resposta; nova reação só existe quando a ficção deixa decisão real disponível. O Diretor pode fechar fala, pensamento ou resultado explicitamente, mas esse fechamento não se expande para detalhes que ele deixou abertos nem se transforma em metaconhecimento da personagem.**
