@@ -2,6 +2,7 @@
 
 Nome / identificação: Daniel Merlin de Arcanus
 Nome usado normalmente: Daniel Arcanus
+Nome heroico: Myrddin
 Idade: aproximadamente 20 anos
 
 ## 1 — Descrição Física
@@ -14,9 +15,11 @@ Estilo universitário: roupas esportivas ou casuais, aparência cuidada e descon
 
 Estilo particular: em casa prefere roupas confortáveis e uma rotina muito mais reclusa, cercada de livros, anotações, grimórios e pesquisa mágica.
 
-Estilo heroico: adota deliberadamente uma aparência inspirada em um mago clássico de fantasia — chapéu largo, casaco ou manto em camadas, botas, luvas, cintos, bolsas de componentes e pequenos objetos arcanos. A silhueta e a postura ficam muito diferentes das de Daniel na faculdade. Para alguém de fora do mundo mágico, o visual pode parecer exageradamente próximo de um personagem de RPG.
+Estilo heroico — Myrddin: adota deliberadamente uma aparência inspirada em um mago clássico de fantasia — chapéu largo, casaco ou manto em camadas, botas, luvas, cintos, bolsas de componentes e pequenos objetos arcanos. A silhueta e a postura ficam muito diferentes das de Daniel na faculdade. Para alguém de fora do mundo mágico, o visual pode parecer exageradamente próximo de um personagem de RPG.
 
 Essa diferença visual ajuda a impedir associação casual entre sua identidade universitária e sua atuação heroica.
+
+O nome Myrddin é uma forma tradicional associada ao nome Merlin. Para Daniel, funciona como nome arcano; retrospectivamente, porém, torna a relação entre sua identidade civil e heroica quase comicamente evidente para quem descobrir as duas.
 
 ## 2 — Conceito
 
@@ -176,6 +179,8 @@ Seu lado nerd relacionado à magia é genuíno e muito mais intenso do que sua a
 
 Daniel tende a analisar problemas antes de simplesmente atacá-los. Prefere controlar uma situação, limitar possibilidades e proteger aquilo que importa. Isso não significa passividade: quando considera necessária uma intervenção, pode agir com bastante decisão.
 
+Daniel também tende a registrar fisicamente pessoas pelas quais presta atenção: formato corporal, proporções, postura, jeito de andar, ritmo de movimento e pequenos gestos podem permanecer familiares para ele mesmo quando roupas, cabelo e contexto mudam. Isso pode produzir sensação de familiaridade ou pistas quando encontra a mesma pessoa sob outra identidade, mas não equivale a reconhecimento automático nem permite saltar para uma conclusão sem fundamento suficiente.
+
 Desejos e objetivos:
 - concluir sua graduação em Física;
 - aprofundar continuamente seu conhecimento mágico;
@@ -195,7 +200,8 @@ Hábitos e tendências:
 - gosta de confrontar explicações físicas e mágicas para fenômenos quando ambas são pertinentes;
 - mantém hábitos atléticos;
 - socializa com facilidade, mas frequentemente prefere voltar para casa cedo;
-- tende a usar soluções indiretas, controle e preparação antes de força bruta.
+- tende a usar soluções indiretas, controle e preparação antes de força bruta;
+- quando alguém chama sua atenção pessoalmente, tende a lembrar também de sua presença física e maneira de se mover, não apenas de rosto, roupa ou voz.
 
 Relações relevantes:
 
@@ -234,4 +240,4 @@ Na universidade tornou-se conhecido como um jovem atlético, inteligente e socia
 
 Daniel também possui experiência heroica, usando suas capacidades quando considera necessário, mas evita transformar essa atuação em centro de sua identidade pública.
 
-Sua identidade heroica formal permanece aberta no início da campanha. O visual em serviço, porém, é marcadamente o de um mago clássico, contraste suficiente para que Supergirl futuramente possa apelidá-lo de “Mago Cosplay” sem reconhecer Daniel por baixo daquela persona.
+Em atuação extraordinária usa o nome Myrddin. O visual em serviço é marcadamente o de um mago clássico, contraste suficiente para que Supergirl possa apelidá-lo de “Mago Cosplay” sem reconhecer Daniel por baixo daquela persona. O próprio nome Myrddin, por sua relação com Merlin, se torna uma pista retrospectivamente óbvia apenas depois que alguém possui motivo para ligar as duas identidades.
