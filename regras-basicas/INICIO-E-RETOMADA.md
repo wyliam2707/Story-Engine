@@ -39,13 +39,14 @@ Depois disso, quando desejado:
 
 ```text
 ESTRUTURA OPCIONAL
-→ Temporada / Arco Preparado / Diretriz Fechada
+→ Temporada / Arco Preparado
+→ Diretriz Fechada somente quando esse arco realmente precisar
 → seguir CRIACAO-DE-TEMPORADA.md
 ```
 
 A ficção começa somente depois do START.
 
-> **Temporada não é requisito universal de início. Direção da Campanha é.**
+> **Temporada não é requisito universal de início. Direção da Campanha é. Diretriz Fechada também não é requisito universal de uma Temporada.**
 
 ## Continuar campanha
 
@@ -73,6 +74,8 @@ mestre/roteiro.md
 
 **somente quando houver uma Temporada / Arco Preparado ativo**.
 
+Dentro do Roteiro, carregar Diretriz Fechada somente quando ela estiver explicitamente ativa para aquele arco.
+
 Essas fontes têm funções diferentes:
 
 ```text
@@ -80,7 +83,10 @@ DIREÇÃO DA CAMPANHA / NARRATIVA
 → identidade, foco e limites narrativos persistentes.
 
 ROTEIRO DA TEMPORADA
-→ tabuleiro estrutural de um Arco Preparado ativo, quando existir.
+→ preparação concreta de um Arco Preparado ativo, quando existir.
+
+DIRETRIZ FECHADA
+→ subconjunto opcional do Roteiro que protege verdades estruturais previamente fixadas.
 
 FICHA
 → quem a personagem é, o que sabe, consegue fazer e possui legitimamente.
@@ -107,16 +113,23 @@ SEM ARCO PREPARADO ATIVO
 → continuar a partir do Estado e das decisões das cadeiras.
 
 COM ARCO PREPARADO ATIVO
-→ carregar também Roteiro e Diretriz Fechada.
-→ respeitar os limites estruturais daquele arco.
+→ carregar também o Roteiro.
+→ se houver Diretriz Fechada ativa, carregar e respeitar somente as verdades que ela fechou.
+→ se não houver, não inventar uma Diretriz Fechada retroativamente.
 ```
 
 A ausência de Temporada não significa ausência de direção.
+
+A ausência de Diretriz Fechada também não significa ausência de cânone ou continuidade.
 
 ```text
 SEM TEMPORADA
 ≠
 SEM DIREÇÃO
+
+SEM DIRETRIZ FECHADA
+≠
+SEM LIMITES
 ```
 
 ## Reancoragem
@@ -136,6 +149,7 @@ CARREGAR FONTES NECESSÁRIAS
 → reconstruir a Direção da Campanha
 → reconstruir a realidade presente
 → carregar Arco Preparado somente se estiver ativo
+→ carregar Diretriz Fechada somente se existir nesse arco
 → separar pacotes das cadeiras
 → restaurar intenções e processos ainda vivos
 → identificar o primeiro ponto aberto
@@ -257,6 +271,7 @@ CRIAÇÃO: CONCLUÍDA
 → reconstruir Configuração das Cadeiras e autoridades necessárias
 → carregar Direção da Campanha
 → carregar Roteiro somente se existir Arco Preparado ativo
+→ carregar Diretriz Fechada somente se existir nesse Roteiro
 → carregar Estado da Campanha
 → carregar fichas relevantes
 → restaurar intenções e processos pertinentes
@@ -298,7 +313,7 @@ Uma cena de combate, investigação, romance, exploração ou cotidiano continua
 
 ## Direção durante o jogo
 
-A Direção da Campanha continua válida mesmo quando não existe roteiro ativo.
+A Direção da Campanha continua válida mesmo quando não existe Roteiro ativo.
 
 Ela serve para julgar se um desenvolvimento é compatível com a história que a campanha pretende acompanhar.
 
@@ -308,6 +323,9 @@ CURIOSIDADE DE CENA
 
 AUSÊNCIA DE ROTEIRO
 ≠ permissão para criar qualquer trama.
+
+AUSÊNCIA DE DIRETRIZ FECHADA
+≠ permissão para alterar retroativamente a realidade.
 ```
 
 Quando houver Direção Autoral nova que realmente altere a identidade da campanha, consolidar a mudança deliberadamente em `mestre/narrativa.md`.
@@ -370,4 +388,4 @@ Se uma campanha histórica possui um recurso particular que continua canonicamen
 
 ## Regra final
 
-> **Para começar ou retomar uma campanha, reconstruir primeiro sua Direção, Configuração das Cadeiras, fichas, Estado global, conhecimentos, intenções e processos. Temporada e Diretriz Fechada só entram quando existir um Arco Preparado ativo; sua ausência não remove a Direção da Campanha nem impede a ficção de continuar. A Mesa continua sendo um procedimento sob demanda e toda nova decisão voluntária retorna à cadeira correta.**
+> **Para começar ou retomar uma campanha, reconstruir primeiro sua Direção, Configuração das Cadeiras, fichas, Estado global, conhecimentos, intenções e processos. Temporada só entra quando existir um Arco Preparado ativo; Diretriz Fechada só entra quando esse arco possuir verdades que realmente precisem estar fixadas. Sua ausência não remove a Direção, o cânone nem a proibição de retroatividade. Toda nova decisão voluntária retorna à cadeira correta.**
