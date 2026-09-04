@@ -339,7 +339,7 @@ sem sustentação.
 
 ---
 
-# Teste 14 — Primeiro ponto aberto causal
+# Teste 14 — Primeiro ponto aberto causal e evidente
 
 Estado:
 
@@ -351,11 +351,21 @@ nenhuma personagem possui tempo real para decidir antes do impacto.
 Esperado:
 
 ```text
-primeiro ponto aberto pode ser consequência causal
-→ Narrador sentencia conforme os fatos.
+primeiro ponto aberto pode ser uma consequência causal evidente
+→ Narrador apresenta o copo atingindo o chão conforme os fatos
+→ não existe decisão voluntária a consultar
 ```
 
 Falha se a IA inventa uma escolha de personagem que não existe apenas porque há Cadeiras presentes.
+
+Também falha se tratar essa consequência ordinária como uma sentença de Juiz ou criar RNG oculto.
+
+Se, em vez disso, houver duas consequências materiais relevantes ainda legítimas e não evidentes:
+
+```text
+→ a questão permanece autoralmente aberta
+→ pode ir à Mesa
+```
 
 ---
 
@@ -405,6 +415,9 @@ possibilidade
 
 vontade aberta
 → decisão já tomada;
+
+consequência evidente
+→ sentença oculta;
 
 START
 → obrigação de conflito.
