@@ -1,12 +1,12 @@
 # Módulo Opcional — Arco Preparado
 
-Use este módulo quando o Diretor quiser preparar um arco antes de jogá-lo.
+Use este módulo quando o Diretor quiser preparar um arco antes de executá-lo na ficção.
 
-> **Preparar o tabuleiro não é decidir antecipadamente como as personagens jogarão nele.**
+> **Preparar o tabuleiro não é decidir antecipadamente como as personagens agirão nele.**
 
 ## Ativação
 
-Quando ativo, criar na campanha:
+Quando ativo, criar na obra:
 
 ```text
 arco.md
@@ -25,7 +25,7 @@ fatos fechados do arco
 condição de encerramento, quando útil
 ```
 
-Não é necessário ativar este módulo para toda campanha.
+Não é necessário ativar este módulo para toda obra.
 
 ## Fatos fechados do arco
 
@@ -52,7 +52,7 @@ Elas não podem ser reconstruídas retroativamente por Cadeiras, Narrador ou Opo
 
 O Diretor continua podendo alterá-las conscientemente. Se fizer isso, a mudança é explícita e as fontes afetadas são corrigidas; não se finge que a nova versão sempre foi a antiga.
 
-## Roteiro não é Diretor
+## Preparação não é autoridade
 
 `arco.md` é preparação, não uma autoridade autônoma.
 
@@ -88,12 +88,23 @@ EXPANDIR
 → criar novo eixo estrutural.
 ```
 
-Expansão exige causalidade, preparação ou Direção legítima; não nasce apenas porque a mesa insistiu em olhar para um detalhe.
+Expansão exige causalidade, preparação ou Direção legítima; não nasce apenas porque a Mesa ou as personagens insistiram em olhar para um detalhe.
+
+## Mesa de Autoria
+
+Uma proposta de alteração do arco discutida na Mesa continua sendo hipótese até o Diretor confirmar e registrar a mudança.
+
+```text
+PARECER SOBRE O ARCO
+≠ ALTERAÇÃO DO ARCO
+```
+
+Se a discussão precisar sobreviver a uma retomada, pode ser preservada em `operacao.md` sem alterar `arco.md`.
 
 ## Encerramento
 
-Se houver condição de encerramento, o arco termina quando ela realmente for alcançada.
+Se houver condição de encerramento, o arco termina quando ela realmente for alcançada na Ficção ou quando o Diretor o encerrar por Direção consciente.
 
 Problema ainda aberto não se transforma automaticamente no próximo arco.
 
-> **Arco Preparado é memória de preparação. O Diretor conduz; as Cadeiras continuam jogando; o Narrador continua julgando.**
+> **Arco Preparado é memória de preparação. O Diretor conduz; as Cadeiras continuam agindo; o Narrador continua sentenciando a Ficção.**
