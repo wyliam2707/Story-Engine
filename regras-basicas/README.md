@@ -4,38 +4,30 @@
 
 **W4D é uma arquitetura de autoria narrativa distribuída.**
 
-Ele nasceu com linguagem de RPG, mas não depende de dados, combate, vitória, personagem-jogador ou estrutura de jogo para funcionar. Pode ser usado como:
+Ele não depende de dados, combate, vitória, personagem-jogador ou estrutura de jogo para funcionar.
+
+> **O Diretor conduz. As Cadeiras decidem as personagens. A Mesa alinha o que precisa ser fechado. O Narrador apresenta a Ficção. O Registro preserva.**
+
+O W4D atual não possui `Juiz` permanente.
 
 ```text
-RPG narrativo
-coautoria de ficção com IA
-sala de roteiro distribuída
-motor para histórias seriadas
-fanfic assistida por IA
-ferramenta de construção e continuidade narrativa
+SEM RNG UNIVERSAL
+SEM TESTE UNIVERSAL
+SEM DIFICULDADE UNIVERSAL
+SEM SENTENÇA OCULTA DO NARRADOR
 ```
-
-O objetivo central é permitir que uma pessoa conduza uma obra sem precisar escrever sozinha todas as personagens e, ao mesmo tempo, sem entregar a obra inteira a um único executor IA.
-
-> **O Diretor conduz. As Cadeiras preservam as personagens. O Narrador emite parecer na Mesa e sentencia na Ficção. O Registro preserva.**
 
 ---
 
 # Se você é uma IA: BOOT primeiro
 
-Se recebeu somente esta pasta, não comece criando uma história e não tente adivinhar qual campanha deve continuar.
-
-Primeiro execute o BOOT definido em:
+Comece em:
 
 ```text
 09-BOOT-E-ESCOLHA-DE-OPERACAO.md
 ```
 
-O BOOT exige que a IA aprenda o núcleo do engine antes de escolher qualquer ramo operacional.
-
-## Núcleo do engine
-
-Leia nesta ordem pedagógica:
+Leia o núcleo nesta ordem pedagógica:
 
 ```text
 README.md
@@ -57,11 +49,9 @@ README.md
 06-REGISTRO-E-RETOMADA.md
 ```
 
-Depois do núcleo carregado, se o usuário ainda não informou a operação, perguntar:
+Depois do núcleo, se a operação ainda não estiver clara:
 
 > **Você quer criar uma história nova ou continuar uma história existente?**
-
-Só então carregar o ramo correspondente:
 
 ```text
 NOVA HISTÓRIA
@@ -71,49 +61,42 @@ NOVA HISTÓRIA
 CONTINUAR HISTÓRIA EXISTENTE
 → 11-CONTINUAR-HISTORIA-COM-IA.md
 → 06-REGISTRO-E-RETOMADA.md
-→ fontes da campanha escolhida
+→ fontes da obra
 ```
-
-Se o pedido já disser claramente `criar`, `continuar`, `retomar` ou equivalente, não repetir a pergunta.
-
-A numeração atual é histórica. Ela **não representa prioridade normativa**.
 
 ---
 
 # As três camadas
 
-O W4D separa três coisas que modelos de linguagem tendem a misturar.
+## MESA
 
-## 1 — MESA
-
-Espaço autoral fora da ficção.
+Espaço autoral fora da Ficção.
 
 ```text
-PROPOSTA OU DECISÃO EM EXAME
-→ CADEIRAS ENVOLVIDAS OPINAM
-→ NARRADOR EMITE PARECER
-→ DIRETOR ALTERA, CANCELA OU AUTORIZA EXECUÇÃO
+PROPOSTA OU QUESTÃO EM EXAME
+→ Cadeiras opinam
+→ Narrador pode emitir Parecer
+→ Diretor altera, cancela, deixa aberto ou fecha uma versão
 ```
 
-Nada disso é automaticamente ficção.
+Nada disso acontece ficcionalmente até autorização.
 
-## 2 — FICÇÃO
-
-Depois da autorização:
+## FICÇÃO
 
 ```text
-CADEIRAS DECIDEM O QUE CONTINUA ABERTO
-→ NARRADOR SENTENCIA CAUSALIDADE
-→ PROSA APRESENTA O QUE ACONTECEU
+Direção preserva pontos fechados
+→ Cadeiras decidem o espaço aberto
+→ consequências evidentes podem seguir diretamente
+→ Narrador apresenta a continuidade
 ```
 
-## 3 — REGISTRO
+Se um resultado materialmente importante continua realmente aberto, o Narrador não cria um vencedor escondido. A questão pode ir à Mesa.
 
-Depois, quando houver salvamento, checkpoint ou fechamento de capítulo:
+## REGISTRO
 
 ```text
-FICÇÃO ESTABELECIDA
-→ REGISTRO PRESERVA
+Ficção estabelecida
+→ Registro preserva
 ```
 
 > **Registrar preserva. Não cria.**
@@ -129,155 +112,205 @@ Narrador → PARECER
 Diretor  → DECISÃO AUTORAL
 
 FICÇÃO
-Cadeira  → INTENÇÃO / DECISÃO DA PERSONAGEM
-Narrador → SENTENÇA
-Prosa    → APRESENTAÇÃO
+Cadeira  → INTENÇÃO / DECISÃO DA PERSONAGEM NO ESPAÇO ABERTO
+Direção  → PONTOS FECHADOS
+Narrador → APRESENTAÇÃO / CONTINUIDADE
 
 REGISTRO
 → PRESERVAÇÃO
 ```
 
-As distinções essenciais são:
+Distinções essenciais:
 
 ```text
-PROPOSTA
-≠ CÂNONE
-
-OPINIÃO CONSULTIVA
-≠ DECISÃO FICCIONAL
-
-PARECER
-≠ SENTENÇA
-
-DECISÃO AUTORAL
-≠ ACONTECIMENTO JÁ EXECUTADO
-
-EXECUÇÃO FICCIONAL
-→ ESTABELECE O QUE ACONTECEU
-
-REGISTRO
-→ PRESERVA O QUE JÁ ACONTECEU
+PROPOSTA ≠ CÂNONE
+OPINIÃO CONSULTIVA ≠ DECISÃO FICCIONAL
+PARECER ≠ DECISÃO AUTORAL
+DECISÃO AUTORAL ≠ ACONTECIMENTO JÁ EXECUTADO
+APRESENTAÇÃO ≠ AUTORIA ESCONDIDA
 ```
+
+---
+
+# A Mesa resolve autoria, não probabilidade
+
+A Mesa pode ser usada em qualquer domínio:
+
+```text
+romance
+combate
+investigação
+perseguição
+negociação
+cotidiano
+```
+
+Ela pode encontrar uma versão executável:
+
+```text
+Diretor propõe X
+→ Cadeira rejeita X nas condições atuais
+→ outra versão Y é construída
+→ Cadeira sustenta Y
+→ Diretor fecha Y
+→ Ficção executa Y
+```
+
+Depois:
+
+```text
+RESULTADO FECHADO
+→ não reabrir.
+
+CAMINHO ABERTO
+→ Cadeiras continuam autoras.
+```
+
+> **A Mesa pode fechar o destino; as Cadeiras descobrem o caminho.**
+
+Isso não significa usar Mesa para cada detalhe cotidiano.
+
+> **Mesa disponível universalmente, não Mesa obrigatória universalmente.**
 
 ---
 
 # Políticas de Mesa
 
-Cada obra pode configurar uma política.
-
 ```text
 MESA: SOB DEMANDA
-→ consulta quando o Diretor pede.
+→ padrão; consulta quando o Diretor pede ou há ambiguidade real.
 
 MESA: CONSULTAR PROPOSTAS
-→ propostas claramente consultivas passam pela Mesa antes de execução.
+→ propostas consultivas passam pela Mesa.
 
 MESA: CONSULTA FORTE
-→ até uma decisão recém-formulada pode receber opinião breve das Cadeiras antes de executar,
-   salvo ordem do Diretor para seguir sem consulta.
+→ até uma decisão recém-formulada pode receber opinião breve,
+   salvo ordem para executar sem consulta.
 ```
 
-Definição normativa:
+Fonte normativa:
 
 ```text
 00-ARQUITETURA-E-MESA.md
 ```
 
-Padrão quando nada for definido:
-
-```text
-MESA: SOB DEMANDA
-```
-
 ---
 
-# Por que existem Cadeiras
+# Cadeiras
 
-Uma IA tende a homogeneizar personagens quando executa todas ao mesmo tempo.
-
-A Cadeira obriga o executor a perguntar separadamente:
+Uma Cadeira pergunta separadamente:
 
 ```text
 quem é esta pessoa?
 o que ela sabe?
 o que ela quer?
-o que ela considera plausível?
-como esta relação específica altera sua resposta?
+como esta relação altera sua resposta?
+que parte da autoria ainda está aberta?
 ```
 
-Uma única IA pode operar várias Cadeiras, mas deve fazê-lo em escopos distintos.
+Uma única IA pode operar várias Cadeiras, mas em escopos separados.
 
 ```text
 MESMO EXECUTOR
-≠
-MESMA PERSONAGEM
+≠ MESMA CADEIRA
+≠ MESMA CONSCIÊNCIA FICCIONAL
 ```
 
-Na Mesa, uma Cadeira pode dizer:
+Na Mesa, a Cadeira pode discordar do Diretor. Essa resistência é informativa, não veto.
+
+Depois que o Diretor compreende a objeção e fecha conscientemente um resultado, a Cadeira muda de pergunta:
 
 ```text
-"isso parece comigo"
-"isso não parece comigo"
-"eu faria, mas por outro motivo"
-"isso seria possível apenas se X estivesse presente"
-```
+antes
+→ eu faria isso?
 
-A opinião informa o Diretor. Não o governa.
+depois do fechamento
+→ como faço isso dentro do espaço ainda aberto?
+```
 
 ---
 
-# O papel do Narrador
+# Ruptura deliberada
 
-O Narrador não existe para inventar drama nem para concordar com o Diretor.
+Uma Cadeira pode dizer:
+
+```text
+"isso não parece algo que eu faria."
+```
+
+O Diretor pode reconhecer que essa ruptura é deliberada e autorizar execução.
+
+Nesse caso:
+
+```text
+CADEIRA
+→ não reabre a objeção;
+→ não inventa a causa oculta;
+→ executa o caminho restante;
+→ preserva conhecimento legítimo.
+```
+
+```text
+EXECUTOR SABE
+≠ PERSONAGEM SABE
+```
+
+> **Coerência protege contra ruptura acidental; não governa uma ruptura conscientemente escolhida pelo Diretor.**
+
+---
+
+# Narrador
+
+O Narrador não é Juiz.
 
 Na Mesa:
 
 ```text
-NARRADOR
-→ analisa
-→ aponta contradições
-→ consulta fatos
-→ prevê consequências
-→ emite PARECER
+→ pode emitir Parecer.
 ```
 
 Na Ficção:
 
 ```text
+→ preserva continuidade;
+→ apresenta decisões;
+→ aplica consequências ordinárias e evidentes;
+→ dá forma literária sem aumentar o tabuleiro.
+```
+
+Se um resultado material permanece realmente aberto:
+
+```text
 NARRADOR
-→ separa intenção de resultado
-→ cruza fatos, decisões e capacidades
-→ SENTENCIA
-→ apresenta em prosa clara
+→ não escolhe secretamente;
+→ não simula RNG oculto;
+→ pode devolver a questão à Mesa.
 ```
 
 > **NARRADOR INFORMA ≠ NARRADOR VETA**
 
-O Diretor pode mudar de ideia porque a objeção foi boa. Também pode manter conscientemente a escolha.
-
-Depois que a escolha é confirmada, o Narrador executa sem ficar reabrindo a mesma discussão.
+> **O Narrador não precisa concordar com a escolha para executá-la bem.**
 
 ---
 
 # Quando a Ficção precisa parar
 
-Não interromper apenas porque surgiu nova decisão de uma Cadeira IA que o próprio executor já pode operar.
-
 ```text
-CADEIRA IA DISPONÍVEL
+CADEIRA IA disponível
 → trocar de escopo
 → decidir
 → continuar.
 ```
 
-Parar quando a próxima autoria legítima depender de:
+Parar quando a próxima autoria depender de:
 
 ```text
 Diretor
-humano ou executor externo indisponível
+executor externo indisponível
 Mesa aguardando decisão
 Auditoria pendente
-reancoragem necessária
+fonte indispensável
+reancoragem
 ```
 
 > **Pare por indisponibilidade de autoria, não por existência de autoria.**
@@ -286,35 +319,46 @@ reancoragem necessária
 
 # Estado operacional
 
-`estado.md` registra a realidade ficcional.
-
-Uma Mesa ou Auditoria pendente não é realidade ficcional.
-
-Quando uma operação transitória precisa sobreviver a perda de contexto, pode existir:
-
 ```text
-operacao.md
-```
-
-Modelo:
-
-```text
-modelos/OPERACAO.md
-```
-
-```text
-ESTADO
+estado.md
 → realidade da Ficção.
 
-OPERAÇÃO
-→ pergunta/processo fora da Ficção ainda pendente.
+operacao.md
+→ processo fora da Ficção ainda pendente.
 ```
 
 > **Operação preserva a pergunta. Não canoniza a resposta.**
 
 ---
 
-# Modelos disponíveis
+# Criar uma história do zero
+
+Depois que `NOVA HISTÓRIA` foi escolhida:
+
+```text
+10-INICIAR-HISTORIA-COM-IA.md
+```
+
+A criação é progressiva e não exige planejamento completo do futuro.
+
+---
+
+# Continuar uma história existente
+
+Depois que `CONTINUAR HISTÓRIA EXISTENTE` foi escolhida:
+
+```text
+11-CONTINUAR-HISTORIA-COM-IA.md
+06-REGISTRO-E-RETOMADA.md
+```
+
+```text
+RETOMAR ≠ RECRIAR
+```
+
+---
+
+# Modelos
 
 ```text
 modelos/README-CAMPANHA.md
@@ -323,71 +367,6 @@ modelos/ESTADO.md
 modelos/OPERACAO.md
 modelos/FICHA.md
 ```
-
----
-
-# Criar uma história do zero
-
-Este ramo só é carregado depois que a operação `NOVA HISTÓRIA` foi escolhida.
-
-Use:
-
-```text
-10-INICIAR-HISTORIA-COM-IA.md
-```
-
-A IA deve perguntar somente o que realmente precisa ser decidido pelo Diretor. Quando houver base suficiente, deve **propor uma estrutura para revisão**, não transformar preparação em interrogatório.
-
----
-
-# Continuar uma história existente
-
-Este ramo só é carregado depois que a operação `CONTINUAR HISTÓRIA EXISTENTE` foi escolhida ou já estiver explícita no pedido.
-
-Use primeiro:
-
-```text
-11-CONTINUAR-HISTORIA-COM-IA.md
-```
-
-Esse arquivo define a experiência operacional de retomada:
-
-```text
-identificar a obra correta
-validar seu workspace
-carregar apenas as fontes necessárias
-reconstruir realidade, Cadeiras e Operação
-identificar a camada atual
-identificar a próxima autoria legítima
-continuar sem recriar a obra
-```
-
-Depois aplicar a reancoragem normativa de:
-
-```text
-06-REGISTRO-E-RETOMADA.md
-```
-
-Regras importantes:
-
-```text
-obra nomeada
-→ não perguntar novamente.
-
-nenhuma obra disponível
-→ informar e oferecer criação de nova história.
-
-uma única obra disponível
-→ identificá-la e prosseguir sem escolha redundante.
-
-várias obras disponíveis
-→ listar de forma curta e deixar o Diretor escolher.
-
-RETOMAR
-≠ RECRIAR
-```
-
-Não improvise continuidade se o contexto necessário estiver perdido.
 
 ---
 
@@ -404,47 +383,20 @@ Módulo inativo não participa da obra.
 
 ---
 
-# Testes de conformidade
-
-Uma IA nova pode ser validada contra cenários operacionais em:
+# Fontes normativas principais
 
 ```text
-testes/CENARIOS-DE-CONFORMIDADE.md
-testes/BOOT-E-ESCOLHA-DE-OPERACAO.md
-testes/RETOMADA-DE-HISTORIA.md
-```
-
-A suíte não substitui as regras. Ela verifica se a IA consegue aplicá-las.
-
----
-
-# Princípio documental
-
-> **Uma ideia, uma definição, uma fonte principal.**
-
-Principais fontes normativas:
-
-```text
-BOOT e escolha de operação
-→ 09-BOOT-E-ESCOLHA-DE-OPERACAO.md
-
-Criação de nova história com IA
-→ 10-INICIAR-HISTORIA-COM-IA.md
-
-Experiência de retomada com IA
-→ 11-CONTINUAR-HISTORIA-COM-IA.md
-
-Mesa e políticas de consulta
+Mesa e alinhamento autoral
 → 00-ARQUITETURA-E-MESA.md
 
 Autoridade e Direção
 → 01-AUTORIDADE-E-DIRECAO.md
 
+Resolução autoral e execução
+→ 02-RESOLUCAO.md
+
 Cadeiras e Executores
 → 03-CADEIRAS-E-EXECUTORES.md
-
-Resolução da Ficção
-→ 02-RESOLUCAO.md
 
 Ficha
 → 04-FICHA.md
@@ -452,19 +404,24 @@ Ficha
 Narrador
 → 05-NARRADOR.md
 
-Persistência e reancoragem
+Registro e retomada
 → 06-REGISTRO-E-RETOMADA.md
 
 Plausibilidade e ritmo
 → 08-PLAUSIBILIDADE-E-RITMO.md
-```
 
-Quando um resumo parecer competir com a fonte normativa, use a fonte normativa.
+BOOT
+→ 09-BOOT-E-ESCOLHA-DE-OPERACAO.md
+
+Criação de nova história
+→ 10-INICIAR-HISTORIA-COM-IA.md
+
+Retomada
+→ 11-CONTINUAR-HISTORIA-COM-IA.md
+```
 
 ---
 
 # Regra de identidade
 
-O nome `RPG` pode continuar sendo usado historicamente ou como modo de uso, mas a arquitetura não depende dele.
-
-> **W4D é um Story Engine para construir ficção através de autoridade distribuída, consulta de personagens, parecer autoral, sentença causal e registro persistente. Jogar é uma forma de usá-lo; escrever uma história em conjunto é outra.**
+> **W4D é um Story Engine para construir ficção por autoridade distribuída. Ele não precisa de um Juiz para descobrir a história: Diretor e Cadeiras decidem o que importa, a Mesa alinha o que precisa ser fechado, o Narrador apresenta e o Registro preserva.**
