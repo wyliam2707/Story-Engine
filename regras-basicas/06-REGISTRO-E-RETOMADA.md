@@ -153,10 +153,10 @@ Quando a origem estiver estabelecida, preservar marcadores como:
 
 ```text
 NARRADOR
-KARA
-KARA — pensamento
-DANIEL
-DANIEL — pensamento
+PERSONAGEM A
+PERSONAGEM A — pensamento
+PERSONAGEM B
+PERSONAGEM B — pensamento
 ```
 
 Isso permite reconstruir o passado sem transformar conhecimento do leitor em conhecimento universal das personagens.
@@ -326,7 +326,7 @@ Esse indicador significa que Narrador/Juiz e os pacotes separados das Cadeiras a
 Quando existir uma decisão concreta aberta para uma Cadeira, o indicador pode especificá-la:
 
 ```text
-[W4D: OK | Decisão aberta: KARA — Cadeira]
+[W4D: OK | Decisão aberta: PERSONAGEM A — Cadeira]
 ```
 
 Se o executor perceber que perdeu contexto suficiente para não executar corretamente uma Cadeira, o Narrador/Juiz ou a separação entre autoridades, não deve declarar `OK` nem improvisar continuidade. Deve parar a ficção e indicar a necessidade de reancoragem.
