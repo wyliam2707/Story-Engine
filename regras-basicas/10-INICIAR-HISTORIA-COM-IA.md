@@ -34,7 +34,7 @@ A criação não acontece em uma única resposta.
 
 O W4D separa decisões autorais importantes para que o Diretor possa construir, revisar e corrigir a obra sem a IA preencher silenciosamente tudo de uma vez.
 
-Etapas já formalizadas:
+Etapas formalizadas:
 
 ```text
 1. PREMISSA
@@ -42,11 +42,12 @@ Etapas já formalizadas:
 
 2. ESTILO / TOM
 → 13-CRIACAO-ESTILO-E-TOM.md
+
+3. NOME / DESTINO CANÔNICO
+→ 14-CRIACAO-NOME-E-DESTINO.md
 ```
 
-Depois de Estilo/Tom aprovado, o processo seguirá para Nome da Obra e destino canônico, personagens, fichas, Direção, Estado inicial e START.
-
-Cada etapa pode receber sua própria especificação sem alterar o BOOT.
+Depois que o destino canônico existe, a criação continua dentro de `campanhas/<slug>/` com personagens centrais, fichas, Direção, Estado inicial e demais fontes necessárias.
 
 > **Não pular uma etapa autoral separada apenas porque a IA consegue inventar uma solução plausível.**
 
@@ -60,25 +61,25 @@ Ao entrar em `NOVA HISTÓRIA`, carregar:
 12-CRIACAO-PREMISSA.md
 ```
 
-A Premissa responde primeiro:
+A Premissa responde:
 
 > **Que história estamos tentando construir?**
 
-Se o Diretor já trouxe uma ideia suficiente, a IA deve sintetizá-la em uma premissa curta e devolver para revisão.
+Se o Diretor já trouxe uma ideia suficiente, a IA deve sintetizá-la e devolver para revisão.
 
-Se trouxe apenas uma intenção vaga, a IA deve fazer uma pergunta autoral de alto valor por vez ou oferecer poucas alternativas realmente distintas.
+Se trouxe apenas uma intenção vaga, fazer uma pergunta autoral de alto valor por vez ou oferecer poucas alternativas realmente distintas.
 
-Enquanto a premissa não estiver aprovada:
+Enquanto a Premissa não estiver aprovada:
 
 ```text
-não definir estilo como se estivesse fechado
+não fechar Estilo/Tom
 não criar nome definitivo
 não criar pasta em campanhas/
 não criar fichas definitivas
 não abrir Ficção
 ```
 
-Quando o Diretor aprovar semanticamente a premissa:
+Quando aprovada:
 
 ```text
 PREMISSA: APROVADA
@@ -99,7 +100,7 @@ Esta etapa responde:
 
 > **Como queremos experimentar e apresentar esta história?**
 
-Pode definir, somente quando relevante:
+Pode definir, quando relevante:
 
 ```text
 gênero ou mistura de gêneros
@@ -112,28 +113,137 @@ perspectiva narrativa
 limites persistentes de apresentação
 ```
 
-Se o Diretor já indicou essas preferências, organizar e propor em vez de perguntar tudo novamente.
-
-Se ainda estiver aberto, fazer uma pergunta de alto valor ou oferecer poucas leituras realmente distintas da mesma Premissa.
+Informação já fornecida pelo Diretor deve ser organizada, não perguntada novamente.
 
 Enquanto Estilo/Tom não estiver aprovado:
 
 ```text
-não tratar gênero como licença para importar clichês
+não importar clichês como fatos
 não usar tom para fabricar acontecimentos
-não criar nome definitivo por obrigação
-não criar pasta em campanhas/ apenas para rascunho
+não criar pasta apenas para rascunho
 não abrir Ficção
 ```
 
-Quando o Diretor aprovar semanticamente:
+Quando aprovado:
 
 ```text
 ESTILO / TOM: APROVADO
-→ seguir para NOME DA OBRA
+→ carregar 14-CRIACAO-NOME-E-DESTINO.md
 ```
 
-A etapa de Nome será formalizada separadamente.
+---
+
+# Etapa 3 — Nome / Destino Canônico
+
+Depois de Premissa e Estilo/Tom aprovados, carregar:
+
+```text
+14-CRIACAO-NOME-E-DESTINO.md
+```
+
+Esta etapa responde:
+
+> **Como esta obra será identificada e onde sua preparação persistente viverá?**
+
+Definir:
+
+```text
+NOME DA OBRA
+→ identidade humana.
+
+SLUG
+→ identidade técnica estável.
+
+DESTINO
+→ campanhas/<slug>/
+```
+
+Se o Diretor já deu um nome, usar esse nome sem brainstorming desnecessário.
+
+Se ainda não deu, propor poucas opções baseadas na Premissa e no Estilo/Tom já aprovados.
+
+Antes de criar, verificar se o slug já existe.
+
+```text
+slug livre
+→ criar campanhas/<slug>/README.md
+
+slug já existente
+→ não sobrescrever
+→ resolver conflito antes de continuar
+```
+
+No nascimento do workspace, registrar somente o que já foi aprovado:
+
+```text
+# NOME
+
+STATUS
+→ EM PREPARAÇÃO
+
+## Proposta curta
+[Premissa aprovada]
+
+## Estilo / Tom
+[Resumo aprovado]
+```
+
+Depois desse ponto:
+
+```text
+material aprovado das próximas etapas
+→ deve preferencialmente ser salvo na fonte correta dentro do workspace.
+```
+
+Criar a pasta não inicia a Ficção.
+
+Quando concluído:
+
+```text
+NOME / DESTINO
+→ CONCLUÍDO
+→ próxima etapa: PERSONAGENS CENTRAIS
+```
+
+---
+
+# Destino canônico e persistência progressiva
+
+Antes da etapa de Nome/Destino:
+
+```text
+PREMISSA e ESTILO/TOM
+→ podem existir apenas na conversa de criação.
+```
+
+Depois que o workspace nasce:
+
+```text
+campanhas/<slug>/README.md
+→ âncora persistente da obra.
+```
+
+As próximas decisões aprovadas devem ser registradas progressivamente nas fontes corretas.
+
+Exemplos:
+
+```text
+ficha aprovada
+→ personagens/<nome>.md
+
+Direção construída
+→ direcao.md
+
+ponto inicial definido
+→ estado.md
+
+fato externo estável necessário
+→ mundo/
+```
+
+Não criar arquivos vazios ou conteúdo inventado apenas para completar uma árvore ideal.
+
+> **Persistir o que foi decidido. Não antecipar o que ainda está aberto.**
 
 ---
 
@@ -147,7 +257,7 @@ Como regra geral:
 
 > **Base suficiente → propor. Falta realmente decisiva → perguntar.**
 
-Isso significa sintetizar quando já existe material e perguntar somente quando falta algo que muda de forma material a etapa atual.
+Isso significa sintetizar quando já existe material e perguntar somente quando falta algo que muda materialmente a etapa atual.
 
 ---
 
@@ -161,49 +271,22 @@ Exemplo:
 "Quero uma comédia romântica universitária entre uma heroína alienígena e um estudante de uma família de magos."
 ```
 
-Isso é suficiente para começar a etapa de Premissa.
+Isso é suficiente para começar a Premissa.
 
-Depois da Premissa aprovada, a expressão `comédia romântica universitária` já oferece matéria-prima para Estilo/Tom. A IA deve reaproveitar essa informação em vez de perguntar tudo de novo.
+Depois da Premissa aprovada, `comédia romântica universitária` já fornece matéria-prima para Estilo/Tom.
 
-A IA não deve responder produzindo de uma vez:
+Depois de Estilo/Tom aprovado, a IA pode propor nomes coerentes com a obra.
+
+Ela não deve responder produzindo de uma vez:
 
 ```text
 mundo completo
-estilo fechado sem aprovação
-nome definitivo
+nome escolhido sem aprovação
 fichas finais
 trama inteira
 arcos futuros
 primeiro capítulo
 ```
-
----
-
-# Destino canônico
-
-Toda história nova deve ganhar, no momento apropriado, um espaço persistente em:
-
-```text
-campanhas/<slug>/
-```
-
-A criação física da pasta e dos arquivos segue `07-CRIAR-CAMPANHA.md`.
-
-A pasta não deve ser criada no BOOT, durante a Premissa ou durante Estilo/Tom apenas para guardar rascunhos.
-
-Ela passa a ser criada quando o processo chegar ao ponto em que nome e destino canônico já estejam definidos.
-
-Estrutura mínima prevista:
-
-```text
-campanhas/<slug>/
-├── README.md
-├── direcao.md
-├── estado.md
-└── personagens/
-```
-
-`operacao.md` aparece somente quando uma operação transitória precisa persistir.
 
 ---
 
@@ -233,9 +316,7 @@ CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
 → IA, salvo indicação diferente.
 ```
 
-Não é necessário resolver todas essas configurações durante Premissa ou Estilo/Tom se ainda não forem materialmente relevantes.
-
-Perguntar sobre `PERSONAGEM DO DIRETOR` somente quando isso não estiver claro pelo contexto e quando a resposta já for necessária para a etapa em curso.
+Não é necessário resolver todas essas configurações durante as três primeiras etapas se ainda não forem materialmente relevantes.
 
 ---
 
@@ -251,15 +332,11 @@ MESA: CONSULTAR PROPOSTAS
 MESA: CONSULTA FORTE
 ```
 
-Se o Diretor não demonstrar preferência:
+Padrão quando nada for definido:
 
 ```text
 MESA: SOB DEMANDA
 ```
-
-Se disser que quer ouvir personagens antes de decidir, sugerir `CONSULTAR PROPOSTAS`.
-
-Se quiser opinião mesmo diante de decisões recém-formuladas, sugerir `CONSULTA FORTE`.
 
 ---
 
@@ -268,21 +345,13 @@ Se quiser opinião mesmo diante de decisões recém-formuladas, sugerir `CONSULT
 As personagens podem aparecer conceitualmente na Premissa antes de possuírem ficha.
 
 ```text
-PERSONAGEM MENCIONADA NA PREMISSA
+PERSONAGEM MENCIONADA
 ≠ FICHA CONCLUÍDA
 ```
 
 Estilo/Tom também não cria personalidade automaticamente.
 
-```text
-COMÉDIA
-≠ PERSONAGEM ENGRAÇADA
-
-TOM SOMBRIO
-≠ PERSONAGEM PESSIMISTA
-```
-
-Quando a etapa de fichas chegar, criar somente as personagens necessárias para a abertura e para a proposta atual.
+Quando a etapa de personagens chegar, definir primeiro quem realmente precisa existir no centro da abertura e depois criar fichas suficientes para preservar essas pessoas.
 
 Seguir:
 
@@ -295,20 +364,9 @@ modelos/FICHA.md
 
 # Direção
 
-A Direção inicial será construída a partir das decisões de criação já aprovadas.
+A Direção inicial será construída a partir das decisões de criação aprovadas.
 
-Ela deve dizer que história está sendo conduzida sem tentar antecipar toda a trama.
-
-Pode registrar, conforme necessário:
-
-```text
-Proposta
-Foco
-Tom
-Premissas
-Diretrizes persistentes de apresentação
-Espaço aberto
-```
+Ela deve dizer que história está sendo conduzida sem antecipar toda a trama.
 
 Seguir:
 
@@ -323,7 +381,7 @@ Hipótese ainda em discussão não entra em `direcao.md` como decisão fechada.
 
 # Mesa durante a criação
 
-A criação também pode usar Mesa de Autoria quando já houver Cadeiras ou informação suficiente para uma consulta significativa.
+A criação também pode usar Mesa de Autoria quando já houver Cadeiras ou informação suficiente para consulta significativa.
 
 ```text
 Diretor propõe
@@ -332,78 +390,34 @@ Diretor propõe
 → Diretor ajusta, cancela ou confirma
 ```
 
-Nada discutido entra automaticamente na Ficção.
-
 Antes de existirem fichas suficientes, a IA não deve fingir que uma Cadeira já possui personalidade detalhada que ainda não foi construída.
 
 ---
 
-# Estado inicial
+# Estado inicial e START
 
-Antes do START, `estado.md` precisa indicar exatamente onde a Ficção começa.
-
-Exemplo mínimo:
-
-```text
-Momento: segunda-feira, fim da tarde.
-Local: cafeteria universitária.
-Presenças: A e B.
-Último fato estabelecido: A ainda não falou com B.
-Primeiro ponto aberto: A percebe B entrando ou B toma a primeira iniciativa.
-```
+Antes do START, `estado.md` deve indicar exatamente onde a Ficção começa.
 
 Não colocar no Estado acontecimentos que o Diretor apenas pretende produzir mais tarde.
 
----
+Quando a preparação estiver suficiente:
 
-# START
+```text
+STATUS
+→ PRONTA
+```
 
-Quando a preparação estiver aprovada:
+Então:
 
 ```text
 START
 → assumir Narrador/Juiz
 → reconstruir pacotes separados das Cadeiras
-→ restaurar operacao.md se houver operação pendente
-→ caso contrário identificar o primeiro ponto aberto
+→ identificar o primeiro ponto aberto
 → começar a camada correta
 ```
 
-A abertura não precisa ser explosiva.
-
 > **Não fabricar conflito apenas porque a história está começando.**
-
----
-
-# Durante criação e execução
-
-A IA deve distinguir três camadas.
-
-## Mesa
-
-```text
-proposta
-→ Cadeiras envolvidas opinam
-→ Narrador emite PARECER
-→ Diretor decide
-```
-
-## Ficção
-
-```text
-Cadeiras agem no espaço aberto
-→ Narrador sentencia causalidade
-→ prosa apresenta o resultado
-```
-
-## Registro
-
-```text
-ficção estabelecida
-→ fontes corretas preservam o que aconteceu.
-```
-
-Preparação autoral aprovada pode ser salva nas fontes de configuração correspondentes quando o workspace já existir, mas isso não a transforma em acontecimento ficcional.
 
 ---
 
@@ -413,48 +427,51 @@ Perguntar somente quando a escolha:
 
 ```text
 é autoralmente importante para a etapa atual
-muda de forma material o que está sendo definido
-não pode ser inferida sem tomar uma decisão que pertence ao Diretor
+muda materialmente o que está sendo definido
+não pode ser inferida sem tomar decisão que pertence ao Diretor
 ```
 
 Não pedir detalhes irrelevantes apenas para preencher formulários.
 
-Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom ou outra etapa definida separadamente.
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino ou outra etapa definida separadamente.
 
 ---
 
-# Protocolo deste ramo
+# Protocolo atual do ramo
 
 ```text
-BOOT já concluído
+BOOT
 ↓
-NOVA HISTÓRIA escolhida
+NOVA HISTÓRIA
 ↓
 PREMISSA
 → 12-CRIACAO-PREMISSA.md
 ↓
-PREMISSA APROVADA
-↓
 ESTILO / TOM
 → 13-CRIACAO-ESTILO-E-TOM.md
 ↓
-ESTILO / TOM APROVADO
+NOME / DESTINO
+→ 14-CRIACAO-NOME-E-DESTINO.md
 ↓
-NOME DA OBRA
+criar campanhas/<slug>/README.md
 ↓
-nome e destino canônico definidos
+PERSONAGENS CENTRAIS
 ↓
-criar campanhas/<slug>/
+FICHAS
 ↓
-criar e salvar fontes aprovadas
+DIREÇÃO / AUTORIDADES / POLÍTICAS / MUNDO NECESSÁRIO
 ↓
-personagens / fichas / Direção / Estado inicial
+ESTADO INICIAL
+↓
+AUDITORIA DE PREPARAÇÃO
 ↓
 START
 ```
+
+As etapas posteriores podem receber arquivos próprios conforme forem refinadas.
 
 ---
 
 # Regra final
 
-> **Este arquivo nunca decide se a obra é nova. O BOOT decide o ramo. Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa e Estilo/Tom como etapas autorais separadas, cria `campanhas/<slug>/` somente quando nome e destino estiverem definidos e só inicia a Ficção depois da preparação necessária.**
+> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom e Nome/Destino como decisões autorais separadas. O workspace nasce somente depois do nome e do slug, e a partir daí preserva progressivamente o material aprovado. Criar arquivos não inicia a Ficção; START continua sendo uma etapa posterior.**
