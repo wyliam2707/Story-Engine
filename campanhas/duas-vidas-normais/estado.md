@@ -6,11 +6,12 @@ Momento: terça-feira à noite, imediatamente depois de Kara e Daniel retornarem
 
 - Diretor → HUMANO.
 - Narrador/Juiz → IA.
-- Daniel → Cadeira IA.
+- Daniel Merlin de Arcanus / Myrddin → **Personagem do Diretor**; vontade pertence ao Diretor; executor padrão IA quando delegado.
 - Kara Zor-El → Cadeira IA.
-- Clark, Morgana, Bruce, Diana, John, Barry, J'onn e Zatanna → Cadeiras IA recorrentes quando possuem intenção concreta de participar.
-- O Diretor conduz a campanha sem assumir Cadeira fixa.
-- Cada Cadeira é executada em escopo separado mesmo quando a mesma IA técnica opera várias personagens.
+- Clark, Morgana, Bruce, Diana, John, Barry, J'onn e Zatanna → Cadeiras IA recorrentes quando possuem intenção concreta de participar ou quando a Direção determina sua entrada.
+- O Diretor pode executar Daniel diretamente ou determinar sua vontade, decisão e ação enquanto a IA cuida da execução textual.
+- As demais Cadeiras mantêm autonomia apenas no espaço que a Direção deixa aberto.
+- Cada autoridade é executada em escopo separado mesmo quando a mesma IA técnica opera várias personagens.
 
 ## Situação central
 
