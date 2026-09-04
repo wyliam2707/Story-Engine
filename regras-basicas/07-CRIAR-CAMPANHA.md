@@ -123,6 +123,9 @@ Personagens centrais aprovadas
 ficha aprovada
 → personagens/<nome>.md
 
+Autoridades aprovadas
+→ README.md
+
 Direção construída
 → direcao.md
 
@@ -254,7 +257,59 @@ Não transformar rascunho em ficha canônica apenas para persistir trabalho.
 
 ---
 
-# Passo 3 — Direção
+# Passo 3 — Autoridades, Cadeiras e Executores
+
+Depois que as fichas iniciais necessárias estiverem suficientes, configurar quem possui cada vontade e quem executa cada autoridade.
+
+Seguir:
+
+```text
+17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
+03-CADEIRAS-E-EXECUTORES.md
+```
+
+A ordem é:
+
+```text
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
+```
+
+Registrar no `README.md`, conforme aprovado:
+
+```text
+DIRETOR
+NARRADOR / JUIZ
+PERSONAGEM DO DIRETOR, quando houver
+CADEIRAS INICIAIS
+EXECUTOR DE CADA AUTORIDADE
+limites de delegação, quando existirem
+```
+
+Uma mesma IA pode executar várias funções.
+
+```text
+MESMO EXECUTOR
+≠ MESMA CADEIRA
+≠ MESMA CONSCIÊNCIA FICCIONAL
+```
+
+Executor não pertence à ficha.
+
+Se uma personagem for `PERSONAGEM DO DIRETOR`, sua vontade continua pertencendo ao Diretor mesmo quando a IA recebe delegação para dar forma textual à execução.
+
+```text
+DELEGAR EXECUÇÃO
+≠ TRANSFERIR VONTADE
+```
+
+A configuração precisa permitir reconhecer quem possui a próxima autoria quando a Ficção começar.
+
+---
+
+# Passo 4 — Direção
 
 Criar `direcao.md` quando já existir material autoral suficiente para distinguir:
 
@@ -278,38 +333,17 @@ Não registrar como Direção uma hipótese ainda em consulta.
 
 ---
 
-# Passo 4 — Autoridades e políticas
+# Passo 5 — Políticas operacionais
 
 À medida que forem definidas, registrar no `README.md`:
 
 ```text
-DIRETOR
-NARRADOR / JUIZ
-CADEIRAS INICIAIS
-EXECUTOR DE CADA AUTORIDADE
-PERSONAGEM DO DIRETOR, quando houver
 POLÍTICA DE MESA
 POLÍTICA DE INDICADOR OPERACIONAL
 MÓDULOS ATIVOS
 ```
 
-Uma mesma IA pode executar várias funções.
-
-```text
-MESMO EXECUTOR
-≠ MESMA CADEIRA
-```
-
-A configuração definitiva da Cadeira deve preservar a pessoa já construída.
-
-```text
-PESSOA
-→ FICHA
-→ CADEIRA
-→ EXECUTOR
-```
-
-Executor não pertence à ficha.
+Configurar Cadeiras não escolhe automaticamente a política de Mesa.
 
 ## Política de Mesa
 
@@ -344,7 +378,7 @@ INDICADOR OPERACIONAL: SILENCIOSO
 
 ---
 
-# Passo 5 — Mesa inicial, quando necessária
+# Passo 6 — Mesa inicial, quando necessária
 
 Durante a preparação, a Mesa pode ser usada quando já houver informação suficiente para uma consulta significativa.
 
@@ -366,7 +400,7 @@ operacao.md
 
 ---
 
-# Passo 6 — Estado inicial
+# Passo 7 — Estado inicial
 
 Criar `estado.md` apenas quando o ponto inicial da Ficção já estiver definido.
 
@@ -399,7 +433,7 @@ Não colocar hipótese de Mesa no Estado.
 
 ---
 
-# Passo 7 — Mundo necessário
+# Passo 8 — Mundo necessário
 
 Criar `mundo/` somente quando a proposta depender de fatos externos estáveis que precisam persistir.
 
@@ -409,7 +443,7 @@ Detalhes neutros podem surgir posteriormente por criação emergente conforme `0
 
 ---
 
-# Passo 8 — Módulos opcionais
+# Passo 9 — Módulos opcionais
 
 Ativar somente o que a obra realmente usa:
 
@@ -424,7 +458,7 @@ Módulo inativo não produz arquivo nem comportamento por hábito.
 
 ---
 
-# Passo 9 — Auditoria de início
+# Passo 10 — Auditoria de início
 
 Antes de começar a Ficção, confirmar:
 
@@ -433,13 +467,14 @@ Antes de começar a Ficção, confirmar:
 [ ] README.md existe e STATUS = EM PREPARAÇÃO ou equivalente;
 [ ] Premissa e Estilo/Tom aprovados estão preservados;
 [ ] Personagens centrais necessárias estão aprovadas e identificadas;
+[ ] fichas necessárias são suficientes para reconstrução;
 [ ] Diretor e Narrador/Juiz estão definidos;
 [ ] Cadeiras iniciais e executores necessários estão definidos;
 [ ] Personagem do Diretor está corretamente atribuído, se houver;
+[ ] delegações não transferiram vontade por acidente;
 [ ] política de Mesa está definida ou usa SOB DEMANDA;
 [ ] indicador está definido ou usa SILENCIOSO;
 [ ] direcao.md é suficiente para a condução inicial;
-[ ] fichas necessárias são suficientes para reconstrução;
 [ ] estado.md possui último fato e primeiro ponto aberto;
 [ ] hipóteses não foram registradas como fatos;
 [ ] operacao.md existe somente se houver operação real pendente;
@@ -466,6 +501,7 @@ START
 → reconstruir pacotes separados das Cadeiras
 → restaurar operação pendente, se houver
 → caso contrário identificar o primeiro ponto aberto
+→ identificar quem possui a próxima autoria
 → iniciar a camada correta
 ```
 
@@ -479,4 +515,4 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 # Regra final
 
-> **A pasta nasce quando Nome e Destino estão definidos. Depois, o W4D identifica quem está no centro da obra, constrói cada pessoa antes de configurar sua Cadeira, salva somente fichas aprovadas e completa progressivamente Direção, autoridades, Estado e demais fontes. A existência do workspace não significa que a história já começou; apenas START transforma a preparação em Ficção executável.**
+> **A pasta nasce quando Nome e Destino estão definidos. Depois, o W4D identifica quem está no centro da obra, constrói cada pessoa, configura quem possui e executa sua autoria, salva somente decisões aprovadas e completa progressivamente Direção, políticas, Estado e demais fontes. A existência do workspace não significa que a história já começou; apenas START transforma a preparação em Ficção executável.**
