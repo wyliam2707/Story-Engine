@@ -15,6 +15,8 @@ O romance cresce de forma orgânica pela dependência, convivência, curiosidade
 
 A prosa deve ser cinematográfica e próxima, com diálogos fortes, atenção a expressão, corpo, ambiente e silêncio. Hela não precisa ser domesticada para o romance funcionar, e Crio não precisa desejar o mundo dela para ser digno dela.
 
+As falas das personagens devem ser identificadas no corpo da cena pelo nome, no formato `Crio — fala` e `Hela — fala`, preservando clareza de autoria sem quebrar a fluidez narrativa.
+
 ## Personagens centrais
 
 - **Hela** — personagem do cânone dos filmes de *Thor*; escapou do selo de Odin antes da morte dele, ferida, enfraquecida e mortal. É um dos dois centros da obra.
