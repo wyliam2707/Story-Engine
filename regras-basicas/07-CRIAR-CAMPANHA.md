@@ -18,9 +18,9 @@ Antes de escrever Direção, fichas, Estado ou qualquer outro artefato da campan
 Exemplo:
 
 ```text
-Nome: Duas Vidas Normais
-Slug: duas-vidas-normais
-Pasta: campanhas/duas-vidas-normais/
+Nome: Campanha Exemplo
+Slug: campanha-exemplo
+Pasta: campanhas/campanha-exemplo/
 ```
 
 Em sistemas como GitHub, uma pasta vazia não persiste. Por isso o `README.md` deve nascer junto com a campanha, ainda que inicialmente contenha apenas:
