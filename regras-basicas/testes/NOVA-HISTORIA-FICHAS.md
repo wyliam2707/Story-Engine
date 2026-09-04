@@ -237,7 +237,7 @@ não perguntar seis séries separadas de perguntas só porque existem seis bloco
 
 # Teste 14 — Ficha suficiente, não exaustiva
 
-A personagem pode ser reconstruída de forma consistente e possui base para julgamento, mas existem detalhes de passado ainda abertos.
+A personagem pode ser reconstruída de forma consistente e possui base suficiente para decisões das Cadeiras e avaliação de plausibilidade, mas existem detalhes de passado ainda abertos.
 
 Esperado:
 
