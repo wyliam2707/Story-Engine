@@ -178,17 +178,31 @@ Se o usuário escolher continuar uma história:
 
 ```text
 CONTINUAR HISTÓRIA EXISTENTE
+→ carregar 11-CONTINUAR-HISTORIA-COM-IA.md
 → identificar qual obra deve ser retomada
-→ localizar campanhas/<slug>/
-→ seguir 06-REGISTRO-E-RETOMADA.md
-→ carregar fontes da obra
-→ reancorar
-→ continuar da camada e ponto corretos
+→ validar o workspace
+→ usar 06-REGISTRO-E-RETOMADA.md para reancoragem normativa
+→ reconstruir Ficção, Cadeiras e Operação
+→ identificar a camada e a próxima autoria legítima
+→ continuar do ponto correto
 ```
 
 Se o usuário já nomeou a obra, não perguntar novamente.
 
-Se não nomeou e houver mais de uma possibilidade, identificar as obras disponíveis ou perguntar qual deseja continuar.
+Se não nomeou:
+
+```text
+0 obras
+→ informar que não há obra persistida e oferecer NOVA HISTÓRIA.
+
+1 obra
+→ identificá-la e prosseguir sem escolha redundante.
+
+2 ou mais obras
+→ mostrar lista curta e deixar o Diretor escolher.
+```
+
+Recência pode ajudar a ordenar opções; não autoriza escolher silenciosamente entre várias histórias.
 
 Não reconstruir premissa, estilo ou fichas do zero quando essas informações já existem nas fontes canônicas.
 
@@ -196,6 +210,18 @@ Não reconstruir premissa, estilo ou fichas do zero quando essas informações j
 RETOMAR
 ≠
 RECRIAR
+```
+
+A experiência completa desse ramo pertence a:
+
+```text
+11-CONTINUAR-HISTORIA-COM-IA.md
+```
+
+As regras de persistência, conhecimento e reancoragem pertencem a:
+
+```text
+06-REGISTRO-E-RETOMADA.md
 ```
 
 ---
@@ -261,4 +287,4 @@ CONTEXTO OPERACIONAL AUSENTE
 
 # Regra final
 
-> **A IA aprende o W4D antes de usar o W4D. Depois do BOOT, ela primeiro distingue entre criar uma história nova e continuar uma história existente. Só o ramo escolhido pode carregar o processo específico correspondente.**
+> **A IA aprende o W4D antes de usar o W4D. Depois do BOOT, ela primeiro distingue entre criar uma história nova e continuar uma história existente. O ramo de criação constrói uma obra; o ramo de retomada identifica, valida e reancora uma obra já existente sem recriá-la.**
