@@ -21,32 +21,37 @@ A ideia central é simples:
 
 ---
 
-# Se você é uma IA: comece aqui
+# Se você é uma IA: comece pelo BOOT
 
 Leia primeiro:
 
 ```text
 regras-basicas/README.md
+regras-basicas/09-BOOT-E-ESCOLHA-DE-OPERACAO.md
 ```
 
-Essa pasta é a especificação operacional vigente do W4D.
+A pasta `regras-basicas/` é a especificação operacional vigente do W4D.
 
-Ela explica:
+Antes de criar ou retomar qualquer obra, a IA deve aprender o núcleo do engine.
+
+Depois, se o pedido do usuário ainda não indicar o caminho, perguntar:
+
+> **Você quer criar uma história nova ou continuar uma história existente?**
+
+Essa bifurcação vem antes de premissa, estilo, fichas, pasta de campanha ou cena.
 
 ```text
-Mesa de Autoria
-políticas de consulta
-Diretor e Direção
-Cadeiras e Executores
-Resolução causal
-Ficha
-Narrador/Juiz
-Plausibilidade e ritmo
-Estado operacional
-Registro e retomada
-Criação de história
-Inicialização de uma história com IA
+BOOT
+↓
+ESCOLHA DE OPERAÇÃO
+├── NOVA HISTÓRIA
+│   → regras-basicas/10-INICIAR-HISTORIA-COM-IA.md
+│
+└── CONTINUAR HISTÓRIA EXISTENTE
+    → regras-basicas/06-REGISTRO-E-RETOMADA.md
 ```
+
+Se o pedido já disser claramente `criar`, `continuar`, `retomar` ou equivalente, não perguntar novamente.
 
 Não use como regra versões antigas recuperadas do histórico do Git, memória de conversas anteriores ou hábitos genéricos de outros RPGs quando os arquivos atuais definirem a questão.
 
@@ -150,7 +155,7 @@ MESMA CADEIRA
 
 # Criar uma história
 
-Se ainda não existe uma obra pronta, siga:
+Somente depois que `NOVA HISTÓRIA` estiver escolhida, siga:
 
 ```text
 regras-basicas/10-INICIAR-HISTORIA-COM-IA.md
@@ -180,7 +185,7 @@ regras-basicas/modelos/
 
 # Retomar uma história
 
-Para continuar uma obra existente:
+Somente depois que `CONTINUAR HISTÓRIA EXISTENTE` estiver escolhida, ou já estiver explícita no pedido, siga:
 
 ```text
 README da obra
@@ -225,4 +230,4 @@ Quando duas leituras parecerem competir, use o arquivo cuja função é definir 
 
 ## Lema
 
-> **Propor para ouvir. Emitir parecer para entender. Determinar para fechar. Executar para existir. Registrar para preservar.**
+> **Aprender antes de operar. Escolher antes de criar ou retomar. Propor para ouvir. Emitir parecer para entender. Determinar para fechar. Executar para existir. Registrar para preservar.**
