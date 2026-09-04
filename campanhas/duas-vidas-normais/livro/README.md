@@ -13,3 +13,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 005 — Efeitos Ambientais
 006 — Vínculo Continuado
 007 — Variável Nova
+008 — Mesma Luta
