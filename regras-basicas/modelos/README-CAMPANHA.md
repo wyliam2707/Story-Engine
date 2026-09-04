@@ -26,22 +26,70 @@ CADEIRAS
 
 Outras personagens podem receber Cadeira persistente ou eventual quando adquirirem decisão voluntária relevante.
 
-## Mesa de Autoria
+## Política de Mesa
 
-A campanha usa a Mesa descrita em `regras-basicas/00-ARQUITETURA-E-MESA.md`.
-
-Quando a Mesa estiver aberta:
+Escolher uma:
 
 ```text
-propostas
-opiniões das Cadeiras
-análises do Narrador
-versões alternativas
+MESA: SOB DEMANDA
+MESA: CONSULTAR PROPOSTAS
+MESA: CONSULTA FORTE
 ```
 
-não entram automaticamente na ficção.
+Definições em:
 
-A Mesa permanece aberta até o Diretor mandar executar ou cancelar.
+```text
+regras-basicas/00-ARQUITETURA-E-MESA.md
+```
+
+Padrão quando não definido:
+
+```text
+MESA: SOB DEMANDA
+```
+
+Em qualquer política:
+
+```text
+Mesa aberta
+→ proposta, opinião de Cadeira e parecer do Narrador não são ficção.
+
+Diretor autoriza execução
+→ Mesa fecha e a versão aprovada pode entrar na Ficção.
+```
+
+## Indicador operacional
+
+Escolher uma:
+
+```text
+INDICADOR OPERACIONAL: SILENCIOSO
+INDICADOR OPERACIONAL: VISÍVEL
+```
+
+Padrão de Story Engine:
+
+```text
+INDICADOR OPERACIONAL: SILENCIOSO
+```
+
+Mesmo no modo silencioso, perda de contexto ou falha operacional que impeça execução correta deve ser informada.
+
+## Operação pendente
+
+Quando uma Mesa, Auditoria ou outra operação precisar sobreviver a retomada, usar:
+
+```text
+operacao.md
+```
+
+seguindo:
+
+```text
+regras-basicas/modelos/OPERACAO.md
+```
+
+Esse arquivo é operacional, não canônico.
 
 ## Módulos
 
@@ -61,7 +109,7 @@ Quando útil:
 → camada autoral do Diretor fora da ficção.
 ```
 
-A semântica e o estado atual da Mesa determinam se o conteúdo é Consulta, Auditoria, Direção, Correção ou outra operação.
+A semântica, a política de Mesa e o modo operacional atual determinam se o conteúdo é Consulta, Auditoria, Direção, Correção, Determinação ou outra operação.
 
 ## Cânone externo
 
@@ -70,7 +118,7 @@ A semântica e o estado atual da Mesa determinam se o conteúdo é Consulta, Aud
 Regra recomendada:
 
 ```text
-arquivos desta campanha
+arquivos desta obra
 → prioridade.
 
 cânone externo
@@ -83,7 +131,7 @@ Depois que `direcao.md`, `estado.md` e as fichas iniciais estiverem suficientes:
 
 ```text
 STATUS
-→ PRONTA PARA JOGAR / ESCREVER
+→ PRONTA
 ```
 
 Então:
@@ -94,3 +142,5 @@ START
 → identificar primeiro ponto aberto
 → iniciar a ficção.
 ```
+
+Se existir `operacao.md` ativo, `START` ou retomada deve restaurar primeiro a operação pendente em vez de saltar por cima dela.
