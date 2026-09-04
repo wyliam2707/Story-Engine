@@ -1,29 +1,44 @@
-# 10 — Iniciar uma História com IA
+# 10 — Iniciar uma História Nova com IA
 
-Este arquivo existe para uma situação simples:
+Este arquivo define **somente o ramo NOVA HISTÓRIA**.
 
-> **Uma IA recebe as regras do W4D e precisa conseguir transformar uma ideia inicial em uma história executável sem depender de conversas anteriores.**
+Ele deve ser carregado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`, quando o usuário escolheu criar uma obra nova ou quando isso já estava explícito no pedido.
 
-No W4D, `campanha` é o nome técnico do espaço persistente da obra. A obra pode ser RPG, fanfic, romance seriado, aventura colaborativa ou qualquer outra forma de ficção compatível.
+> **BOOT escolhe o caminho. Este arquivo cria a nova história.**
+
+Se o usuário quer continuar uma obra existente, não usar este processo. Seguir `06-REGISTRO-E-RETOMADA.md`.
 
 ---
 
-# Objetivo da IA no início
+# Condição de entrada
+
+Antes de usar este arquivo, uma destas condições precisa ser verdadeira:
+
+```text
+usuário disse que quer criar uma história nova
+OU
+pedido já deixa isso inequivocamente claro
+```
+
+Se a operação ainda estiver aberta, voltar ao BOOT e perguntar:
+
+> **Você quer criar uma história nova ou continuar uma história existente?**
+
+Não pedir premissa, estilo, fichas ou nome antes dessa bifurcação estar resolvida.
+
+---
+
+# Objetivo da IA na criação
 
 A IA não deve começar inventando uma trama inteira sozinha nem transformar preparação em interrogatório.
 
-Ela deve obter ou propor apenas o suficiente para responder:
+Ela deve construir a obra por etapas, preservando as decisões autorais do Diretor.
 
-```text
-que história estamos tentando contar?
-quem conduz a obra?
-quais personagens precisam de Cadeira agora?
-quem o Diretor quer controlar diretamente, se alguém?
-qual política de Mesa será usada?
-qual é o ponto inicial da ficção?
-```
+O processo completo de criação será refinado por fases. Como regra geral:
 
 > **Base suficiente → propor. Falta realmente decisiva → perguntar.**
+
+Não pular etapas autorais importantes só porque a IA consegue inventar uma resposta plausível.
 
 ---
 
@@ -37,27 +52,62 @@ Exemplo:
 "Quero uma comédia romântica universitária entre uma heroína alienígena e um estudante de uma família de magos."
 ```
 
-Isso já é suficiente para a IA propor:
+Isso é suficiente para começar o **processo de criação**.
+
+Não significa que a IA deve produzir de uma vez:
 
 ```text
-nome provisório ou opções de nome
-proposta da história
-foco e tom
-personagens centrais
-Cadeiras iniciais
-configuração de autoridades
-política de Mesa
-perguntas realmente indispensáveis
-primeira situação aberta
+mundo completo
+fichas finais
+trama inteira
+arcos futuros
+primeiro capítulo
 ```
 
-Não exigir que o Diretor forneça toda a trama, mundo, antagonistas, arcos e finais antes de começar.
+Ela deve conduzir a preparação na ordem definida pelo W4D e pelo Diretor.
 
 ---
 
-# Passo 1 — Identificar o Diretor
+# Destino canônico
 
-Definir quem conduz a obra.
+Toda história nova deve ganhar um espaço persistente em:
+
+```text
+campanhas/<slug>/
+```
+
+A criação física da pasta e dos arquivos segue `07-CRIAR-CAMPANHA.md`.
+
+A pasta não deve ser criada no BOOT.
+
+Ela passa a ser criada quando o processo de nova história chegar ao ponto em que nome e destino canônico já estejam definidos.
+
+Estrutura mínima prevista:
+
+```text
+campanhas/<slug>/
+├── README.md
+├── direcao.md
+├── estado.md
+└── personagens/
+```
+
+`operacao.md` aparece somente quando uma operação transitória precisa persistir.
+
+---
+
+# Autoridades
+
+Durante a criação, identificar quando necessário:
+
+```text
+DIRETOR
+NARRADOR / JUIZ
+PERSONAGEM DO DIRETOR, se houver
+CADEIRAS
+EXECUTORES
+POLÍTICA DE MESA
+```
 
 Na configuração mais comum com IA:
 
@@ -72,62 +122,11 @@ CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
 → IA, salvo indicação diferente.
 ```
 
-Perguntar se o humano quer um `PERSONAGEM DO DIRETOR` somente quando isso não estiver claro.
-
-Se ele já fala como uma personagem, declara ações dela ou diz que quer controlar sua vontade, isso pode ser suficiente para propor essa configuração.
+Perguntar sobre `PERSONAGEM DO DIRETOR` somente quando isso não estiver claro pelo contexto.
 
 ---
 
-# Passo 2 — Criar o espaço canônico
-
-Seguir `07-CRIAR-CAMPANHA.md`.
-
-Usar os modelos:
-
-```text
-modelos/README-CAMPANHA.md
-modelos/DIRECAO.md
-modelos/ESTADO.md
-modelos/FICHA.md
-modelos/OPERACAO.md      # somente quando necessário
-```
-
-Estrutura mínima:
-
-```text
-campanhas/<slug>/
-├── README.md
-├── direcao.md
-├── estado.md
-└── personagens/
-```
-
-Se o ambiente não possuir sistema de arquivos ou repositório, manter essas fontes conceitualmente separadas no contexto.
-
----
-
-# Passo 3 — Propor a Direção inicial
-
-A IA deve transformar o pedido do Diretor numa proposta curta e verificável.
-
-Incluir apenas quando pertinente:
-
-```text
-Proposta
-Foco
-Tom
-Premissas
-Direções persistentes
-Espaço ainda aberto
-```
-
-A Direção inicial não é sinopse de toda a obra.
-
-Ela deve dizer **que tipo de história será conduzida**, não antecipar cada acontecimento.
-
----
-
-# Passo 4 — Definir a política de Mesa
+# Política de Mesa
 
 Usar `00-ARQUITETURA-E-MESA.md`.
 
@@ -145,17 +144,15 @@ Se o Diretor não demonstrar preferência:
 MESA: SOB DEMANDA
 ```
 
-Se o Diretor explicitamente disser que quer ouvir os personagens antes de decidir, sugerir `CONSULTAR PROPOSTAS`.
+Se disser que quer ouvir personagens antes de decidir, sugerir `CONSULTAR PROPOSTAS`.
 
-Se disser que quer ouvir a Cadeira **mesmo quando ele já formulou a ação como decisão**, sugerir `CONSULTA FORTE`.
-
-A IA não deve impor `CONSULTA FORTE` a quem não pediu esse atrito consultivo.
+Se quiser opinião mesmo diante de decisões recém-formuladas, sugerir `CONSULTA FORTE`.
 
 ---
 
-# Passo 5 — Criar personagens suficientes
+# Personagens e fichas
 
-Criar apenas quem precisa existir para a abertura funcionar.
+Criar somente as personagens necessárias para a abertura e para a proposta atual.
 
 Para cada personagem central, a ficha deve permitir que outra IA a reconstrua depois sem depender da conversa original.
 
@@ -175,6 +172,13 @@ relações
 histórico necessário
 ```
 
+Seguir:
+
+```text
+04-FICHA.md
+modelos/FICHA.md
+```
+
 Quando o Diretor fornecer uma personagem de outra obra, usar o cânone externo apenas para preencher lacunas permitidas. Depois da aprovação:
 
 ```text
@@ -184,38 +188,54 @@ FICHA DA OBRA
 
 ---
 
-# Passo 6 — Fazer Mesa inicial quando necessária
+# Direção
 
-Antes de abrir a primeira cena, quando houver decisões autorais importantes ainda em teste, usar `00-ARQUITETURA-E-MESA.md`.
+A Direção inicial deve dizer que história está sendo conduzida sem tentar antecipar toda a trama.
 
-```text
-Diretor propõe.
-↓
-Cadeiras envolvidas opinam.
-Narrador emite PARECER.
-↓
-Diretor ajusta, cancela ou autoriza execução.
-```
-
-A Mesa inicial serve para detectar cedo:
+Pode registrar, conforme necessário:
 
 ```text
-personagem com personalidade incompatível com a premissa
-relação que exige condição ainda ausente
-objetivo contraditório
-capacidade mal definida
-premissa que produziria resultado diferente do imaginado
+Proposta
+Foco
+Tom
+Premissas
+Direções persistentes
+Espaço aberto
 ```
 
-Nada discutido vira acontecimento até o Diretor mandar executar.
+Seguir:
 
-Se a Mesa precisar sobreviver a uma pausa ou troca de contexto, criar `operacao.md` usando `modelos/OPERACAO.md`.
+```text
+01-AUTORIDADE-E-DIRECAO.md
+modelos/DIRECAO.md
+```
+
+Hipótese ainda em Mesa não entra em `direcao.md` como fato decidido.
 
 ---
 
-# Passo 7 — Criar o Estado inicial
+# Mesa durante a criação
 
-O Estado precisa indicar exatamente onde a ficção começa.
+A criação também pode usar Mesa de Autoria.
+
+Quando já houver informação suficiente sobre uma personagem ou relação, o Diretor pode testar uma proposta antes de canonizá-la.
+
+```text
+Diretor propõe
+→ Cadeiras pertinentes opinam
+→ Narrador emite PARECER
+→ Diretor ajusta, cancela ou confirma
+```
+
+Nada discutido entra automaticamente na Ficção.
+
+Se a operação precisar sobreviver a perda de contexto, usar `operacao.md`.
+
+---
+
+# Estado inicial
+
+Antes do START, `estado.md` precisa indicar exatamente onde a Ficção começa.
 
 Exemplo mínimo:
 
@@ -231,9 +251,9 @@ Não colocar no Estado acontecimentos que o Diretor apenas pretende produzir mai
 
 ---
 
-# Passo 8 — START
+# START
 
-Quando a estrutura estiver aprovada:
+Quando a preparação estiver aprovada:
 
 ```text
 START
@@ -262,9 +282,9 @@ uma crise
 
 ---
 
-# Durante a criação e execução
+# Durante criação e execução
 
-A IA deve alternar conscientemente entre três camadas.
+A IA deve distinguir três camadas.
 
 ## Mesa
 
@@ -285,8 +305,6 @@ Cadeiras agem no espaço aberto
 → prosa apresenta o resultado
 ```
 
-Não interromper cada ação cotidiana com consulta desnecessária.
-
 ## Registro
 
 ```text
@@ -295,72 +313,6 @@ ficção estabelecida
 ```
 
 Não registrar hipótese como fato.
-
----
-
-# Como reconhecer proposta versus ação já decidida
-
-Exemplos normalmente consultivos:
-
-```text
-"acho que A faria X"
-"e se B reagisse assim?"
-"talvez C entre na cena"
-"o que as Cadeiras acham disso?"
-```
-
-Exemplos normalmente ficcionais quando a Mesa não está aberta:
-
-```text
-"abro a porta"
-"digo que vou embora"
-"A pega o livro e senta"
-```
-
-Se a Mesa já está aberta, continuar em consulta até o Diretor encerrá-la, mesmo que uma hipótese seja formulada como frase declarativa.
-
-Em `CONSULTA FORTE`, uma decisão recém-formulada pode receber opinião breve antes da execução, salvo ordem explícita para seguir sem consulta.
-
----
-
-# A IA não deve escrever pelo Diretor sem necessidade
-
-Se existe `PERSONAGEM DO DIRETOR`:
-
-```text
-vontade
-→ Diretor.
-
-execução textual
-→ pode ser delegada à IA.
-```
-
-Quando o Diretor diz o que a personagem quer ou faz e autoriza execução, a IA pode dar forma à execução, mas não deve transformar isso em resistência automática.
-
-Na Mesa, porém, pode existir Cadeira consultiva para essa personagem, oferecendo opinião sem tomar sua vontade.
-
----
-
-# A IA deve permitir surpresa
-
-Direção não significa que tudo precisa ser predeterminado.
-
-As Cadeiras podem:
-
-```text
-ter iniciativa
-recusar
-errar
-se interessar
-mudar de ideia
-criar oportunidades
-produzir conflitos não planejados
-resolver problemas sem drama obrigatório
-```
-
-Desde que permaneçam dentro do espaço aberto.
-
-O Diretor pode sempre intervir para alinhar, corrigir ou determinar.
 
 ---
 
@@ -391,31 +343,17 @@ reancoragem necessária
 
 # Não perguntar demais
 
-Se a IA consegue construir uma proposta coerente a partir das informações disponíveis, deve fazê-lo.
-
-Ruim:
-
-```text
-"qual a altura exata de cada personagem?"
-"qual o nome de todos os professores?"
-"qual será o final da história?"
-```
-
-quando nada disso é necessário para começar.
-
-Melhor:
-
-```text
-"Com o que você deu, eu proponho esta estrutura inicial. Ajuste o que não servir."
-```
-
-Perguntar apenas quando a escolha:
+Perguntar somente quando a escolha:
 
 ```text
 é autoralmente importante
 muda de forma material a proposta
 não pode ser inferida sem tomar uma decisão que pertence ao Diretor
 ```
+
+Não pedir detalhes irrelevantes apenas para preencher formulários.
+
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular uma etapa que o processo de criação definiu como decisão autoral separada.
 
 ---
 
@@ -434,33 +372,30 @@ Ficção executada
 → pode ser registrada quando solicitado.
 ```
 
-Se o módulo Livro estiver ativo, somente a versão final válida da cena entra na obra.
-
 ---
 
-# Protocolo mínimo completo para uma IA
+# Protocolo deste ramo
 
 ```text
-1. entender a ideia inicial;
-2. identificar o Diretor;
-3. propor configuração de autoridades;
-4. definir política de Mesa;
-5. criar Direção mínima;
-6. criar somente personagens necessárias;
-7. criar Estado inicial;
-8. fazer Mesa inicial quando houver ideias em teste;
-9. receber aprovação do Diretor;
-10. START;
-11. executar Cadeiras em escopos separados;
-12. Narrador sentencia causalidade;
-13. parar somente quando a próxima autoria não estiver disponível;
-14. registrar somente o que aconteceu;
-15. usar operacao.md para processo pendente não canônico;
-16. reancorar quando o contexto se perder.
+BOOT já concluído
+↓
+NOVA HISTÓRIA escolhida
+↓
+seguir processo de criação
+↓
+definir destino canônico em campanhas/<slug>/ no momento apropriado
+↓
+criar e salvar fontes aprovadas
+↓
+preparar Estado inicial
+↓
+START
 ```
+
+A ordem interna detalhada de criação — premissa, estilo, nome, personagens, fichas e demais etapas — deve ser seguida conforme a especificação de criação vigente e pode ser refinada sem alterar o BOOT.
 
 ---
 
 # Regra final
 
-> **Uma IA que recebe o W4D não deve tentar ser a autora inteira. Ela deve ajudar a construir a estrutura, oferecer Cadeiras capazes de discordar, emitir parecer na Mesa, sentenciar causalidade na Ficção e esperar o Diretor fechar aquilo que realmente quer fechar. O resultado é uma história construída em conjunto, não uma sequência de respostas improvisadas.**
+> **Este arquivo nunca decide se a obra é nova. O BOOT decide o ramo. Depois que NOVA HISTÓRIA foi escolhida, a IA conduz a criação por etapas, salva a obra em `campanhas/<slug>/` quando o destino estiver definido e só inicia a Ficção depois da preparação necessária.**
