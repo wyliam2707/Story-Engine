@@ -1,5 +1,73 @@
 # Capítulo 7 — Variável Nova
 
+O lugar da convocação não pertence à Liga da Justiça.
+
+É um salão antigo, protegido por arquitetura ritual, usado quando problemas mágicos precisam ser tratados por pessoas que conhecem o mundo sobrenatural por dentro.
+
+No centro, um símbolo marca o espaço de reunião. Ao redor existem lugares ligados a tradições, indivíduos e linhagens que assumem responsabilidades sobre ameaças sobrenaturais.
+
+Entre eles existe um lugar dos Arcanus.
+
+Myrddin chega no horário e o ocupa.
+
+Morgana entra pouco depois. Vestido preto, legging por baixo e botas práticas. Nada em sua roupa impede movimento ou combate.
+
+Ela olha para o filho.
+
+**Morgana, pensa:** *Duas noites com a namorada e ele ainda chegou no horário. Impressionante.*
+
+Não comenta.
+
+Ainda.
+
+Ao redor da mesa existem outras figuras: uma mulher de cabelos grisalhos representando os Vigias do Véu; um homem mais velho, de casaco claro e símbolos religiosos discretos, ligado a uma tradição de exorcistas; uma terceira figura sob manto verde-escuro, ligada a pactos antigos com criaturas e territórios anteriores às cidades modernas.
+
+A Vigia coloca sobre a mesa uma placa de pedra quebrada. No centro há um símbolo queimado de dentro para fora.
+
+**Vigia do Véu:** — Ontem à noite, três selos de contenção falharam em Metropolis.
+
+Uma projeção arcana surge sobre a mesa. Três pontos separados por vários quilômetros.
+
+**Vigia do Véu:** — Nenhum foi atacado diretamente. Alguma coisa está fazendo os selos responderem uns aos outros.
+
+Morgana se aproxima da projeção.
+
+**Morgana:** — Ressonância.
+
+**Vigia do Véu:** — Parece.
+
+**Morgana:** — Então o problema não são os três lugares.
+
+Ela toca o centro imaginário entre eles.
+
+**Morgana:** — É isto.
+
+A projeção recalcula. O ponto cai numa região industrial antiga de Metropolis, parcialmente abandonada.
+
+**Exorcista:** — Há registros de atividade espiritual naquela área.
+
+A figura de verde finalmente fala.
+
+**Figura do Manto Verde:** — Espiritual, sim. Humana, não.
+
+Morgana olha para Myrddin.
+
+Não como mãe.
+
+Como alguém que já lutou ao lado dele antes.
+
+A Vigia amplia a projeção.
+
+**Vigia do Véu:** — A abertura ainda não aconteceu. Mas está se formando. Precisamos de alguém capaz de chegar perto sem permitir que a estrutura colapse.
+
+Morgana cruza os braços. O canto da boca sobe um pouco.
+
+**Morgana:** — Que conveniente. Finalmente um problema que não pode ser resolvido socando com mais força.
+
+**Morgana, pensa:** *Provavelmente.*
+
+Myrddin observa os três pontos ligados pela projeção.
+
 **Myrddin:** — Eu vou.
 
 A resposta vem sem cerimônia.
