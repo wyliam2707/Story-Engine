@@ -4,9 +4,9 @@ Este arquivo define **somente o ramo NOVA HISTÓRIA**.
 
 Ele deve ser carregado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`, quando o usuário escolheu criar uma obra nova ou quando isso já estava explícito no pedido.
 
-> **BOOT escolhe o caminho. Este arquivo cria a nova história.**
+> **BOOT escolhe o caminho. Este arquivo coordena a criação da nova história.**
 
-Se o usuário quer continuar uma obra existente, não usar este processo. Seguir `06-REGISTRO-E-RETOMADA.md`.
+Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM-IA.md`.
 
 ---
 
@@ -28,17 +28,73 @@ Não pedir premissa, estilo, fichas ou nome antes dessa bifurcação estar resol
 
 ---
 
+# Processo por etapas
+
+A criação não acontece em uma única resposta.
+
+O W4D separa decisões autorais importantes para que o Diretor possa construir, revisar e corrigir a obra sem a IA preencher silenciosamente tudo de uma vez.
+
+A primeira etapa formal é:
+
+```text
+1. PREMISSA
+→ 12-CRIACAO-PREMISSA.md
+```
+
+Depois da Premissa aprovada, o processo segue para as etapas posteriores de criação, como estilo/tom, nome e destino canônico, personagens, fichas, Direção e Estado inicial.
+
+Essas etapas podem receber especificações próprias sem alterar o BOOT.
+
+> **Não pular uma etapa autoral separada apenas porque a IA consegue inventar uma solução plausível.**
+
+---
+
+# Etapa 1 — Premissa
+
+Ao entrar em `NOVA HISTÓRIA`, carregar:
+
+```text
+12-CRIACAO-PREMISSA.md
+```
+
+A Premissa responde primeiro:
+
+> **Que história estamos tentando construir?**
+
+Se o Diretor já trouxe uma ideia suficiente, a IA deve sintetizá-la em uma premissa curta e devolver para revisão.
+
+Se trouxe apenas uma intenção vaga, a IA deve fazer uma pergunta autoral de alto valor por vez ou oferecer poucas alternativas realmente distintas.
+
+Enquanto a premissa não estiver aprovada:
+
+```text
+não definir estilo como se estivesse fechado
+não criar nome definitivo
+não criar pasta em campanhas/
+não criar fichas definitivas
+não abrir Ficção
+```
+
+Quando o Diretor aprovar semanticamente a premissa:
+
+```text
+PREMISSA: APROVADA
+→ seguir para a próxima etapa de criação
+```
+
+---
+
 # Objetivo da IA na criação
 
 A IA não deve começar inventando uma trama inteira sozinha nem transformar preparação em interrogatório.
 
 Ela deve construir a obra por etapas, preservando as decisões autorais do Diretor.
 
-O processo completo de criação será refinado por fases. Como regra geral:
+Como regra geral:
 
 > **Base suficiente → propor. Falta realmente decisiva → perguntar.**
 
-Não pular etapas autorais importantes só porque a IA consegue inventar uma resposta plausível.
+Isso significa sintetizar quando já existe material e perguntar somente quando falta algo que muda de forma material a etapa atual.
 
 ---
 
@@ -52,25 +108,27 @@ Exemplo:
 "Quero uma comédia romântica universitária entre uma heroína alienígena e um estudante de uma família de magos."
 ```
 
-Isso é suficiente para começar o **processo de criação**.
+Isso é suficiente para começar a etapa de Premissa.
 
-Não significa que a IA deve produzir de uma vez:
+A IA não deve responder produzindo de uma vez:
 
 ```text
 mundo completo
+estilo fechado
+nome definitivo
 fichas finais
 trama inteira
 arcos futuros
 primeiro capítulo
 ```
 
-Ela deve conduzir a preparação na ordem definida pelo W4D e pelo Diretor.
+Ela deve primeiro formular a Premissa e permitir que o Diretor confirme ou corrija.
 
 ---
 
 # Destino canônico
 
-Toda história nova deve ganhar um espaço persistente em:
+Toda história nova deve ganhar, no momento apropriado, um espaço persistente em:
 
 ```text
 campanhas/<slug>/
@@ -78,9 +136,9 @@ campanhas/<slug>/
 
 A criação física da pasta e dos arquivos segue `07-CRIAR-CAMPANHA.md`.
 
-A pasta não deve ser criada no BOOT.
+A pasta não deve ser criada no BOOT nem durante a Premissa apenas para guardar rascunhos.
 
-Ela passa a ser criada quando o processo de nova história chegar ao ponto em que nome e destino canônico já estejam definidos.
+Ela passa a ser criada quando o processo chegar ao ponto em que nome e destino canônico já estejam definidos.
 
 Estrutura mínima prevista:
 
@@ -122,13 +180,15 @@ CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
 → IA, salvo indicação diferente.
 ```
 
-Perguntar sobre `PERSONAGEM DO DIRETOR` somente quando isso não estiver claro pelo contexto.
+Não é necessário resolver todas essas configurações durante a Premissa se elas ainda não forem materialmente relevantes.
+
+Perguntar sobre `PERSONAGEM DO DIRETOR` somente quando isso não estiver claro pelo contexto e quando a resposta já for necessária para a etapa em curso.
 
 ---
 
 # Política de Mesa
 
-Usar `00-ARQUITETURA-E-MESA.md`.
+Usar `00-ARQUITETURA-E-MESA.md` quando o processo chegar ao ponto em que a política precise ser definida ou quando o Diretor abrir consulta.
 
 Opções:
 
@@ -152,25 +212,18 @@ Se quiser opinião mesmo diante de decisões recém-formuladas, sugerir `CONSULT
 
 # Personagens e fichas
 
-Criar somente as personagens necessárias para a abertura e para a proposta atual.
+As personagens podem aparecer conceitualmente na Premissa antes de possuírem ficha.
+
+```text
+PERSONAGEM MENCIONADA NA PREMISSA
+≠ FICHA CONCLUÍDA
+```
+
+Quando a etapa de fichas chegar, criar somente as personagens necessárias para a abertura e para a proposta atual.
 
 Para cada personagem central, a ficha deve permitir que outra IA a reconstrua depois sem depender da conversa original.
 
 Não preencher lacunas irrelevantes apenas para deixar a ficha longa.
-
-A ficha precisa sustentar principalmente:
-
-```text
-identidade
-competências
-conhecimentos
-capacidades relevantes
-personalidade
-desejos
-aversões
-relações
-histórico necessário
-```
 
 Seguir:
 
@@ -190,7 +243,9 @@ FICHA DA OBRA
 
 # Direção
 
-A Direção inicial deve dizer que história está sendo conduzida sem tentar antecipar toda a trama.
+A Direção inicial será construída a partir das decisões de criação já aprovadas.
+
+Ela deve dizer que história está sendo conduzida sem tentar antecipar toda a trama.
 
 Pode registrar, conforme necessário:
 
@@ -210,15 +265,13 @@ Seguir:
 modelos/DIRECAO.md
 ```
 
-Hipótese ainda em Mesa não entra em `direcao.md` como fato decidido.
+Hipótese ainda em discussão não entra em `direcao.md` como decisão fechada.
 
 ---
 
 # Mesa durante a criação
 
-A criação também pode usar Mesa de Autoria.
-
-Quando já houver informação suficiente sobre uma personagem ou relação, o Diretor pode testar uma proposta antes de canonizá-la.
+A criação também pode usar Mesa de Autoria quando já houver Cadeiras ou informação suficiente para uma consulta significativa.
 
 ```text
 Diretor propõe
@@ -229,7 +282,7 @@ Diretor propõe
 
 Nada discutido entra automaticamente na Ficção.
 
-Se a operação precisar sobreviver a perda de contexto, usar `operacao.md`.
+Antes de existirem fichas suficientes, a IA não deve fingir que uma Cadeira já possui personalidade detalhada que ainda não foi construída.
 
 ---
 
@@ -266,18 +319,6 @@ START
 
 A abertura não precisa ser explosiva.
 
-Pode começar com:
-
-```text
-uma conversa
-uma rotina
-um encontro
-uma investigação
-uma viagem
-uma tarefa comum
-uma crise
-```
-
 > **Não fabricar conflito apenas porque a história está começando.**
 
 ---
@@ -295,8 +336,6 @@ proposta
 → Diretor decide
 ```
 
-Não narrar automaticamente.
-
 ## Ficção
 
 ```text
@@ -312,32 +351,7 @@ ficção estabelecida
 → fontes corretas preservam o que aconteceu.
 ```
 
-Não registrar hipótese como fato.
-
----
-
-# Quando parar
-
-Não parar apenas porque surgiu uma nova decisão de Cadeira.
-
-```text
-CADEIRA IA disponível no mesmo fluxo
-→ trocar de escopo
-→ decidir
-→ continuar.
-```
-
-Parar quando a próxima autoria depender de:
-
-```text
-Diretor
-humano ou executor externo indisponível
-Mesa aguardando decisão autoral
-Auditoria pendente
-reancoragem necessária
-```
-
-> **Pare por indisponibilidade de autoria, não por existência de autoria.**
+Preparação autoral aprovada pode ser salva nas fontes de configuração correspondentes quando o workspace já existir, mas isso não a transforma em acontecimento ficcional.
 
 ---
 
@@ -346,31 +360,14 @@ reancoragem necessária
 Perguntar somente quando a escolha:
 
 ```text
-é autoralmente importante
-muda de forma material a proposta
+é autoralmente importante para a etapa atual
+muda de forma material o que está sendo definido
 não pode ser inferida sem tomar uma decisão que pertence ao Diretor
 ```
 
 Não pedir detalhes irrelevantes apenas para preencher formulários.
 
-Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular uma etapa que o processo de criação definiu como decisão autoral separada.
-
----
-
-# Quando salvar
-
-Seguir `06-REGISTRO-E-RETOMADA.md`.
-
-```text
-Mesa aberta
-→ não promover propostas ao Estado ou Livro.
-
-Operação pendente
-→ preservar em operacao.md somente se precisar sobreviver à retomada.
-
-Ficção executada
-→ pode ser registrada quando solicitado.
-```
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, estilo ou outra etapa que o processo tenha definido separadamente.
 
 ---
 
@@ -381,9 +378,16 @@ BOOT já concluído
 ↓
 NOVA HISTÓRIA escolhida
 ↓
-seguir processo de criação
+PREMISSA
+→ 12-CRIACAO-PREMISSA.md
 ↓
-definir destino canônico em campanhas/<slug>/ no momento apropriado
+PREMISSA APROVADA
+↓
+próximas etapas de criação
+↓
+nome e destino canônico definidos
+↓
+criar campanhas/<slug>/
 ↓
 criar e salvar fontes aprovadas
 ↓
@@ -392,10 +396,8 @@ preparar Estado inicial
 START
 ```
 
-A ordem interna detalhada de criação — premissa, estilo, nome, personagens, fichas e demais etapas — deve ser seguida conforme a especificação de criação vigente e pode ser refinada sem alterar o BOOT.
-
 ---
 
 # Regra final
 
-> **Este arquivo nunca decide se a obra é nova. O BOOT decide o ramo. Depois que NOVA HISTÓRIA foi escolhida, a IA conduz a criação por etapas, salva a obra em `campanhas/<slug>/` quando o destino estiver definido e só inicia a Ficção depois da preparação necessária.**
+> **Este arquivo nunca decide se a obra é nova. O BOOT decide o ramo. Depois que NOVA HISTÓRIA foi escolhida, a IA começa pela Premissa, avança por etapas autorais separadas, cria `campanhas/<slug>/` somente quando nome e destino estiverem definidos e só inicia a Ficção depois da preparação necessária.**
