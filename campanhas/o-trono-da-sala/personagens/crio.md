@@ -115,7 +115,7 @@ Um barco passa pela região aproximadamente uma vez a cada três meses.
 
 ## 5 — Personalidade e Vida Emocional
 
-Personalidade: Crio é prático, tranquilo e direto. Não sente necessidade de demonstrar poder ou exigir reconhecimento.
+Personalidade: Crio é prático, tranquilo, direto e seco na forma de falar. Usa poucas palavras, não dramatiza situações e raramente enfeita o que precisa dizer. Essa secura, porém, não é crueldade: Crio é gentil nas ações, preserva a dignidade de quem depende dele e ajuda sem transformar cuidado em pena, dívida ou instrumento de poder.
 
 Sua falta de reverência diante de Hela não nasce de provocação. Ele simplesmente não organiza relações pessoais em torno de títulos divinos.
 
