@@ -1,16 +1,31 @@
-# 07 — Criar Campanha
+# 07 — Criar História / Campanha
 
-Uma campanha precisa de poucas fontes para começar.
+No W4D, `campanha` é o nome técnico do espaço persistente de uma obra.
 
-> **Nome e pasta definidos + Direção suficiente + autoridades definidas + personagens necessárias + Estado inicial = campanha pronta para jogar.**
-
-## Passo 0 — Nome e pasta da campanha
-
-Antes de escrever Direção, fichas, Estado ou qualquer outro artefato da campanha:
+Ela pode ser:
 
 ```text
-1. definir um nome para a campanha;
-2. derivar um slug estável para a pasta;
+RPG narrativo
+fanfic
+romance seriado
+aventura colaborativa
+história conduzida por um Diretor com Cadeiras IA
+qualquer outra ficção compatível com a arquitetura
+```
+
+> **Nome e pasta definidos + Direção suficiente + autoridades definidas + personagens necessárias + Estado inicial = história pronta para executar.**
+
+Para uma IA iniciando do zero, este arquivo deve ser lido junto de `10-INICIAR-HISTORIA-COM-IA.md`.
+
+---
+
+# Passo 0 — Nome e pasta
+
+Antes de escrever Direção, fichas, Estado ou qualquer outro artefato:
+
+```text
+1. definir um nome para a história;
+2. derivar um slug estável;
 3. criar campanhas/<slug>/;
 4. criar imediatamente campanhas/<slug>/README.md como arquivo-âncora.
 ```
@@ -18,27 +33,31 @@ Antes de escrever Direção, fichas, Estado ou qualquer outro artefato da campan
 Exemplo:
 
 ```text
-Nome: Campanha Exemplo
-Slug: campanha-exemplo
-Pasta: campanhas/campanha-exemplo/
+Nome: História Exemplo
+Slug: historia-exemplo
+Pasta: campanhas/historia-exemplo/
 ```
 
 Em sistemas como GitHub, uma pasta vazia não persiste. Por isso o `README.md` deve nascer junto com a campanha, ainda que inicialmente contenha apenas:
 
 ```text
-# [NOME DA CAMPANHA]
+# [NOME]
 
 STATUS
 → EM PREPARAÇÃO
 ```
 
-Depois, no Passo 2, esse mesmo `README.md` recebe a configuração completa de autoridades e módulos.
+Modelo disponível:
 
-> **Nenhum arquivo de campanha deve ser produzido sem um destino canônico já definido.**
+```text
+modelos/README-CAMPANHA.md
+```
 
-Se o nome ainda não estiver decidido, resolver o nome antes de prosseguir. Um nome provisório só deve ser usado quando o Diretor aceitar explicitamente que ele é provisório.
+> **Nenhum arquivo da obra deve ser produzido sem um destino canônico já definido.**
 
-## Estrutura mínima
+---
+
+# Estrutura mínima
 
 ```text
 campanhas/<slug>/
@@ -48,108 +67,156 @@ campanhas/<slug>/
 └── personagens/
 ```
 
-Outras fontes são criadas somente quando houver necessidade real.
+Outras fontes aparecem somente quando cumprem função real.
 
 ```text
 mundo/
-→ verdades externas estáveis que precisam persistir.
+→ verdades externas estáveis.
 
 arco.md
-→ somente se o módulo Arco Preparado for ativado.
+→ somente com módulo Arco Preparado.
 
 oposicao.md
-→ somente se o módulo Opositor for ativado.
+→ somente com módulo Opositor.
 
 livro/
-→ somente se o módulo Livro for ativado; contém a obra registrada em capítulos.
+→ somente com módulo Livro.
 ```
 
-## Passo 1 — Direção
+---
 
-Criar `direcao.md` **dentro da pasta já definida no Passo 0**.
+# Passo 1 — Direção
 
-Modelo mínimo:
+Criar `direcao.md` usando:
 
 ```text
-# Direção
+modelos/DIRECAO.md
+```
 
-## Proposta
-[que tipo de história estamos escrevendo?]
+A Direção deve ser suficiente para reconhecer:
 
-## Foco
-[o que deve receber atenção recorrente?]
-
-## Tom
-[quando relevante]
-
-## Premissas
-[fatos autorais gerais que sustentam a proposta]
-
-## Direções Ativas
-[deixar vazio no início se nada local estiver fechado]
+```text
+que tipo de história estamos construindo
+o que deve receber foco recorrente
+qual tom importa
+quais premissas já estão fechadas
+quais trajetórias persistentes o Diretor já escolheu
+que espaço continua aberto
 ```
 
 A Direção não precisa prever a trama inteira.
 
-Pode ser simples:
+Uma frase simples pode bastar para começar:
 
 ```text
 "aventura urbana centrada na convivência entre três personagens e nos problemas que elas escolhem investigar"
 ```
 
-O Diretor pode alterar e aprofundar a Direção durante a campanha.
+O Diretor pode aprofundar, corrigir ou substituir Direções ao longo da obra.
 
-## Passo 2 — Configuração de Autoridades
+Não registrar como Direção uma hipótese que ainda está apenas em Mesa de Autoria.
 
-Atualizar o `README.md` criado no Passo 0.
+---
 
-Modelo:
+# Passo 2 — Autoridades
+
+Atualizar o `README.md` da campanha.
+
+Definir no mínimo:
 
 ```text
-# [NOME DA CAMPANHA]
-
-STATUS
-→ EM PREPARAÇÃO
-
 DIRETOR
-Executor: [humano / IA / outro]
-
 NARRADOR / JUIZ
-Executor: [humano / IA / outro]
-
-CADEIRAS
-- Personagem A → Executor: HUMANO
-- Personagem B → Executor: IA
-- Personagem C → Executor: IA
-
-MÓDULOS
-- Arco Preparado: INATIVO
-- Opositor: INATIVO
-- Romance: [ATIVO / INATIVO conforme a proposta]
-- Livro: INATIVO
+CADEIRAS INICIAIS
+EXECUTOR DE CADA AUTORIDADE
+PERSONAGEM DO DIRETOR, quando houver
+MÓDULOS ATIVOS
 ```
 
-Uma mesma pessoa ou IA pode executar várias funções. Isso não funde as autoridades.
+Uma mesma IA pode executar várias funções.
 
-Não registrar executor dentro da ficha da personagem.
+Isso não funde as autoridades.
 
-## Passo 3 — Personagens
+```text
+MESMO EXECUTOR
+≠
+MESMA CADEIRA
+```
 
-Criar somente as fichas necessárias para começar, seguindo `04-FICHA.md` e `modelos/FICHA.md`.
+Executor não pertence à ficha da personagem.
 
-Todas as fichas da campanha devem ser salvas em:
+---
+
+# Passo 3 — Personagens
+
+Criar somente as fichas necessárias para a abertura.
+
+Seguir:
+
+```text
+04-FICHA.md
+modelos/FICHA.md
+```
+
+Todas as fichas persistentes devem ficar em:
 
 ```text
 campanhas/<slug>/personagens/
 ```
 
-Personagens secundárias podem receber ficha ou Cadeira depois se ganharem importância real.
+Uma ficha precisa permitir que outro executor reconstrua a mesma pessoa sem depender da conversa em que ela foi criada.
 
-A ficha precisa ser suficiente para que outro executor possa reconstruir a mesma pessoa sem depender da conversa de criação.
+Personagens secundárias podem receber ficha ou Cadeira depois, quando passarem a exigir autoria persistente.
 
-## Passo 4 — Estado inicial
+---
 
-Criar `estado.md`.
+# Passo 4 — Mesa inicial, quando necessária
+
+Antes de canonizar premissas comportamentais importantes, a IA pode abrir uma Mesa de Autoria conforme `00-ARQUITETURA-E-MESA.md`.
+
+Exemplo:
+
+```text
+DIRETOR
+→ propõe uma dinâmica entre A e B.
+
+CADEIRA A
+→ diz se isso combina com A.
+
+CADEIRA B
+→ diz como B tenderia a receber a situação.
+
+NARRADOR
+→ julga plausibilidade, fatos e consequências.
+
+DIRETOR
+→ ajusta, cancela ou confirma.
+```
+
+Nada discutido vira acontecimento apenas porque as Cadeiras concordaram.
+
+```text
+MESA
+→ testa.
+
+DIRETOR
+→ decide.
+
+FICÇÃO
+→ estabelece.
+```
+
+---
+
+# Passo 5 — Estado inicial
+
+Criar `estado.md` usando:
+
+```text
+modelos/ESTADO.md
+```
+
+Ele deve indicar o presente e o primeiro ponto aberto.
 
 Modelo mínimo:
 
@@ -157,7 +224,7 @@ Modelo mínimo:
 # Estado
 
 Momento:
-Local:
+Local principal:
 
 ## Presenças e posições
 - ...
@@ -172,7 +239,7 @@ Local:
 - ...
 
 ## Último fato estabelecido
-- campanha ainda não iniciada.
+- história ainda não iniciada.
 
 ## Primeiro ponto aberto
 - abertura da primeira cena.
@@ -180,101 +247,146 @@ Local:
 
 Não copiar fichas para o Estado.
 
-## Passo 5 — Mundo necessário
+Não colocar hipótese da Mesa no Estado.
 
-Se a proposta depende de fatos externos estáveis antes do início, criar `mundo/` e registrar somente o que precisa ser verdade.
+---
 
-Não é necessário construir uma enciclopédia antes de jogar.
+# Passo 6 — Mundo necessário
 
-Detalhes neutros podem surgir por criação emergente durante a ficção.
+Se a proposta depende de fatos externos estáveis antes do início, criar `mundo/` e registrar somente o que precisa persistir.
 
-## Passo 6 — Módulos opcionais
+Não construir uma enciclopédia por obrigação.
 
-Ativar somente o que a campanha realmente usa.
+Detalhes neutros podem surgir por criação emergente conforme `02-RESOLUCAO.md`.
+
+---
+
+# Passo 7 — Módulos opcionais
+
+Ativar somente o que a obra realmente usa.
 
 ### Arco Preparado
 
-Seguir `modulos/ARCO-PREPARADO.md` e criar `arco.md`.
+Seguir:
+
+```text
+modulos/ARCO-PREPARADO.md
+```
 
 ### Opositor
 
-Seguir `modulos/OPOSITOR.md`, definir escopo no README da campanha e criar `oposicao.md` somente se houver informação persistente a registrar.
+Seguir:
+
+```text
+modulos/OPOSITOR.md
+```
 
 ### Romance
 
-Seguir `modulos/ROMANCE.md` quando esse foco fizer parte relevante da história.
+Seguir:
+
+```text
+modulos/ROMANCE.md
+```
 
 ### Livro
 
-Seguir `modulos/LIVRO.md` quando a campanha quiser preservar a ficção jogada em capítulos.
-
-Ao ativar o módulo, criar:
+Seguir:
 
 ```text
-livro/
-└── README.md
+modulos/LIVRO.md
 ```
 
-O `README.md` do Livro funciona como índice da obra. Cada vez que `fechar o capítulo` for usado, um novo arquivo numerado é salvo dentro de `livro/` e o índice é atualizado.
+Quando ativo, o Livro preserva a ficção canonizada em capítulos e exclui:
 
-O Livro contém a ficção canonizada — narração, falas, ações e pensamentos estabelecidos — e não contém Direção, consultas, auditorias, instruções de cena ou outras metaconversas.
+```text
+Direção
+Mesa de Autoria
+consultas
+Auditorias
+análises
+hipóteses
+versões canceladas
+```
 
-## Passo 7 — Auditoria de início
+---
+
+# Passo 8 — Auditoria de início
 
 Antes de começar, confirmar:
 
 ```text
-[ ] A campanha possui nome definido.
-[ ] A pasta canônica campanhas/<slug>/ existe e contém README.md.
-[ ] Todos os arquivos da campanha estão sendo gravados dentro dessa pasta.
+[ ] A obra possui nome e pasta canônica.
+[ ] README.md da campanha existe.
 [ ] Sei quem é o Diretor.
-[ ] Sei quem executa o Narrador.
-[ ] Cada personagem inicial possui Cadeira e executor definidos.
-[ ] direcao.md é suficiente para reconhecer a proposta.
-[ ] cada ficha é autossuficiente.
-[ ] estado.md representa o ponto inicial.
+[ ] Sei quem executa o Narrador/Juiz.
+[ ] As Cadeiras iniciais e executores estão definidos.
+[ ] Se existe Personagem do Diretor, sua vontade está atribuída corretamente.
+[ ] direcao.md reconhece a proposta sem tentar prever toda a trama.
+[ ] as fichas iniciais são autossuficientes.
+[ ] estado.md possui último fato e primeiro ponto aberto.
+[ ] hipóteses de Mesa não foram registradas como fatos.
 [ ] somente módulos realmente usados estão ativos.
-[ ] se Livro estiver ativo, livro/README.md existe como índice.
-[ ] fatos secretos necessários já possuem fonte legítima.
+[ ] fatos secretos necessários possuem fonte legítima.
 ```
 
-Quando a preparação estiver concluída, atualizar no `README.md`:
+Quando estiver suficiente:
+
+```text
+STATUS
+→ PRONTA PARA EXECUTAR
+```
+
+ou, se a obra preferir linguagem de RPG:
 
 ```text
 STATUS
 → PRONTA PARA JOGAR
 ```
 
-## START
+Os dois estados significam que a arquitetura está pronta e o primeiro ponto aberto pode ser iniciado.
+
+---
+
+# START
 
 Depois da preparação:
 
 ```text
 START
-→ reancorar o estado mínimo
+→ reancorar o mínimo necessário
+→ reconstruir pacotes separados das Cadeiras
+→ identificar o primeiro ponto aberto
 → abrir a primeira cena
-→ deixar Cadeiras e mundo produzirem a ficção dentro da Direção.
 ```
 
-O Diretor não precisa fornecer a primeira ação. Uma Cadeira pode iniciar algo legitimamente assim que a situação oferecer espaço.
+O Diretor não precisa fornecer toda a primeira cena.
 
-## Retomar campanha existente
+Uma Cadeira pode tomar a primeira iniciativa quando a situação e o espaço aberto permitirem.
 
-Quando uma campanha já existe:
+Também não existe obrigação de começar por ação, conflito ou perigo.
+
+---
+
+# Retomar obra existente
+
+Quando a campanha já existe:
 
 ```text
-localizar a pasta canônica da campanha
+localizar a pasta canônica
 → README da campanha
 → direcao.md
 → estado.md
 → fichas relevantes
 → módulos ativos pertinentes
 → reancorar conforme 06-REGISTRO-E-RETOMADA.md
-→ continuar.
+→ continuar do primeiro ponto aberto
 ```
 
 Não pedir novamente informação que já está registrada.
 
-## Regra final
+---
 
-> **Nomeie e ancore a campanha antes de escrevê-la. Depois, crie somente as fontes necessárias para a história existir agora. Direção define a proposta; configuração define as autoridades; fichas definem as pessoas; Estado define o presente. Quando ativo, o Livro preserva a ficção passada em capítulos. O restante entra apenas quando cumprir função real.**
+# Regra final
+
+> **Crie somente a estrutura necessária para a história existir agora. Direção define a condução; autoridades definem quem pode decidir; fichas preservam as pessoas; Estado preserva o presente; a Mesa permite testar ideias sem canonizá-las; a ficção estabelece acontecimentos; o Registro preserva o que realmente ocorreu.**
