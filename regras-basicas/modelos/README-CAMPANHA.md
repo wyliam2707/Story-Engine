@@ -160,6 +160,12 @@ Padrão:
 INDICADOR OPERACIONAL: SILENCIOSO
 ```
 
+Exemplo atual, quando visível:
+
+```text
+[W4D: OK | Narrador ✓ | Cadeiras IA ✓]
+```
+
 Falha operacional que impeça execução correta deve ser informada mesmo no modo silencioso.
 
 ---
@@ -231,15 +237,37 @@ STATUS
 → PRONTA
 ```
 
-Então:
+```text
+PRONTA
+≠ FICÇÃO JÁ INICIADA
+```
+
+Seguir:
+
+```text
+regras-basicas/23-START.md
+```
+
+Quando houver autorização semântica para começar:
 
 ```text
 START
 → reancorar
 → reconstruir Cadeiras separadamente
 → identificar primeiro ponto aberto
-→ identificar próxima autoria
-→ iniciar a Ficção.
+→ identificar próxima autoria ou função
+→ iniciar a Ficção sem redistribuir autoridade.
+```
+
+Se o Diretor já autorizou o começo antes da Auditoria, não perguntar novamente.
+
+Se ele pediu somente preparação, permanecer em `PRONTA` até autorização.
+
+Quando a primeira Ficção realmente for executada:
+
+```text
+STATUS
+→ EM EXECUÇÃO
 ```
 
 Se existir `operacao.md` ativo, restaurar a operação pendente antes de saltar para Ficção.
