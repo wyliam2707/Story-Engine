@@ -73,6 +73,7 @@ Não repetir perguntas já respondidas e não exigir planejamento futuro que o D
 → 22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
 
 12. START
+→ 23-START.md
 ```
 
 ---
@@ -141,6 +142,13 @@ PERSONAGEM CENTRAL
 ```
 
 Não criar elenco ornamental por hábito.
+
+Não antecipar configuração de Cadeiras se ela ainda não foi dada.
+
+```text
+PESSOA
+→ primeiro.
+```
 
 ---
 
@@ -303,7 +311,7 @@ Antes da primeira cena:
 → história ainda não iniciada.
 ```
 
-O primeiro ponto aberto deve preservar a autoria correta.
+O primeiro ponto aberto deve preservar a autoria correta ou identificar que o próximo passo é apenas continuidade evidente.
 
 ---
 
@@ -366,6 +374,9 @@ PRONTA
 
 PRONTA
 ≠ completamente planejada.
+
+PRONTA
+≠ Ficção já iniciada.
 ```
 
 Se aprovada:
@@ -373,38 +384,66 @@ Se aprovada:
 ```text
 AUDITORIA: APROVADA
 STATUS → PRONTA
-→ START
+→ START quando houver autorização semântica para começar.
 ```
+
+Se o Diretor já havia dito `crie e comece`, `quando estiver pronta pode iniciar` ou equivalente, não pedir nova confirmação ritual.
+
+Se pediu somente preparação/criação, parar em `PRONTA`.
 
 ---
 
 # 12 — START
 
-Depois da Auditoria aprovada:
+Usar:
 
 ```text
-START
-→ reancorar o mínimo necessário
-→ reconstruir pacotes separados das Cadeiras
-→ restaurar operação pendente, se houver
-→ caso contrário identificar primeiro ponto aberto
-→ identificar próxima autoria
-→ começar a camada correta
+23-START.md
 ```
 
-Uma Cadeira IA disponível pode tomar a primeira iniciativa quando o espaço aberto permitir.
-
-Se durante a execução surgir resultado material importante ainda não fechado:
+START:
 
 ```text
-→ não usar Juiz ou RNG invisível
-→ Mesa, quando necessário
+→ confirma autorização semântica para começar
+→ reancora o mínimo necessário
+→ reconstrói pacotes separados das Cadeiras
+→ restaura operação pendente, se houver
+→ caso contrário identifica primeiro ponto aberto
+→ identifica próxima autoria ou função
+→ começa a Ficção sem redistribuir autoridade
 ```
+
+A partir do primeiro ponto:
+
+```text
+Cadeira IA disponível
+→ decide e continua.
+
+Personagem do Diretor / executor externo indisponível
+→ Narrador pode apresentar a moldura inicial
+→ parar antes da vontade necessária.
+
+consequência ordinária/evidente
+→ Narrador apresenta e continua.
+
+resultado material importante realmente aberto
+→ Mesa, quando necessária.
+```
+
+Não usar Juiz ou RNG invisível.
 
 Não existe obrigação de começar por ação, conflito ou perigo.
+
+Quando a primeira Ficção realmente for executada:
+
+```text
+STATUS
+PRONTA
+→ EM EXECUÇÃO
+```
 
 ---
 
 # Regra final
 
-> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção com Diretor, Cadeiras, Mesa e Narrador em funções separadas — sem Juiz permanente.**
+> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção exatamente no primeiro ponto aberto, preservando Diretor, Cadeiras, Mesa e Narrador em funções separadas — sem Juiz permanente.**
