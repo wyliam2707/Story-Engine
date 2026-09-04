@@ -52,7 +52,7 @@ definir ações das forças dentro de seu escopo
 usar recursos já existentes
 mover planos persistentes
 escolher prioridades e alvos coerentes
-apresentar fatos adversariais relevantes ao julgamento
+apresentar fatos adversariais relevantes à resolução autoral
 ```
 
 Toda ação exige o que a força realmente possui:
