@@ -87,6 +87,7 @@ Registrar somente decisões já aprovadas.
 Não preencher antecipadamente como fatos:
 
 ```text
+Personagens centrais ainda não aprovadas
 Cadeiras ainda não definidas
 Personagem do Diretor ainda não escolhido
 módulos ainda não discutidos
@@ -116,6 +117,9 @@ material aprovado
 Exemplos:
 
 ```text
+Personagens centrais aprovadas
+→ bloco curto no README.md
+
 ficha aprovada
 → personagens/<nome>.md
 
@@ -165,9 +169,40 @@ A ausência de uma fonte necessária no momento do START é problema de prepara�
 
 ---
 
-# Passo 1 — Personagens e fichas
+# Passo 1 — Personagens centrais
 
-Depois que o processo de criação definir as personagens centrais, criar fichas somente para quem precisa persistir.
+Depois que Nome/Destino estiver concluído, o processo autoral deve definir primeiro **quem sustenta a Premissa no início**.
+
+Seguir:
+
+```text
+15-CRIACAO-PERSONAGENS-CENTRAIS.md
+```
+
+Quando o núcleo for aprovado, registrar no `README.md` apenas uma identificação curta:
+
+```text
+## Personagens centrais
+
+- Nome — papel estrutural curto.
+- Nome — papel estrutural curto.
+```
+
+Não transformar essa seção em ficha resumida.
+
+```text
+README
+→ quem está no centro da obra.
+
+FICHA
+→ quem cada pessoa é.
+```
+
+---
+
+# Passo 2 — Fichas
+
+Somente depois que as personagens centrais necessárias estiverem aprovadas, construir suas fichas.
 
 Seguir:
 
@@ -186,9 +221,11 @@ Uma ficha deve permitir que outro executor reconstrua a mesma pessoa sem depende
 
 Personagens secundárias podem receber ficha depois, quando adquirirem relevância persistente.
 
+Não criar ficha apenas porque uma pessoa foi mencionada na Premissa ou pode aparecer futuramente.
+
 ---
 
-# Passo 2 — Direção
+# Passo 3 — Direção
 
 Criar `direcao.md` quando já existir material autoral suficiente para distinguir:
 
@@ -212,7 +249,7 @@ Não registrar como Direção uma hipótese ainda em consulta.
 
 ---
 
-# Passo 3 — Autoridades e políticas
+# Passo 4 — Autoridades e políticas
 
 À medida que forem definidas, registrar no `README.md`:
 
@@ -267,7 +304,7 @@ INDICADOR OPERACIONAL: SILENCIOSO
 
 ---
 
-# Passo 4 — Mesa inicial, quando necessária
+# Passo 5 — Mesa inicial, quando necessária
 
 Durante a preparação, a Mesa pode ser usada quando já houver informação suficiente para uma consulta significativa.
 
@@ -289,7 +326,7 @@ operacao.md
 
 ---
 
-# Passo 5 — Estado inicial
+# Passo 6 — Estado inicial
 
 Criar `estado.md` apenas quando o ponto inicial da Ficção já estiver definido.
 
@@ -322,7 +359,7 @@ Não colocar hipótese de Mesa no Estado.
 
 ---
 
-# Passo 6 — Mundo necessário
+# Passo 7 — Mundo necessário
 
 Criar `mundo/` somente quando a proposta depender de fatos externos estáveis que precisam persistir.
 
@@ -332,7 +369,7 @@ Detalhes neutros podem surgir posteriormente por criação emergente conforme `0
 
 ---
 
-# Passo 7 — Módulos opcionais
+# Passo 8 — Módulos opcionais
 
 Ativar somente o que a obra realmente usa:
 
@@ -347,7 +384,7 @@ Módulo inativo não produz arquivo nem comportamento por hábito.
 
 ---
 
-# Passo 8 — Auditoria de início
+# Passo 9 — Auditoria de início
 
 Antes de começar a Ficção, confirmar:
 
@@ -355,6 +392,7 @@ Antes de começar a Ficção, confirmar:
 [ ] nome e slug definidos;
 [ ] README.md existe e STATUS = EM PREPARAÇÃO ou equivalente;
 [ ] Premissa e Estilo/Tom aprovados estão preservados;
+[ ] Personagens centrais necessárias estão aprovadas e identificadas;
 [ ] Diretor e Narrador/Juiz estão definidos;
 [ ] Cadeiras iniciais e executores necessários estão definidos;
 [ ] Personagem do Diretor está corretamente atribuído, se houver;
@@ -401,4 +439,4 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 # Regra final
 
-> **A pasta nasce quando Nome e Destino estão definidos. O README é sua âncora inicial. Depois disso, a preparação aprovada é persistida progressivamente em fichas, Direção, Estado e demais fontes necessárias. A existência do workspace não significa que a história já começou; apenas START transforma a preparação em Ficção executável.**
+> **A pasta nasce quando Nome e Destino estão definidos. Depois, o W4D identifica primeiro quem está no centro da obra, constrói fichas apenas para quem precisa persistir e completa progressivamente Direção, autoridades, Estado e demais fontes. A existência do workspace não significa que a história já começou; apenas START transforma a preparação em Ficção executável.**
