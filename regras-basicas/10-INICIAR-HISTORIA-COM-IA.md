@@ -51,9 +51,12 @@ Etapas formalizadas:
 
 5. FICHAS
 → 16-CRIACAO-FICHAS.md
+
+6. AUTORIDADES / CADEIRAS / EXECUTORES
+→ 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
 ```
 
-Depois das Fichas iniciais suficientes, as etapas seguintes completam autoridades, Cadeiras, executores, Direção, políticas, mundo necessário, Estado inicial, Auditoria de preparação e START.
+Depois das Autoridades aprovadas, as etapas seguintes consolidam Direção, políticas, mundo necessário, Estado inicial, Auditoria de preparação e START.
 
 > **Não pular uma etapa autoral separada apenas porque a IA consegue inventar uma solução plausível.**
 
@@ -259,7 +262,81 @@ Quando todas as fichas necessárias para a abertura estiverem suficientes:
 ```text
 FICHAS INICIAIS
 → SUFICIENTES
-→ seguir para AUTORIDADES / CADEIRAS / EXECUTORES e consolidação da DIREÇÃO
+→ carregar 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
+```
+
+---
+
+# Etapa 6 — Autoridades / Cadeiras / Executores
+
+Carregar:
+
+```text
+17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
+```
+
+Esta etapa responde:
+
+> **Quem possui cada vontade e quem executa cada autoridade quando a Ficção começar?**
+
+A ordem conceitual é:
+
+```text
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
+```
+
+Definir, quando necessário:
+
+```text
+DIRETOR
+NARRADOR / JUIZ
+PERSONAGEM DO DIRETOR, se houver
+CADEIRAS persistentes necessárias
+EXECUTOR de cada Cadeira
+limites de delegação, quando existirem
+```
+
+Na configuração mais comum:
+
+```text
+DIRETOR
+→ HUMANO.
+
+NARRADOR / JUIZ
+→ IA.
+
+CADEIRAS não atribuídas ao Diretor
+→ IA.
+```
+
+Mas não escolher silenciosamente qual personagem pertence ao Diretor.
+
+Se isso ainda estiver aberto e já for necessário, perguntar somente:
+
+> **Você quer controlar diretamente alguma das personagens centrais, ou deixamos as Cadeiras delas com a IA?**
+
+Se o contexto já resolveu a atribuição, apenas organizar e registrar.
+
+A configuração deve permitir reconhecer a próxima autoria:
+
+```text
+próxima vontade pertence a Cadeira IA disponível
+→ trocar de escopo e continuar.
+
+próxima vontade pertence ao Personagem do Diretor
+→ aguardar o Diretor, salvo Direção ou delegação suficiente.
+```
+
+Quando aprovada:
+
+```text
+AUTORIDADES / CADEIRAS / EXECUTORES
+→ APROVADOS
+→ registrar no README.md
+→ seguir para DIREÇÃO / POLÍTICAS / configuração restante
 ```
 
 ---
@@ -290,6 +367,9 @@ Personagens centrais aprovadas
 
 ficha aprovada
 → personagens/<nome>.md
+
+Autoridades aprovadas
+→ README.md
 
 Direção construída
 → direcao.md
@@ -328,42 +408,34 @@ Isso significa sintetizar quando já existe material e perguntar somente quando 
 
 ---
 
-# Autoridades
+# Autoridades são configuração, não personalidade
 
-Durante a criação, identificar quando necessário:
-
-```text
-DIRETOR
-NARRADOR / JUIZ
-PERSONAGEM DO DIRETOR, se houver
-CADEIRAS
-EXECUTORES
-POLÍTICA DE MESA
-```
-
-Na configuração mais comum com IA:
+Não colocar na ficha:
 
 ```text
-DIRETOR
-→ humano.
-
-NARRADOR / JUIZ
-→ IA.
-
-CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
-→ IA, salvo indicação diferente.
+Executor: IA
+Executor: humano
+Personagem do Diretor
+Cadeira consultiva
 ```
 
-A etapa de Personagens Centrais pode identificar preliminarmente quem pertence ao Diretor. A configuração definitiva de Cadeiras e executores deve usar as pessoas já construídas nas fichas.
+Essas informações pertencem ao `README.md` da obra.
 
 ```text
-PESSOA
-→ FICHA
-→ CADEIRA
-→ EXECUTOR
+FICHA
+→ quem a pessoa é.
+
+README
+→ quem possui e executa a autoridade.
 ```
 
-Executor continua fora da ficha.
+Uma mesma IA pode executar Narrador e várias Cadeiras, mas deve preservar escopos distintos.
+
+```text
+MESMO EXECUTOR
+≠ MESMA CADEIRA
+≠ MESMA CONSCIÊNCIA FICCIONAL
+```
 
 ---
 
@@ -383,6 +455,16 @@ Padrão quando nada for definido:
 
 ```text
 MESA: SOB DEMANDA
+```
+
+Configurar Cadeiras não define automaticamente a política de Mesa.
+
+```text
+CADEIRA
+→ quem possui autoria da personagem.
+
+POLÍTICA DE MESA
+→ quando essa autoria é consultada fora da Ficção.
 ```
 
 ---
@@ -415,7 +497,7 @@ Diretor propõe
 → Diretor ajusta, cancela ou confirma
 ```
 
-Antes de uma personagem estar suficientemente construída, a IA não deve fingir que sua Cadeira já possui personalidade detalhada que ainda não existe.
+Uma Personagem do Diretor pode possuir Cadeira consultiva sem transferir sua vontade para a IA.
 
 ---
 
@@ -439,6 +521,7 @@ START
 → assumir Narrador/Juiz
 → reconstruir pacotes separados das Cadeiras
 → identificar o primeiro ponto aberto
+→ identificar quem possui a próxima autoria
 → começar a camada correta
 ```
 
@@ -458,7 +541,7 @@ não pode ser inferida sem tomar decisão que pertence ao Diretor
 
 Não pedir detalhes irrelevantes apenas para preencher formulários.
 
-Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais, Fichas ou outra etapa definida separadamente.
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais, Fichas, Autoridades ou outra etapa definida separadamente.
 
 ---
 
@@ -487,6 +570,7 @@ FICHAS
 → 16-CRIACAO-FICHAS.md
 ↓
 AUTORIDADES / CADEIRAS / EXECUTORES
+→ 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
 ↓
 DIREÇÃO / POLÍTICAS / MUNDO NECESSÁRIO
 ↓
@@ -503,4 +587,4 @@ As etapas posteriores podem receber arquivos próprios conforme forem refinadas.
 
 # Regra final
 
-> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas como etapas autorais separadas. A pessoa é construída antes da Cadeira que a preservará; o workspace recebe somente material aprovado; e a Ficção só começa depois da preparação necessária e do START.**
+> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais, Fichas e Autoridades como etapas autorais separadas. A pessoa é construída antes da Cadeira; a Cadeira é separada do Executor; o README preserva a configuração; e a Ficção só começa depois da preparação necessária e do START.**
