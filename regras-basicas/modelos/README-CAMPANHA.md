@@ -5,7 +5,13 @@ STATUS
 
 ## Proposta curta
 
-[Uma ou duas frases que permitam reconhecer que história está sendo construída.]
+[Premissa aprovada em uma ou duas frases que permitam reconhecer que história está sendo construída.]
+
+## Estilo / Tom
+
+[Resumo aprovado de gênero, tom, ritmo, escala, perspectiva ou limites de apresentação que realmente importem para reconhecer a experiência da obra.]
+
+Não usar esta seção para registrar acontecimentos futuros, decisões de personagem ou clichês importados do gênero.
 
 ## Autoridades
 
@@ -25,6 +31,8 @@ CADEIRAS
 - [Personagem B] → Executor: [HUMANO / IA / OUTRO]
 
 Outras personagens podem receber Cadeira persistente ou eventual quando adquirirem decisão voluntária relevante.
+
+Se alguma dessas definições ainda não existe durante `EM PREPARAÇÃO`, não preencher inventando. O README pode crescer progressivamente conforme as etapas são aprovadas.
 
 ## Política de Mesa
 
@@ -52,7 +60,7 @@ Em qualquer política:
 
 ```text
 Mesa aberta
-→ proposta, opinião de Cadeira e parecer do Narrador não são ficção.
+→ proposta, opinião de Cadeira e parecer do Narrador não são Ficção.
 
 Diretor autoriza execução
 → Mesa fecha e a versão aprovada pode entrar na Ficção.
@@ -106,7 +114,7 @@ Quando útil:
 
 ```text
 [texto]
-→ camada autoral do Diretor fora da ficção.
+→ camada autoral do Diretor fora da Ficção.
 ```
 
 A semântica, a política de Mesa e o modo operacional atual determinam se o conteúdo é Consulta, Auditoria, Direção, Correção, Determinação ou outra operação.
@@ -140,7 +148,22 @@ Então:
 START
 → reancorar
 → identificar primeiro ponto aberto
-→ iniciar a ficção.
+→ iniciar a Ficção.
 ```
 
 Se existir `operacao.md` ativo, `START` ou retomada deve restaurar primeiro a operação pendente em vez de saltar por cima dela.
+
+## Nota de criação progressiva
+
+No nascimento do workspace, este README pode existir apenas com:
+
+```text
+nome
+status EM PREPARAÇÃO
+Proposta curta
+Estilo / Tom
+```
+
+As demais seções podem ser adicionadas conforme forem legitimamente definidas.
+
+> **README incompleto durante preparação é melhor que README preenchido com decisões que o Diretor ainda não tomou.**
