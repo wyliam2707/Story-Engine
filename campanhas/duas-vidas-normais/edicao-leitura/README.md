@@ -46,7 +46,19 @@ A densidade acompanha a função da cena:
 - intimidade recorrente pode ser indicada por rotina, humor, roupas, proximidade ou consequências cotidianas sem repetir uma cena completa;
 - primeiros momentos, discussões, revelações e outras mudanças importantes podem receber tratamento mais detalhado.
 
-Os cortes de capítulo servem à história, não ao momento em que uma sessão foi interrompida ou salva. Nesta primeira revisão, os cortes existentes foram preservados quando já formavam unidades narrativas fortes.
+## Cortes de capítulo
+
+> **A sessão termina onde o Diretor para. O capítulo termina onde a história pede.**
+
+Salvar a campanha não cria automaticamente um encerramento literário.
+
+Na segunda passada editorial, os dez capítulos foram relidos como sequência contínua. Cortes que já formavam unidades narrativas fortes foram preservados; pontos que denunciavam diretamente uma interrupção operacional foram corrigidos.
+
+Em especial:
+
+- o Capítulo 2 recebeu um fechamento próprio, em vez de simplesmente terminar porque Daniel continuou estudando;
+- o encontro do Conclave que preparava a investigação foi movido do fim do Capítulo 6 para o início do Capítulo 7, eliminando o corte artificial entre a pergunta da Vigia e a resposta de Myrddin;
+- o Capítulo 10 continua terminando no mesmo ponto canônico — antes da reunião formal ser jogada — mas agora fecha literariamente o arco da revelação das identidades, sem fingir que a história terminou ali.
 
 ## Capítulos
 
