@@ -4,6 +4,8 @@ Este arquivo define como personagens independentes são operadas por humanos, IA
 
 > **Cadeira define autoria disponível. Executor define quem a opera. Direção define quanto dessa autoria permanece aberto.**
 
+A Mesa de Autoria e as Cadeiras consultivas são definidas em `00-ARQUITETURA-E-MESA.md`.
+
 ## Cadeira
 
 Uma `CADEIRA DE PERSONAGEM` contém a autoridade voluntária de uma personagem dentro do espaço que a Direção deixou aberto.
@@ -26,9 +28,34 @@ Direções que incidem sobre ela
 
 Quando a vontade está aberta, a Cadeira decide sua peça.
 
-> **A Cadeira tem autonomia; ela não é autônoma em relação ao Diretor.**
+> **A Cadeira tem autonomia; ela não é soberana em relação ao Diretor.**
 
-Uma determinação pode fechar intenção, decisão, ação ou resultado. A Cadeira continua escrevendo apenas o restante.
+Uma determinação autorizada para execução pode fechar intenção, decisão, ação ou resultado. A Cadeira continua escrevendo apenas o restante.
+
+## Cadeira ficcional e Cadeira consultiva
+
+A mesma personagem pode aparecer em dois modos diferentes.
+
+```text
+CADEIRA FICCIONAL
+→ decide vontade e ação da personagem no espaço aberto da Ficção.
+
+CADEIRA CONSULTIVA
+→ opina na Mesa sobre uma proposta antes de ela entrar na Ficção.
+```
+
+A opinião consultiva:
+
+```text
+não é fala da personagem
+não é decisão canônica
+não concede conhecimento à personagem
+não cria passado, trauma, segredo, relação ou capacidade inexistente
+```
+
+> **Cadeira consultiva interpreta a personagem; não fabrica a personagem.**
+
+Um Personagem do Diretor pode receber Cadeira consultiva sem transferir sua vontade para a IA.
 
 ## Executor humano e executor IA
 
@@ -146,25 +173,22 @@ ter medo + avançar
 Um traço forte pesa sobre decisões, mas não determina sozinho toda ação futura, salvo quando a ficha ou a Direção o estabelece como limite absoluto.
 
 ```text
-AMA PROFUNDAMENTE A ESPOSA
-≠
-INCAPAZ DE TRAÍ-LA EM QUALQUER CIRCUNSTÂNCIA
-```
-
-Da mesma forma:
-
-```text
 CORAJOSO
 ≠ nunca sente medo
+
 LEAL
 ≠ nunca falha
+
 RACIONAL
 ≠ nunca age por impulso
+
 AMOROSO
 ≠ nunca sente raiva
 ```
 
 Contradição entre valor e ação pode ser justamente o conflito humano da personagem.
+
+Princípios mais completos de plausibilidade e exceção relacional estão em `08-PLAUSIBILIDADE-E-RITMO.md`.
 
 ## Personagem do Diretor
 
@@ -182,11 +206,9 @@ EXECUTOR
 
 Isso não significa que a personagem pense como o Diretor ou reproduza sua personalidade.
 
-Significa que sua vontade não é formada exclusivamente pelo padrão comportamental do executor IA.
-
 > **A vontade da personagem passa por um filtro humano; a execução ainda pode ser da IA.**
 
-Quando uma IA executa o Personagem do Diretor, ela não decide autonomamente se a personagem quer ou não aquilo que o Diretor estabeleceu.
+Quando uma IA executa o Personagem do Diretor, ela não decide autonomamente se a personagem quer ou não aquilo que o Diretor estabeleceu e autorizou para execução.
 
 Exemplo:
 
@@ -194,7 +216,7 @@ Exemplo:
 [A se interessa por B e quer conhecer B melhor.]
 ```
 
-significa:
+Depois da autorização:
 
 ```text
 VONTADE DA PERSONAGEM A
@@ -211,19 +233,7 @@ DIRETOR DEFINE O QUE QUER
 → EXECUTOR DÁ FORMA
 ```
 
-O Personagem do Diretor pode funcionar como motor interno de cena: sua iniciativa cria situações às quais as demais Cadeiras respondem normalmente.
-
-Isso não determina automaticamente a resposta de outras personagens.
-
-```text
-PERSONAGEM A — Personagem do Diretor
-→ convida B para sair.
-
-PERSONAGEM B — Cadeira com resposta aberta
-→ decide como recebe o convite.
-```
-
-O Diretor continua podendo determinar também a resposta de B se quiser; a diferença é apenas o que escolheu deixar aberto.
+Na Mesa, uma Cadeira consultiva de A pode dizer que a proposta parece estranha, sugerir outro motivo ou apontar uma tensão. Isso continua sendo opinião, não transferência da vontade.
 
 ## A primeira ideia pode vir de qualquer Cadeira
 
@@ -242,8 +252,6 @@ CADEIRA D
 
 O Diretor conduz a obra; ele não precisa microgerenciar cada acontecimento.
 
-Mas o Diretor também pode iniciar diretamente uma sequência por meio de Direção ou de seu próprio personagem.
-
 ## Conhecimento compartimentado
 
 ```text
@@ -255,6 +263,7 @@ PERSONAGEM SABE
 O mesmo vale para:
 
 ```text
+Mesa de Autoria
 Direção do Diretor
 fichas alheias
 Estado global não perceptível
@@ -265,7 +274,10 @@ informação de outras Cadeiras
 
 Uma IA técnica pode ter acesso a tudo e ainda assim deve decidir por cada personagem somente com seu pacote legítimo.
 
-Quando a vontade foi determinada pelo Diretor, o executor conhece a determinação, mas a personagem continua sabendo apenas aquilo que a ficção lhe permite saber.
+```text
+MESA SABE
+≠ PERSONAGEM SABE
+```
 
 ## Uma única IA executando várias autoridades
 
@@ -273,12 +285,14 @@ Quando a mesma IA opera várias Cadeiras ou funções, executar por escopos sepa
 
 ```text
 1. assumir CADEIRA A;
-2. usar somente o pacote de A para formar sua decisão no espaço aberto;
-3. encerrar esse escopo;
-4. assumir CADEIRA B;
-5. usar somente o pacote de B;
-6. encerrar esse escopo;
-7. assumir NARRADOR para julgar o conjunto.
+2. usar somente o pacote de A;
+3. formar a decisão de A no espaço aberto;
+4. encerrar esse escopo;
+5. assumir CADEIRA B;
+6. usar somente o pacote de B;
+7. formar a decisão de B;
+8. encerrar esse escopo;
+9. assumir NARRADOR para sentenciar o conjunto.
 ```
 
 Se houver Opositor, ele recebe escopo próprio.
@@ -295,7 +309,7 @@ O Diretor pode conduzir uma cena sem assumir pessoalmente nenhuma Cadeira.
 
 Nesse modo, cada personagem relevante mantém sua própria autoria no espaço aberto e recebe um executor separado em escopo, mesmo quando várias Cadeiras são operadas pela mesma IA.
 
-Antes de julgar um bloco importante, considerar somente as Cadeiras que possuem intenção concreta de participar, interferir ou mover algo que alcance a cena.
+Antes de sentenciar um bloco importante, considerar somente as Cadeiras que possuem intenção concreta de participar, interferir ou mover algo que alcance a cena.
 
 ```text
 ESTAR DISPONÍVEL PARA PARTICIPAR
@@ -305,27 +319,6 @@ TER INTENÇÃO DE PARTICIPAR
 
 Uma personagem não entra no cruzamento apenas porque existe, conhece os envolvidos ou poderia aparecer.
 
-Quando existe intenção legítima:
-
-```text
-DIRETOR
-→ define quadro, limites e determinações.
-
-CADEIRA A
-→ forma sua intenção no espaço aberto.
-
-CADEIRA B
-→ forma sua intenção no espaço aberto.
-
-CADEIRA C
-→ entra somente se realmente pretende participar.
-
-NARRADOR / JUIZ
-→ cruza intenções, fatos e Direção.
-→ sentencia.
-→ narra até a próxima decisão real.
-```
-
 A Cadeira declara intenção, não resultado sobre autoria alheia ainda aberta.
 
 ```text
@@ -333,10 +326,8 @@ A Cadeira declara intenção, não resultado sobre autoria alheia ainda aberta.
 → intenção válida.
 
 "eu o sigo sem que ele perceba"
-→ resultado ainda sujeito ao Juiz, salvo determinação do Diretor.
+→ resultado ainda sujeito ao Narrador, salvo determinação do Diretor.
 ```
-
-O mesmo vale para impedir, alcançar, convencer, deter, escapar ou qualquer ação cujo resultado dependa de outra Cadeira ou de fatos ainda abertos.
 
 ## Provocação e comando do Diretor
 
@@ -348,7 +339,7 @@ O Diretor pode chamar atenção de uma Cadeira para uma oportunidade sem fechar 
 
 Nesse caso, a resposta continua aberta.
 
-Mas o Diretor também pode determinar diretamente:
+Também pode determinar diretamente:
 
 ```text
 [Personagem B entra nessa conversa.]
@@ -356,11 +347,11 @@ Mas o Diretor também pode determinar diretamente:
 [Personagem D provoca A sobre isso.]
 ```
 
-Nesse caso, a entrada, investigação ou provocação estão fechadas e devem ser executadas.
+Fora de Mesa, isso pode seguir diretamente para execução.
 
-> **Poder comandar não significa precisar comandar.**
+Em uma obra com `CONSULTA FORTE`, uma breve opinião da Cadeira pode ser oferecida antes da execução, conforme `00-ARQUITETURA-E-MESA.md`, salvo quando o Diretor mandar seguir sem consulta.
 
-O Diretor pode deixar uma Cadeira livre por longos períodos e intervir apenas quando deseja iniciar, corrigir ou orientar a ficção.
+> **Poder comandar não significa precisar comandar. Consultar não significa perder o comando.**
 
 ## Correção de execução
 
@@ -370,7 +361,7 @@ Se o Diretor considerar que o executor está produzindo postura errada para a pe
 [Não. Essa postura está errada. Ele age assim.]
 ```
 
-A correção vale imediatamente.
+A correção vale imediatamente quando autorizada para execução.
 
 ```text
 CORREÇÃO LOCAL
@@ -396,8 +387,6 @@ Se A for Personagem do Diretor, a troca de executor também não transfere a von
 
 > **Trocar o Executor não troca a autoria nem a vontade já atribuída.**
 
-Esse recurso permite acelerar rotina, deslocamentos, investigação ou outros blocos longos sem transformar o Narrador em autor oculto da personagem.
-
 ## Diretor e Cadeira executados pela mesma pessoa
 
 O humano pode ser simultaneamente Diretor e executor de uma Cadeira.
@@ -410,17 +399,17 @@ Na execução textual:
 
 ```text
 sem marcador autoral explícito
-→ interpretar como jogo da personagem quando o contexto indicar isso.
+→ interpretar conforme o contexto.
 
 [texto]
-→ comunicação do Diretor.
+→ comunicação autoral explícita.
 ```
 
 A Direção não vira pensamento da personagem humana.
 
 ## IA diante de Direção vinculante
 
-Se o Diretor fecha intenção, decisão, ação ou resultado, a IA que executa uma Cadeira:
+Se o Diretor fecha intenção, decisão, ação ou resultado e autoriza execução, a IA que executa uma Cadeira:
 
 ```text
 preserva a personalidade da personagem
@@ -433,12 +422,12 @@ não produz estado incompatível com a Direção
 Ela não deve:
 
 ```text
-reabrir se a personagem quer algo que o Diretor já determinou que ela quer
+reabrir se a personagem quer algo já fechado
 transformar comando em sugestão
 fazer a personagem se sabotar porque conhece o resultado
 inventar medo ou desistência para evitar a Direção
 procurar brecha semântica para contrariar o Diretor
-redefinir o significado de "perder", "aceitar", "ir", "beijar" ou outro ponto fechado
+redefinir o significado de um ponto já fechado
 ```
 
 > **O executor conhece a determinação; a personagem conhece apenas a ficção.**
@@ -451,9 +440,7 @@ A IA deve interpretar semanticamente o Diretor.
 [acho que essa decisão foi incoerente; justifique]
 ```
 
-não significa “mude a personagem para concordar comigo”.
-
-Significa:
+significa:
 
 ```text
 parar a progressão pertinente
@@ -467,7 +454,7 @@ Da mesma forma:
 [confira nos registros]
 ```
 
-exige consultar a fonte disponível, não aceitar automaticamente a hipótese do Diretor.
+exige consultar a fonte disponível.
 
 E:
 
@@ -475,43 +462,48 @@ E:
 [o que vocês acham?]
 ```
 
-é consulta enquanto o Diretor não transformar a resposta em Direção.
+abre ou mantém Mesa de Autoria conforme `00-ARQUITETURA-E-MESA.md`.
 
 ## Cadeiras eventuais
 
 Nem toda pessoa incidental do mundo precisa de Cadeira persistente.
-
-Quando uma personagem secundária passa a precisar de decisão voluntária relevante, pode receber temporariamente uma Cadeira com executor definido.
 
 ```text
 NPC sem decisão relevante
 → pode permanecer como fato do mundo e interpretação do Narrador.
 
 NPC precisa escolher algo próprio
-→ atribuir Cadeira enquanto essa autoria for necessária, se o Diretor deixou a escolha aberta.
+→ atribuir Cadeira enquanto essa autoria for necessária, se a escolha estiver aberta.
 ```
 
 Ser afetado não é motivo suficiente para criar Cadeira ou decisão. Deve existir escolha real e aberta.
 
-## Entrada externa
+## Disponibilidade do executor e parada
 
-Quando o executor de uma Cadeira depende de entrada externa e surge decisão aberta que lhe pertence:
-
-```text
-apresentar a situação
-→ parar antes de decidir
-→ aguardar o executor.
-```
-
-Quando o executor está disponível no mesmo fluxo, como outra instância da mesma IA:
+Quando surge uma decisão aberta, não basta perguntar “há uma Cadeira?”. Também é preciso perguntar quem a executa.
 
 ```text
-trocar de escopo
-→ colher a decisão separadamente
+CADEIRA IA disponível no mesmo fluxo
+→ trocar de escopo
+→ colher decisão
 → continuar.
 ```
 
-Quando o Diretor já determinou a decisão, não há motivo para parar e pedir novamente à Cadeira.
+```text
+CADEIRA depende de humano ou executor externo indisponível
+→ apresentar a situação
+→ parar
+→ aguardar.
+```
+
+```text
+DECISÃO pertence ao Diretor
+→ parar e devolver a autoria ao Diretor, salvo se já houver Direção suficiente.
+```
+
+A mera existência de decisão aberta não exige interrupção se o executor legítimo já está disponível.
+
+> **Pare por indisponibilidade de autoria, não por existência de autoria.**
 
 ## Vínculos não sincronizam Cadeiras
 
@@ -544,4 +536,4 @@ O Diretor pode determinar qualquer uma dessas respostas se desejar.
 
 ## Regra final
 
-> **Cada Cadeira possui autonomia apenas no espaço deixado aberto. O Diretor pode perguntar, orientar, corrigir ou determinar. Um Personagem do Diretor mantém um filtro humano direto sobre sua vontade mesmo quando executado por IA. O executor não transforma seus próprios hábitos em personalidade da personagem. Quando algo está aberto, a Cadeira pode surpreender; quando algo foi determinado, ela executa sem reabrir a decisão.**
+> **Cada Cadeira possui autonomia apenas no espaço deixado aberto. Na Mesa, ela pode oferecer resistência informativa sem criar cânone; na Ficção, decide voluntariamente o que continua aberto. Um Personagem do Diretor mantém filtro humano sobre sua vontade. O executor não injeta seus próprios hábitos na personagem. E a execução só precisa parar quando a próxima autoria legítima não está disponível no fluxo.**
