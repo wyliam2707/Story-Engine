@@ -1,10 +1,10 @@
 # 10 — Iniciar uma História Nova com IA
 
-Este arquivo define **somente o ramo NOVA HISTÓRIA**.
+Este arquivo coordena **somente o ramo NOVA HISTÓRIA**.
 
-Ele deve ser carregado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`, quando o usuário escolheu criar uma obra nova ou quando isso já estava explícito no pedido.
+Ele deve ser usado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`, quando criar uma obra nova já foi escolhido ou está inequívoco.
 
-> **BOOT escolhe o caminho. Este arquivo coordena a criação da nova história.**
+> **BOOT escolhe o caminho. Este arquivo coordena as etapas. Cada etapa específica define seu próprio trabalho.**
 
 Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM-IA.md`.
 
@@ -12,27 +12,52 @@ Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM
 
 # Condição de entrada
 
-Antes de usar este arquivo:
+Antes de usar este ramo:
 
 ```text
-usuário disse que quer criar uma história nova
+usuário escolheu criar uma história nova
 OU
-pedido já deixa isso inequivocamente claro
+pedido já deixa isso inequivocamente claro.
 ```
 
-Se a operação ainda estiver aberta, voltar ao BOOT e perguntar:
+Se isso ainda estiver aberto, voltar ao BOOT e perguntar:
 
 > **Você quer criar uma história nova ou continuar uma história existente?**
 
-Não pedir Premissa, Estilo, fichas ou nome antes dessa bifurcação estar resolvida.
+Não pedir Premissa, Estilo, fichas ou nome antes de resolver essa bifurcação.
 
 ---
 
-# Processo por etapas
+# Princípio do processo
 
-A criação não acontece em uma única resposta.
+A criação acontece por etapas autorais separadas.
 
-Etapas formalizadas:
+As etapas existem para evitar que a IA transforme uma ideia curta em obra inteira sem participação do Diretor.
+
+Ao mesmo tempo:
+
+> **Etapa separada não significa formulário obrigatório.**
+
+Quando uma etapa já estiver semanticamente resolvida pelo material do Diretor:
+
+```text
+organizar
+→ propor ou registrar
+→ confirmar somente quando necessário
+→ avançar.
+```
+
+Regra geral:
+
+> **Base suficiente → propor. Falta realmente decisiva → perguntar.**
+
+Não repetir perguntas já respondidas.
+
+Não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
+
+---
+
+# Pipeline oficial de NOVA HISTÓRIA
 
 ```text
 1. PREMISSA
@@ -55,63 +80,58 @@ Etapas formalizadas:
 
 7. DIREÇÃO
 → 18-CRIACAO-DIRECAO.md
+
+8. POLÍTICAS OPERACIONAIS
+→ 19-CRIACAO-POLITICAS-OPERACIONAIS.md
+
+9. MUNDO NECESSÁRIO
+→ 20-CRIACAO-MUNDO-NECESSARIO.md
+
+10. ESTADO INICIAL
+→ modelos/ESTADO.md
+
+11. AUDITORIA DE PREPARAÇÃO
+
+12. START
 ```
-
-Depois da Direção suficiente para início, completar apenas o que ainda for necessário:
-
-```text
-políticas operacionais
-mundo necessário
-Estado inicial
-Auditoria de preparação
-START
-```
-
-> **As etapas separam decisões e fontes; não criam burocracia ritual.**
-
-Quando uma etapa já estiver semanticamente resolvida pelo material do Diretor, a IA deve sintetizar, confirmar somente quando necessário e avançar.
 
 ---
 
-# Etapa 1 — Premissa
+# 1 — Premissa
 
-Carregar `12-CRIACAO-PREMISSA.md`.
-
-Responde:
+A Premissa responde:
 
 > **Que história estamos tentando construir?**
 
-Se o Diretor já trouxe uma ideia suficiente, sintetizar e devolver para revisão.
+Não transformar Premissa em sinopse completa.
 
-Se trouxe apenas intenção vaga, fazer uma pergunta autoral de alto valor por vez ou oferecer poucas alternativas realmente distintas.
+Quando aprovada:
 
 ```text
 PREMISSA: APROVADA
-→ 13-CRIACAO-ESTILO-E-TOM.md
+→ Estilo / Tom
 ```
 
 ---
 
-# Etapa 2 — Estilo / Tom
-
-Carregar `13-CRIACAO-ESTILO-E-TOM.md`.
+# 2 — Estilo / Tom
 
 Responde:
 
 > **Como queremos experimentar e apresentar esta história?**
 
-Informação já dada deve ser organizada, não perguntada novamente.
+Pode definir gênero, tom, ritmo, escala, perspectiva ou limites de apresentação quando realmente importarem.
+
+Não usar gênero para importar clichês como fatos.
 
 ```text
 ESTILO / TOM: APROVADO
-→ 14-CRIACAO-NOME-E-DESTINO.md
+→ Nome / Destino
 ```
 
 ---
 
-# Etapa 3 — Nome / Destino Canônico
-
-Carregar `14-CRIACAO-NOME-E-DESTINO.md`.
+# 3 — Nome / Destino Canônico
 
 Definir:
 
@@ -123,59 +143,39 @@ DESTINO → campanhas/<slug>/
 
 Antes de criar, verificar se o slug já existe.
 
-No nascimento do workspace, criar apenas a âncora:
+Ao nascer o workspace, criar primeiro:
 
 ```text
 campanhas/<slug>/README.md
 ```
 
-com o que já foi aprovado:
+com somente o que já foi aprovado.
 
 ```text
-nome
-STATUS → EM PREPARAÇÃO
-Premissa
-Estilo / Tom
-```
-
-Criar a pasta não inicia a Ficção.
-
-```text
-NOME / DESTINO: CONCLUÍDO
-→ 15-CRIACAO-PERSONAGENS-CENTRAIS.md
+DESTINO CRIADO
+≠ FICÇÃO INICIADA
 ```
 
 ---
 
-# Etapa 4 — Personagens Centrais
+# 4 — Personagens Centrais
 
-Carregar `15-CRIACAO-PERSONAGENS-CENTRAIS.md`.
-
-Responde:
-
-> **Quem precisa existir no centro desta obra para que a Premissa funcione?**
-
-Definir somente o núcleo inicial suficiente.
+Definir quem precisa sustentar materialmente a Premissa no início.
 
 ```text
 PERSONAGEM CENTRAL
 ≠ FICHA CONCLUÍDA
 ```
 
-Não criar elenco ornamental nem personalidade automática a partir de função narrativa.
+Não criar elenco ornamental por hábito.
 
-Quando aprovado:
-
-```text
-registrar bloco curto no README.md
-→ 16-CRIACAO-FICHAS.md
-```
+Depois da aprovação, registrar apenas um bloco curto no `README.md`.
 
 ---
 
-# Etapa 5 — Fichas
+# 5 — Fichas
 
-Carregar:
+Usar:
 
 ```text
 16-CRIACAO-FICHAS.md
@@ -183,15 +183,14 @@ Carregar:
 modelos/FICHA.md
 ```
 
-Construir preferencialmente uma personagem por vez:
+Preferir uma personagem por vez:
 
 ```text
 reunir o que já sabemos
 → identificar lacunas realmente importantes
-→ perguntar somente quando necessário
-→ propor a pessoa
-→ consolidar em ficha
-→ Diretor corrige ou aprova
+→ propor
+→ revisar
+→ aprovar
 → salvar
 ```
 
@@ -200,25 +199,13 @@ FICHA SUFICIENTE
 ≠ FICHA EXAUSTIVA
 ```
 
-Não inventar trauma, segredo, fraqueza, romance passado, poder ou drama para preencher campos.
-
-Quando as fichas necessárias à abertura estiverem suficientes:
-
-```text
-→ 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
-```
+Não inventar trauma, segredo, fraqueza, poder ou drama apenas para preencher campos.
 
 ---
 
-# Etapa 6 — Autoridades / Cadeiras / Executores
+# 6 — Autoridades / Cadeiras / Executores
 
-Carregar `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md`.
-
-Responde:
-
-> **Quem possui cada vontade e quem executa cada autoridade quando a Ficção começar?**
-
-Ordem conceitual:
+Definir quem possui cada vontade e quem opera cada autoridade.
 
 ```text
 PESSOA
@@ -227,18 +214,7 @@ PESSOA
 → EXECUTOR
 ```
 
-Definir, quando necessário:
-
-```text
-DIRETOR
-NARRADOR / JUIZ
-PERSONAGEM DO DIRETOR, se houver
-CADEIRAS persistentes necessárias
-EXECUTOR de cada autoridade
-limites de delegação, quando existirem
-```
-
-Na configuração mais comum:
+Na configuração comum:
 
 ```text
 DIRETOR → HUMANO
@@ -253,118 +229,40 @@ DELEGAR EXECUÇÃO
 ≠ TRANSFERIR VONTADE
 ```
 
-Quando aprovado:
+Registrar a configuração aprovada no `README.md`.
+
+---
+
+# 7 — Direção
+
+Usar `18-CRIACAO-DIRECAO.md`.
+
+A Direção inicial preserva o que o Diretor já decidiu e ainda precisa continuar válido.
+
+> **Direção não é um plano obrigatório do futuro.**
+
+Se não há arco, final ou trajetória futura decididos, eles permanecem abertos.
+
+Uma Direção mínima é válida.
 
 ```text
-registrar no README.md
-→ 18-CRIACAO-DIRECAO.md
+DIRETOR NÃO DECIDIU
+→ NÃO PRECISA PREENCHER.
+```
+
+Salvar em:
+
+```text
+campanhas/<slug>/direcao.md
 ```
 
 ---
 
-# Etapa 7 — Direção
+# 8 — Políticas Operacionais
 
-Carregar:
+Usar `19-CRIACAO-POLITICAS-OPERACIONAIS.md`.
 
-```text
-18-CRIACAO-DIRECAO.md
-01-AUTORIDADE-E-DIRECAO.md
-modelos/DIRECAO.md
-```
-
-A etapa responde:
-
-> **O que o Diretor já decidiu e ainda precisa permanecer válido quando a história começar?**
-
-A Direção inicial **não é planejamento obrigatório do futuro**.
-
-A IA deve consolidar:
-
-```text
-Premissa aprovada
-+
-Estilo / Tom aprovado
-+
-fatos estruturais já fechados
-+
-decisões persistentes ou locais realmente tomadas, se houver
-```
-
-Se o Diretor não decidiu trajetórias futuras:
-
-```text
-Direções Persistentes
-→ nenhuma além das premissas já estabelecidas.
-
-Direções Ativas
-→ nenhuma.
-
-Espaço Aberto
-→ o desenvolvimento permanece aberto fora do que foi explicitamente fechado.
-```
-
-Isso é suficiente.
-
-Não perguntar por obrigação:
-
-```text
-final
-arco completo
-momento de revelação
-quem se apaixona primeiro
-quem vence conflitos futuros
-estrutura de capítulos
-```
-
-> **O Diretor não precisa saber para onde a história vai antes de começar.**
-
-A Direção pode crescer durante a Ficção conforme novas decisões autorais surgirem.
-
-```text
-DIREÇÃO: SUFICIENTE PARA INÍCIO
-→ persistir em direcao.md
-```
-
----
-
-# Persistência progressiva
-
-Depois que o workspace nasce, salvar apenas material aprovado na fonte correta:
-
-```text
-Personagens centrais
-→ README.md
-
-ficha aprovada
-→ personagens/<nome>.md
-
-Autoridades
-→ README.md
-
-Direção suficiente
-→ direcao.md
-
-ponto inicial
-→ estado.md
-
-fato externo estável necessário
-→ mundo/
-```
-
-Se uma etapa ainda aberta precisar sobreviver à perda de contexto:
-
-```text
-operacao.md
-→ preserva o processo pendente sem canonizá-lo.
-```
-
-> **Persistir o que foi decidido. Não antecipar o que ainda está aberto.**
-
----
-
-# Políticas operacionais
-
-Antes do START, registrar no `README.md` quando ainda necessário:
+Definir como o W4D opera nesta obra:
 
 ```text
 POLÍTICA DE MESA
@@ -372,54 +270,53 @@ POLÍTICA DE INDICADOR OPERACIONAL
 MÓDULOS ATIVOS
 ```
 
-## Política de Mesa
-
-Conforme `00-ARQUITETURA-E-MESA.md`:
+Padrões quando o Diretor não demonstra preferência:
 
 ```text
 MESA: SOB DEMANDA
-MESA: CONSULTAR PROPOSTAS
-MESA: CONSULTA FORTE
-```
-
-Padrão quando nada for definido:
-
-```text
-MESA: SOB DEMANDA
-```
-
-## Indicador operacional
-
-```text
 INDICADOR OPERACIONAL: SILENCIOSO
-INDICADOR OPERACIONAL: VISÍVEL
+MÓDULOS: INATIVOS salvo escolha ou necessidade real.
 ```
 
-Padrão:
+> **Padrões existem para evitar perguntas desnecessárias.**
 
-```text
-SILENCIOSO
-```
-
-Não transformar essas configurações em personalidade das personagens.
+Registrar no `README.md`.
 
 ---
 
-# Mundo necessário
+# 9 — Mundo Necessário
 
-Criar `mundo/` somente quando fatos externos estáveis realmente precisarem persistir antes do início.
+Usar `20-CRIACAO-MUNDO-NECESSARIO.md`.
+
+Pergunta central:
+
+> **Existe algum fato externo às personagens que precisa estar definido antes do START?**
+
+Resultado válido:
+
+```text
+MUNDO NECESSÁRIO: NENHUM ANTES DO START
+```
 
 Não construir enciclopédia por obrigação.
 
-Cânone externo permitido pode preencher lacunas conforme a configuração da obra, mas decisões locais prevalecem.
+Quando houver fatos realmente necessários:
+
+```text
+campanhas/<slug>/mundo/<assunto>.md
+```
+
+Cânone externo pode preencher lacunas permitidas; decisões locais da obra prevalecem.
 
 ---
 
-# Estado inicial
+# 10 — Estado inicial
 
-Antes do START, criar `estado.md` quando o ponto inicial estiver definido.
+Criar `estado.md` somente quando o ponto inicial da Ficção estiver definido.
 
-Ele deve preservar somente o presente ficcional necessário:
+Usar `modelos/ESTADO.md`.
+
+Preservar somente o presente necessário:
 
 ```text
 momento
@@ -443,7 +340,39 @@ Não colocar futuros desejados no Estado.
 
 ---
 
-# Auditoria de preparação
+# Persistência progressiva
+
+Depois que o workspace existe, salvar somente material aprovado na fonte correta.
+
+```text
+Premissa / Estilo / composição central / autoridades / políticas
+→ README.md
+
+ficha aprovada
+→ personagens/<nome>.md
+
+Direção
+→ direcao.md
+
+mundo necessário
+→ mundo/<assunto>.md
+
+presente ficcional
+→ estado.md
+```
+
+Se uma etapa ainda aberta precisar sobreviver a perda de contexto:
+
+```text
+operacao.md
+→ preserva o processo pendente sem canonizá-lo.
+```
+
+> **Persistir o que foi decidido. Não antecipar o que continua aberto.**
+
+---
+
+# 11 — Auditoria de preparação
 
 Antes do START, verificar:
 
@@ -455,15 +384,16 @@ Antes do START, verificar:
 [ ] fichas necessárias são reconstruíveis;
 [ ] Diretor e Narrador/Juiz estão definidos;
 [ ] Cadeiras e executores necessários estão definidos;
-[ ] Personagem do Diretor está corretamente atribuído, se houver;
+[ ] Personagem do Diretor está corretamente atribuída, se houver;
 [ ] delegação não transferiu vontade por acidente;
-[ ] direcao.md preserva o que foi realmente decidido sem exigir futuro inventado;
+[ ] direcao.md preserva o decidido sem exigir futuro inventado;
 [ ] política de Mesa está definida ou usa SOB DEMANDA;
 [ ] indicador está definido ou usa SILENCIOSO;
+[ ] módulos ativos possuem função real;
+[ ] mundo necessário foi definido ou legitimamente considerado desnecessário;
 [ ] estado.md possui último fato e primeiro ponto aberto;
 [ ] hipóteses não foram registradas como fatos;
-[ ] operacao.md existe somente se houver operação real pendente;
-[ ] módulos ativos possuem função real;
+[ ] operacao.md existe somente se houver operação real pendente.
 ```
 
 Se suficiente:
@@ -475,7 +405,7 @@ STATUS
 
 ---
 
-# START
+# 12 — START
 
 Depois da preparação:
 
@@ -495,54 +425,6 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 ---
 
-# Regra de interação
-
-Como regra geral:
-
-> **Base suficiente → propor. Falta realmente decisiva → perguntar.**
-
-E, para a criação inteira:
-
-> **Etapa separada não significa formulário obrigatório.**
-
-Não repetir perguntas já resolvidas e não exigir decisões futuras que o Diretor prefere descobrir escrevendo.
-
----
-
-# Protocolo atual do ramo
-
-```text
-BOOT
-↓
-NOVA HISTÓRIA
-↓
-PREMISSA
-↓
-ESTILO / TOM
-↓
-NOME / DESTINO
-↓
-criar campanhas/<slug>/README.md
-↓
-PERSONAGENS CENTRAIS
-↓
-FICHAS
-↓
-AUTORIDADES / CADEIRAS / EXECUTORES
-↓
-DIREÇÃO MÍNIMA / PROGRESSIVA
-↓
-POLÍTICAS / MUNDO NECESSÁRIO
-↓
-ESTADO INICIAL
-↓
-AUDITORIA DE PREPARAÇÃO
-↓
-START
-```
-
----
-
 # Regra final
 
-> **Depois que NOVA HISTÓRIA foi escolhida, a IA constrói somente o necessário para a obra começar corretamente. A Direção não obriga planejamento: preserva o que o Diretor já decidiu e deixa o restante aberto. O workspace recebe material aprovado progressivamente, e a Ficção só começa depois do START.**
+> **Uma nova história no W4D nasce por decisões suficientes, não por planejamento exaustivo. A IA constrói cada etapa somente até o ponto necessário, usa padrões para evitar perguntas inúteis, cria mundo apenas quando há algo real para preservar e só abre a Ficção depois da preparação suficiente e do START.**
