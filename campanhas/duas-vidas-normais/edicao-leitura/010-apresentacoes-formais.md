@@ -847,3 +847,13 @@ Daniel olha para Kara.
 **Daniel:** — Pode.
 
 E só então a reunião realmente começa.
+
+Até ali, a noite tinha sido chamada de apresentação formal. Só agora o nome fazia sentido.
+
+Não havia mais uma vida normal e outra extraordinária esperando em lados diferentes da porta.
+
+Havia os dois.
+
+A reunião começa.
+
+O segredo entre eles, enfim, acabou.
