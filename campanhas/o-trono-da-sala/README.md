@@ -42,7 +42,8 @@ PERSONAGEM DO DIRETOR com execução compartilhada.
 - vontade prioritária: DIRETOR;
 - o Diretor pode usar Crio diretamente para conduzir a história e estabelecer sua vontade, ações ou intenções;
 - execução textual e pequenas decisões compatíveis podem ser realizadas pela IA nos espaços deixados abertos;
-- a IA pode executar rotina, respostas, gestos, diálogo e continuidade coerentes com ficha e Direção;
+- a IA deve narrar Crio ativamente como parte das cenas em que ele estiver presente, incluindo rotina, respostas, gestos, diálogo e pequenas decisões coerentes, sem esperar o Diretor movê-lo a cada momento;
+- quando o Diretor determinar uma fala, ação, intenção ou direção de Crio, essa determinação prevalece;
 - decisões de Crio que mudem materialmente a direção da história não serão usadas pela IA para dirigir silenciosamente a obra quando o Diretor não as tiver fechado;
 - parecer consultivo sobre coerência de Crio pode ser fornecido pela IA quando solicitado.
 
