@@ -19,21 +19,29 @@ A estrutura canônica da ficha continua definida em:
 modelos/FICHA.md
 ```
 
-Este arquivo não redefine o documento. Ele define **como uma IA constrói a personagem com o Diretor antes de registrar a ficha**.
+Este arquivo define **como uma IA constrói a pessoa com o Diretor antes de registrar o documento**.
 
-> **A IA deve descobrir a pessoa antes de completar o documento.**
+> **A IA deve descobrir a pessoa antes de completar a ficha.**
 
 ---
 
 # O que esta etapa responde
 
-Para cada personagem que precisa persistir, esta etapa responde:
+Para cada personagem que precisa persistir:
 
 > **Quem é esta pessoa de forma suficiente para que uma Cadeira e um Narrador consigam reconstruí-la depois?**
 
 O objetivo não é preencher todos os campos possíveis.
 
-O objetivo é estabelecer uma pessoa reconhecível, coerente e operacionalmente utilizável.
+É estabelecer uma pessoa:
+
+```text
+reconhecível
+coerente
+suficiente para decisões de Cadeira
+suficiente para avaliação de plausibilidade
+suficiente para continuidade e retomada
+```
 
 ```text
 PERSONAGEM
@@ -45,100 +53,82 @@ FICHA
 
 ---
 
-# Regra de ordem
+# Ordem desta etapa
 
 Preferir construir **uma personagem por vez**, principalmente entre personagens centrais.
 
 ```text
 Personagem A
 → reunir o que já sabemos
-→ construir
+→ construir núcleo
+→ identificar lacunas importantes
+→ propor ficha
 → revisar
 → aprovar
 → salvar
 
 Personagem B
-→ reunir o que já sabemos
-→ construir
-→ revisar
-→ aprovar
-→ salvar
+→ repetir o processo
 ```
 
-Não produzir automaticamente fichas extensas de todo o elenco numa única resposta apenas por eficiência.
-
-Isso reduz:
-
-```text
-homogeneização de personalidade
-clichês repetidos
-contradições entre histórico e capacidade
-relações genéricas
-preenchimento ornamental
-```
-
-Uma criação em grupo pode ocorrer quando o Diretor pedir explicitamente ou quando as personagens forem simples o bastante para isso não prejudicar a distinção entre elas.
+Uma criação em lote pode ocorrer se o Diretor pedir explicitamente ou se a simplicidade das personagens tornar isso seguro.
 
 > **Eficiência não deve apagar individualidade.**
 
 ---
 
-# Etapa 1 — Reunir o que já sabemos
+# 1 — Reunir o que já sabemos
 
-Antes de perguntar qualquer coisa, reconstruir a base já existente sobre a personagem.
-
-Usar apenas fontes legítimas da preparação:
+Antes de perguntar qualquer coisa, reconstruir a base legítima da personagem usando:
 
 ```text
 Premissa aprovada
-Estilo / Tom, quando realmente afetar apresentação e não personalidade
+Estilo / Tom, quando pertinente à apresentação
 Personagens Centrais aprovadas
 informações já dadas pelo Diretor
 relações estruturais já aprovadas
 cânone externo permitido, quando houver
 ```
 
-A IA deve separar:
+Separar:
 
 ```text
 JÁ ESTABELECIDO
-→ pode entrar na proposta de ficha.
+→ pode entrar na proposta.
 
 INFERÊNCIA PEQUENA E ÓBVIA
-→ pode ser proposta quando claramente derivada do estabelecido.
+→ pode ser proposta quando claramente derivada.
 
 ESCOLHA AUTORAL IMPORTANTE
 → não fechar silenciosamente.
 
 LACUNA IRRELEVANTE
-→ pode continuar vazia.
+→ pode continuar aberta.
 ```
 
 > **Informação já fornecida deve ser organizada, não perguntada novamente.**
 
 ---
 
-# Etapa 2 — Construir primeiro o núcleo da pessoa
+# 2 — Construir primeiro o núcleo da pessoa
 
-Antes de preencher os seis blocos formais, a IA deve conseguir formular um núcleo coerente da personagem.
+Antes dos seis blocos formais, a IA deve conseguir entender o núcleo da personagem.
 
-Esse núcleo pode incluir, quando necessário:
+Quando necessário, esse núcleo inclui:
 
 ```text
 quem ela é em essência
 como tende a agir
 o que sabe fazer
-o que sabe sobre o mundo
-o que deseja agora ou de forma persistente
+o que conhece
+o que deseja ou busca
 o que evita ou valoriza
 quais relações realmente a moldam
 que passado é necessário para explicar isso
-quais capacidades, meios ou limitações importam
+quais capacidades, meios e limitações importam
 ```
 
 Não é obrigatório decidir tudo isso como campos separados.
-
-O núcleo serve para impedir que a ficha vire coleção de itens sem pessoa por trás.
 
 ```text
 TRAÇOS SOLTOS
@@ -147,32 +137,49 @@ TRAÇOS SOLTOS
 
 ---
 
-# Etapa 3 — Identificar lacunas realmente importantes
+# 3 — Identificar lacunas realmente importantes
 
-Depois de reunir o material existente, a IA deve perguntar:
+Depois de reunir a base, perguntar internamente:
 
 ```text
-falta algo sem o qual eu não consigo reconstruir esta pessoa?
+falta algo sem o qual não consigo reconstruir esta pessoa?
 falta algo que muda materialmente sua lógica de atuação?
 falta algo que muda sua relação estrutural com a Premissa?
-falta algo que muda sua capacidade de agir na abertura?
-falta algo que pertence claramente ao Diretor decidir?
+falta algo que muda sua capacidade relevante para a abertura?
+falta uma escolha que claramente pertence ao Diretor?
 ```
 
-Se a resposta for não, a IA deve **propor a ficha**.
+Se não:
 
-Se a resposta for sim, perguntar somente pelo ponto que realmente importa.
+```text
+BASE SUFICIENTE
+→ PROPOR.
+```
 
-> **Perguntar para resolver lacuna de identidade, não para completar formulário.**
+Se sim:
+
+```text
+LACUNA IMPORTANTE
+→ PERGUNTAR SOMENTE O NECESSÁRIO.
+```
+
+Se não importa agora:
+
+```text
+LACUNA IRRELEVANTE
+→ PODE PERMANECER ABERTA.
+```
+
+> **Perguntar para resolver identidade ou capacidade material, não para completar formulário.**
 
 ---
 
 # Não transformar ficha em interrogatório
 
-Evitar sequências como:
+Evitar por hábito:
 
 ```text
-qual idade?
+qual idade exata?
 qual altura?
 qual peso?
 qual cor dos olhos?
@@ -184,42 +191,42 @@ qual signo?
 qual música favorita?
 ```
 
-quando essas respostas não mudam a personagem de forma material.
+quando as respostas não mudam materialmente a pessoa.
 
-Perguntas melhores são aquelas que alteram sua lógica humana ou sua capacidade relevante.
+Uma pergunta de alto valor pode resolver vários blocos.
 
 Exemplo:
 
 ```text
-"Você imagina Daniel como alguém criado dentro da tradição mágica desde criança ou como alguém que descobriu esse mundo mais tarde?"
+"Daniel cresceu dentro da tradição mágica ou descobriu magia mais tarde?"
 ```
 
-Essa resposta pode mudar:
+pode mudar:
 
 ```text
 Histórico
 Conhecimentos
+Competências
 naturalidade diante da magia
 relações familiares
-competências
 modo de interpretar acontecimentos
 ```
 
-Uma única pergunta pode resolver vários campos de forma orgânica.
-
 ---
 
-# A IA deve propor quando existe base suficiente
+# Propor quando existe base suficiente
 
 O Diretor não precisa escrever uma biografia pronta.
 
-Exemplo de base:
+Exemplo:
 
 ```text
-"Daniel é universitário de física, vem de uma família antiga de magos, cresceu com magia como algo normal, é confiante, brincalhão e gosta de provocar quem tem intimidade com ele."
+Daniel é universitário de física, vem de uma família antiga de magos,
+cresceu com magia como algo normal, é confiante, brincalhão e provoca
+quem tem intimidade com ele.
 ```
 
-Isso já permite propor material para:
+Isso já sustenta proposta para:
 
 ```text
 Conceito
@@ -227,36 +234,26 @@ Conhecimentos
 Competências
 Personalidade
 Histórico
-relações possíveis já estabelecidas
+relações já estabelecidas
 ```
 
-A IA deve montar uma proposta coerente e deixar em aberto apenas escolhas que realmente não decorrem dessa base.
-
-```text
-BASE SUFICIENTE
-→ PROPOR.
-
-ESCOLHA IMPORTANTE AINDA ABERTA
-→ PERGUNTAR OU OFERECER ALTERNATIVAS.
-```
+A IA deve montar uma proposta coerente e deixar abertas apenas escolhas que realmente não decorrem da base.
 
 ---
 
-# Propor não é inventar silenciosamente
+# Propor não é canonizar silenciosamente
 
-Existe diferença entre completar coerentemente uma pessoa e criar fatos autorais importantes sem autorização.
-
-A IA pode propor:
+A IA pode propor pequenas derivações compatíveis, como:
 
 ```text
-uma formação coerente com profissão já estabelecida
-um estilo físico compatível com descrição já dada
-uma formulação mais precisa de personalidade já descrita
+formação coerente com profissão já estabelecida
+formulação mais precisa de personalidade já descrita
 competências óbvias decorrentes de experiência confirmada
 conhecimentos naturais da formação estabelecida
+detalhes físicos neutros sem função estrutural
 ```
 
-Mas não deve canonizar silenciosamente:
+Mas não canonizar silenciosamente:
 
 ```text
 trauma
@@ -273,15 +270,15 @@ poder extraordinário novo
 fraqueza compensatória
 ```
 
-apenas porque esses elementos tornariam a personagem “mais interessante”.
+apenas para tornar a personagem “mais interessante”.
 
 > **Ausência de informação não é convite automático para criar drama.**
 
 ---
 
-# Nem toda lacuna precisa ser preenchida
+# Ficha suficiente não é ficha exaustiva
 
-Uma ficha pode ser suficiente sem registrar:
+Uma ficha pode ser aprovada sem registrar:
 
 ```text
 altura exata
@@ -294,20 +291,20 @@ lista de amigos antigos
 preferências sem função atual
 ```
 
-quando nada disso é necessário para reconstruir a personagem.
+quando nada disso é necessário para reconstrução.
 
 ```text
 FICHA SUFICIENTE
 ≠ FICHA EXAUSTIVA
 ```
 
-A informação pode surgir depois na Ficção ou em preparação futura se ganhar importância.
+Informação nova pode surgir depois, quando ganhar função real.
 
 ---
 
-# Os seis blocos são destino, não questionário
+# Os seis blocos são organização, não seis questionários
 
-`04-FICHA.md` define:
+`04-FICHA.md` usa:
 
 ```text
 1. Descrição Física
@@ -318,14 +315,12 @@ A informação pode surgir depois na Ficção ou em preparação futura se ganha
 6. Histórico
 ```
 
-A IA não precisa perguntar um bloco por vez.
-
 Um único fato pode alimentar vários blocos.
 
 Exemplo:
 
 ```text
-"cresceu dentro de uma casa de magos e foi treinado pela mãe desde criança"
+"cresceu numa casa de magos e foi treinado pela mãe desde criança"
 ```
 
 pode sustentar:
@@ -334,22 +329,18 @@ pode sustentar:
 Histórico
 Conhecimentos mágicos
 Competências mágicas
-naturalidade emocional diante do sobrenatural
+naturalidade diante do sobrenatural
 relação com a mãe
-origem de certas capacidades
+origem de capacidades
 ```
 
 > **A criação é orgânica; o documento é organizado.**
 
 ---
 
-# Descrição física
+# Descrição Física
 
 Criar somente o suficiente para reconhecer a pessoa e sustentar fatos relevantes.
-
-A IA pode propor detalhes neutros quando o Diretor não demonstrou preferência, mas não precisa transformar aparência em decisão longa.
-
-Quando aparência é material para a Premissa, identidade secreta, relação, capacidade ou continuidade, tratar a escolha com mais cuidado.
 
 ```text
 DETALHE VISUAL NEUTRO
@@ -359,13 +350,22 @@ DETALHE VISUAL ESTRUTURAL
 → requer fundamento ou aprovação clara.
 ```
 
+Aparência pode ser estrutural em casos como:
+
+```text
+identidade secreta
+semelhança importante
+característica física ligada a capacidade
+continuidade visual relevante
+```
+
 Não inferir personalidade da aparência.
 
 ---
 
 # Conceito
 
-O Conceito deve condensar a pessoa, não sua função narrativa apenas.
+O Conceito condensa a pessoa, não apenas sua função narrativa.
 
 Ruim:
 
@@ -381,33 +381,34 @@ Melhor:
 "jovem físico criado numa tradição mágica antiga, confortável entre vida universitária e responsabilidades arcanas"
 ```
 
-O Conceito serve como referência de coerência para a futura Cadeira.
+> **Função identifica lugar na história. Conceito ajuda a reconhecer a pessoa.**
 
 ---
 
 # Competências e Conhecimentos
 
-Registrar grandes linhas de repertório, conforme `04-FICHA.md`.
-
-Não converter cada habilidade cotidiana em item.
+Registrar grandes linhas de repertório conforme `04-FICHA.md`.
 
 ```text
 FORMAÇÃO / EXPERIÊNCIA CONFIRMADA
 → pode sustentar competências e conhecimentos coerentes.
 
-EFEITO EXTRAORDINÁRIO OU SOLUÇÃO DECISIVA
-→ exige sustentação mais específica.
+APLICAÇÃO TRIVIAL COMPATÍVEL
+→ pode decorrer naturalmente do repertório.
+
+EFEITO MATERIAL OU SOLUÇÃO DECISIVA
+→ precisa de sustentação canônica suficiente.
 ```
 
-Evitar fabricar incompetência artificial para “equilibrar” uma pessoa competente.
+Não fabricar incompetência apenas para “equilibrar” uma pessoa competente.
 
 ---
 
 # Traços, Poderes e Meios
 
-Registrar capacidades e recursos quando realmente fizerem parte da personagem.
+Registrar capacidades e recursos quando realmente fizerem parte da pessoa.
 
-Não criar:
+Não criar por hábito:
 
 ```text
 fraqueza obrigatória porque existe poder forte
@@ -417,32 +418,39 @@ contato conveniente sem origem
 recurso institucional implícito ilimitado
 ```
 
-Quando houver graduação, usar apenas nos termos definidos em `04-FICHA.md`.
+Quando houver graduação, seguir `04-FICHA.md`.
 
-A ficha deve preservar escopo e limites suficientes para julgamento posterior.
+A ficha deve preservar escopo e limites suficientes para:
+
+```text
+Cadeiras saberem o que a personagem pode tentar
+Mesa avaliar plausibilidade
+Narrador apresentar aplicações compatíveis
+Diretor compreender possibilidades e limites
+```
+
+Não existe “teste futuro” que exija converter tudo em números.
 
 ---
 
 # Personalidade e Vida Emocional
 
-Este bloco precisa permitir que uma Cadeira tome decisões humanas sem transformar a personagem numa máquina de traços.
+Este bloco deve permitir decisões humanas sem transformar a personagem numa máquina de traços.
 
-Registrar tendências, desejos, aversões, hábitos e relações que realmente ajudam a decidir.
-
-Evitar regras absolutas como:
+Registrar somente tendências, desejos, aversões, hábitos, limites e relações que realmente ajudam a reconstruir sua lógica humana.
 
 ```text
 confiante
-→ nunca hesita.
+≠ nunca hesita.
 
 reservada
-→ nunca toma iniciativa.
+≠ nunca toma iniciativa.
 
 leal
-→ nunca sente raiva de quem ama.
+≠ nunca sente raiva de quem ama.
 
 racional
-→ nunca age por impulso.
+≠ nunca age por impulso.
 ```
 
 Seguir `08-PLAUSIBILIDADE-E-RITMO.md`.
@@ -455,7 +463,7 @@ Seguir `08-PLAUSIBILIDADE-E-RITMO.md`.
 
 Registrar somente o passado necessário para explicar a pessoa atual.
 
-A IA deve resistir ao impulso de criar automaticamente:
+Não criar automaticamente:
 
 ```text
 tragédia formativa
@@ -465,8 +473,6 @@ mentor perdido
 culpa secreta
 abandono
 ```
-
-quando a personagem não exige isso.
 
 Uma vida relativamente normal também é histórico legítimo.
 
@@ -479,9 +485,7 @@ PASSADO DRAMÁTICO
 
 # Relações entre fichas
 
-Quando duas personagens centrais possuem relação já aprovada, as fichas podem registrar lados diferentes da mesma relação.
-
-Exemplo:
+Uma relação compartilhada pode aparecer de forma diferente em cada ficha.
 
 ```text
 Ficha A
@@ -491,20 +495,18 @@ Ficha B
 → o que A significa para B.
 ```
 
-As duas descrições não precisam ser simétricas.
-
 ```text
 MESMA RELAÇÃO
 ≠ MESMA EXPERIÊNCIA DA RELAÇÃO
 ```
 
-Não copiar automaticamente a interioridade de uma ficha para outra.
+Não copiar interioridade de uma ficha para outra.
 
 ---
 
 # Personagem do Diretor
 
-A ficha de uma `PERSONAGEM DO DIRETOR` segue as mesmas regras de identidade.
+A ficha de uma `PERSONAGEM DO DIRETOR` segue exatamente as mesmas regras de identidade.
 
 A diferença de autoridade fica fora da ficha.
 
@@ -513,14 +515,12 @@ FICHA
 → quem a pessoa é.
 
 README / configuração
-→ quem controla sua vontade e quem executa sua apresentação.
+→ quem possui sua vontade e quem executa sua forma textual.
 ```
 
-A IA pode ajudar a construir e redigir a ficha dessa personagem sem adquirir sua vontade ficcional.
+A IA pode ajudar a criar e redigir essa ficha sem adquirir a vontade ficcional da personagem.
 
-Durante a criação, o Diretor pode determinar traços, desejos ou motivações diretamente.
-
-Depois de aprovados, eles entram na ficha normalmente.
+> **Construir a pessoa não transfere sua autoria.**
 
 ---
 
@@ -533,21 +533,21 @@ cânone externo permitido
 → matéria-prima.
 
 decisões desta obra
-→ podem selecionar, ajustar ou substituir elementos.
+→ selecionam, ajustam ou substituem elementos.
 
 ficha aprovada desta obra
 → autoridade primária durante execução.
 ```
 
-A IA não deve importar tudo que conhece da personagem externa.
+Não importar indiscriminadamente tudo que a IA conhece.
 
-Deve importar somente o que:
+Usar somente o que:
 
 ```text
-é permitido pela configuração da obra
+é permitido pela configuração
 é pertinente à versão escolhida
 não contradiz decisões locais
-é necessário para reconstrução da personagem
+é necessário para reconstrução
 ```
 
 Quando versões externas competirem materialmente, perguntar ou propor a leitura antes de canonizar.
@@ -556,7 +556,7 @@ Quando versões externas competirem materialmente, perguntar ou propor a leitura
 
 # Revisão da ficha
 
-Quando houver base suficiente, apresentar uma proposta consolidada usando o formato de `modelos/FICHA.md` ou uma versão legível equivalente.
+Quando houver base suficiente, apresentar proposta consolidada usando `modelos/FICHA.md` ou forma legível equivalente.
 
 O Diretor pode:
 
@@ -566,18 +566,16 @@ corrigir
 remover
 substituir
 pedir aprofundamento
-manter parte em aberto
+manter parte aberta
 ```
 
-Não interpretar uma correção local como rejeição da ficha inteira.
+Correção local não reinicia a ficha inteira.
 
-Não insistir em preencher um campo que o Diretor decidiu deixar aberto.
+Não insistir em preencher campo que o Diretor decidiu deixar aberto.
 
 ---
 
 # Estado da ficha durante criação
-
-Usar conceitualmente:
 
 ```text
 FICHA: EM CONSTRUÇÃO
@@ -585,17 +583,14 @@ FICHA: PROPOSTA
 FICHA: APROVADA
 ```
 
-## EM CONSTRUÇÃO
+`EM CONSTRUÇÃO`
+→ ainda falta informação material para reconstruir a pessoa.
 
-Ainda falta informação importante para reconstruir a pessoa.
+`PROPOSTA`
+→ existe ficha suficiente para revisão.
 
-## PROPOSTA
-
-Existe uma ficha suficientemente completa para revisão.
-
-## APROVADA
-
-O Diretor confirmou semanticamente que essa ficha representa a personagem.
+`APROVADA`
+→ o Diretor confirmou semanticamente que a ficha representa a personagem.
 
 Não exigir palavra ritual.
 
@@ -603,56 +598,29 @@ Não exigir palavra ritual.
 
 # Persistência
 
-Salvar a ficha canônica quando estiver aprovada:
+Salvar somente ficha aprovada em:
 
 ```text
 campanhas/<slug>/personagens/<slug-da-personagem>.md
 ```
 
-Não criar múltiplas versões canônicas concorrentes como:
+Rascunho pendente não deve ser salvo como ficha canônica apenas para sobreviver à conversa.
 
-```text
-personagem-v2.md
-personagem-final.md
-personagem-final-agora-vai.md
-```
-
-Se a ficha mudar depois, atualizar a mesma fonte canônica.
-
-Enquanto uma ficha ainda estiver em construção, a conversa pode sustentá-la temporariamente.
-
-Se a criação precisar sobreviver a perda de contexto antes da aprovação:
+Se uma ficha em construção precisar persistir:
 
 ```text
 operacao.md
-→ pode preservar a etapa de criação pendente e o que ainda precisa ser decidido.
+→ preserva a etapa e o que ainda falta
+→ sem transformar rascunho em cânone.
 ```
 
-Não transformar rascunho incompleto em ficha canônica apenas para não perder trabalho.
-
-> **Operação preserva o processo pendente. Ficha preserva a pessoa aprovada.**
+> **Rascunho preservado não é ficha aprovada.**
 
 ---
 
-# Depois da aprovação de cada ficha
+# Depois da ficha vem autoridade
 
-Quando uma ficha central for aprovada:
-
-```text
-salvar ficha
-→ confirmar que ela é reconstruível
-→ seguir para a próxima personagem central ainda necessária
-```
-
-Quando todas as fichas necessárias para a abertura estiverem aprovadas:
-
-```text
-FICHAS INICIAIS
-→ SUFICIENTES
-→ seguir para configuração de AUTORIDADES / CADEIRAS / EXECUTORES e DIREÇÃO restante.
-```
-
-A configuração de Cadeira deve usar a pessoa já construída.
+A criação preserva a ordem:
 
 ```text
 PESSOA
@@ -661,84 +629,50 @@ PESSOA
 → EXECUTOR
 ```
 
-Isso não significa que a autoridade só exista depois do arquivo físico; significa que a configuração definitiva deve preservar corretamente a pessoa que a Cadeira representará.
-
----
-
-# Personagens secundárias depois do START
-
-Uma personagem pode ganhar ficha posteriormente quando adquirir importância persistente.
-
-Aplicar o mesmo princípio:
+Depois que as fichas necessárias estiverem aprovadas, seguir para:
 
 ```text
-já existe matéria suficiente na Ficção
-→ consolidar.
-
-lacuna realmente importante
-→ perguntar ou propor.
-
-ficha aprovada
-→ salvar.
+17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
 ```
 
-Não interromper toda cena apenas porque uma personagem secundária apareceu sem ficha.
-
-Ficha persistente é necessária quando a continuidade passar a exigir reconstrução consistente.
-
----
-
-# Forma recomendada de interação
-
-Exemplo:
-
-```text
-FICHA — Daniel — proposta
-
-[bloco consolidado]
-
-As partes que deixei abertas são apenas as que ainda mudariam materialmente quem ele é. O restante veio do que já definimos sobre origem, formação, personalidade e papel na Premissa.
-
-O que você mudaria nessa versão?
-```
-
-Ou, quando falta uma única decisão importante:
-
-```text
-Antes de montar a ficha, falta uma escolha que muda bastante o Daniel: ele foi criado dentro da tradição mágica desde criança ou entrou nela mais tarde?
-```
-
-Não anexar automaticamente a ficha seguinte à mesma resposta sem necessidade.
+Se o Diretor já informou anteriormente quem controla uma personagem, preservar essa informação e não perguntar novamente. Ela passa a ser registrada operacionalmente na etapa 17.
 
 ---
 
 # Critério de conclusão
 
-Uma ficha inicial está suficiente quando:
+Para cada personagem necessária, a IA deve conseguir responder:
 
 ```text
-[ ] outra IA consegue reconhecer a mesma pessoa?
-[ ] o Conceito descreve pessoa, não apenas função narrativa?
-[ ] competências e conhecimentos possuem fundamento?
-[ ] poderes, Traços e meios possuem escopo suficiente?
-[ ] personalidade ajuda uma Cadeira a decidir sem virar lista de comandos absolutos?
-[ ] histórico explica o necessário sem biografia ornamental?
-[ ] relações relevantes estão registradas do ponto de vista correto?
+[ ] consigo reconhecer quem esta pessoa é?
+[ ] uma Cadeira consegue tomar decisões usando a ficha?
+[ ] capacidades e conhecimentos relevantes possuem base?
+[ ] relações necessárias estão preservadas sem copiar interioridade?
 [ ] lacunas irrelevantes puderam permanecer abertas?
-[ ] nenhum drama, fraqueza, segredo ou poder foi inventado apenas para preencher ficha?
-[ ] o Diretor aprovou a personagem?
+[ ] não inventamos trauma, segredo, poder ou fraqueza para completar formulário?
+[ ] a ficha está separada de Estado e Executor?
+[ ] o Diretor aprovou semanticamente a versão canônica?
 ```
 
-Quando todas as fichas necessárias para a abertura passam nesse critério:
+Se sim:
 
 ```text
-FICHAS INICIAIS
+FICHA
+→ APROVADA
+→ salvar
+→ seguir para a próxima personagem necessária.
+```
+
+Quando as fichas iniciais necessárias estiverem prontas:
+
+```text
+FICHAS
 → SUFICIENTES
-→ próxima etapa: AUTORIDADES / CADEIRAS / EXECUTORES e consolidação da DIREÇÃO.
+→ AUTORIDADES / CADEIRAS / EXECUTORES
 ```
 
 ---
 
 # Regra final
 
-> **A ficha não nasce de um questionário nem de um molde preenchido por hábito. A IA reúne o que já foi decidido, identifica apenas as lacunas que realmente mudam a pessoa, propõe uma personagem coerente, recebe correções do Diretor e só então registra a ficha canônica. Uma personagem por vez é o padrão; detalhe irrelevante pode permanecer aberto; e profundidade não exige trauma, fraqueza ou drama inventado.**
+> **A IA constrói uma pessoa antes de preencher um documento. Base suficiente gera proposta; lacuna material gera pergunta; lacuna irrelevante pode permanecer aberta. A ficha preserva identidade, repertório e lógica humana suficientes para Cadeiras, Mesa, Narrador e retomada, sem transformar criação em interrogatório, sem fabricar drama e sem antecipar a configuração de autoridade que vem depois.**
