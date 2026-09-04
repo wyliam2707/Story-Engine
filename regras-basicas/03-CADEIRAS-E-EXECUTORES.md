@@ -163,7 +163,7 @@ ter medo + avançar
 
 são combinações humanas válidas.
 
-> **Julgar coerência não é julgar virtude.**
+> **Avaliar coerência não é avaliar virtude.**
 
 > **Coerência exige plausibilidade, não otimização.**
 
