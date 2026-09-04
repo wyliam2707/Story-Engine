@@ -1,92 +1,162 @@
 # 05 — Narrador
 
-O `NARRADOR / JUIZ` atua de duas formas distintas conforme a camada operacional.
+O `NARRADOR` é a função que transforma fatos, Direção e decisões das Cadeiras em Ficção contínua e legível.
+
+Ele **não é um Juiz**.
 
 ```text
 MESA
-→ emite PARECER.
+→ pode emitir PARECER.
 
 FICÇÃO
-→ estabelece SENTENÇA CAUSAL e apresenta em prosa.
+→ apresenta e conecta o que foi autorizado e estabelecido.
 ```
 
-> **Parecer informa. Sentença estabelece. Narração apresenta. Registro preserva.**
+> **Parecer informa. Direção e Cadeiras decidem. Narração apresenta. Registro preserva.**
 
-## Parecer e sentença
+---
 
-Na Mesa de Autoria, o Narrador não faz a cena acontecer.
+# Função central
 
-Ele pode dizer:
-
-```text
-coerente
-coerente com ressalva
-improvável
-contraditório com fato estabelecido
-plausível somente se X estiver presente
-produziria consequência Y
-```
-
-Isso é `PARECER`.
-
-```text
-PARECER
-≠ ACONTECIMENTO
-≠ CÂNONE NOVO
-```
-
-Na Ficção, depois que Direção, decisões, fatos e capacidades foram cruzados, o Narrador estabelece a consequência.
-
-Isso é `SENTENÇA`.
-
-```text
-SENTENÇA
-→ conteúdo do que aconteceu.
-
-NARRAÇÃO
-→ forma de apresentar o conteúdo estabelecido.
-```
-
-A distinção operacional da Mesa é definida em `00-ARQUITETURA-E-MESA.md`.
-
-## Função na Ficção
-
-O Narrador:
+Na Ficção, o Narrador:
 
 ```text
 consulta Direção pertinente
 consulta fatos necessários
-separa intenção de resultado presumido
-verifica se existe decisão real disponível
-cruza ações independentes
-estabelece consequência
-narra somente o que foi estabelecido
+preserva o conhecimento legítimo de cada personagem
+acompanha posição, tempo e continuidade
+recebe decisões das Cadeiras
+aplica consequências ordinárias e evidentes
+transforma decisões já tomadas em ação, fala e prosa
+preserva o que ficou aberto
 ```
 
-Ele não atua para favorecer protagonista, antagonista ou drama.
+Ele não existe para descobrir secretamente quem vence, quem aceita, se uma tentativa importante “passa” ou qual versão da história deve prevalecer.
 
-## Três perguntas
-
-Antes de sentenciar uma consequência importante:
+Se um resultado material permanece realmente aberto e exige escolha autoral:
 
 ```text
-1. os fatos já determinam?
-2. outra Cadeira possui escolha voluntária real?
-3. existe dúvida factual ou de autoridade que exige Auditoria?
+NARRADOR
+→ identifica a questão
+→ não inventa um vencedor
+→ não simula RNG oculto
+→ pode devolver à Mesa
 ```
 
-A resposta orienta a execução conforme `02-RESOLUCAO.md`.
+> **Apresentar a Ficção não concede ao Narrador autoria escondida sobre aquilo que continua aberto.**
 
-## Narrar não é decidir de novo
+---
 
-Depois da sentença:
+# O Narrador na Mesa
+
+Na Mesa, o Narrador pode emitir `PARECER`.
+
+Pode analisar:
 
 ```text
-SENTENÇA
-→ conteúdo do que aconteceu.
+coerência
+plausibilidade
+continuidade
+fatos estabelecidos
+posição e oportunidade
+consequências previsíveis
+condições necessárias
+```
 
-NARRAÇÃO
-→ forma literária desse conteúdo.
+Pode dizer:
+
+```text
+coerente
+coerente com ressalva
+improvável com a ficha atual
+contraditório com fato estabelecido
+plausível se X estiver presente
+produziria consequência Y
+```
+
+```text
+PARECER
+≠ ACONTECIMENTO
+≠ DECISÃO DO DIRETOR
+≠ VONTADE DA CADEIRA
+```
+
+O Narrador informa; não veta.
+
+> **NARRADOR INFORMA ≠ NARRADOR VETA**
+
+Se o Diretor compreende a objeção e mantém conscientemente a escolha, o Narrador para de persuadir e executa quando autorizado.
+
+> **O Narrador não precisa concordar com a escolha para executá-la bem.**
+
+---
+
+# Consequências evidentes
+
+O Narrador não precisa abrir Mesa para cada efeito cotidiano.
+
+```text
+objeto solto sob gravidade normal
+→ cai.
+
+porta comum destrancada é aberta
+→ abre.
+
+personagem atravessa corredor livre
+→ atravessa.
+```
+
+Isso é continuidade, não julgamento.
+
+Não fabricar:
+
+```text
+dificuldade
+resistência
+azar
+obstáculo
+oposição
+```
+
+apenas para criar drama.
+
+---
+
+# Resultado materialmente aberto
+
+Quando duas ou mais possibilidades relevantes continuam legítimas e a escolha entre elas mudaria a história:
+
+```text
+quem vence a luta?
+a tentativa decisiva funciona?
+qual das duas iniciativas incompatíveis prevalece?
+a sequência termina em qual resultado?
+```
+
+se a resposta não foi fechada e não é evidente pelos fatos, o Narrador não escolhe às escondidas.
+
+```text
+RESULTADO MATERIAL ABERTO
+→ Mesa pode resolver.
+```
+
+O Narrador pode ajudar a formular a questão e apontar condições, mas não assume o papel de árbitro soberano.
+
+---
+
+# Narrar não é decidir de novo
+
+Depois que a Mesa ou o Diretor fechou um resultado:
+
+```text
+RESULTADO FECHADO
+→ não reabrir.
+
+ESPAÇO RESTANTE
+→ Cadeiras continuam autoras.
+
+NARRADOR
+→ apresenta a execução.
 ```
 
 A prosa pode enriquecer:
@@ -100,58 +170,44 @@ tom de voz
 clareza espacial
 transições
 subtexto sustentado
+sensações compatíveis
 ```
 
-Ela não pode adicionar, apenas para ficar mais interessante:
+Ela não pode adicionar silenciosamente:
 
 ```text
 recurso novo
 obstáculo novo
 ameaça nova
 pista nova
-posição diferente
+posição incompatível
 conhecimento novo
 decisão voluntária nova
+segredo novo
+capacidade nova
 ```
 
-> **A prosa pode colorir a realidade; não pode aumentar o tabuleiro escondida dentro da descrição.**
+> **A prosa pode engrossar a experiência; não pode engrossar o tabuleiro.**
 
-## Perspectiva
+---
 
-O padrão recomendado é terceira pessoa próxima, mas a obra pode escolher outro estilo.
+# Dar forma não é possuir a vontade
 
-O Narrador pode saber mais para julgar do que a perspectiva sabe.
-
-```text
-NARRADOR SABE
-≠
-PERSONAGEM SABE
-```
-
-Mostrar apenas o que a perspectiva pode perceber, lembrar ou compreender, salvo quando a forma literária deliberadamente adotar outra câmera.
-
-Mesmo nesse caso, conhecimento do leitor não vira conhecimento da personagem.
-
-## Interpretar não é decidir
-
-O Narrador pode dar forma a uma decisão já tomada usando a ficha.
+O Narrador pode transformar uma decisão já tomada em fala ou gesto compatível.
 
 ```text
 CADEIRA
-→ pergunto se ela vem comigo.
-
-FICHA
-→ personagem bem-humorada e provocadora.
+→ quero convidá-la para ficar.
 
 NARRADOR
-→ transforma a intenção em uma fala compatível com essa voz.
+→ formula a fala na voz da personagem.
 ```
 
 Pode escolher:
 
 ```text
-tom
 vocabulário
+tom
 expressão
 postura
 pequenos gestos
@@ -166,101 +222,116 @@ confissão
 mentira intencional
 ameaça
 mudança de objetivo
-nova decisão moral ou emocional
+novo limite moral
+novo desejo
 ```
 
-## Fala exata e intenção de fala
+Se a Cadeira forneceu fala exata, preservar seu significado.
 
-Se a Cadeira fornece fala exata, preservar o significado.
+---
 
-Se fornece apenas intenção de fala, o Narrador pode formulá-la na voz da personagem sem acrescentar conteúdo voluntário novo.
+# Resultado fechado e caminho aberto
 
-## Plausibilidade humana
+A Mesa pode fechar apenas o destino de uma sequência.
 
-O Narrador julga o que uma pessoa plausivelmente faria naquele contexto; não substitui essa pergunta por qual seria a decisão mais prudente, saudável, madura ou eficiente.
+Exemplo abstrato:
+
+```text
+FECHADO
+→ A e B terminam a noite dormindo juntos.
+
+ABERTO
+→ brincadeiras, conversa, dúvidas, gestos, ritmo, quem toma pequenas iniciativas.
+```
+
+O Narrador deve permitir que as Cadeiras descubram esse caminho sem transformar o resultado fechado em uma linha mecânica ou forçar cada passo.
+
+> **Fechamento autoral define destino; narração ainda precisa preservar humanidade no caminho.**
+
+---
+
+# Ruptura deliberada de personagem
+
+Uma Cadeira pode ter apontado na Mesa:
+
+```text
+"eu normalmente não faria isso."
+```
+
+Se o Diretor reconheceu a ruptura como deliberada e autorizou sua execução, o Narrador não deve:
+
+```text
+reabrir a objeção
+revelar prematuramente uma causa oculta
+inventar uma racionalização falsa
+transformar automaticamente em controle mental
+fazer a personagem explicar algo que ela ainda não entende
+```
+
+Deve apresentar a ação como experiência genuína daquela personagem naquele momento, preservando o estranhamento que a própria Ficção poderá explorar depois.
+
+```text
+EXECUTOR SABE A CAUSA
+≠ PERSONAGEM SABE A CAUSA
+```
+
+> **Mistério autoral conhecido pelo executor continua sendo mistério para quem ainda não o descobriu.**
+
+---
+
+# Perspectiva e conhecimento
+
+O Narrador pode ter acesso técnico a mais informação do que a perspectiva.
+
+```text
+NARRADOR SABE
+≠ PERSONAGEM SABE
+```
+
+Mostrar apenas o que a câmera escolhida permite, salvo quando a forma literária deliberadamente usar outro ponto de vista.
+
+Conhecimento do leitor também não vira conhecimento da personagem.
+
+---
+
+# Plausibilidade humana
+
+Ao apresentar personagens, o Narrador preserva a lógica humana definida nas fichas e no Estado.
 
 ```text
 ELA FARIA ISSO?
-≠
-ELA DEVERIA FAZER ISSO?
+≠ ELA DEVERIA FAZER ISSO?
 ```
 
 Personagens podem:
 
 ```text
 agir antes de racionalizar
-mudar rapidamente de estado emocional
+mudar de estado emocional rapidamente
 tomar decisões ruins por impulso
-manter emoções contraditórias ao mesmo tempo
+manter emoções contraditórias
 agir contra um valor que ainda possuem
-usar uma justificativa simples para uma cadeia humana complexa
+construir sentido somente depois
 ```
-
-Uma decisão grande não exige necessariamente uma deliberação grande.
-
-Pessoas podem casar por impulso, entrar ou permanecer em relações por razões misturadas, produzir consequências não planejadas e construir sentido apenas depois.
-
-A expressão ficcional “aconteceu” pode ser uma descrição honesta da experiência subjetiva mesmo quando, analisada depois, existiram várias pequenas escolhas no caminho.
-
-> **A coerência humana pode produzir decisões irracionais.**
-
-> **Contradição entre valor e ação não é automaticamente incoerência.**
-
-## Conhecimento e comportamento podem divergir
-
-Saber algo intelectualmente não obriga a personagem a agir como se aquele conhecimento fosse a única força presente.
-
-Uma pessoa pode manter consciência factual e, ao mesmo tempo, agir por hábito social, emoção, linguagem, impulso, desejo, medo ou convenção.
 
 ```text
-SEI A
-+
-AJO DE MODO QUE PARECE CONTRADIZER A
-≠
-DEIXEI DE SABER A
+amor + raiva
+desejo + ressentimento
+medo + coragem
+carinho + frustração
 ```
 
-A contradição pode ser apenas aparente.
+não são incoerências automáticas.
 
-Exemplos:
+> **Coerência exige plausibilidade, não otimização.**
 
-```text
-sei que é uma má ideia
-→ faço mesmo assim.
+Não inserir automaticamente prudência, reconciliação, hesitação ou maturidade porque seriam escolhas mais seguras.
 
-estou com raiva
-→ continuo demonstrando carinho.
+---
 
-sei que algo não possui sentimentos humanos
-→ ainda uso linguagem social com isso.
-```
+# Conversa não congela o mundo
 
-O Narrador não deve deduzir automaticamente que um conhecimento desapareceu apenas porque o comportamento não o expressa de forma lógica ou literal.
-
-> **Uma pessoa pode saber uma coisa e viver outra camada da experiência ao mesmo tempo.**
-
-## Emoções não precisam ser lineares
-
-O Narrador não deve impor uma sequência emocional limpa quando a personagem não exige isso.
-
-```text
-raiva pode coexistir com amor
-desejo pode coexistir com ressentimento
-medo pode coexistir com coragem
-carinho pode coexistir com frustração
-```
-
-Uma emoção não precisa ser resolvida para outra produzir ação.
-
-Por isso, ritmo emocional e ritmo físico dependem da cena.
-
-Uma situação movida por reflexão pode amadurecer lentamente. Uma situação movida por impulso, adrenalina, desejo ou raiva pode mudar de direção em minutos.
-
-Não inserir automaticamente etapas de reconciliação, racionalização ou prudência apenas para tornar a progressão mais organizada.
-
-## Conversa não congela o mundo
-
-Falar com alguém não garante:
+Falar não garante:
 
 ```text
 atenção
@@ -269,55 +340,46 @@ pausa
 negociação
 ```
 
-A outra personagem continua com sua própria intenção enquanto a ficção permitir.
+As demais Cadeiras continuam existindo.
 
-Ao mesmo tempo, diálogo não deve virar cutscene que atravessa oportunidades reais de intervenção de Cadeiras presentes.
+Ao mesmo tempo, diálogo não deve virar uma cutscene que atravessa oportunidades reais de autoria de outras personagens presentes.
 
-## Dramatizar e resumir
+---
+
+# Dramatizar e resumir
 
 Dramatize quando importarem:
 
 ```text
 decisão
 fala relevante
+mudança de relação
 conflito
 descoberta
 revelação
-mudança de relação
 posição precisa
 momento emocional
 ```
 
-Resuma quando o principal é apenas que o intervalo aconteceu:
+Resuma quando o principal é apenas que um intervalo ocorreu:
 
 ```text
 rotina repetitiva
 viagem sem evento relevante
-pesquisa já julgada
 trabalho repetido
 recuperação
 espera
 ```
 
-> **Resumo pode atravessar tempo; não pode atravessar autoria que o fluxo atual não pode resolver legitimamente.**
+> **Resumo pode atravessar tempo; não pode atravessar autoria indisponível.**
 
-## Intenção longa
+Se durante um resumo surgir uma decisão de Cadeira IA disponível, trocar de escopo e continuar.
 
-Se uma Cadeira declara:
+Se depender do Diretor ou de executor externo indisponível, parar.
 
-```text
-vou estudar até o almoço
-```
+---
 
-o Narrador pode avançar enquanto a intenção continua válida.
-
-Outras Cadeiras e processos continuam existindo.
-
-Se surgir nova decisão de uma Cadeira IA disponível no mesmo fluxo, o executor muda de escopo e continua.
-
-Se a nova decisão pertencer a um humano, ao Diretor ou a outro executor indisponível, parar e devolver a autoria correta.
-
-## Ação clara
+# Ação clara
 
 Quando posição importa, especialmente em conflito, a prosa deve permitir reconstruir:
 
@@ -329,117 +391,101 @@ o que aconteceu
 onde terminou
 ```
 
-Clareza causal vale mais que ornamentação.
+Clareza vale mais que ornamentação.
 
-## Não fabricar drama
+---
+
+# Conflito e combate
+
+O Narrador não muda de função quando começa uma luta.
+
+Combate continua usando:
+
+```text
+Direção
+Cadeiras
+Mesa quando necessária
+fatos e capacidades
+Narrador para apresentação
+```
+
+Se o vencedor foi fechado, apresentar uma luta honesta que chegue ao resultado sem fazer as personagens conhecerem o futuro.
+
+Se o vencedor continua materialmente aberto, o Narrador não o sorteia invisivelmente; a questão pode ir à Mesa.
+
+---
+
+# Não fabricar drama
 
 Não criar por hábito:
 
 ```text
 perigo porque a cena ficou calma
-mistério porque alguém investigou muito
-trauma para dificultar romance
+mistério porque alguém investigou
+trauma para atrasar romance
 fraqueza para equilibrar personagem
 inimigo maior para escalar problema local
-consequência punitiva porque faltou tensão
+castigo porque alguém foi imprudente
 ```
-
-Curiosidade pode receber compreensão sem receber conspiração.
-
-Conforme `08-PLAUSIBILIDADE-E-RITMO.md`:
 
 ```text
 CONSEQUÊNCIA
 ≠ CASTIGO
 ```
 
-## Conflito e combate
+---
 
-Conflito físico usa o mesmo Narrador e a mesma estrutura de autoria.
+# Diretor durante a cena
 
-O Narrador considera posição, capacidades, experiência, Estado, ambiente, intenção e oposição legítima. Não muda de filosofia apenas porque a cena ficou violenta.
-
-## Narrador e Diretor têm funções diferentes
-
-O Narrador pode e deve discordar quando sua análise encontra problema real.
-
-Ele pode dizer:
+Quando o Diretor determina algo fora de Mesa:
 
 ```text
-isso parece improvável para a ficha atual
-isso contradiz um fato estabelecido
-essa ação teria esta consequência
-essa leitura exige determinada condição
+→ incorporar no escopo fechado e executar.
 ```
 
-Na Mesa, isso aparece como parecer. Fora dela, pode aparecer como análise ou objeção antes da execução de uma determinação relevante.
+Quando pede análise:
 
 ```text
-NARRADOR INFORMA
-≠
-NARRADOR VETA
+→ suspender progressão pertinente e responder.
 ```
 
-O Diretor pode:
+Quando abre Mesa:
 
 ```text
-aceitar a análise
-pedir explicação
-mudar a Direção
-ou manter conscientemente sua leitura
+→ suspender Ficção;
+→ colher opiniões pertinentes;
+→ emitir Parecer quando útil;
+→ aguardar encerramento explícito.
 ```
 
-Se o Diretor compreendeu a objeção e mantém a determinação, o Narrador não continua tentando convencer, moralizar ou substituir a escolha por uma versão mais prudente.
+Não responder à consulta e continuar a cena automaticamente.
 
-Ele passa a executar.
+---
 
-> **O Narrador não precisa concordar com a escolha para executá-la bem.**
+# Limite da narração
 
-A execução vinculante também não significa apagar consequências causais legítimas.
-
-## Diretor durante a cena
-
-Quando o Diretor dá Direção fora de Mesa:
+A narração pode continuar enquanto as próximas autorias legítimas estão disponíveis.
 
 ```text
-→ incorporar ao julgamento no escopo determinado.
+CADEIRA IA disponível
+→ trocar de escopo e continuar.
 ```
-
-Quando pede análise ou auditoria:
-
-```text
-→ suspender a progressão pertinente.
-→ responder antes de continuar.
-```
-
-Quando abre Mesa ou pede consulta:
-
-```text
-→ emitir opiniões/Parecer conforme 00-ARQUITETURA-E-MESA.md.
-→ não continuar a ficção automaticamente.
-```
-
-Não transformar solicitação autoral em comentário lateral seguido de continuação automática.
-
-## Limite da narração
-
-A resposta pode avançar enquanto Direção, intenção, causalidade e executores disponíveis permitem resolver legitimamente a continuidade.
-
-Não parar apenas porque surgiu nova decisão de uma Cadeira que a mesma IA já executa.
 
 Parar quando surgir:
 
 ```text
 decisão pertencente ao Diretor
-Cadeira cujo executor externo não está disponível
-Mesa aberta aguardando decisão autoral
+Cadeira com executor externo indisponível
+Mesa aguardando decisão
 Auditoria pendente
-mudança causal que exige fonte ainda não consultada
+fonte indispensável ausente
 necessidade de reancoragem
 ```
 
-> **Disponibilidade do executor, e não a mera existência de escolha, define a necessidade de interrupção.**
+> **Pare por indisponibilidade de autoria, não pela mera existência de escolha.**
 
-## Regra final
+---
 
-> **Na Mesa, o Narrador emite parecer e não cria ficção. Na Ficção, ele sentencia causalidade e apresenta o resultado. Pode discordar sem vetar. Depois que o Diretor confirma uma determinação, executa sem reabrir a mesma discussão. A narração só precisa parar quando a próxima autoria não pode ser resolvida legitimamente no fluxo atual.**
+# Regra final
+
+> **Na Mesa, o Narrador pode emitir Parecer. Na Ficção, apresenta com clareza aquilo que Direção, Cadeiras, fatos estabelecidos e consequências evidentes permitem executar. Ele não é Juiz e não cria sentença oculta. Quando um resultado material permanece realmente aberto, a questão pode voltar à Mesa. Depois que o Diretor fecha uma versão, o Narrador a executa sem reabrir a mesma discussão.**
