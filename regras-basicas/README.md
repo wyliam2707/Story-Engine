@@ -69,6 +69,7 @@ NOVA HISTÓRIA
 → 07-CRIAR-CAMPANHA.md
 
 CONTINUAR HISTÓRIA EXISTENTE
+→ 11-CONTINUAR-HISTORIA-COM-IA.md
 → 06-REGISTRO-E-RETOMADA.md
 → fontes da campanha escolhida
 ```
@@ -339,27 +340,51 @@ A IA deve perguntar somente o que realmente precisa ser decidido pelo Diretor. Q
 
 ---
 
-# Retomar uma história existente
+# Continuar uma história existente
 
 Este ramo só é carregado depois que a operação `CONTINUAR HISTÓRIA EXISTENTE` foi escolhida ou já estiver explícita no pedido.
 
-Use:
+Use primeiro:
+
+```text
+11-CONTINUAR-HISTORIA-COM-IA.md
+```
+
+Esse arquivo define a experiência operacional de retomada:
+
+```text
+identificar a obra correta
+validar seu workspace
+carregar apenas as fontes necessárias
+reconstruir realidade, Cadeiras e Operação
+identificar a camada atual
+identificar a próxima autoria legítima
+continuar sem recriar a obra
+```
+
+Depois aplicar a reancoragem normativa de:
 
 ```text
 06-REGISTRO-E-RETOMADA.md
 ```
 
-Reconstrua:
+Regras importantes:
 
 ```text
-configuração da obra
-Direção
-Estado
-Operação, se houver
-fichas relevantes
-módulos ativos
-pacotes separados das Cadeiras
-primeiro ponto aberto ou decisão autoral pendente
+obra nomeada
+→ não perguntar novamente.
+
+nenhuma obra disponível
+→ informar e oferecer criação de nova história.
+
+uma única obra disponível
+→ identificá-la e prosseguir sem escolha redundante.
+
+várias obras disponíveis
+→ listar de forma curta e deixar o Diretor escolher.
+
+RETOMAR
+≠ RECRIAR
 ```
 
 Não improvise continuidade se o contexto necessário estiver perdido.
@@ -385,27 +410,8 @@ Uma IA nova pode ser validada contra cenários operacionais em:
 
 ```text
 testes/CENARIOS-DE-CONFORMIDADE.md
-```
-
-Os testes verificam especialmente:
-
-```text
-BOOT antes de criar ou retomar
-escolha entre nova história e história existente
-cold start sem interrogatório
-Mesa que não canoniza
-Mesa persistente até confirmação
-CONSULTA FORTE
-Cadeira consultiva de Personagem do Diretor
-isolamento de conhecimento
-Parecer ≠ Sentença
-disponibilidade do executor e regra de parada
-objeção sem veto
-operacao.md
-Registro sem execução
-narração sem aumentar o tabuleiro
-consequência sem punição moral
-reancoragem sem contaminar conhecimento
+testes/BOOT-E-ESCOLHA-DE-OPERACAO.md
+testes/RETOMADA-DE-HISTORIA.md
 ```
 
 A suíte não substitui as regras. Ela verifica se a IA consegue aplicá-las.
@@ -421,6 +427,12 @@ Principais fontes normativas:
 ```text
 BOOT e escolha de operação
 → 09-BOOT-E-ESCOLHA-DE-OPERACAO.md
+
+Criação de nova história com IA
+→ 10-INICIAR-HISTORIA-COM-IA.md
+
+Experiência de retomada com IA
+→ 11-CONTINUAR-HISTORIA-COM-IA.md
 
 Mesa e políticas de consulta
 → 00-ARQUITETURA-E-MESA.md
@@ -440,7 +452,7 @@ Ficha
 Narrador
 → 05-NARRADOR.md
 
-Persistência e retomada
+Persistência e reancoragem
 → 06-REGISTRO-E-RETOMADA.md
 
 Plausibilidade e ritmo
