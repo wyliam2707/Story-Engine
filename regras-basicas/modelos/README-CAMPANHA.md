@@ -36,22 +36,83 @@ personagens/<nome>.md
 
 ## Autoridades
 
+Preencher depois que a configuração de `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md` estiver aprovada.
+
+### Diretor
+
+```text
 DIRETOR
 Executor: [HUMANO / IA / OUTRO]
+```
 
+Na configuração mais comum:
+
+```text
+DIRETOR
+Executor: HUMANO
+```
+
+### Narrador / Juiz
+
+```text
 NARRADOR / JUIZ
 Executor: [HUMANO / IA / OUTRO]
+```
 
+### Personagem do Diretor
+
+Registrar somente se existir:
+
+```text
 PERSONAGEM DO DIRETOR
-- [nome, se houver]
+- [nome]
   - vontade: DIRETOR
-  - executor padrão: [HUMANO / IA / OUTRO]
+  - executor padrão: [HUMANO / IA / OUTRO / IA QUANDO DELEGADA]
+```
 
+```text
+vontade: DIRETOR
+```
+
+significa que decisões voluntárias da personagem continuam pertencendo ao Diretor mesmo quando outro executor recebe autorização para dar forma textual à ação.
+
+```text
+DELEGAR EXECUÇÃO
+≠ TRANSFERIR VONTADE
+```
+
+### Cadeiras
+
+```text
 CADEIRAS
 - [Personagem A] → Executor: [HUMANO / IA / OUTRO]
 - [Personagem B] → Executor: [HUMANO / IA / OUTRO]
+```
+
+Se houver delegação temporária ou limite operacional relevante, registrar somente o escopo real.
 
 Outras personagens podem receber Cadeira persistente ou eventual quando adquirirem decisão voluntária relevante.
+
+```text
+PESSOA
+→ definida pela ficha.
+
+CADEIRA
+→ autoria voluntária da personagem.
+
+EXECUTOR
+→ quem opera essa autoria.
+```
+
+Uma mesma IA pode executar Narrador e várias Cadeiras sem fundi-los.
+
+```text
+MESMO EXECUTOR
+≠ MESMA CADEIRA
+≠ MESMA CONSCIÊNCIA FICCIONAL
+```
+
+Executor e autoridade não pertencem à ficha da personagem.
 
 Se alguma dessas definições ainda não existe durante `EM PREPARAÇÃO`, não preencher inventando. O README pode crescer progressivamente conforme as etapas são aprovadas.
 
@@ -75,6 +136,16 @@ Padrão quando não definido:
 
 ```text
 MESA: SOB DEMANDA
+```
+
+Configurar Cadeiras não escolhe automaticamente a política de Mesa.
+
+```text
+CADEIRA
+→ quem possui autoria da personagem.
+
+POLÍTICA DE MESA
+→ quando essa autoria é consultada fora da Ficção.
 ```
 
 Em qualquer política:
@@ -156,7 +227,7 @@ cânone externo
 
 ## Início operacional
 
-Depois que `direcao.md`, `estado.md` e as fichas iniciais estiverem suficientes:
+Depois que `direcao.md`, `estado.md`, as fichas iniciais e as autoridades necessárias estiverem suficientes:
 
 ```text
 STATUS
@@ -168,7 +239,9 @@ Então:
 ```text
 START
 → reancorar
+→ reconstruir Cadeiras separadamente
 → identificar primeiro ponto aberto
+→ identificar quem possui a próxima autoria
 → iniciar a Ficção.
 ```
 
@@ -191,7 +264,10 @@ Depois, conforme aprovação:
 Personagens centrais
 → adicionar núcleo curto.
 
-Autoridades / políticas / módulos
+Autoridades
+→ adicionar depois das fichas iniciais suficientes e da configuração aprovada.
+
+políticas / módulos
 → adicionar somente quando definidos.
 ```
 
