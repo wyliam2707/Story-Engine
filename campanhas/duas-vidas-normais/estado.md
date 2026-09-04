@@ -1,6 +1,6 @@
 # Estado
 
-Momento: quinta-feira à noite, depois da primeira semana de namoro oficial de Kara e Daniel e do início da rivalidade entre Supergirl e Myrddin.
+Momento: segunda-feira à noite, depois do primeiro confronto público entre Supergirl e Myrddin, do primeiro combate em cooperação contra uma ameaça comum e das primeiras pistas cruzadas que chegam perto das identidades civis sem produzir reconhecimento.
 
 ## Autoridades atuais
 
@@ -16,319 +16,406 @@ Momento: quinta-feira à noite, depois da primeira semana de namoro oficial de K
 
 - Kara e Daniel continuam sem conhecer a identidade extraordinária um do outro.
 - Kara conhece Daniel como estudante de Física, jogador de basquete, namorado e jovem de família antiga com hábitos um pouco formais.
-- Daniel conhece Kara como estudante de Jornalismo, namorada e jovem que vive ligada a uma família não convencional em Metropolis.
-- Kara e Daniel estão oficialmente namorando desde sábado.
-- O relacionamento civil está funcionando bem e ganhou rapidamente rotina própria: mensagens de bom-dia e boa-noite, almoços, beijos, tempo juntos e brincadeiras recorrentes sobre o “contrato” do SAC.
-- Na noite de quarta-feira, a intimidade física dos dois avançou além das noites anteriores, de forma consensual, não gráfica, sem crise ou arrependimento posterior.
-- Na quinta-feira, ambos estavam felizes, um pouco sem jeito pela novidade e naturalmente mais próximos fisicamente.
-- Nenhum dos dois interpreta o parceiro como alguém extraordinário.
+- Daniel conhece Kara como estudante de Jornalismo, namorada e jovem ligada a uma família não convencional em Metropolis.
+- Kara e Daniel estão oficialmente namorando desde o sábado anterior.
+- O relacionamento civil está funcionando muito bem e já possui rotina própria de mensagens, almoços, beijos, estudo conjunto, noites no apartamento e brincadeiras sobre o “contrato” do SAC.
+- Na quarta-feira anterior, a intimidade física avançou de forma consensual e não gráfica.
+- Kara agora mantém parte de suas roupas no apartamento de Daniel e possui uma gaveta própria ali.
+- Os dois passaram sábado e quase todo domingo juntos como casal, sem crise ou interferência extraordinária durante esse período.
+- Nenhum dos dois interpreta conscientemente o parceiro como alguém extraordinário.
 
-## Intimidade e pistas recentes
+## Pistas civis já estabelecidas
 
-Na quarta-feira, durante uma noite romântica no apartamento de Daniel:
+### Kara sobre Daniel
 
-- Daniel preparou jantar com velas, vinho e conversa comum.
-- A proximidade física cresceu naturalmente e nenhum dos dois criou um freio artificial.
-- Kara, distraída e excitada, deformou sem querer uma pequena peça metálica sob o revestimento do sofá e tentou não chamar atenção para isso.
-- Daniel, igualmente distraído, deixou as chamas das velas crescerem e se inclinarem juntas por um instante antes de corrigir magicamente o efeito.
-- Kara percebeu o comportamento estranho das velas, mas aceitou a explicação civil de “corrente de ar” sem investigar.
-- Daniel não percebeu a marca deixada por Kara no sofá.
-- Os dois atravessaram uma nova fronteira de intimidade naquela noite.
+Kara sabe que Daniel:
 
-Esses fatos funcionam como pistas retrospectivas, não como gatilho automático de investigação.
+- fala pelo menos algum galês;
+- já usou `Hardd iawn` com ela;
+- pertence a uma família antiga;
+- possui hábitos formais e tradições familiares incomuns;
+- estuda Física, pesquisa muito e gosta de livros;
+- mantém boa disciplina física;
+- tem um vínculo próximo com Morgana;
+- esconde dos olhos dela a verdadeira dimensão mágica de sua vida.
 
-## Conclave e ruptura
+Kara ainda não sabe que:
 
-No domingo, Myrddin aceitou investigar a possível ruptura sobrenatural apresentada pelo Conclave Arcano.
+- Daniel é Myrddin;
+- o nome tradicional completo dele é `Daniel Myrddin o'r Dirgel`;
+- `Myrddin` é seu segundo nome tradicional, não um codinome inventado;
+- a tradição Arcanus está ligada ao Conclave e às referências antigas que Diana começou a reconhecer;
+- o galês usado por Myrddin em alguns encantamentos é a mesma língua que Daniel conhece civilmente.
 
-Morgana o acompanhou como apoio de linha de frente.
+### Daniel sobre Kara
 
-### Descoberta estrutural
+Daniel já possui o traço estabelecido de notar e reter proporções, postura, ritmo de movimento, gestos e maneira de se mover de pessoas que chamam sua atenção.
 
-- Os três selos de Metropolis continuavam estruturalmente utilizáveis.
-- Uma quarta frequência ativa conectava os três por ressonância.
-- Reforçar apenas um selo fazia a pressão migrar para os outros dois.
-- A quarta frequência compensava ativamente tentativas locais de bloqueio.
+Na segunda-feira à noite, observando Kara mover-se de forma banal diante da mesa, sentiu uma familiaridade corporal inesperada com movimentos vistos em Supergirl durante os confrontos e a luta de domingo.
 
-### Solução temporária
+A associação foi breve:
 
-Myrddin criou uma contenção de equilíbrio ligando os três selos para redistribuir pressão e impedir que a força central ganhasse terreno.
+```text
+Kara se move
+→ sensação de familiaridade
+→ memória de Supergirl
+→ “não”
+→ hipótese descartada antes de se formar por inteiro
+```
 
-Resultado:
+Isso não constitui suspeita consciente nem reconhecimento.
 
-- a ruptura parou de crescer;
-- os selos permaneceram estáveis por enquanto;
-- a causa não foi eliminada;
-- a contenção comprou tempo, provavelmente dias, desde que o sistema não mude.
+Daniel ainda não sabe que:
 
-## Entidade espiritual
+- Kara é Supergirl;
+- o cabelo preto e os óculos fazem parte da composição civil dela;
+- a força de Kara deformou uma pequena peça metálica do sofá na quarta-feira;
+- a familiaridade de movimento vem da mesma pessoa em duas apresentações diferentes.
 
-A pesquisa de Daniel identificou um padrão compatível com entidades que atravessam parcialmente, usam hospedeiros vivos como âncoras e podem abandonar um corpo quando ameaçadas.
+## Sexta-feira — encontro civil
 
-A hipótese foi confirmada na segunda-feira.
+Kara e Daniel passaram a tarde no shopping depois das aulas.
 
-A entidade:
+- Kara comprou roupas.
+- Ela sugeriu deixar algumas peças no apartamento de Daniel.
+- Os dois passaram por uma livraria; Kara encontrou Daniel na seção de Física e brincou com o hábito dele de comprar livros.
+- O encontro terminou normalmente antes de cada um voltar à própria vida extraordinária.
 
-- possui a mesma frequência ligada aos selos;
-- pode ancorar-se em seres humanos;
-- altera movimento e voz do hospedeiro;
-- tenta abandonar o corpo quando ameaçada;
-- está aprendendo a criar pontos secundários de ligação pela cidade;
-- parece testar formas de recuperar acesso aos três selos sem retornar diretamente ao centro original;
-- já utilizou mais de um hospedeiro ou pelo menos deixou indícios consistentes disso;
-- está se tornando melhor em esconder ou romper o próprio rastro.
+## Sexta-feira — confronto público
 
-## Primeiro encontro — Supergirl e Myrddin
+À noite, Myrddin seguiu um novo ponto secundário ligado à entidade e estabilizou resíduos numa estrutura elevada próxima ao distrito comercial.
 
-Na segunda-feira à noite, Myrddin localizou um hospedeiro em um prédio industrial.
+Supergirl já estava procurando Myrddin e reconheceu sinais da magia dele.
 
-Ele usou Proteção e Selamento para:
+Ela o encontrou antes que ele partisse.
 
-- conter fisicamente o hospedeiro sem destruí-lo;
-- impedir a fuga imediata da entidade;
-- tentar separar a presença espiritual da pessoa.
+Fatos do encontro:
 
-Supergirl, em patrulha rotineira, encontrou a cena sem conhecer o contexto.
+- Kara bloqueou a saída e declarou que ele não desapareceria outra vez.
+- Myrddin tentou abrir um portal.
+- Kara tentou segurá-lo.
+- Myrddin respondeu com barreira, mobilidade, redirecionamento e contenção.
+- Kara rompeu a contenção.
+- Myrddin conseguiu abrir distância e sair por portal.
+- O confronto durou aproximadamente vinte segundos.
+- Nenhum dos dois tentou causar dano sério ao outro.
+- Nenhum venceu de forma clara.
+- Myrddin percebeu finalmente que Supergirl não havia apenas interferido por acaso: ela estava procurando por ele deliberadamente.
 
-Os fatos disponíveis para Kara mostravam:
+A troca final foi:
 
-- um homem aparentemente preso e lutando;
-- um mago desconhecido de aparência ameaçadora;
-- estruturas mágicas sendo reforçadas ao redor da pessoa.
+**MYRDDIN:**
+> Pare de me perseguir.
 
-Kara atacou sem conversar.
+**SUPERGIRL:**
+> Pare de fugir.
 
-Myrddin respondeu com uma contenção muito forte, semelhante às que usa quando precisa segurar Morgana em treinamento.
+Aproximadamente dezesseis segundos do confronto foram gravados por um observador e circularam publicamente sem o contexto inicial.
 
-A prisão segurou Supergirl por aproximadamente cinco segundos antes de começar a romper.
+## Reação de Bruce ao vídeo de sexta
 
-Durante esses segundos, a entidade abandonou o hospedeiro e fugiu.
+Bruce analisou o vídeo quadro a quadro.
 
-Myrddin:
+Sua leitura:
 
-- liberou o homem, que caiu inconsciente, mas vivo;
-- partiu imediatamente atrás da entidade;
-- não explicou a situação a Kara.
+- Supergirl tentou deter Myrddin;
+- Myrddin priorizou sair;
+- ele teve oportunidades de ampliar a luta e não o fez;
+- defesa, reposicionamento e contenção dominaram o comportamento dele;
+- o vídeo não prova inocência, mas também não sustenta uma leitura simples de agressor procurando combate.
 
-Kara:
+Bruce orientou Kara a descobrir antes de decidir.
 
-- rompeu a contenção;
-- encontrou o homem desacordado;
-- não viu claramente a entidade escapar;
-- garantiu atendimento para o homem;
-- passou a interpretar Myrddin como usuário de magia possivelmente hostil.
+## Clark
 
-O homem recuperou consciência de forma confusa e não forneceu evidência suficiente para esclarecer a situação.
+Clark viu o vídeo de sexta e perguntou se Kara estava bem.
 
-## Leitura atual de Myrddin sobre Supergirl
+Kara respondeu que sim, apenas irritada.
 
-Daniel sabe que:
+Clark não transformou o episódio em interrogatório nem mobilização familiar.
 
-- Supergirl interferiu na captura;
-- ela entrou atacando sem conhecer o contexto;
-- a interferência permitiu à entidade escapar;
-- sua contenção consegue segurá-la por alguns segundos, embora não indefinidamente.
+## Morgana
 
-Daniel ainda não sabe que Supergirl passou a procurar Myrddin deliberadamente.
+Morgana reconheceu no vídeo de sexta a lógica de combate de Daniel e concluiu que Supergirl estava deliberadamente tentando detê-lo.
 
-Sua leitura atual é principalmente de irritação com uma heroína poderosa que interferiu de maneira imprudente e pode voltar a fazê-lo.
+Ela:
+
+- brincou que o chapéu de Myrddin continuava fazendo-o parecer culpado;
+- ofereceu ajuda diretamente;
+- Daniel respondeu que ainda não precisava;
+- Morgana respeitou a resposta;
+- advertiu apenas que ele não transformasse a situação em questão de orgulho.
+
+Depois Daniel informou que passaria o fim de semana com Kara.
+
+Morgana aprovou e encerrou com a frase irônica:
+
+> “Divirta-se com sua namorada normal.”
+
+Morgana continua sem saber que Kara é Supergirl.
+
+## Fim de semana civil
+
+Kara passou sábado e boa parte de domingo com Daniel.
+
+Fatos importantes:
+
+- trouxe roupas compradas na sexta;
+- recebeu uma gaveta inteira no apartamento;
+- deixou parte das roupas ali;
+- cozinharam, assistiram filme, conversaram e dormiram juntos;
+- a intimidade da quarta-feira já deixou de parecer uma fronteira excepcional e passou a integrar naturalmente o relacionamento;
+- domingo teve manhã tardia, café, almoço fora, caminhada e livraria;
+- Kara percebeu silenciosamente o significado doméstico de ter uma gaveta no quarto de Daniel;
+- os dois se despediram no começo da noite combinando naturalmente a segunda-feira.
+
+## Domingo à noite — manifestação demoníaca
+
+Depois da despedida, os marcadores ligados ao sistema de contenção reagiram de forma intensa.
+
+A quarta frequência não estava apenas pressionando os selos: conseguiu abrir uma passagem em outro ponto da cidade.
+
+Uma criatura demoníaca física atravessou parcialmente para Metropolis.
+
+A entidade que Daniel vinha investigando não era o próprio demônio; a investigação indicou que ela vinha tentando construir ou preparar a passagem que permitiu a manifestação.
+
+### Myrddin
+
+Myrddin chegou primeiro.
+
+Sua primeira ação foi proteger civis com Proteção e Selamento [3], colocando barreiras entre a criatura e as pessoas em risco.
+
+Ele identificou que o problema central era a passagem aberta.
+
+### Supergirl
+
+Supergirl chegou pela emergência visível.
+
+Ao chegar, viu Myrddin:
+
+- protegendo civis;
+- mantendo a criatura afastada deles;
+- usando exatamente a mesma família de magia de contenção que anteriormente havia usado contra ela.
+
+Isso destruiu a hipótese simples de que ele fosse apenas um vilão atacando pessoas.
+
+### Combate conjunto
+
+Supergirl e Myrddin lutaram juntos pela primeira vez.
+
+A dinâmica funcionou de forma surpreendentemente eficiente:
+
+- Kara forneceu força, pressão física e capacidade de manter a criatura no lugar;
+- Myrddin controlou espaço, protegeu civis, redirecionou movimento e trabalhou no fechamento da passagem;
+- a energia infernal/mágica da criatura afetou Kara de forma mais relevante que um impacto puramente físico;
+- Myrddin chegou a proteger Kara de uma rajada mágica com uma barreira;
+- Kara segurou o demônio durante os três segundos necessários para Daniel reorganizar o selo;
+- Myrddin desconectou o ponto da rede em vez de simplesmente tentar esmagar a ruptura;
+- Kara empurrou a criatura de volta;
+- Myrddin fechou a passagem.
+
+A ameaça imediata foi contida.
+
+## Conversa depois da luta
+
+Depois de fechar a passagem:
+
+**SUPERGIRL:**
+> Então era isso que você estava fazendo?
+
+**MYRDDIN:**
+> Estou tentando impedir que algo assim atravesse há uma semana.
+
+Kara reconheceu que a leitura anterior estava incompleta.
+
+Quando disse que ele poderia ter explicado, Myrddin respondeu:
+
+> “Você começou me socando.”
+
+Kara admitiu:
+
+> “Certo.”
+
+Ela ainda pediu respostas antes que ele partisse.
+
+Myrddin respondeu:
+
+> “Pelo menos agora está perguntando.”
+
+Kara não tentou impedir o portal dessa vez.
 
 ## Leitura atual de Kara sobre Myrddin
 
-Depois do primeiro encontro, Kara registrou com a Liga:
+A leitura simples de “vilão” foi abandonada.
 
-- usuário de magia desconhecido;
-- possivelmente hostil;
-- ativo em Metropolis;
-- capaz de contê-la temporariamente;
-- associado a um homem encontrado inconsciente.
-
-A Liga não iniciou mobilização geral. Kara continua a investigação por conta própria.
-
-Na terça e quinta-feira, Kara encontrou locais pelos quais Myrddin havia passado pouco antes.
-
-### Terça-feira
-
-Kara encontrou sinais mágicos familiares numa instalação abandonada e concluiu que Myrddin continuava circulando pela região industrial.
-
-Ela ainda interpretava os sinais principalmente como rastro de um suspeito.
-
-### Quinta-feira
-
-Kara encontrou uma contenção deixada por Myrddin numa antiga subestação.
-
-Dessa vez:
-
-- não havia vítima;
-- não havia sinal de ataque humano;
-- a estrutura parecia conter alguma coisa de dentro para fora;
-- havia marcas internas de pressão contra a barreira.
-
-Isso não inocentou Myrddin, mas enfraqueceu a leitura simples de “vilão”.
-
-A pergunta interna de Kara mudou de:
+Estado atual:
 
 ```text
-Quem é esse vilão?
+provavelmente bem-intencionado
++
+claramente ligado à ameaça sobrenatural
++
+protege civis
++
+competente
++
+ainda esconde informação
++
+ainda irritante
 ```
 
-para algo mais próximo de:
+Kara quer respostas, mas agora pretende obtê-las por investigação e conversa antes de presumir agressão.
+
+## Leitura atual de Myrddin sobre Supergirl
+
+Daniel já sabe que Supergirl estava procurando especificamente por ele.
+
+Depois da luta de domingo, sua leitura também mudou.
+
+Estado atual:
 
 ```text
-O que exatamente esse mago está fazendo?
+cabeça-dura
++
+interferiu de forma imprudente na primeira captura
++
+genuinamente heroica
++
+competente
++
+capaz de seguir instruções úteis sob pressão
++
+surpreendentemente eficaz trabalhando junto com ele
 ```
 
-Ela continua desconfiada e continua seguindo seus rastros.
+A irritação permanece, mas a leitura deixou de ser apenas negativa.
 
-## Gato e rato
+## Segunda-feira — repercussão pública
 
-A dinâmica atual é:
+O vídeo do combate de domingo circulou junto do confronto de sexta.
+
+A imagem pública de Myrddin começou a mudar de “mago desconhecido enfrentando Supergirl” para uma leitura mais ambígua de possível aliado, vigilante ou operador sobrenatural independente.
+
+No almoço da faculdade, Daniel e Kara ouviram dois estudantes comentarem que Supergirl e Myrddin “têm química”.
+
+Os dois responderam quase simultaneamente:
+
+> “Não têm.”
+
+Eles acharam apenas engraçado concordarem tão rápido.
+
+Nenhum reconheceu a ironia.
+
+## Batman — perfil operacional de Myrddin
+
+Na segunda-feira, Bruce apresentou a Kara uma análise mais completa dos vídeos.
+
+Conclusões de Bruce:
+
+- Myrddin usa repetidamente a mesma lógica: Proteção → Controle de posição → Contenção;
+- ele não parece procurar dano quando existe solução estrutural;
+- contra Kara, ela funcionou como obstáculo, não como alvo de destruição;
+- parte das magias usa fala, mas nem toda magia exige componente verbal;
+- quando há fala, a fonética é consistente com família britônica;
+- galês é a hipótese linguística principal;
+- bretão e córnico permanecem possibilidades secundárias;
+- a evidência ainda é insuficiente para identificar Myrddin civilmente.
+
+Kara lembrou por um instante que Daniel conhece galês, inclusive do `Hardd iawn`, mas a coincidência não se transformou em suspeita.
+
+## Diana — referência histórica
+
+Diana reconheceu não os símbolos específicos de Myrddin, mas a lógica de sua magia.
+
+Segundo registros antigos de Themyscira, existem tradições britânicas em que proteção é tratada como definição de limite:
 
 ```text
-MYRDDIN
-→ caça a entidade.
-
-SUPERGIRL
-→ caça Myrddin.
+este lado
+outro lado
+quem pode atravessar
+quem não pode
+onde uma passagem termina
 ```
 
-- Nem todo dia produz confronto direto.
-- Myrddin frequentemente passa por um local primeiro e Kara chega depois.
-- Kara começa a encontrar evidências ambíguas que não combinam perfeitamente com a hipótese de vilão.
-- Myrddin ainda não percebeu plenamente que ela está seguindo especificamente seus rastros.
-- A rivalidade deve permanecer real por alguns dias, mesmo com dúvida crescente.
+Diana citou um nome encontrado em registros antigos:
 
-## Dupla leitura civil
+`O'r Dirgel`
 
-Kara e Daniel já começaram a reclamar um para o outro de suas vidas extraordinárias usando linguagem que parece perfeitamente comum.
+Os registros não permitem concluir se o termo designava:
 
-Exemplos canonizados:
+- uma pessoa;
+- um título;
+- uma linhagem;
+- uma tradição.
 
-### Terça de manhã
+Bruce identificou o termo como galês, em sentido aproximado de “do oculto” ou “do secreto”, dependendo do uso.
 
-Daniel disse que estava quase resolvendo um mistério quando apareceu uma “variável nova” e precisou começar outro livro, comparando a situação a renormalização em teoria quântica de campos.
+Diana associou os relatos a limites, passagens, selamentos e antigas tradições britânicas, mas não afirmou que Myrddin pertence necessariamente a elas.
 
-Para Kara, isso pareceu reclamação normal de pesquisa de um estudante de Física.
+Bruce registrou:
 
-Para o leitor, a “variável nova” era Supergirl interferindo na contenção.
+`O'R DIRGEL — REFERÊNCIA HISTÓRICA / NÃO IDENTIFICADA`
 
-Kara respondeu sobre sua própria noite:
+`IDENTIDADE: INSUFICIENTE`
 
-> “Irritante. Vi um filme horrível sobre uma criatura de olhos amarelos.”
+Kara não conhece `o'r Dirgel` como parte do nome tradicional de Daniel.
 
-Para Daniel, isso pareceu comentário comum sobre um filme ruim.
+## Segunda-feira — pista corporal de Daniel
 
-Para o leitor, a “criatura de olhos amarelos” era Myrddin.
+À noite, Daniel e Kara estudaram juntos, cara a cara, falando apenas de faculdade.
 
-Mais tarde, Kara pensou que pelo menos não era a única que havia passado a noite estudando sem chegar a lugar nenhum, enquanto Daniel reclamava de pesquisa que produziu dados sem resposta final.
+Durante um movimento banal de Kara para alcançar uma caneta, Daniel percebeu familiaridade na transferência de peso, postura e gesto do ombro.
 
-Essa forma de referência deve continuar suave e não dominar todas as conversas.
+A memória associou o movimento a Supergirl corrigindo o corpo no ar e segurando o demônio no domingo.
 
-## Kara e Clark
+Daniel pensou:
 
-No domingo, Kara ligou para Clark depois de voltar do fim de semana com Daniel.
+> “...eu conheço isso.”
 
-Ela informou diretamente que:
+Depois:
 
-- Daniel agora é oficialmente seu namorado;
-- ela está feliz com isso.
+> “Não.”
 
-Clark ficou contente e disse que gostaria de conhecer Daniel algum dia.
+A associação foi descartada sem virar hipótese consciente.
 
-Kara respondeu que algum dia sim, mas não naquele dia.
+Do lado de Kara, a palavra “galês” também apareceu por um instante enquanto olhava para Daniel, mas desapareceu diante da normalidade da conversa civil.
 
-Clark não recebeu detalhes íntimos do fim de semana ou da quarta-feira.
+Os dois encerraram a noite considerando a presença um do outro a parte simples de suas vidas.
 
-## Daniel e Morgana
+## Sistema sobrenatural ativo
 
-Morgana já sabia que Daniel e Kara estavam namorando e que ele pretendia apresentá-las algum dia.
-
-Na quinta-feira, Daniel passou pela Casa Arcanus para consultar registros e buscar material.
-
-Morgana percebeu que ele estava simultaneamente cansado e muito satisfeito.
-
-Ela provocou:
-
-> “Você parece descansado.”
-
-Daniel respondeu:
-
-> “Não estou.”
-
-Morgana:
-
-> “Curioso.”
-
-Ela perguntou como Kara estava, recebeu apenas “bem” e não forçou detalhes.
-
-Morgana não sabe exatamente o que aconteceu na quarta-feira, mas percebeu que alguma coisa positiva mudou na intimidade do casal.
-
-## Conhecimento de Kara
-
-Kara sabe que:
-
-- Daniel é seu namorado;
-- ele estuda Física e pesquisa muito;
-- fala pelo menos algum galês;
-- aprendeu dança social com Morgana por tradição familiar;
-- possui compromissos familiares que às vezes não pode remarcar;
-- mora em apartamento comum próximo ao campus;
-- mantém rotina física disciplinada;
-- gosta de magia e linhagem Arcanus apenas dentro do que foi apresentado civilmente, sem saber a dimensão sobrenatural real;
-- preparou uma noite romântica na quarta-feira e deseja intimidade com ela.
-
-Kara não sabe que:
-
-- Daniel é Myrddin;
-- a Casa Arcanus é uma propriedade mágica;
-- o compromisso de domingo era o Conclave;
-- o mago de olhos amarelos é seu namorado;
-- ela permitiu acidentalmente que a entidade escapasse na segunda-feira;
-- as velas da quarta-feira reagiram à magia de Daniel.
-
-## Conhecimento de Daniel
-
-Daniel sabe que:
-
-- Kara é sua namorada;
-- ela deseja e aceita proximidade afetiva e física com ele;
-- o relacionamento avançou intimamente na quarta-feira;
-- Kara possui excelente condicionamento e controle corporal dentro da leitura que ele ainda considera humana;
-- Kara passou uma noite irritante na segunda e descreveu ter visto um “filme horrível sobre uma criatura de olhos amarelos”.
-
-Daniel não sabe que:
-
-- Kara é Supergirl;
-- Supergirl o está seguindo deliberadamente;
-- Kara encontrou e estudou contenções deixadas por Myrddin;
-- a força de Kara deformou parte do sofá na quarta-feira;
-- a “criatura de olhos amarelos” era uma referência civil a ele mesmo.
+- A contenção de equilíbrio dos três selos principais continua sendo a solução temporária de Myrddin para impedir crescimento da ruptura original.
+- A entidade espiritual continua sendo o processo investigativo central e não foi capturada.
+- A entidade demonstrou capacidade de usar hospedeiros e criar pontos secundários.
+- Um desses processos conseguiu preparar ou explorar uma passagem pela qual uma criatura demoníaca atravessou no domingo.
+- O ponto específico usado pelo demônio foi desconectado e fechado por Myrddin com ajuda física de Supergirl.
+- Não está estabelecido que a ameaça geral terminou.
 
 ## Processos ativos
 
-1. A contenção de equilíbrio dos três selos continua segurando a ruptura por enquanto.
-2. A entidade continua solta e aprendendo a criar pontos secundários de ligação.
-3. Myrddin continua investigando a entidade.
-4. Supergirl continua investigando Myrddin.
-5. A suspeita de Kara começou a adquirir ambiguidade, mas a rivalidade não foi resolvida.
-6. Daniel ainda não sabe que é alvo específico da investigação de Supergirl.
-7. O namoro civil continua funcionando bem.
-8. Pequenas pistas retrospectivas continuam acumulando-se sem investigação forçada.
+1. Kara e Daniel continuam o namoro civil, agora com intimidade consolidada e espaço doméstico de Kara no apartamento.
+2. Myrddin continua investigando a entidade e a estrutura de passagem.
+3. Supergirl continua querendo respostas sobre Myrddin, mas deixou de tratá-lo como vilão presumido.
+4. A rivalidade heroica permanece, agora misturada com respeito profissional e experiência de cooperação bem-sucedida.
+5. Bruce continua com identificação insuficiente, mas possui perfil operacional e hipótese linguística britônica/galesa.
+6. Diana possui referência histórica a `O'r Dirgel`, ainda ambígua.
+7. Kara possui uma pista intelectual sobre galês/tradição antiga, mas nenhuma suspeita consciente de Daniel.
+8. Daniel possui uma pista sensorial sobre movimento corporal, mas nenhuma suspeita consciente de Kara.
+9. Morgana sabe que Supergirl estava caçando Myrddin e que Daniel recusou ajuda por enquanto.
+10. As pistas devem continuar funcionando retrospectivamente sem forçar investigação antes que exista base suficiente.
 
 ## Último fato estabelecido
 
-Na quinta-feira à noite, Kara e Daniel trocaram mensagens simples de boa-noite depois de passarem o dia separados em suas investigações extraordinárias.
+Na segunda-feira à noite, Kara e Daniel estavam juntos estudando e falando de faculdade.
 
-Myrddin havia fechado um ponto secundário usado pela entidade numa antiga subestação.
+Cada um teve uma associação breve com a identidade extraordinária do outro e descartou a ideia antes de ela se transformar em suspeita consciente.
 
-Supergirl chegou depois e reconheceu que a contenção parecia impedir alguma coisa de sair, criando sua primeira dúvida concreta sobre a hipótese de Myrddin ser simplesmente um vilão.
-
-O Capítulo 7 — “Variável Nova” foi encerrado e registrado no Livro.
+O Capítulo 8 — “Mesma Luta” foi encerrado e registrado no Livro.
 
 ## Primeiro ponto aberto
 
-A continuidade começa na sexta-feira.
+A continuidade começa na terça-feira.
 
-Nenhuma ação específica da manhã foi estabelecida depois do fechamento de quinta-feira.
+Nenhuma ação específica da manhã foi estabelecida depois do fechamento da segunda-feira.
 
-A próxima movimentação de Daniel, Kara, Morgana, Clark, Liga, Conclave ou entidade permanece aberta às respectivas Cadeiras e à Direção do Diretor.
+As próximas iniciativas de Daniel, Kara, Morgana, Bruce, Diana, Clark, Liga, Conclave ou entidade permanecem abertas às respectivas Cadeiras e à Direção do Diretor.
