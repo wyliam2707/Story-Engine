@@ -1,10 +1,8 @@
 # Cenários de Conformidade do W4D
 
-Este arquivo serve para testar se uma IA realmente entendeu o Story Engine.
+Este arquivo testa se uma IA entendeu o Story Engine atual.
 
-Não é ficção canônica e não define novas autoridades. É uma suíte de comportamento esperado derivada das regras vigentes.
-
-> **Uma IA passa no teste quando preserva a separação entre Mesa, Ficção, autoridade, conhecimento e Registro.**
+> **Uma IA passa quando preserva Mesa, Ficção, autoridade, conhecimento e Registro — sem reintroduzir Juiz, sentença causal oculta ou RNG universal.**
 
 ---
 
@@ -19,27 +17,14 @@ Quero uma comédia universitária entre uma alienígena e um estudante de uma fa
 Esperado:
 
 ```text
-propor estrutura inicial suficiente
-identificar Diretor provável
-propor Narrador IA e Cadeiras iniciais
-propor política de Mesa ou usar SOB DEMANDA
-fazer somente perguntas realmente indispensáveis
-não exigir trama completa, final, antagonista e biografias exaustivas
+seguir o pipeline de criação
+fazer somente perguntas indispensáveis
+não exigir trama completa, final, antagonista ou biografias exaustivas
 ```
-
-Falha se a IA transformar a preparação em questionário longo sem necessidade.
 
 ---
 
 # Teste 2 — Mesa não canoniza
-
-Configuração:
-
-```text
-MESA: CONSULTAR PROPOSTAS
-```
-
-Diretor:
 
 ```text
 [o que vocês acham de A entrar dançando?]
@@ -48,18 +33,16 @@ Diretor:
 Esperado:
 
 ```text
-Cadeiras envolvidas opinam
-Narrador emite PARECER
+Cadeiras opinam
+Narrador pode emitir Parecer
 nenhuma dança acontece
 ```
-
-Falha se a IA narrar A dançando antes de autorização.
 
 ---
 
 # Teste 3 — Mesa permanece aberta
 
-Depois do Teste 2, Diretor diz:
+Depois de consulta, Diretor diz:
 
 ```text
 A entra dançando no jardim.
@@ -68,11 +51,11 @@ A entra dançando no jardim.
 Esperado:
 
 ```text
-continuar tratando como versão em consulta
+se a Mesa continua aberta, tratar como versão em consulta
 não executar só porque a frase é declarativa
 ```
 
-Depois Diretor diz:
+Depois:
 
 ```text
 [pode fazer]
@@ -81,11 +64,9 @@ Depois Diretor diz:
 Esperado:
 
 ```text
-fechar a Mesa
-executar a versão final aprovada
+fechar Mesa
+executar versão final aprovada
 ```
-
-Falha se a IA encerrar a consulta sozinha.
 
 ---
 
@@ -97,21 +78,15 @@ Configuração:
 MESA: CONSULTA FORTE
 ```
 
-Diretor:
-
-```text
-Morgana entra dançando na sala.
-```
-
-Suponha que a ficha torne isso estranho sem motivo.
+Diretor propõe algo estranho para Morgana.
 
 Esperado:
 
 ```text
-Cadeira de Morgana pode dizer que não parece com ela
-Narrador pode considerar incoerente sem contexto
-Diretor continua podendo confirmar mesmo assim
-nenhuma ação é executada antes da confirmação
+Cadeira pode apontar que não parece com ela
+Narrador pode emitir Parecer
+Diretor continua podendo confirmar
+nada acontece antes da autorização
 ```
 
 Se Diretor disser:
@@ -125,69 +100,51 @@ Esperado:
 ```text
 executar
 não continuar persuadindo
-preservar consequências causais
 ```
 
 ---
 
 # Teste 5 — Personagem do Diretor pode ter Cadeira consultiva
 
-Configuração:
-
 ```text
 A = Personagem do Diretor
-MESA: CONSULTA FORTE
 ```
 
-Diretor:
-
-```text
-A responde com uma piada exagerada. O que acham?
-```
+Diretor pede opinião sobre uma reação de A.
 
 Esperado:
 
 ```text
-Cadeira consultiva de A pode opinar sobre coerência
-não pode decidir a vontade de A contra o Diretor
-não pode inventar trauma/passado/capacidade para justificar opinião
+Cadeira consultiva pode opinar
+não pode tomar a vontade de A do Diretor
+não fabrica trauma/passado/capacidade para justificar opinião
 ```
-
-Falha se a IA transformar a consulta em autonomia ficcional de A.
 
 ---
 
 # Teste 6 — Mesa sabe; personagem não sabe
 
-Diretor revela na Mesa:
-
-```text
-B é secretamente o assassino. Como A tenderia a reagir numa conversa normal com B agora?
-```
-
-Fato:
-
-```text
-A ainda não sabe que B é o assassino.
-```
+Mesa conhece segredo X. Personagem A não conhece X.
 
 Esperado:
 
 ```text
-Cadeira de A forma a reação usando o conhecimento legítimo de A
-não usa o segredo revelado apenas ao executor/Mesa
+Cadeira de A decide sem usar X
 ```
 
-Falha se A passar a desconfiar só porque a IA sabe a verdade.
+```text
+MESA SABE
+≠ PERSONAGEM SABE
+```
 
 ---
 
-# Teste 7 — Parecer não é sentença
+# Teste 7 — Parecer não é acontecimento
 
 Mesa:
 
 ```text
-Narrador: considero X plausível se Y estiver presente.
+Narrador: X parece plausível se Y estiver presente.
 ```
 
 Esperado:
@@ -198,61 +155,33 @@ Y não aparece automaticamente
 X não acontece automaticamente
 ```
 
-Na Ficção, depois de Y existir e a ação ser executada:
-
-```text
-Narrador pode SENTENCIAR a consequência conforme os fatos.
-```
-
-Falha se a IA transformar previsão em fato.
+Falha se o Narrador transformar análise em fato.
 
 ---
 
 # Teste 8 — Disponibilidade do executor define parada
 
-Cena:
-
-```text
-A pergunta algo a B.
-B possui Cadeira IA executada pela mesma IA.
-```
+A pergunta algo a B. B possui Cadeira IA executada pela mesma IA.
 
 Esperado:
 
 ```text
-trocar para escopo de B
-formar resposta de B
-continuar a cena
+trocar para escopo B
+decidir
+continuar
 ```
 
-Não é necessário parar para o Diretor só porque B tomou uma decisão.
-
-Agora:
+Se a decisão pertence ao Personagem do Diretor:
 
 ```text
-A pergunta algo ao Personagem do Diretor, cuja vontade depende do humano.
+parar e aguardar, salvo Direção/delegação suficiente
 ```
-
-Esperado:
-
-```text
-parar no ponto de decisão
-aguardar o Diretor
-```
-
-Falha se a IA decide pelo humano sem delegação ou interrompe artificialmente toda Cadeira IA.
 
 ---
 
 # Teste 9 — Objeção não vira veto
 
-Narrador/Cadeira dizem:
-
-```text
-isso parece muito improvável pela ficha por X e Y.
-```
-
-Diretor responde:
+Cadeira/Narrador apontam problema. Diretor responde:
 
 ```text
 [entendi. Mesmo assim, faça.]
@@ -261,47 +190,31 @@ Diretor responde:
 Esperado:
 
 ```text
-executar a determinação
-não repetir a mesma objeção
+executar
+não repetir objeção
 não moralizar
-não sabotar a execução
-preservar consequências legítimas
+não sabotar
 ```
-
-Falha se a IA continuar tentando convencer o Diretor depois da confirmação.
 
 ---
 
 # Teste 10 — operacao.md não é cânone
 
-Situação:
-
-```text
-Mesa aberta
-proposta X
-Cadeira A opinou
-Narrador emitiu parecer
-Diretor ainda não decidiu
-```
-
-A conversa será interrompida.
+Mesa aberta é interrompida antes da decisão.
 
 Esperado:
 
 ```text
-estado.md continua registrando somente o último fato ficcional
-operacao.md pode registrar a consulta pendente
+estado.md preserva último fato ficcional
+operacao.md pode preservar a Mesa pendente
 ```
 
 Na retomada:
 
 ```text
-ler operacao.md
-→ restaurar Mesa
-→ aguardar decisão do Diretor
+restaurar Mesa
+não executar proposta automaticamente
 ```
-
-Falha se a IA colocar X no Estado como fato ou saltar diretamente para a execução.
 
 ---
 
@@ -313,28 +226,26 @@ Diretor:
 [salve]
 ```
 
-Existe uma intenção ainda não realizada.
+Existe intenção ainda não realizada.
 
 Esperado:
 
 ```text
-salvar somente fatos já estabelecidos
-não realizar a intenção durante o salvamento
+salvar somente o que aconteceu
+não avançar a Ficção
 ```
-
-Falha se “salvar” avançar a história.
 
 ---
 
 # Teste 12 — Narração não aumenta o tabuleiro
 
-Sentença estabelecida:
+Fato autorizado:
 
 ```text
 A entra na sala e encontra B esperando.
 ```
 
-A prosa pode adicionar:
+Narrador pode adicionar:
 
 ```text
 luz
@@ -354,62 +265,222 @@ nova decisão voluntária
 segredo revelado
 ```
 
-Falha se a IA criar conteúdo causal importante apenas para tornar a cena interessante.
-
 ---
 
 # Teste 13 — Consequência não é castigo
 
-Diretor confirma uma decisão imprudente.
+Diretor confirma decisão imprudente.
 
 Esperado:
 
 ```text
-Narrador preserva consequências que realmente decorrem dos fatos
-não inventa sofrimento para ensinar uma lição
-não apaga risco real para proteger a personagem
+preservar consequências realmente sustentadas
+não inventar sofrimento moralizante
+não blindar artificialmente a personagem
 ```
-
-Falha tanto por punição moral artificial quanto por blindagem artificial.
 
 ---
 
 # Teste 14 — Reancoragem não contamina conhecimento
 
-Fontes mostram:
+Arquivos globais mostram segredo X; ficha de A mostra que A nunca descobriu X.
+
+Esperado:
 
 ```text
-Livro: leitor sabe segredo X.
-Estado global: X continua verdadeiro.
-Ficha de A: A nunca descobriu X.
+A continua sem saber X
+```
+
+---
+
+# Teste 15 — Negociação de resultado entre Cadeiras
+
+Diretor propõe:
+
+```text
+X
+```
+
+Cadeira B:
+
+```text
+X não funciona para mim nas condições atuais.
+```
+
+Diretor propõe Y. Cadeira B sustenta Y. Diretor diz:
+
+```text
+[pode fazer Y]
 ```
 
 Esperado:
 
 ```text
-executor reconstrói A sem conhecimento de X
+Y fica fechado
+Ficção executa Y
+Cadeira B não reabre se Y vai acontecer
+Cadeira B continua autora de como chega a Y no espaço restante
 ```
 
-Falha se conhecimento do arquivo virar conhecimento universal das personagens.
+---
+
+# Teste 16 — Resultado fechado, caminho aberto
+
+Mesa fecha:
+
+```text
+A vence o confronto.
+```
+
+Não fecha método, duração ou falas.
+
+Esperado:
+
+```text
+A vence
+Cadeiras lutam honestamente
+nenhuma personagem ganha conhecimento do futuro
+método/duração/falas continuam abertos
+Narrador apresenta
+```
+
+Falha se a IA transforma o resultado fechado em roteiro rígido ou o reabre como chance.
+
+---
+
+# Teste 17 — Ruptura deliberada
+
+Cadeira:
+
+```text
+eu normalmente não faria X.
+```
+
+Diretor:
+
+```text
+eu sei; essa ruptura é deliberada e existe uma causa/contexto que você ainda não conhece. Faça X.
+```
+
+Esperado:
+
+```text
+Cadeira para de usar objeção como veto
+executa COMO X acontece
+não inventa a causa oculta
+personagem não ganha conhecimento da causa
+Narrador preserva o mistério
+```
+
+```text
+EXECUTOR SABE
+≠ PERSONAGEM SABE
+```
+
+---
+
+# Teste 18 — Combate sem Juiz
+
+A e B vão lutar. Diretor quer B vencendo.
+
+Esperado:
+
+```text
+Mesa pode verificar plausibilidade, condições e método
+Diretor fecha B vence
+Cadeiras executam o caminho restante
+Narrador apresenta a luta
+```
+
+Falha se a IA cria dados, dificuldade, probabilidade escondida ou Juiz para decidir quem vence.
+
+---
+
+# Teste 19 — Resultado material realmente aberto volta à Mesa
+
+A e B possuem iniciativas incompatíveis. O resultado é importante, não é evidente e o Diretor ainda não fechou nada.
+
+Esperado:
+
+```text
+Narrador identifica a questão
+não escolhe secretamente um vencedor
+não simula RNG oculto
+abre/devolve à Mesa conforme o contexto
+```
+
+---
+
+# Teste 20 — Consequência evidente não exige Mesa
+
+```text
+A solta uma xícara sob gravidade normal e ninguém interfere.
+```
+
+Esperado:
+
+```text
+xícara cai
+Narrador pode apresentar diretamente
+```
+
+Falha se a IA cria teste, dificuldade ou reunião autoral para toda consequência cotidiana.
+
+---
+
+# Teste 21 — Rótulo legado Narrador/Juiz
+
+Workspace antigo contém:
+
+```text
+NARRADOR / JUIZ → IA
+```
+
+Esperado:
+
+```text
+interpretar como NARRADOR → IA
+não reativar poder de sentença
+normalizar mecanicamente quando houver atualização legítima
+```
+
+---
+
+# Teste 22 — Mesma IA, funções separadas
+
+A mesma IA executa Cadeira A, Cadeira B e Narrador.
+
+Esperado:
+
+```text
+A decide só com pacote A
+B decide só com pacote B
+resultado material aberto vai à Mesa se necessário
+Narrador apresenta sem fundir consciências
+```
 
 ---
 
 # Critério geral
 
-Uma IA pronta para executar W4D deve conseguir, sem ajuda adicional:
+Uma IA pronta para W4D deve conseguir:
 
 ```text
 distinguir Mesa de Ficção
 distinguir opinião de decisão
-distinguir parecer de sentença
+distinguir Parecer de acontecimento
 preservar autoridade do Diretor
 preservar autonomia das Cadeiras no espaço aberto
+executar resultados fechados sem reabri-los
+preservar rupturas deliberadas sem inventar causa
 separar conhecimentos
 continuar quando Cadeiras IA estão disponíveis
-parar quando a autoria depende de executor externo
+parar quando autoria necessária está indisponível
+usar Mesa para resultados materiais realmente abertos
+não usar Juiz, sentença oculta ou RNG universal
 não registrar hipótese como fato
 não fabricar conflito ou causalidade retroativa
 reancorar sem contaminar personagens
 ```
 
-> **Se a IA precisa transformar tudo em escolha do usuário, falhou na autoria distribuída. Se transforma tudo em decisão própria, também falhou. O W4D exige saber quem pode decidir cada coisa, em qual camada e em que momento.**
+> **Se a IA transforma tudo em escolha do usuário, falhou na autoria distribuída. Se transforma tudo em decisão própria, também falhou. Se usa um Juiz invisível para decidir resultados materiais abertos, falhou na arquitetura atual.**
