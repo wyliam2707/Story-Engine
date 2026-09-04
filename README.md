@@ -1,291 +1,141 @@
-# W4D — RPG Puramente Narrativo de Autoria Distribuída
+# W4D — Arquitetura de Autoria Narrativa Distribuída
 
-## Proposta
+W4D nasceu como um RPG puramente narrativo, mas evoluiu para uma arquitetura mais ampla de construção de ficção.
 
-**W4D é um RPG puramente narrativo de autoria distribuída.**
+Ele pode ser usado como:
 
-Cada personagem possui uma Cadeira com agência própria. A ficha estabelece fatos. O Narrador julga o encontro entre decisões e realidade. O Diretor conduz a obra e pode deixar a história emergir ou fechar pontos específicos quando desejar.
+```text
+RPG narrativo
+coautoria de histórias com IA
+sala de roteiro distribuída
+fanfic assistida
+motor para ficção seriada
+```
 
-> **As Cadeiras escrevem. A ficha estabelece fatos. O Narrador julga. O Diretor conduz.**
+A ideia central continua simples:
 
-A história não precisa ser decidida por dados. Ela nasce do encontro entre autores, fatos, causalidade e Direção.
+> **O Diretor conduz. As Cadeiras preservam as personagens. O Narrador julga. A ficção executa. O Registro preserva.**
 
 ---
 
 # Se você é uma IA: comece aqui
 
-Este repositório é **autossuficiente**.
-
-Você não precisa de conversa anterior para aprender o sistema.
-
-Use como autoridade operacional:
+Leia primeiro:
 
 ```text
-1. os arquivos atuais da branch main;
-2. os arquivos canônicos da campanha que estiver sendo jogada;
-3. as Direções atuais do Diretor.
+regras-basicas/README.md
 ```
 
-Não trate como regra:
+Essa pasta é a especificação operacional do W4D e foi escrita para ser autossuficiente.
+
+Ela explica:
 
 ```text
-memória de conversas anteriores
-suposições sobre outros RPGs
-versões antigas recuperadas do histórico do Git
-cânone externo de personagens que a ficha da campanha tenha redefinido
-hábitos narrativos não registrados
+Mesa de Autoria
+Diretor e Direção
+Cadeiras e Executores
+Resolução causal
+Ficha
+Narrador/Juiz
+Plausibilidade e ritmo
+Registro e retomada
+Criação de campanha/história
+Inicialização de uma história com IA
 ```
 
-O histórico do Git só deve ser consultado quando o Diretor pedir explicitamente uma auditoria histórica.
+Não use como regra versões antigas recuperadas do histórico do Git, memória de conversas anteriores ou hábitos genéricos de outros RPGs quando os arquivos atuais definirem a questão.
 
-## Ordem de leitura
-
-Para aprender o motor, leia nesta ordem:
-
-```text
-README.md
-↓
-regras-basicas/01-AUTORIDADE-E-DIRECAO.md
-↓
-regras-basicas/02-RESOLUCAO.md
-↓
-regras-basicas/03-CADEIRAS-E-EXECUTORES.md
-↓
-regras-basicas/04-FICHA.md
-↓
-regras-basicas/05-NARRADOR.md
-↓
-regras-basicas/06-REGISTRO-E-RETOMADA.md
-↓
-regras-basicas/07-CRIAR-CAMPANHA.md
-↓
-regras-basicas/08-PLAUSIBILIDADE-E-RITMO.md
-```
-
-Depois leia **somente os módulos ativados** pela campanha.
+A branch `main` representa o sistema vigente.
 
 ---
 
-# Mapa rápido do sistema
+# O ciclo do W4D
+
+## Mesa
+
+O Diretor pode testar uma ideia antes de colocá-la na ficção.
+
+```text
+PROPOSTA
+→ Cadeiras envolvidas opinam
+→ Narrador analisa e julga
+→ Diretor altera, cancela ou confirma
+```
+
+Enquanto a Mesa estiver aberta:
+
+```text
+PROPOSTA ≠ CÂNONE
+OPINIÃO DA CADEIRA ≠ ACONTECIMENTO
+ANÁLISE DO NARRADOR ≠ FICÇÃO
+```
+
+A Mesa termina quando o Diretor manda executar ou cancelar.
+
+## Ficção
+
+Depois da confirmação:
+
+```text
+Cadeiras exercem autoria no espaço aberto
+→ Narrador cruza fatos, intenções e Direção
+→ consequência é estabelecida
+→ prosa apresenta o que aconteceu
+```
+
+## Registro
+
+Quando solicitado:
+
+```text
+ficção estabelecida
+→ fontes canônicas são atualizadas
+```
+
+> **Registrar preserva. Não cria.**
+
+---
+
+# Autoridades principais
 
 ```text
 DIRETOR
-→ conduz a obra.
-→ pode deixar aberto, consultar, orientar ou determinar.
-
-DIREÇÃO
-→ conteúdo autoral emitido pelo Diretor.
-→ fecha somente aquilo que foi efetivamente determinado.
+→ conduz a obra e pode deixar aberto, alinhar ou determinar.
 
 CADEIRA
-→ autoria voluntária de uma personagem.
-→ pode iniciar ações e ter a primeira ideia.
+→ autoria voluntária de uma personagem dentro do espaço aberto.
 
 EXECUTOR
-→ humano, IA ou outro meio que opera uma autoridade.
-→ não muda a natureza da autoridade.
-
-FICHA
-→ fonte canônica de quem a personagem é.
-
-ESTADO
-→ fonte canônica de como a ficção está agora.
+→ humano, IA ou outro participante que opera uma autoridade.
 
 NARRADOR / JUIZ
-→ cruza Direção, decisões, fatos e causalidade.
-→ estabelece a consequência.
+→ cruza fatos, intenções, capacidades e Direção; sentencia e narra.
 
 AUDITORIA
-→ verifica fatos, coerência, autoridade e escopo.
-→ informa; não governa o Diretor.
-
-OPOSITOR
-→ módulo opcional para forças adversariais persistentes sem Cadeira própria.
+→ verifica fatos, coerência, autoridade e escopo; informa sem governar o Diretor.
 ```
 
----
-
-# Regra mais importante de autoria
-
-> **A autonomia existe dentro do espaço que permanece aberto.**
-
-Exemplo:
+Uma única IA pode executar várias Cadeiras e o Narrador, desde que mantenha os escopos separados.
 
 ```text
-DIRETOR
-→ [A perde este confronto. A forma está aberta.]
-```
-
-Isso fecha:
-
-```text
-A perde.
-```
-
-Mas deixa aberto, salvo nova Direção:
-
-```text
-como A tenta vencer
-como B joga
-falas
-decisões intermediárias
-forma concreta da derrota
-```
-
-A Cadeira de A continua tentando agir como A realmente agiria.
-
-```text
-DIRETOR SABE QUE A PERDE
+MESMO EXECUTOR
 ≠
-A SABE QUE VAI PERDER
-```
-
-O executor não faz A se sabotar e também não procura uma brecha para transformar a derrota em vitória.
-
----
-
-# Comunicação do Diretor em texto
-
-Na execução textual, colchetes identificam comunicação fora da ficção:
-
-```text
-[texto]
-→ Diretor.
-```
-
-**Os colchetes identificam a camada; a semântica identifica a operação.**
-
-```text
-[quero que X aconteça]
-→ DIREÇÃO
-→ seguir.
-
-[acho que X foi incoerente; justifique]
-→ ANÁLISE
-→ suspender a progressão pertinente e explicar.
-
-[confira X nas fontes]
-→ AUDITORIA
-→ parar, consultar e verificar.
-
-[o que seria mais coerente?]
-→ CONSULTA
-→ apresentar alternativas; não escolher pelo Diretor.
-
-[isso está errado; corrija conforme o cânone]
-→ CORREÇÃO
-→ verificar e reconstruir.
-```
-
-Uma IA não deve responder a um pedido de auditoria com um comentário breve e continuar a cena como se nada tivesse acontecido.
-
----
-
-# Fluxo básico de cena
-
-```text
-DIRETOR pode orientar ou deixar aberto
-↓
-CADEIRA declara intenção
-↓
-NARRADOR consulta fatos
-↓
-OS FATOS JÁ DETERMINAM?
-├─ SIM → sentenciar
-└─ NÃO
-   ↓
-   EXISTE DECISÃO VOLUNTÁRIA REALMENTE DISPONÍVEL A OUTRA CADEIRA?
-   ├─ SIM → essa Cadeira decide
-   └─ NÃO → não criar reação
-↓
-AUDITAR objeção factual, se houver
-↓
-NARRADOR cruza tudo e sentencia
-↓
-NARRAR
-↓
-PARAR quando surgir nova decisão realmente disponível
-```
-
-## Ser afetado não cria reação
-
-```text
-SER AFETADO
-≠
-TER UMA DECISÃO DISPONÍVEL
-```
-
-Uma Cadeira só recebe escolha quando percepção, tempo, oportunidade, posição, capacidade e meios realmente permitem decidir.
-
-> **A existência de uma Cadeira protege autoria; não garante oposição.**
-
----
-
-# Ficha
-
-A ficha descreve a pessoa, não um orçamento.
-
-Ela registra:
-
-```text
-Descrição Física
-Conceito
-Competências e Conhecimentos
-Traços, Poderes e Meios
-Personalidade e Vida Emocional
-Histórico
-```
-
-O Estado temporário fica fora da ficha para existir em uma única fonte.
-
-Capacidades podem receber graduação apenas quando comparação for útil:
-
-```text
-[1] — EXTRAORDINÁRIO
-[2] — ELITE
-[3] — ÁPICE
-```
-
-```text
-[1] < [2] < [3]
-```
-
-A graduação mede intensidade do efeito descrito. Não cria nível geral.
-
----
-
-# Narrador
-
-O Narrador não escreve voluntariamente pelas Cadeiras.
-
-> **Julgue primeiro. Narre depois. Registre por último.**
-
-A prosa pode dar forma a tom, voz, ritmo, gesto e atmosfera, mas não pode esconder dentro da descrição uma nova ameaça, recurso, decisão ou solução.
-
-Combate, romance, investigação, exploração e cotidiano usam a mesma estrutura de autoria. O foco muda; o motor não.
-
-Plausibilidade humana e forma narrativa também obedecem ao mesmo princípio: personagens não são obrigadas a agir da maneira mais prudente, relações específicas podem produzir exceções plausíveis, consequência não é castigo e maior densidade de prosa não autoriza novo cânone. Para isso, consulte:
-
-```text
-regras-basicas/08-PLAUSIBILIDADE-E-RITMO.md
+MESMA CADEIRA
 ```
 
 ---
 
-# Campanha
+# Criar uma história
 
-Antes de qualquer ficha, Direção ou Estado, a campanha deve possuir **nome e pasta canônica**.
+Se ainda não existe uma campanha/história, siga:
 
 ```text
-Nome da campanha
-→ slug estável
-→ campanhas/<slug>/README.md
-→ só então criar os demais arquivos.
+regras-basicas/10-INICIAR-HISTORIA-COM-IA.md
 ```
 
-Em GitHub, o `README.md` funciona como arquivo-âncora porque pastas vazias não persistem.
+No W4D, `campanha` é apenas o nome técnico do espaço persistente da obra. Ela pode ou não ser um RPG.
 
-A estrutura mínima recomendada é:
+A estrutura mínima recomendada continua:
 
 ```text
 campanhas/<slug>/
@@ -295,34 +145,33 @@ campanhas/<slug>/
 └── personagens/
 ```
 
-Arquivos opcionais aparecem somente quando necessários:
+Modelos estão em:
 
 ```text
-mundo/
-arco.md
-oposicao.md
-livro/
+regras-basicas/modelos/
 ```
 
-> **Nenhum arquivo de campanha deve ser produzido sem um destino canônico já definido.**
+---
 
-Para criar uma campanha, siga:
+# Retomar uma história
 
-```text
-regras-basicas/07-CRIAR-CAMPANHA.md
-```
-
-Para retomar uma campanha existente:
+Para continuar uma obra existente:
 
 ```text
-localizar a pasta canônica da campanha
-→ README da campanha
+campanha README
 → direcao.md
 → estado.md
 → fichas relevantes
-→ módulos ativos pertinentes
+→ módulos ativos
 → reancorar
-→ continuar do primeiro ponto aberto.
+→ identificar primeiro ponto aberto
+→ continuar
+```
+
+Detalhes em:
+
+```text
+regras-basicas/06-REGISTRO-E-RETOMADA.md
 ```
 
 ---
@@ -331,76 +180,23 @@ localizar a pasta canônica da campanha
 
 ```text
 regras-basicas/modulos/ARCO-PREPARADO.md
-→ preparação prévia de um arco e fatos que precisam existir antes da descoberta.
-
 regras-basicas/modulos/OPOSITOR.md
-→ autoridade estratégica para forças adversariais persistentes sem Cadeira própria.
-
 regras-basicas/modulos/ROMANCE.md
-→ orientações para histórias que tratam romance e intimidade adulta como foco relevante.
-
 regras-basicas/modulos/LIVRO.md
-→ registro opcional da ficção canonizada, organizado como uma obra composta por capítulos.
 ```
 
-Quando o Livro estiver ativo, ele registra o que aconteceu na ficção e exclui Direção, consultas, auditorias, instruções de cena e demais metaconversas.
-
-Módulo inativo não participa da campanha.
-
----
-
-# Exemplo operacional mínimo
-
-```text
-DIRETOR
-→ [quero que A provoque B porque considera B indigno, até a situação chegar a um confronto.]
-
-→ trajetória vinculante.
-→ a execução decide como chegar lá dentro do espaço aberto.
-
-CADEIRA DE A
-→ age segundo a personalidade de A e produz a provocação de forma própria.
-
-CADEIRA DE B
-→ responde somente quando e como a ficção realmente lhe oferece decisão.
-
-NARRADOR
-→ julga cada encontro e conduz a causalidade até o confronto.
-```
-
-Mais tarde:
-
-```text
-DIRETOR
-→ [acho que a reação de B foi incoerente; confira a ficha e justifique.]
-```
-
-Então:
-
-```text
-PROGRESSÃO PERTINENTE
-→ PARA.
-
-AUDITORIA
-→ consulta ficha, Estado e contexto.
-→ explica se a reação foi coerente.
-→ corrige se houver fundamento ou se o Diretor assim determinar.
-```
-
-Esse comportamento é parte do sistema, não uma preferência de conversa.
+Módulo inativo não participa da obra.
 
 ---
 
 # Princípio documental
 
-A documentação ativa segue:
-
 > **Uma ideia, uma definição, uma fonte principal.**
 
-Se dois arquivos parecerem contraditórios, use o arquivo cuja função é especificamente definir aquela questão e, se necessário, abra Auditoria. A branch `main` representa o sistema vigente.
+Quando duas leituras parecerem competir, use o arquivo cuja função é definir especificamente aquela questão e abra Auditoria se necessário.
 
 ---
 
 ## Lema
 
-> **As Cadeiras escrevem. A ficha estabelece fatos. O Narrador julga. O Diretor conduz.**
+> **Propor para ouvir. Julgar para entender. Determinar para fechar. Executar para existir. Registrar para preservar.**
