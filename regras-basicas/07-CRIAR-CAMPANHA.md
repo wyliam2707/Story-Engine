@@ -9,11 +9,11 @@ RPG narrativo
 fanfic
 romance seriado
 aventura colaborativa
-história conduzida por um Diretor com Cadeiras IA
+história conduzida por Diretor com Cadeiras IA
 qualquer outra ficção compatível com a arquitetura
 ```
 
-> **Nome e pasta definidos + Direção suficiente + autoridades definidas + personagens necessárias + Estado inicial = história pronta para executar.**
+> **Nome e pasta definidos + Direção suficiente + autoridades definidas + política operacional + personagens necessárias + Estado inicial = história pronta.**
 
 Para uma IA iniciando do zero, este arquivo deve ser lido junto de `10-INICIAR-HISTORIA-COM-IA.md`.
 
@@ -30,27 +30,19 @@ Antes de escrever Direção, fichas, Estado ou qualquer outro artefato:
 4. criar imediatamente campanhas/<slug>/README.md como arquivo-âncora.
 ```
 
-Exemplo:
+Modelo:
 
 ```text
-Nome: História Exemplo
-Slug: historia-exemplo
-Pasta: campanhas/historia-exemplo/
+modelos/README-CAMPANHA.md
 ```
 
-Em sistemas como GitHub, uma pasta vazia não persiste. Por isso o `README.md` deve nascer junto com a campanha, ainda que inicialmente contenha apenas:
+Em sistemas como GitHub, uma pasta vazia não persiste. Por isso o `README.md` deve nascer junto com a obra, ainda que inicialmente contenha apenas:
 
 ```text
 # [NOME]
 
 STATUS
 → EM PREPARAÇÃO
-```
-
-Modelo disponível:
-
-```text
-modelos/README-CAMPANHA.md
 ```
 
 > **Nenhum arquivo da obra deve ser produzido sem um destino canônico já definido.**
@@ -65,6 +57,13 @@ campanhas/<slug>/
 ├── direcao.md
 ├── estado.md
 └── personagens/
+```
+
+Fonte transitória opcional:
+
+```text
+operacao.md
+→ somente quando Mesa, Auditoria, Correção ou outra operação precisar persistir.
 ```
 
 Outras fontes aparecem somente quando cumprem função real.
@@ -106,21 +105,13 @@ que espaço continua aberto
 
 A Direção não precisa prever a trama inteira.
 
-Uma frase simples pode bastar para começar:
-
-```text
-"aventura urbana centrada na convivência entre três personagens e nos problemas que elas escolhem investigar"
-```
-
-O Diretor pode aprofundar, corrigir ou substituir Direções ao longo da obra.
-
-Não registrar como Direção uma hipótese que ainda está apenas em Mesa de Autoria.
+Não registrar como Direção uma hipótese que ainda está apenas na Mesa.
 
 ---
 
-# Passo 2 — Autoridades
+# Passo 2 — Autoridades e políticas
 
-Atualizar o `README.md` da campanha.
+Atualizar o `README.md` da obra.
 
 Definir no mínimo:
 
@@ -130,6 +121,8 @@ NARRADOR / JUIZ
 CADEIRAS INICIAIS
 EXECUTOR DE CADA AUTORIDADE
 PERSONAGEM DO DIRETOR, quando houver
+POLÍTICA DE MESA
+POLÍTICA DE INDICADOR OPERACIONAL
 MÓDULOS ATIVOS
 ```
 
@@ -144,6 +137,37 @@ MESMA CADEIRA
 ```
 
 Executor não pertence à ficha da personagem.
+
+## Política de Mesa
+
+Escolher conforme `00-ARQUITETURA-E-MESA.md`:
+
+```text
+MESA: SOB DEMANDA
+MESA: CONSULTAR PROPOSTAS
+MESA: CONSULTA FORTE
+```
+
+Se nada for registrado:
+
+```text
+MESA: SOB DEMANDA
+```
+
+## Indicador operacional
+
+Escolher:
+
+```text
+INDICADOR OPERACIONAL: SILENCIOSO
+INDICADOR OPERACIONAL: VISÍVEL
+```
+
+Padrão do Story Engine:
+
+```text
+INDICADOR OPERACIONAL: SILENCIOSO
+```
 
 ---
 
@@ -172,25 +196,13 @@ Personagens secundárias podem receber ficha ou Cadeira depois, quando passarem 
 
 # Passo 4 — Mesa inicial, quando necessária
 
-Antes de canonizar premissas comportamentais importantes, a IA pode abrir uma Mesa de Autoria conforme `00-ARQUITETURA-E-MESA.md`.
-
-Exemplo:
+Antes de canonizar premissas comportamentais importantes, a IA pode abrir uma Mesa de Autoria conforme `00-ARQUITETURA-E-MESA.md` e a política configurada.
 
 ```text
-DIRETOR
-→ propõe uma dinâmica entre A e B.
-
-CADEIRA A
-→ diz se isso combina com A.
-
-CADEIRA B
-→ diz como B tenderia a receber a situação.
-
-NARRADOR
-→ julga plausibilidade, fatos e consequências.
-
-DIRETOR
-→ ajusta, cancela ou confirma.
+DIRETOR PROPÕE
+→ CADEIRAS ENVOLVIDAS OPINAM
+→ NARRADOR EMITE PARECER
+→ DIRETOR AJUSTA, CANCELA OU AUTORIZA EXECUÇÃO
 ```
 
 Nada discutido vira acontecimento apenas porque as Cadeiras concordaram.
@@ -205,6 +217,8 @@ DIRETOR
 FICÇÃO
 → estabelece.
 ```
+
+Se a Mesa precisar ser interrompida e retomada depois, criar `operacao.md` usando `modelos/OPERACAO.md`.
 
 ---
 
@@ -265,46 +279,22 @@ Detalhes neutros podem surgir por criação emergente conforme `02-RESOLUCAO.md`
 
 Ativar somente o que a obra realmente usa.
 
-### Arco Preparado
-
-Seguir:
-
 ```text
 modulos/ARCO-PREPARADO.md
-```
-
-### Opositor
-
-Seguir:
-
-```text
 modulos/OPOSITOR.md
-```
-
-### Romance
-
-Seguir:
-
-```text
 modulos/ROMANCE.md
-```
-
-### Livro
-
-Seguir:
-
-```text
 modulos/LIVRO.md
 ```
 
-Quando ativo, o Livro preserva a ficção canonizada em capítulos e exclui:
+Quando o módulo Livro estiver ativo, o Livro preserva a ficção canonizada e exclui:
 
 ```text
 Direção
 Mesa de Autoria
-consultas
-Auditorias
-análises
+opiniões consultivas
+Parecer
+Auditoria
+Análise
 hipóteses
 versões canceladas
 ```
@@ -317,15 +307,18 @@ Antes de começar, confirmar:
 
 ```text
 [ ] A obra possui nome e pasta canônica.
-[ ] README.md da campanha existe.
+[ ] README.md da obra existe.
 [ ] Sei quem é o Diretor.
 [ ] Sei quem executa o Narrador/Juiz.
 [ ] As Cadeiras iniciais e executores estão definidos.
 [ ] Se existe Personagem do Diretor, sua vontade está atribuída corretamente.
+[ ] A política de Mesa está definida ou aceita o padrão SOB DEMANDA.
+[ ] A política de indicador está definida ou aceita o padrão SILENCIOSO.
 [ ] direcao.md reconhece a proposta sem tentar prever toda a trama.
 [ ] as fichas iniciais são autossuficientes.
 [ ] estado.md possui último fato e primeiro ponto aberto.
 [ ] hipóteses de Mesa não foram registradas como fatos.
+[ ] operacao.md existe somente se houver operação real pendente.
 [ ] somente módulos realmente usados estão ativos.
 [ ] fatos secretos necessários possuem fonte legítima.
 ```
@@ -334,17 +327,8 @@ Quando estiver suficiente:
 
 ```text
 STATUS
-→ PRONTA PARA EXECUTAR
+→ PRONTA
 ```
-
-ou, se a obra preferir linguagem de RPG:
-
-```text
-STATUS
-→ PRONTA PARA JOGAR
-```
-
-Os dois estados significam que a arquitetura está pronta e o primeiro ponto aberto pode ser iniciado.
 
 ---
 
@@ -356,8 +340,9 @@ Depois da preparação:
 START
 → reancorar o mínimo necessário
 → reconstruir pacotes separados das Cadeiras
-→ identificar o primeiro ponto aberto
-→ abrir a primeira cena
+→ restaurar operacao.md se houver operação pendente
+→ caso contrário identificar o primeiro ponto aberto
+→ iniciar ou retomar a camada correta
 ```
 
 O Diretor não precisa fornecer toda a primeira cena.
@@ -370,17 +355,16 @@ Também não existe obrigação de começar por ação, conflito ou perigo.
 
 # Retomar obra existente
 
-Quando a campanha já existe:
-
 ```text
 localizar a pasta canônica
-→ README da campanha
+→ README da obra
 → direcao.md
 → estado.md
+→ operacao.md, se existir e estiver ativo
 → fichas relevantes
 → módulos ativos pertinentes
 → reancorar conforme 06-REGISTRO-E-RETOMADA.md
-→ continuar do primeiro ponto aberto
+→ continuar da camada e ponto corretos
 ```
 
 Não pedir novamente informação que já está registrada.
@@ -389,4 +373,4 @@ Não pedir novamente informação que já está registrada.
 
 # Regra final
 
-> **Crie somente a estrutura necessária para a história existir agora. Direção define a condução; autoridades definem quem pode decidir; fichas preservam as pessoas; Estado preserva o presente; a Mesa permite testar ideias sem canonizá-las; a ficção estabelece acontecimentos; o Registro preserva o que realmente ocorreu.**
+> **Crie somente a estrutura necessária para a história existir agora. Direção define a condução; autoridades definem quem pode decidir; políticas definem como a Mesa e a interface operam; fichas preservam as pessoas; Estado preserva a realidade; Operação preserva perguntas transitórias; Ficção estabelece acontecimentos; Registro preserva o que realmente ocorreu.**
