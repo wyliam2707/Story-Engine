@@ -1,16 +1,16 @@
 # Módulo Opcional — Livro
 
-O `LIVRO` preserva a ficção canonizada da campanha em capítulos.
+O `LIVRO` preserva a ficção canonizada da obra em capítulos.
 
-Ele é opcional. A campanha pode funcionar somente com Direção, Estado, Fichas e demais fontes necessárias.
+Ele é opcional. A obra pode funcionar somente com Direção, Estado, Fichas e demais fontes necessárias.
 
-> **O Livro registra a ficção que aconteceu. Não registra a direção usada para produzi-la.**
+> **O Livro registra a ficção que aconteceu. Não registra o processo autoral usado para produzi-la.**
 
 ## Livro e capítulos
 
-O Livro é a obra completa da campanha.
+O Livro é o conjunto canônico da ficção registrada.
 
-Os capítulos são as unidades que compõem essa obra.
+Os capítulos são as unidades que compõem esse registro.
 
 ```text
 LIVRO
@@ -24,7 +24,7 @@ Não criar uma fonte paralela chamada `capitulos/` quando o módulo Livro estive
 
 ## O que entra
 
-O Livro registra somente ficção realmente estabelecida:
+O Livro registra somente Ficção realmente estabelecida:
 
 ```text
 narração válida
@@ -44,7 +44,9 @@ Não entram no Livro:
 
 ```text
 Direção
-Consulta
+Mesa de Autoria
+opinião consultiva de Cadeira
+Parecer do Narrador
 Auditoria
 Análise
 Correção como metaconversa
@@ -59,7 +61,7 @@ versão anulada por correção ou refação
 
 > **Direção consumida pode produzir ficção. A Direção em si não entra no Livro.**
 
-## Forma de registro
+## Forma de registro canônico
 
 O capítulo deve preservar claramente a origem da ficção quando isso for conhecido.
 
@@ -69,20 +71,14 @@ Formato recomendado:
 NARRADOR:
 Descrição, consequência ou fato narrado.
 
-KARA:
-— Fala ou ação estabelecida para Kara.
+PERSONAGEM A:
+— Fala ou ação estabelecida.
 
-KARA — pensamento:
-*Interioridade estabelecida de Kara.*
-
-DANIEL:
-— Fala ou ação estabelecida para Daniel.
-
-DANIEL — pensamento:
-*Interioridade estabelecida de Daniel.*
+PERSONAGEM A — pensamento:
+*Interioridade estabelecida.*
 ```
 
-Aplicar o mesmo padrão a outras personagens quando necessário.
+Aplicar o mesmo padrão às demais personagens quando necessário.
 
 Esses marcadores ajudam a preservar:
 
@@ -98,11 +94,9 @@ O Livro pode melhorar apenas apresentação mínima — ortografia, pontuação,
 
 Não deve converter automaticamente o registro em romance tradicional nem apagar marcadores de autoria/interioridade.
 
-Uma adaptação literária diferente pode ser produzida posteriormente como material derivado, se o Diretor desejar.
-
 ## Versão válida
 
-Se uma cena foi corrigida, refeita ou anulada durante o jogo:
+Se uma cena foi corrigida, refeita ou anulada durante a execução:
 
 ```text
 versão anulada
@@ -126,19 +120,6 @@ livro/
 
 `livro/README.md` funciona como índice da obra e aponta a ordem dos capítulos.
 
-Exemplo:
-
-```text
-# Nome da Campanha
-
-## Capítulos
-
-001 — Primeiro capítulo
-002 — Segundo capítulo
-```
-
-Se a campanha usa Arcos Preparados, capítulos podem ser agrupados editorialmente mais tarde. Essa organização não altera o cânone.
-
 ## Fechar capítulo
 
 Quando o comando `fechar o capítulo` for usado com este módulo ativo:
@@ -146,18 +127,19 @@ Quando o comando `fechar o capítulo` for usado com este módulo ativo:
 ```text
 1. parar no último fato realmente estabelecido;
 2. reunir somente a ficção válida desde o último capítulo fechado;
-3. excluir Direção, consultas, auditorias, instruções de cena e demais metaconversas;
+3. excluir Direção, Mesa, Parecer, auditorias e demais metaconversas;
 4. preservar NARRADOR, falas, ações e pensamentos com sua origem quando conhecida;
 5. salvar o capítulo dentro de livro/;
 6. atualizar livro/README.md com o novo capítulo;
 7. atualizar Estado, Fichas, Mundo, Direção ou outras fontes vivas somente se algo realmente mudou;
-8. executar checkpoint operacional;
-9. reancorar antes de continuar a ficção.
+8. preservar operacao.md se houver operação legítima ainda pendente;
+9. executar checkpoint operacional;
+10. reancorar antes de continuar a ficção.
 ```
 
 Não criar despedida, cliffhanger, reação, passagem de tempo ou qualquer outro acontecimento apenas para produzir um final melhor.
 
-> **Fechar capítulo registra o ponto em que a ficção parou; não joga uma cena de encerramento.**
+> **Fechar capítulo registra o ponto em que a ficção parou; não executa uma cena de encerramento.**
 
 ## Conhecimento e interioridade
 
@@ -168,15 +150,133 @@ LEITOR SABE
 ≠ PERSONAGEM SABE
 ```
 
-Um pensamento de Kara registrado no capítulo não se torna conhecimento de Daniel.
+Um pensamento registrado no capítulo não se torna conhecimento das demais Cadeiras.
 
-Uma narração externa também não concede automaticamente esse conteúdo a qualquer Cadeira.
+Uma narração externa também não concede automaticamente esse conteúdo a qualquer personagem.
 
 A retomada deve reconstruir conhecimento a partir das fontes corretas, não a partir de tudo que o leitor do Livro pode ver.
 
-## Resumo e índice
+---
 
-Quando útil, um arco concluído pode receber:
+# Edição de Leitura
+
+Uma obra pode produzir uma versão derivada voltada à leitura literária.
+
+Estrutura sugerida:
+
+```text
+edicao-leitura/
+├── README.md
+├── 001-....md
+├── 002-....md
+└── ...
+```
+
+A `EDIÇÃO DE LEITURA` **não substitui o Livro canônico**.
+
+```text
+LIVRO
+→ fonte canônica da ficção registrada.
+
+EDIÇÃO DE LEITURA
+→ apresentação editorial derivada do Livro e da Ficção válida.
+```
+
+> **Engrossar a prosa não é engrossar o cânone.**
+
+## O que a Edição de Leitura pode fazer
+
+Pode reorganizar apresentação sem alterar os acontecimentos estabelecidos:
+
+```text
+mudar divisão de capítulos
+agrupar ou separar continuidade por unidade dramática
+melhorar transições
+retirar marcadores técnicos quando a clareza continuar preservada
+aproximar ou afastar a câmera narrativa
+enriquecer ambiente e textura compatíveis
+adicionar gestos pequenos já sustentados por Estado e relação
+variar sinais de rotina
+ajustar ritmo, densidade e foco sensorial
+```
+
+Também pode dar mais espaço a um momento importante **sem aumentar sua duração ficcional**.
+
+```text
+MAIS PROSA
+≠ MAIS TEMPO FICCIONAL
+≠ MAIS EVENTOS
+```
+
+Aplicar `08-PLAUSIBILIDADE-E-RITMO.md`.
+
+## O que a Edição de Leitura não pode fazer
+
+Não pode criar silenciosamente:
+
+```text
+nova decisão voluntária
+nova revelação
+novo recurso
+nova pista
+novo conflito
+novo vínculo
+novo resultado
+novo segredo
+nova capacidade
+novo evento causal importante
+```
+
+Se um acréscimo mudaria o que aconteceu, ele precisa primeiro ser canonizado pela Ficção ou por correção consciente do Diretor.
+
+## Capítulo editorial não é sessão
+
+Não existe obrigação de relação 1:1 entre:
+
+```text
+sessão / bloco executado
+↔ capítulo de leitura
+```
+
+A sessão termina onde a execução parou.
+O capítulo de leitura termina onde a unidade narrativa pede.
+
+Uma sequência registrada em um único bloco pode virar vários capítulos. Vários blocos podem ser consolidados num capítulo se a continuidade narrativa pedir.
+
+## Diálogo e interioridade
+
+A Edição de Leitura pode escolher convenção literária própria, mas deve preservar quem fala e quem pensa quando a clareza depende disso.
+
+Uma obra pode, por exemplo, usar:
+
+```text
+**PERSONAGEM:** — fala.
+**PERSONAGEM, pensa:** *interioridade.*
+```
+
+ou outra convenção explicitamente definida no README da edição.
+
+A edição não deve transformar pensamento de uma personagem em narração objetiva nem atribuir fala a origem errada.
+
+## Derivado não governa o cânone
+
+Se Edição de Leitura e Livro canônico parecerem divergir:
+
+```text
+LIVRO / fontes canônicas
+→ prevalecem.
+
+EDIÇÃO DE LEITURA
+→ deve ser corrigida.
+```
+
+A Edição de Leitura pode revelar erro editorial. Ela não ganha autoridade para redefinir silenciosamente o passado.
+
+---
+
+# Resumo e índices derivados
+
+Quando útil, um arco ou conjunto de capítulos pode receber:
 
 ```text
 resumo.md
@@ -186,6 +286,8 @@ mapa-de-eventos.md
 → índice cronológico e causal.
 ```
 
-Esses arquivos são derivados. Se contradisserem Ficha, Estado, Direção ou capítulo canônico, corrigir o resumo/índice.
+Esses arquivos são derivados. Se contradisserem Ficha, Estado, Direção ou capítulo canônico, corrigir o derivado.
 
-> **O Livro preserva o passado ficcional em capítulos. Nunca recebe autoridade para jogar o futuro.**
+## Regra final
+
+> **O Livro preserva o passado ficcional canônico. A Edição de Leitura pode reorganizar e aprofundar a apresentação sem criar novo cânone. Nenhum derivado recebe autoridade para jogar o futuro ou reescrever silenciosamente o que aconteceu.**
