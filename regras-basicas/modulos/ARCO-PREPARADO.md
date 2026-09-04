@@ -107,4 +107,4 @@ Se houver condição de encerramento, o arco termina quando ela realmente for al
 
 Problema ainda aberto não se transforma automaticamente no próximo arco.
 
-> **Arco Preparado é memória de preparação. O Diretor conduz; as Cadeiras continuam agindo; o Narrador continua sentenciando a Ficção.**
+> **Arco Preparado é memória de preparação. O Diretor conduz; as Cadeiras continuam decidindo; o Narrador continua apresentando a Ficção.**
