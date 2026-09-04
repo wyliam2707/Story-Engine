@@ -72,19 +72,51 @@ Nenhum dos dois conhece inicialmente a identidade extraordinária do outro.
 - Ambos chegam a explicar às respectivas figuras familiares que estão namorando alguém “normal” e que não querem que suas vidas extraordinárias interfiram no relacionamento.
 - Antes da revelação das identidades, Kara e Daniel já possuem uma relação romântica e íntima consolidada.
 - Por volta dos quarenta dias de relacionamento, já existe intimidade adulta recorrente entre os dois.
-- Em algum momento antes da revelação, Supergirl e Myrddin se encontram durante uma situação ligada às suas atividades extraordinárias.
-- Eles não reconhecem um ao outro e esse contato produz uma rivalidade genuína entre suas identidades heroicas.
+- Supergirl e Myrddin se encontram durante uma situação ligada às suas atividades extraordinárias, não se reconhecem e desenvolvem uma rivalidade genuína entre suas identidades heroicas.
 - A revelação das duas identidades ocorre aproximadamente no meio do segundo mês de namoro.
+
+## Direção atual — gato e rato heroico
+
+A rivalidade heroica já começou.
+
+- Myrddin está caçando uma entidade espiritual que escapou parcialmente para Metropolis e usa hospedeiros humanos.
+- Supergirl encontrou Myrddin contendo um hospedeiro e interpretou a cena como um ataque de um usuário de magia possivelmente hostil.
+- Kara atacou sem conversar. Myrddin respondeu com uma contenção muito forte, capaz de segurá-la por cerca de cinco segundos.
+- Esses segundos foram suficientes para a entidade escapar do hospedeiro.
+- Myrddin deixou o homem desacordado, mas vivo, e partiu atrás da entidade sem explicar nada.
+- Kara não viu claramente a entidade escapar e continua sem saber que sua interferência permitiu a fuga.
+- Myrddin sabe apenas que Supergirl interferiu de forma desastrosa; ainda não sabe inicialmente que ela passou a procurá-lo de propósito.
+- A leitura de “vilão ou ameaça” deve persistir por alguns dias, mas sinais ambíguos podem gradualmente enfraquecê-la sem inocentá-lo de imediato.
+- Kara segue rastros de Myrddin; Myrddin segue rastros da entidade.
+- Nem todo dia precisa produzir confronto direto. Chegadas desencontradas, vestígios e investigação paralela sustentam a dinâmica.
+- Reclamações civis vagas podem produzir dupla leitura para o leitor, sem revelar contexto extraordinário ao parceiro.
+- Referências devem permanecer suaves: naturais na leitura civil e significativas apenas retrospectivamente.
+- O figurino exagerado e sombrio de Myrddin reforça a leitura pública e pessoal de suspeita sem que “a existência de magia” seja tratada como novidade no mundo.
+- Câmeras, notícias e terceiros podem registrar fragmentos dos confrontos ou deslocamentos, mas sem contexto suficiente para resolver cedo a identidade, intenção ou alinhamento de Myrddin.
+
+## Condução de pistas
+
+As pistas de identidade devem funcionar principalmente em retrospecto.
+
+Podem incluir:
+
+- galês usado por Daniel em contexto civil e por Myrddin em componentes rituais;
+- percepção física de Daniel sobre postura, proporções, maneira de mover e ritmo corporal de Kara;
+- controle físico anormal de Kara em situações cotidianas;
+- pequenos vazamentos de força ou magia em momentos emocionais;
+- contraste entre a aparência civil e heroica de ambos;
+- referências civis de dupla leitura sobre acontecimentos extraordinários.
+
+As personagens não devem investigar o parceiro sem causa ficcional suficiente apenas porque o leitor possui pistas.
 
 ## Espaço Aberto
 
 Continuam abertos até surgirem na ficção ou receberem nova Direção:
 
-- quem toma cada iniciativa romântica;
-- ritmo exato dos primeiros encontros;
-- motivo concreto da rivalidade heroica;
-- detalhes finos da apresentação heroica de Myrddin;
-- acontecimentos específicos das missões;
+- acontecimentos específicos das próximas missões;
+- duração e forma exatas de cada encontro entre Supergirl e Myrddin;
+- momento em que Myrddin percebe que Supergirl está deliberadamente seguindo seus rastros;
+- momento em que Kara deixa de tratar Myrddin como provável vilão;
 - quais pistas físicas ou comportamentais cada um percebe antes da revelação;
 - quem descobre a verdade primeiro;
 - evento exato que causa a revelação;
