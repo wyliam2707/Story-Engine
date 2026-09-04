@@ -58,6 +58,8 @@ regras-basicas/05-NARRADOR.md
 regras-basicas/06-REGISTRO-E-RETOMADA.md
 ↓
 regras-basicas/07-CRIAR-CAMPANHA.md
+↓
+regras-basicas/08-PLAUSIBILIDADE-E-RITMO.md
 ```
 
 Depois leia **somente os módulos ativados** pela campanha.
@@ -261,6 +263,12 @@ O Narrador não escreve voluntariamente pelas Cadeiras.
 A prosa pode dar forma a tom, voz, ritmo, gesto e atmosfera, mas não pode esconder dentro da descrição uma nova ameaça, recurso, decisão ou solução.
 
 Combate, romance, investigação, exploração e cotidiano usam a mesma estrutura de autoria. O foco muda; o motor não.
+
+Plausibilidade humana e forma narrativa também obedecem ao mesmo princípio: personagens não são obrigadas a agir da maneira mais prudente, relações específicas podem produzir exceções plausíveis, consequência não é castigo e maior densidade de prosa não autoriza novo cânone. Para isso, consulte:
+
+```text
+regras-basicas/08-PLAUSIBILIDADE-E-RITMO.md
+```
 
 ---
 
