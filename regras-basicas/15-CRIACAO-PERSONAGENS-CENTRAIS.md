@@ -38,7 +38,6 @@ papel na Premissa
 relação estrutural com as outras personagens centrais
 posição inicial relevante
 se é personagem original ou proveniente de cânone externo
-quem, entre elas, provavelmente exigirá Cadeira persistente
 ```
 
 Não é necessário preencher personalidade, histórico, poderes, competências ou aparência completa agora.
@@ -292,55 +291,59 @@ Se uma motivação for necessária para a própria Premissa funcionar, ela deve 
 
 ---
 
-# Personagem do Diretor
+# Autoridade vem depois da ficha
 
-Esta etapa é normalmente o primeiro ponto em que pode se tornar materialmente importante perguntar **se alguma personagem central pertence ao Diretor**.
+A etapa de Personagens Centrais não precisa definir quem controla cada pessoa.
 
-Se isso já estiver claro pelo contexto, não perguntar de novo.
-
-Exemplo:
+A ordem normativa da criação é:
 
 ```text
-DIRETOR
-→ "eu vou jogar com Daniel e você faz Kara."
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
 ```
 
-Então já existe base para registrar posteriormente:
+Portanto, se ainda não estiver definido se alguma personagem pertence diretamente ao Diretor:
 
 ```text
-Daniel
-→ PERSONAGEM DO DIRETOR.
-
-Kara
-→ Cadeira executada pela IA, salvo configuração diferente.
+→ não perguntar por obrigação nesta etapa;
+→ aprovar o elenco central quando ele estiver suficiente;
+→ construir as fichas;
+→ configurar autoridades depois em 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md.
 ```
 
-Se ainda não estiver claro e a distinção for necessária para construir as fichas e autoridades seguintes, perguntar de forma direta:
+Se o Diretor já disser espontaneamente algo como:
 
-> **Você quer controlar diretamente alguma das personagens centrais, ou deixamos todas as Cadeiras com a IA?**
+```text
+"Daniel é meu; você faz Kara."
+```
 
-Não fazer essa pergunta se a resposta ainda não muda a etapa atual.
+essa informação deve ser preservada para a etapa futura, sem ser perguntada novamente.
+
+Ela não entra na ficha como personalidade nem precisa alterar a construção de quem Daniel ou Kara são.
+
+> **Informação de autoridade já dada deve ser lembrada; autoridade ainda não dada não precisa ser antecipada.**
 
 ---
 
-# Cadeira ainda não precisa estar completamente configurada
+# Cadeira ainda não precisa estar configurada
 
-Uma personagem central com vontade própria provavelmente precisará de uma Cadeira durante a Ficção.
-
-Mas nesta etapa ainda pode faltar decidir executor, política de Mesa ou detalhes de autoridade.
+Uma personagem central com vontade própria provavelmente receberá Cadeira durante a Ficção, mas isso pertence à etapa de autoridades.
 
 ```text
 PERSONAGEM CENTRAL
 → identifica quem precisa ser preservado.
 
+FICHA
+→ define quem a pessoa é.
+
 CADEIRA
-→ define autoridade voluntária dessa pessoa.
+→ define autoria voluntária dessa pessoa no espaço aberto.
 
 EXECUTOR
-→ define quem opera essa autoridade.
+→ define quem opera essa autoria.
 ```
-
-Essas coisas se relacionam, mas não são a mesma decisão.
 
 > **Não confundir criação da pessoa com configuração do executor.**
 
@@ -503,7 +506,7 @@ A etapa termina quando a IA consegue responder:
 [ ] cada personagem central tem uma função estrutural reconhecível sem virar estereótipo?
 [ ] relações mínimas necessárias estão claras?
 [ ] não criamos elenco apenas para preencher funções genéricas?
-[ ] está claro se alguma personagem central já pertence ao Diretor, quando isso é relevante?
+[ ] informações de autoridade já dadas foram preservadas sem antecipar novas decisões?
 [ ] o Diretor aprovou o núcleo inicial?
 ```
 
@@ -519,4 +522,4 @@ PERSONAGENS CENTRAIS
 
 # Regra final
 
-> **Personagens Centrais define quem precisa existir para sustentar a Premissa; não decide ainda tudo sobre quem essas pessoas são. A IA organiza o núcleo, evita elenco ornamental e clichês automáticos, o Diretor aprova a composição, e só então cada pessoa é construída de forma persistente na etapa de Fichas.**
+> **Personagens Centrais define quem precisa existir para sustentar a Premissa; não decide ainda tudo sobre quem essas pessoas são nem quem as executará. A IA organiza o núcleo, evita elenco ornamental e clichês automáticos, o Diretor aprova a composição, e só então cada pessoa é construída em ficha antes da configuração de Cadeiras e Executores.**
