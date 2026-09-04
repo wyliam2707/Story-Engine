@@ -1,24 +1,35 @@
 # 02 — Resolução
 
-O sistema resolve a ficção por **Direção, decisões, fatos e julgamento**.
+Este arquivo define como o W4D resolve **a Ficção** depois que a Mesa, quando usada, autorizou a execução.
 
-> **A ficção resolve primeiro. A ficha fornece fatos. O Narrador julga.**
+> **A ficção resolve primeiro. A ficha fornece fatos. O Narrador sentencia.**
+
+Na Mesa, o Narrador não sentencia: ele emite `PARECER` conforme `00-ARQUITETURA-E-MESA.md`.
+
+```text
+MESA
+→ opinião + parecer + decisão autoral.
+
+FICÇÃO
+→ intenção/decisão + fatos + sentença causal.
+```
 
 ## Fluxo central
 
 ```text
 1. identificar a operação do Diretor, quando houver;
-2. identificar Direções ativas pertinentes;
-3. identificar o que está aberto, alinhado ou determinado;
-4. receber a intenção da Cadeira quando a intenção estiver aberta;
-5. separar intenção de resultado presumido;
-6. consultar os fatos necessários;
-7. perguntar se os fatos já determinam a consequência;
-8. se não determinam, perguntar se outra Cadeira possui decisão real e aberta;
-9. auditar objeções factuais quando existirem;
-10. cruzar as intenções;
-11. Narrador sentencia;
-12. narrar até a próxima decisão realmente disponível.
+2. confirmar que a execução está em Ficção, não em Mesa pendente;
+3. identificar Direções ativas pertinentes;
+4. identificar o que está aberto, alinhado ou determinado;
+5. receber a intenção da Cadeira quando a intenção estiver aberta;
+6. separar intenção de resultado presumido;
+7. consultar os fatos necessários;
+8. perguntar se os fatos já determinam a consequência;
+9. se não determinam, perguntar se outra Cadeira possui decisão real e aberta;
+10. auditar objeções factuais quando existirem;
+11. cruzar as intenções;
+12. Narrador sentencia;
+13. narrar enquanto as próximas autorias puderem ser resolvidas legitimamente no fluxo atual.
 ```
 
 ## Intenção não é resultado
@@ -33,7 +44,7 @@ O sistema resolve a ficção por **Direção, decisões, fatos e julgamento**.
 
 A segunda frase não estabelece sozinha que o guarda caiu quando a consequência ainda depende de fatos ou de outra decisão legítima e aberta.
 
-Uma determinação do Diretor pode fechar diretamente a intenção, a ação ou o resultado.
+Uma determinação do Diretor pode fechar diretamente a intenção, a ação ou o resultado depois que sua execução foi autorizada.
 
 ## Quando os fatos determinam
 
@@ -79,6 +90,44 @@ Diretor já determinou a resposta de B
 → não convocar B para decidir de novo.
 ```
 
+## Quando parar e quando continuar
+
+A existência de uma nova decisão aberta **não obriga por si só a interromper a resposta**.
+
+A pergunta operacional é: quem executa essa autoria?
+
+```text
+NOVA DECISÃO ABERTA
++
+CADEIRA executada pela mesma IA e disponível no fluxo
+→ trocar de escopo
+→ formar a decisão da Cadeira
+→ continuar.
+```
+
+```text
+NOVA DECISÃO ABERTA
++
+CADEIRA depende de humano ou executor externo ainda não consultado
+→ parar
+→ apresentar a situação
+→ aguardar esse executor.
+```
+
+Também parar quando houver:
+
+```text
+decisão autoral realmente pertencente ao Diretor
+Mesa aberta aguardando confirmação
+Auditoria pendente
+perda de contexto que exige reancoragem
+fato indispensável que a fonte disponível ainda não permite resolver
+```
+
+> **Pare quando a próxima autoria exige alguém que não está disponível no fluxo; não pare apenas porque outra Cadeira precisa pensar.**
+
+Isso evita transformar histórias com várias Cadeiras IA em uma sequência de interrupções artificiais.
+
 ## Objeção factual
 
 Uma objeção precisa apontar um fundamento verificável.
@@ -93,7 +142,7 @@ Uma objeção precisa apontar um fundamento verificável.
 
 O Narrador confirma, limita ou rejeita a objeção.
 
-Uma objeção factual pode informar o Diretor sobre tensão ou incoerência, mas não vira veto depois de uma determinação consciente mantida.
+Uma objeção factual pode informar o Diretor sobre tensão ou incoerência, mas não vira veto depois de uma determinação consciente mantida e autorizada para execução.
 
 ## Comparação de capacidades
 
@@ -258,9 +307,9 @@ O Diretor pode perguntar antecipadamente o que aconteceria sob determinadas cond
 [Se a Personagem A fizer X e as condições Y estiverem presentes, o que a Personagem B tende a fazer?]
 ```
 
-Isso é uma consulta de causalidade, não uma rolagem e não uma determinação automática.
+Isso pertence à Mesa ou à camada de Consulta, não à sentença ficcional.
 
-O Narrador/Juiz deve responder usando:
+O Narrador/Juiz responde usando:
 
 ```text
 fatos
@@ -317,19 +366,19 @@ Alinhamento não exige que todas as falas, emoções ou decisões intermediária
 
 ## Direção fechada
 
-Se o Diretor fechou intenção, decisão, ação ou resultado:
+Se o Diretor fechou intenção, decisão, ação ou resultado e autorizou sua execução:
 
 ```text
 NARRADOR
 → não reabre a pergunta sobre se aquilo acontecerá.
-→ julga e constrói o caminho dentro do espaço restante.
+→ sentencia e constrói o caminho dentro do espaço restante.
 ```
 
 Se a Direção parece incompatível com fatos estabelecidos, apontar a tensão quando relevante. Se o Diretor mantiver a determinação, ela prevalece no escopo fechado.
 
 A personagem não recebe conhecimento de um resultado futuro apenas porque o executor conhece a Direção.
 
-Se a própria vontade da personagem foi determinada, porém, essa vontade já faz parte da ficção e deve ser executada como tal.
+Se a própria vontade da personagem foi determinada, porém, essa vontade já faz parte da ficção quando a execução começa e deve ser tratada como tal.
 
 ## Tempo
 
@@ -355,7 +404,7 @@ ambiente muda por causalidade
 Opositor pode agir quando legitimamente pertinente
 ```
 
-Interromper apenas quando algo realmente muda a situação ou cria nova decisão relevante e aberta.
+Interromper somente quando alguma mudança cria autoria que o fluxo atual não pode resolver legitimamente ou exige nova decisão do Diretor/Auditoria.
 
 ## Conflito rápido e combate
 
@@ -393,7 +442,7 @@ abrir Auditoria se houver dúvida real
 consultar o Diretor se a questão for de direção
 ```
 
-O acaso pode ser usado somente se o Diretor ou a mesa deliberadamente entregar aquela parte específica da autoria ao acaso.
+O acaso pode ser usado somente se o Diretor ou a Mesa deliberadamente entregar aquela parte específica da autoria ao acaso.
 
 Não existe mecanismo universal obrigatório de sorte e o sistema não deve introduzir RNG apenas para produzir incerteza.
 
@@ -401,4 +450,4 @@ Se o Diretor não quer incerteza sobre aquele ponto, ele pode consultar causalid
 
 ## Regra final
 
-> **Quando os fatos determinam, o Narrador sentencia. Quando existe escolha voluntária real e aberta, a Cadeira decide. Quando existe objeção, ela precisa de fundamento. Quando o Diretor alinha, o Narrador constrói o caminho. Quando o Diretor determina, o escopo fechado não é reaberto. O W4D usa incerteza somente onde o Diretor decidiu deixá-la existir.**
+> **Na Ficção, quando os fatos determinam, o Narrador sentencia. Quando existe escolha voluntária real e aberta, a Cadeira decide. Uma nova decisão só interrompe o fluxo se seu executor não estiver disponível ou se ela pertencer ao Diretor/Auditoria. Quando o Diretor alinha, o Narrador constrói o caminho. Quando determina e autoriza execução, o escopo fechado não é reaberto.**
