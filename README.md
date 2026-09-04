@@ -48,6 +48,7 @@ ESCOLHA DE OPERAÇÃO
 │   → regras-basicas/10-INICIAR-HISTORIA-COM-IA.md
 │
 └── CONTINUAR HISTÓRIA EXISTENTE
+    → regras-basicas/11-CONTINUAR-HISTORIA-COM-IA.md
     → regras-basicas/06-REGISTRO-E-RETOMADA.md
 ```
 
@@ -183,27 +184,32 @@ regras-basicas/modelos/
 
 ---
 
-# Retomar uma história
+# Continuar uma história
 
-Somente depois que `CONTINUAR HISTÓRIA EXISTENTE` estiver escolhida, ou já estiver explícita no pedido, siga:
+Somente depois que `CONTINUAR HISTÓRIA EXISTENTE` estiver escolhida, ou já estiver explícita no pedido, siga primeiro:
 
 ```text
-README da obra
-→ direcao.md
-→ estado.md
-→ operacao.md, se houver
-→ fichas relevantes
-→ módulos ativos
-→ reancorar
-→ identificar a camada e o ponto corretos
-→ continuar
+regras-basicas/11-CONTINUAR-HISTORIA-COM-IA.md
 ```
 
-Detalhes em:
+Esse protocolo define a experiência de retomada:
+
+```text
+identificar a obra
+→ validar o workspace
+→ carregar fontes necessárias
+→ reconstruir Ficção, Cadeiras e Operação
+→ auditar o ponto real de retorno
+→ continuar pela próxima autoridade legítima
+```
+
+As regras normativas de persistência e reancoragem continuam em:
 
 ```text
 regras-basicas/06-REGISTRO-E-RETOMADA.md
 ```
+
+Se houver várias obras e nenhuma foi nomeada, a IA deve deixar o Diretor escolher. Se houver apenas uma, pode identificá-la e prosseguir sem pergunta redundante.
 
 ---
 
