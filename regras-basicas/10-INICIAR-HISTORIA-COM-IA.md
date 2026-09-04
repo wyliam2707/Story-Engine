@@ -34,16 +34,19 @@ A criação não acontece em uma única resposta.
 
 O W4D separa decisões autorais importantes para que o Diretor possa construir, revisar e corrigir a obra sem a IA preencher silenciosamente tudo de uma vez.
 
-A primeira etapa formal é:
+Etapas já formalizadas:
 
 ```text
 1. PREMISSA
 → 12-CRIACAO-PREMISSA.md
+
+2. ESTILO / TOM
+→ 13-CRIACAO-ESTILO-E-TOM.md
 ```
 
-Depois da Premissa aprovada, o processo segue para as etapas posteriores de criação, como estilo/tom, nome e destino canônico, personagens, fichas, Direção e Estado inicial.
+Depois de Estilo/Tom aprovado, o processo seguirá para Nome da Obra e destino canônico, personagens, fichas, Direção, Estado inicial e START.
 
-Essas etapas podem receber especificações próprias sem alterar o BOOT.
+Cada etapa pode receber sua própria especificação sem alterar o BOOT.
 
 > **Não pular uma etapa autoral separada apenas porque a IA consegue inventar uma solução plausível.**
 
@@ -79,8 +82,58 @@ Quando o Diretor aprovar semanticamente a premissa:
 
 ```text
 PREMISSA: APROVADA
-→ seguir para a próxima etapa de criação
+→ carregar 13-CRIACAO-ESTILO-E-TOM.md
 ```
+
+---
+
+# Etapa 2 — Estilo / Tom
+
+Depois da Premissa aprovada, carregar:
+
+```text
+13-CRIACAO-ESTILO-E-TOM.md
+```
+
+Esta etapa responde:
+
+> **Como queremos experimentar e apresentar esta história?**
+
+Pode definir, somente quando relevante:
+
+```text
+gênero ou mistura de gêneros
+tom predominante
+ritmo
+escala
+proximidade emocional
+peso de diálogo e descrição
+perspectiva narrativa
+limites persistentes de apresentação
+```
+
+Se o Diretor já indicou essas preferências, organizar e propor em vez de perguntar tudo novamente.
+
+Se ainda estiver aberto, fazer uma pergunta de alto valor ou oferecer poucas leituras realmente distintas da mesma Premissa.
+
+Enquanto Estilo/Tom não estiver aprovado:
+
+```text
+não tratar gênero como licença para importar clichês
+não usar tom para fabricar acontecimentos
+não criar nome definitivo por obrigação
+não criar pasta em campanhas/ apenas para rascunho
+não abrir Ficção
+```
+
+Quando o Diretor aprovar semanticamente:
+
+```text
+ESTILO / TOM: APROVADO
+→ seguir para NOME DA OBRA
+```
+
+A etapa de Nome será formalizada separadamente.
 
 ---
 
@@ -110,19 +163,19 @@ Exemplo:
 
 Isso é suficiente para começar a etapa de Premissa.
 
+Depois da Premissa aprovada, a expressão `comédia romântica universitária` já oferece matéria-prima para Estilo/Tom. A IA deve reaproveitar essa informação em vez de perguntar tudo de novo.
+
 A IA não deve responder produzindo de uma vez:
 
 ```text
 mundo completo
-estilo fechado
+estilo fechado sem aprovação
 nome definitivo
 fichas finais
 trama inteira
 arcos futuros
 primeiro capítulo
 ```
-
-Ela deve primeiro formular a Premissa e permitir que o Diretor confirme ou corrija.
 
 ---
 
@@ -136,7 +189,7 @@ campanhas/<slug>/
 
 A criação física da pasta e dos arquivos segue `07-CRIAR-CAMPANHA.md`.
 
-A pasta não deve ser criada no BOOT nem durante a Premissa apenas para guardar rascunhos.
+A pasta não deve ser criada no BOOT, durante a Premissa ou durante Estilo/Tom apenas para guardar rascunhos.
 
 Ela passa a ser criada quando o processo chegar ao ponto em que nome e destino canônico já estejam definidos.
 
@@ -180,7 +233,7 @@ CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
 → IA, salvo indicação diferente.
 ```
 
-Não é necessário resolver todas essas configurações durante a Premissa se elas ainda não forem materialmente relevantes.
+Não é necessário resolver todas essas configurações durante Premissa ou Estilo/Tom se ainda não forem materialmente relevantes.
 
 Perguntar sobre `PERSONAGEM DO DIRETOR` somente quando isso não estiver claro pelo contexto e quando a resposta já for necessária para a etapa em curso.
 
@@ -219,24 +272,23 @@ PERSONAGEM MENCIONADA NA PREMISSA
 ≠ FICHA CONCLUÍDA
 ```
 
+Estilo/Tom também não cria personalidade automaticamente.
+
+```text
+COMÉDIA
+≠ PERSONAGEM ENGRAÇADA
+
+TOM SOMBRIO
+≠ PERSONAGEM PESSIMISTA
+```
+
 Quando a etapa de fichas chegar, criar somente as personagens necessárias para a abertura e para a proposta atual.
-
-Para cada personagem central, a ficha deve permitir que outra IA a reconstrua depois sem depender da conversa original.
-
-Não preencher lacunas irrelevantes apenas para deixar a ficha longa.
 
 Seguir:
 
 ```text
 04-FICHA.md
 modelos/FICHA.md
-```
-
-Quando o Diretor fornecer uma personagem de outra obra, usar o cânone externo apenas para preencher lacunas permitidas. Depois da aprovação:
-
-```text
-FICHA DA OBRA
-→ autoridade primária.
 ```
 
 ---
@@ -254,7 +306,7 @@ Proposta
 Foco
 Tom
 Premissas
-Direções persistentes
+Diretrizes persistentes de apresentação
 Espaço aberto
 ```
 
@@ -367,7 +419,7 @@ não pode ser inferida sem tomar uma decisão que pertence ao Diretor
 
 Não pedir detalhes irrelevantes apenas para preencher formulários.
 
-Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, estilo ou outra etapa que o processo tenha definido separadamente.
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom ou outra etapa definida separadamente.
 
 ---
 
@@ -383,7 +435,12 @@ PREMISSA
 ↓
 PREMISSA APROVADA
 ↓
-próximas etapas de criação
+ESTILO / TOM
+→ 13-CRIACAO-ESTILO-E-TOM.md
+↓
+ESTILO / TOM APROVADO
+↓
+NOME DA OBRA
 ↓
 nome e destino canônico definidos
 ↓
@@ -391,7 +448,7 @@ criar campanhas/<slug>/
 ↓
 criar e salvar fontes aprovadas
 ↓
-preparar Estado inicial
+personagens / fichas / Direção / Estado inicial
 ↓
 START
 ```
@@ -400,4 +457,4 @@ START
 
 # Regra final
 
-> **Este arquivo nunca decide se a obra é nova. O BOOT decide o ramo. Depois que NOVA HISTÓRIA foi escolhida, a IA começa pela Premissa, avança por etapas autorais separadas, cria `campanhas/<slug>/` somente quando nome e destino estiverem definidos e só inicia a Ficção depois da preparação necessária.**
+> **Este arquivo nunca decide se a obra é nova. O BOOT decide o ramo. Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa e Estilo/Tom como etapas autorais separadas, cria `campanhas/<slug>/` somente quando nome e destino estiverem definidos e só inicia a Ficção depois da preparação necessária.**
