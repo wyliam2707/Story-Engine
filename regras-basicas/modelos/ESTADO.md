@@ -42,7 +42,11 @@ História ainda não iniciada.
 
 [primeira decisão, ação, iniciativa ou consequência ficcional ainda não estabelecida]
 
-Não escrever como fato a própria escolha que ainda pertence a uma Cadeira, ao Diretor ou ao Narrador.
+Não escrever como fato a própria escolha que ainda pertence a uma Cadeira ou ao Diretor.
+
+Se o próximo ponto for apenas uma consequência ordinária e evidente dos fatos já estabelecidos, o Narrador pode apresentá-la diretamente.
+
+Se houver mais de um resultado material relevante ainda legítimo, o ponto continua autoralmente aberto e pode ir à Mesa; não vira autoria escondida do Narrador.
 
 ---
 
