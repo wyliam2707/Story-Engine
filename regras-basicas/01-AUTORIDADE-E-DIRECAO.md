@@ -79,7 +79,7 @@ O Diretor pode usar a própria autoridade em três formas práticas.
 O Diretor deixa a questão para a ficção, as Cadeiras e o julgamento.
 
 ```text
-[O que Kara faz?]
+[O que a Personagem A faz?]
 ```
 
 A resposta permanece aberta.
@@ -101,10 +101,10 @@ Se houver uma condição importante ainda incompatível com o resultado desejado
 O Diretor fecha diretamente algo.
 
 ```text
-[Kara vai até Daniel e o beija.]
+[A se aproxima de B e beija B.]
 ```
 
-Nesse ponto, ir até Daniel e beijá-lo não são decisões da Cadeira de Kara. A Cadeira continua autora somente do que permaneceu aberto.
+Nesse ponto, aproximar-se de B e beijar B não são decisões da Cadeira de A. A Cadeira continua autora somente do que permaneceu aberto.
 
 > **Quando o Diretor determina “faça X”, X deixa de ser objeto de decisão de autoridades inferiores.**
 
@@ -140,15 +140,15 @@ Mas uma determinação do Diretor reduz ou remove a autonomia exatamente no pont
 
 ```text
 DIRETOR
-→ Kara percebe o interesse de Daniel.
+→ A percebe o interesse de B.
 
 ABERTO
-→ o que Kara sente e faz com isso.
+→ o que A sente e faz com isso.
 ```
 
 ```text
 DIRETOR
-→ Kara percebe o interesse e decide dar uma chance a Daniel.
+→ A percebe o interesse de B e decide dar uma chance a B.
 
 FECHADO
 → percepção e decisão de dar uma chance.
@@ -181,13 +181,13 @@ Mas o Diretor pode determinar a própria vontade da personagem.
 
 ```text
 DIRETOR
-→ Daniel está interessado naquela garota e quer conhecê-la.
+→ A se interessa por B e quer conhecer B melhor.
 
 FICÇÃO
-→ Daniel está interessado e quer conhecê-la.
+→ A se interessa por B e quer conhecer B melhor.
 ```
 
-A Cadeira não reabre se Daniel quer ou não. Ela executa Daniel dentro dessa vontade, preservando personalidade, conhecimento e fatos.
+A Cadeira da Personagem A não reabre se essa personagem quer ou não. Ela executa A dentro dessa vontade, preservando personalidade, conhecimento e fatos.
 
 O mesmo vale para decisões ou ações determinadas diretamente pelo Diretor.
 
@@ -280,7 +280,7 @@ O Diretor pode considerar que uma Cadeira ou executor está interpretando uma pe
 Exemplo:
 
 ```text
-[Não. Superman não ficaria esperando assim. Ele entra, protege as pessoas e confronta o problema.]
+[Não. Pela ficha, essa personagem não ficaria esperando assim. Ela entra, protege as pessoas e confronta o problema.]
 ```
 
 Isso pode ser uma correção de postura, não uma troca permanente de Cadeira.
