@@ -13,6 +13,27 @@ STATUS
 
 Não usar esta seção para registrar acontecimentos futuros, decisões de personagem ou clichês importados do gênero.
 
+## Personagens centrais
+
+[Adicionar depois que a etapa de Personagens Centrais for aprovada.]
+
+Formato recomendado:
+
+```text
+- [Nome] — [papel estrutural curto na Premissa].
+- [Nome] — [papel estrutural curto na Premissa].
+```
+
+Esta seção identifica **quem está no centro da obra**. Não substitui as fichas.
+
+```text
+README
+→ composição central da obra.
+
+personagens/<nome>.md
+→ quem cada pessoa é.
+```
+
 ## Autoridades
 
 DIRETOR
@@ -114,7 +135,7 @@ Quando útil:
 
 ```text
 [texto]
-→ camada autoral do Diretor fora da Ficção.
+→ camada autoral do Diretor fora da ficção.
 ```
 
 A semântica, a política de Mesa e o modo operacional atual determinam se o conteúdo é Consulta, Auditoria, Direção, Correção, Determinação ou outra operação.
@@ -164,6 +185,14 @@ Proposta curta
 Estilo / Tom
 ```
 
-As demais seções podem ser adicionadas conforme forem legitimamente definidas.
+Depois, conforme aprovação:
+
+```text
+Personagens centrais
+→ adicionar núcleo curto.
+
+Autoridades / políticas / módulos
+→ adicionar somente quando definidos.
+```
 
 > **README incompleto durante preparação é melhor que README preenchido com decisões que o Diretor ainda não tomou.**
