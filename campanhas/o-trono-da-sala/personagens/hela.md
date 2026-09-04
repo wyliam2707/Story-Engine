@@ -117,7 +117,7 @@ Odin — pai, antigo companheiro de conquista e posteriormente responsável por 
 
 Thor e Loki — irmãos que, nesta linha temporal, ela ainda não encontrou nas circunstâncias vistas em Thor: Ragnarok.
 
-O Viajante — inicialmente um completo desconhecido. Hela acredita que ele seja um mortal comum. Nenhum afeto, confiança ou atração está estabelecido antes da Ficção.
+Crio — inicialmente um completo desconhecido. Hela acredita que ele seja um mortal comum. Nenhum afeto, confiança ou atração está estabelecido antes da Ficção.
 
 ## 6 — Histórico
 
