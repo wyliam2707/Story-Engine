@@ -1,12 +1,8 @@
 # Testes — Nova História: Autoridades, Cadeiras e Executores
 
-Estes cenários verificam a etapa definida em:
+Estes cenários verificam `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md`.
 
-```text
-17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
-```
-
-A IA passa quando consegue separar pessoa, ficha, Cadeira, Executor, Narrador e autoridade do Diretor sem criar perguntas ou transferências de vontade desnecessárias.
+A IA passa quando separa pessoa, ficha, Cadeira, Executor, Narrador e autoridade do Diretor sem transferências indevidas — e sem reintroduzir Juiz.
 
 ---
 
@@ -28,18 +24,16 @@ Esperado:
 
 ```text
 Diretor → HUMANO
-Narrador / Juiz → IA
+Narrador → IA
 Daniel → Personagem do Diretor
 Kara → Cadeira IA
 ```
 
-Falha se a IA perguntar novamente quem controla Daniel ou se tratar Kara como personagem do Diretor.
+Falha se perguntar novamente ou registrar `Narrador / Juiz` como autoridade atual.
 
 ---
 
 # Teste 2 — Diretor não quer personagem própria
-
-Diretor:
 
 ```text
 Eu só quero dirigir. Você controla as personagens.
@@ -49,11 +43,9 @@ Esperado:
 
 ```text
 nenhum Personagem do Diretor
-Cadeiras centrais → IA, salvo exceção já definida
-Diretor continua com autoridade autoral total
+Cadeiras centrais → IA, salvo exceção definida
+Diretor mantém autoridade autoral
 ```
-
-Falha se a IA obrigar o Diretor a escolher protagonista próprio.
 
 ---
 
@@ -64,24 +56,15 @@ Contexto:
 ```text
 Diretor humano já evidente.
 Narrador IA já evidente.
-Fichas de A e B aprovadas.
-Ainda não foi definido se alguma personagem pertence ao Diretor.
+Fichas A e B aprovadas.
+Ainda não sabemos se alguma personagem pertence ao Diretor.
 ```
 
-Esperado:
-
-```text
-perguntar somente:
-"Você quer controlar diretamente alguma das personagens centrais, ou deixamos as Cadeiras delas com a IA?"
-```
-
-Falha se abrir questionário sobre Narrador, estilo, ficha ou outras decisões já resolvidas.
+Esperado: perguntar somente se o Diretor quer controlar alguma das personagens centrais.
 
 ---
 
 # Teste 4 — Vontade e execução textual separadas
-
-Configuração:
 
 ```text
 Daniel → Personagem do Diretor.
@@ -100,34 +83,23 @@ vontade / decisão → Diretor
 forma textual → IA delegada
 ```
 
-Falha se a IA reinterpretar a aceitação como decisão própria ou fizer Daniel hesitar/recusar sem base.
-
 ---
 
 # Teste 5 — Cadeira consultiva não rouba vontade
 
-Mesa:
-
-```text
-Daniel → Personagem do Diretor.
-Diretor pergunta: "Daniel recusaria isso? O que a Cadeira acha?"
-```
+Diretor pergunta o que a Cadeira consultiva de Daniel acha de uma recusa.
 
 Esperado:
 
 ```text
-Cadeira consultiva pode opinar pela ficha
-Narrador pode emitir parecer
+Cadeira consultiva opina pela ficha
+Narrador pode emitir Parecer
 Diretor continua decidindo a vontade de Daniel
 ```
-
-Falha se a opinião consultiva virar decisão ficcional.
 
 ---
 
 # Teste 6 — Mesma IA, Cadeiras separadas
-
-Configuração:
 
 ```text
 Kara → Cadeira IA
@@ -135,28 +107,22 @@ Morgana → Cadeira IA
 Narrador → IA
 ```
 
-Cena:
-
-```text
 Kara pergunta algo a Morgana.
-```
 
 Esperado:
 
 ```text
-IA assume escopo de Morgana
-→ usa ficha e conhecimento de Morgana
+IA assume escopo Morgana
+→ usa apenas pacote legítimo de Morgana
 → forma decisão
-→ depois Narrador sentencia/apresenta quando necessário
+→ Narrador apresenta a continuidade
 ```
 
-Falha se Morgana usar conhecimento exclusivo de Kara ou do Narrador.
+Se surgir resultado materialmente aberto, não cabe ao Narrador sentenciar: a questão pode ir à Mesa.
 
 ---
 
 # Teste 7 — Próxima autoria disponível
-
-Configuração:
 
 ```text
 A → Cadeira IA
@@ -173,13 +139,9 @@ IA troca para B
 → continua
 ```
 
-Falha se parar apenas porque surgiu decisão de B.
-
 ---
 
 # Teste 8 — Próxima autoria pertence ao Diretor
-
-Configuração:
 
 ```text
 A → Cadeira IA
@@ -195,9 +157,7 @@ parar no ponto da vontade de B
 → aguardar Diretor
 ```
 
-salvo se já houver Direção ou delegação suficiente.
-
-Falha se a IA decidir a resposta de B autonomamente.
+salvo Direção/delegação suficiente.
 
 ---
 
@@ -212,17 +172,13 @@ Até chegarmos à universidade, pode executar Daniel com a vontade que já estab
 Esperado:
 
 ```text
-IA pode dar forma à execução no intervalo e escopo autorizados
-vontade futura não coberta continua pertencendo ao Diretor
+IA executa dentro do escopo
+vontade futura não coberta continua do Diretor
 ```
-
-Falha se a IA passar a decidir Daniel indefinidamente.
 
 ---
 
 # Teste 10 — Executor não entra na ficha
-
-Configuração aprovada:
 
 ```text
 Kara → Cadeira IA
@@ -235,52 +191,35 @@ README.md
 → registra Cadeira e Executor.
 
 personagens/kara.md
-→ não registra "Executor: IA" como atributo da personagem.
+→ não registra Executor como atributo da pessoa.
 ```
-
-Falha se a configuração operacional contaminar a ficha.
 
 ---
 
 # Teste 11 — Personagem do Diretor não vira protagonista obrigatório
 
-Configuração:
-
 ```text
 B → Personagem do Diretor
-A → principal foco da Premissa
+A → foco principal da Premissa
 ```
 
-Esperado:
-
-```text
-manter foco definido pela Premissa/Direção
-não promover B automaticamente a protagonista central
-```
-
-Falha se autoridade do Diretor sobre B for confundida com importância narrativa.
+Esperado: manter foco da Premissa/Direção.
 
 ---
 
 # Teste 12 — Cadeira eventual
 
-Uma personagem secundária ainda não possui Cadeira persistente e aparece apenas como presença incidental.
-
-Esperado:
+Personagem incidental sem decisão relevante:
 
 ```text
-não criar Cadeira persistente por obrigação
+→ não exige Cadeira persistente.
 ```
 
-Mais tarde ela precisa tomar decisões próprias recorrentes.
-
-Esperado:
+Quando adquirir decisões próprias recorrentes:
 
 ```text
-atribuir Cadeira quando a autoria se tornar necessária
+→ pode receber Cadeira.
 ```
-
-Falha se a preparação tentar antecipar Cadeiras para todo NPC possível.
 
 ---
 
@@ -296,30 +235,47 @@ Esperado:
 
 ```text
 Ana → Personagem do Diretor
-Elisa → Cadeira executada por Bruno
+Elisa → Cadeira de Bruno
 Marcos → Cadeira IA
 Narrador → IA
 ```
 
-Quando Elisa precisar decidir e Bruno estiver indisponível:
+Se Elisa precisar decidir e Bruno estiver indisponível, parar.
+
+---
+
+# Teste 14 — Narrador não é autoridade sobre resultado aberto
+
+Configuração:
 
 ```text
-parar
+A → Cadeira IA
+B → Cadeira IA
+Narrador → IA
 ```
 
-Falha se a IA assumir Elisa sem delegação.
+A e B entram em conflito e o resultado material é importante, não evidente e ainda não foi fechado.
+
+Esperado:
+
+```text
+Narrador não escolhe vencedor
+Narrador não usa RNG invisível
+questão pode ir à Mesa
+```
 
 ---
 
 # Critério geral
-
-A etapa passa quando a IA consegue preservar:
 
 ```text
 PESSOA
 ≠ CADEIRA
 ≠ EXECUTOR
 ≠ NARRADOR
+
+NARRADOR
+≠ JUIZ
 
 PERSONAGEM DO DIRETOR
 → vontade do Diretor
@@ -332,6 +288,9 @@ CADEIRA IA DISPONÍVEL
 
 AUTORIA EXTERNA INDISPONÍVEL
 → parar
+
+RESULTADO MATERIAL ABERTO
+→ Mesa, quando necessário
 ```
 
-> **A configuração de autoridades deve dizer quem pode decidir agora sem transformar o executor em personalidade, o Narrador em Cadeira ou a delegação de prosa em transferência de autoria.**
+> **A configuração deve dizer quem pode decidir agora sem transformar o executor em personalidade, o Narrador em Cadeira ou Juiz, nem a delegação de prosa em transferência de autoria.**
