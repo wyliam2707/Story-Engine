@@ -113,6 +113,71 @@ MESMO MODELO
 MESMA CONSCIÊNCIA FICCIONAL
 ```
 
+## Direção conjunta de cena
+
+O Diretor pode conduzir uma cena sem assumir pessoalmente nenhuma Cadeira.
+
+Nesse modo, cada personagem relevante mantém sua própria autoria e recebe um executor separado em escopo, mesmo quando várias Cadeiras são operadas pela mesma IA.
+
+Antes de julgar um bloco importante, considerar somente as Cadeiras que possuem intenção concreta de participar, interferir ou mover algo que alcance a cena.
+
+```text
+ESTAR DISPONÍVEL PARA PARTICIPAR
+≠
+TER INTENÇÃO DE PARTICIPAR
+```
+
+Uma personagem não entra no cruzamento apenas porque existe, conhece os envolvidos ou poderia aparecer.
+
+Quando existe intenção legítima:
+
+```text
+DIRETOR
+→ define quadro, limites e determinações.
+
+CADEIRA A
+→ forma sua intenção com conhecimento próprio.
+
+CADEIRA B
+→ forma sua intenção com conhecimento próprio.
+
+CADEIRA C
+→ entra somente se realmente pretende participar.
+
+NARRADOR / JUIZ
+→ cruza intenções, fatos e Direção.
+→ sentencia.
+→ narra até a próxima decisão real.
+```
+
+A Cadeira declara intenção, não resultado sobre autoria alheia.
+
+```text
+"vou segui-lo sem ser percebida"
+→ intenção válida.
+
+"eu o sigo sem que ele perceba"
+→ resultado ainda sujeito ao Juiz.
+```
+
+O mesmo vale para impedir, alcançar, convencer, deter, escapar ou qualquer ação cujo resultado dependa de outra Cadeira ou de fatos ainda abertos.
+
+### Troca temporária de executor
+
+O Diretor pode delegar temporariamente a execução de uma Cadeira a outro executor durante um intervalo claramente delimitado.
+
+```text
+[DANIEL — Executor IA até o começo da noite]
+```
+
+muda quem opera a Cadeira durante aquele intervalo; não muda a autoria, a ficha, o conhecimento legítimo nem a personalidade da personagem.
+
+Quando o limite termina, o executor anterior reassume sem que isso constitua alteração ficcional.
+
+> **Trocar o Executor não troca a Cadeira.**
+
+Esse recurso permite acelerar rotina, deslocamentos, investigação ou outros blocos longos sem transformar o Narrador em autor oculto da personagem.
+
 ## Diretor e Cadeira executados pela mesma pessoa
 
 O humano pode ser simultaneamente Diretor e executor de uma Cadeira.
