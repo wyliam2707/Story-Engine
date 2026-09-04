@@ -1,6 +1,6 @@
 # Estado
 
-Momento: sábado à noite, depois da captura da entidade espiritual e do encerramento do pequeno arco da ruptura.
+Momento: terça-feira à noite, imediatamente depois de Kara e Daniel retornarem de mãos dadas à sala da Liga. As identidades foram reveladas mutuamente e a reunião formal ainda vai começar.
 
 ## Autoridades atuais
 
@@ -8,297 +8,323 @@ Momento: sábado à noite, depois da captura da entidade espiritual e do encerra
 - Narrador/Juiz → IA.
 - Daniel → Cadeira IA.
 - Kara Zor-El → Cadeira IA.
-- Clark, Morgana, Bruce, Diana, John, Barry e J'onn → Cadeiras IA recorrentes quando possuem intenção concreta de participar.
+- Clark, Morgana, Bruce, Diana, John, Barry, J'onn e Zatanna → Cadeiras IA recorrentes quando possuem intenção concreta de participar.
 - O Diretor conduz a campanha sem assumir Cadeira fixa.
 - Cada Cadeira é executada em escopo separado mesmo quando a mesma IA técnica opera várias personagens.
 
-## Situação geral
+## Situação central
 
-- Kara e Daniel continuam sem conhecer a identidade extraordinária um do outro.
-- Kara conhece Daniel como estudante de Física, jogador de basquete, namorado e jovem de família antiga com hábitos um pouco formais.
-- Daniel conhece Kara como estudante de Jornalismo, namorada e jovem ligada a uma família não convencional em Metropolis.
-- O namoro civil continua funcionando muito bem.
-- Kara já mantém roupas numa gaveta do apartamento de Daniel e deixou uma escova de dentes no banheiro.
-- A intimidade física adulta dos dois já existe de forma natural, consensual e não gráfica.
-- Os dois passaram vários fins de semana e noites juntos e tratam isso cada vez menos como exceção.
+A principal mudança do estado é definitiva:
 
-## Relação heroica atual
+- Kara sabe que **Daniel Merlin de Arcanus é Myrddin**.
+- Daniel sabe que **Kara Zor-El é Supergirl**.
+- A revelação foi simultânea e aconteceu numa reunião da Liga organizada depois que Bruce identificou Myrddin.
+- Os dois confirmaram em conversa privada que suas vidas civis eram reais, não fachadas construídas para esconder as identidades extraordinárias.
+- Nenhum rompeu a relação.
+- Eles continuam irritados com os segredos mútuos, mas reconhecem que ambos esconderam essencialmente a mesma categoria de verdade pelo mesmo motivo: preservar uma parte da vida que não começasse pela identidade extraordinária.
+- Depois da conversa, retornaram à Liga de mãos dadas.
 
-Supergirl e Myrddin não são amigos, mas já deixaram de ser desconhecidos hostis.
+O namoro civil permanece consolidado.
 
-A progressão foi:
+Kara já mantém roupas numa gaveta do apartamento de Daniel e uma escova de dentes no banheiro. A intimidade física adulta dos dois já existe de forma natural, consensual e não gráfica. O apartamento continua sendo o principal espaço cotidiano do casal.
 
-1. Supergirl encontrou Myrddin contendo um hospedeiro e, sem contexto, atacou.
-2. Myrddin a conteve por alguns segundos; a entidade escapou durante a interferência.
-3. Kara passou a investigar Myrddin como possível ameaça.
-4. Um confronto público de aproximadamente vinte segundos mostrou os dois em oposição direta sem vencedor claro.
-5. No domingo seguinte, os dois enfrentaram juntos uma criatura demoníaca que atravessou uma ruptura.
-6. Depois disso, a leitura de Kara mudou de "vilão" para "provavelmente bem-intencionado, ainda irritante e ocultando contexto".
-7. A leitura de Daniel mudou de "kryptoniana imprudente que atrapalha" para "heroína competente, genuinamente protetiva e ainda irritante".
-8. Na sexta seguinte, Kara percebeu que a entidade retornava aos mesmos pontos secundários para renovar uma rede de ligação.
-9. Kara e Myrddin cruzaram as informações e prepararam uma armadilha.
-10. No sábado, a entidade entrou voluntariamente numa falsa passagem e foi presa numa cela de Proteção e Selamento enquanto Supergirl impedia acesso a novos hospedeiros.
+## Identidades e nomes de Daniel
 
-Depois da captura, eles trocaram identificação suficiente para que a relação heroica deixe de ser anônima:
+Nome tradicional:
 
-- Kara sabe que o mago usa o nome **Myrddin**.
-- Myrddin já sabe naturalmente que ela é **Supergirl**.
-- Kara passou a chamá-lo informalmente de **Mago Cosplay**.
-- Myrddin passou a chamá-la de **Cabeça-dura**.
-- Os apelidos são provocações recíprocas, não intimidade romântica nem amizade declarada.
+**Daniel Myrddin o'r Dirgel**
 
-A perseguição terminou. A rivalidade permanece em forma mais pessoal e identificável, agora misturada com respeito profissional.
+Nome público moderno:
 
-## Entidade espiritual e ruptura
+**Daniel Merlin de Arcanus**
 
-A entidade capturada:
+Nome usado normalmente:
 
-- atravessou parcialmente quando os três selos de Metropolis falharam por ressonância;
-- usava hospedeiros vivos como âncoras temporárias;
-- alterava movimento e voz de hospedeiros;
-- abandonava corpos quando ameaçada;
-- criou pontos secundários pela cidade;
-- precisava retornar periodicamente a esses pontos para manter a própria rede;
-- utilizou essa rede para sustentar passagens e permitir que ao menos uma criatura demoníaca atravessasse;
-- foi finalmente capturada numa cela de selamento construída no próprio padrão de um de seus pontos secundários.
+**Daniel Arcanus**
 
-A captura resolveu o principal problema móvel que vinha alimentando a crise.
+Nome heroico:
 
-Ainda resta trabalho técnico:
+**Myrddin**
 
-- desmontar os pontos secundários;
-- revisar os três selos originais;
-- remover ou substituir a contenção de equilíbrio provisória criada por Myrddin;
-- determinar pelo Conclave o destino final da entidade aprisionada.
+Correspondências históricas preservadas pela família:
 
-Não existe, até o momento, evidência de culto humano, sabotador secreto ou mestre por trás da entidade.
+- **Myrddin → Merlin**
+- **o'r Dirgel → de Arcanus**
 
-## Primeiro confronto público
+Não são duas famílias diferentes. São formas tradicional e pública/moderna do mesmo nome familiar.
 
-Na sexta anterior à luta contra o demônio, Supergirl interceptou Myrddin e tentou impedir que ele saísse.
-
-O confronto durou cerca de vinte segundos e foi parcialmente gravado.
-
-Myrddin usou barreiras, deslocamento, controle de trajetória e contenção; Supergirl usou velocidade, força e pressão física.
-
-Nenhum dos dois procurou causar dano sério e nenhum obteve vitória clara.
-
-O vídeo mostrou Myrddin principalmente tentando sair enquanto Supergirl tentava detê-lo.
-
-Bruce percebeu isso ao analisar as imagens.
-
-## Combate conjunto contra o demônio
-
-No domingo seguinte, uma passagem secundária permitiu a manifestação de uma criatura demoníaca em área urbana.
-
-Myrddin chegou para proteger civis e fechar a ruptura.
-
-Supergirl chegou pela emergência visível e encontrou Myrddin claramente defendendo pessoas.
-
-Os dois lutaram juntos.
-
-Fatos importantes:
-
-- a criatura possuía componente mágico e conseguia ferir Kara de forma mais relevante do que força física comum;
-- Myrddin protegeu Kara de uma rajada mágica;
-- Kara segurou a criatura no ponto necessário enquanto Myrddin fechava a passagem;
-- Myrddin e Supergirl adaptaram estratégias um ao outro rapidamente;
-- a cooperação foi pública e gravada;
-- depois da luta, Kara deixou de sustentar a hipótese simples de Myrddin ser um vilão.
-
-## Análise da Liga
-
-Bruce analisou gravações de Myrddin de forma operacional.
-
-Sua leitura atual inclui:
-
-- padrão consistente de Proteção, Controle de Posição e Contenção;
-- Myrddin tende a evitar dano quando outra solução existe;
-- nem toda magia exige fala;
-- quando utiliza componentes verbais, a família fonética parece britônica;
-- galês é a hipótese linguística mais forte, com bretão e córnico como alternativas secundárias;
-- isso não é identificação suficiente.
-
-Diana reconheceu nos registros de Themyscira uma tradição antiga cuja lógica trata proteção como declaração de limite, passagem e lado permitido/proibido.
-
-Ela encontrou referência histórica ao nome **o'r Dirgel** ligada a tradições britônicas antigas de limites, passagens e selamentos.
-
-Diana não sabe se o registro se refere a pessoa, título ou linhagem e não identificou Myrddin como Daniel.
-
-## Pistas atuais de Kara sobre Daniel/Myrddin
-
-Kara sabe que:
-
-- Daniel fala pelo menos algum galês;
-- Myrddin utiliza componentes verbais em galês ou numa forma fortemente relacionada;
-- Diana encontrou o nome histórico **o'r Dirgel** associado a magia semelhante à de Myrddin;
-- o pai falecido de Daniel, segundo Daniel contou civilmente, chamava-se **Merlin**;
-- Daniel carrega Merlin como segundo nome em homenagem ao pai;
-- Daniel pertence a uma família antiga.
-
-Kara NÃO sabe que:
-
-- o nome tradicional completo de Daniel é **Daniel Myrddin o'r Dirgel**;
-- **o'r Dirgel** é a família paterna;
-- o pai de Daniel se chamava historicamente **Myrddin o'r Dirgel**;
-- Myrddin é Daniel;
-- o chapéu usado por Myrddin pertenceu ao pai de Daniel;
-- Casa Arcanus é uma propriedade mágica;
-- Morgana é uma bruxa ancestral ligada ao Conclave.
-
-As pistas existem, mas ainda não formaram suspeita consciente em Kara.
-
-## Pistas atuais de Daniel sobre Kara/Supergirl
-
-Daniel possui tendência já estabelecida de registrar formato corporal, postura, ritmo de movimento, apoio, gestos e maneira de se mover de pessoas que chamam sua atenção.
-
-Depois de confrontos e cooperação próximos com Supergirl, algumas maneiras de ela se mover provocam familiaridade.
-
-Em momentos civis, movimentos banais de Kara já evocaram brevemente a mesma sensação.
-
-Daniel ainda não concluiu que Kara seja Supergirl e não possui fundamento consciente suficiente para fazer essa identificação.
-
-## Família paterna de Daniel
+## Pai de Daniel
 
 O pai de Daniel chamava-se historicamente **Myrddin o'r Dirgel**.
 
-Na forma civil/moderna apresentada a Kara, Daniel usa **Merlin** ao falar do pai.
+Ele foi uma figura de enorme peso no mundo mágico, lembrado por diferentes tradições como alguém procurado quando ameaças sobrenaturais ultrapassavam a escala comum.
 
-**o'r Dirgel** é o nome da família paterna.
+Morreu quase vinte anos atrás, antes do nascimento de Daniel, durante uma ocorrência extraordinária em que Morgana provavelmente teria participado se não estivesse grávida.
 
-Myrddin morreu antes do nascimento de Daniel, durante uma ocorrência extraordinária em que Morgana teria participado se não estivesse grávida.
+Daniel nunca conheceu o pai diretamente. Cresceu com fotografias, cartas, cadernos, objetos, anotações, registros e histórias de Morgana.
 
-Daniel cresceu sem memória direta do pai e o conhece por histórias, fotografias, cartas, cadernos, anotações, objetos e relatos de Morgana.
+O luto familiar é antigo e integrado à vida, não recente.
 
-O luto de Morgana e Daniel é antigo, incorporado à vida familiar há quase vinte anos; a visita ao memorial não funciona como catarse recente.
+Daniel e Morgana visitam anualmente o memorial de Myrddin o'r Dirgel na propriedade Arcanus.
 
-Daniel e Morgana visitam anualmente um memorial de **Myrddin o'r Dirgel** na propriedade Arcanus.
+Na forma civil, Daniel havia contado a Kara apenas que o pai se chamava **Merlin**, morreu antes de seu nascimento e deu origem ao segundo nome Daniel Merlin.
 
-A visita inclui lembranças, histórias, humor e silêncio familiar, sem solenidade obrigatória.
+Depois da revelação, Kara compreendeu que Merlin era a forma moderna de Myrddin e que o nome heroico de Daniel também é uma herança paterna.
 
 ## O chapéu
 
 O grande chapéu pontudo e irregular usado por Daniel como Myrddin pertenceu originalmente ao pai.
 
-Morgana conhece o objeto desde antes de Daniel nascer e reconhece inclusive quais rasgos pertenciam ao pai e quais foram causados por Daniel.
+Morgana conhece o objeto desde antes de Daniel nascer e reconhece até quais rasgos pertenciam ao pai e quais foram causados pelo filho.
 
-Ela frequentemente provoca Daniel dizendo que o conjunto do chapéu, sombra facial e olhos amarelos faz Myrddin parecer culpado ou ameaçador, mas não deseja que ele abandone o chapéu.
+Ela provoca Daniel pelo efeito visual produzido quando ele combina o chapéu com sombra facial e olhos amarelos, mas nunca diminui o valor afetivo do objeto.
 
-A reclamação é sobre a apresentação produzida pelo conjunto, não sobre o valor afetivo do objeto.
+Kara passou parte da rivalidade chamando Myrddin de **Mago Cosplay** sem saber a história do chapéu.
 
-Daniel considera o chapéu inocente de todos os crimes estéticos atribuídos a ele.
+Depois da revelação, descobriu que o chapéu era do pai de Daniel e declarou que o objeto estava "absolvido".
 
-## Memorial anual
+Daniel continua considerando o chapéu inocente de todos os crimes estéticos atribuídos a ele.
 
-Na quarta-feira, Daniel contou a Kara que não ficaria com ela depois das aulas porque visitaria com Morgana o memorial do pai.
+## Relação Kara / Daniel após a revelação
 
-Daniel disse a Kara apenas que:
+Em conversa privada no apartamento:
 
-- o pai morreu antes de ele nascer;
-- o nome do pai era **Merlin**;
-- seu próprio segundo nome é homenagem a ele;
-- a visita ocorre todos os anos com Morgana.
+- Daniel confirmou que havia percebido familiaridade na postura, movimento e reflexos de Kara, mas nunca chegou à conclusão de que ela fosse Supergirl.
+- Kara confirmou que pensou brevemente em Daniel ao reconhecer galês na magia de Myrddin, mas descartou a associação.
+- Os dois reinterpretaram vários pequenos incidentes civis, incluindo a peça metálica do sofá deformada por Kara e as velas reagindo ao descontrole mágico de Daniel.
+- Kara explicou que queria uma vida que não começasse por Supergirl.
+- Daniel explicou que queria uma vida que não começasse por magia.
+- Kara perguntou se Daniel, o apartamento, a faculdade, o basquete, os livros e a rotina eram reais. Daniel respondeu: **"Tudo."**
+- Daniel devolveu a pergunta sobre Kara. Ela respondeu igualmente: **"Tudo."**
 
-Kara respondeu sem tratar a informação como tragédia recente e mais tarde enviou:
+A discussão sobre os segredos não foi encerrada moralmente, mas deixou de ser uma ameaça imediata ao relacionamento.
 
-> "Espero que tenha sido uma boa noite para lembrar dele. ❤️"
+Os apelidos heroicos sobreviveram:
 
-Daniel respondeu que foi e comentou que Morgana havia levado por engano um vinho doce que o pai detestava.
+- Kara → **Cabeça-dura** para Daniel.
+- Daniel/Myrddin → **Mago Cosplay** para Kara.
 
-Kara disse gostar da tradição dos dois.
+Agora são provocações entre duas pessoas que conhecem integralmente as identidades uma da outra.
 
-## Vida doméstica recente
+## Relação heroica anterior
 
-Kara já mantém:
+Antes da revelação, Supergirl e Myrddin passaram por esta progressão:
 
-- algumas roupas numa gaveta do apartamento de Daniel;
-- uma escova de dentes no banheiro;
-- familiaridade crescente com cozinha, armários e rotina do apartamento.
+1. Kara encontrou Myrddin contendo um hospedeiro e atacou sem contexto.
+2. Myrddin a conteve por alguns segundos; a entidade escapou.
+3. Kara passou a investigar Myrddin como possível ameaça.
+4. Houve um confronto público curto e inconclusivo.
+5. Depois, ambos enfrentaram juntos uma criatura demoníaca que atravessou uma ruptura.
+6. Kara deixou de tratá-lo como provável vilão.
+7. Daniel passou a reconhecer Supergirl como heroína genuinamente protetiva, embora cabeça-dura.
+8. Na sexta seguinte, Kara percebeu o padrão de retorno da entidade aos pontos secundários.
+9. Kara e Myrddin cruzaram informações e prepararam uma armadilha.
+10. No sábado, capturaram a entidade usando uma falsa passagem convertida em cela de Proteção e Selamento.
+11. Depois da captura, trocaram os nomes heroicos Myrddin e Supergirl e estabeleceram os apelidos Mago Cosplay e Cabeça-dura.
 
-Os dois brincam com isso como "expansão territorial", "infraestrutura" e "precedente jurídico".
+A rivalidade deixou de ser anônima antes de a identidade civil ser descoberta.
 
-Nenhum declarou coabitação.
+## Entidade espiritual e ruptura
 
-A presença de Kara no apartamento está apenas se tornando habitual.
+A entidade principal está capturada.
+
+Ela:
+
+- atravessou parcialmente quando três selos de Metropolis falharam por ressonância;
+- usava hospedeiros vivos como âncoras temporárias;
+- abandonava corpos quando ameaçada;
+- criou pontos secundários;
+- precisava retornar periodicamente a esses pontos para manter a própria rede;
+- utilizou essa rede para sustentar passagens e permitir que ao menos uma criatura demoníaca atravessasse;
+- foi finalmente presa numa cela construída no próprio padrão de um de seus pontos secundários.
+
+Ainda resta trabalho técnico:
+
+- desmontar pontos secundários;
+- revisar os três selos originais;
+- remover ou substituir a contenção provisória de equilíbrio;
+- determinar no Conclave o destino final da entidade.
+
+Não existe até o momento evidência de culto humano, sabotador secreto ou mestre por trás da entidade.
+
+## Investigação de Bruce
+
+Depois que Supergirl registrou que o mago usava o nome **Myrddin**, Bruce cruzou:
+
+- o nome Myrddin;
+- a provável tradição galesa;
+- o padrão de Proteção, Selamento, limites e passagens;
+- a referência **o'r Dirgel** encontrada por Diana.
+
+A busca por Myrddin isoladamente produziu ruído demais.
+
+A combinação **Myrddin + o'r Dirgel** levou Bruce e Diana a procurar Zatanna.
+
+Zatanna confirmou que Myrddin o'r Dirgel foi uma figura histórica real do mundo mágico, morta quase vinte anos antes, e que conhecia Morgana.
+
+Com a equivalência histórica **Myrddin/ Merlin** e **o'r Dirgel/ de Arcanus**, Bruce pesquisou registros contemporâneos e chegou a **Daniel Merlin de Arcanus**.
+
+Idade, presença em Metropolis, estrutura física e contexto familiar eram compatíveis.
+
+Ao examinar registros públicos de Daniel, Bruce encontrou imagens dele com Kara e reconheceu que o provável Myrddin era o namorado civil de Supergirl.
+
+Clark também viu a associação antes da reunião.
+
+## Zatanna e Morgana
+
+Zatanna conhece Morgana pessoalmente de longa data suficiente para que uma comunicação entre as duas comece com reconhecimento direto, não apresentação formal.
+
+Na segunda-feira, Zatanna informou Morgana de que Bruce havia chegado a Daniel e que a Liga queria uma conversa, não uma prisão ou convocação hostil.
+
+Morgana aceitou a abordagem.
+
+Zatanna também contou que Daniel estava namorando Kara Zor-El.
+
+Morgana descobriu então que a "namorada normal" do filho era Supergirl.
+
+Ela achou a situação genuinamente divertida e pediu que Zatanna não contasse a Daniel antes da apresentação formal.
+
+Morgana sabia da identidade de Kara por aproximadamente um dia antes de Daniel descobrir.
+
+## A reunião da Liga
+
+Na terça-feira, Daniel foi informado por Morgana de que Batman o identificara e de que a Liga queria falar com Myrddin.
+
+Por irritação, Daniel decidiu comparecer com o traje heroico completo, incluindo todas as camadas, penas, sombra facial, olhos amarelos e o chapéu do pai.
+
+Kara recebeu separadamente uma convocação ligada ao encerramento do incidente de Metropolis e ao contato formal com Myrddin.
+
+Pouco antes da reunião, os dois ainda se encontraram civilmente na faculdade. Cada um disse ter um compromisso naquela noite. Nenhum mentiu. Eles se beijaram e seguiram separados.
+
+Presentes na sala da Liga:
+
+- Bruce;
+- Clark;
+- Diana;
+- J'onn;
+- John;
+- Barry;
+- Zatanna;
+- Supergirl/Kara;
+- Myrddin/Daniel;
+- Morgana como convidada e ponte com a tradição Arcanus.
+
+Bruce fez as apresentações formais:
+
+**Kara Zor-El.**
+
+**Daniel Merlin de Arcanus.**
+
+A revelação foi simultânea.
+
+Kara e Daniel pediram tempo privado antes da reunião.
+
+Daniel abriu um portal para seu apartamento e os dois conversaram sozinhos.
+
+## Retorno à reunião
+
+Depois da conversa, Daniel recompôs o traje e manteve o chapéu, mas não recriou a sombra facial nem os olhos amarelos.
+
+Kara e Daniel retornaram pelo portal **de mãos dadas**.
+
+A Liga viu pela primeira vez Daniel plenamente identificável vestindo o traje de Myrddin ao lado de Kara em uniforme de Supergirl.
+
+Kara declarou que o chapéu estava absolvido.
+
+Bruce perguntou se podiam continuar.
+
+Kara e Daniel concordaram.
+
+A reunião formal ainda não foi jogada.
+
+## Conhecimento atual de Kara
+
+Kara agora sabe que:
+
+- Daniel é Myrddin;
+- o nome tradicional completo dele é Daniel Myrddin o'r Dirgel;
+- Merlin e Myrddin são formas moderna/tradicional do mesmo nome;
+- de Arcanus e o'r Dirgel são formas moderna/tradicional do mesmo nome familiar;
+- o pai de Daniel foi Myrddin o'r Dirgel;
+- o chapéu de Myrddin pertenceu ao pai;
+- Morgana é uma usuária de magia importante e conhecida por Zatanna/Diana;
+- Casa Arcanus é parte de uma tradição mágica real;
+- Daniel ocultou a vida mágica porque queria preservar uma vida que não começasse pela magia.
+
+## Conhecimento atual de Daniel
+
+Daniel agora sabe que:
+
+- Kara é Supergirl;
+- Kara Zor-El é a identidade kryptoniana completa apresentada pela Liga;
+- os movimentos e reflexos que lhe pareciam familiares eram realmente os mesmos de Supergirl;
+- Kara ocultou a identidade heroica porque queria preservar uma vida que não começasse por Supergirl;
+- os incidentes físicos estranhos ocorridos no apartamento tinham origem kryptoniana.
 
 ## Morgana
 
 Morgana:
 
-- sabe que Kara é namorada de Daniel;
-- percebeu que a intimidade do casal avançou;
-- ainda não conheceu Kara pessoalmente;
-- respeita o limite de Daniel de não investigar Kara por magia;
-- viu os vídeos públicos de Supergirl e Myrddin;
-- reconhece naturalmente o estilo do filho;
-- ofereceu ajuda quando percebeu que Supergirl o estava perseguindo;
-- respeitou a recusa de Daniel;
-- provoca o filho sobre o visual de Myrddin, especialmente o chapéu, sem diminuir o valor afetivo do objeto.
+- sabe que Kara é Supergirl;
+- sabe que Kara e Daniel conhecem agora as identidades um do outro;
+- conhece Zatanna e é reconhecida por Diana;
+- acompanhou Daniel à reunião da Liga;
+- viu os dois retornarem de mãos dadas;
+- continua tratando o chapéu do marido falecido com valor afetivo e o conjunto visual do filho com humor seco.
+
+Morgana e Kara ainda não tiveram uma conversa pessoal longa como sogra e namorada fora do contexto da reunião, apesar de agora terem sido apresentadas na mesma sala.
 
 ## Clark
 
-Clark sabe que Kara e Daniel estão oficialmente namorando e quer conhecer Daniel algum dia.
+Clark sabe:
 
-Kara ainda não marcou esse encontro.
+- que Kara namora Daniel;
+- que Daniel é Myrddin;
+- que Kara e Daniel desconheciam as identidades extraordinárias um do outro até a reunião;
+- que a revelação ocorreu e que os dois retornaram juntos.
 
-Clark viu pelo menos parte da repercussão pública envolvendo Supergirl e Myrddin, mas não possui informação que ligue Myrddin a Daniel.
+Clark e Daniel ainda não tiveram uma conversa pessoal real como primo/família de Kara e namorado.
 
-## Conhecimento civil de Kara
+## Bruce
 
-Kara conhece Daniel como:
+Bruce sabe as duas identidades e conduziu deliberadamente a apresentação formal.
 
-- namorado;
-- estudante de Física;
-- jogador de basquete;
-- pesquisador obsessivo e amante de livros;
-- alguém com família antiga e mãe presente;
-- alguém que fala algum galês;
-- alguém cujo pai morreu antes de seu nascimento;
-- alguém que carrega o nome **Merlin** em homenagem ao pai;
-- alguém que realiza com Morgana uma visita anual ao memorial paterno.
+Sua leitura de Myrddin permanece:
 
-Ela não sabe que Daniel é Myrddin.
+- padrão fortemente protetivo;
+- preferência por contenção e controle em vez de dano;
+- capacidade mágica elevada;
+- tradição familiar antiga e relevante;
+- cooperação recente eficaz com Supergirl.
 
-## Conhecimento civil de Daniel
-
-Daniel conhece Kara como:
-
-- namorada;
-- estudante de Jornalismo;
-- jovem com excelente condicionamento, energia e controle corporal;
-- alguém que passa noites e fins de semana com ele voluntariamente;
-- alguém que já mantém objetos pessoais no apartamento;
-- alguém que deseja continuidade real do namoro.
-
-Ele não sabe que Kara é Supergirl.
+A reunião deverá discutir relação futura com a Liga, limites de cooperação, a crise dos selos e possivelmente o Conclave.
 
 ## Processos ativos
 
-1. A entidade principal está capturada.
-2. A rede secundária ainda precisa ser desmontada tecnicamente.
-3. Os três selos originais ainda precisam de revisão definitiva.
-4. O Conclave precisará decidir o destino da entidade aprisionada.
-5. Supergirl e Myrddin agora possuem identificação heroica recíproca suficiente para futuros encontros.
-6. A rivalidade continua, mas não existe mais hostilidade presumida automática.
-7. As pistas de identidade continuam acumulando-se dos dois lados sem investigação forçada.
-8. O namoro civil continua avançando naturalmente e a presença de Kara no apartamento está se tornando habitual.
-9. Morgana e Kara ainda não se conheceram pessoalmente.
-10. Clark e Daniel ainda não se conheceram pessoalmente.
+1. A reunião formal da Liga ainda precisa acontecer depois da revelação.
+2. A relação Kara/Daniel precisa assimilar a nova realidade de identidades compartilhadas sem apagar a vida civil já construída.
+3. A entidade principal está capturada, mas a rede secundária e os três selos ainda exigem manutenção técnica.
+4. O Conclave ainda precisa decidir o destino final da entidade.
+5. A Liga agora conhece Daniel/Myrddin de forma formal e direta.
+6. Zatanna e Morgana reabriram contato.
+7. Clark e Daniel ainda precisam ter um encontro pessoal real.
+8. Kara e Morgana ainda podem desenvolver a relação pessoal fora da reunião.
+9. O namoro continua; a revelação não desfez a relação.
 
 ## Último fato estabelecido
 
-No sábado à noite, depois da captura da entidade, Kara e Daniel trocaram mensagens de boa-noite e ambos descreveram o próprio dia como produtivo.
+Kara e Daniel retornaram à sala da Liga de mãos dadas.
 
-Kara pensou em Myrddin como irritante, competente e provavelmente confiável quando importa.
+Daniel manteve o chapéu de Myrddin, mas deixou o rosto completamente visível, sem sombra encantada e sem olhos amarelos.
 
-Daniel pensou em Supergirl como cabeça-dura, imprudente e competente demais para ignorar.
+Bruce perguntou:
 
-Nenhum percebeu que pensava na mesma pessoa para quem enviava mensagem.
+> — Podemos continuar?
 
-O Capítulo 9 — **Nomes Próprios** foi encerrado e registrado no Livro.
+Kara e Daniel concordaram.
+
+O Capítulo 10 — **Apresentações Formais** foi encerrado e registrado no Livro.
 
 ## Primeiro ponto aberto
 
-A continuidade começa depois da noite de sábado.
-
-O domingo permanece aberto às Cadeiras e à Direção do Diretor.
+A continuidade começa na mesma terça-feira à noite, com a reunião formal da Liga finalmente começando depois da revelação das identidades.
