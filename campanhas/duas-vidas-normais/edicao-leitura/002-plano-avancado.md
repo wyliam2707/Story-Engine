@@ -356,4 +356,20 @@ A biblioteca volta ao silêncio.
 
 Daniel continua estudando.
 
-Por algum tempo, pelo menos.
+Por alguns minutos, pelo menos.
+
+Depois percebe que voltou à mesma linha pela terceira vez.
+
+O problema não é o grimório.
+
+Daniel fecha o livro por um instante e olha para o celular deixado ao lado.
+
+Dançar ainda não tem dia, lugar ou qualquer plano definido. É só uma cláusula improvisada numa brincadeira que começou por causa de um livro ruim.
+
+Mesmo assim, Kara já disse sim.
+
+Do outro lado de Metropolis, a conversa continua aberta no telefone dela enquanto os textos de Jornalismo esperam atenção.
+
+Nenhum dos dois marcou um encontro ainda.
+
+Mas, pela primeira vez, existe alguma coisa além do almoço de amanhã para esperar.
