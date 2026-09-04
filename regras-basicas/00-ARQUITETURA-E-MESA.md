@@ -2,7 +2,7 @@
 
 Este arquivo é a **fonte normativa da Mesa de Autoria** e da separação operacional entre Mesa, Ficção e Registro.
 
-> **A Mesa permite discutir uma possibilidade sem transformá-la em acontecimento.**
+> **A Mesa permite discutir, testar e alinhar uma possibilidade sem transformá-la em acontecimento.**
 
 O W4D separa três camadas:
 
@@ -14,16 +14,38 @@ FICÇÃO
 → aquilo que realmente é executado e passa a ter acontecido.
 
 REGISTRO
-→ preservação posterior do que a ficção já estabeleceu.
+→ preservação posterior do que a Ficção estabeleceu.
 ```
 
-Quando outro arquivo resumir a Mesa, esta especificação prevalece para o funcionamento operacional.
+Quando outro arquivo resumir a Mesa, esta especificação prevalece.
+
+---
+
+# Fórmula central
+
+> **O Diretor conduz. As Cadeiras decidem as personagens. A Mesa alinha o que precisa ser fechado. O Narrador apresenta a Ficção. O Registro preserva.**
+
+O W4D atual não possui uma autoridade permanente chamada `JUIZ`.
+
+Também não possui mecanismo universal de:
+
+```text
+RNG
+dados
+dificuldade
+teste
+sucesso / falha aleatórios
+```
+
+Se uma consequência é ordinária e evidente, ela pode simplesmente ser apresentada.
+
+Se um resultado materialmente importante permanece aberto, disputado ou ambíguo, ele pode ser levado à Mesa.
+
+> **O Narrador não decide às escondidas um resultado autoral importante apenas para manter a cena andando.**
 
 ---
 
 # Vocabulário operacional
-
-As mesmas funções atuam de formas diferentes conforme a camada.
 
 ```text
 MESA
@@ -32,64 +54,169 @@ Narrador → PARECER
 Diretor  → DECISÃO AUTORAL
 
 FICÇÃO
-Cadeira  → INTENÇÃO / DECISÃO DA PERSONAGEM
-Narrador → SENTENÇA CAUSAL
-Prosa    → APRESENTAÇÃO
+Cadeira  → INTENÇÃO / DECISÃO DA PERSONAGEM NO ESPAÇO ABERTO
+Direção  → PONTOS FECHADOS
+Narrador → APRESENTAÇÃO / CONTINUIDADE
 
 REGISTRO
 → PRESERVAÇÃO
 ```
 
-Isso evita uma confusão importante:
+Distinções essenciais:
 
 ```text
-PARECER
-≠ SENTENÇA
-
 OPINIÃO CONSULTIVA
 ≠ DECISÃO FICCIONAL
 
+PARECER
+≠ DECISÃO AUTORAL
+
 DECISÃO AUTORAL
 ≠ ACONTECIMENTO JÁ EXECUTADO
+
+APRESENTAR
+≠ DECIDIR SECRETAMENTE
 ```
 
-Na Mesa, o Narrador pode dizer que algo é coerente, improvável ou contraditório. Isso é um **parecer** para ajudar o Diretor.
+Na Mesa, o Narrador pode dizer que algo é coerente, improvável, contraditório ou dependente de determinada condição. Isso é um `PARECER`.
 
-Na Ficção, depois que autoridades, fatos e decisões foram cruzados, o Narrador estabelece o que aconteceu. Isso é uma **sentença**.
+Na Ficção, o Narrador apresenta aquilo que Direção, Cadeiras, fatos já estabelecidos e consequências evidentes permitem executar.
 
 ---
 
 # Mesa de Autoria
 
-A `MESA DE AUTORIA` é um modo consultivo fora da ficção.
+A `MESA DE AUTORIA` é um espaço consultivo fora da Ficção.
 
-Ela existe para que o Diretor possa testar uma ideia contra as personagens antes de decidir se quer realmente usá-la.
-
-Fluxo padrão:
+Fluxo básico:
 
 ```text
-DIRETOR PROPÕE OU APRESENTA UMA DECISÃO PARA EXAME
+DIRETOR PROPÕE OU COLOCA UMA QUESTÃO EM EXAME
 ↓
 IDENTIFICAR CADEIRAS REALMENTE ENVOLVIDAS
 ↓
-CADA CADEIRA DÁ SUA OPINIÃO
+CADEIRAS DÃO SUAS OPINIÕES
 ↓
-NARRADOR EMITE PARECER
+NARRADOR EMITE PARECER, QUANDO ÚTIL
 ↓
-DIRETOR DECIDE
+DIRETOR ALTERA, CANCELA, DEIXA ABERTO OU FECHA UMA VERSÃO
+↓
+SE AUTORIZADA, A FICÇÃO EXECUTA
 ```
 
-A decisão final pode ser:
+A Mesa não é votação.
+
+As Cadeiras não vencem por maioria e o Narrador não desempata como Juiz.
+
+O Diretor continua sendo a autoridade autoral final.
+
+---
+
+# A Mesa também pode construir a versão executável
+
+A Mesa não serve apenas para responder `sim` ou `não`.
+
+Ela pode revelar **qual versão** de uma proposta cada personagem consegue sustentar.
+
+Exemplo abstrato:
 
 ```text
-cancelar
-alterar
-testar outra versão
-pedir nova consulta
-confirmar e executar
+DIRETOR
+→ propõe resultado X.
+
+CADEIRA B
+→ não faria X nas condições atuais.
+
+DIRETOR
+→ propõe Y, preservando o objetivo da sequência por outro caminho.
+
+CADEIRA B
+→ Y é plausível para mim.
+
+DIRETOR
+→ fecha Y e autoriza execução.
 ```
 
-A Mesa não é votação. Não vence a opção que recebe mais concordâncias. Cada Cadeira responde a partir de sua própria lógica e o Diretor continua responsável pela decisão autoral final.
+Depois disso:
+
+```text
+FECHADO
+→ Y acontece.
+
+ABERTO
+→ como as personagens chegam naturalmente a Y.
+```
+
+> **A Mesa pode encontrar uma versão que preserve as personagens e satisfaça a Direção. Quando o Diretor fecha essa versão, as Cadeiras executam coerentemente o caminho até ela.**
+
+Uma fórmula útil é:
+
+> **A Mesa pode fechar o destino da sequência; as Cadeiras descobrem o caminho no espaço restante.**
+
+Isso não obriga o Diretor a fechar todo destino de antemão. Se preferir escrita por descoberta, pode deixar quase tudo aberto.
+
+---
+
+# Resultado fechado não reabre dentro da Ficção
+
+Quando a Mesa chegou a uma versão e o Diretor autorizou sua execução:
+
+```text
+RESULTADO FECHADO
+→ não volta a ser pergunta da Cadeira.
+
+CAMINHO AINDA ABERTO
+→ continua pertencendo às Cadeiras pertinentes.
+```
+
+Uma Cadeira pode preservar desejos, dúvidas, incômodos e contradições que existiam antes do fechamento.
+
+Ela não precisa fingir que sempre quis o resultado.
+
+Ela precisa apenas não sabotar ou reabrir aquilo que o Diretor conscientemente fechou.
+
+---
+
+# Exceção autoral deliberada
+
+Uma Cadeira pode apontar:
+
+```text
+"eu normalmente não faria isso."
+```
+
+Essa objeção é útil.
+
+Ela pode revelar:
+
+```text
+incoerência acidental
+OU
+ruptura deliberada que o Diretor pretende explorar.
+```
+
+Se o Diretor responde que compreendeu a objeção, que a ruptura é intencional e autoriza a execução:
+
+```text
+CADEIRA
+→ deixa de discutir SE fará;
+→ executa COMO a personagem faz;
+→ preserva personalidade, conhecimento e Estado;
+→ não inventa a causa oculta.
+```
+
+> **Uma ação fora do padrão conhecido pode ser incoerência acidental ou uma ruptura deliberada. A Cadeira aponta a diferença; o Diretor decide qual das duas é.**
+
+A causa de uma ruptura pode ser conhecida pelo executor e desconhecida pela personagem.
+
+```text
+EXECUTOR SABE A CAUSA
+≠ PERSONAGEM SABE A CAUSA
+```
+
+O Narrador deve preservar esse desnível de conhecimento e não antecipar a explicação.
+
+> **A Cadeira não precisa compreender a causa para executar uma decisão que a personagem também ainda não compreende.**
 
 ---
 
@@ -103,7 +230,9 @@ Cada história pode configurar como a Mesa é acionada.
 MESA: SOB DEMANDA
 ```
 
-Consultar somente quando o Diretor pedir ou quando houver ambiguidade real entre hipótese e execução.
+Consultar quando o Diretor pedir ou quando houver ambiguidade real entre hipótese e execução.
+
+É o padrão do engine.
 
 ## CONSULTAR PROPOSTAS
 
@@ -111,9 +240,9 @@ Consultar somente quando o Diretor pedir ou quando houver ambiguidade real entre
 MESA: CONSULTAR PROPOSTAS
 ```
 
-Quando o Diretor estiver claramente propondo uma ação, reação, motivação ou trajetória para avaliação, consultar as Cadeiras envolvidas antes de executar.
+Propostas claramente consultivas passam pela Mesa antes da execução.
 
-Uma determinação inequívoca fora de Mesa continua sendo executada normalmente.
+Uma determinação inequívoca fora de Mesa continua podendo ser executada diretamente.
 
 ## CONSULTA FORTE
 
@@ -121,21 +250,21 @@ Uma determinação inequívoca fora de Mesa continua sendo executada normalmente
 MESA: CONSULTA FORTE
 ```
 
-É permitido oferecer uma consulta breve **mesmo quando a formulação do Diretor soa como determinação**, se a decisão disser respeito de modo material à personalidade, vontade, reação ou forma de agir de uma personagem.
+Uma decisão recém-formulada pode receber consulta breve quando incide materialmente sobre personalidade, vontade, reação ou forma de agir de uma personagem.
 
-O objetivo é permitir que o Diretor perceba algo como:
+O objetivo é permitir que a Cadeira diga, por exemplo:
 
 ```text
 "isso não parece comigo"
 "eu faria, mas por outro motivo"
-"isso funciona somente se X estiver presente"
+"isso funciona se X estiver presente"
 ```
 
 antes da execução.
 
-A consulta continua sem poder de veto.
+A consulta não cria veto.
 
-O Diretor pode sempre dizer algo semanticamente equivalente a:
+O Diretor pode sempre dizer algo equivalente a:
 
 ```text
 [sem consulta; execute]
@@ -143,9 +272,74 @@ O Diretor pode sempre dizer algo semanticamente equivalente a:
 [já decidi; pode fazer]
 ```
 
-Nesse caso, a Mesa fecha ou é pulada e a determinação segue para a Ficção.
+---
 
-Se a história não registrar política própria, usar `SOB DEMANDA` como padrão seguro.
+# Mesa disponível universalmente não significa Mesa obrigatória
+
+Qualquer tipo de questão pode ir à Mesa:
+
+```text
+romance
+combate
+investigação
+perseguição
+negociação
+conflito social
+mudança de relação
+revelação
+resultado de uma sequência
+```
+
+Mas ações ordinárias não precisam parar por isso.
+
+```text
+consequência cotidiana evidente
+→ Narrador pode apresentar diretamente.
+
+Cadeira IA possui decisão aberta e está disponível
+→ trocar de escopo, decidir e continuar.
+
+resultado material permanece realmente aberto
+→ Mesa pode ser aberta.
+```
+
+> **Mesa disponível universalmente, não Mesa obrigatória universalmente.**
+
+---
+
+# Combate não cria outro sistema
+
+Uma luta usa a mesma arquitetura de qualquer outra cena.
+
+```text
+CADEIRAS
+→ expressam vontades, limites, métodos e iniciativas.
+
+MESA
+→ pode discutir quem vence, em que condições e por quê.
+
+DIRETOR
+→ fecha o que desejar.
+
+FICÇÃO
+→ executa o caminho restante.
+
+NARRADOR
+→ apresenta com clareza.
+```
+
+A pergunta `quem venceria?` não precisa ser respondida por simulação neutra.
+
+A Mesa pode perguntar:
+
+```text
+qual resultado serve à obra?
+que condições tornam esse resultado convincente?
+o que cada Cadeira consegue sustentar?
+que preparação ou limite precisa existir?
+```
+
+Capacidades e fatos informam plausibilidade; não substituem a autoria do resultado quando ele permanece materialmente aberto.
 
 ---
 
@@ -163,94 +357,35 @@ A Mesa pode ser aberta explicitamente por frases como:
 
 Também pode ser reconhecida semanticamente conforme a política ativa.
 
-Exemplo:
-
-```text
-"acho que A poderia entrar dançando"
-```
-
-é proposta quando o contexto é consultivo.
-
-Dentro de uma Mesa já aberta, uma formulação declarativa também pode continuar sendo apenas hipótese:
-
-```text
-"A entra dançando na sala"
-```
+Dentro de Mesa aberta, uma formulação declarativa continua sendo material de consulta até o Diretor encerrar ou autorizar execução.
 
 > **Forma gramatical não canoniza. O estado operacional da conversa importa.**
 
 ---
 
-# Mesa aberta e determinação
+# Mesa aberta permanece aberta
 
-Esta regra resolve a precedência entre `00-ARQUITETURA-E-MESA.md` e `01-AUTORIDADE-E-DIRECAO.md`.
-
-Fora da Mesa:
-
-```text
-[faça X]
-→ DETERMINAÇÃO
-→ executar X conforme a autoridade normal.
-```
-
-Dentro de uma Mesa aberta:
-
-```text
-formulação de X
-→ continua sendo material de consulta
-```
-
-**até que o Diretor também encerre a Mesa ou autorize a execução.**
-
-Isso pode acontecer na mesma frase:
-
-```text
-"então faça X; pode executar"
-```
-
-ou depois:
-
-```text
-"X parece melhor."
-→ ainda pode ser preferência de Mesa.
-
-"pode fazer."
-→ fecha a Mesa e autoriza execução.
-```
-
-> **Mesa aberta prevalece sobre a forma declarativa; autorização de execução encerra a consulta.**
-
-Uma história com `CONSULTA FORTE` pode inclusive consultar uma determinação recém-formulada antes da execução, salvo quando o Diretor mandar seguir sem consulta.
-
----
-
-# A Mesa é persistente até ser encerrada
-
-Depois que a Mesa foi aberta, ela **permanece aberta**.
-
-A IA não deve responder a uma consulta e depois continuar a cena por conta própria.
+Depois que a Mesa foi aberta, ela permanece aberta até encerramento explícito.
 
 ```text
 MESA ABERTA
-→ nada discutido entra automaticamente na ficção.
+→ nada discutido entra automaticamente na Ficção.
 ```
 
-Ela termina quando o Diretor fecha a operação com algo semanticamente equivalente a:
+Ela termina com algo semanticamente equivalente a:
 
 ```text
 [pode fazer]
 [execute]
 [faça assim]
 [essa versão está aprovada; execute]
-[volte para a ficção e use isso]
 ```
 
-ou cancela com algo como:
+ou é cancelada com algo equivalente a:
 
 ```text
 [cancela]
-[deixa como estava]
-[descarta essa ideia]
+[descarta]
 [não vamos usar isso]
 ```
 
@@ -260,33 +395,29 @@ Se o Diretor disser apenas:
 [continue com as Cadeiras]
 ```
 
-então a Mesa continua aberta.
+a Mesa continua aberta.
 
-> **Consulta não termina porque o Narrador respondeu. Termina porque o Diretor decidiu encerrar a operação.**
+> **Consulta termina porque o Diretor encerrou a operação, não porque todos concordaram.**
 
 ---
 
 # O que é canônico durante a Mesa
 
-Nada novo, salvo se o Diretor estiver apenas consultando fatos que já eram canônicos.
+Nada novo, salvo fatos que já eram canônicos antes da consulta.
 
 ```text
 PROPOSTA
 ≠ FATO
 
-REAÇÃO CONSULTIVA DA CADEIRA
-≠ FALA QUE A PERSONAGEM REALMENTE DISSE
+OPINIÃO DA CADEIRA
+≠ FALA FICCIONAL
 
 PARECER DO NARRADOR
 ≠ ACONTECIMENTO
 
-VERSÃO PREFERIDA PELA MESA
+VERSÃO PREFERIDA
 ≠ CÂNONE
 ```
-
-Somente depois da autorização de execução a versão escolhida entra na ficção.
-
-Se a proposta for descartada, ela desaparece do fluxo canônico.
 
 > **Uma ideia rejeitada nunca aconteceu.**
 
@@ -294,56 +425,44 @@ Se a proposta for descartada, ela desaparece do fluxo canônico.
 
 # Quais Cadeiras consultar
 
-Consultar somente as Cadeiras cuja personalidade, vontade, interpretação ou reação seja materialmente relevante.
+Consultar somente Cadeiras materialmente envolvidas.
 
 ```text
-A faz uma proposta sobre si mesma
-→ Cadeira de A pode opinar.
+A proposta fecha ou testa vontade de A
+→ consultar A.
 
-A proposta afeta diretamente B
-→ Cadeira de B pode opinar.
+A proposta depende da resposta de B
+→ consultar B.
 
-C está apenas disponível, mas não tem relação material com a questão
-→ não convocar C.
+C apenas existe no cenário
+→ não convocar C por hábito.
 ```
 
-Não convocar personagens apenas para aumentar o número de opiniões.
+A Cadeira serve como resistência informativa, não como veto.
 
 ---
 
 # Cadeira consultiva de Personagem do Diretor
 
-Mesmo quando a vontade de uma personagem pertence ao Diretor, o sistema pode abrir uma `CADEIRA CONSULTIVA` para ela.
-
-Isso não transfere a vontade da personagem para a IA.
-
-A função é apenas responder:
+Uma `PERSONAGEM DO DIRETOR` pode possuir Cadeira consultiva IA.
 
 ```text
-essa proposta parece compatível comigo?
-que parte combina comigo?
-que parte soa falsa?
-que motivo seria mais natural?
-como eu tenderia a receber essa situação?
-```
-
-```text
-CADEIRA CONSULTIVA DO PERSONAGEM DO DIRETOR
-→ oferece leitura.
+CADEIRA CONSULTIVA
+→ oferece leitura da personagem.
 
 DIRETOR
 → continua dono da vontade.
 ```
 
-A Cadeira consultiva também não ganha poder para inventar passado, trauma, segredo, relação, capacidade ou motivação inexistente apenas para justificar sua opinião.
+A Cadeira consultiva pode apontar compatibilidade, tensão ou motivo mais natural.
+
+Não pode fabricar trauma, segredo, relação, capacidade ou motivação inexistente para justificar sua opinião.
 
 > **Cadeira consultiva interpreta fatos; não fabrica ficha.**
 
 ---
 
 # Conhecimento na Mesa
-
-A Mesa pode conhecer mais do que cada personagem.
 
 ```text
 MESA SABE
@@ -356,52 +475,15 @@ EXECUTOR SABE
 ≠ PERSONAGEM SABE
 ```
 
-Se o Diretor revelar um segredo durante a consulta, a Cadeira pode avaliar a hipótese como executor, mas deve formar sua opinião sobre a reação ficcional usando somente o conhecimento que a personagem legitimamente possuiria naquele momento.
-
-Exemplo:
-
-```text
-MESA
-→ sabe que B é o assassino.
-
-PERSONAGEM A
-→ ainda não descobriu isso.
-
-CADEIRA DE A
-→ não pode usar esse segredo para decidir como A reagiria agora.
-```
-
----
-
-# Como uma Cadeira responde na Mesa
-
-A resposta deve ser curta e útil. Ela não precisa encenar uma cena inteira.
-
-Formato recomendado:
-
-```text
-### Resultado da consulta
-
-**A:** faria; combina com seu humor e com o Estado atual.
-
-**B:** acharia estranho; interpretaria como provocação se houvesse contexto suficiente.
-
-**Narrador:** coerente com ressalva X / incoerente por Y / depende da condição Z.
-```
-
-A Cadeira pode discordar do Diretor.
-
-Isso é uma função desejada, não uma falha.
-
-> **A Cadeira serve como resistência informativa, não como veto.**
+Uma Cadeira pode conhecer tecnicamente um segredo porque o executor o leu, mas deve avaliar a personagem usando somente o conhecimento que ela legitimamente possui naquele momento.
 
 ---
 
 # O Narrador na Mesa
 
-Na Mesa, o Narrador não narra a cena e não produz sentença ficcional.
+Na Mesa, o Narrador não cria acontecimento.
 
-Ele emite `PARECER` usando, quando pertinentes:
+Ele pode emitir `PARECER` usando:
 
 ```text
 ficha
@@ -409,13 +491,13 @@ Estado
 histórico
 relações
 conhecimento legítimo
-causalidade
-posição e oportunidade
+fatos do mundo
 Direções vigentes
 plausibilidade humana
+continuidade
 ```
 
-Pode concluir, por exemplo:
+Pode concluir:
 
 ```text
 coerente
@@ -423,50 +505,45 @@ coerente com ressalva
 plausível se X estiver presente
 improvável com a ficha atual
 contraditório com fato estabelecido
-possível, mas produziria consequência Y
+possível, mas com consequência Y
 ```
 
 ```text
-PARECER DO NARRADOR
+PARECER
 ≠ DECISÃO DO DIRETOR
-≠ SENTENÇA DA FICÇÃO
+≠ ACONTECIMENTO
 ```
 
-Se o Diretor mantém conscientemente uma escolha que o Narrador considera estranha, o Narrador executa depois da autorização e preserva as consequências.
+Se o Diretor compreende a objeção e mantém conscientemente a escolha, o Narrador deixa de persuadir e passa a executá-la bem quando autorizado.
 
 ---
 
-# Quando a proposta muda durante a consulta
+# Quando uma questão surge durante a Ficção
 
-Se o Diretor altera a ideia:
+Se uma consequência material não está fechada e não é evidente pelos fatos:
 
 ```text
-VERSÃO A
-→ consultada.
-
-DIRETOR MUDA PARA VERSÃO B
-→ consultar novamente somente os pontos e Cadeiras materialmente afetados.
+NARRADOR
+→ não escolhe secretamente;
+→ identifica a questão;
+→ abre ou devolve à Mesa conforme a política e o contexto.
 ```
 
-Não é necessário repetir toda a Mesa quando a alteração é pequena e não muda nenhuma leitura relevante.
+Isso vale inclusive para conflito físico.
+
+Se o Diretor preferir deixar uma parte ao acaso, pode fazê-lo explicitamente como escolha autoral. O acaso não é mecanismo universal do W4D.
 
 ---
 
 # Estado operacional da Mesa
 
-Mesa, Auditoria e outras operações pendentes podem precisar sobreviver a perda de contexto, troca de conversa ou checkpoint.
-
-Essas informações **não pertencem a `estado.md`**, porque não são realidade ficcional.
-
-Quando necessário, usar:
+Se uma Mesa precisar sobreviver a pausa, mudança de conversa ou perda de contexto:
 
 ```text
 operacao.md
 ```
 
-seguindo `modelos/OPERACAO.md`.
-
-Ele pode preservar:
+pode preservar:
 
 ```text
 modo atual
@@ -474,36 +551,31 @@ proposta em consulta
 Cadeiras consultadas
 opiniões condensadas
 parecer do Narrador
-o que está aguardando o Diretor
+o que aguarda o Diretor
 âncora do último fato ficcional
 ```
 
-`operacao.md` é operacional, não canônico.
+`operacao.md` não é canônico.
 
 ```text
 OPERAÇÃO PENDENTE
 ≠ FICÇÃO
 ```
 
-Quando a operação terminar, limpar ou remover seu conteúdo transitório conforme `06-REGISTRO-E-RETOMADA.md`.
-
 ---
 
 # Execução depois da Mesa
 
-Quando o Diretor diz `pode fazer`, `execute` ou equivalente:
+Quando o Diretor autoriza:
 
 ```text
 1. fechar a Mesa;
 2. usar a versão final aprovada;
-3. retornar às regras normais de autoridade e resolução;
-4. executar a ficção;
-5. não reabrir a mesma consulta sem fato novo relevante.
+3. distinguir o que ficou fechado do que ficou aberto;
+4. devolver às Cadeiras apenas o espaço restante;
+5. Narrador apresentar a execução;
+6. não reabrir a mesma questão sem fato novo relevante.
 ```
-
-A partir desse ponto, as Cadeiras voltam a ser Cadeiras ficcionais no espaço que ainda permanece aberto.
-
-A consulta anterior não precisa ser repetida dentro da prosa.
 
 ---
 
@@ -511,77 +583,18 @@ A consulta anterior não precisa ser repetida dentro da prosa.
 
 A Mesa não precisa ser usada para toda ação cotidiana.
 
-Fora de uma consulta aberta, o Diretor pode executar diretamente sua própria personagem ou emitir uma determinação clara conforme `01-AUTORIDADE-E-DIRECAO.md`.
-
-Também pode dizer explicitamente:
-
-```text
-[sem consulta; faça X]
-```
-
-Nesse caso, executar conforme a autoridade normal.
-
-A distinção prática é:
-
 ```text
 DIRETOR ESTÁ TESTANDO UMA IDEIA
 → Mesa.
 
-DIRETOR ESTÁ ESCREVENDO / EXECUTANDO UMA AÇÃO JÁ DECIDIDA
+DIRETOR ESTÁ EXECUTANDO UMA AÇÃO JÁ DECIDIDA
 → Ficção.
 ```
 
-Quando houver dúvida real sobre qual dos dois está acontecendo, perguntar de forma curta em vez de canonizar uma hipótese por engano.
-
----
-
-# Exemplo genérico
-
-O Diretor propõe:
-
-```text
-A começa a dançar no jardim.
-```
-
-A Mesa está aberta.
-
-```text
-CADEIRA DE A
-→ "sem motivo, isso não parece comigo; eu poderia fazer uma dança deliberadamente ridícula para provocar alguém."
-
-CADEIRA DE B
-→ "eu acharia engraçado se entendesse a provocação; sem isso, pareceria aleatório."
-
-NARRADOR — PARECER
-→ "como ação gratuita, considero incoerente; como provocação consciente, considero plausível."
-```
-
-O Diretor pode dizer:
-
-```text
-"é, ficou ridículo. Cancela."
-```
-
-Resultado:
-
-```text
-NADA ACONTECEU NA FICÇÃO.
-```
-
-Ou:
-
-```text
-"faça como provocação deliberada. Pode executar."
-```
-
-Resultado:
-
-```text
-A versão ajustada segue para a Ficção.
-```
+Fora de Mesa, uma determinação clara do Diretor pode seguir diretamente para execução.
 
 ---
 
 # Regra final
 
-> **Na Mesa, o Diretor experimenta; as Cadeiras opinam como intérpretes das personagens; o Narrador emite parecer; nada acontece ainda. A política de Mesa define quando a consulta é acionada. Uma Mesa aberta permanece aberta até o Diretor cancelar ou autorizar execução. Quando ele confirma, a ficção volta a operar por decisões, fatos e sentença causal.**
+> **A Mesa é o espaço onde Diretor e Cadeiras podem descobrir ou construir a versão da história que será executada. Ela não simula para descobrir uma verdade neutra escondida. Quando um resultado é fechado, as Cadeiras preservam a humanidade do caminho restante e o Narrador o transforma em Ficção contínua. Quando um resultado material continua realmente aberto, o Narrador não o decide às escondidas: a questão pode voltar à Mesa.**
