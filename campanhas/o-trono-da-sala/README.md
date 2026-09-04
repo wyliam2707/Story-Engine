@@ -1,7 +1,7 @@
 # O Trono da Sala
 
 STATUS
-→ EM PREPARAÇÃO
+→ PRONTA
 
 ## Proposta curta
 
