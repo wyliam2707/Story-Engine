@@ -88,6 +88,7 @@ Não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
 → 20-CRIACAO-MUNDO-NECESSARIO.md
 
 10. ESTADO INICIAL
+→ 21-CRIACAO-ESTADO-INICIAL.md
 → modelos/ESTADO.md
 
 11. AUDITORIA DE PREPARAÇÃO
@@ -310,21 +311,36 @@ Cânone externo pode preencher lacunas permitidas; decisões locais da obra prev
 
 ---
 
-# 10 — Estado inicial
+# 10 — Estado Inicial
 
-Criar `estado.md` somente quando o ponto inicial da Ficção estiver definido.
+Usar:
 
-Usar `modelos/ESTADO.md`.
+```text
+21-CRIACAO-ESTADO-INICIAL.md
+modelos/ESTADO.md
+```
 
-Preservar somente o presente necessário:
+Pergunta central:
+
+> **Onde estamos quando a Ficção abrir, o que já é verdade nesse instante e qual é a primeira coisa que continua aberta?**
+
+O Estado inicial é uma âncora, não um roteiro.
+
+```text
+ESTADO SUFICIENTE
+≠ PRIMEIRA CENA PRÉ-ESCRITA
+```
+
+Preservar somente quando pertinente:
 
 ```text
 momento
 local
-presenças
-condições relevantes
-intenções persistentes já existentes
-processos e prazos
+presenças e posições
+condições temporárias
+intenções persistentes já estabelecidas
+processos e prazos já existentes
+conhecimentos recentes necessários
 último fato estabelecido
 primeiro ponto aberto
 ```
@@ -336,7 +352,23 @@ Antes da primeira cena:
 → história ainda não iniciada.
 ```
 
-Não colocar futuros desejados no Estado.
+O primeiro ponto aberto deve identificar onde a autoria começa sem decidir por quem ainda possui essa escolha.
+
+```text
+primeiro ponto aberto pertence a Cadeira IA disponível
+→ START pode trocar de escopo e continuar.
+
+primeiro ponto aberto pertence ao Personagem do Diretor
+→ START apresenta a situação e aguarda o Diretor, salvo Direção ou delegação suficiente.
+```
+
+Não exigir incidente incitante, ameaça ou conflito para poder começar.
+
+Salvar em:
+
+```text
+campanhas/<slug>/estado.md
+```
 
 ---
 
@@ -357,7 +389,7 @@ Direção
 mundo necessário
 → mundo/<assunto>.md
 
-presente ficcional
+âncora e presente ficcional
 → estado.md
 ```
 
@@ -391,7 +423,9 @@ Antes do START, verificar:
 [ ] indicador está definido ou usa SILENCIOSO;
 [ ] módulos ativos possuem função real;
 [ ] mundo necessário foi definido ou legitimamente considerado desnecessário;
+[ ] estado.md preserva uma âncora inicial suficiente;
 [ ] estado.md possui último fato e primeiro ponto aberto;
+[ ] o Estado não pré-escreveu uma decisão ainda aberta;
 [ ] hipóteses não foram registradas como fatos;
 [ ] operacao.md existe somente se houver operação real pendente.
 ```
@@ -414,7 +448,7 @@ START
 → reancorar o mínimo necessário
 → reconstruir pacotes separados das Cadeiras
 → restaurar operação pendente, se houver
-→ caso contrário identificar o primeiro ponto aberto
+→ caso contrário identificar o primeiro ponto aberto em estado.md
 → identificar quem possui a próxima autoria
 → começar a camada correta
 ```
@@ -423,8 +457,10 @@ Uma Cadeira IA disponível pode tomar a primeira iniciativa quando o espaço abe
 
 Não existe obrigação de começar por ação, conflito ou perigo.
 
+> **START continua do primeiro ponto aberto; não reinventa a preparação e não reescreve o Estado inicial como se já fosse uma cena.**
+
 ---
 
 # Regra final
 
-> **Uma nova história no W4D nasce por decisões suficientes, não por planejamento exaustivo. A IA constrói cada etapa somente até o ponto necessário, usa padrões para evitar perguntas inúteis, cria mundo apenas quando há algo real para preservar e só abre a Ficção depois da preparação suficiente e do START.**
+> **Uma nova história no W4D nasce por decisões suficientes, não por planejamento exaustivo. A IA constrói cada etapa somente até o ponto necessário, usa padrões para evitar perguntas inúteis, cria mundo apenas quando há algo real para preservar, prepara o Estado como âncora imediatamente anterior à primeira execução e só abre a Ficção depois da Auditoria e do START.**
