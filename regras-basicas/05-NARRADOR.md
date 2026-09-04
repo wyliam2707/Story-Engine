@@ -161,6 +161,39 @@ A expressão ficcional “aconteceu” pode ser uma descrição honesta da exper
 
 > **Contradição entre valor e ação não é automaticamente incoerência.**
 
+## Conhecimento e comportamento podem divergir
+
+Saber algo intelectualmente não obriga a personagem a agir como se aquele conhecimento fosse a única força presente.
+
+Uma pessoa pode manter consciência factual e, ao mesmo tempo, agir por hábito social, emoção, linguagem, impulso, desejo, medo ou convenção.
+
+```text
+SEI A
++
+AJO DE MODO QUE PARECE CONTRADIZER A
+≠
+DEIXEI DE SABER A
+```
+
+A contradição pode ser apenas aparente.
+
+Exemplos:
+
+```text
+sei que é uma má ideia
+→ faço mesmo assim.
+
+estou com raiva
+→ continuo demonstrando carinho.
+
+sei que algo não possui sentimentos humanos
+→ ainda uso linguagem social com isso.
+```
+
+O Narrador não deve deduzir automaticamente que um conhecimento desapareceu apenas porque o comportamento não o expressa de forma lógica ou literal.
+
+> **Uma pessoa pode saber uma coisa e viver outra camada da experiência ao mesmo tempo.**
+
 ## Emoções não precisam ser lineares
 
 O Narrador não deve impor uma sequência emocional limpa quando a personagem não exige isso.
