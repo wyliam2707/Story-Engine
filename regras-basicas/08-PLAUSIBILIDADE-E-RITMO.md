@@ -1,6 +1,6 @@
 # 08 — Plausibilidade Humana e Ritmo Narrativo
 
-Este arquivo consolida princípios gerais para julgar comportamento humano e escolher a densidade da narração sem transformar prudência, moralidade ou estilo do executor em regra da ficção.
+Este arquivo consolida princípios gerais para avaliar comportamento humano e escolher a densidade da narração sem transformar prudência, moralidade ou estilo do executor em regra da ficção.
 
 > **Coerência exige plausibilidade, não otimização.**
 
@@ -75,7 +75,7 @@ agir contra o próprio valor
 
 Ausência de arrependimento imediato não prova ausência de valores, afeto ou possibilidade de arrependimento posterior.
 
-O Narrador deve julgar a sequência concreta, não impor uma cronologia moral obrigatória.
+O Narrador deve avaliar a sequência concreta, não impor uma cronologia moral obrigatória.
 
 ## Consequência não é castigo
 
@@ -314,4 +314,4 @@ função da cena
 
 ## Regra final
 
-> **Pessoas podem ser contraditórias sem serem aleatórias. Relações específicas podem produzir exceções sem apagar padrões. Consequências devem nascer da causalidade, não de julgamento moral. E a prosa deve aproximar ou afastar a câmera conforme a experiência pede, sem transformar densidade narrativa em novo cânone.**
+> **Pessoas podem ser contraditórias sem serem aleatórias. Relações específicas podem produzir exceções sem apagar padrões. Consequências devem nascer da causalidade, não de moralização. E a prosa deve aproximar ou afastar a câmera conforme a experiência pede, sem transformar densidade narrativa em novo cânone.**
