@@ -10,35 +10,15 @@ Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM
 
 ---
 
-# Condição de entrada
-
-Antes de usar este ramo:
-
-```text
-usuário escolheu criar uma história nova
-OU
-pedido já deixa isso inequivocamente claro.
-```
-
-Se isso ainda estiver aberto, voltar ao BOOT e perguntar:
-
-> **Você quer criar uma história nova ou continuar uma história existente?**
-
-Não pedir Premissa, Estilo, fichas ou nome antes de resolver essa bifurcação.
-
----
-
 # Princípio do processo
 
-A criação acontece por etapas autorais separadas.
-
-As etapas existem para evitar que a IA transforme uma ideia curta em obra inteira sem participação do Diretor.
+A criação acontece por etapas autorais separadas para evitar que a IA transforme uma ideia curta em obra inteira sem participação do Diretor.
 
 Ao mesmo tempo:
 
 > **Etapa separada não significa formulário obrigatório.**
 
-Quando uma etapa já estiver semanticamente resolvida pelo material do Diretor:
+Quando uma etapa já estiver semanticamente resolvida:
 
 ```text
 organizar
@@ -51,9 +31,7 @@ Regra geral:
 
 > **Base suficiente → propor. Falta realmente decisiva → perguntar.**
 
-Não repetir perguntas já respondidas.
-
-Não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
+Não repetir perguntas já respondidas e não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
 
 ---
 
@@ -92,6 +70,7 @@ Não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
 → modelos/ESTADO.md
 
 11. AUDITORIA DE PREPARAÇÃO
+→ 22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
 
 12. START
 ```
@@ -105,8 +84,6 @@ A Premissa responde:
 > **Que história estamos tentando construir?**
 
 Não transformar Premissa em sinopse completa.
-
-Quando aprovada:
 
 ```text
 PREMISSA: APROVADA
@@ -144,7 +121,7 @@ DESTINO → campanhas/<slug>/
 
 Antes de criar, verificar se o slug já existe.
 
-Ao nascer o workspace, criar primeiro:
+Criar primeiro:
 
 ```text
 campanhas/<slug>/README.md
@@ -206,6 +183,8 @@ Não inventar trauma, segredo, fraqueza, poder ou drama apenas para preencher ca
 
 # 6 — Autoridades / Cadeiras / Executores
 
+Usar `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md`.
+
 Definir quem possui cada vontade e quem opera cada autoridade.
 
 ```text
@@ -244,8 +223,6 @@ A Direção inicial preserva o que o Diretor já decidiu e ainda precisa continu
 
 Se não há arco, final ou trajetória futura decididos, eles permanecem abertos.
 
-Uma Direção mínima é válida.
-
 ```text
 DIRETOR NÃO DECIDIU
 → NÃO PRECISA PREENCHER.
@@ -263,7 +240,7 @@ campanhas/<slug>/direcao.md
 
 Usar `19-CRIACAO-POLITICAS-OPERACIONAIS.md`.
 
-Definir como o W4D opera nesta obra:
+Definir:
 
 ```text
 POLÍTICA DE MESA
@@ -307,7 +284,7 @@ Quando houver fatos realmente necessários:
 campanhas/<slug>/mundo/<assunto>.md
 ```
 
-Cânone externo pode preencher lacunas permitidas; decisões locais da obra prevalecem.
+Cânone externo pode preencher lacunas permitidas; decisões locais prevalecem.
 
 ---
 
@@ -331,20 +308,6 @@ ESTADO SUFICIENTE
 ≠ PRIMEIRA CENA PRÉ-ESCRITA
 ```
 
-Preservar somente quando pertinente:
-
-```text
-momento
-local
-presenças e posições
-condições temporárias
-intenções persistentes já estabelecidas
-processos e prazos já existentes
-conhecimentos recentes necessários
-último fato estabelecido
-primeiro ponto aberto
-```
-
 Antes da primeira cena:
 
 ```text
@@ -359,7 +322,8 @@ primeiro ponto aberto pertence a Cadeira IA disponível
 → START pode trocar de escopo e continuar.
 
 primeiro ponto aberto pertence ao Personagem do Diretor
-→ START apresenta a situação e aguarda o Diretor, salvo Direção ou delegação suficiente.
+→ START apresenta a situação e aguarda o Diretor,
+  salvo Direção ou delegação suficiente.
 ```
 
 Não exigir incidente incitante, ameaça ou conflito para poder começar.
@@ -404,44 +368,85 @@ operacao.md
 
 ---
 
-# 11 — Auditoria de preparação
+# 11 — Auditoria de Preparação
 
-Antes do START, verificar:
+Usar:
 
 ```text
-[ ] nome e slug definidos;
-[ ] README.md existe;
-[ ] Premissa e Estilo/Tom estão preservados;
-[ ] personagens centrais necessárias estão identificadas;
-[ ] fichas necessárias são reconstruíveis;
-[ ] Diretor e Narrador/Juiz estão definidos;
-[ ] Cadeiras e executores necessários estão definidos;
-[ ] Personagem do Diretor está corretamente atribuída, se houver;
-[ ] delegação não transferiu vontade por acidente;
-[ ] direcao.md preserva o decidido sem exigir futuro inventado;
-[ ] política de Mesa está definida ou usa SOB DEMANDA;
-[ ] indicador está definido ou usa SILENCIOSO;
-[ ] módulos ativos possuem função real;
-[ ] mundo necessário foi definido ou legitimamente considerado desnecessário;
-[ ] estado.md preserva uma âncora inicial suficiente;
-[ ] estado.md possui último fato e primeiro ponto aberto;
-[ ] o Estado não pré-escreveu uma decisão ainda aberta;
-[ ] hipóteses não foram registradas como fatos;
-[ ] operacao.md existe somente se houver operação real pendente.
+22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
 ```
 
-Se suficiente:
+A Auditoria responde:
+
+> **Uma nova IA conseguiria iniciar corretamente esta obra usando somente as fontes persistentes?**
+
+Ela verifica:
 
 ```text
-STATUS
-→ PRONTA
+identidade da obra
+personagens necessárias reconstruíveis
+autoridades e executores
+Direção legítima
+políticas operacionais
+mundo necessário ou sua ausência legítima
+Estado inicial
+primeiro ponto aberto
+próxima autoria
+separação correta entre fontes
+contradições bloqueantes
+```
+
+A Auditoria não exige:
+
+```text
+final
+arco completo
+antagonista
+worldbuilding exaustivo
+fichas de figurantes
+revelações futuras
+```
+
+```text
+PRONTA
+→ reconstruível e executável.
+
+PRONTA
+≠ completamente planejada.
+```
+
+Ela deve trabalhar sozinha até encontrar uma decisão que realmente pertença ao Diretor.
+
+```text
+correção mecânica segura
+→ corrigir sem nova pergunta.
+
+falha bloqueante autoral
+→ apresentar somente o bloqueio real
+→ aguardar a autoridade adequada.
+```
+
+Se aprovada:
+
+```text
+AUDITORIA: APROVADA
+STATUS → PRONTA
+→ START
+```
+
+Se bloqueada:
+
+```text
+AUDITORIA: BLOQUEADA
+STATUS → EM PREPARAÇÃO
+→ NÃO executar START.
 ```
 
 ---
 
 # 12 — START
 
-Depois da preparação:
+Depois da Auditoria aprovada:
 
 ```text
 START
@@ -463,4 +468,4 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 # Regra final
 
-> **Uma nova história no W4D nasce por decisões suficientes, não por planejamento exaustivo. A IA constrói cada etapa somente até o ponto necessário, usa padrões para evitar perguntas inúteis, cria mundo apenas quando há algo real para preservar, prepara o Estado como âncora imediatamente anterior à primeira execução e só abre a Ficção depois da Auditoria e do START.**
+> **Uma nova história no W4D nasce por decisões suficientes, não por planejamento exaustivo. A preparação termina quando os arquivos tornam a obra reconstruível por outra IA; a Auditoria verifica isso sem inventar conteúdo novo; e somente depois de STATUS PRONTA o START abre a Ficção.**
