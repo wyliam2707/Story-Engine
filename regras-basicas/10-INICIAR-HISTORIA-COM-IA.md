@@ -45,9 +45,14 @@ Etapas formalizadas:
 
 3. NOME / DESTINO CANÔNICO
 → 14-CRIACAO-NOME-E-DESTINO.md
+
+4. PERSONAGENS CENTRAIS
+→ 15-CRIACAO-PERSONAGENS-CENTRAIS.md
 ```
 
-Depois que o destino canônico existe, a criação continua dentro de `campanhas/<slug>/` com personagens centrais, fichas, Direção, Estado inicial e demais fontes necessárias.
+Depois de Personagens Centrais aprovadas, a próxima etapa é **FICHAS**.
+
+As etapas seguintes completam Direção, autoridades, políticas, mundo necessário, Estado inicial, Auditoria de preparação e START.
 
 > **Não pular uma etapa autoral separada apenas porque a IA consegue inventar uma solução plausível.**
 
@@ -55,7 +60,7 @@ Depois que o destino canônico existe, a criação continua dentro de `campanhas
 
 # Etapa 1 — Premissa
 
-Ao entrar em `NOVA HISTÓRIA`, carregar:
+Carregar:
 
 ```text
 12-CRIACAO-PREMISSA.md
@@ -65,19 +70,9 @@ A Premissa responde:
 
 > **Que história estamos tentando construir?**
 
-Se o Diretor já trouxe uma ideia suficiente, a IA deve sintetizá-la e devolver para revisão.
+Se o Diretor já trouxe uma ideia suficiente, sintetizar e devolver para revisão.
 
 Se trouxe apenas uma intenção vaga, fazer uma pergunta autoral de alto valor por vez ou oferecer poucas alternativas realmente distintas.
-
-Enquanto a Premissa não estiver aprovada:
-
-```text
-não fechar Estilo/Tom
-não criar nome definitivo
-não criar pasta em campanhas/
-não criar fichas definitivas
-não abrir Ficção
-```
 
 Quando aprovada:
 
@@ -90,7 +85,7 @@ PREMISSA: APROVADA
 
 # Etapa 2 — Estilo / Tom
 
-Depois da Premissa aprovada, carregar:
+Carregar:
 
 ```text
 13-CRIACAO-ESTILO-E-TOM.md
@@ -113,18 +108,9 @@ perspectiva narrativa
 limites persistentes de apresentação
 ```
 
-Informação já fornecida pelo Diretor deve ser organizada, não perguntada novamente.
+Informação já dada pelo Diretor deve ser organizada, não perguntada novamente.
 
-Enquanto Estilo/Tom não estiver aprovado:
-
-```text
-não importar clichês como fatos
-não usar tom para fabricar acontecimentos
-não criar pasta apenas para rascunho
-não abrir Ficção
-```
-
-Quando aprovado:
+Quando aprovada:
 
 ```text
 ESTILO / TOM: APROVADO
@@ -135,7 +121,7 @@ ESTILO / TOM: APROVADO
 
 # Etapa 3 — Nome / Destino Canônico
 
-Depois de Premissa e Estilo/Tom aprovados, carregar:
+Carregar:
 
 ```text
 14-CRIACAO-NOME-E-DESTINO.md
@@ -158,20 +144,7 @@ DESTINO
 → campanhas/<slug>/
 ```
 
-Se o Diretor já deu um nome, usar esse nome sem brainstorming desnecessário.
-
-Se ainda não deu, propor poucas opções baseadas na Premissa e no Estilo/Tom já aprovados.
-
 Antes de criar, verificar se o slug já existe.
-
-```text
-slug livre
-→ criar campanhas/<slug>/README.md
-
-slug já existente
-→ não sobrescrever
-→ resolver conflito antes de continuar
-```
 
 No nascimento do workspace, registrar somente o que já foi aprovado:
 
@@ -188,21 +161,51 @@ STATUS
 [Resumo aprovado]
 ```
 
-Depois desse ponto:
-
-```text
-material aprovado das próximas etapas
-→ deve preferencialmente ser salvo na fonte correta dentro do workspace.
-```
-
-Criar a pasta não inicia a Ficção.
-
 Quando concluído:
 
 ```text
 NOME / DESTINO
 → CONCLUÍDO
-→ próxima etapa: PERSONAGENS CENTRAIS
+→ carregar 15-CRIACAO-PERSONAGENS-CENTRAIS.md
+```
+
+---
+
+# Etapa 4 — Personagens Centrais
+
+Carregar:
+
+```text
+15-CRIACAO-PERSONAGENS-CENTRAIS.md
+```
+
+Esta etapa responde:
+
+> **Quem precisa existir no centro desta obra para que a Premissa possa funcionar?**
+
+Definir apenas o núcleo inicial suficiente:
+
+```text
+nome ou identificação provisória
+papel estrutural na Premissa
+relação mínima necessária
+origem externa, quando houver
+Personagem do Diretor, se isso já for relevante e estiver claro
+```
+
+Não criar personalidade completa, histórico, poderes ou ficha por hábito.
+
+```text
+PERSONAGEM CENTRAL
+≠ FICHA CONCLUÍDA
+```
+
+Quando o núcleo for aprovado:
+
+```text
+PERSONAGENS CENTRAIS: APROVADAS
+→ registrar bloco curto no README.md da obra
+→ seguir para FICHAS
 ```
 
 ---
@@ -223,11 +226,14 @@ campanhas/<slug>/README.md
 → âncora persistente da obra.
 ```
 
-As próximas decisões aprovadas devem ser registradas progressivamente nas fontes corretas.
+As próximas decisões aprovadas devem ser registradas progressivamente na fonte correta.
 
 Exemplos:
 
 ```text
+Personagens centrais aprovadas
+→ README.md
+
 ficha aprovada
 → personagens/<nome>.md
 
@@ -261,35 +267,6 @@ Isso significa sintetizar quando já existe material e perguntar somente quando 
 
 ---
 
-# Entrada mínima possível
-
-Uma história pode começar com muito pouco.
-
-Exemplo:
-
-```text
-"Quero uma comédia romântica universitária entre uma heroína alienígena e um estudante de uma família de magos."
-```
-
-Isso é suficiente para começar a Premissa.
-
-Depois da Premissa aprovada, `comédia romântica universitária` já fornece matéria-prima para Estilo/Tom.
-
-Depois de Estilo/Tom aprovado, a IA pode propor nomes coerentes com a obra.
-
-Ela não deve responder produzindo de uma vez:
-
-```text
-mundo completo
-nome escolhido sem aprovação
-fichas finais
-trama inteira
-arcos futuros
-primeiro capítulo
-```
-
----
-
 # Autoridades
 
 Durante a criação, identificar quando necessário:
@@ -316,13 +293,15 @@ CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
 → IA, salvo indicação diferente.
 ```
 
-Não é necessário resolver todas essas configurações durante as três primeiras etapas se ainda não forem materialmente relevantes.
+Não é necessário resolver todas essas configurações durante as primeiras etapas se ainda não forem materialmente relevantes.
+
+A etapa de Personagens Centrais é normalmente o primeiro ponto em que pode fazer sentido esclarecer se alguma personagem pertence diretamente ao Diretor.
 
 ---
 
 # Política de Mesa
 
-Usar `00-ARQUITETURA-E-MESA.md` quando o processo chegar ao ponto em que a política precise ser definida ou quando o Diretor abrir consulta.
+Usar `00-ARQUITETURA-E-MESA.md` quando a política precisar ser definida ou quando o Diretor abrir consulta.
 
 Opções:
 
@@ -340,18 +319,9 @@ MESA: SOB DEMANDA
 
 ---
 
-# Personagens e fichas
+# Fichas
 
-As personagens podem aparecer conceitualmente na Premissa antes de possuírem ficha.
-
-```text
-PERSONAGEM MENCIONADA
-≠ FICHA CONCLUÍDA
-```
-
-Estilo/Tom também não cria personalidade automaticamente.
-
-Quando a etapa de personagens chegar, definir primeiro quem realmente precisa existir no centro da abertura e depois criar fichas suficientes para preservar essas pessoas.
+Depois de Personagens Centrais aprovadas, construir fichas somente para quem precisa persistir.
 
 Seguir:
 
@@ -359,6 +329,18 @@ Seguir:
 04-FICHA.md
 modelos/FICHA.md
 ```
+
+A ficha registra **quem a pessoa é**, não apenas sua função narrativa.
+
+```text
+PERSONAGENS CENTRAIS
+→ quem sustenta a obra.
+
+FICHAS
+→ quem cada pessoa é.
+```
+
+Personagens secundárias podem receber ficha depois, quando adquirirem função persistente.
 
 ---
 
@@ -433,7 +415,7 @@ não pode ser inferida sem tomar decisão que pertence ao Diretor
 
 Não pedir detalhes irrelevantes apenas para preencher formulários.
 
-Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino ou outra etapa definida separadamente.
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais ou outra etapa definida separadamente.
 
 ---
 
@@ -456,6 +438,7 @@ NOME / DESTINO
 criar campanhas/<slug>/README.md
 ↓
 PERSONAGENS CENTRAIS
+→ 15-CRIACAO-PERSONAGENS-CENTRAIS.md
 ↓
 FICHAS
 ↓
@@ -474,4 +457,4 @@ As etapas posteriores podem receber arquivos próprios conforme forem refinadas.
 
 # Regra final
 
-> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom e Nome/Destino como decisões autorais separadas. O workspace nasce somente depois do nome e do slug, e a partir daí preserva progressivamente o material aprovado. Criar arquivos não inicia a Ficção; START continua sendo uma etapa posterior.**
+> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom, Nome/Destino e Personagens Centrais como decisões autorais separadas. O workspace nasce somente depois do nome e do slug; o elenco central é aprovado antes das fichas; e a Ficção só começa depois da preparação necessária e do START.**
