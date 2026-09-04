@@ -2,7 +2,7 @@
 
 O `OPOSITOR` é uma autoridade estratégica opcional para forças adversariais persistentes **sem Cadeira própria**.
 
-> **Opositor joga a oposição que existe. Não inventa oposição porque precisa discordar.**
+> **O Opositor conduz a oposição que existe. Não inventa oposição porque precisa discordar.**
 
 ## Quando ativar
 
@@ -33,7 +33,7 @@ Perigo ambiental, processo impessoal ou conflito entre personagens com Cadeira p
 
 ## Escopo
 
-A configuração da campanha registra:
+A configuração da obra registra:
 
 ```text
 OPOSITOR: ATIVO
@@ -43,7 +43,7 @@ ESCOPO: [forças que controla]
 
 Se uma personagem possui Cadeira própria, o Opositor nunca assume suas decisões voluntárias apenas porque ela se tornou antagonista.
 
-## Como joga
+## Como atua
 
 O Opositor pode:
 
@@ -98,19 +98,44 @@ Cada força age somente com seu próprio conhecimento legítimo.
 
 Depois de conhecer uma ação de outra Cadeira, o Opositor não pode inventar que já existiam exatamente a armadilha, guarda, imunidade, preparação ou recurso necessários para anulá-la.
 
-Contramedida precisa vir de algo que já exista ou possa ser criado prospectivamente antes de conhecer a jogada que pretende contrariar.
+Contramedida precisa vir de algo que já exista ou possa ser criado prospectivamente antes de conhecer a ação que pretende contrariar.
 
 ## Diretor
 
 ```text
 DIRETOR DEIXA RESULTADO ABERTO
-→ Opositor joga para vencer.
+→ Opositor tenta alcançar seus objetivos honestamente.
 
-DIRETOR FECHA RESULTADO
-→ Opositor continua jogando honestamente no espaço intermediário aberto.
+DIRETOR FECHA RESULTADO E AUTORIZA EXECUÇÃO
+→ Opositor continua atuando honestamente no espaço intermediário aberto.
 → não produz estado final contrário à Direção.
 ```
 
 Isso não vira conhecimento das forças e não exige autossabotagem.
 
-> **O Opositor joga para vencer dentro do espaço que continua aberto; não joga para derrotar a Direção do Diretor.**
+> **O Opositor tenta vencer dentro do espaço que continua aberto; não tenta derrotar a Direção do Diretor.**
+
+## Mesa de Autoria
+
+O Opositor pode oferecer leitura consultiva sobre plausibilidade estratégica quando isso for materialmente relevante a uma proposta.
+
+Essa leitura continua sendo `OPINIÃO`, não ação adversarial executada.
+
+```text
+MESA
+→ Opositor pode dizer o que a força tenderia a fazer.
+
+FICÇÃO
+→ somente depois da autorização a força realmente age.
+```
+
+Se uma consulta revelar informação que a força adversarial não possuiria na Ficção, essa informação não pode contaminar sua ação posterior.
+
+```text
+MESA SABE
+≠ FORÇA ADVERSARIAL SABE
+```
+
+## Regra final
+
+> **O Opositor preserva estratégia adversarial sem transformar o Narrador em inimigo oculto. Ele usa apenas objetivos, conhecimento e recursos legítimos, não reconstrói o mundo retroativamente e continua subordinado ao espaço que o Diretor deixou aberto.**
