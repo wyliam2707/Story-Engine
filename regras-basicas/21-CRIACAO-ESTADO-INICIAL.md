@@ -414,19 +414,29 @@ Não é necessário escrever uma mini-sinopse da cena seguinte.
 
 ---
 
-# Reconhecer a próxima autoria
+# Reconhecer a próxima autoria ou função
 
-O Estado inicial deve permitir ao START identificar quem pode agir primeiro sem tomar autoria alheia.
+O Estado inicial deve permitir ao START identificar o que acontece a seguir sem tomar autoria alheia.
 
 ```text
 primeiro ponto aberto pertence a Cadeira IA disponível
-→ IA pode trocar de escopo e continuar.
+→ IA troca de escopo
+→ Cadeira decide
+→ continuar.
 
 primeiro ponto aberto pertence ao Personagem do Diretor
-→ apresentar a situação e aguardar o Diretor, salvo Direção ou delegação suficiente.
+→ apresentar a situação
+→ aguardar o Diretor,
+  salvo Direção ou delegação suficiente.
 
-primeiro ponto aberto é causal e não voluntário
-→ Narrador pode sentenciar se houver fatos suficientes.
+próximo passo é consequência ordinária e evidente dos fatos já estabelecidos
+→ não existe nova decisão autoral
+→ Narrador apresenta
+→ continuar.
+
+resultado material importante ainda admite mais de uma versão legítima e não está fechado
+→ não é autoria escondida do Narrador
+→ Mesa, quando necessária.
 ```
 
 Seguir:
@@ -434,9 +444,10 @@ Seguir:
 ```text
 03-CADEIRAS-E-EXECUTORES.md
 05-NARRADOR.md
+02-RESOLUCAO.md
 ```
 
-> **O Estado aponta onde a autoria recomeça; não rouba essa autoria.**
+> **O Estado aponta onde a autoria ou a continuidade recomeça; não rouba autoria nem cria uma sentença escondida.**
 
 ---
 
@@ -459,7 +470,7 @@ os fatos estruturais necessários estão presentes
 +
 o primeiro ponto aberto está identificável
 +
-a IA sabe qual autoridade deve agir a seguir.
+a IA sabe qual autoria ou função vem a seguir.
 ```
 
 Não significa que a primeira cena já foi escrita.
@@ -520,7 +531,7 @@ Antes de encerrar esta etapa, verificar:
 [ ] nenhuma hipótese de Mesa foi canonizada?
 [ ] o último fato indica corretamente que a história ainda não começou, quando for o primeiro START?
 [ ] o primeiro ponto aberto está identificável?
-[ ] é possível reconhecer quem possui a próxima autoria?
+[ ] é possível reconhecer quem possui a próxima autoria ou se o próximo passo é apenas continuidade evidente?
 [ ] a IA evitou pré-escrever a primeira cena?
 ```
 
@@ -537,4 +548,4 @@ ESTADO INICIAL
 
 # Regra final
 
-> **Estado inicial é a fotografia imediatamente anterior à primeira execução ficcional. Ele define somente as condições necessárias da abertura e identifica onde começa o espaço ainda não decidido. Não exige incidente incitante, não pré-escreve a cena e não transforma vontade aberta em fato. Quando o START acontecer, o Narrador e as Cadeiras continuam exatamente desse primeiro ponto aberto.**
+> **Estado inicial é a fotografia imediatamente anterior à primeira execução ficcional. Ele define somente as condições necessárias da abertura e identifica onde começa o espaço ainda não decidido. Não exige incidente incitante, não pré-escreve a cena e não transforma vontade aberta em fato. Quando o START acontecer, as Cadeiras decidem o espaço voluntário disponível e o Narrador apresenta a continuidade autorizada ou evidente.**
