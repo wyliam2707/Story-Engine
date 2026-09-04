@@ -246,7 +246,7 @@ INDICADOR OPERACIONAL: SILENCIOSO
 MÓDULOS: INATIVOS salvo escolha ou necessidade real
 ```
 
-Não transformar os padrões em questionário obrigatório.
+Não transformar padrões em questionário obrigatório.
 
 ---
 
@@ -273,7 +273,7 @@ campanhas/<slug>/mundo/<assunto>.md
 
 Não construir enciclopédia por hábito.
 
-Cânone externo permitido pode preencher lacunas; decisões locais da obra prevalecem.
+Cânone externo permitido pode preencher lacunas; decisões locais prevalecem.
 
 ---
 
@@ -315,20 +315,6 @@ campanhas/<slug>/estado.md
 
 O Estado inicial é a âncora imediatamente anterior à primeira execução da Ficção.
 
-Preservar somente quando pertinente:
-
-```text
-momento
-local
-presenças e posições
-condições temporárias
-intenções persistentes já estabelecidas
-processos e prazos já existentes
-conhecimentos recentes necessários
-último fato estabelecido
-primeiro ponto aberto
-```
-
 Antes do primeiro START:
 
 ```text
@@ -341,60 +327,72 @@ ESTADO INICIAL
 ≠ PRIMEIRA CENA PRÉ-ESCRITA
 ```
 
-Não colocar hipótese de Mesa, futuro desejado ou decisão voluntária ainda aberta como se já fosse fato.
-
 O primeiro ponto aberto deve permitir reconhecer quem possui a próxima autoria.
-
-```text
-Cadeira IA disponível
-→ START pode continuar.
-
-Personagem do Diretor
-→ START aguarda o Diretor, salvo Direção ou delegação suficiente.
-```
 
 Não exigir conflito, ameaça ou incidente incitante para considerar o Estado suficiente.
 
 ---
 
-# Passo 9 — Auditoria de início
+# Passo 9 — Auditoria de Preparação
 
-Antes do START, confirmar:
-
-```text
-[ ] nome e slug definidos;
-[ ] README.md existe;
-[ ] Premissa e Estilo/Tom estão preservados;
-[ ] Personagens centrais necessárias estão aprovadas;
-[ ] fichas necessárias são reconstruíveis;
-[ ] Diretor e Narrador/Juiz estão definidos;
-[ ] Cadeiras e executores necessários estão definidos;
-[ ] Personagem do Diretor está corretamente atribuída, se houver;
-[ ] delegações não transferiram vontade por acidente;
-[ ] direcao.md é suficiente sem inventar futuro;
-[ ] política de Mesa está definida ou usa SOB DEMANDA;
-[ ] indicador está definido ou usa SILENCIOSO;
-[ ] módulos ativos possuem função real;
-[ ] mundo necessário foi definido ou legitimamente considerado desnecessário;
-[ ] estado.md possui âncora inicial suficiente;
-[ ] estado.md possui último fato e primeiro ponto aberto;
-[ ] Estado não pré-escreveu decisão ainda aberta;
-[ ] hipóteses não foram registradas como fatos;
-[ ] operacao.md existe somente se houver operação real pendente.
-```
-
-Quando suficiente:
+Seguir:
 
 ```text
-STATUS
-→ PRONTA
+22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
 ```
+
+A Auditoria verifica se uma nova IA conseguiria iniciar corretamente a obra usando apenas as fontes persistentes.
+
+Ela verifica, entre outras coisas:
+
+```text
+identidade da obra
+fichas necessárias reconstruíveis
+autoridades e executores
+Direção legítima
+políticas operacionais
+mundo necessário ou sua ausência válida
+Estado inicial
+primeiro ponto aberto
+próxima autoria
+separação correta entre fontes
+contradições bloqueantes
+```
+
+Ela **não exige** final, arco completo, antagonista, worldbuilding exaustivo ou fichas de figurantes.
+
+```text
+PRONTA
+→ reconstruível e executável.
+
+PRONTA
+≠ completamente planejada.
+```
+
+Se encontrar somente correção mecânica segura, pode corrigi-la sem perguntar.
+
+Se encontrar falha que exige decisão do Diretor:
+
+```text
+AUDITORIA: BLOQUEADA
+STATUS → EM PREPARAÇÃO
+START → NÃO executar.
+```
+
+Se tudo estiver suficiente:
+
+```text
+AUDITORIA: APROVADA
+STATUS → PRONTA
+```
+
+Atualizar o `README.md` da obra com o novo STATUS.
 
 ---
 
 # START
 
-Depois da preparação:
+Somente depois da Auditoria aprovada:
 
 ```text
 START
@@ -416,4 +414,4 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 # Regra final
 
-> **O workspace cresce junto com a preparação e com a própria história. O W4D persiste apenas decisões e fatos que realmente precisam sobreviver: fichas preservam pessoas, Direção preserva decisões autorais, políticas configuram o motor, mundo preserva estrutura externa necessária e Estado preserva a âncora presente. START só acontece quando existe base suficiente para executar corretamente.**
+> **O workspace cresce junto com a preparação e com a própria história. O W4D persiste apenas decisões e fatos que precisam sobreviver. A Auditoria final verifica se outra IA conseguiria reconstruir e executar a abertura sem inventar fatos ou misturar autoridades; somente então o STATUS passa a PRONTA e o START pode abrir a Ficção.**
