@@ -48,13 +48,16 @@ Etapas formalizadas:
 
 4. PERSONAGENS CENTRAIS
 → 15-CRIACAO-PERSONAGENS-CENTRAIS.md
+
+5. FICHAS
+→ 16-CRIACAO-FICHAS.md
 ```
 
-Depois de Personagens Centrais aprovadas, a próxima etapa é **FICHAS**.
-
-As etapas seguintes completam Direção, autoridades, políticas, mundo necessário, Estado inicial, Auditoria de preparação e START.
+Depois das Fichas iniciais suficientes, as etapas seguintes completam autoridades, Cadeiras, executores, Direção, políticas, mundo necessário, Estado inicial, Auditoria de preparação e START.
 
 > **Não pular uma etapa autoral separada apenas porque a IA consegue inventar uma solução plausível.**
+
+As etapas existem para separar decisões e fontes, não para criar burocracia ritual. Quando uma etapa já estiver semanticamente resolvida pelo material do Diretor, a IA deve sintetizar, confirmar quando necessário e avançar.
 
 ---
 
@@ -205,7 +208,58 @@ Quando o núcleo for aprovado:
 ```text
 PERSONAGENS CENTRAIS: APROVADAS
 → registrar bloco curto no README.md da obra
-→ seguir para FICHAS
+→ carregar 16-CRIACAO-FICHAS.md
+```
+
+---
+
+# Etapa 5 — Fichas
+
+Carregar:
+
+```text
+16-CRIACAO-FICHAS.md
+```
+
+A estrutura do documento continua em:
+
+```text
+04-FICHA.md
+modelos/FICHA.md
+```
+
+A etapa responde:
+
+> **Quem é cada pessoa de forma suficiente para que outra IA consiga reconstruí-la depois?**
+
+O padrão é construir uma personagem por vez:
+
+```text
+reunir o que já sabemos
+→ identificar lacunas realmente importantes
+→ perguntar somente quando necessário
+→ propor a pessoa
+→ consolidar em ficha
+→ Diretor corrige ou aprova
+→ salvar a ficha aprovada
+→ próxima personagem
+```
+
+Não usar os seis blocos da ficha como questionário obrigatório.
+
+```text
+FICHA SUFICIENTE
+≠ FICHA EXAUSTIVA
+```
+
+Não inventar trauma, segredo, fraqueza, romance passado, poder ou drama apenas para completar campos.
+
+Quando todas as fichas necessárias para a abertura estiverem suficientes:
+
+```text
+FICHAS INICIAIS
+→ SUFICIENTES
+→ seguir para AUTORIDADES / CADEIRAS / EXECUTORES e consolidação da DIREÇÃO
 ```
 
 ---
@@ -226,7 +280,7 @@ campanhas/<slug>/README.md
 → âncora persistente da obra.
 ```
 
-As próximas decisões aprovadas devem ser registradas progressivamente na fonte correta.
+As decisões aprovadas devem ser registradas progressivamente na fonte correta.
 
 Exemplos:
 
@@ -245,6 +299,13 @@ ponto inicial definido
 
 fato externo estável necessário
 → mundo/
+```
+
+Se uma etapa de criação ainda não aprovada precisar sobreviver a perda de contexto:
+
+```text
+operacao.md
+→ preserva o processo pendente sem transformá-lo em fonte canônica da personagem ou da Ficção.
 ```
 
 Não criar arquivos vazios ou conteúdo inventado apenas para completar uma árvore ideal.
@@ -293,9 +354,16 @@ CADEIRAS SECUNDÁRIAS OU CO-PROTAGONISTAS
 → IA, salvo indicação diferente.
 ```
 
-Não é necessário resolver todas essas configurações durante as primeiras etapas se ainda não forem materialmente relevantes.
+A etapa de Personagens Centrais pode identificar preliminarmente quem pertence ao Diretor. A configuração definitiva de Cadeiras e executores deve usar as pessoas já construídas nas fichas.
 
-A etapa de Personagens Centrais é normalmente o primeiro ponto em que pode fazer sentido esclarecer se alguma personagem pertence diretamente ao Diretor.
+```text
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
+```
+
+Executor continua fora da ficha.
 
 ---
 
@@ -319,34 +387,9 @@ MESA: SOB DEMANDA
 
 ---
 
-# Fichas
-
-Depois de Personagens Centrais aprovadas, construir fichas somente para quem precisa persistir.
-
-Seguir:
-
-```text
-04-FICHA.md
-modelos/FICHA.md
-```
-
-A ficha registra **quem a pessoa é**, não apenas sua função narrativa.
-
-```text
-PERSONAGENS CENTRAIS
-→ quem sustenta a obra.
-
-FICHAS
-→ quem cada pessoa é.
-```
-
-Personagens secundárias podem receber ficha depois, quando adquirirem função persistente.
-
----
-
 # Direção
 
-A Direção inicial será construída a partir das decisões de criação aprovadas.
+A Direção inicial será consolidada a partir das decisões de criação aprovadas.
 
 Ela deve dizer que história está sendo conduzida sem antecipar toda a trama.
 
@@ -372,7 +415,7 @@ Diretor propõe
 → Diretor ajusta, cancela ou confirma
 ```
 
-Antes de existirem fichas suficientes, a IA não deve fingir que uma Cadeira já possui personalidade detalhada que ainda não foi construída.
+Antes de uma personagem estar suficientemente construída, a IA não deve fingir que sua Cadeira já possui personalidade detalhada que ainda não existe.
 
 ---
 
@@ -415,7 +458,7 @@ não pode ser inferida sem tomar decisão que pertence ao Diretor
 
 Não pedir detalhes irrelevantes apenas para preencher formulários.
 
-Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais ou outra etapa definida separadamente.
+Ao mesmo tempo, não usar `Base suficiente → propor` como desculpa para pular Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais, Fichas ou outra etapa definida separadamente.
 
 ---
 
@@ -441,8 +484,11 @@ PERSONAGENS CENTRAIS
 → 15-CRIACAO-PERSONAGENS-CENTRAIS.md
 ↓
 FICHAS
+→ 16-CRIACAO-FICHAS.md
 ↓
-DIREÇÃO / AUTORIDADES / POLÍTICAS / MUNDO NECESSÁRIO
+AUTORIDADES / CADEIRAS / EXECUTORES
+↓
+DIREÇÃO / POLÍTICAS / MUNDO NECESSÁRIO
 ↓
 ESTADO INICIAL
 ↓
@@ -457,4 +503,4 @@ As etapas posteriores podem receber arquivos próprios conforme forem refinadas.
 
 # Regra final
 
-> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom, Nome/Destino e Personagens Centrais como decisões autorais separadas. O workspace nasce somente depois do nome e do slug; o elenco central é aprovado antes das fichas; e a Ficção só começa depois da preparação necessária e do START.**
+> **Depois que NOVA HISTÓRIA foi escolhida, a IA passa por Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas como etapas autorais separadas. A pessoa é construída antes da Cadeira que a preservará; o workspace recebe somente material aprovado; e a Ficção só começa depois da preparação necessária e do START.**
