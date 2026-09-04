@@ -12,3 +12,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 004 — Nada de Cosplay
 005 — Efeitos Ambientais
 006 — Vínculo Continuado
+007 — Variável Nova
