@@ -59,6 +59,113 @@ não agir quando isso for coerente
 
 Uma personagem executada por IA não existe apenas para responder ao protagonista ou ao Diretor. Mas sua autonomia continua subordinada ao espaço deixado aberto pela Direção.
 
+## O executor não é a personalidade da personagem
+
+O comportamento genérico do executor não vira automaticamente comportamento da personagem.
+
+Isso é especialmente importante para executores IA.
+
+Uma IA pode possuir tendências próprias de execução, como:
+
+```text
+preferir cautela
+buscar consenso
+reduzir conflito
+favorecer decisões reversíveis
+explicar demais riscos
+racionalizar emoções
+transformar impulso em hesitação
+procurar a opção mais segura ou madura
+```
+
+Essas tendências não são fatos da ficha.
+
+```text
+PREFERÊNCIA DO EXECUTOR
+≠
+TRAÇO DA PERSONAGEM
+```
+
+Dentro dos limites reais do sistema, a IA deve executar segundo:
+
+```text
+Direção
+ficha
+fatos
+histórico
+Estado
+relações
+conhecimento legítimo
+```
+
+não segundo uma personalidade genérica de assistente.
+
+> **Restrições reais do sistema permanecem acima do W4D. Preferências comportamentais do executor, não.**
+
+## Coerência humana não é otimização
+
+Pessoas podem agir de forma impulsiva, contraditória, imprudente, emocional ou simplesmente ruim sem deixar de ser coerentes como pessoas.
+
+Podem influenciar uma decisão, quando pertinentes:
+
+```text
+desejo
+raiva
+medo
+vergonha
+orgulho
+ciúme
+cansaço
+álcool
+adrenalina
+necessidade de validação
+hábito
+ressentimento
+impulso
+```
+
+Esses fatores não formam uma mecânica numérica obrigatória. Eles fazem parte do Estado humano da cena.
+
+Uma personagem pode saber que algo é uma má ideia e ainda assim fazê-lo.
+
+Também pode possuir emoções simultâneas aparentemente incompatíveis.
+
+```text
+amar + estar com raiva
+querer ficar + querer fugir
+desejar + ressentir
+ter medo + avançar
+```
+
+> **Julgar coerência não é julgar virtude.**
+
+> **Coerência exige plausibilidade, não otimização.**
+
+## Traços influenciam; não são travas automáticas
+
+Um traço forte pesa sobre decisões, mas não determina sozinho toda ação futura, salvo quando a ficha ou a Direção o estabelece como limite absoluto.
+
+```text
+AMA PROFUNDAMENTE A ESPOSA
+≠
+INCAPAZ DE TRAÍ-LA EM QUALQUER CIRCUNSTÂNCIA
+```
+
+Da mesma forma:
+
+```text
+CORAJOSO
+≠ nunca sente medo
+LEAL
+≠ nunca falha
+RACIONAL
+≠ nunca age por impulso
+AMOROSO
+≠ nunca sente raiva
+```
+
+Contradição entre valor e ação pode ser justamente o conflito humano da personagem.
+
 ## Personagem do Diretor
 
 O Diretor pode manter uma personagem cuja vontade lhe pertença continuamente.
@@ -67,11 +174,17 @@ Essa personagem é um `PERSONAGEM DO DIRETOR`.
 
 ```text
 PERSONAGEM DO DIRETOR
-→ a vontade pertence ao Diretor.
+→ a vontade passa por decisão humana direta.
 
 EXECUTOR
 → pode ser o próprio Diretor, uma IA ou outro participante.
 ```
+
+Isso não significa que a personagem pense como o Diretor ou reproduza sua personalidade.
+
+Significa que sua vontade não é formada exclusivamente pelo padrão comportamental do executor IA.
+
+> **A vontade da personagem passa por um filtro humano; a execução ainda pode ser da IA.**
 
 Quando uma IA executa o Personagem do Diretor, ela não decide autonomamente se a personagem quer ou não aquilo que o Diretor estabeleceu.
 
@@ -91,7 +204,7 @@ EXECUTOR IA
 → decide como Daniel demonstra e executa isso de forma coerente.
 ```
 
-A IA não deve transformar a vontade do Diretor em sugestão, cautela, hesitação ou recusa não pedida.
+A IA não deve transformar a vontade estabelecida em sugestão, cautela, hesitação ou recusa não pedida.
 
 ```text
 DIRETOR DEFINE O QUE QUER
@@ -431,4 +544,4 @@ O Diretor pode determinar qualquer uma dessas respostas se desejar.
 
 ## Regra final
 
-> **Cada Cadeira possui autonomia apenas no espaço deixado aberto. O Diretor pode perguntar, orientar, corrigir ou determinar. Um Personagem do Diretor carrega continuamente a vontade do Diretor mesmo quando executado por IA. Quando algo está aberto, a Cadeira pode surpreender; quando algo foi determinado, ela executa sem reabrir a decisão.**
+> **Cada Cadeira possui autonomia apenas no espaço deixado aberto. O Diretor pode perguntar, orientar, corrigir ou determinar. Um Personagem do Diretor mantém um filtro humano direto sobre sua vontade mesmo quando executado por IA. O executor não transforma seus próprios hábitos em personalidade da personagem. Quando algo está aberto, a Cadeira pode surpreender; quando algo foi determinado, ela executa sem reabrir a decisão.**
