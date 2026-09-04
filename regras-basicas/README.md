@@ -57,6 +57,7 @@ Depois do núcleo, se a operação ainda não estiver clara:
 NOVA HISTÓRIA
 → 10-INICIAR-HISTORIA-COM-IA.md
 → 07-CRIAR-CAMPANHA.md
+→ 23-START.md quando a preparação estiver pronta e houver autorização para começar
 
 CONTINUAR HISTÓRIA EXISTENTE
 → 11-CONTINUAR-HISTORIA-COM-IA.md
@@ -293,13 +294,20 @@ NARRADOR
 
 ---
 
-# Quando a Ficção precisa parar
+# Quando continuar e quando parar
 
 ```text
 CADEIRA IA disponível
 → trocar de escopo
 → decidir
 → continuar.
+
+CONSEQUÊNCIA ORDINÁRIA / EVIDENTE
+→ Narrador apresenta
+→ continuar.
+
+RESULTADO MATERIAL IMPORTANTE AINDA ABERTO
+→ Mesa, quando necessária.
 ```
 
 Parar quando a próxima autoria depender de:
@@ -340,6 +348,24 @@ Depois que `NOVA HISTÓRIA` foi escolhida:
 ```
 
 A criação é progressiva e não exige planejamento completo do futuro.
+
+A preparação termina em:
+
+```text
+AUDITORIA APROVADA
+→ STATUS: PRONTA
+```
+
+A Ficção começa conforme:
+
+```text
+23-START.md
+```
+
+```text
+PRONTA
+≠ FICÇÃO JÁ INICIADA
+```
 
 ---
 
@@ -383,6 +409,26 @@ Módulo inativo não participa da obra.
 
 ---
 
+# Testes de conformidade
+
+A pasta:
+
+```text
+testes/
+```
+
+inclui testes por etapa, testes gerais do engine, regressão sem Juiz e teste específico do START.
+
+Em especial:
+
+```text
+testes/CENARIOS-DE-CONFORMIDADE.md
+testes/MESA-SEM-JUIZ.md
+testes/NOVA-HISTORIA-START.md
+```
+
+---
+
 # Fontes normativas principais
 
 ```text
@@ -418,6 +464,9 @@ Criação de nova história
 
 Retomada
 → 11-CONTINUAR-HISTORIA-COM-IA.md
+
+START
+→ 23-START.md
 ```
 
 ---
