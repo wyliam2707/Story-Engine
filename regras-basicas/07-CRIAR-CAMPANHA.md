@@ -132,7 +132,7 @@ ponto inicial definido
 fato externo estável necessário
 → mundo/
 
-Mesa/Auditoria pendente que precisa sobreviver
+Mesa/Auditoria/criação pendente que precisa sobreviver
 → operacao.md
 ```
 
@@ -207,21 +207,50 @@ Somente depois que as personagens centrais necessárias estiverem aprovadas, con
 Seguir:
 
 ```text
+16-CRIACAO-FICHAS.md
 04-FICHA.md
 modelos/FICHA.md
+```
+
+O padrão é construir **uma personagem por vez**:
+
+```text
+reunir o que já sabemos
+→ identificar lacunas realmente importantes
+→ propor a pessoa
+→ consolidar em ficha
+→ Diretor corrige ou aprova
+→ salvar a ficha aprovada
+→ próxima personagem
 ```
 
 Destino:
 
 ```text
-campanhas/<slug>/personagens/<nome>.md
+campanhas/<slug>/personagens/<slug-da-personagem>.md
 ```
 
 Uma ficha deve permitir que outro executor reconstrua a mesma pessoa sem depender da conversa original.
 
+```text
+FICHA SUFICIENTE
+≠ FICHA EXAUSTIVA
+```
+
+Não criar trauma, segredo, fraqueza, romance passado, poder, equipamento ou outro conteúdo importante apenas para completar o modelo.
+
 Personagens secundárias podem receber ficha depois, quando adquirirem relevância persistente.
 
 Não criar ficha apenas porque uma pessoa foi mencionada na Premissa ou pode aparecer futuramente.
+
+Se a criação de uma ficha ainda não aprovada precisar sobreviver a perda de contexto:
+
+```text
+operacao.md
+→ preserva a etapa pendente.
+```
+
+Não transformar rascunho em ficha canônica apenas para persistir trabalho.
 
 ---
 
@@ -270,6 +299,17 @@ Uma mesma IA pode executar várias funções.
 MESMO EXECUTOR
 ≠ MESMA CADEIRA
 ```
+
+A configuração definitiva da Cadeira deve preservar a pessoa já construída.
+
+```text
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
+```
+
+Executor não pertence à ficha.
 
 ## Política de Mesa
 
@@ -439,4 +479,4 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 # Regra final
 
-> **A pasta nasce quando Nome e Destino estão definidos. Depois, o W4D identifica primeiro quem está no centro da obra, constrói fichas apenas para quem precisa persistir e completa progressivamente Direção, autoridades, Estado e demais fontes. A existência do workspace não significa que a história já começou; apenas START transforma a preparação em Ficção executável.**
+> **A pasta nasce quando Nome e Destino estão definidos. Depois, o W4D identifica quem está no centro da obra, constrói cada pessoa antes de configurar sua Cadeira, salva somente fichas aprovadas e completa progressivamente Direção, autoridades, Estado e demais fontes. A existência do workspace não significa que a história já começou; apenas START transforma a preparação em Ficção executável.**
