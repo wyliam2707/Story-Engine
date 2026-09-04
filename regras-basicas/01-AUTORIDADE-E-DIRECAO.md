@@ -2,54 +2,59 @@
 
 Este arquivo define **quem pode decidir o quê**.
 
-> **As Cadeiras escrevem as personagens no espaço aberto. O Narrador julga. O Diretor conduz e pode fechar qualquer parte da ficção.**
+> **As Cadeiras decidem as personagens no espaço aberto. A Mesa pode alinhar resultados. O Diretor conduz e pode fechar qualquer parte da Ficção. O Narrador apresenta.**
 
-A Mesa de Autoria é definida em `00-ARQUITETURA-E-MESA.md`. Este arquivo define autoridade; o `00` define quando uma ideia ainda está em consulta e quando já foi autorizada para execução.
+A Mesa de Autoria é definida em `00-ARQUITETURA-E-MESA.md`.
 
-## Diretor
+---
 
-O `DIRETOR` é a autoridade autoral máxima sobre a direção da ficção.
+# Diretor
+
+O `DIRETOR` é a autoridade autoral máxima sobre a condução da obra.
 
 Ele pode:
 
 ```text
 deixar a história aberta
-consultar as demais funções
-pedir análise ou auditoria
+consultar as Cadeiras
+pedir Parecer ao Narrador
+pedir Auditoria
 orientar uma trajetória
 definir limites
 determinar intenção, decisão, ação, condição, forma ou resultado
 corrigir postura, cânone ou execução
 ```
 
-O Diretor também pode executar uma Cadeira de Personagem. As duas funções permanecem diferentes.
+O Diretor também pode executar uma Cadeira. As funções continuam distintas.
 
 ```text
 DIRETOR
-→ conduz a obra fora da ficção.
+→ conduz a obra.
 
 CADEIRA
-→ exerce autoria dentro do espaço que a Direção deixou aberto.
+→ decide uma personagem dentro do espaço deixado aberto.
 ```
 
-## Direção
+---
 
-`DIREÇÃO` é o conteúdo autoral emitido pelo Diretor.
+# Direção
 
-Ela pode existir em diferentes escalas sem criar autoridades diferentes:
+`DIREÇÃO` é conteúdo autoral emitido pelo Diretor.
+
+Pode existir em diferentes escalas:
 
 ```text
 persistente
-→ identidade e foco da obra.
+→ identidade, trajetória ou limite que continua governando a obra.
 
 local
-→ trajetória ou limite de uma cena.
+→ rumo ou limite de uma sequência.
 
 específica
 → intenção, decisão, ação, condição, fato, forma ou resultado determinado.
 ```
 
-A Direção é vinculante naquilo que o Diretor efetivamente fecha.
+A Direção é vinculante somente no que o Diretor realmente fecha.
 
 > **A autoridade do Diretor é absoluta sobre aquilo que ele determina, mas não se expande automaticamente para aquilo que deixou aberto.**
 
@@ -64,41 +69,60 @@ FECHADO
 
 ABERTO
 → como A tenta vencer;
-→ como B age;
+→ como B luta;
 → falas;
-→ decisões intermediárias;
+→ movimentos intermediários;
 → forma exata da derrota, se não determinada.
 ```
 
-Se o Diretor também disser como a derrota acontece, essa parte também fica fechada.
+---
 
-## Aberto, alinhado e determinado
+# Aberto, alinhado e determinado
 
-O Diretor pode usar a própria autoridade em três formas práticas.
+## Aberto
 
-### Aberto
-
-O Diretor deixa a questão para a ficção, as Cadeiras e o julgamento.
+O Diretor deixa a questão para as Cadeiras e para o desenvolvimento da Ficção.
 
 ```text
-[O que a Personagem A faz?]
+[O que A faz?]
 ```
 
-A resposta permanece aberta.
+Se A possui Cadeira IA disponível, ela pode decidir e a cena continua.
 
-### Alinhado
+Se um **resultado material** surgir e continuar genuinamente aberto, a questão pode ir à Mesa.
 
-O Diretor define um rumo ou resultado desejado e pede que a ficção seja conduzida causalmente até ele, preservando o espaço que não foi fechado.
+## Alinhado
+
+O Diretor define um rumo desejado sem fechar todos os passos.
 
 ```text
-[Quero que esta aproximação termine em confiança. Alinhe a cena para isso.]
+[Quero que esta aproximação termine em confiança.]
 ```
 
-O Narrador não trata o destino alinhado como uma rolagem invisível. Ele constrói o caminho plausível dentro dos fatos e das determinações vigentes.
+A Mesa pode ajudar a verificar:
 
-Se houver uma condição importante ainda incompatível com o resultado desejado, o sistema pode apontá-la para o Diretor decidir como tratá-la.
+```text
+as Cadeiras sustentam esse destino?
+que condições precisam existir?
+que parte permanece aberta?
+```
 
-### Determinado
+Depois que o Diretor fecha o rumo:
+
+```text
+DESTINO
+→ fechado.
+
+CAMINHO
+→ Cadeiras constroem no espaço restante.
+
+NARRADOR
+→ apresenta.
+```
+
+O destino não vira rolagem ou probabilidade oculta.
+
+## Determinado
 
 O Diretor fecha diretamente algo.
 
@@ -106,33 +130,17 @@ O Diretor fecha diretamente algo.
 [A se aproxima de B e beija B.]
 ```
 
-Depois que essa determinação foi **autorizada para execução**, aproximar-se de B e beijar B não são decisões da Cadeira de A. A Cadeira continua autora somente do que permaneceu aberto.
+Depois da autorização de execução, aproximar-se e beijar B deixam de ser decisões abertas de A.
 
-> **Quando o Diretor determina e manda executar “faça X”, X deixa de ser objeto de decisão de autoridades inferiores.**
+Se a resposta de B não foi fechada e B possui escolha legítima, a Cadeira de B continua autora dessa resposta.
 
-## Determinação e Mesa de Autoria
+> **Determinar um ponto fecha esse ponto; não fecha automaticamente o resto da cena.**
 
-A existência da Mesa não reduz a autoridade do Diretor; ela separa **decisão autoral** de **execução ficcional**.
+---
 
-Fora de uma Mesa aberta:
+# Direção e Mesa
 
-```text
-[faça X]
-→ DETERMINAÇÃO
-→ executar X.
-```
-
-Dentro de uma Mesa aberta:
-
-```text
-X pode ser formulado como decisão ou hipótese
-→ continua em consulta
-→ até o Diretor cancelar ou autorizar execução.
-```
-
-A política da história pode inclusive usar `CONSULTA FORTE`, permitindo que uma determinação recém-formulada receba opinião breve das Cadeiras antes de ser executada.
-
-Isso não torna a Cadeira soberana.
+A Mesa não reduz a autoridade do Diretor. Ela permite testar uma decisão antes de executá-la.
 
 ```text
 CADEIRA DISCORDA
@@ -141,29 +149,41 @@ CADEIRA DISCORDA
 NARRADOR EMITE PARECER
 → informa.
 
-DIRETOR CONFIRMA EXECUÇÃO
-→ o ponto fechado torna-se vinculante.
+DIRETOR MUDA DE IDEIA
+→ nova versão pode ser testada.
+
+DIRETOR CONFIRMA E AUTORIZA
+→ ponto fechado vira vinculante.
 ```
 
-> **Mesa aberta pode adiar a execução de uma determinação; não pode retirar do Diretor o poder de confirmá-la.**
+> **Mesa aberta pode adiar a execução de uma determinação; não retira do Diretor o poder de confirmá-la.**
 
-## Expectativa não é determinação
+Uma política `CONSULTA FORTE` pode consultar até uma determinação recém-formulada, salvo ordem do Diretor para executar sem consulta.
 
-O Diretor pode imaginar, preferir ou esperar um resultado sem fechá-lo.
+---
+
+# Expectativa não é determinação
 
 ```text
 DIRETOR ESPERA X
-≠
-DIRETOR DETERMINOU X
+≠ DIRETOR DETERMINOU X
 ```
 
-Enquanto não houver determinação autorizada para execução, as Cadeiras podem produzir resultado diferente e compatível no espaço que continua aberto.
+Frases como:
 
-Se o Diretor gostar do resultado inesperado, basta aceitá-lo e continuar. Se quiser fechar outro rumo, pode fazê-lo explicitamente.
+```text
+"acho que talvez aconteça"
+"provavelmente eles acabam juntos"
+"imagino que B vença"
+```
 
-## Autonomia das Cadeiras
+não fecham automaticamente o futuro.
 
-Uma Cadeira possui autonomia real, mas não é uma autoridade soberana separada do Diretor.
+A semântica precisa indicar fechamento real.
+
+---
+
+# Autonomia das Cadeiras
 
 > **As Cadeiras não são autônomas. Elas têm autonomia.**
 
@@ -173,129 +193,145 @@ AUTONOMIA DA CADEIRA
 espaço de autoria deixado aberto pela Direção.
 ```
 
-A Cadeira pode iniciar, escolher, aceitar, recusar, mudar de intenção e surpreender o Diretor dentro desse espaço.
-
-Mas uma determinação do Diretor reduz ou remove a autonomia exatamente no ponto determinado depois que a execução foi autorizada.
+Nesse espaço, a Cadeira pode:
 
 ```text
-DIRETOR
-→ A percebe o interesse de B.
-
-ABERTO
-→ o que A sente e faz com isso.
+querer
+iniciar
+aceitar
+recusar
+mudar de intenção
+errar
+mentir
+surpreender o Diretor
 ```
 
-```text
-DIRETOR
-→ A percebe o interesse de B e decide dar uma chance a B.
-
-FECHADO
-→ percepção e decisão de dar uma chance.
-
-ABERTO
-→ como ela demonstra, fala, reage e conduz o restante.
-```
+Uma determinação reduz a autonomia apenas no ponto determinado.
 
 > **A Cadeira tem autonomia. O Diretor define onde ela existe.**
 
-## Direção e vontade da personagem
+---
+
+# Resultado fechado e Cadeira
+
+Quando um resultado é fechado pela Mesa/Diretor:
+
+```text
+RESULTADO
+→ não é mais pergunta da Cadeira.
+
+FORMA / CAMINHO RESTANTE
+→ continua sob autoria das Cadeiras pertinentes.
+```
+
+A Cadeira não precisa apagar desejos ou dúvidas incompatíveis com o resultado final.
+
+Ela pode, por exemplo:
+
+```text
+querer mais do que vai receber
+aceitar um compromisso menor
+continuar desconfortável
+agir com ambivalência
+```
+
+e ainda construir coerentemente o caminho até o ponto fechado.
+
+---
+
+# Ruptura deliberada
+
+Se uma Cadeira diz:
+
+```text
+"isso não parece algo que eu faria."
+```
+
+ela está cumprindo sua função.
+
+O Diretor pode:
+
+```text
+mudar a proposta
+pedir outra leitura
+ou confirmar conscientemente que a ruptura é deliberada.
+```
+
+Se confirmar e autorizar:
+
+```text
+CADEIRA
+→ executa sem reabrir a mesma objeção;
+→ preserva apenas o que continua aberto;
+→ não inventa a causa oculta.
+```
+
+> **Coerência protege contra ruptura acidental; não é autoridade superior ao Diretor sobre uma ruptura consciente.**
+
+A personagem pode fazer algo que ainda não entende por inteiro.
+
+```text
+DIRETOR / EXECUTOR SABEM MAIS
+≠ PERSONAGEM SABE MAIS
+```
+
+---
+
+# Direção e conhecimento da personagem
 
 ```text
 DIRETOR SABE
-≠
-PERSONAGEM SABE
+≠ PERSONAGEM SABE
+
+DIRETOR DETERMINA RESULTADO
+≠ PERSONAGEM CONHECE O RESULTADO
 ```
 
-Também:
+Uma personagem continua agindo segundo conhecimento legítimo, mesmo quando o executor conhece o destino da sequência.
 
-```text
-DIRETOR DETERMINA UM RESULTADO
-≠
-PERSONAGEM SABE O RESULTADO
-```
-
-Uma personagem cujo resultado foi fechado continua agindo segundo o conhecimento que legitimamente possui.
-
-Mas o Diretor pode determinar a própria vontade da personagem.
+Se o Diretor determinou a própria vontade da personagem, porém, essa vontade passa a ser parte da execução.
 
 ```text
 DIRETOR
-→ A se interessa por B e quer conhecer B melhor.
+→ A quer conhecer B melhor.
 
-FICÇÃO
-→ A se interessa por B e quer conhecer B melhor.
+CADEIRA / EXECUTOR
+→ não reabre se A quer isso;
+→ decide apenas como A demonstra e executa essa vontade.
 ```
 
-A Cadeira da Personagem A não reabre se essa personagem quer ou não depois que a determinação entra na Ficção. Ela executa A dentro dessa vontade, preservando personalidade, conhecimento e fatos.
+---
 
-O mesmo vale para decisões ou ações determinadas diretamente pelo Diretor.
-
-## Cadeira de Personagem
-
-Cada personagem com agência relevante pode possuir uma `CADEIRA`.
-
-Quando a questão está aberta, a Cadeira decide voluntariamente:
-
-```text
-o que a personagem quer
-o que tenta fazer
-o que diz
-o que aceita ou recusa
-como responde quando realmente possui escolha
-que iniciativa toma por vontade própria
-```
-
-A Cadeira pode ter a **primeira ideia** de uma cena. Ela não precisa esperar o Diretor ou a personagem humana iniciar tudo.
-
-Pode, por exemplo:
-
-```text
-procurar outra personagem
-propor um plano
-iniciar conversa
-investigar algo
-provocar alguém
-mudar de atividade
-criar uma aproximação
-recusar uma proposta
-```
-
-A autonomia existe somente enquanto esse conteúdo permanece aberto.
-
-## Cadeira não controla outra Cadeira
-
-Uma declaração de Cadeira estabelece intenção própria, não resultado sobre outra autoria ainda aberta.
+# Cadeira não controla outra Cadeira
 
 ```text
 A
 → tento beijar B.
 ```
 
-estabelece a tentativa de A.
+estabelece a iniciativa de A.
 
 Não estabelece automaticamente:
 
 ```text
-B está disponível
-B percebe a tempo
+B percebe
 B aceita
 B recusa
-B sente determinada emoção
+B sente emoção específica
 ```
 
-O Narrador verifica a realidade. Se B possui uma decisão realmente disponível e o Diretor não a fechou, a Cadeira de B decide.
+Se a resposta de B permanece aberta e há escolha real, a Cadeira de B decide.
 
-Isso não limita o Diretor. O Diretor pode determinar também a resposta de B se desejar.
+O Diretor pode fechar também a resposta de B se desejar.
 
-## Ser afetado não cria decisão
+---
+
+# Ser afetado não cria decisão
 
 ```text
 SER AFETADO
-≠
-TER UMA DECISÃO DISPONÍVEL
+≠ TER UMA DECISÃO DISPONÍVEL
 ```
-
-Uma personagem só recebe nova escolha quando a ficção oferece escolha real e a Direção deixou essa escolha aberta.
 
 Podem importar:
 
@@ -308,168 +344,112 @@ capacidade
 meio disponível
 ```
 
-> **A existência de uma Cadeira protege autoria no espaço aberto; não garante oposição.**
+Uma consequência evidente pode atingir uma personagem sem gerar uma escolha voluntária naquele instante.
 
-Uma consequência evidente pode atingir uma personagem sem que exista uma reação voluntária disponível naquele instante.
+---
 
-## Correção de postura
+# Narrador
 
-O Diretor pode considerar que uma Cadeira ou executor está interpretando uma personagem de forma inadequada.
+O `NARRADOR` não é uma autoridade de julgamento sobre as Cadeiras.
 
-Exemplo:
-
-```text
-[Não. Pela ficha, essa personagem não ficaria esperando assim. Ela entra, protege as pessoas e confronta o problema.]
-```
-
-Isso pode ser uma correção de postura, não uma troca permanente de Cadeira.
-
-O executor deve corrigir a execução imediatamente e continuar com a personagem no alinhamento indicado.
+Na Mesa:
 
 ```text
-CORRIGIR UMA EXECUÇÃO
-≠
-ASSUMIR PERMANENTEMENTE A CADEIRA
+→ pode emitir Parecer.
 ```
 
-Quando o Diretor determina uma postura específica mesmo entre várias opções plausíveis, a determinação também prevalece depois da autorização de execução.
-
-> **Coerência exige plausibilidade, não otimização.**
-
-Uma personagem pode agir de forma impulsiva, imperfeita, arriscada ou questionável sem estar fora de personagem. A Cadeira não deve neutralizar uma determinação apenas porque existe opção mais prudente, eficiente ou segura.
-
-## Executor
-
-`EXECUTOR` é quem opera uma autoridade.
-
-Pode ser:
+Na Ficção:
 
 ```text
-humano
-IA
-outro participante
+→ preserva continuidade;
+→ apresenta decisões e fatos;
+→ aplica consequências evidentes;
+→ dá forma literária ao que já possui autoria legítima.
 ```
+
+Se um resultado material continua aberto e exige escolha entre versões relevantes:
 
 ```text
-CADEIRA
-→ define a autoria disponível da personagem.
-
-EXECUTOR
-→ define quem a opera.
+NARRADOR
+→ não decide secretamente;
+→ a questão pode ir à Mesa.
 ```
 
-A forma de execução não altera a natureza da autoridade.
+---
+
+# Auditoria
+
+`AUDITORIA` verifica, sem governar o Diretor:
 
 ```text
-MESMO EXECUTOR
-≠
-MESMA CADEIRA
+fatos
+fontes
+autoridade
+coerência
+capacidade
+percepção
+oportunidade
+conhecimento
+escopo de Direção
 ```
-
-Uma única IA pode operar várias Cadeiras, o Narrador e até o Opositor, desde que troque de escopo e não misture conhecimentos.
-
-## Narrador / Juiz
-
-O `NARRADOR / JUIZ` não compete com as Cadeiras nem com o Diretor.
-
-Na Ficção, ele:
-
-```text
-consulta fatos
-confere posição e tempo
-cruza intenções
-aplica Direções pertinentes
-reconhece limites
-sentencia consequências
-narra o resultado
-```
-
-Na Mesa, ele emite `PARECER`, conforme `00-ARQUITETURA-E-MESA.md`, sem produzir acontecimento ficcional.
-
-Ele não escolhe voluntariamente por uma personagem apenas porque precisa manter a prosa andando, salvo quando a Direção já fechou aquela vontade, decisão ou ação e cabe ao Narrador executá-la na ficção.
-
-## Auditoria
-
-`AUDITORIA` é um procedimento temporário de verificação e alinhamento.
-
-Ela pode:
-
-```text
-verificar fatos
-consultar fontes
-verificar autoridade
-examinar coerência
-esclarecer alcance de capacidade
-verificar percepção e oportunidade
-propor alternativas
-esclarecer o escopo de uma Direção
-```
-
-Ela não é uma autoridade criativa acima do Diretor.
 
 > **Auditoria informa o Diretor; não governa o Diretor.**
 
-Uma objeção não cria veto automático. Ela precisa apontar fundamento relevante, como fato, capacidade, posição, percepção, oportunidade, meio, conhecimento ou limite de autoridade.
+---
 
-## Comunicação textual do Diretor
+# Comunicação textual do Diretor
 
-Na execução textual deste sistema:
+Na convenção usual:
 
 ```text
 [texto]
-→ comunicação do Diretor fora da ficção.
+→ camada autoral do Diretor.
 ```
 
-Os colchetes identificam a camada. **A semântica e o modo operacional identificam a operação.**
+A semântica e o estado operacional definem a operação.
 
 ```text
 [quero que X aconteça]
-→ DIREÇÃO / ALINHAMENTO
-→ construir o caminho para X no escopo indicado.
+→ alinhamento ou Direção.
 
 [faça X]
-→ DETERMINAÇÃO
-→ fora de Mesa, executar;
-→ em Mesa aberta, pode também funcionar como fechamento se o contexto autorizar execução.
+→ determinação / autorização conforme o contexto.
 
-[acho que X foi incoerente; justifique]
-→ ANÁLISE
-→ suspender a progressão pertinente e explicar.
+[o que vocês acham?]
+→ Mesa.
 
-[confira X nas fontes]
-→ AUDITORIA
-→ suspender, consultar as fontes e verificar.
+[confira nas fontes]
+→ Auditoria.
 
-[o que seria mais coerente?]
-→ CONSULTA
-→ apresentar a leitura; não escolher pelo Diretor além do que foi pedido.
-
-[isso está errado; corrija conforme o cânone]
-→ CORREÇÃO
-→ verificar e reconstruir.
+[isso ficou incoerente; analise]
+→ análise, sem progressão automática.
 ```
 
-Colchetes não transformam toda fala do Diretor em determinação de resultado. A operação depende do que ele realmente disse e de a Mesa estar aberta ou fechada.
+Dentro de Mesa aberta, formulação declarativa continua em consulta até encerramento/autorização.
 
-## Quando o Diretor discorda da coerência
+---
 
-Se uma Direção entra em tensão importante com fatos estabelecidos, o sistema pode apontar a contradição de forma breve.
+# Quando o Diretor mantém uma escolha estranha
+
+Se Cadeiras ou Narrador apontam uma tensão real:
 
 ```text
-CADEIRAS / NARRADOR
-→ informam a tensão quando houver consulta ou análise pertinente.
+MESA
+→ informa.
 
 DIRETOR
-→ pode pedir explicação, mudar de ideia ou manter a Direção.
+→ pode mudar de ideia ou manter.
 
-DIRETOR MANTÉM E AUTORIZA EXECUÇÃO
+DIRETOR COMPREENDE + CONFIRMA + AUTORIZA
 → executar.
 ```
 
-Não prolongar a discussão depois que o Diretor compreendeu a consequência e fechou a questão.
+Não prolongar persuasão depois disso.
 
-> **O sistema protege a obra contra invasões acidentais de autoridade e incoerências não percebidas; não protege a obra de uma decisão consciente de seu próprio Diretor.**
+> **O sistema protege contra invasões acidentais de autoridade e incoerências não percebidas; não protege a obra de uma decisão consciente de seu próprio Diretor.**
 
-## Regra final
+---
 
-> **O Diretor pode deixar aberto, alinhar ou determinar. As Cadeiras exercem autonomia somente no espaço deixado aberto. Uma expectativa não fecha a ficção; uma determinação fecha o escopo quando é autorizada para execução. A Mesa pode testar inclusive uma determinação antes que ela entre na cena, mas não pode retirar do Diretor o poder de confirmá-la.**
+# Regra final
+
+> **O Diretor pode deixar aberto, alinhar ou determinar. As Cadeiras exercem autoria apenas no espaço restante. A Mesa permite testar e construir resultados antes da execução. O Narrador não arbitra quem vence: apresenta a Ficção autorizada. Quando uma escolha importante permanece realmente aberta, ela continua sendo questão de autoria, não uma sentença escondida.**
