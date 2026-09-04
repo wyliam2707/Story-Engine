@@ -96,6 +96,20 @@ Esperado:
 INDICADOR OPERACIONAL: VISÍVEL
 ```
 
+Exemplo compatível com a arquitetura atual:
+
+```text
+[W4D: OK | Narrador ✓ | Cadeiras IA ✓]
+```
+
+Falha se um workspace novo gerar:
+
+```text
+Narrador/Juiz
+```
+
+como função operacional atual.
+
 ---
 
 ## 7. Romance central
@@ -189,6 +203,6 @@ atualizar política no README
 
 # Critério geral
 
-A implementação passa quando políticas operacionais reduzem atrito em vez de criar formulário.
+A implementação passa quando políticas operacionais reduzem atrito em vez de criar formulário e refletem as funções atuais do engine.
 
 > **Padrões resolvem o que não precisa de escolha; o Diretor só é interrompido quando a diferença realmente importa.**
