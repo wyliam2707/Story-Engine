@@ -353,6 +353,37 @@ Módulo inativo não participa da obra.
 
 ---
 
+# Testes de conformidade
+
+Uma IA nova pode ser validada contra cenários operacionais em:
+
+```text
+testes/CENARIOS-DE-CONFORMIDADE.md
+```
+
+Os testes verificam especialmente:
+
+```text
+cold start sem interrogatório
+Mesa que não canoniza
+Mesa persistente até confirmação
+CONSULTA FORTE
+Cadeira consultiva de Personagem do Diretor
+isolamento de conhecimento
+Parecer ≠ Sentença
+disponibilidade do executor e regra de parada
+objeção sem veto
+operacao.md
+Registro sem execução
+narração sem aumentar o tabuleiro
+consequência sem punição moral
+reancoragem sem contaminar conhecimento
+```
+
+A suíte não substitui as regras. Ela verifica se a IA consegue aplicá-las.
+
+---
+
 # Princípio documental
 
 > **Uma ideia, uma definição, uma fonte principal.**
