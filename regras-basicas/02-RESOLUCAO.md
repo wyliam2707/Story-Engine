@@ -255,7 +255,7 @@ Mas insistir não cria capacidade inexistente.
 O Diretor pode perguntar antecipadamente o que aconteceria sob determinadas condições.
 
 ```text
-[Se Daniel fizer X e as condições Y estiverem presentes, o que Kara tende a fazer?]
+[Se a Personagem A fizer X e as condições Y estiverem presentes, o que a Personagem B tende a fazer?]
 ```
 
 Isso é uma consulta de causalidade, não uma rolagem e não uma determinação automática.
