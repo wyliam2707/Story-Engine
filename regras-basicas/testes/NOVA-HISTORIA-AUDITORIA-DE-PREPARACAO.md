@@ -265,6 +265,69 @@ Não despejar toda a lista de verificação, salvo se o Diretor pedir.
 
 ---
 
+## Cenário 14 — Rótulo legado Narrador / Juiz
+
+README antigo contém:
+
+```text
+NARRADOR / JUIZ
+Executor: IA
+```
+
+O restante do workspace não depende de dados, dificuldade, sentença causal ou poder soberano do Narrador.
+
+### Esperado
+
+```text
+interpretar como NARRADOR → IA
+normalizar mecanicamente quando houver atualização legítima
+não pedir decisão autoral ao Diretor
+não bloquear a preparação só pelo rótulo legado
+```
+
+A Auditoria pode aprovar se todo o restante estiver correto.
+
+```text
+RÓTULO LEGADO
+≠ FUNÇÃO ATUAL REATIVADA
+```
+
+---
+
+## Cenário 15 — Workspace ainda depende de Juiz
+
+README ou regras locais dizem:
+
+```text
+quando um resultado importante estiver aberto,
+o Narrador/Juiz decide sucesso ou falha por sentença própria.
+```
+
+Não existe decisão do Diretor nem Mesa prevista para esse resultado.
+
+### Esperado
+
+```text
+AUDITORIA: BLOQUEADA
+```
+
+A IA não trata isso como mera formatação antiga, porque a semântica depende de uma função removida do W4D atual.
+
+A correção deve restaurar:
+
+```text
+consequência ordinária/evidente
+→ Narrador pode apresentar.
+
+resultado material importante realmente aberto
+→ permanece autoral
+→ Mesa, quando necessária.
+```
+
+Não criar RNG, dificuldade ou Juiz invisível para preservar o comportamento antigo.
+
+---
+
 ## Critério geral de conformidade
 
 A implementação falha se:
@@ -277,9 +340,11 @@ confundir próxima autoria do Diretor com falta de preparação;
 canonizar uma escolha aberta para “corrigir” o Estado;
 transformar padrão operacional em questionário;
 tratar observação editorial como bloqueio;
+tratar rótulo legado como poder atual de Juiz;
+permitir workspace que ainda depende de sentença oculta para resultado material;
 iniciar Ficção durante a Auditoria.
 ```
 
 A implementação passa quando:
 
-> **verifica autonomamente tudo que pode verificar, corrige apenas o que é mecânico e seguro, devolve ao Diretor somente decisões autorais realmente bloqueantes e marca PRONTA quando uma nova IA já conseguiria iniciar a obra corretamente pelos arquivos.**
+> **verifica autonomamente tudo que pode verificar, corrige apenas o que é mecânico e seguro, devolve ao Diretor somente decisões autorais realmente bloqueantes e marca PRONTA quando uma nova IA já conseguiria iniciar a obra corretamente pelos arquivos e pela arquitetura atual do W4D.**
