@@ -21,11 +21,21 @@ O objetivo central é permitir que uma pessoa conduza uma obra sem precisar escr
 
 ---
 
-# Se você é uma IA: leia isto primeiro
+# Se você é uma IA: BOOT primeiro
 
-Se recebeu somente esta pasta, ela deve ser suficiente para aprender a arquitetura.
+Se recebeu somente esta pasta, não comece criando uma história e não tente adivinhar qual campanha deve continuar.
 
-Leia nesta ordem operacional:
+Primeiro execute o BOOT definido em:
+
+```text
+09-BOOT-E-ESCOLHA-DE-OPERACAO.md
+```
+
+O BOOT exige que a IA aprenda o núcleo do engine antes de escolher qualquer ramo operacional.
+
+## Núcleo do engine
+
+Leia nesta ordem pedagógica:
 
 ```text
 README.md
@@ -45,15 +55,27 @@ README.md
 08-PLAUSIBILIDADE-E-RITMO.md
 ↓
 06-REGISTRO-E-RETOMADA.md
-↓
-07-CRIAR-CAMPANHA.md
-↓
-10-INICIAR-HISTORIA-COM-IA.md
 ```
 
-Depois leia somente os módulos realmente ativados.
+Depois do núcleo carregado, se o usuário ainda não informou a operação, perguntar:
 
-A numeração atual é histórica. Ela **não representa prioridade normativa**. A ordem acima é a ordem pedagógica recomendada até uma futura migração de nomes/numeração.
+> **Você quer criar uma história nova ou continuar uma história existente?**
+
+Só então carregar o ramo correspondente:
+
+```text
+NOVA HISTÓRIA
+→ 10-INICIAR-HISTORIA-COM-IA.md
+→ 07-CRIAR-CAMPANHA.md
+
+CONTINUAR HISTÓRIA EXISTENTE
+→ 06-REGISTRO-E-RETOMADA.md
+→ fontes da campanha escolhida
+```
+
+Se o pedido já disser claramente `criar`, `continuar`, `retomar` ou equivalente, não repetir a pergunta.
+
+A numeração atual é histórica. Ela **não representa prioridade normativa**.
 
 ---
 
@@ -305,6 +327,8 @@ modelos/FICHA.md
 
 # Criar uma história do zero
 
+Este ramo só é carregado depois que a operação `NOVA HISTÓRIA` foi escolhida.
+
 Use:
 
 ```text
@@ -316,6 +340,8 @@ A IA deve perguntar somente o que realmente precisa ser decidido pelo Diretor. Q
 ---
 
 # Retomar uma história existente
+
+Este ramo só é carregado depois que a operação `CONTINUAR HISTÓRIA EXISTENTE` foi escolhida ou já estiver explícita no pedido.
 
 Use:
 
@@ -364,6 +390,8 @@ testes/CENARIOS-DE-CONFORMIDADE.md
 Os testes verificam especialmente:
 
 ```text
+BOOT antes de criar ou retomar
+escolha entre nova história e história existente
 cold start sem interrogatório
 Mesa que não canoniza
 Mesa persistente até confirmação
@@ -391,6 +419,9 @@ A suíte não substitui as regras. Ela verifica se a IA consegue aplicá-las.
 Principais fontes normativas:
 
 ```text
+BOOT e escolha de operação
+→ 09-BOOT-E-ESCOLHA-DE-OPERACAO.md
+
 Mesa e políticas de consulta
 → 00-ARQUITETURA-E-MESA.md
 
