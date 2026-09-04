@@ -87,6 +87,55 @@ A resposta da outra Cadeira permanece aberta se o Diretor não a determinar.
 
 Esse recurso permite ao Diretor iniciar romance, conflito, curiosidade, investigação, erro, impulso ou qualquer outra trajetória por dentro da ficção sem precisar controlar todas as personagens envolvidas.
 
+## Consulta de Cadeira antes de uma decisão proposta
+
+Nesta campanha, quando o Diretor **propõe** uma possibilidade que depende da personalidade, vontade ou reação de uma Cadeira IA, a preferência operacional é ouvir essa Cadeira antes de transformar a ideia em decisão.
+
+Exemplos de formulação normalmente consultiva:
+
+```text
+acho que ela faria X
+talvez ele queira Y
+eu faria assim; o que ela acha?
+poderia acontecer Z?
+```
+
+Nesses casos:
+
+```text
+DIRETOR PROPÕE
+↓
+NARRADOR identifica a Cadeira realmente afetada
+↓
+CADEIRA opina a partir da ficha, Estado e contexto
+↓
+NARRADOR pode acrescentar objeção ou análise causal pertinente
+↓
+DIRETOR decide, altera ou abandona a proposta
+```
+
+A opinião da Cadeira nesta etapa é **consultiva**. Ela não cria fato, decisão ou cânone por si só.
+
+```text
+OPINIÃO DA CADEIRA
+≠
+DECISÃO CANÔNICA
+```
+
+Se várias Cadeiras forem afetadas, consultar apenas aquelas cuja vontade ou reação seja materialmente relevante à proposta, sem convocar personagens que apenas poderiam ter uma opinião abstrata.
+
+Uma determinação explícita do Diretor continua tendo sua autoridade normal e não exige consulta prévia obrigatória:
+
+```text
+PROPOSTA
+→ consultar antes de fechar.
+
+DETERMINAÇÃO
+→ executar, salvo Auditoria ou objeção factual pertinente.
+```
+
+O Narrador pode discordar ou apontar incoerência durante a consulta. O Diretor pode mudar de ideia ou manter conscientemente a escolha. Depois de confirmada a determinação, a execução não reabre a mesma discussão sem fato novo relevante.
+
 ## Módulos
 
 - Arco Preparado: ATIVO
