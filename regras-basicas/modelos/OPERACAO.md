@@ -52,7 +52,8 @@ OPINIÃO DE CADEIRA
 ≠ DECISÃO CANÔNICA
 
 PARECER
-≠ SENTENÇA
+≠ DECISÃO AUTORAL
+≠ ACONTECIMENTO
 ```
 
 Não registrar aqui uma hipótese que nunca entrou numa operação real apenas para “lembrar dela depois”.
