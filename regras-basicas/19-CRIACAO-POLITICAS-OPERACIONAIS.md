@@ -152,7 +152,7 @@ Usar quando o Diretor quer ver explicitamente o estado operacional do W4D.
 Exemplo possível:
 
 ```text
-[W4D: OK | Narrador/Juiz ✓ | Cadeiras IA ✓]
+[W4D: OK | Narrador ✓ | Cadeiras IA ✓]
 ```
 
 O formato visual pode variar sem alterar a semântica.
