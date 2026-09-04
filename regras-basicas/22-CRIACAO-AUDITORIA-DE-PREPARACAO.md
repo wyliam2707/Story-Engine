@@ -4,55 +4,66 @@ Este arquivo define a **décima primeira etapa autoral** do ramo `NOVA HISTÓRIA
 
 Ele entra em uso depois que o Estado inicial está suficiente em `21-CRIACAO-ESTADO-INICIAL.md`.
 
-A Auditoria não cria história, não planeja o futuro e não substitui decisões do Diretor.
-
 > **Auditar é verificar se outra IA conseguiria iniciar corretamente a obra usando somente as fontes persistentes.**
 
----
-
-# O que esta etapa responde
-
-Antes do primeiro `START`, a IA precisa responder:
-
-> **Existe informação suficiente, consistente e corretamente distribuída para executar a primeira continuação sem depender da memória da conversa de criação?**
-
-A Auditoria verifica o workspace já construído.
-
-Ela não abre uma nova rodada de criação por hábito.
-
-```text
-AUDITORIA
-→ verifica.
-
-NÃO
-→ inventa.
-→ planeja.
-→ dramatiza.
-→ inicia a Ficção.
-```
+A Auditoria não cria história, não planeja o futuro e não substitui decisões do Diretor.
 
 ---
 
 # Critério central
 
-A obra está pronta quando uma nova IA consegue reconstruir, a partir dos arquivos:
+A obra está pronta quando uma nova IA consegue reconstruir:
 
 ```text
 qual história está sendo criada
 como deve ser apresentada
 quem são as personagens necessárias
 quem possui cada autoria
-como o W4D opera nesta obra
-o que o Diretor já fechou
+quem executa o Narrador
+como a Mesa opera
+que pontos o Diretor já fechou
 o que permanece aberto
 qual é a realidade inicial
 qual é o primeiro ponto aberto
 quem possui a próxima autoria
 ```
 
-sem precisar conhecer a conversa em que a preparação foi feita.
+sem depender da conversa original.
 
 > **PRONTA significa reconstruível e executável, não completamente planejada.**
+
+---
+
+# A Auditoria também verifica a arquitetura atual
+
+Uma obra nova não deve depender de:
+
+```text
+JUIZ permanente
+SENTENÇA causal do Narrador
+RNG invisível
+teste universal
+dificuldade universal
+probabilidade escondida para decidir resultado material
+```
+
+Se um workspace antigo usa o rótulo:
+
+```text
+NARRADOR / JUIZ
+```
+
+mas o significado restante está claro, isso é **legado mecânico**, não decisão autoral.
+
+A Auditoria pode normalizar para:
+
+```text
+NARRADOR
+```
+
+sem perguntar.
+
+> **Rótulo antigo não reativa função removida do engine.**
 
 ---
 
@@ -61,19 +72,17 @@ sem precisar conhecer a conversa em que a preparação foi feita.
 Não são falhas por si só:
 
 ```text
-não haver final decidido
+não haver final
 não haver arco completo
 não haver antagonista
-não haver grande conflito inicial
+não haver conflito inicial
 não haver mundo detalhado
-não haver ficha para toda pessoa que poderá aparecer
+não haver ficha de figurantes
 não haver módulos opcionais ativos
 não saber futuras revelações
 não saber como relações evoluirão
 não saber quantos capítulos existirão
 ```
-
-Se essas coisas não são necessárias para executar a abertura, podem continuar abertas.
 
 ```text
 FUTURO ABERTO
@@ -82,9 +91,7 @@ FUTURO ABERTO
 
 ---
 
-# Fontes mínimas esperadas
-
-Para uma história nova comum, a Auditoria espera encontrar:
+# Fontes mínimas comuns
 
 ```text
 campanhas/<slug>/README.md
@@ -93,96 +100,94 @@ campanhas/<slug>/estado.md
 fichas das personagens cuja reconstrução já é necessária
 ```
 
-Outras fontes são condicionais:
+Condicionais:
 
 ```text
 mundo/
-→ somente se fatos externos estáveis precisarem persistir.
+→ somente se houver fatos externos estáveis necessários.
 
 operacao.md
 → somente se existir operação transitória real.
 
 arco.md
-→ somente com Arco Preparado ativo e necessário.
+→ somente com Arco Preparado ativo.
 
 oposicao.md
 → somente com Opositor ativo.
 
 livro/
-→ somente quando Livro estiver ativo e houver Ficção para registrar.
+→ somente quando Livro estiver ativo e houver Ficção a registrar.
 ```
 
 > **Ausência de arquivo opcional não é falha.**
 
 ---
 
-# Bloco 1 — Identidade da obra
+# 1 — Identidade da obra
 
 Verificar no `README.md`:
 
 ```text
 nome reconhecível
-STATUS atual
+STATUS
 Premissa / Proposta curta
 Estilo / Tom necessário
-Personagens centrais já aprovadas
+Personagens centrais aprovadas
 ```
 
-A Auditoria não exige uma sinopse completa.
+Pergunta:
 
-Pergunta útil:
-
-> **Uma IA nova consegue reconhecer que obra é esta e que experiência está tentando produzir?**
+> **Uma IA nova reconhece que obra é esta e que experiência ela pretende produzir?**
 
 ---
 
-# Bloco 2 — Personagens reconstruíveis
+# 2 — Personagens reconstruíveis
 
-Para cada personagem necessária à abertura, verificar:
+Para cada personagem necessária à abertura:
 
 ```text
 ficha existente
 identidade reconhecível
 Conceito suficiente
-competências / conhecimentos relevantes sustentados
-Traços, Poderes e meios relevantes com escopo suficiente
+competências / conhecimentos relevantes
+Traços, Poderes e meios relevantes
 personalidade suficiente para uma Cadeira decidir
 histórico suficiente para explicar o necessário
-relações iniciais importantes preservadas
+relações iniciais importantes
 ```
-
-Não exigir ficha exaustiva.
 
 ```text
 FICHA RECONSTRUÍVEL
 → suficiente.
 
-FICHA SEM ALTURA, COMIDA FAVORITA OU BIOGRAFIA COMPLETA
-→ não é falha por isso.
+FICHA EXAUSTIVA
+→ não é exigida.
 ```
-
-Se uma personagem incidental ainda não precisa de continuidade persistente, sua ausência de ficha não bloqueia o START.
 
 ---
 
-# Bloco 3 — Autoridades
+# 3 — Autoridades e funções
 
 Verificar no `README.md`:
 
 ```text
 Diretor
-Narrador / Juiz
+Narrador
 Personagem do Diretor, se houver
 Cadeiras necessárias
-Executor de cada autoridade
+Executor de cada Cadeira
 limites de delegação, quando existirem
 ```
 
 A Auditoria deve conseguir responder:
 
-> **Se surgir agora uma decisão voluntária de cada personagem central, quem pode tomá-la?**
+> **Se cada personagem central precisar decidir agora, quem possui essa vontade?**
 
-Também conferir:
+E também:
+
+> **Se um resultado material permanecer aberto, o sistema sabe que deve usar a Mesa em vez de atribuir sentença ao Narrador?**
+
+Conferir:
 
 ```text
 DELEGAR EXECUÇÃO
@@ -190,43 +195,45 @@ DELEGAR EXECUÇÃO
 
 MESMO EXECUTOR
 ≠ MESMA CADEIRA
+
+NARRADOR
+≠ JUIZ
 ```
 
-Se a próxima autoria pertence ao Diretor, isso **não torna a obra não pronta**.
-
-Significa apenas que o START apresentará o ponto aberto e aguardará o Diretor.
+Se a próxima autoria pertence ao Diretor, a obra ainda pode estar pronta. O START apenas aguardará a decisão correta.
 
 ---
 
-# Bloco 4 — Direção
+# 4 — Direção
 
 Verificar `direcao.md` segundo `18-CRIACAO-DIRECAO.md`.
 
-A Direção precisa preservar:
+A Direção precisa preservar somente:
 
 ```text
 Premissa
-Estilo / Tom quando pertinente
+Estilo/Tom quando pertinente
 fatos estruturais fechados
-decisões persistentes já tomadas
-decisões locais ainda ativas, se existirem
-espaço que continua aberto
+decisões persistentes realmente tomadas
+decisões locais ainda ativas
+espaço aberto
 ```
 
-Não considerar falha:
+É válido:
 
 ```text
-Direções Persistentes: nenhuma além das premissas.
-Direções Ativas: nenhuma.
+Direções Persistentes
+→ nenhuma além das premissas.
+
+Direções Ativas
+→ nenhuma.
 ```
 
-se o Diretor ainda não decidiu mais nada.
-
-> **A Auditoria verifica decisões existentes; não exige novas decisões para preencher Direção.**
+> **Auditoria verifica decisões existentes; não exige decisões novas.**
 
 ---
 
-# Bloco 5 — Políticas operacionais
+# 5 — Políticas operacionais
 
 Verificar:
 
@@ -236,7 +243,7 @@ Indicador operacional
 Módulos ativos
 ```
 
-Quando o Diretor não escolheu valores especiais, os padrões são válidos:
+Padrões válidos:
 
 ```text
 MESA: SOB DEMANDA
@@ -244,17 +251,13 @@ INDICADOR OPERACIONAL: SILENCIOSO
 MÓDULOS: INATIVOS salvo escolha ou necessidade real
 ```
 
-Se o README ainda não registrou um padrão que deveria estar persistente, a IA pode fazer uma **correção mecânica segura** e registrar o padrão já definido pelo engine.
-
-Isso não exige nova decisão autoral.
+Se um padrão já é definido pelo engine mas ainda não foi copiado ao README, pode ser registrado como correção mecânica segura.
 
 ---
 
-# Bloco 6 — Mundo necessário
+# 6 — Mundo necessário
 
-Verificar o resultado de `20-CRIACAO-MUNDO-NECESSARIO.md`.
-
-Duas condições são igualmente válidas:
+Duas condições são válidas:
 
 ```text
 MUNDO NECESSÁRIO
@@ -268,23 +271,23 @@ MUNDO NECESSÁRIO
 → NENHUM ANTES DO START.
 ```
 
-A Auditoria não cria worldbuilding extra para tornar a obra “mais completa”.
+Não criar worldbuilding extra para satisfazer checklist.
 
-Se a Premissa depende de um fato externo estrutural e nenhuma fonte o preserva, isso pode ser falha bloqueante.
+Se a Premissa depende de fato estrutural sem fonte, isso pode ser bloqueante.
 
 ---
 
-# Bloco 7 — Estado inicial
+# 7 — Estado inicial
 
 Verificar `estado.md` segundo `21-CRIACAO-ESTADO-INICIAL.md`.
 
-A IA precisa conseguir reconstruir:
+Reconstruir, quando pertinente:
 
 ```text
-momento inicial, quando relevante
-local inicial, quando relevante
-presenças / posições necessárias
-condições já existentes
+momento
+local
+presenças / posições
+condições existentes
 último fato estabelecido
 primeiro ponto aberto
 ```
@@ -296,28 +299,26 @@ Antes da primeira cena, é válido:
 → história ainda não iniciada.
 ```
 
-O ponto aberto não pode pré-escrever uma vontade ainda pertencente a uma Cadeira ou ao Diretor.
+O Estado não pode pré-escrever vontade ainda aberta.
 
 ```text
 PONTO ABERTO IDENTIFICADO
 → correto.
 
-DECISÃO ABERTA REGISTRADA COMO JÁ TOMADA
+DECISÃO ABERTA REGISTRADA COMO TOMADA
 → falha.
 ```
 
 ---
 
-# Bloco 8 — Separação das fontes
-
-Conferir se informações não foram parar na fonte errada.
+# 8 — Separação das fontes
 
 ```text
 FICHA
 → quem a pessoa é.
 
 README
-→ configuração da obra e autoridades.
+→ configuração da obra e executores.
 
 DIREÇÃO
 → decisões autorais ainda vinculantes.
@@ -338,18 +339,17 @@ LIVRO
 Falhas típicas:
 
 ```text
-proposta de Mesa registrada como fato no Estado
-executor registrado como personalidade na ficha
+proposta de Mesa no Estado
+executor dentro da personalidade da ficha
 resultado futuro colocado no Estado
-segredo global tratado como conhecimento de personagem
-rascunho de ficha tratado como ficha aprovada
+segredo global tratado como conhecimento da personagem
+rascunho tratado como ficha aprovada
+Juiz legado tratado como autoridade atual
 ```
 
 ---
 
-# Falha bloqueante e observação não bloqueante
-
-A Auditoria deve distinguir gravidade.
+# Bloqueante e não bloqueante
 
 ## BLOQUEANTE
 
@@ -359,25 +359,21 @@ Exemplos:
 
 ```text
 personagem central necessária sem ficha suficiente
-não está definido quem possui uma vontade que já precisa ser executada
-Premissa e Estado inicial se contradizem materialmente
+não se sabe quem possui uma vontade necessária
+Premissa e Estado se contradizem materialmente
 primeiro ponto aberto não pode ser identificado
 fato estrutural indispensável não possui fonte
-Estado já canonizou uma decisão que continua aberta
-Mesa de criação relevante continua pendente
+Estado canonizou decisão ainda aberta
+Mesa relevante continua pendente
+o fluxo depende de um Juiz para decidir resultado material
 ```
 
-Resultado:
-
 ```text
-AUDITORIA
-→ BLOQUEADA
+AUDITORIA: BLOQUEADA
 → não executar START.
 ```
 
 ## NÃO BLOQUEANTE
-
-Pode ser corrigido mecanicamente ou deixado para surgir depois.
 
 Exemplos:
 
@@ -388,16 +384,14 @@ sem ficha de figurante
 sem arco futuro
 sem antagonista
 sem módulo opcional
-nome de seção inconsistente mas significado inequívoco
-padrão operacional ainda não copiado para README
+rótulo antigo com significado inequívoco
+padrão operacional ainda não copiado ao README
 ```
 
-Resultado:
-
 ```text
-→ corrigir automaticamente quando for puramente mecânico e seguro;
+→ corrigir mecanicamente quando seguro
 OU
-→ registrar como observação sem impedir START.
+→ deixar como observação.
 ```
 
 > **Não transformar preferência editorial em bloqueio operacional.**
@@ -406,16 +400,15 @@ OU
 
 # Correção automática segura
 
-A Auditoria pode corrigir sem perguntar quando a mudança **não decide conteúdo autoral novo**.
-
-Exemplos:
+Pode corrigir sem perguntar quando não cria decisão autoral nova:
 
 ```text
-registrar MESA: SOB DEMANDA quando nenhum valor especial foi escolhido;
-registrar INDICADOR: SILENCIOSO quando nenhum valor especial foi escolhido;
-corrigir referência de arquivo claramente quebrada;
-normalizar cabeçalho ou rótulo sem mudar significado;
-remover placeholder que deveria ter sido substituído por informação já aprovada;
+registrar MESA: SOB DEMANDA como padrão
+registrar INDICADOR: SILENCIOSO como padrão
+normalizar NARRADOR / JUIZ → NARRADOR
+corrigir referência de arquivo claramente quebrada
+normalizar cabeçalho
+remover placeholder substituível por informação já aprovada
 ```
 
 Não corrigir silenciosamente:
@@ -428,10 +421,9 @@ poder
 passado
 fato de mundo
 trajetória futura
+resultado importante
 primeira decisão de personagem
 ```
-
-se isso exigir escolha autoral.
 
 ```text
 CORREÇÃO MECÂNICA
@@ -445,20 +437,21 @@ DECISÃO AUTORAL
 
 # Quando perguntar ao Diretor
 
-Somente perguntar quando houver uma falha bloqueante cuja correção exija decisão que realmente pertence ao Diretor.
+Somente quando houver bloqueio cuja correção exija decisão autoral real.
 
 Exemplo:
 
 ```text
-Estado diz que Ana e Bruno já são amigos.
-Ficha / Premissa diz que começam como desconhecidos.
+Estado
+→ Ana e Bruno já são amigos.
+
+Premissa
+→ começam como desconhecidos.
 ```
 
-A IA não escolhe uma versão silenciosamente.
+A IA apresenta a contradição e pergunta qual versão prevalece.
 
-Ela apresenta a contradição de forma curta e pergunta qual deve prevalecer.
-
-Não despejar uma lista de vinte verificações para o Diretor confirmar.
+Não despejar o checklist inteiro para confirmação.
 
 > **A Auditoria trabalha sozinha até encontrar uma decisão que não pode legitimamente tomar.**
 
@@ -466,30 +459,24 @@ Não despejar uma lista de vinte verificações para o Diretor confirmar.
 
 # Operação pendente
 
-Se a Auditoria encontrar uma Mesa, Auditoria anterior ou criação ainda pendente que precisa ser resolvida antes da Ficção:
+Se existir Mesa, Auditoria anterior ou criação ainda pendente:
 
 ```text
 operacao.md
-→ preservar o estado operacional.
-```
+→ preserva o estado operacional.
 
-Nesse caso:
-
-```text
-STATUS da preparação
+STATUS
 → continua EM PREPARAÇÃO.
 
 START
 → não executar ainda.
 ```
 
-Depois da resolução, rodar novamente apenas as verificações afetadas.
+Depois da resolução, revisar apenas verificações afetadas.
 
 ---
 
-# Resultado da Auditoria
-
-Usar conceitualmente:
+# Resultado
 
 ```text
 AUDITORIA: APROVADA
@@ -498,80 +485,68 @@ AUDITORIA: BLOQUEADA
 
 ## APROVADA
 
-Significa:
-
 ```text
 fontes suficientes
 +
 sem contradição bloqueante conhecida
 +
-autoridades reconstruíveis
+autorias reconstruíveis
++
+Narrador corretamente configurado sem poder de Juiz
 +
 primeiro ponto aberto identificável
-+
-nenhuma decisão necessária foi tomada pela autoridade errada
 ```
 
-Então atualizar no `README.md`:
+Então:
 
 ```text
 STATUS
 → PRONTA
 ```
 
-E seguir para `START`.
-
 ## BLOQUEADA
 
-Significa que existe pelo menos uma falha que impede execução correta.
-
-A IA deve informar somente:
+Informar apenas:
 
 ```text
 o bloqueio real
-por que ele impede o START
+por que impede START
 o que precisa ser decidido ou corrigido
 ```
 
-Não usar a Auditoria para reabrir decisões já aprovadas.
+Não reabrir decisões já aprovadas.
 
 ---
 
 # Forma recomendada de resposta
 
-Quando tudo estiver correto:
+Quando aprovada:
 
 ```text
 Auditoria concluída. A obra está reconstruível e o primeiro ponto aberto está claro.
 STATUS → PRONTA.
 ```
 
-Não é necessário mostrar todo o checklist salvo se o Diretor pedir.
-
-Quando houver bloqueio:
-
-```text
-A preparação tem um bloqueio: o Estado inicial coloca Ana e Bruno como desconhecidos, mas a ficha de Ana registra Bruno como amigo de infância. Preciso saber qual versão deve prevalecer antes do START.
-```
+Quando bloqueada, apresentar apenas o problema concreto.
 
 ---
 
 # Critério de conclusão
 
-Antes de aprovar, a IA deve conseguir responder internamente:
-
 ```text
-[ ] uma nova IA reconhece a obra pelo README?
-[ ] as personagens necessárias são reconstruíveis?
-[ ] cada vontade necessária possui autoridade e executor definidos?
-[ ] Direção preserva somente o que realmente foi fechado?
-[ ] políticas operacionais estão definidas ou usam padrões válidos?
-[ ] mundo necessário está preservado ou legitimamente não é necessário?
-[ ] Estado inicial representa realidade, não roteiro?
+[ ] README reconhece a obra?
+[ ] personagens necessárias são reconstruíveis?
+[ ] cada vontade possui autoridade e executor?
+[ ] Narrador está configurado sem função de Juiz?
+[ ] Direção preserva só o que foi fechado?
+[ ] políticas estão definidas ou usam padrões?
+[ ] mundo necessário está preservado ou legitimamente dispensado?
+[ ] Estado representa realidade, não roteiro?
 [ ] primeiro ponto aberto está claro?
 [ ] sabemos quem possui a próxima autoria?
+[ ] resultado material aberto irá à Mesa em vez de sentença escondida?
 [ ] nenhuma proposta pendente contaminou a Ficção?
-[ ] não existe contradição bloqueante conhecida entre as fontes?
+[ ] não há contradição bloqueante conhecida?
 ```
 
 Se sim:
@@ -579,11 +554,11 @@ Se sim:
 ```text
 AUDITORIA: APROVADA
 STATUS: PRONTA
-→ próxima etapa: START
+→ START
 ```
 
 ---
 
 # Regra final
 
-> **A Auditoria de Preparação não exige uma história planejada; exige uma história reconstruível. Ela verifica se as fontes permitem começar sem inventar fatos necessários, misturar autoridades ou canonizar decisões ainda abertas. Corrige sozinha o que for puramente mecânico, devolve ao Diretor apenas bloqueios autorais reais e, quando tudo estiver suficiente, marca a obra como PRONTA para o START.**
+> **A Auditoria exige uma história reconstruível, não uma história planejada. Ela confirma também que o W4D atual está sendo usado: sem Juiz permanente, sem sentença causal escondida e sem RNG universal. Resultados materiais abertos continuam sendo questões de autoria e podem voltar à Mesa.**
