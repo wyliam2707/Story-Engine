@@ -2,19 +2,17 @@
 
 No W4D, `campanha` é o nome técnico atual do espaço persistente de uma obra.
 
-Este arquivo define **como materializar e completar o workspace persistente** de uma nova história.
+Este arquivo define **como materializar e completar o workspace persistente**.
 
-Para uma IA começando do zero, ele não substitui `10-INICIAR-HISTORIA-COM-IA.md`.
+Para criação conduzida por IA, ele complementa `10-INICIAR-HISTORIA-COM-IA.md`; não substitui o processo autoral.
 
-> **Primeiro construir a identidade da obra. Depois criar seu destino. Só então completar as fontes necessárias.**
+> **Primeiro decidir. Depois persistir. Não criar arquivos para preencher uma árvore ideal.**
 
 ---
 
-# Condição para criar a pasta
+# Quando a pasta nasce
 
-No ramo `NOVA HISTÓRIA`, a pasta não nasce no BOOT, na Premissa ou durante Estilo/Tom.
-
-Antes de criar:
+No ramo `NOVA HISTÓRIA`, a pasta nasce somente depois de:
 
 ```text
 PREMISSA → APROVADA
@@ -25,17 +23,13 @@ SLUG → definido e sem conflito
 
 Seguir `14-CRIACAO-NOME-E-DESTINO.md`.
 
-Só então criar:
+Criar primeiro:
 
 ```text
 campanhas/<slug>/README.md
 ```
 
----
-
-# README âncora
-
-No nascimento do workspace, registrar somente decisões já aprovadas:
+Conteúdo mínimo inicial:
 
 ```text
 # [NOME]
@@ -50,18 +44,11 @@ STATUS
 [Resumo aprovado.]
 ```
 
-Não preencher antecipadamente:
-
 ```text
-Personagens ainda não aprovadas
-Cadeiras ainda não definidas
-Personagem do Diretor ainda não escolhido
-módulos ainda não discutidos
-Estado inicial ainda não construído
-mundo ainda aberto
+DESTINO CRIADO
+≠ PREPARAÇÃO CONCLUÍDA
+≠ START
 ```
-
-> **O README nasce como âncora; cresce conforme a preparação produz decisões legítimas.**
 
 ---
 
@@ -71,45 +58,41 @@ Depois que o workspace existe:
 
 ```text
 material aprovado
-→ salvar na fonte canônica correta.
+→ fonte canônica correta.
 ```
 
 Exemplos:
 
 ```text
-Personagens centrais aprovadas
+Personagens centrais
 → README.md
 
 ficha aprovada
-→ personagens/<nome>.md
+→ personagens/<slug-da-personagem>.md
 
-Autoridades aprovadas
+Autoridades / políticas
 → README.md
 
-Direção suficiente
+Direção
 → direcao.md
 
-ponto inicial definido
+Mundo necessário
+→ mundo/<assunto>.md
+
+Estado atual
 → estado.md
 
-fato externo estável necessário
-→ mundo/
-
-Mesa/Auditoria/criação pendente
+Mesa / Auditoria / criação pendente que precisa sobreviver
 → operacao.md
 ```
 
-Não criar arquivo vazio ou inventado para completar árvore ideal.
-
-```text
-DESTINO CRIADO
-≠ PREPARAÇÃO CONCLUÍDA
-≠ START
-```
+Não criar arquivo vazio nem inventar conteúdo apenas para completar estrutura.
 
 ---
 
-# Estrutura esperada quando necessária
+# Estrutura possível
+
+Conforme a obra realmente precisar:
 
 ```text
 campanhas/<slug>/
@@ -118,7 +101,7 @@ campanhas/<slug>/
 ├── estado.md
 ├── personagens/
 ├── operacao.md             # somente quando houver operação transitória real
-├── mundo/                  # somente quando necessário
+├── mundo/                  # somente quando houver mundo necessário persistente
 ├── arco.md                 # somente com Arco Preparado ativo
 ├── oposicao.md             # somente com Opositor ativo
 └── livro/                  # somente com Livro ativo
@@ -126,19 +109,13 @@ campanhas/<slug>/
 
 A ausência de fonte opcional não é erro.
 
-A ausência de fonte necessária no START é problema de preparação.
-
 ---
 
 # Passo 1 — Personagens centrais
 
-Depois de Nome/Destino, seguir:
+Seguir `15-CRIACAO-PERSONAGENS-CENTRAIS.md`.
 
-```text
-15-CRIACAO-PERSONAGENS-CENTRAIS.md
-```
-
-Registrar no README apenas o núcleo curto aprovado.
+Registrar no `README.md` somente a composição curta aprovada.
 
 ```text
 README
@@ -160,9 +137,9 @@ Seguir:
 modelos/FICHA.md
 ```
 
-Construir preferencialmente uma personagem por vez.
+Preferir uma personagem por vez.
 
-Destino:
+Salvar somente quando aprovada:
 
 ```text
 campanhas/<slug>/personagens/<slug-da-personagem>.md
@@ -173,27 +150,25 @@ FICHA SUFICIENTE
 ≠ FICHA EXAUSTIVA
 ```
 
-Não criar trauma, segredo, fraqueza, poder, equipamento ou drama apenas para preencher modelo.
-
-Se a criação ainda não aprovada precisar persistir:
+Se uma ficha ainda não aprovada precisar sobreviver à perda de contexto:
 
 ```text
 operacao.md
-→ preserva a etapa pendente.
+→ preserva a criação pendente.
 ```
 
 ---
 
 # Passo 3 — Autoridades, Cadeiras e Executores
 
-Depois das fichas iniciais suficientes, seguir:
+Seguir:
 
 ```text
 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
 03-CADEIRAS-E-EXECUTORES.md
 ```
 
-Ordem:
+Ordem conceitual:
 
 ```text
 PESSOA
@@ -202,21 +177,15 @@ PESSOA
 → EXECUTOR
 ```
 
-Registrar no README, conforme aprovado:
+Registrar no `README.md`, conforme aprovado:
 
 ```text
 DIRETOR
 NARRADOR / JUIZ
-PERSONAGEM DO DIRETOR, quando houver
-CADEIRAS INICIAIS
-EXECUTOR DE CADA AUTORIDADE
-limites de delegação, quando existirem
-```
-
-```text
-MESMO EXECUTOR
-≠ MESMA CADEIRA
-≠ MESMA CONSCIÊNCIA FICCIONAL
+PERSONAGEM DO DIRETOR, se houver
+CADEIRAS necessárias
+EXECUTOR de cada autoridade
+limites de delegação, quando houver
 ```
 
 ```text
@@ -228,7 +197,7 @@ DELEGAR EXECUÇÃO
 
 # Passo 4 — Direção
 
-Depois das Autoridades iniciais, seguir:
+Seguir:
 
 ```text
 18-CRIACAO-DIRECAO.md
@@ -236,54 +205,32 @@ Depois das Autoridades iniciais, seguir:
 modelos/DIRECAO.md
 ```
 
-A Direção inicial não exige planejamento do futuro.
-
-Ela consolida somente:
+Criar:
 
 ```text
-Premissa aprovada
-Estilo / Tom aprovado
-fatos estruturais já fechados
-decisões persistentes realmente tomadas, se houver
-decisões locais ainda ativas, se houver
+campanhas/<slug>/direcao.md
 ```
 
-Se o Diretor não decidiu trajetórias futuras:
+A Direção pode ser mínima.
 
 ```text
-Direções Persistentes
-→ nenhuma além das premissas já estabelecidas.
-
-Direções Ativas
-→ nenhuma.
-
-Espaço Aberto
-→ o desenvolvimento permanece aberto fora do que foi explicitamente fechado.
+DIRETOR NÃO DECIDIU O FUTURO
+→ NÃO PREENCHER O FUTURO.
 ```
 
-Isso é suficiente para o início.
-
-> **Direção não é plano obrigatório. É memória do que ainda governa a obra.**
-
-Não exigir:
-
-```text
-final
-arco completo
-revelações futuras
-marcos de romance
-estrutura de capítulos
-```
-
-apenas para considerar `direcao.md` válido.
-
-A Direção pode crescer enquanto a história é escrita.
+A Direção cresce conforme decisões autorais reais surgem.
 
 ---
 
-# Passo 5 — Políticas operacionais
+# Passo 5 — Políticas Operacionais
 
-Registrar no `README.md` quando necessário:
+Seguir:
+
+```text
+19-CRIACAO-POLITICAS-OPERACIONAIS.md
+```
+
+Registrar no `README.md`:
 
 ```text
 POLÍTICA DE MESA
@@ -291,50 +238,48 @@ POLÍTICA DE INDICADOR OPERACIONAL
 MÓDULOS ATIVOS
 ```
 
-## Política de Mesa
-
-Conforme `00-ARQUITETURA-E-MESA.md`:
+Padrões:
 
 ```text
 MESA: SOB DEMANDA
-MESA: CONSULTAR PROPOSTAS
-MESA: CONSULTA FORTE
-```
-
-Padrão:
-
-```text
-MESA: SOB DEMANDA
-```
-
-## Indicador operacional
-
-```text
 INDICADOR OPERACIONAL: SILENCIOSO
-INDICADOR OPERACIONAL: VISÍVEL
+MÓDULOS: INATIVOS salvo escolha ou necessidade real
 ```
 
-Padrão:
-
-```text
-SILENCIOSO
-```
+Não transformar os padrões em questionário obrigatório.
 
 ---
 
-# Passo 6 — Mundo necessário
+# Passo 6 — Mundo Necessário
 
-Criar `mundo/` somente quando fatos externos estáveis precisam persistir para a abertura ou continuidade.
+Seguir:
 
-Não construir enciclopédia por obrigação.
+```text
+20-CRIACAO-MUNDO-NECESSARIO.md
+```
 
-Detalhes neutros podem surgir por criação emergente conforme `02-RESOLUCAO.md`.
+Resultado legítimo:
+
+```text
+MUNDO NECESSÁRIO
+→ NENHUM ANTES DO START
+```
+
+Quando houver fatos externos estáveis realmente necessários, criar:
+
+```text
+campanhas/<slug>/mundo/<assunto>.md
+```
+
+Não construir enciclopédia por hábito.
+
+Cânone externo permitido pode preencher lacunas; decisões locais da obra prevalecem.
 
 ---
 
 # Passo 7 — Mesa inicial, quando necessária
 
-Durante a preparação:
+Durante a preparação, Mesa pode ser usada quando já houver informação suficiente para consulta significativa.
 
 ```text
 DIRETOR PROPÕE
@@ -355,24 +300,24 @@ operacao.md
 
 # Passo 8 — Estado inicial
 
-Criar `estado.md` apenas quando o ponto inicial da Ficção estiver definido.
+Criar `estado.md` somente quando o ponto inicial estiver definido.
 
 Usar `modelos/ESTADO.md`.
 
-Registrar, quando pertinente:
+Preservar, quando pertinente:
 
 ```text
 momento
 local
 presenças
 condições relevantes
-intenções persistentes já existentes
+intenções persistentes existentes
 processos e prazos
 último fato estabelecido
 primeiro ponto aberto
 ```
 
-Antes do início:
+Antes da primeira cena:
 
 ```text
 Último fato estabelecido
@@ -383,24 +328,9 @@ Não colocar hipótese de Mesa ou futuro desejado no Estado.
 
 ---
 
-# Passo 9 — Módulos opcionais
+# Passo 9 — Auditoria de início
 
-Ativar somente o que a obra realmente usa:
-
-```text
-modulos/ARCO-PREPARADO.md
-modulos/OPOSITOR.md
-modulos/ROMANCE.md
-modulos/LIVRO.md
-```
-
-Módulo inativo não produz arquivo nem comportamento por hábito.
-
----
-
-# Passo 10 — Auditoria de início
-
-Antes da Ficção, confirmar:
+Antes do START, confirmar:
 
 ```text
 [ ] nome e slug definidos;
@@ -412,13 +342,14 @@ Antes da Ficção, confirmar:
 [ ] Cadeiras e executores necessários estão definidos;
 [ ] Personagem do Diretor está corretamente atribuída, se houver;
 [ ] delegações não transferiram vontade por acidente;
-[ ] direcao.md preserva o que foi decidido e deixa o restante aberto;
+[ ] direcao.md é suficiente sem inventar futuro;
 [ ] política de Mesa está definida ou usa SOB DEMANDA;
 [ ] indicador está definido ou usa SILENCIOSO;
+[ ] módulos ativos possuem função real;
+[ ] mundo necessário foi definido ou legitimamente considerado desnecessário;
 [ ] estado.md possui último fato e primeiro ponto aberto;
 [ ] hipóteses não foram registradas como fatos;
-[ ] operacao.md existe somente se houver operação real pendente;
-[ ] módulos ativos possuem função real;
+[ ] operacao.md existe somente se houver operação real pendente.
 ```
 
 Quando suficiente:
@@ -452,4 +383,4 @@ Não existe obrigação de começar por ação, conflito ou perigo.
 
 # Regra final
 
-> **A pasta nasce quando Nome e Destino estão definidos. Depois, o W4D identifica quem sustenta a obra, constrói cada pessoa, configura autoria e execução, preserva apenas a Direção realmente decidida e deixa o futuro aberto quando o Diretor prefere descobri-lo escrevendo. START inicia a Ficção; a preparação não precisa prever a história inteira.**
+> **O workspace cresce junto com a preparação e com a própria história. O W4D persiste apenas decisões e fatos que realmente precisam sobreviver: fichas preservam pessoas, Direção preserva decisões autorais, políticas configuram o motor, mundo preserva estrutura externa necessária e Estado preserva o presente. START só acontece quando existe base suficiente para executar corretamente.**
