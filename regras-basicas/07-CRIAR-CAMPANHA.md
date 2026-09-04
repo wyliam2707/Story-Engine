@@ -112,6 +112,8 @@ FICHA
 → quem cada pessoa é.
 ```
 
+Não antecipar configuração de Cadeiras quando ela ainda não foi dada.
+
 ---
 
 # Passo 2 — Fichas
@@ -317,7 +319,7 @@ ESTADO INICIAL
 ≠ PRIMEIRA CENA PRÉ-ESCRITA
 ```
 
-O primeiro ponto aberto deve preservar a próxima autoria correta.
+O primeiro ponto aberto deve preservar a próxima autoria ou identificar continuidade evidente.
 
 ---
 
@@ -354,11 +356,32 @@ AUDITORIA: BLOQUEADA
 STATUS → EM PREPARAÇÃO
 ```
 
+```text
+PRONTA
+≠ FICÇÃO JÁ INICIADA
+```
+
 ---
 
-# START
+# Passo 10 — START
 
-Somente depois da Auditoria aprovada:
+Seguir:
+
+```text
+23-START.md
+```
+
+START ocorre depois da Auditoria aprovada **e quando existe autorização semântica para começar a Ficção**.
+
+```text
+Diretor já disse "crie e comece" / "quando estiver pronta, pode iniciar"
+→ não pedir nova confirmação ritual.
+
+Diretor pediu somente preparação
+→ parar em PRONTA até autorização de início.
+```
+
+Ao executar:
 
 ```text
 START
@@ -366,23 +389,41 @@ START
 → reconstruir Cadeiras separadamente
 → restaurar operação pendente, se houver
 → caso contrário identificar primeiro ponto aberto
-→ identificar próxima autoria
+→ identificar próxima autoria ou função
 → iniciar a camada correta
 ```
 
-Uma Cadeira IA disponível pode tomar iniciativa no espaço aberto.
-
-Se surgir resultado material importante ainda não fechado:
+Então:
 
 ```text
-→ Mesa, quando necessária
-→ não Juiz / RNG invisível
+Cadeira IA disponível
+→ decide e continua.
+
+Personagem do Diretor / executor externo indisponível
+→ Narrador pode apresentar a moldura inicial
+→ parar antes da vontade necessária.
+
+consequência ordinária/evidente
+→ Narrador apresenta e continua.
+
+resultado material importante ainda aberto
+→ Mesa, quando necessária.
 ```
 
+Não usar Juiz ou RNG invisível.
+
 Não existe obrigação de começar por ação, conflito ou perigo.
+
+Quando a primeira Ficção realmente ocorrer:
+
+```text
+STATUS
+PRONTA
+→ EM EXECUÇÃO
+```
 
 ---
 
 # Regra final
 
-> **O workspace cresce junto com a preparação. Fichas preservam pessoas; Direção preserva decisões autorais; políticas configuram o motor; mundo preserva fatos externos necessários; Estado preserva a âncora presente; e a Mesa substitui a necessidade de um Juiz para resultados autorais importantes. O Narrador apresenta a versão executável.**
+> **O workspace cresce junto com a preparação. Fichas preservam pessoas; Direção preserva decisões autorais; políticas configuram o motor; mundo preserva fatos externos necessários; Estado preserva a âncora presente; a Auditoria verifica reconstruibilidade; e o START abre a Ficção somente quando ela está pronta e autorizada. A Mesa substitui a necessidade de um Juiz para resultados autorais importantes, enquanto o Narrador apresenta a versão executável.**
