@@ -12,7 +12,7 @@ Comédia romântica universitária em formato de fanfic, centrada em Kara Zor-El
 DIRETOR
 Executor: HUMANO
 
-NARRADOR / JUIZ
+NARRADOR
 Executor: IA
 
 PERSONAGEM DO DIRETOR
@@ -67,7 +67,7 @@ PERSONAGEM PODERIA PARTICIPAR
 PERSONAGEM PRETENDE PARTICIPAR
 ```
 
-O Narrador/Juiz cruza Direção, fatos e intenções abertas e sentencia a consequência.
+O Narrador apresenta Direção, fatos, decisões das Cadeiras e consequências evidentes em uma Ficção contínua. Se um resultado materialmente importante permanecer realmente aberto, ele não escolhe secretamente um vencedor: a questão pode voltar à Mesa.
 
 ## Daniel como motor de cena
 
@@ -97,7 +97,7 @@ Aplicar a definição normativa de:
 regras-basicas/00-ARQUITETURA-E-MESA.md
 ```
 
-Nesta história, uma escolha do Diretor que diga respeito de modo material à personalidade, vontade, reação ou forma de agir de uma personagem pode receber **opinião breve da Cadeira afetada e parecer do Narrador antes da execução**, mesmo quando a frase do Diretor já soa como determinação.
+Nesta história, uma escolha do Diretor que diga respeito de modo material à personalidade, vontade, reação ou forma de agir de uma personagem pode receber **opinião breve da Cadeira afetada e Parecer do Narrador antes da execução**, mesmo quando a frase do Diretor já soa como determinação.
 
 A consulta existe para oferecer resistência informativa, não veto.
 
@@ -106,10 +106,20 @@ CADEIRA OPINA
 → pode fazer o Diretor reconsiderar.
 
 NARRADOR EMITE PARECER
-→ pode apontar coerência, tensão ou consequência.
+→ pode apontar coerência, tensão, condição ou consequência.
 
 DIRETOR CONFIRMA / ALTERA / CANCELA
 → continua sendo a decisão autoral final.
+```
+
+A Mesa também pode construir uma versão diferente da proposta inicial que as Cadeiras consigam sustentar.
+
+```text
+RESULTADO FECHADO PELO DIRETOR
+→ não reabrir.
+
+CAMINHO RESTANTE
+→ Cadeiras executam segundo suas fichas e conhecimento legítimo.
 ```
 
 Enquanto a Mesa estiver aberta, nada discutido vira ficção até o Diretor mandar executar.
@@ -118,10 +128,42 @@ Se o Diretor disser `sem consulta`, `faça assim mesmo`, `já decidi`, `pode faz
 
 Mesmo Daniel pode receber `CADEIRA CONSULTIVA` durante a Mesa sem transferir sua vontade do Diretor para a IA.
 
+## Narrador sem Juiz
+
+O W4D atual não usa `Juiz` permanente, teste universal, dificuldade universal ou RNG invisível.
+
+Nesta história:
+
+```text
+NARRADOR
+→ apresenta a Ficção;
+→ preserva continuidade;
+→ aplica consequências ordinárias e evidentes;
+→ não sentencia resultados materiais abertos.
+```
+
+Quando uma questão importante permanece aberta e não é evidente, ela pode ir à Mesa.
+
+Isso vale igualmente para:
+
+```text
+romance
+combate
+investigação
+perseguição
+conflito social
+```
+
 ## Indicador operacional
 
 ```text
 INDICADOR OPERACIONAL: VISÍVEL
+```
+
+Formato atual, quando usado:
+
+```text
+[W4D: OK | Narrador ✓ | Cadeiras IA ✓]
 ```
 
 O indicador pode ser usado de forma curta durante execução e reancoragem. Não entra no Livro.
@@ -166,7 +208,7 @@ Um fechamento operacional pode gerar um capítulo, vários capítulos ou consoli
 
 Ao fechar capítulos, preservar marcações como `NARRADOR`, nome da personagem e `PERSONAGEM — pensamento` quando a origem da fala, ação ou interioridade estiver estabelecida.
 
-Direção, Mesa, pareceres, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
+Direção, Mesa, Parecer, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
 
 ## Cânone externo
 
