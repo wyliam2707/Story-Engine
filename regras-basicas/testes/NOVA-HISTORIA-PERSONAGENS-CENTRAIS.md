@@ -133,25 +133,35 @@ Esperado:
 
 ```text
 não perguntar novamente quem o Diretor controla
-preservar Daniel como Personagem do Diretor na configuração futura
-tratar Kara como provável Cadeira IA salvo instrução diferente
+preservar essa informação para a configuração futura
+não colocar a autoridade dentro da ficha
 ```
 
-Falha se a IA atribuir vontade de Daniel à IA por padrão.
+Falha se a IA esquecer a informação ou atribuir vontade de Daniel à IA por padrão.
 
 ---
 
-# Teste 8 — Personagem do Diretor ainda não está clara
+# Teste 8 — Autoridade ainda não está clara
 
-Há duas personagens centrais e a próxima etapa de fichas exigirá saber a distribuição de autoridade.
+Há duas personagens centrais, mas o Diretor ainda não disse quem controlará cada uma.
 
 Esperado:
 
 ```text
-perguntar de forma direta se o Diretor quer controlar alguma delas ou deixar as Cadeiras com a IA
+não interromper esta etapa para configurar autoridades
+aprovar o elenco central se ele já estiver suficiente
+seguir para FICHAS
+somente depois das fichas configurar Cadeiras e Executores em 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
 ```
 
-Não abrir questionário maior sobre todas as autoridades ainda não necessárias.
+Falha se a IA disser que precisa saber quem controla cada personagem antes de poder construir suas fichas.
+
+```text
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
+```
 
 ---
 
@@ -252,4 +262,13 @@ personagem
 executor da Cadeira
 ```
 
-> **O objetivo é aprovar um núcleo de pessoas suficiente para a obra começar a ser construída, sem transformar funções narrativas em personagens prontas nem antecipar um elenco inteiro que ainda não precisa existir.**
+E preserva a ordem:
+
+```text
+PESSOA
+→ FICHA
+→ CADEIRA
+→ EXECUTOR
+```
+
+> **O objetivo é aprovar um núcleo de pessoas suficiente para a obra começar a ser construída, sem transformar funções narrativas em personagens prontas nem antecipar autoridades que pertencem à etapa posterior.**
