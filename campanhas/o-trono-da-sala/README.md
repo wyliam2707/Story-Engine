@@ -47,3 +47,18 @@ PERSONAGEM DO DIRETOR com execução compartilhada.
 - parecer consultivo sobre coerência de Crio pode ser fornecido pela IA quando solicitado.
 
 A execução compartilhada não transfere a autoridade final do Diretor sobre a vontade de Crio quando ele a exercer diretamente.
+
+## Política de Mesa
+
+MESA: SOB DEMANDA
+
+## Indicador operacional
+
+INDICADOR OPERACIONAL: SILENCIOSO
+
+## Módulos
+
+- Arco Preparado: INATIVO
+- Opositor: INATIVO
+- Romance: ATIVO
+- Livro: INATIVO
