@@ -476,15 +476,25 @@ A intimidade adquirida na quarta também deixa de parecer uma fronteira extraord
 
 Ela simplesmente existe agora.
 
-A noite pertence aos dois sem precisar de narração especial.
+Mais tarde, o filme termina sem que nenhum dos dois preste muita atenção aos créditos. A sala fica escura, a conversa diminui e o sábado segue sem precisar transformar a proximidade em novo acontecimento.
 
-No domingo, a manhã começa tarde.
+Na manhã de domingo, Kara acorda atravessada sobre Daniel, com o cabelo espalhado pelo peito dele e uma perna presa entre as dele. A camiseta que usou no sábado está no encosto da cadeira; outra peça ficou perto da cama. Nada ali exige explicação.
 
-Kara ocupa metade da cama e uma quantidade estatisticamente questionável do cobertor.
+Daniel tenta recuperar uma parte do cobertor.
 
-Daniel reclama.
+Kara, ainda de olhos fechados, puxa de volta.
 
-Ela nega qualquer envolvimento.
+**Daniel:** — Você está acordada.
+
+**Kara:** — Não há provas.
+
+**Daniel:** — Você acabou de roubar o cobertor conscientemente.
+
+**Kara:** — Reflexo.
+
+Ela se aproxima mais e encerra a discussão usando o peito dele como travesseiro.
+
+A manhã começa tarde.
 
 Café.
 
