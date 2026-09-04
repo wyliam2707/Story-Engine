@@ -1,36 +1,40 @@
 # 06 — Registro e Retomada
 
-O Registro existe para que a campanha continue correta depois que a conversa, o capítulo ou o contexto técnico terminam.
+O Registro existe para que uma história continue correta depois que a conversa, o capítulo ou o contexto técnico terminam.
 
 > **Registrar preserva. Não cria.**
 
 ## Uma verdade, uma fonte principal
 
-A estrutura recomendada de campanha é:
+A estrutura recomendada é:
 
 ```text
 campanhas/<nome>/
 ├── README.md
 ├── direcao.md
 ├── estado.md
+├── operacao.md             # somente quando houver operação transitória que precise persistir
 ├── personagens/
-├── mundo/                 # quando necessário
-├── arco.md                # somente com módulo Arco Preparado
-├── oposicao.md            # somente com módulo Opositor
-└── livro/                 # somente com módulo Livro
+├── mundo/                  # quando necessário
+├── arco.md                 # somente com módulo Arco Preparado
+├── oposicao.md             # somente com módulo Opositor
+└── livro/                  # somente com módulo Livro
 ```
 
 Cada fonte responde a uma pergunta diferente.
 
 ```text
 README.md
-→ quais autoridades, executores e módulos esta campanha usa?
+→ quais autoridades, executores, políticas e módulos esta obra usa?
 
 direcao.md
 → que história o Diretor está conduzindo e o que ainda está autoralmente fechado?
 
 estado.md
 → como a realidade ficcional está agora?
+
+operacao.md
+→ existe uma Mesa, Auditoria ou outra operação transitória ainda pendente?
 
 personagens/<nome>.md
 → quem é cada personagem?
@@ -48,7 +52,9 @@ livro/
 → que ficção já aconteceu, organizada em capítulos, quando o módulo Livro estiver ativo?
 ```
 
-## Direção e Estado são diferentes
+> **Direção preserva condução. Estado preserva realidade. Operação preserva processo pendente. Livro preserva passado.**
+
+## Direção, Estado e Operação são diferentes
 
 Não misturar:
 
@@ -58,6 +64,9 @@ DIREÇÃO
 
 ESTADO
 → o que já é verdade agora dentro da ficção.
+
+OPERAÇÃO
+→ o que a Mesa ou o sistema ainda está discutindo/verificando fora da ficção.
 ```
 
 Exemplo:
@@ -68,26 +77,16 @@ direcao.md
 
 estado.md
 → A e B ainda estão lutando no corredor.
+
+operacao.md
+→ Mesa aberta discutindo se a forma da derrota deve envolver rendição ou fuga.
 ```
 
-Enquanto a derrota não aconteceu, ela não entra no Estado como fato consumado.
-
-Depois que acontecer:
-
-```text
-estado.md
-→ registra a nova situação presente, se ainda relevante.
-
-direcao.md
-→ remove a Direção local já consumida.
-
-livro/
-→ pode registrar como aconteceu, se o módulo Livro estiver ativo.
-```
+Enquanto a forma ainda está apenas em Mesa, ela não entra no Estado nem no Livro.
 
 ## Estado
 
-`estado.md` deve conter somente o necessário para continuar corretamente agora:
+`estado.md` deve conter somente o necessário para continuar corretamente a realidade ficcional:
 
 ```text
 momento
@@ -96,7 +95,7 @@ presenças
 posições relevantes
 condições temporárias
 indisponibilidade de equipamentos ou recursos
-intenções persistentes
+intenções persistentes já existentes na ficção
 processos e prazos próximos
 último fato estabelecido
 primeiro ponto ainda aberto
@@ -104,7 +103,64 @@ primeiro ponto ainda aberto
 
 Não é diário completo.
 
-A ficha não duplica esse estado.
+A ficha não duplica esse Estado.
+
+## Estado operacional — operacao.md
+
+`operacao.md` é opcional e **não canônico**.
+
+Use-o somente quando uma operação fora da ficção precisa sobreviver a:
+
+```text
+novo chat
+perda de contexto
+checkpoint
+pausa longa
+mudança de executor
+retomada posterior
+```
+
+Casos típicos:
+
+```text
+Mesa de Autoria ainda aberta
+Auditoria ainda pendente
+correção ainda não concluída
+handoff aguardando decisão do Diretor
+```
+
+Modelo:
+
+```text
+modelos/OPERACAO.md
+```
+
+Pode registrar:
+
+```text
+modo atual
+proposta ou questão em consulta
+Cadeiras consultadas
+opiniões condensadas
+parecer do Narrador
+fontes ainda aguardadas
+quem precisa decidir a próxima etapa
+âncora do último fato ficcional
+```
+
+Não colocar nele invenções novas para “lembrar depois”. Ele preserva somente uma operação já iniciada.
+
+```text
+OPERACAO.md SABE
+≠ PERSONAGEM SABE
+
+OPERAÇÃO PENDENTE
+≠ FICÇÃO
+```
+
+Quando a Mesa for cancelada ou executada, quando a Auditoria terminar ou quando a operação deixar de existir, limpar o arquivo ou remover o conteúdo transitório.
+
+> **Operação preserva a pergunta; não transforma a resposta em fato.**
 
 ## Livro e capítulos
 
@@ -112,7 +168,7 @@ Quando o módulo Livro estiver ativo, o Livro preserva a ficção já acontecida
 
 ```text
 livro/
-→ obra completa registrada.
+→ obra registrada.
 
 livro/001-....md
 → primeiro capítulo.
@@ -121,7 +177,7 @@ livro/002-....md
 → segundo capítulo.
 ```
 
-O capítulo registra ficção, não a Direção usada para conduzi-la.
+O capítulo registra ficção, não a Direção nem a Mesa usada para produzi-la.
 
 Entram:
 
@@ -139,6 +195,8 @@ Não entram:
 
 ```text
 Direção
+Mesa de Autoria
+Parecer
 Consulta
 Auditoria
 Análise
@@ -148,18 +206,6 @@ hipótese
 resultado aberto
 versão anulada ou refeita
 ```
-
-Quando a origem estiver estabelecida, preservar marcadores como:
-
-```text
-NARRADOR
-PERSONAGEM A
-PERSONAGEM A — pensamento
-PERSONAGEM B
-PERSONAGEM B — pensamento
-```
-
-Isso permite reconstruir o passado sem transformar conhecimento do leitor em conhecimento universal das personagens.
 
 > **O Livro preserva a ficção. Não preserva o processo autoral que ficou fora da ficção.**
 
@@ -181,11 +227,13 @@ recorte do Estado pertinente
 conhecimento que adquiriu legitimamente
 +
 fatos perceptíveis da cena
++
+Direções que realmente incidem sobre ela
 ```
 
-Conhecimento recorrente importante pode ser consolidado na ficha da personagem quando fizer parte estável de seu repertório.
+`operacao.md` pode conter informação de Mesa que nenhuma personagem conhece.
 
-O fato de um capítulo mostrar um pensamento, segredo ou narração externa não concede esse conhecimento a outra Cadeira.
+O fato de um capítulo, Direção ou Operação mostrar um segredo não concede esse conhecimento a outra Cadeira.
 
 ## Salvar
 
@@ -196,7 +244,8 @@ Ao receber pedido para salvar:
 2. identificar o que mudou;
 3. escolher a fonte correta;
 4. atualizar somente fontes afetadas;
-5. não avançar a ficção durante o salvamento.
+5. preservar operação pendente separadamente, se existir;
+6. não avançar a ficção durante o salvamento.
 ```
 
 Não promover a fato consumado:
@@ -204,13 +253,14 @@ Não promover a fato consumado:
 ```text
 intenção ainda não executada
 Direção futura
-hipótese
+proposta de Mesa
+Parecer
 plano futuro
 resultado aberto
 segredo como conhecimento de quem não o descobriu
 ```
 
-> **Salvar não joga.**
+> **Salvar não executa.**
 
 ## Fechar capítulo
 
@@ -219,20 +269,21 @@ Quando o módulo Livro estiver ativo, `fechar o capítulo` é uma operação de 
 ```text
 1. parar no último fato realmente estabelecido;
 2. reunir somente a ficção válida desde o último capítulo fechado;
-3. excluir Direção, consultas, auditorias, instruções de cena e demais metaconversas;
+3. excluir Direção, Mesa, Parecer, auditorias e demais metaconversas;
 4. preservar quem narrou, falou, agiu ou pensou quando essa origem estiver definida;
 5. salvar o novo capítulo dentro de livro/;
 6. atualizar o índice do Livro;
 7. atualizar somente as fontes vivas realmente afetadas;
-8. executar checkpoint operacional;
-9. reancorar antes de continuar.
+8. preservar operacao.md se uma operação ainda estiver legitimamente pendente;
+9. executar checkpoint operacional;
+10. reancorar antes de continuar.
 ```
 
 Não criar um acontecimento novo apenas para produzir um encerramento melhor.
 
 Se uma cena foi corrigida ou refeita, entra somente a versão final válida.
 
-> **Fechar capítulo registra onde a ficção parou. Não joga o fechamento.**
+> **Fechar capítulo registra onde a ficção parou. Não executa o fechamento.**
 
 ## Correção de cânone
 
@@ -254,6 +305,8 @@ consultar fontes
 → corrigir somente com fundamento ou nova Direção.
 ```
 
+Se a Auditoria precisar ser interrompida e retomada depois, `operacao.md` pode preservar o que ainda está pendente.
+
 ### Correção determinada
 
 Se o Diretor decide corrigir o cânone conscientemente:
@@ -268,7 +321,7 @@ versão corrigida
 
 Atualizar somente as fontes que realmente dependem da mudança.
 
-O histórico do Git pode preservar a versão técnica antiga; a campanha ativa não mantém duas verdades concorrentes.
+O histórico do Git pode preservar a versão técnica antiga; a obra ativa não mantém duas verdades concorrentes.
 
 ## Mudança permanente da personagem
 
@@ -296,46 +349,54 @@ Não produzir nova ficção antes de reconstruir o mínimo necessário.
 
 ```text
 1. ler README.md da raiz do repositório se o sistema não estiver carregado;
-2. carregar README.md da campanha;
+2. carregar README.md da obra;
 3. carregar direcao.md;
 4. carregar estado.md;
-5. carregar fichas relevantes;
-6. carregar arco.md/oposicao.md somente se ativos e pertinentes;
-7. usar capítulos anteriores apenas para reconstruir passado quando necessário, sem universalizar conhecimento;
-8. reconstruir pacotes separados das Cadeiras;
-9. restaurar intenções, processos e prazos;
-10. identificar Auditoria pendente;
-11. identificar o primeiro ponto ainda aberto;
-12. restaurar o indicador operacional da execução;
-13. confirmar explicitamente que Narrador/Juiz e Cadeiras executadas pela IA estão reconstruídos;
-14. só então continuar a ficção.
+5. carregar operacao.md se existir e estiver ativo;
+6. carregar fichas relevantes;
+7. carregar arco.md/oposicao.md somente se ativos e pertinentes;
+8. usar capítulos anteriores apenas para reconstruir passado quando necessário, sem universalizar conhecimento;
+9. reconstruir pacotes separados das Cadeiras;
+10. restaurar intenções, processos e prazos ficcionais;
+11. restaurar Mesa/Auditoria/operação pendente, se houver;
+12. identificar o primeiro ponto ainda aberto ou a decisão autoral aguardada;
+13. restaurar a política de indicador operacional;
+14. confirmar operacionalmente a reconstrução conforme a configuração da obra;
+15. só então continuar.
 ```
 
-### Confirmação operacional
+Se `operacao.md` indicar `MESA`, retomar a Mesa; não saltar diretamente para a Ficção.
 
-Depois de toda reancoragem, o executor IA deve confirmar explicitamente que o sistema foi reconstruído antes de voltar à ficção.
+## Indicador operacional
 
-Durante o jogo, cada resposta de execução deve terminar com um indicador operacional curto:
+O indicador `[W4D: ...]` é útil para depuração e reancoragem, mas não precisa aparecer em toda resposta de toda obra.
+
+A configuração pode escolher:
+
+```text
+INDICADOR OPERACIONAL: VISÍVEL
+→ mostrar status curto durante a execução conforme útil.
+
+INDICADOR OPERACIONAL: SILENCIOSO
+→ omitir em respostas normais;
+→ mostrar somente em reancoragem, erro operacional, perda de contexto ou quando solicitado.
+```
+
+Se a obra não configurar, usar `SILENCIOSO` como padrão de Story Engine.
+
+Exemplo visível:
 
 ```text
 [W4D: OK | Narrador/Juiz ✓ | Cadeiras IA ✓]
 ```
 
-Esse indicador significa que Narrador/Juiz e os pacotes separados das Cadeiras atribuídas à IA permanecem operacionais. Não significa que todas as Cadeiras estão presentes na cena.
-
-Quando existir uma decisão concreta aberta para uma Cadeira, o indicador pode especificá-la:
-
-```text
-[W4D: OK | Decisão aberta: PERSONAGEM A — Cadeira]
-```
-
-Se o executor perceber que perdeu contexto suficiente para não executar corretamente uma Cadeira, o Narrador/Juiz ou a separação entre autoridades, não deve declarar `OK` nem improvisar continuidade. Deve parar a ficção e indicar a necessidade de reancoragem.
-
-Exemplo:
+Quando existir problema real:
 
 ```text
 [W4D: REANCORAR | contexto operacional insuficiente]
 ```
+
+Mesmo no modo silencioso, uma falha que impede execução correta deve ser informada; o sistema não deve fingir `OK`.
 
 O indicador é metaconversa operacional. Não entra no Livro nem se torna fato ficcional.
 
@@ -345,6 +406,9 @@ Ao retomar:
 
 ```text
 DIRETOR SABE
+≠ PERSONAGEM SABE
+
+MESA SABE
 ≠ PERSONAGEM SABE
 
 ESTADO GLOBAL EXISTE
@@ -371,7 +435,8 @@ Um checkpoint operacional pode ser usado para limpar ruído acumulado mesmo sem 
 ```text
 PARAR
 → SALVAR FONTES VIVAS
-→ DESCARTAR HIPÓTESES E INTERPRETAÇÕES PROVISÓRIAS
+→ PRESERVAR OPERAÇÃO LEGÍTIMA AINDA PENDENTE
+→ DESCARTAR HIPÓTESES SEM VALIDADE OPERACIONAL
 → REANCORAR
 → CONTINUAR
 ```
@@ -380,4 +445,4 @@ Com o módulo Livro ativo, `fechar o capítulo` consolida primeiro a ficção do
 
 ## Regra final
 
-> **A ficha preserva a pessoa. O Estado preserva o presente. A Direção preserva a condução autoral. O mundo preserva fatos externos. O Livro preserva a ficção passada em capítulos. Reancorar reconstrói essas fontes sem transformá-las em conhecimento universal e retorna exatamente ao primeiro ponto ainda aberto.**
+> **A ficha preserva a pessoa. O Estado preserva o presente ficcional. A Direção preserva a condução autoral. A Operação preserva Mesa, Auditoria ou outra pergunta transitória sem canonizá-la. O Livro preserva o passado ficcional. Reancorar reconstrói essas fontes sem contaminar conhecimento e retorna ao ponto correto da Ficção ou da Mesa.**
