@@ -14,3 +14,4 @@ Direção, consultas, auditorias, instruções de cena e demais metaconversas n�
 006 — Vínculo Continuado
 007 — Variável Nova
 008 — Mesma Luta
+009 — Nomes Próprios
