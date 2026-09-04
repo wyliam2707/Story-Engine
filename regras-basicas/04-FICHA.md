@@ -4,15 +4,15 @@ A ficha é a fonte canônica primária de **quem a personagem é**.
 
 > **Primeiro cria-se a personagem. Depois a ficha registra aquilo que essa criação sustenta.**
 
-O modelo copiável está em:
+Modelo:
 
 ```text
 modelos/FICHA.md
 ```
 
-## O que a ficha registra
+---
 
-A ficha usa seis blocos:
+# O que a ficha registra
 
 ```text
 1. Descrição Física
@@ -23,43 +23,67 @@ A ficha usa seis blocos:
 6. Histórico
 ```
 
-O presente temporário não fica duplicado na ficha. Ele pertence ao `estado.md` da campanha.
+O presente temporário pertence a `estado.md`.
 
-Quem executa a personagem também não pertence à ficha; isso fica na configuração da campanha.
+Quem executa a personagem pertence à configuração da obra, não à ficha.
 
-## A ficha registra linhas de raciocínio
+---
 
-A ficha não é um catálogo exaustivo de tudo o que a personagem consegue fazer.
+# A ficha registra linhas de raciocínio
+
+A ficha não é catálogo exaustivo de tudo o que a personagem consegue fazer.
 
 > **A ficha registra a lógica de atuação da personagem.**
->
-> **Ela estabelece fatos suficientes para julgar a ficção; não tenta catalogar todas as ações possíveis.**
 
-Competências, conhecimentos, Traços, Poderes e Meios estabelecem grandes domínios de repertório, especialidade, natureza e forma de atuação.
+Ela fornece fatos suficientes para:
 
-Uma aplicação pequena, óbvia e compatível com esses fatos pode surgir naturalmente em cena sem receber uma entrada própria na ficha.
+```text
+Cadeiras decidirem coerentemente
+Mesa avaliar plausibilidade
+Narrador apresentar aplicações compatíveis
+Diretor compreender limites e possibilidades
+```
+
+Não existe Juiz permanente que use a ficha como tabela de dificuldade.
+
+Competências, conhecimentos, Traços, Poderes e Meios estabelecem grandes domínios de repertório, natureza e atuação.
+
+Uma aplicação pequena, óbvia e compatível pode surgir naturalmente.
 
 Exemplo:
 
 ```text
-uma bruxa centenária, formada desde cedo em uma tradição mágica
-→ pode acender uma vela, abrir uma porta à distância, puxar um livro ou aquecer água por magia
-→ sem precisar possuir um Poder separado para cada truque cotidiano.
+bruxa centenária formada desde cedo em tradição mágica
+→ pode acender vela, puxar livro ou aquecer água por magia
+→ sem Poder separado para cada truque cotidiano.
 ```
 
 Isso não autoriza expansão ilimitada.
 
-Quando uma aplicação começa a decidir um obstáculo relevante, superar resistência real, criar uma solução importante ou produzir efeito extraordinário cuja escala importa, ela precisa encontrar sustentação suficiente nos fatos registrados da personagem.
+Quando uma aplicação começa a:
+
+```text
+superar resistência material importante
+criar solução decisiva
+produzir efeito extraordinário cuja escala importa
+sustentar um resultado autoral relevante
+```
+
+ela precisa encontrar base suficiente nos fatos registrados.
 
 ```text
 aplicação trivial coerente
-→ pode decorrer naturalmente do repertório estabelecido.
+→ pode decorrer naturalmente do repertório.
 
-efeito relevante para julgamento
-→ deve ser sustentado por Competência, Conhecimento, Traço, Poder, Meio ou outro fato canônico pertinente.
+efeito material relevante
+→ precisa de sustentação canônica suficiente.
 ```
 
-Um Poder também deve ser lido como uma linha de raciocínio, não como uma lista fechada de técnicas.
+---
+
+# Poder como domínio, não lista fechada
+
+Exemplo:
 
 ```text
 Proteção e Selamento
@@ -70,13 +94,15 @@ Proteção e Selamento
 → sustentar estruturas
 ```
 
-A personagem pode produzir aplicações diferentes dentro desse mesmo domínio sem que cada forma precise ser registrada separadamente.
+A personagem pode criar aplicações diferentes dentro do mesmo domínio sem registrar cada técnica separadamente.
 
-A descrição continua definindo o escopo. A linha de raciocínio permite variedade coerente; não cria capacidades fora dela.
+A descrição continua definindo escopo e limites.
 
-## Descrição Física
+---
 
-Registra o suficiente para reconhecer a personagem:
+# Descrição Física
+
+Registra o suficiente para reconhecer a pessoa:
 
 ```text
 aparência
@@ -85,47 +111,55 @@ estilo
 marcas relevantes
 ```
 
-## Conceito
+---
+
+# Conceito
 
 Resume quem a personagem é em essência.
 
-O Conceito é referência de coerência, não fonte ilimitada de capacidades.
+Não é fonte ilimitada de capacidades.
 
-## Competências
+---
+
+# Competências
 
 Competência registra o que a personagem sabe fazer por treino, prática, formação ou experiência.
 
 Exemplos:
 
 ```text
-Combatente experiente.
-Cirurgiã.
-Pilota naves interestelares.
-Investigadora criminal.
-Ferreiro habilidoso.
+Combatente experiente
+Cirurgiã
+Pilota naves interestelares
+Investigadora criminal
+Ferreiro habilidoso
 ```
 
-Não existe obrigação de usar lista universal.
+Não existe lista universal obrigatória.
 
-Uma competência rotineira não precisa se transformar em chance de incompetência apenas para criar incerteza.
+Uma competência rotineira não precisa virar chance artificial de incompetência apenas para criar incerteza.
 
-## Conhecimentos
+---
 
-Quando útil, usar:
+# Conhecimentos
+
+Quando útil:
 
 ```text
 Conhece: [campo]
 → familiaridade sólida.
 
 Especialista: [campo]
-→ domínio profundo e autoridade epistêmica forte dentro do repertório legítimo.
+→ domínio profundo dentro do repertório legítimo.
 ```
 
 Especialista não significa onisciência.
 
-Conhecimento pode sustentar preenchimento epistêmico de detalhes ordinários conforme `02-RESOLUCAO.md`, mas não cria segredos ou soluções decisivas.
+Conhecimento pode preencher detalhes ordinários conforme `02-RESOLUCAO.md`, mas não cria segredos ou soluções decisivas.
 
-## Traço
+---
+
+# Traço
 
 `TRAÇO` registra uma verdade especial automática dentro do escopo escrito.
 
@@ -134,35 +168,39 @@ Conhecimento pode sustentar preenchimento epistêmico de detalhes ordinários co
 [respira normalmente debaixo d'água]
 ```
 
-O Traço não concede propriedades que não estejam escritas.
+Não concede propriedades não escritas.
 
 ```text
 TRAÇO: Vampiro
 [não envelhece e precisa se alimentar de sangue]
 ```
 
-não concede automaticamente qualquer outra propriedade associada a vampiros em outras obras.
+não importa automaticamente todas as propriedades de vampiros de outras obras.
 
-Traço não é decisão voluntária. Ele pode permitir, impedir ou modificar fatos dentro de sua descrição sem roubar escolhas que não estejam contidas nela.
+Traço não é decisão voluntária. Pode permitir ou impedir fatos sem roubar escolhas que não estejam contidas nele.
 
-## Poder
+---
+
+# Poder
 
 `PODER` registra capacidade extraordinária utilizável.
 
-Toda descrição deve permitir entender:
+A descrição deve permitir entender:
 
 ```text
 o que faz
 como funciona
-qual é seu escopo
+qual é o escopo
 quais limites importam
 ```
 
-O Poder não precisa enumerar cada técnica possível. Ele estabelece um domínio de capacidade suficientemente claro para que aplicações coerentes possam ser julgadas dentro dele.
+Não precisa enumerar cada aplicação possível.
 
-## Graduação
+---
 
-Use graduação somente quando comparação de intensidade realmente for útil.
+# Graduação
+
+Usar somente quando comparação de intensidade for útil.
 
 ```text
 [1] — EXTRAORDINÁRIO
@@ -181,11 +219,15 @@ Força Sobre-Humana [2]
 Voo [1]
 ```
 
-não cria nível geral `[3]` nem soma de poder.
+não cria nível geral.
 
-`[3]` representa referência de ápice naquele aspecto e continua limitado pela descrição.
+Graduação informa plausibilidade e diferença factual; não vira placar automático, rolagem ou sentença.
 
-## Limites e vulnerabilidades
+Contexto continua podendo importar.
+
+---
+
+# Limites e vulnerabilidades
 
 Registrar quando realmente existirem:
 
@@ -195,15 +237,17 @@ dependência
 restrição
 custo
 condição de funcionamento
-limite de alcance
+alcance
 vulnerabilidade
 ```
 
-Nenhuma personagem precisa receber uma fraqueza artificial apenas porque possui Poder forte.
+Nenhuma personagem precisa receber fraqueza artificial apenas porque possui Poder forte.
 
-> **Registrar vulnerabilidade existente; não fabricar balanceamento que a ficção não sustenta.**
+> **Registrar vulnerabilidade existente; não fabricar balanceamento.**
 
-## Equipamentos e Recursos
+---
+
+# Equipamentos e Recursos
 
 Registrar somente meios externos cuja existência importa para identidade, capacidade ou continuidade.
 
@@ -215,11 +259,13 @@ RECURSO
 → acesso, organização, veículo, patrimônio, contato institucional ou outro meio relevante.
 ```
 
-Itens cotidianos podem existir sem ocupar ficha quando não possuem função canônica importante.
+Itens cotidianos não precisam ocupar ficha.
 
-## Personalidade e vida emocional
+---
 
-Registrar tendências que realmente ajudam uma Cadeira a decidir:
+# Personalidade e Vida Emocional
+
+Registrar tendências que ajudam uma Cadeira a decidir:
 
 ```text
 personalidade
@@ -232,7 +278,7 @@ hábitos
 relações relevantes
 ```
 
-Não converter descrições em comandos absolutos sem que a ficha diga isso.
+Não converter descrições em comandos absolutos.
 
 ```text
 reservada
@@ -242,11 +288,13 @@ independente
 ≠ rejeita compromisso.
 ```
 
-A personagem pode mudar ao longo da história.
+A personagem pode mudar.
 
-## Histórico
+---
 
-O Histórico registra o passado necessário para explicar a pessoa atual:
+# Histórico
+
+Registra passado necessário para explicar a pessoa atual:
 
 ```text
 origem
@@ -257,9 +305,11 @@ origem de competências e capacidades
 fatos que ainda influenciam decisões
 ```
 
-Não é necessário escrever biografia completa se ela não cumprir função.
+Não exige biografia completa.
 
-## Sustentação
+---
+
+# Sustentação
 
 Todo elemento relevante deve encontrar fundamento suficiente em:
 
@@ -272,11 +322,13 @@ experiência
 Histórico
 ```
 
-Se não encontra, explicar antes de canonizar.
+Se não encontra, explicar ou levar à Mesa antes de canonizar como capacidade da personagem.
 
-## Autoridade da ficha
+---
 
-Durante interpretação e julgamento:
+# Autoridade da ficha
+
+Durante execução e consulta:
 
 ```text
 FICHA
@@ -286,25 +338,42 @@ ESTADO
 → como ela está agora.
 
 FICÇÃO JÁ ESTABELECIDA
-→ posição, acontecimentos e mudanças ocorridas.
+→ posição, acontecimentos e mudanças.
 
 DIREÇÃO
-→ limites autorais ativos.
+→ pontos autorais ativos.
 ```
+
+A ficha informa a Cadeira e a Mesa; não possui soberania sobre o Diretor.
 
 Uma referência externa pode ajudar a criar uma personagem, mas depois da aprovação:
 
 ```text
-FICHA DESTA CAMPANHA
+FICHA DESTA OBRA
 → autoridade primária.
 
 MEMÓRIA DA IA / OUTRA OBRA
-→ referência apenas para lacunas que a campanha realmente permita importar.
+→ referência apenas para lacunas permitidas.
 ```
 
-## Criação operacional
+---
 
-Quando já há informação suficiente, a IA pode propor um bloco completo para o Diretor revisar.
+# Ruptura deliberada não altera ficha automaticamente
+
+Se a personagem faz algo muito fora do padrão por Direção deliberada:
+
+```text
+AÇÃO EXCEPCIONAL
+≠ FICHA FOI REESCRITA AUTOMATICAMENTE
+```
+
+A Cadeira pode ter apontado a anomalia na Mesa. Depois da confirmação do Diretor, executa o ponto fechado sem fabricar causa ou novo traço.
+
+A ficha só muda se a Ficção estabelecer mudança persistente real na pessoa.
+
+---
+
+# Criação operacional
 
 ```text
 base suficiente
@@ -319,6 +388,8 @@ escolha realmente aberta
 
 Não pedir novamente informação já fornecida.
 
-## Regra final
+---
 
-> **A ficha descreve uma pessoa, não um orçamento nem um catálogo de ações. Ela registra a lógica de atuação da personagem e fatos suficientes para julgar a ficção. Competências e conhecimentos estabelecem repertório; Traços estabelecem verdades; Poderes estabelecem domínios de capacidade; graduação compara intensidade somente quando necessário; limites são registrados quando existem. Aplicações triviais coerentes podem decorrer naturalmente desses fatos, enquanto efeitos relevantes precisam de sustentação canônica suficiente. Estado temporário e executor ficam fora da ficha para que cada verdade tenha uma única fonte.**
+# Regra final
+
+> **A ficha descreve uma pessoa, não um orçamento, placar ou catálogo de ações. Ela sustenta decisões das Cadeiras, análise da Mesa e apresentação do Narrador. Competências e conhecimentos estabelecem repertório; Traços estabelecem verdades; Poderes estabelecem domínios de capacidade; graduação informa intensidade sem virar sentença automática.**
