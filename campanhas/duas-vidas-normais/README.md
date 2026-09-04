@@ -1,7 +1,7 @@
 # Duas Vidas Normais
 
 STATUS
-→ PRONTA PARA JOGAR
+→ PRONTA
 
 ## Proposta curta
 
@@ -40,9 +40,7 @@ Outras personagens secundárias podem receber Cadeira eventual quando uma decis�
 
 ## Modo atual — Direção conjunta com Personagem do Diretor
 
-O Diretor humano conduz a campanha e mantém Daniel como seu Personagem do Diretor.
-
-Isso significa:
+O Diretor humano conduz a história e mantém Daniel como seu Personagem do Diretor.
 
 ```text
 VONTADE DE DANIEL
@@ -53,7 +51,7 @@ EXECUÇÃO DE DANIEL
 → ou delegada à IA sem transferir a vontade.
 ```
 
-Quando o Diretor determina que Daniel quer, decide ou faz algo, a IA executa de forma coerente sem transformar a determinação em sugestão nem criar oposição autônoma.
+Quando o Diretor determina que Daniel quer, decide ou faz algo e autoriza a execução, a IA executa de forma coerente sem transformar a determinação em sugestão nem criar oposição autônoma.
 
 As demais personagens são executadas por suas próprias Cadeiras IA em escopo separado. A mesma IA técnica pode executar várias Cadeiras, mas conhecimento, intenção e decisão permanecem compartimentados.
 
@@ -69,7 +67,7 @@ PERSONAGEM PODERIA PARTICIPAR
 PERSONAGEM PRETENDE PARTICIPAR
 ```
 
-O Narrador/Juiz cruza Direção, fatos e intenções abertas e narra a consequência.
+O Narrador/Juiz cruza Direção, fatos e intenções abertas e sentencia a consequência.
 
 ## Daniel como motor de cena
 
@@ -81,78 +79,58 @@ Exemplo:
 [Daniel se interessa por alguém e decide puxar conversa.]
 ```
 
-A vontade de Daniel já está fechada. A IA pode escolher como ele executa essa aproximação de modo compatível com sua ficha.
+A vontade de Daniel já está fechada quando o Diretor manda executar. A IA pode escolher como ele executa essa aproximação de modo compatível com sua ficha.
 
 A resposta da outra Cadeira permanece aberta se o Diretor não a determinar.
 
 Esse recurso permite ao Diretor iniciar romance, conflito, curiosidade, investigação, erro, impulso ou qualquer outra trajetória por dentro da ficção sem precisar controlar todas as personagens envolvidas.
 
-## Consulta prévia das Cadeiras
-
-Nesta campanha, a preferência operacional é **ouvir a Cadeira afetada antes de executar uma escolha do Diretor que diga respeito à personalidade, vontade, reação ou forma de agir daquela personagem — mesmo quando a frase do Diretor já soa como determinação.**
-
-O objetivo não é retirar autoridade do Diretor. É oferecer uma leitura independente da personagem antes que a decisão seja executada, para que o Diretor possa perceber uma incoerência, reconsiderar, ajustar ou confirmar conscientemente o que deseja.
-
-Exemplo:
+## Política de Mesa
 
 ```text
-DIRETOR
-→ Morgana entra dançando na sala.
-
-CADEIRA DE MORGANA
-→ Isso me parece pouco coerente com a forma como venho sendo interpretada neste contexto; eu provavelmente entraria de modo mais contido.
-
-NARRADOR
-→ pode explicar a objeção, se houver algo causal ou factual a acrescentar.
-
-DIRETOR
-→ pode mudar a decisão
-→ ajustar a forma
-→ ou confirmar que quer Morgana entrando dançando mesmo assim.
+MESA: CONSULTA FORTE
 ```
 
-A consulta é **advisory**, não um veto.
+Aplicar a definição normativa de:
 
 ```text
-DIRETOR PROPÕE OU DETERMINA
-↓
-NARRADOR identifica a Cadeira realmente afetada
-↓
-CADEIRA opina a partir da ficha, Estado e contexto
-↓
-NARRADOR pode acrescentar objeção ou análise causal pertinente
-↓
-DIRETOR confirma, altera ou abandona
-↓
-EXECUÇÃO
+regras-basicas/00-ARQUITETURA-E-MESA.md
 ```
 
-A opinião da Cadeira nesta etapa não cria fato ou cânone por si só.
+Nesta história, uma escolha do Diretor que diga respeito de modo material à personalidade, vontade, reação ou forma de agir de uma personagem pode receber **opinião breve da Cadeira afetada e parecer do Narrador antes da execução**, mesmo quando a frase do Diretor já soa como determinação.
+
+A consulta existe para oferecer resistência informativa, não veto.
 
 ```text
-OPINIÃO DA CADEIRA
-≠
-DECISÃO CANÔNICA
+CADEIRA OPINA
+→ pode fazer o Diretor reconsiderar.
+
+NARRADOR EMITE PARECER
+→ pode apontar coerência, tensão ou consequência.
+
+DIRETOR CONFIRMA / ALTERA / CANCELA
+→ continua sendo a decisão autoral final.
 ```
 
-Se várias Cadeiras forem afetadas, consultar apenas aquelas cuja vontade, personalidade ou reação seja materialmente relevante, sem convocar personagens que apenas poderiam ter uma opinião abstrata.
+Enquanto a Mesa estiver aberta, nada discutido vira ficção até o Diretor mandar executar.
 
-O Diretor continua podendo fechar imediatamente uma decisão quando desejar. Se ele disser explicitamente para **executar sem consulta**, **fechar**, **seguir assim mesmo** ou equivalente, a consulta pode ser pulada.
+Se o Diretor disser `sem consulta`, `faça assim mesmo`, `já decidi`, `pode fazer` ou equivalente, seguir conforme o sentido da operação.
 
-Sem esse pedido explícito, mesmo uma determinação pode receber uma breve objeção da Cadeira antes da execução.
+Mesmo Daniel pode receber `CADEIRA CONSULTIVA` durante a Mesa sem transferir sua vontade do Diretor para a IA.
+
+## Indicador operacional
 
 ```text
-DETERMINAÇÃO DO DIRETOR
-→ continua soberana.
-
-CONSULTA DA CADEIRA
-→ pode influenciar a decisão antes da execução.
-
-CONFIRMAÇÃO DO DIRETOR
-→ encerra a discussão e manda executar.
+INDICADOR OPERACIONAL: VISÍVEL
 ```
 
-Depois de confirmada a determinação, a execução não reabre a mesma discussão sem fato novo relevante.
+O indicador pode ser usado de forma curta durante execução e reancoragem. Não entra no Livro.
+
+## Operação pendente
+
+Se uma Mesa, Auditoria ou outra operação precisar sobreviver a perda de contexto, usar `operacao.md` conforme `regras-basicas/modelos/OPERACAO.md`.
+
+`operacao.md` é operacional e não canônico.
 
 ## Módulos
 
@@ -172,7 +150,9 @@ Texto entre colchetes continua sendo a forma explícita de marcar comunicação 
 → Direção, Consulta, Auditoria, Análise, Correção ou outra operação autoral conforme a semântica.
 ```
 
-Quando o Diretor fornece ação, fala, vontade ou decisão de Daniel de forma inequívoca, isso vale como execução ou determinação do Personagem do Diretor, mesmo que a IA esteja executando o restante da cena.
+Quando o Diretor fornece ação, fala, vontade ou decisão de Daniel de forma inequívoca fora de Mesa, isso vale como execução ou determinação do Personagem do Diretor conforme o contexto.
+
+Se a Mesa estiver aberta, continuar em consulta até o Diretor encerrá-la.
 
 Não presumir que toda mensagem sem colchetes seja fala de Daniel quando o contexto é claramente metaconversa ou Direção.
 
@@ -180,13 +160,13 @@ Não presumir que toda mensagem sem colchetes seja fala de Daniel quando o conte
 
 O Livro registra a ficção canonizada da campanha em capítulos.
 
-Ao fechar ou salvar a continuidade, não existe relação obrigatória de 1:1 entre o bloco jogado e um capítulo literário. O Narrador deve dividir ou agrupar o material em quantos capítulos forem necessários para preservar coerência narrativa, unidade dramática, ritmo, transições e leitura natural.
+Ao fechar ou salvar a continuidade, não existe relação obrigatória de 1:1 entre o bloco executado e um capítulo literário. O Narrador deve dividir ou agrupar o material em quantos capítulos forem necessários para preservar coerência narrativa, unidade dramática, ritmo, transições e leitura natural.
 
 Um fechamento operacional pode gerar um capítulo, vários capítulos ou consolidar material com continuidade anterior quando isso for narrativamente mais coerente. A divisão em capítulos serve ao Livro, não à duração da sessão ou ao momento em que o Diretor pediu para salvar.
 
 Ao fechar capítulos, preservar marcações como `NARRADOR`, nome da personagem e `PERSONAGEM — pensamento` quando a origem da fala, ação ou interioridade estiver estabelecida.
 
-Direção, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
+Direção, Mesa, pareceres, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
 
 ## Cânone externo
 
