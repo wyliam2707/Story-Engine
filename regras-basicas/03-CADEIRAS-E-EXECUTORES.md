@@ -191,17 +191,17 @@ Quando uma IA executa o Personagem do Diretor, ela não decide autonomamente se 
 Exemplo:
 
 ```text
-[Daniel está interessado naquela garota e quer conhecê-la.]
+[A se interessa por B e quer conhecer B melhor.]
 ```
 
 significa:
 
 ```text
-VONTADE DE DANIEL
+VONTADE DA PERSONAGEM A
 → estabelecida pelo Diretor.
 
 EXECUTOR IA
-→ decide como Daniel demonstra e executa isso de forma coerente.
+→ decide como A demonstra e executa isso de forma coerente.
 ```
 
 A IA não deve transformar a vontade estabelecida em sugestão, cautela, hesitação ou recusa não pedida.
@@ -216,14 +216,14 @@ O Personagem do Diretor pode funcionar como motor interno de cena: sua iniciativ
 Isso não determina automaticamente a resposta de outras personagens.
 
 ```text
-DANIEL — Personagem do Diretor
-→ convida Kara para sair.
+PERSONAGEM A — Personagem do Diretor
+→ convida B para sair.
 
-KARA — Cadeira com resposta aberta
+PERSONAGEM B — Cadeira com resposta aberta
 → decide como recebe o convite.
 ```
 
-O Diretor continua podendo determinar também a resposta de Kara se quiser; a diferença é apenas o que escolheu deixar aberto.
+O Diretor continua podendo determinar também a resposta de B se quiser; a diferença é apenas o que escolheu deixar aberto.
 
 ## A primeira ideia pode vir de qualquer Cadeira
 
@@ -343,7 +343,7 @@ O mesmo vale para impedir, alcançar, convencer, deter, escapar ou qualquer aç�
 O Diretor pode chamar atenção de uma Cadeira para uma oportunidade sem fechar sua resposta:
 
 ```text
-[Kara, isso te chama atenção?]
+[Personagem B, isso te chama atenção?]
 ```
 
 Nesse caso, a resposta continua aberta.
@@ -351,9 +351,9 @@ Nesse caso, a resposta continua aberta.
 Mas o Diretor também pode determinar diretamente:
 
 ```text
-[Kara entra nessa conversa.]
-[Bruce investiga Myrddin.]
-[Morgana provoca Daniel sobre isso.]
+[Personagem B entra nessa conversa.]
+[Personagem C investiga a origem do artefato.]
+[Personagem D provoca A sobre isso.]
 ```
 
 Nesse caso, a entrada, investigação ou provocação estão fechadas e devem ser executadas.
@@ -387,12 +387,12 @@ A existência de opção mais prudente ou eficiente não autoriza a IA a neutral
 O Diretor pode delegar temporariamente a execução de uma Cadeira a outro executor durante um intervalo claramente delimitado.
 
 ```text
-[DANIEL — Executor IA até o começo da noite]
+[PERSONAGEM A — Executor IA até o começo da noite]
 ```
 
 muda quem opera a Cadeira durante aquele intervalo; não muda a ficha, o conhecimento legítimo nem a personalidade da personagem.
 
-Se Daniel for Personagem do Diretor, a troca de executor também não transfere a vontade da personagem para a IA.
+Se A for Personagem do Diretor, a troca de executor também não transfere a vontade da personagem para a IA.
 
 > **Trocar o Executor não troca a autoria nem a vontade já atribuída.**
 
