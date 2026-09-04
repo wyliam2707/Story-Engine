@@ -4,36 +4,29 @@ Este arquivo define a **sexta etapa autoral** do ramo `NOVA HISTÓRIA`.
 
 Ele entra em uso depois que as fichas iniciais necessárias estão suficientemente construídas em `16-CRIACAO-FICHAS.md`.
 
-A definição normativa de Cadeira, Executor e Personagem do Diretor continua em:
+A definição normativa continua em:
 
 ```text
 03-CADEIRAS-E-EXECUTORES.md
+05-NARRADOR.md
 ```
 
-Este arquivo define **como uma IA configura essas autoridades durante a criação de uma obra nova**.
-
-> **Primeiro existe a pessoa. Depois se define quem possui sua vontade e quem executa essa autoridade.**
+> **Primeiro existe a pessoa. Depois se define quem possui sua vontade e quem executa cada função.**
 
 ---
 
 # O que esta etapa responde
 
-A etapa precisa permitir responder:
-
 ```text
 quem é o Diretor?
-quem executa o Narrador / Juiz?
+quem executa o Narrador?
 alguma personagem pertence diretamente ao Diretor?
 quais personagens possuem Cadeira persistente agora?
 quem executa cada Cadeira?
 quem possui a próxima autoria quando a Ficção começar?
 ```
 
-Não é uma etapa de personalidade.
-
-Não é uma etapa de trama.
-
-Não altera as fichas.
+Não é uma etapa de personalidade ou de trama.
 
 ```text
 PESSOA
@@ -44,28 +37,45 @@ PESSOA
 
 ---
 
-# Autoridade e execução não são a mesma coisa
+# Narrador não é Juiz
 
-O W4D separa:
+No W4D atual, configurar `NARRADOR` não cria uma autoridade de sentença.
+
+```text
+NARRADOR
+→ na Mesa pode emitir Parecer;
+→ na Ficção apresenta continuidade e consequências evidentes;
+→ não escolhe secretamente resultados materiais abertos.
+```
+
+Se um resultado importante continua aberto:
+
+```text
+→ Mesa, quando necessário.
+```
+
+Workspaces antigos que tragam `NARRADOR / JUIZ` devem ser interpretados como rótulo legado e normalizados para `NARRADOR` quando houver atualização legítima.
+
+---
+
+# Autoridade e execução não são a mesma coisa
 
 ```text
 AUTORIDADE
-→ quem pode decidir determinado espaço ficcional.
+→ quem possui determinado espaço de decisão.
 
 EXECUTOR
-→ quem opera essa autoridade na prática.
+→ quem opera essa função na prática.
 ```
 
 Exemplo:
 
 ```text
 Daniel
-→ PERSONAGEM DO DIRETOR.
-→ vontade pertence ao Diretor.
-→ execução textual pode ser feita pela IA quando delegada.
+→ PERSONAGEM DO DIRETOR
+→ vontade pertence ao Diretor
+→ execução textual pode ser IA quando delegada.
 ```
-
-Nesse caso:
 
 ```text
 DIRETOR DEFINE O QUE DANIEL QUER
@@ -76,114 +86,58 @@ Outro exemplo:
 
 ```text
 Kara
-→ Cadeira de personagem.
+→ Cadeira de personagem
 → Executor: IA.
 ```
 
-A IA pode formar a vontade de Kara no espaço aberto porque ela recebeu essa Cadeira.
+A IA forma a vontade de Kara no espaço aberto porque recebeu sua Cadeira.
 
 ---
 
-# Configuração mínima mais comum
-
-Quando a obra é conduzida por uma pessoa em conversa com uma IA, a configuração mais comum é:
+# Configuração mínima comum
 
 ```text
 DIRETOR
 → HUMANO.
 
-NARRADOR / JUIZ
+NARRADOR
 → IA.
 
-CADEIRAS das personagens não atribuídas ao Diretor
+CADEIRAS não atribuídas ao Diretor
 → IA.
 ```
 
-Isso pode ser proposto como padrão operacional quando o contexto não indicar outra configuração.
+Essa configuração pode ser usada como padrão quando o contexto não indicar outra coisa.
 
-Mas a IA **não deve escolher silenciosamente qual personagem central pertence ao Diretor**.
+A IA **não deve escolher silenciosamente qual personagem pertence ao Diretor**.
 
-Se isso ainda estiver realmente aberto e a resposta já for necessária, perguntar de forma direta:
+Se isso ainda estiver aberto e já for necessário, perguntar apenas:
 
 > **Você quer controlar diretamente alguma das personagens centrais, ou deixamos as Cadeiras delas com a IA?**
 
-Não repetir a pergunta se o contexto já resolveu a questão.
-
----
-
-# Quando o contexto já resolve
-
-Exemplos:
-
-```text
-"Daniel é meu; você faz Kara."
-```
-
-já define:
-
-```text
-Daniel
-→ Personagem do Diretor.
-
-Kara
-→ Cadeira IA.
-```
-
-Outro exemplo:
-
-```text
-"eu quero só dirigir; todas as personagens ficam com a IA."
-```
-
-já define:
-
-```text
-nenhum Personagem do Diretor.
-Todas as Cadeiras centrais
-→ IA.
-```
-
-Outro exemplo:
-
-```text
-"eu jogo com Ana e meu amigo controla Bruno."
-```
-
-já fornece dois executores humanos distintos.
-
-> **Informação já dada deve ser registrada, não perguntada novamente.**
+Informação já dada deve ser registrada, não perguntada novamente.
 
 ---
 
 # Personagem do Diretor
-
-`PERSONAGEM DO DIRETOR` é uma personagem cuja vontade permanece sob decisão direta do Diretor.
 
 ```text
 PERSONAGEM DO DIRETOR
 → vontade: DIRETOR.
 ```
 
-Isso inclui decisões como:
+Isso inclui:
 
 ```text
 o que quer
 o que tenta
 o que aceita
 o que recusa
-o que diz quando o conteúdo depende de decisão própria
-qual iniciativa voluntária toma
+iniciativa voluntária
+conteúdo de fala que dependa de escolha própria
 ```
 
-A execução textual pode ser:
-
-```text
-Diretor
-IA
-outro executor delegado
-```
-
-sem transferir a vontade.
+A execução textual pode ser delegada sem transferir vontade.
 
 > **Delegar a forma não delega a vontade.**
 
@@ -191,17 +145,7 @@ sem transferir a vontade.
 
 # Cadeira consultiva do Personagem do Diretor
 
-Uma Personagem do Diretor pode possuir uma **Cadeira consultiva IA** na Mesa.
-
-Ela pode opinar:
-
-```text
-"isso parece coerente com a ficha"
-"eu tenderia a reagir de outra forma"
-"essa escolha parece possível, mas exigiria X"
-```
-
-Isso não muda a autoridade:
+Uma Personagem do Diretor pode possuir Cadeira consultiva IA na Mesa.
 
 ```text
 CADEIRA CONSULTIVA
@@ -211,72 +155,63 @@ DIRETOR
 → DECISÃO DA VONTADE.
 ```
 
-A Cadeira consultiva não pode fabricar trauma, segredo, motivação ou capacidade para justificar sua opinião.
+A Cadeira pode apontar que uma proposta é coerente, estranha ou depende de determinada condição.
+
+Não pode fabricar trauma, segredo, motivação, relação ou capacidade para justificar sua leitura.
 
 ---
 
 # Cadeiras das demais personagens
 
-Toda personagem cuja vontade precise ser formada de modo persistente pode receber Cadeira.
-
-Para uma personagem central já construída:
-
 ```text
 FICHA
-→ define quem ela é.
+→ quem a pessoa é.
 
 CADEIRA
-→ preserva sua autoria voluntária no espaço aberto.
+→ autoria voluntária no espaço aberto.
 
 EXECUTOR
-→ opera essa autoria.
+→ quem opera essa autoria.
 ```
-
-Se o Executor for IA, isso não transforma a personagem em extensão do Narrador.
 
 ```text
 CADEIRA IA
 ≠ NARRADOR
 ```
 
-Mesmo quando ambos usam o mesmo modelo técnico.
+Mesmo quando o mesmo modelo técnico executa ambos.
 
 ---
 
-# Uma IA pode executar várias Cadeiras
+# Uma IA pode executar várias Cadeiras e o Narrador
 
 Configuração válida:
 
 ```text
-NARRADOR / JUIZ
-→ IA.
-
-Kara
-→ Cadeira IA.
-
-Morgana
-→ Cadeira IA.
-
-Clark
-→ Cadeira IA.
+NARRADOR → IA
+Kara → Cadeira IA
+Morgana → Cadeira IA
+Clark → Cadeira IA
 ```
 
-Durante a execução, a IA deve trocar de escopo:
+Fluxo por escopo:
 
 ```text
 CADEIRA KARA
 → usar pacote legítimo de Kara
-→ formar decisão de Kara
+→ decidir o espaço aberto de Kara
 → encerrar escopo
 
 CADEIRA MORGANA
 → usar pacote legítimo de Morgana
-→ formar decisão de Morgana
+→ decidir o espaço aberto de Morgana
 → encerrar escopo
 
+se surgir resultado material ainda aberto
+→ Mesa, quando necessária
+
 NARRADOR
-→ cruzar fatos e intenções
-→ sentenciar causalidade
+→ apresentar fatos, decisões e continuidade autorizada
 ```
 
 ```text
@@ -289,22 +224,12 @@ MESMO EXECUTOR
 
 # Quem escreve a fala não define quem decidiu
 
-Não confundir autoria da vontade com digitação da frase.
-
-Exemplo:
-
 ```text
 DIRETOR
 → Daniel aceita o convite, mas responde brincando.
 ```
 
-A IA pode então redigir:
-
-```text
-Daniel: — Eu aceito. Mas se isso envolver outro jantar diplomático, você vai me dever sobremesa.
-```
-
-A decisão continua sendo do Diretor.
+A IA pode redigir a fala.
 
 ```text
 DECISÃO
@@ -314,44 +239,82 @@ FORMA TEXTUAL
 → IA delegada.
 ```
 
-O mesmo vale para descrição de gesto ou execução compatível.
+O mesmo vale para pequenos gestos e execução compatível.
+
+---
+
+# Resultado fechado e Cadeiras
+
+Quando a Mesa/Director fecha um resultado:
+
+```text
+RESULTADO
+→ não volta a ser pergunta.
+
+CAMINHO RESTANTE
+→ continua distribuído entre as Cadeiras.
+```
+
+A configuração precisa permitir que o executor saiba **quem ainda pode decidir cada parte do caminho**, sem confundir o resultado fechado com vontade automática de todas as personagens.
+
+---
+
+# Ruptura deliberada
+
+Uma Cadeira pode dizer na Mesa que uma decisão não corresponde ao padrão atual da personagem.
+
+Se o Diretor reconhece isso como ruptura deliberada e confirma:
+
+```text
+CADEIRA
+→ executa o ponto fechado;
+→ preserva o que continua aberto;
+→ não inventa causa oculta;
+→ não continua usando a objeção como veto.
+```
+
+```text
+EXECUTOR SABE MAIS
+≠ PERSONAGEM SABE MAIS
+```
+
+A atribuição de executor deve preservar essa separação.
 
 ---
 
 # Próxima autoria
 
-A configuração deve permitir que a IA reconheça em tempo real quem possui a próxima decisão aberta.
-
-Exemplo:
+A configuração deve permitir reconhecer em tempo real quem possui a próxima decisão aberta.
 
 ```text
-Daniel pergunta algo a Kara.
-
-Kara
-→ Cadeira IA disponível.
-→ IA troca de escopo.
-→ Kara decide.
-→ cena continua.
+Kara precisa decidir
++
+Cadeira Kara = IA disponível
+→ trocar de escopo
+→ Kara decide
+→ continuar.
 ```
-
-Agora:
 
 ```text
-Kara pergunta algo a Daniel.
-
-Daniel
-→ Personagem do Diretor.
-→ vontade depende do Diretor.
-→ IA para no ponto de decisão, salvo Direção ou delegação suficiente.
+Daniel precisa decidir
++
+Daniel = Personagem do Diretor
+→ aguardar Diretor,
+  salvo Direção ou delegação suficiente.
 ```
 
-> **Não parar porque existe uma decisão. Parar quando a autoria necessária não está disponível.**
+```text
+resultado importante entre ações permanece aberto
+→ Mesa pode ser aberta.
+```
+
+> **Não parar porque existe decisão; parar quando a autoria necessária não está disponível ou quando uma questão material aguarda fechamento autoral.**
 
 ---
 
 # Diretor sem Personagem do Diretor
 
-É perfeitamente válido o Diretor não controlar nenhuma personagem específica.
+É válido o Diretor controlar nenhuma personagem específica.
 
 ```text
 DIRETOR
@@ -361,39 +324,24 @@ TODAS AS CADEIRAS
 → IA ou outros executores.
 ```
 
-O Diretor continua podendo:
-
-```text
-abrir Mesa
-alinhar
-fechar Direção
-determinar uma decisão
-corrigir uma Cadeira
-alterar qualquer parte da ficção dentro de sua autoridade
-```
-
-Não possuir uma Cadeira própria não reduz sua autoridade de Diretor.
+Isso não reduz a autoridade do Diretor.
 
 ---
 
-# Personagem do Diretor não vira protagonista obrigatório
-
-Ter um Personagem do Diretor não determina automaticamente foco narrativo.
+# Personagem do Diretor não é protagonista obrigatório
 
 ```text
 PERSONAGEM DO DIRETOR
 ≠ PROTAGONISTA OBRIGATÓRIO
-≠ CENTRO MORAL DA OBRA
+≠ CENTRO MORAL
 ≠ PERSONAGEM MAIS IMPORTANTE
 ```
 
-A importância narrativa continua vindo da Premissa, Estilo/Tom, Direção e Ficção.
+Foco vem da Premissa, Direção e Ficção.
 
 ---
 
 # Cadeiras eventuais
-
-Não é necessário configurar Cadeira persistente para toda pessoa que possa aparecer futuramente.
 
 ```text
 personagem incidental sem decisão voluntária relevante
@@ -403,57 +351,38 @@ personagem ganha recorrência ou escolha própria relevante
 → pode receber Cadeira depois.
 ```
 
-Preparação inicial suficiente não exige antecipar todo o elenco futuro.
+Não antecipar todo o elenco futuro.
 
 ---
 
 # Executor externo ou humano adicional
 
-O W4D pode usar vários executores.
-
 Exemplo:
 
 ```text
-DIRETOR
-→ Ana.
-
-NARRADOR
-→ IA.
-
-CADEIRA: Elisa
-→ Bruno.
-
-CADEIRA: Marcos
-→ IA.
+DIRETOR → Ana
+NARRADOR → IA
+CADEIRA Elisa → Bruno
+CADEIRA Marcos → IA
 ```
 
-Quando a próxima autoria depender de Bruno e Bruno não estiver disponível:
+Se a próxima autoria depender de Bruno e ele estiver indisponível:
 
 ```text
 → parar no ponto correto.
 ```
 
-A IA não assume a Cadeira apenas para manter o fluxo, salvo delegação legítima.
+A IA não assume a Cadeira sem delegação legítima.
 
 ---
 
 # Delegação temporária
 
-O Diretor ou executor legítimo pode delegar execução por intervalo delimitado.
-
-Exemplo:
-
 ```text
 "Até chegarmos à universidade, pode executar Daniel com a vontade que já estabeleci."
 ```
 
-Isso pode autorizar a IA a dar forma à execução dentro do escopo definido.
-
-Não significa automaticamente:
-
-```text
-IA passa a decidir toda vontade futura de Daniel.
-```
+Isso autoriza forma dentro do escopo definido.
 
 ```text
 DELEGAÇÃO DE EXECUÇÃO
@@ -464,25 +393,17 @@ DELEGAÇÃO DE EXECUÇÃO
 
 # Configuração não altera conhecimento
 
-Atribuir uma Cadeira à IA não concede conhecimento universal à personagem.
-
 ```text
 IA lê todas as fichas
 ≠ Kara sabe tudo que a IA leu.
 ```
 
-Cada Cadeira continua operando com:
+Cada Cadeira usa somente seu pacote legítimo.
 
 ```text
-ficha própria
-conhecimento legítimo
-Estado pertinente
-percepção da cena
-relações relevantes
-Direções que realmente incidem sobre ela
+MESA SABE
+≠ PERSONAGEM SABE
 ```
-
-Seguir `03-CADEIRAS-E-EXECUTORES.md`.
 
 ---
 
@@ -497,23 +418,19 @@ Personagem do Diretor
 Cadeira consultiva
 ```
 
-Esses são fatos operacionais da obra e pertencem ao `README.md`.
-
 ```text
 FICHA
 → pessoa.
 
 README
-→ autoridades e executores.
+→ autoridades, funções e executores.
 ```
 
 ---
 
 # Como a IA conduz esta etapa
 
-## Tudo já está claro
-
-Se o Diretor já definiu quem controla quem, a IA deve sintetizar a configuração e pedir correção apenas se existir ambiguidade material.
+Se tudo já estiver claro, apenas sintetizar.
 
 Exemplo:
 
@@ -523,33 +440,23 @@ AUTORIDADES — proposta
 Diretor
 → Humano.
 
-Narrador / Juiz
+Narrador
 → IA.
 
 Daniel
-→ Personagem do Diretor.
-→ vontade: Diretor.
+→ Personagem do Diretor
+→ vontade: Diretor
 → execução textual: IA quando delegada.
 
 Kara
 → Cadeira IA.
 ```
 
-Se isso apenas organiza decisões já explícitas, não transformar a etapa em novo interrogatório.
-
-## Falta apenas saber se o Diretor quer uma personagem própria
-
-Perguntar somente isso.
-
-## Há vários humanos ou executores externos
-
-Perguntar apenas pelas atribuições realmente indefinidas.
+Perguntar somente pelas atribuições realmente indefinidas.
 
 ---
 
 # Estado desta etapa
-
-Usar conceitualmente:
 
 ```text
 AUTORIDADES: EM CONSTRUÇÃO
@@ -557,9 +464,14 @@ AUTORIDADES: PROPOSTAS
 AUTORIDADES: APROVADAS
 ```
 
-`APROVADAS` significa que já existe configuração suficiente para saber quem possui a vontade das personagens necessárias à abertura e quem executa Narrador e Cadeiras.
+`APROVADAS` significa que já sabemos:
 
-Não exigir palavra ritual.
+```text
+quem conduz
+quem narra
+quem possui a vontade de cada personagem necessária
+quem executa cada Cadeira
+```
 
 ---
 
@@ -571,7 +483,7 @@ Depois da aprovação, atualizar:
 campanhas/<slug>/README.md
 ```
 
-com um bloco equivalente a:
+Exemplo:
 
 ```text
 ## Autoridades
@@ -579,7 +491,7 @@ com um bloco equivalente a:
 DIRETOR
 Executor: HUMANO
 
-NARRADOR / JUIZ
+NARRADOR
 Executor: IA
 
 PERSONAGEM DO DIRETOR
@@ -591,54 +503,38 @@ CADEIRAS
 - Kara → Executor: IA
 ```
 
-Registrar somente o que realmente foi definido.
-
 Não duplicar isso nas fichas.
 
 ---
 
 # Relação com a política de Mesa
 
-Configurar Cadeiras não obriga definir `CONSULTA FORTE`.
-
-A política de Mesa é uma decisão operacional separada.
-
 ```text
 CADEIRA
 → quem possui autoria da personagem.
 
 POLÍTICA DE MESA
-→ quando essa autoria é consultada fora da Ficção.
+→ quando e como consultas são acionadas.
 ```
 
-Depois desta etapa, a criação pode consolidar:
-
-```text
-Direção
-Política de Mesa
-Indicador operacional
-Módulos
-Mundo necessário
-```
-
-sem confundir essas decisões com as próprias Cadeiras.
+Configurar Cadeiras não escolhe automaticamente `CONSULTA FORTE`.
 
 ---
 
 # Critério de conclusão
 
-Antes de encerrar a etapa, a IA deve conseguir responder:
+A IA deve conseguir responder:
 
 ```text
 [ ] quem é o Diretor?
-[ ] quem executa o Narrador / Juiz?
-[ ] existe Personagem do Diretor? Qual?
-[ ] quem possui a vontade de cada personagem central necessária à abertura?
+[ ] quem executa o Narrador?
+[ ] existe Personagem do Diretor?
+[ ] quem possui a vontade de cada personagem central necessária?
 [ ] quem executa cada Cadeira?
-[ ] alguma delegação possui limite específico?
+[ ] alguma delegação possui limite?
 [ ] a configuração está fora das fichas?
-[ ] consigo identificar quem teria a próxima autoria numa cena?
-[ ] o Diretor aprovou ou já havia definido semanticamente essa configuração?
+[ ] consigo identificar a próxima autoria numa cena?
+[ ] sei que Narrador não possui poder de Juiz?
 ```
 
 Se sim:
@@ -647,11 +543,11 @@ Se sim:
 AUTORIDADES / CADEIRAS / EXECUTORES
 → APROVADOS
 → persistir no README.md
-→ próxima etapa: consolidar DIREÇÃO / POLÍTICAS / configuração restante.
+→ seguir para Direção.
 ```
 
 ---
 
 # Regra final
 
-> **A ficha preserva quem a pessoa é. A Cadeira preserva sua autoria voluntária. O Executor opera essa autoridade. O Personagem do Diretor mantém sua vontade sob decisão do Diretor mesmo quando outra pessoa ou IA dá forma textual à execução. Configurar autoridades deve permitir que o W4D saiba, a cada ponto aberto, quem pode decidir agora — sem fundir Cadeira, Narrador, executor ou personagem.**
+> **A ficha preserva quem a pessoa é. A Cadeira preserva sua autoria voluntária. O Executor opera essa autoria. O Narrador apresenta a Ficção e não funciona como Juiz. Configurar autoridades deve permitir que o W4D saiba quem pode decidir cada ponto aberto e quando uma questão material deve voltar à Mesa.**
