@@ -5,38 +5,36 @@ STATUS
 
 ## Proposta curta
 
-[Premissa aprovada em uma ou duas frases que permitam reconhecer que história está sendo construída.]
+[Premissa aprovada em uma ou duas frases.]
 
 ## Estilo / Tom
 
-[Resumo aprovado de gênero, tom, ritmo, escala, perspectiva ou limites de apresentação que realmente importem para reconhecer a experiência da obra.]
-
-Não usar esta seção para registrar acontecimentos futuros, decisões de personagem ou clichês importados do gênero.
+[Resumo aprovado do que realmente importa para reconhecer a experiência da obra.]
 
 ## Personagens centrais
 
-[Adicionar depois que a etapa de Personagens Centrais for aprovada.]
+[Adicionar depois da aprovação da etapa correspondente.]
 
 Formato recomendado:
 
 ```text
-- [Nome] — [papel estrutural curto na Premissa].
-- [Nome] — [papel estrutural curto na Premissa].
+- [Nome] — [papel estrutural curto].
+- [Nome] — [papel estrutural curto].
 ```
-
-Esta seção identifica **quem está no centro da obra**. Não substitui as fichas.
 
 ```text
 README
-→ composição central da obra.
+→ composição central e configuração da obra.
 
 personagens/<nome>.md
 → quem cada pessoa é.
 ```
 
-## Autoridades
+---
 
-Preencher depois que a configuração de `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md` estiver aprovada.
+## Autoridades e funções
+
+Preencher depois de `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md`.
 
 ### Diretor
 
@@ -45,19 +43,30 @@ DIRETOR
 Executor: [HUMANO / IA / OUTRO]
 ```
 
-Na configuração mais comum:
+Padrão comum:
 
 ```text
 DIRETOR
 Executor: HUMANO
 ```
 
-### Narrador / Juiz
+### Narrador
 
 ```text
-NARRADOR / JUIZ
+NARRADOR
 Executor: [HUMANO / IA / OUTRO]
 ```
+
+No W4D atual:
+
+```text
+NARRADOR
+≠ JUIZ
+```
+
+O Narrador apresenta a Ficção e pode emitir Parecer na Mesa. Ele não possui sentença causal soberana sobre resultados materiais abertos.
+
+Arquivos antigos que usem `NARRADOR / JUIZ` devem ser interpretados como rótulo legado e podem ser normalizados mecanicamente para `NARRADOR`.
 
 ### Personagem do Diretor
 
@@ -69,12 +78,6 @@ PERSONAGEM DO DIRETOR
   - vontade: DIRETOR
   - executor padrão: [HUMANO / IA / OUTRO / IA QUANDO DELEGADA]
 ```
-
-```text
-vontade: DIRETOR
-```
-
-significa que decisões voluntárias da personagem continuam pertencendo ao Diretor mesmo quando outro executor recebe autorização para dar forma textual à ação.
 
 ```text
 DELEGAR EXECUÇÃO
@@ -89,16 +92,12 @@ CADEIRAS
 - [Personagem B] → Executor: [HUMANO / IA / OUTRO]
 ```
 
-Se houver delegação temporária ou limite operacional relevante, registrar somente o escopo real.
-
-Outras personagens podem receber Cadeira persistente ou eventual quando adquirirem decisão voluntária relevante.
-
 ```text
 PESSOA
-→ definida pela ficha.
+→ ficha.
 
 CADEIRA
-→ autoria voluntária da personagem.
+→ autoria voluntária.
 
 EXECUTOR
 → quem opera essa autoria.
@@ -112,9 +111,7 @@ MESMO EXECUTOR
 ≠ MESMA CONSCIÊNCIA FICCIONAL
 ```
 
-Executor e autoridade não pertencem à ficha da personagem.
-
-Se alguma dessas definições ainda não existe durante `EM PREPARAÇÃO`, não preencher inventando. O README pode crescer progressivamente conforme as etapas são aprovadas.
+---
 
 ## Política de Mesa
 
@@ -126,70 +123,64 @@ MESA: CONSULTAR PROPOSTAS
 MESA: CONSULTA FORTE
 ```
 
-Definições em:
+Fonte normativa:
 
 ```text
 regras-basicas/00-ARQUITETURA-E-MESA.md
 ```
 
-Padrão quando não definido:
+Padrão:
 
 ```text
 MESA: SOB DEMANDA
 ```
 
-Configurar Cadeiras não escolhe automaticamente a política de Mesa.
-
-```text
-CADEIRA
-→ quem possui autoria da personagem.
-
-POLÍTICA DE MESA
-→ quando essa autoria é consultada fora da Ficção.
-```
-
-Em qualquer política:
+A Mesa pode ser usada para qualquer resultado autoral importante, inclusive combate, romance ou investigação.
 
 ```text
 Mesa aberta
-→ proposta, opinião de Cadeira e parecer do Narrador não são Ficção.
+→ proposta, opinião e Parecer não são Ficção.
 
 Diretor autoriza execução
-→ Mesa fecha e a versão aprovada pode entrar na Ficção.
+→ versão fechada entra na Ficção.
 ```
 
-## Indicador operacional
+---
 
-Escolher uma:
+## Indicador operacional
 
 ```text
 INDICADOR OPERACIONAL: SILENCIOSO
 INDICADOR OPERACIONAL: VISÍVEL
 ```
 
-Padrão de Story Engine:
+Padrão:
 
 ```text
 INDICADOR OPERACIONAL: SILENCIOSO
 ```
 
-Mesmo no modo silencioso, perda de contexto ou falha operacional que impeça execução correta deve ser informada.
+Falha operacional que impeça execução correta deve ser informada mesmo no modo silencioso.
+
+---
 
 ## Operação pendente
 
-Quando uma Mesa, Auditoria ou outra operação precisar sobreviver a retomada, usar:
+Quando Mesa, Auditoria ou outra operação precisar persistir:
 
 ```text
 operacao.md
 ```
 
-seguindo:
+seguir:
 
 ```text
 regras-basicas/modelos/OPERACAO.md
 ```
 
 Esse arquivo é operacional, não canônico.
+
+---
 
 ## Módulos
 
@@ -198,7 +189,9 @@ Esse arquivo é operacional, não canônico.
 - Romance: INATIVO
 - Livro: INATIVO
 
-Ativar somente os módulos realmente usados.
+Ativar somente módulos realmente usados.
+
+---
 
 ## Convenção textual
 
@@ -206,10 +199,12 @@ Quando útil:
 
 ```text
 [texto]
-→ camada autoral do Diretor fora da ficção.
+→ camada autoral do Diretor fora da Ficção.
 ```
 
-A semântica, a política de Mesa e o modo operacional atual determinam se o conteúdo é Consulta, Auditoria, Direção, Correção, Determinação ou outra operação.
+A semântica, a política de Mesa e o modo atual determinam a operação.
+
+---
 
 ## Cânone externo
 
@@ -222,12 +217,14 @@ arquivos desta obra
 → prioridade.
 
 cânone externo
-→ referência apenas para lacunas permitidas.
+→ referência para lacunas permitidas.
 ```
+
+---
 
 ## Início operacional
 
-Depois que `direcao.md`, `estado.md`, as fichas iniciais e as autoridades necessárias estiverem suficientes:
+Depois que `direcao.md`, `estado.md`, fichas e autoridades estiverem suficientes e a Auditoria for aprovada:
 
 ```text
 STATUS
@@ -241,34 +238,32 @@ START
 → reancorar
 → reconstruir Cadeiras separadamente
 → identificar primeiro ponto aberto
-→ identificar quem possui a próxima autoria
+→ identificar próxima autoria
 → iniciar a Ficção.
 ```
 
-Se existir `operacao.md` ativo, `START` ou retomada deve restaurar primeiro a operação pendente em vez de saltar por cima dela.
+Se existir `operacao.md` ativo, restaurar a operação pendente antes de saltar para Ficção.
+
+---
 
 ## Nota de criação progressiva
 
-No nascimento do workspace, este README pode existir apenas com:
+No nascimento do workspace, este README pode conter apenas:
 
 ```text
 nome
-status EM PREPARAÇÃO
+STATUS → EM PREPARAÇÃO
 Proposta curta
 Estilo / Tom
 ```
 
-Depois, conforme aprovação:
+Depois acrescentar, conforme aprovação:
 
 ```text
 Personagens centrais
-→ adicionar núcleo curto.
-
 Autoridades
-→ adicionar depois das fichas iniciais suficientes e da configuração aprovada.
-
-políticas / módulos
-→ adicionar somente quando definidos.
+Políticas
+Módulos
 ```
 
 > **README incompleto durante preparação é melhor que README preenchido com decisões que o Diretor ainda não tomou.**
