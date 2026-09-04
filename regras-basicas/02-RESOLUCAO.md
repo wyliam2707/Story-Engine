@@ -1,76 +1,110 @@
-# 02 — Resolução
+# 02 — Resolução Autoral e Execução
 
-Este arquivo define como o W4D resolve **a Ficção** depois que a Mesa, quando usada, autorizou a execução.
+Este arquivo define como o W4D transforma intenções, Direção, fatos e decisões autorais em Ficção executável.
 
-> **A ficção resolve primeiro. A ficha fornece fatos. O Narrador sentencia.**
-
-Na Mesa, o Narrador não sentencia: ele emite `PARECER` conforme `00-ARQUITETURA-E-MESA.md`.
+O W4D atual **não possui Juiz permanente** e não usa um mecanismo universal de teste para descobrir resultados.
 
 ```text
-MESA
-→ opinião + parecer + decisão autoral.
-
-FICÇÃO
-→ intenção/decisão + fatos + sentença causal.
+SEM JUIZ PERMANENTE
+SEM RNG OBRIGATÓRIO
+SEM DIFICULDADE UNIVERSAL
+SEM TESTE UNIVERSAL
+SEM PROBABILIDADE ESCONDIDA
 ```
 
-## Fluxo central
+> **O W4D não simula para descobrir qual história aconteceu. Ele constrói, entre Diretor e Cadeiras, a versão da história que será executada.**
+
+---
+
+# Fluxo central
+
+Na Ficção:
 
 ```text
-1. identificar a operação do Diretor, quando houver;
-2. confirmar que a execução está em Ficção, não em Mesa pendente;
-3. identificar Direções ativas pertinentes;
-4. identificar o que está aberto, alinhado ou determinado;
-5. receber a intenção da Cadeira quando a intenção estiver aberta;
-6. separar intenção de resultado presumido;
-7. consultar os fatos necessários;
-8. perguntar se os fatos já determinam a consequência;
-9. se não determinam, perguntar se outra Cadeira possui decisão real e aberta;
-10. auditar objeções factuais quando existirem;
-11. cruzar as intenções;
-12. Narrador sentencia;
-13. narrar enquanto as próximas autorias puderem ser resolvidas legitimamente no fluxo atual.
+1. identificar Direção e fatos pertinentes;
+2. identificar o que já está fechado e o que continua aberto;
+3. colher decisões das Cadeiras quando houver vontade voluntária aberta;
+4. aplicar consequências ordinárias e evidentes sem criar disputa artificial;
+5. se o próximo ponto aberto pertence a Cadeira IA disponível, trocar de escopo e continuar;
+6. se um resultado materialmente importante permanece realmente aberto ou disputado, levar a questão à Mesa;
+7. na Mesa, Cadeiras informam vontades, limites e condições;
+8. Narrador pode emitir Parecer;
+9. Diretor deixa aberto, altera, alinha ou fecha a versão;
+10. quando autorizado, retornar à Ficção;
+11. Cadeiras executam o caminho ainda aberto;
+12. Narrador apresenta a continuidade.
 ```
 
-## Intenção não é resultado
+Não existe etapa obrigatória em que o Narrador escolha um vencedor por conta própria.
+
+---
+
+# Intenção não fecha autoria alheia
 
 ```text
 "ataco o guarda"
-→ intenção de atacar.
+→ intenção própria.
 
 "derrubo o guarda"
-→ intenção de produzir a queda.
+→ intenção de produzir determinado resultado.
 ```
 
-A segunda frase não estabelece sozinha que o guarda caiu quando a consequência ainda depende de fatos ou de outra decisão legítima e aberta.
+A segunda formulação não toma automaticamente a vontade ou o espaço autoral de outra Cadeira.
 
-Uma determinação do Diretor pode fechar diretamente a intenção, a ação ou o resultado depois que sua execução foi autorizada.
-
-## Quando os fatos determinam
-
-Se existe apenas uma conclusão sustentada pela realidade, o Narrador sentencia.
-
-Exemplo:
+Se o resultado já foi fechado pelo Diretor, porém:
 
 ```text
-alvo humano comum
-+
-restrição sobrenatural estabelecida como suficiente para conter humanos comuns
-+
-nenhum meio relevante de fuga disponível naquele instante
-→ alvo é contido.
+DIRETOR
+→ A derruba B.
+
+AUTORIZAÇÃO DE EXECUÇÃO
+→ o resultado deixa de ser pergunta.
 ```
 
-Não criar resistência artificial apenas para parecer que houve disputa.
+As Cadeiras trabalham somente sobre o que permaneceu aberto.
 
-## Quando outra Cadeira decide
+---
 
-Outra Cadeira é convocada apenas quando existe **decisão voluntária realmente disponível e deixada aberta**.
+# Consequência evidente não exige Mesa
+
+Nem tudo precisa ser negociado.
+
+Se os fatos estabelecidos sustentam uma consequência ordinária sem decisão autoral material:
 
 ```text
-A faz uma proposta a B
+copo é solto
 +
-B ouviu e pode responder
+gravidade normal
++
+nenhuma interferência relevante
+→ copo cai.
+```
+
+O Narrador pode apresentar diretamente.
+
+Também:
+
+```text
+porta comum destrancada
++
+personagem a abre
+→ porta abre.
+```
+
+Não fabricar resistência, dificuldade ou acaso apenas para produzir tensão.
+
+> **A Mesa está disponível para qualquer questão; não é necessária para cada consequência evidente.**
+
+---
+
+# Quando outra Cadeira decide
+
+Outra Cadeira entra quando existe uma escolha voluntária real e aberta.
+
+```text
+A faz convite a B
++
+B percebe e pode responder
 +
 Diretor não fechou a resposta
 → Cadeira de B decide.
@@ -79,155 +113,275 @@ Diretor não fechou a resposta
 Mas:
 
 ```text
-consequência acontece rápido demais para B perceber ou agir
-→ não criar reação retroativa apenas porque B possui Cadeira.
+consequência acontece sem oportunidade real de decisão
+→ não criar escolha retroativa.
 ```
 
 E:
 
 ```text
-Diretor já determinou a resposta de B
-→ não convocar B para decidir de novo.
+Diretor já fechou a resposta de B
+→ não perguntar novamente a B se ela quer aquilo.
 ```
 
-## Quando parar e quando continuar
+---
 
-A existência de uma nova decisão aberta **não obriga por si só a interromper a resposta**.
+# Resultado importante realmente aberto
 
-A pergunta operacional é: quem executa essa autoria?
+Pode ocorrer de:
 
 ```text
-NOVA DECISÃO ABERTA
+duas ou mais vontades entrarem em conflito
 +
-CADEIRA executada pela mesma IA e disponível no fluxo
-→ trocar de escopo
-→ formar a decisão da Cadeira
-→ continuar.
-```
-
-```text
-NOVA DECISÃO ABERTA
+os fatos não produzirem uma única consequência evidente
 +
-CADEIRA depende de humano ou executor externo ainda não consultado
-→ parar
-→ apresentar a situação
-→ aguardar esse executor.
+o Diretor ainda não ter fechado o resultado.
 ```
 
-Também parar quando houver:
+Nesse caso, o Narrador **não inventa uma sentença**, não simula dados escondidos e não escolhe silenciosamente quem “merece” vencer.
+
+A questão pode ser colocada na Mesa.
+
+Exemplos:
 
 ```text
-decisão autoral realmente pertencente ao Diretor
-Mesa aberta aguardando confirmação
-Auditoria pendente
-perda de contexto que exige reancoragem
-fato indispensável que a fonte disponível ainda não permite resolver
+quem vence uma luta importante?
+quem alcança primeiro determinado objetivo?
+uma tentativa decisiva consegue ou não?
+qual consequência de duas iniciativas incompatíveis será usada?
 ```
 
-> **Pare quando a próxima autoria exige alguém que não está disponível no fluxo; não pare apenas porque outra Cadeira precisa pensar.**
-
-Isso evita transformar histórias com várias Cadeiras IA em uma sequência de interrupções artificiais.
-
-## Objeção factual
-
-Uma objeção precisa apontar um fundamento verificável.
+A Mesa pode discutir:
 
 ```text
-"B não aceita perder"
-→ preferência; não basta.
-
-"B estava alerta, percebeu A e possui teleporte disponível"
-→ fundamento relevante; auditar.
+que resultado serve à história?
+o que cada Cadeira sustenta?
+que condição torna determinada versão plausível?
+que preparação já existe?
+que mudança de circunstância seria necessária?
+quanto o Diretor quer fechar?
 ```
 
-O Narrador confirma, limita ou rejeita a objeção.
+> **Questão autoral importante permanece autoral; não vira probabilidade invisível.**
 
-Uma objeção factual pode informar o Diretor sobre tensão ou incoerência, mas não vira veto depois de uma determinação consciente mantida e autorizada para execução.
+---
 
-## Comparação de capacidades
+# Fatos e capacidades informam plausibilidade
 
-Quando duas capacidades atuam sobre o mesmo aspecto e possuem graduação:
+Ficha, capacidades, experiência, posição, tempo e ambiente continuam importantes.
+
+Podem informar:
+
+```text
+o que uma personagem consegue tentar
+o que parece fácil ou difícil de sustentar narrativamente
+que condições são necessárias para certo resultado
+que métodos são incompatíveis com um resultado desejado
+que consequência é evidente
+```
+
+Mas não são um algoritmo soberano que decide a história contra a Direção.
+
+Exemplo:
+
+```text
+A é muito mais forte que B.
+```
+
+Isso informa fortemente uma troca física direta.
+
+Se o Diretor quer B vencendo, a Mesa pode perguntar:
+
+```text
+B teve preparação?
+A está se contendo?
+B possui recurso específico?
+o ambiente favorece B?
+a vitória significa derrubar, escapar, convencer ou cumprir outro objetivo?
+```
+
+Se o Diretor compreender que a versão permanece muito improvável e ainda assim a fechar conscientemente, ela é executada.
+
+> **Fato informa plausibilidade. Diretor conserva autoridade.**
+
+---
+
+# Graduações de capacidade
+
+Quando uma obra usa graduações como:
 
 ```text
 [1] < [2] < [3]
 ```
 
-A graduação maior representa maior intensidade naquele aspecto quando o restante é comparável.
+elas continuam descrevendo intensidade relativa quando aspectos realmente comparáveis entram em contato.
+
+Exemplo:
 
 ```text
-Força Sobre-Humana [2]
+Força [3]
 contra
-Força Sobre-Humana [1]
-→ [2] possui vantagem factual em força direta.
+Força [1]
+→ [3] possui vantagem factual em força direta.
 ```
 
-Capacidades diferentes também podem ser comparadas quando disputam o mesmo efeito.
+Isso pode tornar uma consequência evidente ou orientar a Mesa.
+
+Não transformar automaticamente a graduação em rolagem, dificuldade ou placar universal.
+
+Contexto pode importar:
 
 ```text
-Telecinese [2]
-contra
-Força Sobre-Humana [1]
-```
-
-pode ser comparável se ambas estão aplicando força sobre o mesmo alvo.
-
-Não comparar números apenas porque existem.
-
-## Contexto
-
-Nenhuma graduação é lida isoladamente.
-
-Considerar quando relevante:
-
-```text
-ferimentos
+ferimento
 exaustão
-posição
-experiência
 preparação
+posição
+alcance
+experiência
 ambiente
 método
-alcance
-limites da capacidade
 ajuda
-condições atuais
+limites específicos
 ```
 
-Mudar o método ou os fatos exige novo julgamento.
+---
 
-## Competência e conhecimento
+# Combate usa o mesmo motor
 
-Uma personagem não precisa provar aleatoriamente que sabe aquilo que sua ficha estabelece como rotina de sua competência.
+Combate não abre um subsistema separado.
 
 ```text
-Especialista em determinado campo
+Cadeiras
+→ querem, tentam, recuam, insistem, protegem, atacam.
+
+Mesa
+→ pode alinhar ou fechar resultados importantes.
+
+Diretor
+→ escolhe quanto quer determinar.
+
+Narrador
+→ apresenta posição, impacto, ritmo e continuidade.
+```
+
+Uma luta pode ter o vencedor fechado antes de começar.
+
+```text
+DIRETOR
+→ B vence esta luta.
+```
+
+Então:
+
+```text
+FECHADO
+→ B vence.
+
+ABERTO
+→ método, resistência, falas, erros, custo, duração, forma final,
+  salvo o que também tiver sido determinado.
+```
+
+As Cadeiras não jogam contra o resultado fechado; elas fazem suas personagens lutarem honestamente dentro do conhecimento que possuem.
+
+```text
+EXECUTOR SABE QUEM VENCE
+≠ PERSONAGEM SABE QUEM VENCE
+```
+
+---
+
+# Mesa pode negociar uma versão
+
+Se a primeira proposta não funciona para uma Cadeira:
+
+```text
+DIRETOR → X.
+CADEIRA → X não combina comigo nas condições atuais.
+DIRETOR → e se Y?
+CADEIRA → Y funciona.
+DIRETOR → pode fazer Y.
+```
+
+A Ficção executa Y.
+
+A Cadeira não precisa apagar o motivo pelo qual X não funcionava. Ela apenas preserva o caminho coerente até Y.
+
+> **Fechar resultado não significa apagar interioridade.**
+
+---
+
+# Ruptura deliberada
+
+Às vezes o próprio fato de uma personagem normalmente não fazer algo é parte da história.
+
+```text
+CADEIRA
+→ eu normalmente não faria X.
+
+DIRETOR
+→ eu sei; essa ruptura é deliberada e possui uma causa ou função que ainda será descoberta.
+→ execute X.
+```
+
+Depois dessa confirmação consciente:
+
+```text
+CADEIRA
+→ não reabre SE fará;
+→ executa COMO faz;
+→ não fabrica explicação que ainda não existe para a personagem.
+```
+
+Isso permite mistério, alteração emocional, influência ambiental, contexto oculto ou outro fator legítimo sem transformar automaticamente a situação em controle mental.
+
+```text
+EXECUTOR SABE MAIS
+≠ PERSONAGEM SABE MAIS
+```
+
+---
+
+# Conhecimento e competência
+
+Uma personagem não precisa provar aleatoriamente que sabe aquilo que sua ficha estabelece como repertório normal.
+
+```text
+Especialista
 +
-conhecimento comum daquele repertório
-→ pode reconhecer ou interpretar.
+conhecimento comum do campo
+→ pode reconhecer ou interpretar normalmente.
 ```
 
-Especialidade não concede segredo nunca aprendido, informação deliberadamente oculta ou conhecimento fora do campo.
-
-## Preenchimento epistêmico
-
-Uma Cadeira pode preencher pequenos detalhes ordinários diretamente pertencentes ao conhecimento legítimo da personagem quando, ao mesmo tempo, o detalhe:
+Especialidade não concede:
 
 ```text
-é comum ao campo
-não contradiz o cânone
-não cria vantagem decisiva
-não cria segredo
-não resolve retroativamente um conflito
-não cria nova estrutura importante do mundo
+segredo nunca aprendido
+informação deliberadamente oculta
+recurso inexistente
+solução retroativa
+```
+
+Uma Cadeira pode preencher pequenos detalhes ordinários de conhecimento quando eles:
+
+```text
+são comuns ao campo
+não contradizem fontes
+não criam vantagem decisiva
+não criam segredo
+não resolvem retroativamente conflito
+não criam estrutura importante de mundo
 ```
 
 > **Conhecimento pode preencher o campo; não pode fabricar a solução.**
 
-## Criação emergente do mundo
+---
 
-O Narrador pode criar detalhes neutros necessários para a cena quando nada os definiu.
+# Criação emergente do mundo
 
-É seguro preencher, por exemplo:
+O Narrador pode apresentar detalhes neutros necessários para a cena quando nada os definiu.
+
+Exemplos seguros:
 
 ```text
 textura comum do ambiente
@@ -237,7 +391,7 @@ rotina comum
 pequenos detalhes sem consequência estrutural
 ```
 
-Não criar silenciosamente para decidir uma disputa:
+Não criar silenciosamente para forçar resultado:
 
 ```text
 fraqueza conveniente
@@ -246,208 +400,135 @@ nova facção
 armadilha retroativa
 recurso decisivo
 pista final
-lei política estrutural
+lei estrutural
 ```
 
-Fato estrutural ou decisivo exige fonte legítima, Direção do Diretor ou Auditoria quando necessário.
+Se um fato novo material é necessário para sustentar uma versão, ele deve vir de fonte legítima, Direção ou Mesa.
 
-## Origem legítima de conflito
+---
 
-Oposição pode nascer de:
+# Sem reconstrução retroativa
 
-```text
-fatos do mundo já estabelecidos
-personagens com Cadeira
-forças sob Opositor ativo
-processos e prazos existentes
-relações e instituições existentes
-consequência causal de ações anteriores
-preparação prospectiva legítima
-Direção do Diretor
-```
-
-Conflito não nasce apenas porque uma cena parece fácil.
-
-> **Não existe obrigação de conflito.**
-
-## Sem reconstrução retroativa
-
-Depois de conhecer a ação de uma Cadeira, nenhuma autoridade inferior pode inventar que já existia exatamente o obstáculo necessário para anulá-la.
+Depois de conhecer a ação de uma Cadeira, não inventar que já existia exatamente o obstáculo necessário para anulá-la.
 
 ```text
 jogada conhecida
 → não reconstruir o tabuleiro contra ela.
 ```
 
-Novos fatos podem surgir prospectivamente quando possuem causa e oportunidade legítimas.
+Novos fatos podem surgir prospectivamente quando possuírem causa e oportunidade legítimas.
 
-## Insistência
+---
 
-Uma personagem pode insistir numa tentativa desfavorável ou incapaz de alcançar o resultado final por aquele método quando essa insistência permanece aberta ou foi determinada.
+# Insistência e fracasso local
 
-A insistência pode produzir consequências coerentes:
+Uma personagem pode insistir num método ruim ou incapaz quando isso é coerente.
+
+Isso pode produzir:
 
 ```text
 esforço
+cansaço
 ferimento
-exaustão
 perda de posição
-sucesso local menor
 informação
-mudança de situação
+sucesso parcial local
+mudança da situação
 ```
 
-Mas insistir não cria capacidade inexistente.
+Não porque um teste “falhou”, mas porque os fatos e o método sustentam essas consequências.
 
-## Consulta causal
+Insistência não cria capacidade inexistente.
 
-O Diretor pode perguntar antecipadamente o que aconteceria sob determinadas condições.
+---
+
+# Alinhamento
+
+Quando o Diretor deseja chegar a X:
 
 ```text
-[Se a Personagem A fizer X e as condições Y estiverem presentes, o que a Personagem B tende a fazer?]
+[quero que esta sequência termine em X]
 ```
 
-Isso pertence à Mesa ou à camada de Consulta, não à sentença ficcional.
-
-O Narrador/Juiz responde usando:
+o sistema pode usar a Mesa para verificar:
 
 ```text
-fatos
-ficha
-histórico
-vontades atuais
-relações
-condições da cena
-Direções vigentes
+quem precisa aceitar X?
+que condições são necessárias?
+o que já existe para sustentar X?
+o que precisa mudar?
 ```
 
-Quando houver uma consequência suficientemente determinada, responder de forma clara.
-
-Quando ainda existir um ponto realmente dependente de decisão aberta, indicar qual é esse ponto em vez de inventar probabilidade numérica.
-
-O Diretor pode então:
+Depois que X é fechado:
 
 ```text
-aceitar a consequência prevista
-mudar as condições
-perguntar o que mudaria o resultado
-alinhar a ficção para produzir determinado resultado
-determinar diretamente o resultado
-ou deixar a questão aberta para as Cadeiras
+X
+→ não é incerteza oculta.
+
+Cadeiras
+→ constroem suas partes do caminho.
+
+Narrador
+→ apresenta o desenvolvimento.
 ```
 
-> **O W4D resolve causalidade; não exige probabilidade.**
+Se uma condição estabelecida torna X incompatível, isso deve ser informado antes da execução quando relevante.
 
-## Alinhamento causal
+O Diretor pode mudar X, mudar a condição, criar preparação legítima ou manter conscientemente a exceção.
 
-Quando o Diretor diz que deseja chegar a X e pede alinhamento, o Narrador deve construir um caminho plausível para X sem tratar X como incerteza oculta.
+---
+
+# Acaso é opcional e externo ao núcleo
+
+O Diretor pode deliberadamente entregar uma parte da autoria ao acaso.
+
+Exemplo:
 
 ```text
-[Quero que essa relação chegue em confiança. Alinhe para isso.]
+"não tenho preferência; vamos sortear entre A e B."
 ```
 
-significa:
+Isso é uma escolha autoral específica.
+
+Não cria uma regra universal de dados, dificuldade ou RNG.
+
+> **O W4D não introduz acaso só para fabricar incerteza.**
+
+---
+
+# Quando parar e quando continuar
 
 ```text
-X = rumo desejado
-→ identificar condições necessárias
-→ preservar fatos já estabelecidos
-→ criar ou usar oportunidades legítimas
-→ conduzir a ficção até X dentro do espaço permitido
+NOVA DECISÃO ABERTA
++
+CADEIRA IA disponível
+→ trocar de escopo
+→ decidir
+→ continuar.
 ```
-
-Se alguma condição estabelecida impede X de modo relevante, informar o Diretor.
-
-O Diretor pode então alterar a condição, redefinir X ou determinar conscientemente a exceção.
-
-Alinhamento não exige que todas as falas, emoções ou decisões intermediárias sejam fechadas. Ele fecha apenas o rumo que o Diretor efetivamente determinou como destino da condução.
-
-> **Perguntar para prever. Alinhar para construir. Determinar para fechar.**
-
-## Direção fechada
-
-Se o Diretor fechou intenção, decisão, ação ou resultado e autorizou sua execução:
 
 ```text
-NARRADOR
-→ não reabre a pergunta sobre se aquilo acontecerá.
-→ sentencia e constrói o caminho dentro do espaço restante.
+NOVA DECISÃO ABERTA
++
+CADEIRA depende de humano ou executor externo indisponível
+→ parar
+→ aguardar.
 ```
 
-Se a Direção parece incompatível com fatos estabelecidos, apontar a tensão quando relevante. Se o Diretor mantiver a determinação, ela prevalece no escopo fechado.
-
-A personagem não recebe conhecimento de um resultado futuro apenas porque o executor conhece a Direção.
-
-Se a própria vontade da personagem foi determinada, porém, essa vontade já faz parte da ficção quando a execução começa e deve ser tratada como tal.
-
-## Tempo
-
-Tempo é continuidade compartilhada, não fila fixa.
-
-Uma Cadeira pode declarar intenção breve ou prolongada:
+Também parar quando houver:
 
 ```text
-abro a porta
-vou trabalhar até o almoço
-pesquiso durante a tarde
+Diretor precisa decidir algo material
+Mesa aberta aguardando fechamento
+Auditoria pendente
+perda de contexto
+fonte indispensável ausente
 ```
 
-Uma intenção prolongada define horizonte, não salto garantido.
+> **Pare por indisponibilidade de autoria, não pela mera existência de autoria.**
 
-Enquanto ela continua:
+---
 
-```text
-outras Cadeiras podem agir
-processos avançam
-prazos chegam
-ambiente muda por causalidade
-Opositor pode agir quando legitimamente pertinente
-```
+# Regra final
 
-Interromper somente quando alguma mudança cria autoria que o fluxo atual não pode resolver legitimamente ou exige nova decisão do Diretor/Auditoria.
-
-## Conflito rápido e combate
-
-Combate usa a mesma resolução.
-
-Considerar:
-
-```text
-intenção
-posição
-oportunidade
-experiência
-competências
-Poderes
-Traços
-Estado
-ambiente
-alcance
-oposição legítima
-Direção pertinente
-```
-
-Não existe necessidade de trocar a autoria por um modo separado apenas porque começou uma luta.
-
-## Questão realmente aberta
-
-Pode ocorrer de os fatos não determinarem e nenhuma Cadeira possuir autoridade unilateral sobre o resultado inteiro.
-
-Nesse caso:
-
-```text
-continuar a interação
-mudar método ou fatos
-abrir Auditoria se houver dúvida real
-consultar o Diretor se a questão for de direção
-```
-
-O acaso pode ser usado somente se o Diretor ou a Mesa deliberadamente entregar aquela parte específica da autoria ao acaso.
-
-Não existe mecanismo universal obrigatório de sorte e o sistema não deve introduzir RNG apenas para produzir incerteza.
-
-Se o Diretor não quer incerteza sobre aquele ponto, ele pode consultar causalidade, alinhar condições ou determinar o resultado.
-
-## Regra final
-
-> **Na Ficção, quando os fatos determinam, o Narrador sentencia. Quando existe escolha voluntária real e aberta, a Cadeira decide. Uma nova decisão só interrompe o fluxo se seu executor não estiver disponível ou se ela pertencer ao Diretor/Auditoria. Quando o Diretor alinha, o Narrador constrói o caminho. Quando determina e autoriza execução, o escopo fechado não é reaberto.**
+> **O W4D resolve resultados importantes por autoria, não por julgamento oculto. Consequências evidentes podem seguir diretamente; vontades abertas pertencem às Cadeiras; resultados materialmente abertos podem ir à Mesa; o Diretor fecha quanto desejar; e o Narrador apresenta a versão autorizada sem inventar uma sentença paralela.**
