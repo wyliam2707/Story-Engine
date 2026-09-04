@@ -94,19 +94,11 @@ Não inventar uma campanha perdida.
 → prosseguir para validação sem exigir escolha redundante
 ```
 
-Exemplo:
-
-```text
-Encontrei apenas "Duas Vidas Normais". Vou reancorá-la.
-```
-
 ### Mais de uma obra disponível
 
 Não escolher silenciosamente por recência, preferência da IA ou semelhança temática.
 
-Mostrar uma lista curta suficiente para o Diretor reconhecer cada obra.
-
-Quando disponível, usar:
+Mostrar lista curta suficiente para o Diretor reconhecer cada obra, usando quando disponível:
 
 ```text
 nome
@@ -114,18 +106,7 @@ status
 proposta curta
 ```
 
-Exemplo:
-
-```text
-Encontrei estas histórias:
-
-1. Duas Vidas Normais — PRONTA — comédia romântica universitária.
-2. Cidade Partida — PAUSADA — investigação urbana sobrenatural.
-
-Qual você quer continuar?
-```
-
-A data de modificação pode ordenar a lista quando útil, mas **não decide pela pessoa**.
+A data de modificação pode ordenar a lista; não decide pela pessoa.
 
 > **Recência ajuda a localizar. Não concede autoridade para escolher.**
 
@@ -154,13 +135,11 @@ cânone externo, quando houver
 
 O README da obra é a porta de entrada da história existente.
 
-Não começar lendo capítulos aleatórios para tentar inferir a configuração atual.
+Não começar lendo capítulos aleatórios para inferir configuração atual.
 
 ---
 
 # Passo 3 — Interpretar o status
-
-O status informa **o que está sendo retomado**, não apenas se a pasta existe.
 
 Estados recomendados:
 
@@ -178,41 +157,39 @@ PAUSADA
 → obra em andamento interrompida; reancorar normalmente.
 
 ENCERRADA
-→ não reabrir automaticamente a Ficção.
-→ informar o estado e aguardar o Diretor confirmar que deseja reabrir, continuar depois do encerramento ou apenas consultar a obra.
+→ não reabrir automaticamente a Ficção;
+→ informar o estado e aguardar o Diretor dizer se quer reabrir, continuar depois do encerramento ou apenas consultar.
 ```
 
-Se uma obra antiga usar nomenclatura equivalente como `PRONTA PARA JOGAR`, interpretar semanticamente sem exigir migração antes da retomada.
+Se obra antiga usar nomenclatura equivalente como `PRONTA PARA JOGAR`, interpretar semanticamente sem exigir migração antes da retomada.
 
-Status desconhecido não autoriza a IA a inventar seu significado. Tratar como ponto de Auditoria documental.
+Status desconhecido não autoriza a IA a inventar significado. Tratar como ponto de Auditoria documental.
 
 ---
 
 # Passo 4 — Validar o workspace
 
-Antes de produzir nova ficção, verificar se existem as fontes mínimas esperadas para o estado declarado.
-
-Para obra em Ficção:
+Para obra em Ficção, verificar primeiro:
 
 ```text
 README.md
-[obrigatório]
+→ obrigatório.
 
 direcao.md
-[esperado]
+→ esperado.
 
 estado.md
-[obrigatório para retomada precisa]
+→ obrigatório para retomada precisa.
 
 personagens/
-[deve conter as fichas necessárias para as Cadeiras que serão reconstruídas]
+→ deve conter fichas necessárias para as Cadeiras que serão reconstruídas.
 ```
 
 Fontes condicionais:
 
 ```text
 operacao.md
-→ somente se existe operação transitória persistida.
+→ quando existe operação transitória persistida.
 
 arco.md
 → quando Arco Preparado está ativo e pertinente.
@@ -227,13 +204,11 @@ mundo/
 → quando fatos externos persistentes exigirem consulta.
 ```
 
-A validação não precisa ler tudo. Ela verifica primeiro se o workspace possui estrutura suficiente para uma retomada confiável.
+A validação não precisa ler tudo. Primeiro verifica integridade suficiente para retomada confiável.
 
 ---
 
 # Falhas de integridade
-
-Nem toda ausência tem o mesmo peso.
 
 ## Falha bloqueante
 
@@ -245,6 +220,7 @@ não é possível identificar o último fato ficcional
 não é possível saber qual personagem o Diretor controla
 Cadeira necessária não possui informação suficiente para reconstrução
 fontes existentes se contradizem exatamente no ponto de retorno
+fluxo antigo ainda depende de Juiz para decidir resultado material aberto
 ```
 
 Nesse caso:
@@ -262,6 +238,7 @@ Exemplos:
 
 ```text
 README usa status antigo equivalente
+README usa rótulo legado NARRADOR / JUIZ, mas sem depender de poder de Juiz
 índice do Livro está desatualizado mas capítulos são identificáveis
 arquivo opcional declarado não é pertinente à cena atual
 formatação antiga não muda o significado
@@ -269,15 +246,19 @@ formatação antiga não muda o significado
 
 A IA pode normalizar sua leitura operacional sem interromper a retomada, desde que não altere fatos ou autoridade.
 
-> **Tolerar formato antigo não significa preencher conteúdo ausente.**
+```text
+NARRADOR / JUIZ
+→ interpretar como NARRADOR
+→ não reativar sentença causal, RNG oculto ou arbitragem soberana.
+```
+
+> **Tolerar formato antigo não significa preencher conteúdo ausente nem reativar função removida.**
 
 ---
 
 # Passo 5 — Carregar somente o necessário
 
-Depois da validação, seguir a ordem de reancoragem de `06-REGISTRO-E-RETOMADA.md`.
-
-Ordem operacional resumida:
+Seguir a ordem de reancoragem de `06-REGISTRO-E-RETOMADA.md`:
 
 ```text
 1. README da obra
@@ -289,8 +270,6 @@ Ordem operacional resumida:
 7. mundo necessário
 8. Livro somente para passado que precise ser reconstruído
 ```
-
-Não carregar toda a biblioteca da obra por reflexo.
 
 ```text
 CONTEXTO NECESSÁRIO
@@ -372,7 +351,7 @@ Então:
 restaurar proposta em exame
 restaurar Cadeiras já consultadas
 restaurar opiniões condensadas
-restaurar PARECER do Narrador
+restaurar Parecer do Narrador
 identificar o que o Diretor ainda precisa decidir
 → permanecer na Mesa
 ```
@@ -385,7 +364,7 @@ Não executar a proposta durante a retomada.
 operacao.md → AUDITORIA
 ```
 
-Então continuar a verificação antes de qualquer Ficção dependente dela.
+Continuar a verificação antes de qualquer Ficção dependente dela.
 
 ## Correção pendente
 
@@ -413,23 +392,21 @@ CAMADA ATUAL
 PRÓXIMO PONTO REAL
 → o que ainda não foi decidido ou executado?
 
-PRÓXIMA AUTORIDADE
-→ quem tem legitimidade para agir ou decidir agora?
+PRÓXIMA AUTORIA OU FUNÇÃO
+→ existe decisão voluntária? De quem?
+→ ou existe apenas consequência ordinária/evidente a apresentar?
+→ ou existe resultado material importante ainda aberto que precisa de Mesa?
 ```
 
-Se essas quatro respostas entram em conflito, não continuar até resolver a inconsistência.
+Se essas respostas entram em conflito, não continuar até resolver a inconsistência.
 
 ---
 
 # Passo 10 — Como responder depois de reancorar
 
-A retomada não precisa produzir um relatório longo.
+A retomada não precisa produzir relatório longo.
 
-A IA deve informar apenas o suficiente para o Diretor saber que voltou ao lugar correto.
-
-## Ficção pronta para continuar
-
-Formato recomendado:
+Formato recomendado quando a Ficção está pronta:
 
 ```text
 [Nome] reancorada.
@@ -438,14 +415,25 @@ Formato recomendado:
 Ponto atual: [...]
 ```
 
-Depois aplicar a regra normal de autoria:
+Depois aplicar:
 
 ```text
-próxima autoria disponível para Cadeira IA / Narrador
+próxima autoria pertence a Cadeira IA disponível
+→ trocar de escopo
+→ decidir
 → continuar.
 
-próxima autoria pertence ao Diretor ou executor externo
-→ parar no ponto e aguardar.
+próximo passo é consequência ordinária e evidente
+→ Narrador apresenta
+→ continuar.
+
+resultado material importante permanece realmente aberto
+→ Narrador não escolhe secretamente
+→ Mesa, quando necessária.
+
+próxima autoria pertence ao Diretor ou executor externo indisponível
+→ parar no ponto
+→ aguardar.
 ```
 
 O comando `continue` ou `retome` autoriza a retomada da obra; **não concede à IA autoridade sobre decisões que continuam pertencendo ao Diretor**.
@@ -490,15 +478,11 @@ não responder apenas:
 
 A intenção de retomada já está dada.
 
-Da mesma forma, depois de reancorar uma cena cujo próximo movimento pertence a uma Cadeira IA disponível, não é necessário pedir:
+Depois de reancorar uma cena cujo próximo movimento pertence a Cadeira IA disponível, não pedir `posso continuar?`.
 
-```text
-"posso continuar?"
-```
+Do mesmo modo, uma consequência evidente não exige permissão ou Mesa artificial.
 
-A IA deve continuar dentro da autoridade que já possui.
-
-Parar somente quando a próxima autoria legítima realmente depende do Diretor, de outro executor indisponível ou de operação pendente.
+Parar quando a próxima autoria legítima realmente depende do Diretor, de outro executor indisponível, ou quando uma operação autoral está pendente.
 
 > **Não pedir permissão para executar autoridade que já foi atribuída. Não assumir autoridade que não foi atribuída.**
 
@@ -507,8 +491,6 @@ Parar somente quando a próxima autoria legítima realmente depende do Diretor, 
 # Não atualizar fontes apenas por retomar
 
 Reancoragem é leitura e reconstrução.
-
-Ela não exige escrever novamente os arquivos apenas para marcar que foram lidos.
 
 Atualizar fontes somente quando:
 
@@ -542,14 +524,15 @@ RETOMAR
 9. restaurar módulos pertinentes;
 10. identificar a camada atual;
 11. identificar último fato e próximo ponto real;
-12. identificar quem possui a próxima autoria;
+12. identificar próxima autoria ou função;
 13. informar brevemente a reancoragem;
-14. continuar se a autoridade necessária estiver disponível;
-15. parar somente quando a próxima autoria exigir o Diretor ou outro executor indisponível.
+14. continuar quando Cadeira IA ou continuidade evidente permitir;
+15. usar Mesa quando resultado material importante continuar aberto;
+16. parar quando a próxima autoria exigir Diretor ou executor externo indisponível.
 ```
 
 ---
 
 # Regra final
 
-> **Continuar uma história não é recontá-la, reconstruí-la do zero nem escolher por recência. A IA identifica a obra correta, valida suas fontes, reancora presente, personagens e operação, encontra a próxima autoria legítima e retorna exatamente à camada em que a obra realmente parou.**
+> **Continuar uma história não é recontá-la, reconstruí-la do zero nem escolher por recência. A IA identifica a obra correta, valida suas fontes, reancora presente, personagens e operação, encontra a próxima autoria ou função legítima e retorna exatamente à camada em que a obra realmente parou — sem transformar o Narrador em Juiz.**
