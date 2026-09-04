@@ -16,7 +16,7 @@ NARRADOR / JUIZ
 Executor: IA
 
 CADEIRAS
-- Daniel → Executor: HUMANO
+- Daniel → Executor: IA
 - Kara Zor-El → Executor: IA
 - Clark Kent / Superman → Executor: IA, recorrente
 - Morgana de Arcanus → Executor: IA, recorrente
@@ -32,6 +32,24 @@ Bruce, Diana, John, Barry e J'onn formam o núcleo recorrente da Liga mais próx
 
 Outras personagens secundárias podem receber Cadeira eventual quando uma decisão voluntária relevante exigir autoria própria.
 
+## Modo atual — Direção conjunta
+
+O Diretor humano conduz a campanha sem assumir uma Cadeira fixa.
+
+Cada personagem envolvida é executada por sua própria Cadeira IA em escopo separado. A mesma IA técnica pode executar várias Cadeiras, mas conhecimento, intenção e decisão permanecem compartimentados.
+
+Antes de um bloco importante, somente personagens que possuam intenção concreta de participar, interferir ou mover algo que alcance a cena entram no cruzamento.
+
+```text
+PERSONAGEM PODERIA PARTICIPAR
+≠
+PERSONAGEM PRETENDE PARTICIPAR
+```
+
+O Diretor pode determinar quadro, ritmo, fatos fechados, limites e resultados estruturais. As Cadeiras formam suas intenções dentro do espaço que permanece aberto. O Narrador/Juiz cruza tudo e narra a consequência.
+
+O Diretor também pode delimitar intervalos de execução, acelerar rotina ou determinar quando uma cena deve avançar até certo ponto sem assumir a autoria voluntária das personagens.
+
 ## Módulos
 
 - Arco Preparado: ATIVO
@@ -41,9 +59,11 @@ Outras personagens secundárias podem receber Cadeira eventual quando uma decis�
 
 ## Convenção textual
 
-Texto normal do Diretor durante a ficção representa ação, intenção ou fala da Cadeira de Daniel, quando o contexto não indicar outra coisa.
+Como o Diretor atualmente não executa Daniel nem outra Cadeira fixa, mensagens do humano são interpretadas semanticamente como Direção, Consulta, Auditoria, Análise, Correção ou instrução de condução.
 
-Texto entre colchetes representa comunicação do Diretor fora da ficção. A semântica define se é Direção, Consulta, Auditoria, Análise ou Correção.
+Texto entre colchetes continua sendo a forma explícita de marcar comunicação autoral fora da ficção, mas a ausência de colchetes não transfere automaticamente a mensagem para uma Cadeira.
+
+Falas ou ações de personagem fornecidas diretamente pelo Diretor continuam válidas quando ele identifica claramente a personagem ou quando o contexto torna essa atribuição inequívoca.
 
 ## Registro em Livro
 
