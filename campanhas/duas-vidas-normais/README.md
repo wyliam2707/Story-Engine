@@ -5,7 +5,7 @@ STATUS
 
 ## Proposta curta
 
-Comédia romântica universitária em formato de fanfic, centrada em Kara Zor-El e Daniel, dois jovens adultos que tentam preservar uma vida comum enquanto escondem um do outro suas identidades extraordinárias.
+Comédia romântica universitária em formato de fanfic, centrada em Kara Zor-El e Daniel, dois jovens adultos que tentam preservar uma vida comum enquanto suas identidades extraordinárias entram cada vez mais na mesma história.
 
 ## Autoridades
 
@@ -15,8 +15,13 @@ Executor: HUMANO
 NARRADOR / JUIZ
 Executor: IA
 
+PERSONAGEM DO DIRETOR
+- Daniel Merlin de Arcanus / Myrddin
+  - vontade: DIRETOR
+  - executor padrão: IA quando o Diretor delega a execução
+  - o Diretor pode executar Daniel diretamente a qualquer momento
+
 CADEIRAS
-- Daniel → Executor: IA
 - Kara Zor-El → Executor: IA
 - Clark Kent / Superman → Executor: IA, recorrente
 - Morgana de Arcanus → Executor: IA, recorrente
@@ -25,20 +30,38 @@ CADEIRAS
 - John Stewart / Lanterna Verde → Executor: IA, recorrente
 - Barry Allen / Flash → Executor: IA, recorrente
 - J'onn J'onzz / Caçador de Marte → Executor: IA, recorrente
+- Zatanna Zatara → Executor: IA, recorrente quando pertinente
 
 Clark e Morgana são familiares recorrentes dos protagonistas, não apenas figuras utilitárias de cena.
 
-Bruce, Diana, John, Barry e J'onn formam o núcleo recorrente da Liga mais próximo de Kara. Na prática afetiva, funcionam como “tios da Liga”: família escolhida, cada um com personalidade e relação próprias com ela. Continuam coadjuvantes, mas preservam autoria própria quando possuem uma decisão voluntária realmente disponível.
+Bruce, Diana, John, Barry e J'onn formam o núcleo recorrente da Liga mais próximo de Kara. Na prática afetiva, funcionam como “tios da Liga”: família escolhida, cada um com personalidade e relação próprias com ela. Continuam coadjuvantes, mas preservam autoria própria quando possuem uma decisão voluntária realmente disponível e deixada aberta.
 
 Outras personagens secundárias podem receber Cadeira eventual quando uma decisão voluntária relevante exigir autoria própria.
 
-## Modo atual — Direção conjunta
+## Modo atual — Direção conjunta com Personagem do Diretor
 
-O Diretor humano conduz a campanha sem assumir uma Cadeira fixa.
+O Diretor humano conduz a campanha e mantém Daniel como seu Personagem do Diretor.
 
-Cada personagem envolvida é executada por sua própria Cadeira IA em escopo separado. A mesma IA técnica pode executar várias Cadeiras, mas conhecimento, intenção e decisão permanecem compartimentados.
+Isso significa:
 
-Antes de um bloco importante, somente personagens que possuam intenção concreta de participar, interferir ou mover algo que alcance a cena entram no cruzamento.
+```text
+VONTADE DE DANIEL
+→ pertence ao Diretor.
+
+EXECUÇÃO DE DANIEL
+→ pode ser feita diretamente pelo Diretor
+→ ou delegada à IA sem transferir a vontade.
+```
+
+Quando o Diretor determina que Daniel quer, decide ou faz algo, a IA executa de forma coerente sem transformar a determinação em sugestão nem criar oposição autônoma.
+
+As demais personagens são executadas por suas próprias Cadeiras IA em escopo separado. A mesma IA técnica pode executar várias Cadeiras, mas conhecimento, intenção e decisão permanecem compartimentados.
+
+O Diretor pode deixar essas Cadeiras livres, consultá-las, alinhá-las, corrigir sua postura ou determinar diretamente intenção, decisão, ação ou resultado quando desejar.
+
+A autonomia de uma Cadeira existe apenas no espaço que a Direção deixou aberto.
+
+Antes de um bloco importante, somente personagens que possuam intenção concreta de participar, interferir ou mover algo que alcance a cena entram no cruzamento, salvo quando o Diretor determinar sua entrada.
 
 ```text
 PERSONAGEM PODERIA PARTICIPAR
@@ -46,9 +69,23 @@ PERSONAGEM PODERIA PARTICIPAR
 PERSONAGEM PRETENDE PARTICIPAR
 ```
 
-O Diretor pode determinar quadro, ritmo, fatos fechados, limites e resultados estruturais. As Cadeiras formam suas intenções dentro do espaço que permanece aberto. O Narrador/Juiz cruza tudo e narra a consequência.
+O Narrador/Juiz cruza Direção, fatos e intenções abertas e narra a consequência.
 
-O Diretor também pode delimitar intervalos de execução, acelerar rotina ou determinar quando uma cena deve avançar até certo ponto sem assumir a autoria voluntária das personagens.
+## Daniel como motor de cena
+
+Daniel pode ser usado pelo Diretor como motor interno da ficção.
+
+Exemplo:
+
+```text
+[Daniel se interessa por alguém e decide puxar conversa.]
+```
+
+A vontade de Daniel já está fechada. A IA pode escolher como ele executa essa aproximação de modo compatível com sua ficha.
+
+A resposta da outra Cadeira permanece aberta se o Diretor não a determinar.
+
+Esse recurso permite ao Diretor iniciar romance, conflito, curiosidade, investigação, erro, impulso ou qualquer outra trajetória por dentro da ficção sem precisar controlar todas as personagens envolvidas.
 
 ## Módulos
 
@@ -59,11 +96,18 @@ O Diretor também pode delimitar intervalos de execução, acelerar rotina ou de
 
 ## Convenção textual
 
-Como o Diretor atualmente não executa Daniel nem outra Cadeira fixa, mensagens do humano são interpretadas semanticamente como Direção, Consulta, Auditoria, Análise, Correção ou instrução de condução.
+Mensagens do humano são interpretadas semanticamente conforme o contexto.
 
-Texto entre colchetes continua sendo a forma explícita de marcar comunicação autoral fora da ficção, mas a ausência de colchetes não transfere automaticamente a mensagem para uma Cadeira.
+Texto entre colchetes continua sendo a forma explícita de marcar comunicação autoral fora da ficção:
 
-Falas ou ações de personagem fornecidas diretamente pelo Diretor continuam válidas quando ele identifica claramente a personagem ou quando o contexto torna essa atribuição inequívoca.
+```text
+[texto]
+→ Direção, Consulta, Auditoria, Análise, Correção ou outra operação autoral conforme a semântica.
+```
+
+Quando o Diretor fornece ação, fala, vontade ou decisão de Daniel de forma inequívoca, isso vale como execução ou determinação do Personagem do Diretor, mesmo que a IA esteja executando o restante da cena.
+
+Não presumir que toda mensagem sem colchetes seja fala de Daniel quando o contexto é claramente metaconversa ou Direção.
 
 ## Registro em Livro
 
