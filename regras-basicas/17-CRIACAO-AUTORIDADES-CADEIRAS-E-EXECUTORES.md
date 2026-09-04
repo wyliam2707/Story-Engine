@@ -245,7 +245,7 @@ O mesmo vale para pequenos gestos e execução compatível.
 
 # Resultado fechado e Cadeiras
 
-Quando a Mesa/Director fecha um resultado:
+Quando a Mesa/Diretor fecha um resultado:
 
 ```text
 RESULTADO
