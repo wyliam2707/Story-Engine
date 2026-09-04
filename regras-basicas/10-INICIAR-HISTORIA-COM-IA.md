@@ -2,9 +2,9 @@
 
 Este arquivo coordena **somente o ramo NOVA HISTÓRIA**.
 
-Ele deve ser usado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`, quando criar uma obra nova já foi escolhido ou está inequívoco.
+Ele deve ser usado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`.
 
-> **BOOT escolhe o caminho. Este arquivo coordena as etapas. Cada etapa específica define seu próprio trabalho.**
+> **BOOT escolhe o caminho. Este arquivo coordena as etapas. Cada etapa específica define seu trabalho.**
 
 Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM-IA.md`.
 
@@ -79,7 +79,7 @@ Não repetir perguntas já respondidas e não exigir planejamento futuro que o D
 
 # 1 — Premissa
 
-A Premissa responde:
+Responde:
 
 > **Que história estamos tentando construir?**
 
@@ -98,28 +98,23 @@ Responde:
 
 > **Como queremos experimentar e apresentar esta história?**
 
-Pode definir gênero, tom, ritmo, escala, perspectiva ou limites de apresentação quando realmente importarem.
+Pode definir gênero, tom, ritmo, escala, perspectiva e limites quando realmente importarem.
 
-Não usar gênero para importar clichês como fatos.
-
-```text
-ESTILO / TOM: APROVADO
-→ Nome / Destino
-```
+Não importar clichês como fatos.
 
 ---
 
-# 3 — Nome / Destino Canônico
+# 3 — Nome / Destino
 
 Definir:
 
 ```text
-NOME DA OBRA
+NOME
 SLUG
 DESTINO → campanhas/<slug>/
 ```
 
-Antes de criar, verificar se o slug já existe.
+Antes de criar, verificar conflito.
 
 Criar primeiro:
 
@@ -138,7 +133,7 @@ DESTINO CRIADO
 
 # 4 — Personagens Centrais
 
-Definir quem precisa sustentar materialmente a Premissa no início.
+Definir quem precisa sustentar a Premissa no início.
 
 ```text
 PERSONAGEM CENTRAL
@@ -146,8 +141,6 @@ PERSONAGEM CENTRAL
 ```
 
 Não criar elenco ornamental por hábito.
-
-Depois da aprovação, registrar apenas um bloco curto no `README.md`.
 
 ---
 
@@ -177,7 +170,7 @@ FICHA SUFICIENTE
 ≠ FICHA EXAUSTIVA
 ```
 
-Não inventar trauma, segredo, fraqueza, poder ou drama apenas para preencher campos.
+Não inventar trauma, segredo, fraqueza, poder ou drama para preencher campos.
 
 ---
 
@@ -185,7 +178,7 @@ Não inventar trauma, segredo, fraqueza, poder ou drama apenas para preencher ca
 
 Usar `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md`.
 
-Definir quem possui cada vontade e quem opera cada autoridade.
+Ordem:
 
 ```text
 PESSOA
@@ -194,13 +187,22 @@ PESSOA
 → EXECUTOR
 ```
 
-Na configuração comum:
+Configuração comum:
 
 ```text
 DIRETOR → HUMANO
-NARRADOR / JUIZ → IA
+NARRADOR → IA
 CADEIRAS não atribuídas ao Diretor → IA
 ```
+
+No W4D atual:
+
+```text
+NARRADOR
+≠ JUIZ
+```
+
+O Narrador apresenta a Ficção; resultados materiais abertos podem ir à Mesa.
 
 Não escolher silenciosamente qual personagem pertence ao Diretor.
 
@@ -209,7 +211,7 @@ DELEGAR EXECUÇÃO
 ≠ TRANSFERIR VONTADE
 ```
 
-Registrar a configuração aprovada no `README.md`.
+Registrar configuração aprovada no `README.md`.
 
 ---
 
@@ -219,9 +221,7 @@ Usar `18-CRIACAO-DIRECAO.md`.
 
 A Direção inicial preserva o que o Diretor já decidiu e ainda precisa continuar válido.
 
-> **Direção não é um plano obrigatório do futuro.**
-
-Se não há arco, final ou trajetória futura decididos, eles permanecem abertos.
+> **Direção não é plano obrigatório do futuro.**
 
 ```text
 DIRETOR NÃO DECIDIU
@@ -244,21 +244,19 @@ Definir:
 
 ```text
 POLÍTICA DE MESA
-POLÍTICA DE INDICADOR OPERACIONAL
+INDICADOR OPERACIONAL
 MÓDULOS ATIVOS
 ```
 
-Padrões quando o Diretor não demonstra preferência:
+Padrões:
 
 ```text
 MESA: SOB DEMANDA
 INDICADOR OPERACIONAL: SILENCIOSO
-MÓDULOS: INATIVOS salvo escolha ou necessidade real.
+MÓDULOS: INATIVOS salvo escolha ou necessidade real
 ```
 
-> **Padrões existem para evitar perguntas desnecessárias.**
-
-Registrar no `README.md`.
+Padrões existem para evitar perguntas inúteis.
 
 ---
 
@@ -266,9 +264,9 @@ Registrar no `README.md`.
 
 Usar `20-CRIACAO-MUNDO-NECESSARIO.md`.
 
-Pergunta central:
+Pergunta:
 
-> **Existe algum fato externo às personagens que precisa estar definido antes do START?**
+> **Existe fato externo às personagens que precisa estar definido antes do START?**
 
 Resultado válido:
 
@@ -277,14 +275,6 @@ MUNDO NECESSÁRIO: NENHUM ANTES DO START
 ```
 
 Não construir enciclopédia por obrigação.
-
-Quando houver fatos realmente necessários:
-
-```text
-campanhas/<slug>/mundo/<assunto>.md
-```
-
-Cânone externo pode preencher lacunas permitidas; decisões locais prevalecem.
 
 ---
 
@@ -297,11 +287,9 @@ Usar:
 modelos/ESTADO.md
 ```
 
-Pergunta central:
+Pergunta:
 
-> **Onde estamos quando a Ficção abrir, o que já é verdade nesse instante e qual é a primeira coisa que continua aberta?**
-
-O Estado inicial é uma âncora, não um roteiro.
+> **Onde estamos quando a Ficção abrir, o que já é verdade e qual é a primeira coisa que continua aberta?**
 
 ```text
 ESTADO SUFICIENTE
@@ -315,30 +303,13 @@ Antes da primeira cena:
 → história ainda não iniciada.
 ```
 
-O primeiro ponto aberto deve identificar onde a autoria começa sem decidir por quem ainda possui essa escolha.
-
-```text
-primeiro ponto aberto pertence a Cadeira IA disponível
-→ START pode trocar de escopo e continuar.
-
-primeiro ponto aberto pertence ao Personagem do Diretor
-→ START apresenta a situação e aguarda o Diretor,
-  salvo Direção ou delegação suficiente.
-```
-
-Não exigir incidente incitante, ameaça ou conflito para poder começar.
-
-Salvar em:
-
-```text
-campanhas/<slug>/estado.md
-```
+O primeiro ponto aberto deve preservar a autoria correta.
 
 ---
 
 # Persistência progressiva
 
-Depois que o workspace existe, salvar somente material aprovado na fonte correta.
+Depois que o workspace existe:
 
 ```text
 Premissa / Estilo / composição central / autoridades / políticas
@@ -357,11 +328,11 @@ mundo necessário
 → estado.md
 ```
 
-Se uma etapa ainda aberta precisar sobreviver a perda de contexto:
+Se etapa ainda aberta precisar sobreviver à perda de contexto:
 
 ```text
 operacao.md
-→ preserva o processo pendente sem canonizá-lo.
+→ preserva processo pendente sem canonizá-lo.
 ```
 
 > **Persistir o que foi decidido. Não antecipar o que continua aberto.**
@@ -380,31 +351,13 @@ A Auditoria responde:
 
 > **Uma nova IA conseguiria iniciar corretamente esta obra usando somente as fontes persistentes?**
 
-Ela verifica:
+Ela verifica também que a obra usa a arquitetura atual:
 
 ```text
-identidade da obra
-personagens necessárias reconstruíveis
-autoridades e executores
-Direção legítima
-políticas operacionais
-mundo necessário ou sua ausência legítima
-Estado inicial
-primeiro ponto aberto
-próxima autoria
-separação correta entre fontes
-contradições bloqueantes
-```
-
-A Auditoria não exige:
-
-```text
-final
-arco completo
-antagonista
-worldbuilding exaustivo
-fichas de figurantes
-revelações futuras
+Narrador sem função de Juiz
+Mesa disponível para resultados materiais abertos
+sem RNG universal
+sem sentença causal escondida
 ```
 
 ```text
@@ -415,31 +368,12 @@ PRONTA
 ≠ completamente planejada.
 ```
 
-Ela deve trabalhar sozinha até encontrar uma decisão que realmente pertença ao Diretor.
-
-```text
-correção mecânica segura
-→ corrigir sem nova pergunta.
-
-falha bloqueante autoral
-→ apresentar somente o bloqueio real
-→ aguardar a autoridade adequada.
-```
-
 Se aprovada:
 
 ```text
 AUDITORIA: APROVADA
 STATUS → PRONTA
 → START
-```
-
-Se bloqueada:
-
-```text
-AUDITORIA: BLOQUEADA
-STATUS → EM PREPARAÇÃO
-→ NÃO executar START.
 ```
 
 ---
@@ -453,19 +387,24 @@ START
 → reancorar o mínimo necessário
 → reconstruir pacotes separados das Cadeiras
 → restaurar operação pendente, se houver
-→ caso contrário identificar o primeiro ponto aberto em estado.md
-→ identificar quem possui a próxima autoria
+→ caso contrário identificar primeiro ponto aberto
+→ identificar próxima autoria
 → começar a camada correta
 ```
 
 Uma Cadeira IA disponível pode tomar a primeira iniciativa quando o espaço aberto permitir.
 
-Não existe obrigação de começar por ação, conflito ou perigo.
+Se durante a execução surgir resultado material importante ainda não fechado:
 
-> **START continua do primeiro ponto aberto; não reinventa a preparação e não reescreve o Estado inicial como se já fosse uma cena.**
+```text
+→ não usar Juiz ou RNG invisível
+→ Mesa, quando necessário
+```
+
+Não existe obrigação de começar por ação, conflito ou perigo.
 
 ---
 
 # Regra final
 
-> **Uma nova história no W4D nasce por decisões suficientes, não por planejamento exaustivo. A preparação termina quando os arquivos tornam a obra reconstruível por outra IA; a Auditoria verifica isso sem inventar conteúdo novo; e somente depois de STATUS PRONTA o START abre a Ficção.**
+> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção com Diretor, Cadeiras, Mesa e Narrador em funções separadas — sem Juiz permanente.**
