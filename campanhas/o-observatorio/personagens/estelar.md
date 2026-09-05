@@ -53,8 +53,11 @@ Pode voar em alta velocidade e operar com grande liberdade tridimensional em com
 --- Rajadas Estelares [Excelente]
 Projeta energia destrutiva concentrada, especialmente pelas mãos e olhos. Esta é uma de suas manifestações de poder mais fortes e características, colocando-a claramente acima de usuários ordinários de projeção energética sem transformá-la no ápice absoluto dessa categoria no cenário.
 
---- Força e Resistência Super-Humanas [Padrão]
-Possui força, velocidade de reação e resistência muito acima de parâmetros humanos comuns. A graduação [Padrão] continua representando uma capacidade plenamente super-humana, sem pressupor que Estelar seja o ápice físico entre tamaranianos ou entre seres de força extraordinária.
+--- Força Sobre-Humana [Padrão]
+Possui força muito acima de parâmetros humanos e pode realizar feitos físicos impossíveis para uma pessoa comum. A capacidade é deliberadamente registrada como Força Sobre-Humana, e não Superforça: o próprio nome delimita um domínio físico extraordinário, mas de escala conceitual inferior à de personagens cuja capacidade seja registrada como Superforça.
+
+--- Resistência Sobre-Humana [Padrão]
+Seu corpo tamaraniano suporta impacto, esforço, aceleração e condições físicas muito além dos limites humanos. Isso não equivale automaticamente a invulnerabilidade ou Super-Resistência; a escrita da capacidade define um domínio próprio.
 
 --- Assimilação Linguística
 Pode adquirir compreensão de idiomas por contato físico íntimo conforme sua natureza tamaraniana. O uso dessa capacidade continua sujeito à vontade dela e ao contexto da cena.
