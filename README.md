@@ -251,16 +251,31 @@ RETOMAR
 
 ---
 
-# Módulos opcionais
+# Módulos
+
+Módulos opcionais:
 
 ```text
 regras-basicas/modulos/ARCO-PREPARADO.md
 regras-basicas/modulos/OPOSITOR.md
 regras-basicas/modulos/ROMANCE.md
+```
+
+Módulo obrigatório durante a Ficção:
+
+```text
 regras-basicas/modulos/LIVRO.md
 ```
 
-Módulo inativo não participa da obra.
+```text
+OBRA EM PREPARAÇÃO
+→ o Livro pode ainda não possuir capítulos.
+
+PRIMEIRA FICÇÃO EXECUTADA
+→ Livro ATIVO obrigatoriamente.
+```
+
+Módulo opcional inativo não participa da obra. O Livro não é opcional depois que a Ficção começa.
 
 ---
 
