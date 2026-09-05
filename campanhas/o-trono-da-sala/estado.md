@@ -1,58 +1,57 @@
 # Estado
 
-Momento: fim do primeiro período consciente de Hela após despertar na fazenda de Crio.
-Local principal: casa da fazenda de Crio, dentro de seu domínio anômalo nos confins da Terra.
+Momento: três dias após o primeiro banho consciente de Hela na fazenda de Crio.
+Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu domínio anômalo nos confins da Terra.
 
 ## Presenças e posições
 
-- **Hela** — deitada na cama do quarto onde vem sendo cuidada, acordada, extremamente debilitada e em repouso.
-- **Crio** — na casa e na propriedade, alternando os cuidados com Hela e sua rotina normal de fazenda.
+- **Hela** — permanece hospedada no quarto da casa, mas já passa parte do dia sentada fora da cama e consegue circular por trechos curtos com apoio.
+- **Crio** — mantém sua rotina normal de fazenda enquanto continua cuidando de Hela e ajudando-a apenas no que ela ainda não consegue fazer sozinha.
 
 ## Condições relevantes
 
-- Hela está mortal, gravemente ferida e fisicamente extremamente debilitada.
-- Ela não consegue se sentar ou sustentar objetos comuns por muito tempo sem ajuda.
-- Crio conseguiu restaurar seu corpo somente até o ponto de mantê-la viva e estável; não conseguiu curá-la por completo.
-- Hela precisa de ajuda para várias necessidades básicas enquanto sua condição assim exigir, incluindo alimentação, higiene, banho, deslocamento e uso do banheiro.
-- O acesso de Hela a seus antigos poderes permanece quase totalmente suprimido.
+- Hela continua mortal, gravemente enfraquecida e em recuperação, mas apresenta melhora física gradual.
+- Já consegue permanecer sentada por períodos maiores e sustentar alimentos e objetos leves por mais tempo.
+- Consegue dar alguns passos e percorrer pequenas distâncias com apoio, mas ainda não é seguro deixá-la enfrentar escadas, longos trajetos ou deslocamentos externos sem ajuda.
+- Para o banheiro, já recuperou parte da autonomia, embora ainda precise de auxílio para chegar até lá em momentos de maior fraqueza e ocasionalmente para se levantar ou retornar.
+- Para banho, deslocamentos maiores e momentos de exaustão, continua dependendo diretamente de Crio.
+- O acesso aos antigos poderes permanece quase totalmente suprimido.
 - A personalidade, memória e identidade de Hela permanecem intactas.
 - Crio está fisicamente íntegro e em seu próprio domínio.
 
 ## Intenções persistentes em andamento
 
-- Crio continua cuidando de Hela enquanto ela não consegue cuidar de si mesma; sua motivação inicial permanece principalmente curiosidade, somada à responsabilidade prática de ter conseguido mantê-la viva.
-- Hela busca compreender onde está, o que aconteceu com seu corpo e quem é o homem que a está tratando.
+- Crio continua cuidando de Hela de modo seco, direto e gentil, preservando sua autonomia sempre que possível e ajudando sem transformar a dependência dela em humilhação.
+- Hela continua tentando recuperar independência e compreender Crio, sua vida e o lugar onde está.
 
 ## Processos e prazos
 
-- A recuperação de Hela está em andamento e pode restaurar progressivamente corpo e poderes, sem ritmo ou resultado final predeterminados.
+- A recuperação de Hela continua em andamento, sem ritmo ou resultado final predeterminados.
 - O contato normal com o exterior é raro; um barco passa pela região aproximadamente uma vez a cada três meses.
 
 ## Conhecimentos recentemente adquiridos
 
-- Hela sabe que o homem que cuida dela se chama Crio.
-- Hela sabe que está na fazenda de Crio, em uma ilha ou lugar extremamente isolado, mas não conhece a verdadeira natureza espacial do domínio.
-- Hela sabe que ficou inconsciente por aproximadamente dois dias.
-- Hela sabe que Crio tratou seus ferimentos e trocou suas roupas danificadas por roupas simples da casa.
-- Hela revelou seu nome a Crio e disse ser filha de Odin; Crio reconheceu quem é Odin.
-- Hela ainda acredita que Crio seja um fazendeiro mortal.
-- Hela não sabe que Crio é um Titã nem conhece a extensão de sua autoridade dentro daquele domínio.
-- Hela não sabe a verdadeira escala das capacidades usadas por Crio ao tentar restaurá-la.
-- Crio sabe que ela se chama Hela e que afirma ser filha de Odin; também percebe que sua natureza é extraordinária.
+- Hela sabe que Crio vive realmente como fazendeiro e mantém pessoalmente a rotina da propriedade.
+- Hela conhece o café preparado por Crio e já passou a participar de pequenas rotinas de refeição na casa.
+- Hela sabe que Crio costuma encerrar o dia sentado numa cadeira de balanço diante da casa, perto de uma pequena fogueira, olhando as estrelas.
+- Hela já foi levada para fora à noite e compartilhou com Crio um período de silêncio e conversa sob o céu.
+- Hela continua acreditando que Crio seja apenas um homem ou fazendeiro incomum; não sabe que ele é Titã nem conhece a verdadeira natureza de seu domínio.
+- Crio sabe que Hela é filha de Odin e que sua natureza é extraordinária, mas a relação entre ambos ainda não depende de títulos ou revelações adicionais.
 
 ## Relações ou mudanças de Estado relevantes
 
-- Hela e Crio continuam essencialmente desconhecidos, mas já tiveram sua primeira conversa.
-- Crio trata Hela com naturalidade, sem medo, reverência ou submissão diante de seu nome ou ascendência.
-- Hela demonstra irritação com a informalidade de Crio e forte desconforto com sua própria dependência física.
-- Hela aceitou, ainda que com relutância, ajuda direta de Crio para beber e se alimentar quando seu corpo não conseguiu fazê-lo sozinho.
-- Não existe amizade, confiança ou atração estabelecida entre eles.
-- Hela não é prisioneira; sua permanência imediata decorre de sua condição física e do isolamento do lugar.
+- A relação deixou de ser puramente entre dois desconhecidos e começou a adquirir familiaridade cotidiana.
+- Hela ainda reage com orgulho e irritação à dependência, mas já pede ajuda com menos resistência quando sabe que não conseguirá realizar algo sozinha.
+- Crio continua tratando sua vulnerabilidade de modo prático, sem pena, reverência, oportunismo ou constrangimento desnecessário.
+- Hela já aceita ser carregada quando necessário sem interpretar automaticamente o gesto como derrota.
+- Os dois criaram pequenas rotinas: refeições, cuidados, deslocamentos curtos e, quando o clima permite, alguns minutos diante da casa à noite.
+- Existe confiança prática inicial, mas ainda não amizade declarada nem atração estabelecida.
+- Hela não é prisioneira; sua permanência decorre de sua recuperação e do isolamento do lugar.
 
 ## Último fato estabelecido
 
-Ao fim do primeiro capítulo, Hela permanece na cama após aceitar relutantemente que Crio a ajude a se alimentar. Crio continua tratando a situação com simplicidade cotidiana, sem transformar sua fragilidade em humilhação ou solenidade.
+Após três dias de convivência repetida, Hela está fisicamente um pouco mais capaz e a presença de Crio deixou de ser inteiramente estranha. A ajuda dele continua necessária, mas já começa a fazer parte de uma rotina em que ambos preservam silêncio, espaço e pequenas escolhas.
 
 ## Primeiro ponto aberto
 
-A continuação pode abrir após esse primeiro repouso, com a rotina de recuperação de Hela e a convivência com Crio. A próxima iniciativa voluntária relevante permanece aberta às Cadeiras e ao Diretor conforme a cena escolhida.
+A próxima cena pode partir desse cotidiano já formado e mostrar a primeira situação que realmente rompa a repetição: uma conversa mais pessoal, uma tentativa maior de Hela de explorar a fazenda, uma nova etapa de recuperação ou outro acontecimento legitimamente introduzido pela Direção e pelas Cadeiras.
