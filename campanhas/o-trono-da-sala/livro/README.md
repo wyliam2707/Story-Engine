@@ -9,6 +9,7 @@ Registro canônico da Ficção fechada da campanha.
 3. [Capítulo 3 — Sete Dias](003-sete-dias.md)
 4. [Capítulo 4 — O Fazendeiro que Não Acreditava](004-o-fazendeiro-que-nao-acreditava.md)
 5. [Capítulo 5 — Dez por cento](005-dez-por-cento.md)
+6. [Capítulo 6 — Gosto de Você Aqui](006-gosto-de-voce-aqui.md)
 
 ## Regra de uso
 
