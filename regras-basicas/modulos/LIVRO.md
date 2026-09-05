@@ -1,10 +1,27 @@
-# Módulo Opcional — Livro
+# Módulo Obrigatório — Livro
 
 O `LIVRO` preserva a ficção canonizada da obra em capítulos.
 
-Ele é opcional. A obra pode funcionar somente com Direção, Estado, Fichas e demais fontes necessárias.
+Ele é obrigatório para toda obra que entra em Ficção. Uma campanha pode ser preparada sem capítulos antes do START, mas, a partir da primeira Ficção executada, o Livro deve permanecer ativo e registrar todo capítulo fechado.
 
 > **O Livro registra a ficção que aconteceu. Não registra o processo autoral usado para produzi-la.**
+
+## Obrigatoriedade operacional
+
+```text
+OBRA EM PREPARAÇÃO
+→ pode ainda não possuir capítulos.
+
+START / PRIMEIRA FICÇÃO
+→ LIVRO ATIVO obrigatoriamente.
+
+FECHAR O CAPÍTULO
+→ registrar o capítulo no Livro sempre.
+```
+
+O Livro não é uma preferência editorial por obra. Ele é a memória canônica da Ficção passada.
+
+Uma `EDIÇÃO DE LEITURA` continua opcional e derivada.
 
 ## Livro e capítulos
 
@@ -20,7 +37,7 @@ CAPÍTULO
 → trecho fechado dessa ficção.
 ```
 
-Não criar uma fonte paralela chamada `capitulos/` quando o módulo Livro estiver ativo. Os capítulos pertencem ao Livro.
+Não criar uma fonte paralela chamada `capitulos/`. Os capítulos pertencem ao Livro.
 
 ## O que entra
 
@@ -108,7 +125,7 @@ versão final válida
 
 O Livro não preserva erros de execução como se fossem acontecimentos canônicos.
 
-## Estrutura sugerida
+## Estrutura obrigatória após o primeiro capítulo fechado
 
 ```text
 livro/
@@ -120,9 +137,11 @@ livro/
 
 `livro/README.md` funciona como índice da obra e aponta a ordem dos capítulos.
 
+Se uma obra já possui Ficção fechada e o Livro estiver ausente por erro operacional, recuperar retroativamente os capítulos válidos a partir da Ficção estabelecida, excluindo Mesa, propostas e versões anuladas.
+
 ## Fechar capítulo
 
-Quando o comando `fechar o capítulo` for usado com este módulo ativo:
+Quando o comando `fechar o capítulo` for usado:
 
 ```text
 1. parar no último fato realmente estabelecido;
@@ -290,4 +309,4 @@ Esses arquivos são derivados. Se contradisserem Ficha, Estado, Direção ou cap
 
 ## Regra final
 
-> **O Livro preserva o passado ficcional canônico. A Edição de Leitura pode reorganizar e aprofundar a apresentação sem criar novo cânone. Nenhum derivado recebe autoridade para jogar o futuro ou reescrever silenciosamente o que aconteceu.**
+> **Toda obra que executa Ficção mantém Livro canônico ativo. O Livro preserva o passado ficcional em capítulos; fechar capítulo sempre registra. A Edição de Leitura pode reorganizar e aprofundar a apresentação sem criar novo cânone. Nenhum derivado recebe autoridade para jogar o futuro ou reescrever silenciosamente o que aconteceu.**
