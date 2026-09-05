@@ -10,3 +10,4 @@ Livro canônico da campanha.
 4. [Barulho Chato](004-barulho-chato.md)
 5. [Janelas](005-janelas.md)
 6. [A Primeira Noite](006-a-primeira-noite.md)
+7. [Credenciais](007-credenciais.md)
