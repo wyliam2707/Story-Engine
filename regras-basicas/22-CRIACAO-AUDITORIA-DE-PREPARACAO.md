@@ -26,6 +26,7 @@ o que permanece aberto
 qual é a realidade inicial
 qual é o primeiro ponto aberto
 quem possui a próxima autoria
+como o Livro será ativado quando a Ficção começar
 ```
 
 sem depender da conversa original.
@@ -116,10 +117,11 @@ oposicao.md
 → somente com Opositor ativo.
 
 livro/
-→ somente quando Livro estiver ativo e houver Ficção a registrar.
+→ pode ainda não existir antes da primeira Ficção;
+→ torna-se obrigatório quando houver Ficção fechada para registrar.
 ```
 
-> **Ausência de arquivo opcional não é falha.**
+> **Ausência de arquivo opcional não é falha. Ausência de Livro antes da primeira Ficção também não é falha; Livro INATIVO durante Ficção é.**
 
 ---
 
@@ -240,7 +242,8 @@ Verificar:
 ```text
 Política de Mesa
 Indicador operacional
-Módulos ativos
+Módulos opcionais ativos
+Estado do Livro
 ```
 
 Padrões válidos:
@@ -248,7 +251,14 @@ Padrões válidos:
 ```text
 MESA: SOB DEMANDA
 INDICADOR OPERACIONAL: SILENCIOSO
-MÓDULOS: INATIVOS salvo escolha ou necessidade real
+MÓDULOS OPCIONAIS: INATIVOS salvo escolha ou necessidade real
+LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
+```
+
+Se a obra já estiver em Ficção:
+
+```text
+LIVRO: ATIVO
 ```
 
 Se um padrão já é definido pelo engine mas ainda não foi copiado ao README, pode ser registrado como correção mecânica segura.
@@ -333,7 +343,7 @@ OPERAÇÃO
 → processo fora da Ficção ainda pendente.
 
 LIVRO
-→ Ficção já acontecida, quando ativo.
+→ Ficção já acontecida; obrigatório durante a Ficção.
 ```
 
 Falhas típicas:
@@ -345,6 +355,7 @@ resultado futuro colocado no Estado
 segredo global tratado como conhecimento da personagem
 rascunho tratado como ficha aprovada
 Juiz legado tratado como autoridade atual
+Livro INATIVO numa obra em Ficção
 ```
 
 ---
@@ -366,6 +377,7 @@ fato estrutural indispensável não possui fonte
 Estado canonizou decisão ainda aberta
 Mesa relevante continua pendente
 o fluxo depende de um Juiz para decidir resultado material
+configuração pretende entrar em Ficção mantendo Livro INATIVO
 ```
 
 ```text
@@ -384,6 +396,7 @@ sem ficha de figurante
 sem arco futuro
 sem antagonista
 sem módulo opcional
+Livro ainda sem diretório antes da primeira Ficção, mas configurado como PREPARADO
 rótulo antigo com significado inequívoco
 padrão operacional ainda não copiado ao README
 ```
@@ -405,6 +418,8 @@ Pode corrigir sem perguntar quando não cria decisão autoral nova:
 ```text
 registrar MESA: SOB DEMANDA como padrão
 registrar INDICADOR: SILENCIOSO como padrão
+registrar LIVRO: PREPARADO antes do START
+corrigir LIVRO: INATIVO → LIVRO: ATIVO em obra que já está em Ficção
 normalizar NARRADOR / JUIZ → NARRADOR
 corrigir referência de arquivo claramente quebrada
 normalizar cabeçalho
@@ -494,6 +509,8 @@ autorias reconstruíveis
 +
 Narrador corretamente configurado sem poder de Juiz
 +
+Livro preparado para ativação obrigatória com a primeira Ficção
++
 primeiro ponto aberto identificável
 ```
 
@@ -540,6 +557,7 @@ Quando bloqueada, apresentar apenas o problema concreto.
 [ ] Narrador está configurado sem função de Juiz?
 [ ] Direção preserva só o que foi fechado?
 [ ] políticas estão definidas ou usam padrões?
+[ ] Livro está PREPARADO para ativação obrigatória no START?
 [ ] mundo necessário está preservado ou legitimamente dispensado?
 [ ] Estado representa realidade, não roteiro?
 [ ] primeiro ponto aberto está claro?
@@ -561,4 +579,4 @@ STATUS: PRONTA
 
 # Regra final
 
-> **A Auditoria exige uma história reconstruível, não uma história planejada. Ela confirma também que o W4D atual está sendo usado: sem Juiz permanente, sem sentença causal escondida e sem RNG universal. Resultados materiais abertos continuam sendo questões de autoria e podem voltar à Mesa.**
+> **A Auditoria exige uma história reconstruível, não uma história planejada. Ela confirma também que o W4D atual está sendo usado: sem Juiz permanente, sem sentença causal escondida e sem RNG universal. Resultados materiais abertos continuam sendo questões de autoria e podem voltar à Mesa. O Livro deve estar preparado antes do START e torna-se obrigatório e ativo com a primeira Ficção.**
