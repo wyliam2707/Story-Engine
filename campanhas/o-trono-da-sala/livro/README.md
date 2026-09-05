@@ -1,0 +1,15 @@
+# O Trono da Sala — Livro
+
+Registro canônico da Ficção fechada da campanha.
+
+## Capítulos
+
+1. [Capítulo 1 — A Mulher nos Tomates](001-a-mulher-nos-tomates.md)
+2. [Capítulo 2 — Não é Prisioneira](002-nao-e-prisioneira.md)
+3. [Capítulo 3 — Sete Dias](003-sete-dias.md)
+
+## Regra de uso
+
+- Entram somente acontecimentos ficcionais realmente estabelecidos.
+- Mesa, pareceres, propostas, análises e versões anuladas não entram.
+- `fechar o capítulo` registra obrigatoriamente o trecho fechado seguinte e atualiza este índice.
