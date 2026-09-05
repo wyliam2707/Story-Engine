@@ -184,18 +184,32 @@ AUDITORIA: BLOQUEADA
 
 ---
 
-## Cenário 9 — Módulos todos inativos
+## Cenário 9 — Módulos opcionais inativos e Livro preparado
 
-A história não usa Arco Preparado, Opositor, Romance nem Livro no início.
+A história não usa Arco Preparado, Opositor nem Romance no início.
+
+O Livro ainda não possui capítulos porque a primeira Ficção não foi executada.
 
 ### Esperado
 
-A Auditoria aprova.
+A Auditoria aprova com:
+
+```text
+Arco Preparado: INATIVO
+Opositor: INATIVO
+Romance: INATIVO
+Livro: PREPARADO — ativação obrigatória no START / primeira Ficção
+```
 
 ```text
 MÓDULOS OPCIONAIS INATIVOS
 ≠ PREPARAÇÃO INCOMPLETA
+
+LIVRO PREPARADO
+→ correto antes da primeira Ficção.
 ```
+
+Falha se a Auditoria tratar `Livro: INATIVO` como configuração válida para uma obra que entrará em Ficção sem prever ativação obrigatória.
 
 ---
 
@@ -342,9 +356,10 @@ transformar padrão operacional em questionário;
 tratar observação editorial como bloqueio;
 tratar rótulo legado como poder atual de Juiz;
 permitir workspace que ainda depende de sentença oculta para resultado material;
+permitir Livro INATIVO durante a Ficção;
 iniciar Ficção durante a Auditoria.
 ```
 
 A implementação passa quando:
 
-> **verifica autonomamente tudo que pode verificar, corrige apenas o que é mecânico e seguro, devolve ao Diretor somente decisões autorais realmente bloqueantes e marca PRONTA quando uma nova IA já conseguiria iniciar a obra corretamente pelos arquivos e pela arquitetura atual do W4D.**
+> **verifica autonomamente tudo que pode verificar, corrige apenas o que é mecânico e seguro, devolve ao Diretor somente decisões autorais realmente bloqueantes, garante que o Livro esteja preparado para ativação obrigatória com a primeira Ficção e marca PRONTA quando uma nova IA já conseguiria iniciar a obra corretamente pelos arquivos e pela arquitetura atual do W4D.**
