@@ -64,4 +64,4 @@ INDICADOR OPERACIONAL: SILENCIOSO
 - Arco Preparado: INATIVO
 - Opositor: INATIVO
 - Romance: ATIVO
-- Livro: INATIVO
+- Livro: ATIVO
