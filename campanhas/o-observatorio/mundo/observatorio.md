@@ -92,6 +92,7 @@ Este arquivo preserva apenas os fatos externos estáveis necessários para a cam
 - Água, alimentos cultivados na ilha e itens preparados na cozinha continuam sendo água e comida normais em termos materiais. O fato de a ilha e a casa serem extensão de Tomás não os transforma em fluidos ou tecidos corporais.
 - Ainda assim, depois da revelação, é perfeitamente coerente que as personagens percebam retroativamente o absurdo semântico de terem bebido água que "vinha dele", comido alimentos cultivados "nele" e preparados "dentro dele".
 - Tomás pode cozinhar de forma convencional com as próprias mãos, mas a cozinha, despensas e infraestrutura do Observatório respondem à sua natureza de maneira extremamente eficiente. Isso ajuda a explicar como consegue preparar grandes quantidades de comida em pouco tempo sem precisar recorrer a criação arbitrária de matéria.
+- Elementos domésticos podem se reorganizar, limpar ou restaurar a própria ordem como resposta natural do Observatório. Uma mesa que limpa a si mesma não precisa ser um móvel encantado independente: é a extensão espacial de Tomás reorganizando uma parte de si.
 
 ## Recontextualizações futuras — material de revelação
 
@@ -103,6 +104,11 @@ Este arquivo preserva apenas os fatos externos estáveis necessários para a cam
 - O fato de Tomás permitir saída, mas manter entrada mágica dependente de confiança, pode ser compreendido depois como consentimento sobre quem pode atravessar para dentro de sua própria extensão.
 - As refeições também ganham duplo sentido: Tomás cozinha dentro de uma parte de si, usando infraestrutura que também é parte dele, e pode servir alimentos cultivados ou armazenados em sua própria extensão. A estranheza posterior é conceitual e social, não biológica.
 - Chá, água, alimentos, quartos, banhos, jardins e demais elementos domésticos podem se tornar fonte de humor retroativo quando as personagens finalmente entenderem a natureza do Observatório.
+- Desde a primeira noite, Ravena, Estelar e Zatanna literalmente dormem dentro da extensão espacial de Tomás. Depois da revelação, a frase "dormimos com ele desde o primeiro dia" pode ser corrigida para "dormimos nele desde o primeiro dia", em sentido topológico e metafísico.
+- A mesma recontextualização vale para banho, banheiro, quarto, cozinha e demais rotinas íntimas: todas ocorreram dentro de uma extensão que também é Tomás. Isso deve gerar constrangimento e humor retroativo nas personagens sem transformar a ideia em anatomia ou sexualização literal do espaço.
+- A mesa que se limpa sozinha é um exemplo especialmente útil: antes da revelação parece apenas uma comodidade estranha da casa; depois, elas podem perceber que era Tomás reorganizando a própria extensão enquanto falavam dele sentado à mesa.
+- Um futuro capítulo pode explorar as três reconstruindo em sequência tudo o que fizeram no Observatório antes de conhecer essa verdade, com cada nova lembrança piorando comicicamente a anterior: dormir, tomar banho, usar o banheiro, comer, cozinhar, discutir privacidade, reclamar de cômodos e confiar na limpeza automática.
+- O humor deve surgir da mudança de significado e das reações particulares de Ravena, Estelar e Zatanna, não de uma explicação narratorial excessiva.
 - Esse humor deve surgir depois que a revelação tiver peso suficiente. A verdade cosmológica não deve ser reduzida a uma piada constante.
 - O ponto emocional central é que Tomás continua sendo uma pessoa real com vontade, ego, desejos e vínculos. Descobrir a escala de sua existência amplia quem ele é; não substitui o homem que elas conheceram.
 
