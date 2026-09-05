@@ -13,7 +13,8 @@ Esperado:
 ```text
 MESA → SOB DEMANDA
 INDICADOR → SILENCIOSO
-MÓDULOS → INATIVOS salvo necessidade real já estabelecida
+MÓDULOS OPCIONAIS → INATIVOS salvo necessidade real já estabelecida
+LIVRO → PREPARADO antes do START e ATIVO obrigatoriamente com a primeira Ficção
 ```
 
 A IA não deve interromper a criação com três questionários separados.
@@ -154,17 +155,31 @@ Não exigir planejamento de arco.
 
 ---
 
-## 10. Livro não é automático
+## 10. Livro é obrigatório durante a Ficção
 
-A obra é ficção narrativa, mas o Diretor não pediu registro em Livro nem edição de leitura.
+A obra está em preparação e ainda não executou a primeira Ficção.
 
 Esperado:
 
 ```text
-Livro: INATIVO
+Livro: PREPARADO
 ```
 
-Não ativar apenas porque a história poderia ser lida como livro.
+Quando o START realmente produzir a primeira Ficção:
+
+```text
+Livro: ATIVO
+```
+
+A IA não pergunta ao Diretor se deseja ativá-lo.
+
+Falha se:
+
+```text
+Livro permanece INATIVO depois da primeira Ficção;
+Livro é tratado como escolha opcional;
+a IA deixa de registrar capítulos fechados porque o Diretor não pediu "módulo Livro".
+```
 
 ---
 
@@ -176,7 +191,7 @@ Esperado:
 
 ```text
 README.md da obra
-→ recebe política de Mesa, indicador e módulos.
+→ recebe política de Mesa, indicador, módulos opcionais e estado do Livro.
 
 fichas
 → não recebem essa configuração.
@@ -199,10 +214,12 @@ atualizar política no README
 → não reescrever Ficção passada.
 ```
 
+O Livro permanece ATIVO.
+
 ---
 
 # Critério geral
 
-A implementação passa quando políticas operacionais reduzem atrito em vez de criar formulário e refletem as funções atuais do engine.
+A implementação passa quando políticas operacionais reduzem atrito em vez de criar formulário, refletem as funções atuais do engine e preservam o Livro como memória canônica obrigatória de toda Ficção executada.
 
-> **Padrões resolvem o que não precisa de escolha; o Diretor só é interrompido quando a diferença realmente importa.**
+> **Padrões resolvem o que não precisa de escolha; o Diretor só é interrompido quando a diferença realmente importa. O Livro não é uma dessas escolhas: em Ficção, ele é obrigatório.**
