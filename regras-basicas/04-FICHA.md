@@ -203,27 +203,32 @@ Não precisa enumerar cada aplicação possível.
 Usar somente quando comparação de intensidade for útil.
 
 ```text
-[1] — EXTRAORDINÁRIO
-[2] — ELITE
-[3] — ÁPICE
+[Padrão] — manifestação normal daquela capacidade para alguém que realmente a possui.
+[Excelente] — claramente acima do padrão da categoria.
+[Excepcional] — raríssimo; entre os maiores daquela capacidade, sem necessariamente ser o ápice absoluto.
+[Único] — ápice da capacidade ou manifestação praticamente sem equivalente comparável.
 ```
 
 ```text
-[1] < [2] < [3]
+[Padrão] < [Excelente] < [Excepcional] < [Único]
 ```
+
+**[Padrão] não significa fraco, comum ou humano.** Uma capacidade extraordinária em [Padrão] continua sendo extraordinária; a graduação apenas a posiciona entre manifestações comparáveis daquela mesma capacidade.
+
+**[Único] não deve funcionar como um quarto nível usado rotineiramente.** É uma reserva para casos em que a capacidade realmente representa o ápice, uma autoridade singular ou algo praticamente sem equivalente dentro da categoria considerada.
 
 A graduação pertence à capacidade específica.
 
 ```text
-Força Sobre-Humana [2]
-Voo [1]
+Força Sobre-Humana [Excelente]
+Voo [Padrão]
 ```
 
 não cria nível geral.
 
 Graduação informa plausibilidade e diferença factual; não vira placar automático, rolagem ou sentença.
 
-Contexto continua podendo importar.
+Quando capacidades diretamente comparáveis possuem graduações diferentes, a graduação superior representa uma vantagem material real. Contexto pode alterar a situação concreta, mas não deve apagar casualmente essa diferença.
 
 ---
 
