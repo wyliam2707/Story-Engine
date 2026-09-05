@@ -190,12 +190,27 @@ Esse arquivo é operacional, não canônico.
 
 ## Módulos
 
+Módulos opcionais:
+
 - Arco Preparado: INATIVO
 - Opositor: INATIVO
 - Romance: INATIVO
-- Livro: INATIVO
 
-Ativar somente módulos realmente usados.
+Livro:
+
+- Livro: PREPARADO — ativação obrigatória no START / primeira Ficção
+
+Ativar somente módulos opcionais realmente usados.
+
+O Livro não é opcional durante a Ficção:
+
+```text
+OBRA EM PREPARAÇÃO
+→ Livro pode permanecer PREPARADO.
+
+PRIMEIRA FICÇÃO EXECUTADA
+→ Livro: ATIVO.
+```
 
 ---
 
@@ -209,6 +224,15 @@ Quando útil:
 ```
 
 A semântica, a política de Mesa e o modo atual determinam a operação.
+
+No Livro canônico, falas e pensamentos preservam a origem explicitamente:
+
+```text
+Wyliam — fala.
+Wyliam, pensa — pensamento.
+```
+
+A forma normativa completa está em `regras-basicas/modulos/LIVRO.md`.
 
 ---
 
@@ -256,6 +280,7 @@ START
 → reconstruir Cadeiras separadamente
 → identificar primeiro ponto aberto
 → identificar próxima autoria ou função
+→ ativar Livro obrigatoriamente
 → iniciar a Ficção sem redistribuir autoridade.
 ```
 
@@ -268,6 +293,9 @@ Quando a primeira Ficção realmente for executada:
 ```text
 STATUS
 → EM EXECUÇÃO
+
+Livro
+→ ATIVO
 ```
 
 Se existir `operacao.md` ativo, restaurar a operação pendente antes de saltar para Ficção.
