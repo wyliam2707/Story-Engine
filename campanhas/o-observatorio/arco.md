@@ -10,10 +10,13 @@ O arco deve permitir convivência, investigação, humor doméstico e romance em
 
 - Portas e rupturas dimensionais surgem na Terra de forma anômala.
 - As ocorrências deixam uma assinatura de poder avassaladora ligada a um desconhecido que aparece para fechá-las.
-- Ravena e Estelar investigam juntas por uma linha de evidências.
-- Zatanna investiga separadamente por uma linha mágica própria.
+- Ravena e Estelar já investigam juntas uma linha de evidências.
+- Zatanna já investiga separadamente por uma linha mágica própria.
+- As duas investigações possuem provas reais, mas incompletas, como registros em vídeo, leituras de energia, resíduos mágicos e padrões deixados pelas ocorrências.
+- Nenhum dos grupos possui sozinho informação suficiente para compreender o quadro inteiro.
 - Nenhuma das três conhece Tomás ou a verdadeira natureza do Observatório no início.
 - Tomás consegue fechar ocorrências individuais, mas não sabe ainda por que elas passaram a surgir fora do sistema normal.
+- Os demais Titãs não acompanham Ravena e Estelar porque estão ocupados lidando com consequências e demandas deixadas por outra ocorrência da mesma onda de anomalias; Ravena e Estelar ficam responsáveis pela linha investigativa ligada às assinaturas sobrenaturais e energéticas.
 
 ## Problema central
 
@@ -28,24 +31,31 @@ Por que os caminhos estão abrindo fora do funcionamento normal do Observatório
 
 ## Preparação da abertura
 
-### Capítulo 1
+A abertura ocupa aproximadamente dois capítulos antes do encontro com Tomás.
 
-- Ravena e Estelar investigam uma sequência de ocorrências.
-- Zatanna segue evidências próprias em paralelo.
-- Filmagens, rastros ou testemunhos podem mostrar um homem desconhecido aparecendo apenas para fechar uma passagem e desaparecer.
-- A assinatura de poder associada a ele é grande o bastante para sustentar inicialmente a hipótese de ameaça, invasão ou entidade cósmica.
+### Capítulo 1 — Investigações separadas
 
-### Capítulo 2
+- Ravena e Estelar trabalham juntas sobre provas acumuladas de ocorrências anteriores: vídeos, leituras energéticas, resíduos e testemunhos disponíveis.
+- Zatanna conduz uma investigação independente, usando evidências e leitura mágica próprias.
+- Cada núcleo formula hipóteses coerentes a partir do conhecimento que possui, sem acesso às conclusões privadas do outro.
+- Registros podem mostrar um homem desconhecido aparecendo apenas para fechar uma passagem e desaparecer.
+- A assinatura de poder associada a ele é grande o bastante para sustentar inicialmente hipótese de ameaça, invasão ou entidade cósmica.
+- Nenhum dos dois núcleos consegue fechar sozinho o padrão completo.
 
-- Uma nova ocorrência faz as duas linhas de investigação convergirem.
-- Ravena, Estelar e Zatanna se encontram e compartilham informações.
-- A combinação de evidências revela um padrão que nenhuma linha possuía sozinha.
-- O padrão aponta para coordenadas em mar aberto onde mapas, satélites e sensores comuns não mostram destino útil.
+### Capítulo 2 — Convergência
+
+- Surge ou é localizada a ruptura mais recente.
+- Ravena e Estelar seguem sua linha de investigação até o local.
+- Zatanna chega pela própria linha de evidências.
+- As três se encontram ali, sem terem planejado trabalhar juntas desde o início.
+- Depois do encontro, compartilham provas e passam a continuar a investigação em conjunto.
+- A combinação de vídeos, leituras, resíduos e padrões revela informação que nenhuma linha possuía sozinha.
+- A investigação conjunta aponta para coordenadas em mar aberto onde mapas, satélites e sensores comuns não mostram destino útil.
 - Ao alcançar fisicamente as coordenadas, as três conseguem perceber a ilha impossível.
 
 ### Encontro com Tomás
 
-O primeiro encontro ocorre depois da investigação inicial, não antes.
+O primeiro encontro ocorre somente depois desses dois capítulos de investigação e da chegada à ilha.
 
 A expectativa construída deve permitir o contraste entre uma possível ameaça de escala cósmica e Tomás encontrado em ambiente doméstico, relaxado em sua própria casa, sem que isso transforme a cena em paródia.
 
@@ -65,6 +75,7 @@ A expectativa construída deve permitir o contraste entre uma possível ameaça 
 ## Espaço deliberadamente aberto
 
 - A natureza exata da força, entidade ou criaturas do outro lado pode ser desenvolvida apenas no grau necessário para a investigação e o clímax, desde que não contradiga os fatos fechados.
+- O conteúdo exato de cada prova, a interpretação inicial e as hipóteses específicas de cada núcleo permanecem abertas para a Ficção e para as Cadeiras, dentro dos fatos já estabelecidos.
 - Como Ravena, Estelar e Zatanna interpretam Tomás ao conhecê-lo permanece com suas Cadeiras.
 - Atração, interesse, desconfiança, amizade, desejo, ciúme, compromisso, beijo, amor ou rejeição não são fatos do arco.
 - Nenhuma das três precisa avançar no mesmo ritmo que outra.
