@@ -25,6 +25,9 @@ STATUS
 estado.md
 → âncora inicial
 → História ainda não iniciada.
+
+Livro
+→ PREPARADO
 ```
 
 Depois que a primeira Ficção realmente for apresentada:
@@ -32,6 +35,9 @@ Depois que a primeira Ficção realmente for apresentada:
 ```text
 STATUS
 → EM EXECUÇÃO
+
+Livro
+→ ATIVO
 ```
 
 START não é:
@@ -113,6 +119,9 @@ estado.md
 fichas necessárias
 → reconstruíveis.
 
+Livro
+→ PREPARADO para ativação obrigatória.
+
 operação bloqueante
 → nenhuma.
 ```
@@ -141,8 +150,9 @@ START reconstrói somente o necessário:
 6. mundo/arco/oposição somente quando pertinentes;
 7. pacotes separados das Cadeiras;
 8. política de Mesa e indicador;
-9. primeiro ponto aberto;
-10. próxima autoria ou função.
+9. estado do Livro;
+10. primeiro ponto aberto;
+11. próxima autoria ou função.
 ```
 
 ```text
@@ -248,6 +258,33 @@ RESULTADO MATERIAL ABERTO
 ```
 
 A política de Mesa e o contexto definem a forma da consulta.
+
+---
+
+# Ativação obrigatória do Livro
+
+O Livro não é uma escolha opcional do START.
+
+```text
+ANTES DA PRIMEIRA FICÇÃO
+→ Livro: PREPARADO.
+
+PRIMEIRA FICÇÃO REALMENTE EXECUTADA
+→ Livro: ATIVO obrigatoriamente.
+```
+
+A ativação ocorre junto da primeira Ficção válida, sem perguntar ao Diretor se deseja usar o Livro.
+
+O diretório `livro/` pode ser criado quando houver Ficção fechada para registrar, conforme `modulos/LIVRO.md`.
+
+Todo capítulo fechado depois disso deve ser preservado no Livro canônico.
+
+Falas e pensamentos registrados no Livro seguem a convenção obrigatória:
+
+```text
+[PERSONAGEM] — fala.
+[PERSONAGEM], pensa — pensamento.
+```
 
 ---
 
@@ -374,15 +411,20 @@ Somente quando a primeira Ficção realmente for executada:
 STATUS
 PRONTA
 → EM EXECUÇÃO
+
+LIVRO
+PREPARADO
+→ ATIVO
 ```
 
 Se START for bloqueado antes de qualquer Ficção por uma operação pendente ou falha de integridade:
 
 ```text
-→ não fingir que a obra entrou em execução.
+→ não fingir que a obra entrou em execução;
+→ não marcar o Livro como ATIVO ainda.
 ```
 
-A atualização de status é operacional; não entra no Livro.
+A atualização de status e do Livro é operacional; não entra no Livro como Ficção.
 
 ---
 
@@ -407,7 +449,7 @@ START
 ≠ SALVAR AUTOMATICAMENTE TODA RESPOSTA
 ```
 
-A exceção é o status operacional, que pode ser atualizado quando a obra efetivamente entra em execução.
+A exceção é o status operacional e a ativação do Livro, que podem ser atualizados quando a obra efetivamente entra em execução.
 
 ---
 
@@ -433,11 +475,13 @@ A IA deve conseguir responder:
 [ ] a Auditoria foi aprovada?
 [ ] existe autorização semântica para começar?
 [ ] a âncora inicial foi reconstruída?
+[ ] o Livro está PREPARADO para ativação obrigatória?
 [ ] o primeiro ponto aberto foi preservado?
 [ ] sabemos se o próximo passo é Cadeira, Diretor, consequência evidente ou Mesa?
 [ ] nenhuma vontade foi inventada para movimentar a abertura?
 [ ] nenhum conflito foi criado por hábito?
 [ ] nenhuma função de Juiz ou RNG invisível foi reintroduzida?
+[ ] a primeira Ficção ativou o Livro?
 [ ] a Ficção começou exatamente onde a preparação terminou?
 ```
 
@@ -445,4 +489,4 @@ A IA deve conseguir responder:
 
 # Regra final
 
-> **START é a passagem da preparação para a Ficção. Ele não cria roteiro nem redistribui autoridade: reconstrói a âncora, encontra o primeiro ponto aberto e deixa agir a função legítima. Cadeiras decidem o espaço voluntário disponível, o Diretor conserva sua autoria, consequências evidentes podem ser apresentadas, resultados materiais realmente abertos podem ir à Mesa e o Narrador transforma tudo isso em Ficção contínua sem funcionar como Juiz.**
+> **START é a passagem da preparação para a Ficção. Ele não cria roteiro nem redistribui autoridade: reconstrói a âncora, encontra o primeiro ponto aberto e deixa agir a função legítima. Cadeiras decidem o espaço voluntário disponível, o Diretor conserva sua autoria, consequências evidentes podem ser apresentadas, resultados materiais realmente abertos podem ir à Mesa e o Narrador transforma tudo isso em Ficção contínua sem funcionar como Juiz. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
