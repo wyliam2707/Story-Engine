@@ -19,7 +19,8 @@ Antes do START, a obra precisa saber, no mínimo:
 ```text
 como a Mesa é acionada;
 se o indicador operacional é visível ou silencioso;
-quais módulos opcionais realmente estão ativos.
+quais módulos opcionais realmente estão ativos;
+que o Livro canônico será ativado obrigatoriamente com a primeira Ficção.
 ```
 
 A configuração fica principalmente em:
@@ -45,8 +46,11 @@ MESA
 INDICADOR OPERACIONAL
 → SILENCIOSO
 
-MÓDULOS
+MÓDULOS OPCIONAIS
 → INATIVOS, salvo módulo claramente escolhido ou já necessário pela proposta aprovada.
+
+LIVRO
+→ ATIVO obrigatoriamente a partir da primeira Ficção.
 ```
 
 A IA pode informar os padrões de forma curta e seguir.
@@ -159,18 +163,21 @@ O formato visual pode variar sem alterar a semântica.
 
 ---
 
-# Módulos opcionais
+# Módulos
 
-Os módulos não são classes obrigatórias de história.
+Nem todos os módulos são opcionais.
 
-Ativar somente quando cumprirem função real.
-
-Módulos atuais:
+Módulos opcionais atuais:
 
 ```text
 Arco Preparado
 Opositor
 Romance
+```
+
+Módulo obrigatório durante a Ficção:
+
+```text
 Livro
 ```
 
@@ -183,9 +190,24 @@ modulos/ROMANCE.md
 modulos/LIVRO.md
 ```
 
+Para módulos opcionais:
+
 ```text
 MÓDULO INATIVO
 → não produz arquivo, obrigação ou comportamento por hábito.
+```
+
+Para o Livro:
+
+```text
+OBRA EM PREPARAÇÃO
+→ pode ainda não possuir capítulos.
+
+PRIMEIRA FICÇÃO EXECUTADA
+→ Livro deve estar ATIVO.
+
+FECHAR O CAPÍTULO
+→ capítulo deve ser registrado sempre.
 ```
 
 ---
@@ -217,14 +239,23 @@ por obrigação.
 
 # Livro
 
-Ativar quando a obra quer manter um registro canônico narrativo em formato de livro/capítulos ou produzir uma edição de leitura derivada.
+O Livro é obrigatório para toda obra em Ficção.
 
-Não ativar apenas porque toda ficção "poderia virar livro".
+Sua função é manter o registro canônico narrativo daquilo que realmente aconteceu, organizado em capítulos fechados.
 
 ```text
-LIVRO ATIVO
-→ existe função real de preservação editorial.
+START / PRIMEIRA FICÇÃO
+→ LIVRO ATIVO.
+
+FECHAR O CAPÍTULO
+→ salvar capítulo em livro/ e atualizar o índice.
 ```
+
+Não é necessário perguntar ao Diretor se deseja ativá-lo.
+
+Se uma obra em execução estiver com `Livro: INATIVO`, isso é erro operacional. Corrigir para `ATIVO` e recuperar capítulos já fechados quando a Ficção válida permitir reconstrução segura.
+
+A Edição de Leitura derivada permanece opcional.
 
 ---
 
@@ -258,10 +289,10 @@ Uma personagem antagonista com Cadeira própria continua sendo personagem; isso 
 Boa interação:
 
 ```text
-"Como você não indicou preferência operacional, vou manter os padrões: Mesa sob demanda e indicador silencioso. Romance parece central à proposta, então sugiro ativar esse módulo; os demais ficam inativos por enquanto."
+"Como você não indicou preferência operacional, vou manter os padrões: Mesa sob demanda e indicador silencioso. Romance parece central à proposta, então sugiro ativar esse módulo; Arco Preparado e Opositor ficam inativos. Livro será mantido ativo quando a Ficção começar, como regra do W4D."
 ```
 
-Se o Diretor aprovar, registrar.
+Se o Diretor aprovar as escolhas opcionais, registrar.
 
 Também é válido, quando nada além dos padrões for materialmente relevante:
 
@@ -276,10 +307,12 @@ Evitar:
 ```text
 "Escolha 1, 2 ou 3 para Mesa."
 "Escolha visível ou silencioso."
-"Agora decida cada um dos quatro módulos."
+"Agora decida cada módulo."
 ```
 
 quando não há necessidade real de interromper a criação.
+
+O Livro não entra nessa pergunta: ele não é escolha opcional durante a Ficção.
 
 > **Padrões existem para evitar perguntas que não precisam ser feitas.**
 
@@ -315,7 +348,7 @@ Depois de definidas, registrar em:
 campanhas/<slug>/README.md
 ```
 
-Exemplo:
+Exemplo antes do START:
 
 ```text
 ## Política de Mesa
@@ -328,18 +361,30 @@ INDICADOR OPERACIONAL: SILENCIOSO
 - Arco Preparado: INATIVO
 - Opositor: INATIVO
 - Romance: ATIVO
-- Livro: INATIVO
+- Livro: PREPARADO — ativação obrigatória no START
+```
+
+Exemplo após o START:
+
+```text
+## Módulos
+- Arco Preparado: INATIVO
+- Opositor: INATIVO
+- Romance: ATIVO
+- Livro: ATIVO
 ```
 
 Não colocar essas informações nas fichas.
 
-Não criar arquivos de módulo apenas para representar `INATIVO`.
+Não criar arquivos vazios de módulos opcionais apenas para representar `INATIVO`.
+
+O diretório `livro/` passa a ser criado quando houver Ficção fechada para registrar.
 
 ---
 
 # Mudança durante a história
 
-As políticas podem mudar depois do START.
+As políticas opcionais podem mudar depois do START.
 
 Exemplos:
 
@@ -350,11 +395,13 @@ Diretor passa a querer mais consulta
 Diretor não quer mais marcador visível
 → alterar indicador.
 
-Livro passa a ser útil
-→ ativar módulo posteriormente.
+Romance deixa de ser necessário como módulo
+→ pode ser desativado.
 ```
 
-A mudança vale dali em diante e não reescreve automaticamente a Ficção anterior.
+O Livro permanece ativo enquanto a obra estiver executando e preservando Ficção.
+
+A mudança de outras políticas vale dali em diante e não reescreve automaticamente a Ficção anterior.
 
 ---
 
@@ -365,7 +412,8 @@ Antes de seguir, a IA deve conseguir responder:
 ```text
 [ ] qual política de Mesa está ativa?
 [ ] qual política de indicador está ativa?
-[ ] quais módulos realmente estão ativos?
+[ ] quais módulos opcionais realmente estão ativos?
+[ ] o Livro está configurado para ativação obrigatória com a Ficção?
 [ ] alguma escolha foi inventada sem necessidade?
 [ ] os padrões resolveram o que não precisava de decisão explícita?
 [ ] a configuração foi registrada no README da obra?
@@ -383,4 +431,4 @@ POLÍTICAS OPERACIONAIS
 
 # Regra final
 
-> **Políticas Operacionais configuram como o W4D funciona naquela obra. Quando o Diretor não possui preferência, os padrões evitam interrogatório: Mesa sob demanda, indicador silencioso e módulos inativos salvo escolha ou necessidade real. Configuração operacional deve facilitar a escrita, não transformá-la em formulário.**
+> **Políticas Operacionais configuram como o W4D funciona naquela obra. Mesa, indicador e módulos opcionais usam escolhas e padrões para evitar interrogatório. O Livro é exceção: toda obra que executa Ficção mantém Livro canônico ativo e todo capítulo fechado deve ser registrado.**
