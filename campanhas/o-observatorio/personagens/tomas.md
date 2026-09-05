@@ -45,13 +45,12 @@ Sua função não foi imposta. Ele considera a manutenção e a segurança dos c
 --- TRAÇO: Não Mente Deliberadamente
 Tomás não afirma conscientemente algo que acredita ser falso. Pode omitir, responder apenas parte da verdade, usar linguagem literal, enquadrar uma resposta ou permitir que outra pessoa conclua algo incompleto, desde que suas palavras permaneçam verdadeiras.
 
---- TRAÇO: Natureza Cósmico-Dimensional
-A categoria natural de Tomás é cósmico-dimensional. Isso define o escopo de suas capacidades, não uma graduação acima de [3]. Uma capacidade [3] de Tomás continua sendo ápice dentro da própria categoria descrita, assim como [3] em outra personagem é ápice da categoria daquela capacidade. Graduações iguais não tornam capacidades de categorias diferentes equivalentes em força, alcance ou ordem de grandeza.
-
 ### Poderes
 
---- Conexão com os Caminhos [3]
-Tomás pode tocar e canalizar propriedades de planos ligados ao nexo. A própria categoria desta capacidade é cósmico-dimensional: ele trabalha com fontes planares e com o entrelaçamento entre mundos, não com uma manifestação heroica comum de energia. Fogo, cura, raio, frio, energia e efeitos semelhantes são manifestações derivadas de sua conexão com diferentes fontes dimensionais.
+--- Conexão com os Caminhos [2]
+Tomás pode tocar e canalizar propriedades de planos ligados ao nexo. Fogo, cura, raio, frio, energia e efeitos semelhantes são manifestações derivadas de sua conexão com diferentes fontes dimensionais.
+
+Fora do Observatório, esta é sua graduação operacional principal: extraordinariamente poderosa e claramente acima de capacidades comuns, mas sem a vantagem máxima oferecida pelo próprio domínio.
 
 Exemplos já estabelecidos:
 - fogo por ligação com planos infernais ou de chama;
@@ -63,12 +62,17 @@ O escopo exato de outros planos permanece aberto até ganhar função real na Fi
 --- Chave dos Caminhos [3]
 Tomás é, em sentido funcional, uma chave viva do nexo. Pode reconhecer caminhos, abrir e fechar passagens, estabilizar rupturas, alterar conexões e substituir uma "fechadura" dimensional quando dispõe do acesso e das condições necessárias.
 
-Essa capacidade explica por que ele consegue resolver estruturalmente o problema das portas: ele não opera apenas sobre elas de fora; sua própria natureza pertence ao sistema de caminhos.
+Esta é uma capacidade de ápice porque sua própria natureza pertence ao sistema de caminhos. O [3] representa sua posição excepcional especificamente como chave dos caminhos, não uma superioridade universal em qualquer tipo de poder.
 
 --- Domínio do Observatório [3]
-O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, sua relação com os caminhos é direta e muito mais profunda do que fora dele. A categoria desta capacidade inclui o próprio nexo e o espaço sob sua guarda, razão pela qual seu alcance dentro do Observatório é muito maior do que o de uma capacidade heroica individual de mesma graduação.
+O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, Tomás está no ápice da própria categoria: sua relação com os caminhos é direta, imediata e mais profunda do que fora dele.
 
-Isso não significa vitória automática em qualquer situação: problemas de conhecimento, responsabilidade, simultaneidade, estrutura dimensional ou escolhas voluntárias continuam podendo criar situações que força bruta não resolve.
+Quando atua através do próprio domínio, efeitos e operações ligados ao nexo podem alcançar o patamar [3]. Fora do Observatório, sua atuação geral permanece em [2], salvo capacidades cuja própria natureza justifique outra graduação, como Chave dos Caminhos.
+
+--- Sentido Sobrenatural [1]
+Tomás percebe rupturas, distorções, assinaturas e fenômenos sobrenaturais ou dimensionais ligados aos caminhos, inclusive a distância quando existe conexão suficiente para isso.
+
+Essa percepção não é onisciência. Ele pode detectar que algo anormal existe sem saber automaticamente sua causa, intenção, identidade ou todos os detalhes do fenômeno.
 
 ### Limites e Vulnerabilidades
 
