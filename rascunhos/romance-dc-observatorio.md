@@ -120,3 +120,16 @@ Guardião, pensa — Está ficando mais frequente.
 - Ele não revela espontaneamente o que o observatório/casa realmente é.
 - Porém, se elas descobrirem ou fizerem a pergunta certa, ele não mente.
 - O valor está em reler respostas antigas e perceber que eram verdadeiras, apenas incompletas.
+
+## Possível capítulo de abertura — investigação antes da ilha
+
+- A história pode começar antes de qualquer encontro com o Guardião.
+- Portas anômalas começam a abrir em cidades ou outros pontos do planeta.
+- Há registros de energia e filmagens de uma figura aparecendo, forçando uma dessas portas a se fechar e desaparecendo em seguida.
+- A assinatura de poder deixada pelo fechamento é avassaladora e chama atenção por si só.
+- Ravena e Estelar investigam juntas como integrantes da mesma equipe.
+- Zatanna chega à investigação por uma linha própria e encontra as duas durante esse processo; Ravena e Estelar já se conhecem, enquanto Zatanna passa a integrar o mesmo fio investigativo ali.
+- Cada uma pode interpretar as mesmas evidências por um POV diferente: Ravena pelo aspecto espiritual, Estelar pelo aspecto energético/cósmico e Zatanna pelo aspecto mágico.
+- O rastreamento da assinatura leva a coordenadas em pleno oceano onde mapas, satélites e sensores mostram apenas vazio.
+- O capítulo pode terminar quando elas chegam fisicamente ao ponto e finalmente conseguem ver a ilha que "não existe".
+- O Guardião só aparece no capítulo seguinte, preservando o mistério e permitindo um capítulo inteiro para testar os três POVs antes do romance começar.
