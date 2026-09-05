@@ -154,3 +154,13 @@ Guardião, pensa — Está ficando mais frequente.
 - A recorrência cria uma estrutura natural de convivência: alguns dias de casa/investigação, uma nova ocorrência, retorno ao observatório e nova análise.
 - O Guardião pode acompanhar algumas investigações externas, mas sua responsabilidade com o observatório torna impraticável abandonar a ilha continuamente.
 - O ritmo também permite que o romance cresça entre os eventos, em vez de depender das emergências.
+
+## Possível resolução do mistério das portas
+
+- A causa pode ser simples: uma entidade está tentando atravessar/invadir por meio das portas anômalas.
+- O Guardião provavelmente teria poder para enfrentar a entidade sozinho, mas resolver tudo dessa forma exigiria deixar outra ameaça, passagem ou contenção desprotegida por alguns minutos.
+- O risco não é falta de poder; é responsabilidade simultânea. Soltar outro problema na Terra por cinco minutos para ganhar tempo não combina com a função dele.
+- Ravena, Estelar e Zatanna podem então ter uma função real no clímax: conter, atrasar ou impedir o avanço da entidade enquanto ele prepara um selo permanente.
+- O objetivo dele no confronto não é "vencer" a entidade em combate, mas criar o selo que a prende de vez e encerra o ciclo de portas.
+- A participação delas não precisa existir porque ele é incapaz de fazer sozinho; existe porque fazer sozinho teria um custo ou risco desnecessário para o mundo.
+- Isso preserva a escala absurda do Guardião sem tornar as três irrelevantes.
