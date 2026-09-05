@@ -250,13 +250,25 @@ NARRADOR — Tomás não estava tentando destruir a porta.
 
 NARRADOR — Estava fechando-a.
 
-NARRADOR — A abertura resistiu por poucos segundos.
+NARRADOR — O problema exigia toda a atenção agora.
 
-NARRADOR — O espaço se contraiu.
+NARRADOR — Tomás alcançou os caminhos que ainda sustentavam aquela abertura e começou a desfazer a conexão.
 
-NARRADOR — As bordas impossíveis tocaram-se.
+NARRADOR — A passagem resistiu.
 
-NARRADOR — E a passagem deixou de existir.
+NARRADOR — Não muito.
+
+NARRADOR — Ele pressionou a estrutura até as bordas começarem a retornar ao lugar correto.
+
+Tomás, pensa — Fecha.
+
+NARRADOR — Por um instante, alguma coisa do outro lado pressionou contra o fechamento.
+
+NARRADOR — Tomás não cedeu espaço.
+
+NARRADOR — As bordas tocaram-se.
+
+NARRADOR — A passagem desapareceu.
 
 NARRADOR — No mesmo instante, o efeito que mantinha as três afastadas desapareceu.
 
@@ -270,9 +282,15 @@ NARRADOR — Dessa vez avançou normalmente.
 
 NARRADOR — Mas ele não estava tentando permanecer ao alcance.
 
-NARRADOR — O espaço ao redor de Tomás deformou-se uma única vez.
+NARRADOR — Tomás não olhou para trás.
 
-NARRADOR — E ele desapareceu.
+NARRADOR — Havia uma porta fechada.
+
+NARRADOR — Ainda existiam outras.
+
+NARRADOR — O espaço se dobrou ao redor dele.
+
+NARRADOR — E Tomás voltou pelos Caminhos.
 
 NARRADOR — Estelar parou no ar.
 
