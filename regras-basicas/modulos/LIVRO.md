@@ -82,20 +82,45 @@ versão anulada por correção ou refação
 
 O capítulo deve preservar claramente a origem da ficção quando isso for conhecido.
 
-Formato recomendado:
+A identificação de **quem fala** e **quem pensa** é obrigatória no Livro canônico.
+
+Formato canônico:
 
 ```text
-NARRADOR:
-Descrição, consequência ou fato narrado.
+NARRADOR — descrição, consequência ou fato narrado.
 
-PERSONAGEM A:
-— Fala ou ação estabelecida.
+Wyliam — fala.
 
-PERSONAGEM A — pensamento:
-*Interioridade estabelecida.*
+Wyliam, pensa — pensamento.
 ```
 
-Aplicar o mesmo padrão às demais personagens quando necessário.
+Forma geral:
+
+```text
+[PERSONAGEM] — [fala estabelecida].
+
+[PERSONAGEM], pensa — [pensamento ou interioridade estabelecida].
+```
+
+Exemplo:
+
+```text
+NARRADOR — A chuva batia contra as janelas enquanto ele observava a estrada vazia.
+
+Wyliam — Não acho que ele venha hoje.
+
+Wyliam, pensa — Mas eu ainda vou esperar mais um pouco.
+```
+
+A fala não deve ser registrada sem identificação quando sua origem é conhecida.
+
+O pensamento não deve ser absorvido pela narração como se fosse fato objetivo. Quando uma interioridade pertence a uma personagem, o Livro deve deixar isso explícito com:
+
+```text
+[PERSONAGEM], pensa — ...
+```
+
+Quando uma ação diretamente atribuída a uma personagem precisar ter sua origem preservada de forma explícita, pode ser registrada com o nome da personagem no mesmo bloco, desde que não seja confundida com fala ou pensamento.
 
 Esses marcadores ajudam a preservar:
 
@@ -147,13 +172,15 @@ Quando o comando `fechar o capítulo` for usado:
 1. parar no último fato realmente estabelecido;
 2. reunir somente a ficção válida desde o último capítulo fechado;
 3. excluir Direção, Mesa, Parecer, auditorias e demais metaconversas;
-4. preservar NARRADOR, falas, ações e pensamentos com sua origem quando conhecida;
-5. salvar o capítulo dentro de livro/;
-6. atualizar livro/README.md com o novo capítulo;
-7. atualizar Estado, Fichas, Mundo, Direção ou outras fontes vivas somente se algo realmente mudou;
-8. preservar operacao.md se houver operação legítima ainda pendente;
-9. executar checkpoint operacional;
-10. reancorar antes de continuar a ficção.
+4. preservar NARRADOR, ações, falas e pensamentos com sua origem;
+5. identificar obrigatoriamente cada fala como "[PERSONAGEM] — ...";
+6. identificar obrigatoriamente cada pensamento como "[PERSONAGEM], pensa — ...";
+7. salvar o capítulo dentro de livro/;
+8. atualizar livro/README.md com o novo capítulo;
+9. atualizar Estado, Fichas, Mundo, Direção ou outras fontes vivas somente se algo realmente mudou;
+10. preservar operacao.md se houver operação legítima ainda pendente;
+11. executar checkpoint operacional;
+12. reancorar antes de continuar a ficção.
 ```
 
 Não criar despedida, cliffhanger, reação, passagem de tempo ou qualquer outro acontecimento apenas para produzir um final melhor.
@@ -277,6 +304,13 @@ ou outra convenção explicitamente definida no README da edição.
 
 A edição não deve transformar pensamento de uma personagem em narração objetiva nem atribuir fala a origem errada.
 
+A liberdade editorial da Edição de Leitura não altera o padrão obrigatório do Livro canônico:
+
+```text
+[PERSONAGEM] — fala.
+[PERSONAGEM], pensa — pensamento.
+```
+
 ## Derivado não governa o cânone
 
 Se Edição de Leitura e Livro canônico parecerem divergir:
@@ -309,4 +343,4 @@ Esses arquivos são derivados. Se contradisserem Ficha, Estado, Direção ou cap
 
 ## Regra final
 
-> **Toda obra que executa Ficção mantém Livro canônico ativo. O Livro preserva o passado ficcional em capítulos; fechar capítulo sempre registra. A Edição de Leitura pode reorganizar e aprofundar a apresentação sem criar novo cânone. Nenhum derivado recebe autoridade para jogar o futuro ou reescrever silenciosamente o que aconteceu.**
+> **Toda obra que executa Ficção mantém Livro canônico ativo. O Livro preserva o passado ficcional em capítulos; fechar capítulo sempre registra. Falas identificam quem fala e pensamentos identificam quem pensa. A Edição de Leitura pode reorganizar e aprofundar a apresentação sem criar novo cânone. Nenhum derivado recebe autoridade para jogar o futuro ou reescrever silenciosamente o que aconteceu.**
