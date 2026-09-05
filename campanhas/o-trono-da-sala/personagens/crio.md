@@ -7,11 +7,11 @@ Natureza: Titã; filho de Gaia e Urano.
 
 Aparência: Homem adulto de aparência humana. Nada em sua aparência cotidiana precisa denunciar imediatamente sua natureza divina.
 
-Porte: Forte, mas sem ostentação. A impressão predominante é a de um homem acostumado a trabalho físico cotidiano, não a cerimônias ou corte.
+Porte: Forte, largo e sólido, com uma presença que lembra pedra: não por rigidez ou frieza, mas pela impressão de permanência e estabilidade. Parece um homem acostumado a trabalho físico cotidiano, não a cerimônias ou corte.
 
-Estilo: Roupas simples e práticas de fazenda.
+Estilo: Roupas simples, práticas e rústicas de fazenda. Mãos calejadas, movimentos econômicos e pouca preocupação com aparência ornamental.
 
-Características distintivas: Sua verdadeira escala de poder não é evidente enquanto vive normalmente.
+Características distintivas: Sua verdadeira escala de poder não é evidente enquanto vive normalmente. A antiguidade de Crio aparece mais na maneira calma, difícil de deslocar e pouco reativa com que ocupa o espaço do que em qualquer sinal sobrenatural explícito.
 
 ## 2 — Conceito
 
@@ -115,7 +115,11 @@ Um barco passa pela região aproximadamente uma vez a cada três meses.
 
 ## 5 — Personalidade e Vida Emocional
 
-Personalidade: Crio é prático, tranquilo, direto e seco na forma de falar. Usa poucas palavras, não dramatiza situações e raramente enfeita o que precisa dizer. Essa secura, porém, não é crueldade: Crio é gentil nas ações, preserva a dignidade de quem depende dele e ajuda sem transformar cuidado em pena, dívida ou instrumento de poder.
+Personalidade: Crio é prático, tranquilo, direto, rústico e seco na forma de falar. Usa poucas palavras, não dramatiza situações e raramente enfeita o que precisa dizer. Há nele algo de pedra: antigo, sólido, difícil de deslocar e pouco reativo, sem que isso o torne frio ou insensível.
+
+Sua secura não é crueldade. Crio é gentil nas ações, preserva a dignidade de quem depende dele e ajuda sem transformar cuidado em pena, dívida ou instrumento de poder. Sua gentileza aparece mais no que faz do que no que explica.
+
+Sua sabedoria tende a surgir em frases curtas e práticas. Não faz discursos para parecer antigo ou sábio; simplesmente não sente necessidade de explicar em excesso coisas que para ele já estão assentadas.
 
 Sua falta de reverência diante de Hela não nasce de provocação. Ele simplesmente não organiza relações pessoais em torno de títulos divinos.
 
