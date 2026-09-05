@@ -93,10 +93,12 @@ campanhas/<slug>/
 ├── mundo/                  # somente quando necessário
 ├── arco.md                 # somente com Arco Preparado ativo
 ├── oposicao.md             # somente com Opositor ativo
-└── livro/                  # somente com Livro ativo
+└── livro/                  # obrigatório quando houver Ficção fechada para registrar
 ```
 
 A ausência de fonte opcional não é erro.
+
+Antes do START, `livro/` pode ainda não existir porque nenhuma Ficção foi fechada. Depois que a Ficção começar, o Livro é obrigatório e deve registrar todo capítulo fechado.
 
 ---
 
@@ -223,7 +225,8 @@ Registrar:
 ```text
 POLÍTICA DE MESA
 INDICADOR OPERACIONAL
-MÓDULOS ATIVOS
+MÓDULOS OPCIONAIS ATIVOS
+LIVRO PREPARADO PARA ATIVAÇÃO OBRIGATÓRIA
 ```
 
 Padrões:
@@ -231,7 +234,8 @@ Padrões:
 ```text
 MESA: SOB DEMANDA
 INDICADOR: SILENCIOSO
-MÓDULOS: INATIVOS salvo escolha ou necessidade real
+MÓDULOS OPCIONAIS: INATIVOS salvo escolha ou necessidade real
+LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
 ```
 
 A Mesa pode ser usada para qualquer domínio narrativo, inclusive combate.
@@ -340,6 +344,7 @@ NARRADOR configurado sem função de Juiz
 Mesa disponível para resultados materiais abertos
 sem RNG universal
 sem sentença escondida
+Livro preparado para ativação obrigatória com a primeira Ficção
 ```
 
 Se tudo estiver suficiente:
@@ -390,6 +395,7 @@ START
 → restaurar operação pendente, se houver
 → caso contrário identificar primeiro ponto aberto
 → identificar próxima autoria ou função
+→ ativar o Livro quando a primeira Ficção for executada
 → iniciar a camada correta
 ```
 
@@ -420,10 +426,14 @@ Quando a primeira Ficção realmente ocorrer:
 STATUS
 PRONTA
 → EM EXECUÇÃO
+
+LIVRO
+PREPARADO
+→ ATIVO
 ```
 
 ---
 
 # Regra final
 
-> **O workspace cresce junto com a preparação. Fichas preservam pessoas; Direção preserva decisões autorais; políticas configuram o motor; mundo preserva fatos externos necessários; Estado preserva a âncora presente; a Auditoria verifica reconstruibilidade; e o START abre a Ficção somente quando ela está pronta e autorizada. A Mesa substitui a necessidade de um Juiz para resultados autorais importantes, enquanto o Narrador apresenta a versão executável.**
+> **O workspace cresce junto com a preparação. Fichas preservam pessoas; Direção preserva decisões autorais; políticas configuram o motor; mundo preserva fatos externos necessários; Estado preserva a âncora presente; a Auditoria verifica reconstruibilidade; e o START abre a Ficção somente quando ela está pronta e autorizada. A Mesa substitui a necessidade de um Juiz para resultados autorais importantes, enquanto o Narrador apresenta a versão executável. O Livro torna-se obrigatório e ativo com a primeira Ficção.**
