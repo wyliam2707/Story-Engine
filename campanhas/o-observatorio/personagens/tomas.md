@@ -47,10 +47,10 @@ Tomás não afirma conscientemente algo que acredita ser falso. Pode omitir, res
 
 ### Poderes
 
---- Conexão com os Caminhos [2]
+--- Conexão com os Caminhos [Excelente]
 Tomás pode tocar e canalizar propriedades de planos ligados ao nexo. Fogo, cura, raio, frio, energia e efeitos semelhantes são manifestações derivadas de sua conexão com diferentes fontes dimensionais.
 
-Fora do Observatório, esta é sua graduação operacional principal: extraordinariamente poderosa e claramente acima de capacidades comuns, mas sem a vantagem máxima oferecida pelo próprio domínio.
+Fora do Observatório, esta é sua graduação operacional principal: extraordinariamente poderosa e claramente acima de manifestações padrão comparáveis, mas sem a vantagem máxima oferecida pelo próprio domínio.
 
 Exemplos já estabelecidos:
 - fogo por ligação com planos infernais ou de chama;
@@ -59,17 +59,17 @@ Exemplos já estabelecidos:
 
 O escopo exato de outros planos permanece aberto até ganhar função real na Ficção.
 
---- Chave dos Caminhos [3]
+--- Chave dos Caminhos [Único]
 Tomás é, em sentido funcional, uma chave viva do nexo. Pode reconhecer caminhos, abrir e fechar passagens, estabilizar rupturas, alterar conexões e substituir uma "fechadura" dimensional quando dispõe do acesso e das condições necessárias.
 
-Esta é uma capacidade de ápice porque sua própria natureza pertence ao sistema de caminhos. O [3] representa sua posição excepcional especificamente como chave dos caminhos, não uma superioridade universal em qualquer tipo de poder.
+A graduação [Único] representa aqui uma autoridade singular: sua própria natureza pertence ao sistema de caminhos. Não significa superioridade universal em qualquer tipo de poder; significa que, especificamente como Chave dos Caminhos, ele ocupa uma posição de ápice ou praticamente sem equivalente comparável.
 
---- Domínio do Observatório [3]
+--- Domínio do Observatório [Único]
 O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, Tomás está no ápice da própria categoria: sua relação com os caminhos é direta, imediata e mais profunda do que fora dele.
 
-Quando atua através do próprio domínio, efeitos e operações ligados ao nexo podem alcançar o patamar [3]. Fora do Observatório, sua atuação geral permanece em [2], salvo capacidades cuja própria natureza justifique outra graduação, como Chave dos Caminhos.
+Quando atua através do próprio domínio, efeitos e operações ligados ao nexo podem alcançar a graduação [Único]. Fora do Observatório, sua atuação geral permanece [Excelente], salvo capacidades cuja própria natureza justifique outra graduação, como Chave dos Caminhos.
 
---- Sentido Sobrenatural [1]
+--- Sentido Sobrenatural [Padrão]
 Tomás percebe rupturas, distorções, assinaturas e fenômenos sobrenaturais ou dimensionais ligados aos caminhos, inclusive a distância quando existe conexão suficiente para isso.
 
 Essa percepção não é onisciência. Ele pode detectar que algo anormal existe sem saber automaticamente sua causa, intenção, identidade ou todos os detalhes do fenômeno.
