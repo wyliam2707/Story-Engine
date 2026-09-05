@@ -45,13 +45,13 @@ Sua função não foi imposta. Ele considera a manutenção e a segurança dos c
 --- TRAÇO: Não Mente Deliberadamente
 Tomás não afirma conscientemente algo que acredita ser falso. Pode omitir, responder apenas parte da verdade, usar linguagem literal, enquadrar uma resposta ou permitir que outra pessoa conclua algo incompleto, desde que suas palavras permaneçam verdadeiras.
 
---- TRAÇO: Escala Cósmica
-Tomás não pertence ao mesmo patamar bruto de poder de heróis extraordinários como Estelar, Ravena ou Zatanna. As graduações [1] a [3] usadas para capacidades heroicas comuns não devem ser lidas como uma equivalência direta com seus poderes centrais. Em confronto de escala pura, especialmente dentro do Observatório, sua natureza dimensional o coloca muito acima das três. Isso não torna suas capacidades ilimitadas nem o torna onisciente; apenas preserva a diferença de ordem de grandeza estabelecida para a campanha.
+--- TRAÇO: Natureza Cósmico-Dimensional
+A categoria natural de Tomás é cósmico-dimensional. Isso define o escopo de suas capacidades, não uma graduação acima de [3]. Uma capacidade [3] de Tomás continua sendo ápice dentro da própria categoria descrita, assim como [3] em outra personagem é ápice da categoria daquela capacidade. Graduações iguais não tornam capacidades de categorias diferentes equivalentes em força, alcance ou ordem de grandeza.
 
 ### Poderes
 
---- Conexão com os Caminhos — ESCALA CÓSMICA
-Tomás pode tocar e canalizar propriedades de planos ligados ao nexo. Ele não possui dezenas de poderes independentes; fogo, cura, raio, frio, energia e efeitos semelhantes são manifestações derivadas de sua conexão com diferentes fontes dimensionais.
+--- Conexão com os Caminhos [3]
+Tomás pode tocar e canalizar propriedades de planos ligados ao nexo. A própria categoria desta capacidade é cósmico-dimensional: ele trabalha com fontes planares e com o entrelaçamento entre mundos, não com uma manifestação heroica comum de energia. Fogo, cura, raio, frio, energia e efeitos semelhantes são manifestações derivadas de sua conexão com diferentes fontes dimensionais.
 
 Exemplos já estabelecidos:
 - fogo por ligação com planos infernais ou de chama;
@@ -60,15 +60,15 @@ Exemplos já estabelecidos:
 
 O escopo exato de outros planos permanece aberto até ganhar função real na Ficção.
 
---- Chave dos Caminhos — ESCALA CÓSMICA
+--- Chave dos Caminhos [3]
 Tomás é, em sentido funcional, uma chave viva do nexo. Pode reconhecer caminhos, abrir e fechar passagens, estabilizar rupturas, alterar conexões e substituir uma "fechadura" dimensional quando dispõe do acesso e das condições necessárias.
 
 Essa capacidade explica por que ele consegue resolver estruturalmente o problema das portas: ele não opera apenas sobre elas de fora; sua própria natureza pertence ao sistema de caminhos.
 
---- Domínio do Observatório — ESCALA CÓSMICA / DOMÍNIO PRÓPRIO
-O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, sua relação com os caminhos é direta e muito mais profunda do que fora dele. É ali que a diferença de escala entre Tomás e heróis de alto nível se torna mais pronunciada.
+--- Domínio do Observatório [3]
+O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, sua relação com os caminhos é direta e muito mais profunda do que fora dele. A categoria desta capacidade inclui o próprio nexo e o espaço sob sua guarda, razão pela qual seu alcance dentro do Observatório é muito maior do que o de uma capacidade heroica individual de mesma graduação.
 
-A existência dessa vantagem não significa vitória automática em qualquer situação: problemas de conhecimento, responsabilidade, simultaneidade, estrutura dimensional ou escolhas voluntárias continuam podendo criar situações que força bruta não resolve.
+Isso não significa vitória automática em qualquer situação: problemas de conhecimento, responsabilidade, simultaneidade, estrutura dimensional ou escolhas voluntárias continuam podendo criar situações que força bruta não resolve.
 
 ### Limites e Vulnerabilidades
 
