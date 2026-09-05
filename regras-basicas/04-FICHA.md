@@ -196,6 +196,34 @@ quais limites importam
 
 Não precisa enumerar cada aplicação possível.
 
+## O nome do Poder faz parte da capacidade
+
+O nome do Poder não é apenas um rótulo estético. Ele participa da definição de **categoria, natureza e escala conceitual** da capacidade.
+
+```text
+Força Sobre-Humana
+≠ Superforça
+
+Resistência Sobre-Humana
+≠ Super-Resistência
+
+Cura Acelerada
+≠ Regeneração
+
+Controle de Chamas
+≠ Domínio do Fogo
+```
+
+Termos próximos podem representar capacidades materialmente diferentes mesmo antes de qualquer graduação.
+
+A ficha deve usar o nome que melhor descreve aquilo que a personagem realmente possui, e a descrição deve tornar essa diferença compreensível na Ficção.
+
+> **Nome e descrição definem o domínio. Graduação posiciona a manifestação dentro desse domínio.**
+
+Não é necessário criar dezenas de níveis para representar toda diferença de poder. Muitas diferenças devem aparecer primeiro na própria escrita da capacidade.
+
+Antes de aumentar uma graduação apenas para representar um salto de natureza ou escala, verificar se o correto é registrar uma capacidade conceitualmente diferente.
+
 ---
 
 # Graduação
@@ -225,6 +253,16 @@ Voo [Padrão]
 ```
 
 não cria nível geral.
+
+E capacidades de nomes e escopos diferentes não devem ser tratadas automaticamente como se fossem a mesma régua apenas porque possuem a mesma graduação.
+
+```text
+Força Sobre-Humana [Excelente]
+≠
+Superforça [Excelente]
+```
+
+A graduação compara principalmente manifestações realmente comparáveis. Primeiro vêm **nome, natureza e descrição**; depois vem a graduação.
 
 Graduação informa plausibilidade e diferença factual; não vira placar automático, rolagem ou sentença.
 
@@ -397,4 +435,4 @@ Não pedir novamente informação já fornecida.
 
 # Regra final
 
-> **A ficha descreve uma pessoa, não um orçamento, placar ou catálogo de ações. Ela sustenta decisões das Cadeiras, análise da Mesa e apresentação do Narrador. Competências e conhecimentos estabelecem repertório; Traços estabelecem verdades; Poderes estabelecem domínios de capacidade; graduação informa intensidade sem virar sentença automática.**
+> **A ficha descreve uma pessoa, não um orçamento, placar ou catálogo de ações. Ela sustenta decisões das Cadeiras, análise da Mesa e apresentação do Narrador. Competências e conhecimentos estabelecem repertório; Traços estabelecem verdades; Poderes estabelecem domínios de capacidade; nome e descrição definem natureza e escopo; graduação informa intensidade entre manifestações comparáveis sem virar sentença automática.**
