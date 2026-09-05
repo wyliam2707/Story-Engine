@@ -396,16 +396,31 @@ modelos/FICHA.md
 
 ---
 
-# Módulos opcionais
+# Módulos
+
+Módulos opcionais:
 
 ```text
 modulos/ARCO-PREPARADO.md
 modulos/OPOSITOR.md
 modulos/ROMANCE.md
+```
+
+Módulo obrigatório durante a Ficção:
+
+```text
 modulos/LIVRO.md
 ```
 
-Módulo inativo não participa da obra.
+```text
+OBRA EM PREPARAÇÃO
+→ Livro pode estar apenas PREPARADO.
+
+PRIMEIRA FICÇÃO EXECUTADA
+→ Livro ATIVO obrigatoriamente.
+```
+
+Módulo opcional inativo não participa da obra. O Livro não pode permanecer inativo depois do START.
 
 ---
 
