@@ -111,6 +111,7 @@ Guardião, pensa — Está ficando mais frequente.
 - Quando sai em público, retoma uma estética de conde do século XVI: roupa formal, antiga e impecável.
 - Não é fantasia; é simplesmente a última convenção de vestimenta pública que ele adotou antes de se retirar do mundo.
 - Ele pode ser socialmente competente e conquistador apesar de estar desatualizado em alguns aspectos cotidianos modernos.
+- Na chegada de Ravena e Estelar, ele pode estar fazendo algo completamente simples, como deitado em uma rede na varanda, reforçando o contraste entre a escala cósmica da função dele e a normalidade com que trata a própria casa.
 
 ## Relação com as três
 
