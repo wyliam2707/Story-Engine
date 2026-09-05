@@ -253,7 +253,8 @@ Definir:
 ```text
 POLÍTICA DE MESA
 INDICADOR OPERACIONAL
-MÓDULOS ATIVOS
+MÓDULOS OPCIONAIS ATIVOS
+LIVRO PREPARADO PARA ATIVAÇÃO OBRIGATÓRIA
 ```
 
 Padrões:
@@ -261,8 +262,11 @@ Padrões:
 ```text
 MESA: SOB DEMANDA
 INDICADOR OPERACIONAL: SILENCIOSO
-MÓDULOS: INATIVOS salvo escolha ou necessidade real
+MÓDULOS OPCIONAIS: INATIVOS salvo escolha ou necessidade real
+LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
 ```
+
+O Livro não é uma escolha opcional durante a Ficção.
 
 Padrões existem para evitar perguntas inúteis.
 
@@ -366,6 +370,7 @@ Narrador sem função de Juiz
 Mesa disponível para resultados materiais abertos
 sem RNG universal
 sem sentença causal escondida
+Livro preparado para ativação obrigatória com a primeira Ficção
 ```
 
 ```text
@@ -410,6 +415,7 @@ START:
 → restaura operação pendente, se houver
 → caso contrário identifica primeiro ponto aberto
 → identifica próxima autoria ou função
+→ ativa o Livro obrigatoriamente quando a primeira Ficção for executada
 → começa a Ficção sem redistribuir autoridade
 ```
 
@@ -440,10 +446,14 @@ Quando a primeira Ficção realmente for executada:
 STATUS
 PRONTA
 → EM EXECUÇÃO
+
+LIVRO
+PREPARADO
+→ ATIVO
 ```
 
 ---
 
 # Regra final
 
-> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção exatamente no primeiro ponto aberto, preservando Diretor, Cadeiras, Mesa e Narrador em funções separadas — sem Juiz permanente.**
+> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção exatamente no primeiro ponto aberto, preservando Diretor, Cadeiras, Mesa e Narrador em funções separadas — sem Juiz permanente. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
