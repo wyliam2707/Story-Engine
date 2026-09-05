@@ -47,16 +47,16 @@ Tende a valorizar autonomia, escolha e capacidade de ir embora quando quiser. Cu
 
 ### Poderes
 
---- Magia Verbal [2]
+--- Magia Verbal [Excelente]
 Zatanna pode produzir ampla variedade de efeitos através de fórmulas faladas, tradicionalmente usando linguagem invertida. É a principal expressão de seu poder e a coloca claramente acima de usuários mágicos comuns, sem defini-la como ápice absoluto de toda a magia da DC.
 
---- Ritual e Contramagia [1]
+--- Ritual e Contramagia [Padrão]
 Pode analisar, desfazer, conter, redirecionar ou preparar fenômenos mágicos complexos quando possui informação e condições suficientes.
 
---- Proteção e Contenção [1]
+--- Proteção e Contenção [Padrão]
 Pode criar barreiras, selos e efeitos defensivos para proteger pessoas, locais ou passagens durante ameaças sobrenaturais.
 
---- Transmutação, Movimento e Manipulação Mágica [1]
+--- Transmutação, Movimento e Manipulação Mágica [Padrão]
 Pode alterar matéria, mover objetos, criar ilusões e produzir outras aplicações mágicas compatíveis com seu repertório.
 
 ### Limites e Vulnerabilidades
