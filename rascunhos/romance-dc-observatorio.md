@@ -48,7 +48,18 @@ Ravena, pensa — pensamento.
 
 ### Zatanna
 - Chega por uma via própria, separada de Ravena e Estelar.
-- Ainda não foi fechada uma necessidade íntima específica equivalente à de Ravena e Estelar.
+- Não precisa de uma necessidade íntima forte para permanecer.
+- O lugar pode ser atraente por duas razões simples: silêncio mágico real e fascínio por uma casa impossível cheia de portas e janelas para outros lugares.
+- Zatanna continua sendo a mais independente das três: ela não precisa ficar; pode simplesmente querer ficar.
+
+## Permanência das três
+
+- Nenhuma delas precisa permanecer na casa.
+- O Guardião oferece hospedagem porque, depois de séculos de sono/vigília e pouca companhia, gosta da presença delas.
+- Ravena pode querer ficar pelo silêncio em relação a Trigon.
+- Estelar pode querer ficar pelas janelas e pela possibilidade de contato com Tamaran.
+- Zatanna pode querer ficar pelo silêncio mágico, pela curiosidade e pelo caráter único do lugar.
+- Permanecer continua sendo escolha de cada Cadeira.
 
 ## Protagonista / Personagem do Diretor
 
@@ -85,6 +96,15 @@ Ravena, pensa — pensamento.
 Guardião, pensa — Está ficando mais frequente.
 ```
 
+## Ilha e ocultação
+
+- O observatório/casa fica em uma ilha grande e isolada no meio do mar.
+- A ilha não aparece em mapas comuns.
+- Satélites, sensores e sistemas remotos não conseguem percebê-la de forma útil.
+- A ilha não é necessariamente invisível a olho nu: quem chega fisicamente até ela pode vê-la normalmente.
+- A ocultação pertence à natureza do domínio/observatório, não precisa ser tratada como tecnologia convencional.
+- A casa permanece sempre limpa e organizada, coerente com o fato de ser uma manifestação do próprio poder do Guardião.
+
 ## Vida doméstica e aparência
 
 - Dentro do observatório, ele está em casa: pode passar o dia de calça e camisa simples, mangas dobradas, aparência doméstica.
@@ -99,9 +119,3 @@ Guardião, pensa — Está ficando mais frequente.
 - Ele não revela espontaneamente o que o observatório/casa realmente é.
 - Porém, se elas descobrirem ou fizerem a pergunta certa, ele não mente.
 - O valor está em reler respostas antigas e perceber que eram verdadeiras, apenas incompletas.
-
-## Ponto ainda aberto
-
-- Definir uma necessidade íntima ou benefício pessoal para Zatanna que seja tão significativo quanto:
-  - Ravena → silêncio real da influência de Trigon;
-  - Estelar → janelas reais para Tamaran.
