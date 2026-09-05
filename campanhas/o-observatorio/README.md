@@ -1,7 +1,7 @@
 # O Observatório
 
 STATUS
-→ EM PREPARAÇÃO
+→ PRONTA
 
 ## Proposta curta
 
@@ -141,3 +141,17 @@ MESMA CENA
 - A temporada 1 possui preparação estrutural própria em `arco.md`.
 - Fatos do arco não determinam sentimentos ou decisões voluntárias das personagens.
 - O Diretor pode alterar conscientemente a preparação quando desejar; mudanças não são tratadas como se sempre tivessem sido verdade.
+
+## Auditoria de Preparação
+
+AUDITORIA: APROVADA
+
+- Identidade, proposta e tom da obra estão reconstruíveis.
+- Tomás, Ravena, Estelar e Zatanna possuem fichas suficientes para execução.
+- Autoridades, Cadeiras, Narrador e limites de delegação de Tomás estão claros.
+- Narrador está configurado sem função de Juiz.
+- Direção, Arco Preparado, Mundo Necessário e Estado Inicial são compatíveis.
+- O primeiro ponto aberto pertence às Cadeiras de Ravena, Estelar e Zatanna dentro das investigações já em andamento.
+- Resultados materiais ainda abertos retornam à Mesa quando necessário, em vez de serem sentenciados secretamente pelo Narrador.
+- Livro permanece PREPARADO e deve tornar-se ATIVO no START / primeira Ficção.
+- Nenhuma contradição bloqueante conhecida impede o início.
