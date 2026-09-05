@@ -1,7 +1,7 @@
 # O Observatório
 
 STATUS
-→ PRONTA
+→ EM EXECUÇÃO
 
 ## Proposta curta
 
@@ -126,7 +126,7 @@ MESMA CENA
 - Arco Preparado: ATIVO.
 - Opositor: INATIVO.
 - Romance: ATIVO.
-- Livro: PREPARADO — ativação obrigatória no START / primeira Ficção.
+- Livro: ATIVO — ativado no START / primeira Ficção.
 
 #### Romance
 
@@ -153,5 +153,5 @@ AUDITORIA: APROVADA
 - Direção, Arco Preparado, Mundo Necessário e Estado Inicial são compatíveis.
 - O primeiro ponto aberto pertence às Cadeiras de Ravena, Estelar e Zatanna dentro das investigações já em andamento.
 - Resultados materiais ainda abertos retornam à Mesa quando necessário, em vez de serem sentenciados secretamente pelo Narrador.
-- Livro permanece PREPARADO e deve tornar-se ATIVO no START / primeira Ficção.
-- Nenhuma contradição bloqueante conhecida impede o início.
+- Livro foi ativado no START / primeira Ficção.
+- Nenhuma contradição bloqueante conhecida impede a execução.
