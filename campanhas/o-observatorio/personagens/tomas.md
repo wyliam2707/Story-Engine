@@ -45,9 +45,12 @@ Sua função não foi imposta. Ele considera a manutenção e a segurança dos c
 --- TRAÇO: Não Mente Deliberadamente
 Tomás não afirma conscientemente algo que acredita ser falso. Pode omitir, responder apenas parte da verdade, usar linguagem literal, enquadrar uma resposta ou permitir que outra pessoa conclua algo incompleto, desde que suas palavras permaneçam verdadeiras.
 
+--- TRAÇO: Escala Cósmica
+Tomás não pertence ao mesmo patamar bruto de poder de heróis extraordinários como Estelar, Ravena ou Zatanna. As graduações [1] a [3] usadas para capacidades heroicas comuns não devem ser lidas como uma equivalência direta com seus poderes centrais. Em confronto de escala pura, especialmente dentro do Observatório, sua natureza dimensional o coloca muito acima das três. Isso não torna suas capacidades ilimitadas nem o torna onisciente; apenas preserva a diferença de ordem de grandeza estabelecida para a campanha.
+
 ### Poderes
 
---- Conexão com os Caminhos [3]
+--- Conexão com os Caminhos — ESCALA CÓSMICA
 Tomás pode tocar e canalizar propriedades de planos ligados ao nexo. Ele não possui dezenas de poderes independentes; fogo, cura, raio, frio, energia e efeitos semelhantes são manifestações derivadas de sua conexão com diferentes fontes dimensionais.
 
 Exemplos já estabelecidos:
@@ -57,13 +60,15 @@ Exemplos já estabelecidos:
 
 O escopo exato de outros planos permanece aberto até ganhar função real na Ficção.
 
---- Chave dos Caminhos [3]
+--- Chave dos Caminhos — ESCALA CÓSMICA
 Tomás é, em sentido funcional, uma chave viva do nexo. Pode reconhecer caminhos, abrir e fechar passagens, estabilizar rupturas, alterar conexões e substituir uma "fechadura" dimensional quando dispõe do acesso e das condições necessárias.
 
 Essa capacidade explica por que ele consegue resolver estruturalmente o problema das portas: ele não opera apenas sobre elas de fora; sua própria natureza pertence ao sistema de caminhos.
 
---- Domínio do Observatório [3]
-O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, sua relação com os caminhos é mais direta e profunda do que fora dele.
+--- Domínio do Observatório — ESCALA CÓSMICA / DOMÍNIO PRÓPRIO
+O Observatório é uma manifestação física de seu poder e de sua ligação com o nexo. Dentro desse domínio, sua relação com os caminhos é direta e muito mais profunda do que fora dele. É ali que a diferença de escala entre Tomás e heróis de alto nível se torna mais pronunciada.
+
+A existência dessa vantagem não significa vitória automática em qualquer situação: problemas de conhecimento, responsabilidade, simultaneidade, estrutura dimensional ou escolhas voluntárias continuam podendo criar situações que força bruta não resolve.
 
 ### Limites e Vulnerabilidades
 
@@ -71,6 +76,7 @@ O Observatório é uma manifestação física de seu poder e de sua ligação co
 --- Poder extraordinário não significa que possa realizar qualquer efeito imaginável; suas manifestações precisam decorrer de caminhos e fontes reais aos quais esteja ligado.
 --- Durante operações estruturais complexas, como substituir uma fechadura dimensional, sua atenção e poder podem precisar permanecer concentrados no mecanismo, impedindo que ele execute simultaneamente todas as outras funções.
 --- Fora do Observatório continua extremamente poderoso, mas não possui a mesma relação imediata que tem dentro de seu domínio.
+--- A campanha não deve criar fraquezas artificiais apenas para reduzir Tomás ao patamar das outras personagens. Quando ele não resolver algo imediatamente, a razão deve decorrer da natureza real do problema, do que ele sabe, de suas responsabilidades ou de condições já estabelecidas.
 
 ### Equipamentos e Recursos
 
