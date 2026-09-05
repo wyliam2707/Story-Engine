@@ -143,3 +143,14 @@ Guardião, pensa — Está ficando mais frequente.
 - Depois que elas encontram o Guardião e passam a conviver no observatório, a experiência muda gradualmente para comédia romântica sobrenatural.
 - A virada não deve anular o mistério das portas: a investigação continua como estrutura de fundo, enquanto convivência, personalidade, diálogos e romance passam a ocupar o centro.
 - O contraste desejado é: o leitor espera encontrar uma ameaça cósmica e encontra um homem absurdamente poderoso deitado numa rede em casa.
+
+## Ritmo recorrente das portas
+
+- Depois do encontro com o Guardião, novas portas continuam aparecendo aproximadamente a cada 3 ou 4 dias.
+- O Guardião normalmente consegue localizar a ocorrência, ir até o local e forçar a porta a se fechar.
+- Fechar a manifestação individual não resolve o mistério central; ele continua sem saber por que as portas estão surgindo fora do observatório.
+- Ravena, Estelar e Zatanna usam o intervalo entre ocorrências para investigar padrões, comparar assinaturas, visitar locais anteriores e formular hipóteses.
+- Esse ciclo mantém a investigação ativa sem transformar cada abertura em uma crise de escala crescente.
+- A recorrência cria uma estrutura natural de convivência: alguns dias de casa/investigação, uma nova ocorrência, retorno ao observatório e nova análise.
+- O Guardião pode acompanhar algumas investigações externas, mas sua responsabilidade com o observatório torna impraticável abandonar a ilha continuamente.
+- O ritmo também permite que o romance cresça entre os eventos, em vez de depender das emergências.
