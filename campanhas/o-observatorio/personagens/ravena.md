@@ -47,19 +47,19 @@ Ravena aprendeu a conter, organizar e examinar emoções intensas. Reserva, sil�
 
 ### Poderes
 
---- Alma-Self / Projeção Espiritual [3]
-Pode manifestar e projetar sua essência espiritual para agir, proteger, atacar, transportar ou interagir com fenômenos sobrenaturais.
+--- Alma-Self / Projeção Espiritual [2]
+Pode manifestar e projetar sua essência espiritual para agir, proteger, atacar, transportar ou interagir com fenômenos sobrenaturais. Esta é uma das capacidades em que Ravena se destaca de forma mais clara dentro do próprio repertório.
 
---- Magia e Energia Sombria [3]
-Manipula energia mágica para proteção, contenção, ataque, telecinese e outras aplicações coerentes com seu repertório.
+--- Magia e Energia Sombria [1]
+Manipula energia mágica para proteção, contenção, ataque, telecinese e outras aplicações coerentes com seu repertório. Mesmo em [1], trata-se de uma capacidade sobrenatural poderosa e versátil.
 
---- Teleporte e Travessia Mística [2]
+--- Teleporte e Travessia Mística [1]
 Pode deslocar a si mesma e outras pessoas por meios mágicos quando as condições permitem.
 
---- Empatia e Influência Emocional [3]
+--- Empatia e Influência Emocional [1]
 Percebe estados emocionais e pode, em determinados contextos, aliviar, absorver ou influenciar emoções. Isso não autoriza invasão constante da interioridade alheia e deve respeitar escopo, intenção e situação.
 
---- Cura / Estabilização Empática [2]
+--- Cura / Estabilização Empática [1]
 Pode auxiliar na recuperação ou estabilização através de suas capacidades empáticas e místicas, dentro dos limites da situação.
 
 ### Limites e Vulnerabilidades
