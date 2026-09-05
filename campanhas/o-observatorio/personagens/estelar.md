@@ -44,17 +44,17 @@ Estelar tende a reconhecer e expressar sentimentos com menos vergonha ou dissimu
 
 ### Poderes
 
---- Absorção e Conversão de Energia [3]
+--- Absorção e Conversão de Energia [1]
 Sua fisiologia tamaraniana permite absorver e converter energia em força física e manifestações energéticas.
 
---- Voo [3]
+--- Voo [1]
 Pode voar em alta velocidade e operar com grande liberdade tridimensional em combate, deslocamento e resgate.
 
---- Rajadas Estelares [3]
-Projeta energia destrutiva concentrada, especialmente pelas mãos e olhos, com controle suficiente para variar aplicação conforme a situação.
+--- Rajadas Estelares [2]
+Projeta energia destrutiva concentrada, especialmente pelas mãos e olhos. Esta é uma de suas manifestações de poder mais fortes e características, colocando-a claramente acima de usuários ordinários de projeção energética sem transformá-la no ápice absoluto dessa categoria no cenário.
 
---- Força e Resistência Super-Humanas [3]
-Possui força, velocidade de reação e resistência muito acima de parâmetros humanos comuns.
+--- Força e Resistência Super-Humanas [1]
+Possui força, velocidade de reação e resistência muito acima de parâmetros humanos comuns. O patamar já é plenamente super-humano, sem pressupor que Estelar seja o ápice físico entre tamaranianos ou entre seres de força extraordinária.
 
 --- Assimilação Linguística
 Pode adquirir compreensão de idiomas por contato físico íntimo conforme sua natureza tamaraniana. O uso dessa capacidade continua sujeito à vontade dela e ao contexto da cena.
