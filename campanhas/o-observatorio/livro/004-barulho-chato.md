@@ -318,9 +318,7 @@ NARRADOR — Não havia pressa em seus movimentos.
 
 Tomás — Cale-se.
 
-NARRADOR — A palavra não foi dita em voz alta.
-
-NARRADOR — Não precisava.
+NARRADOR — Ele falou baixo, sem esforço e sem elevar a voz.
 
 NARRADOR — Ravena sentiu primeiro.
 
