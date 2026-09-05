@@ -1,97 +1,97 @@
 # Estado
 
-Momento: fim do vigésimo primeiro dia de convivência de Hela na fazenda de Crio, com a terceira semana encerrada e o primeiro beijo entre os dois estabelecido.
-Local principal: casa, varanda e arredores da fazenda de Crio, dentro de seu domínio anômalo nos confins da Terra.
+Momento: fim do vigésimo oitavo dia de convivência de Hela na fazenda de Crio, após a primeira chegada de Odin ao domínio, sua expulsão e uma conversa extensa entre Hela e Crio sobre identidade, poder, liberdade e passado.
+Local principal: casa e fazenda de Crio, dentro de seu reino/domínio anômalo nos confins da Terra. Odin foi expulso para fora do domínio e não conseguiu retornar imediatamente.
 
 ## Presenças e posições
 
-- **Hela** — permanece na fazenda por escolha cada vez menos explicável apenas pela recuperação; circula com ampla autonomia e já não depende de Crio para a rotina comum.
-- **Crio** — mantém a vida normal da fazenda e busca a companhia de Hela de modo deliberado, sem tratá-la como paciente.
-- **Odin** — em Asgard, procurando Hela em Midgard após obter a primeira pista concreta de sua presença ali; ainda sem localização precisa.
-- **Thor** — permanece em Asgard sem saber que Hela escapou nem que Odin a procura.
+- **Hela** — permanece na casa de Crio por escolha própria. Está ferida no torso após ser atingida por Odin, mas consciente, móvel e muito mais recuperada do que nas primeiras semanas.
+- **Crio** — permanece em sua fazenda/reino. Revelou a Hela que não é humano, mas o Titã Crio, filho de Gaia e Urano.
+- **Odin** — fora do domínio de Crio, em Midgard. Foi expulso do reino por Crio depois de Hela dizer que não o queria ali. Não conseguiu localizar ou atravessar novamente o domínio de imediato.
+- **Thor** — permanece fora desses acontecimentos e ainda não foi estabelecido como conhecedor da fuga de Hela ou do encontro na fazenda.
 
 ## Condições relevantes
 
-- Hela está muito mais recuperada fisicamente do que nas duas primeiras semanas, embora ainda não tenha retornado ao auge.
-- Consegue caminhar normalmente por grande parte da propriedade e realizar a rotina cotidiana sem ajuda.
-- A fraqueza ainda aparece após esforço excessivo ou uso prolongado de poder.
-- Hela estima ter recuperado aproximadamente 15% de sua capacidade normal ao fim do vigésimo primeiro dia.
-- Consegue manter duas lâminas verdes por vários minutos e sua força sobrenatural continua retornando gradualmente.
-- Hela continua testando esses poderes em segredo e não os mostrou deliberadamente a Crio.
-- Não existe fato estabelecido de que Crio tenha testemunhado essas manifestações secretas.
-- Crio está fisicamente íntegro e em seu próprio domínio.
-
-## Intenções persistentes em andamento
-
-- Hela ainda considera partir uma possibilidade real, mas já reconhece internamente que possui condições de começar a agir e, mesmo assim, não partiu.
-- Hela mantém em segredo de Crio a extensão do retorno de seus poderes.
-- Hela continua acreditando que Crio seja humano ou apenas um fazendeiro incomum e ainda considera provável que ele não compreenda quem Odin realmente é nem acredite plenamente em sua identidade divina.
-- Crio gosta deliberadamente da presença de Hela e já expressou isso de forma direta.
-- A atração entre Hela e Crio agora é recíproca e já produziu intimidade física voluntária.
-- Odin continua buscando Hela em Midgard, mas ainda não conhece a fazenda, a natureza do domínio nem a presença de Crio.
-
-## Processos e prazos
-
-- A recuperação de Hela continua gradual e parcial, sem resultado final predeterminado.
-- A estimativa de 15% pertence a Hela e não é uma medição externa objetiva.
-- O contato normal com o exterior continua raro; um barco passa aproximadamente a cada três meses.
-- Crio continua sem pretender impedir Hela de partir quando quiser.
-- A busca de Odin permanece em andamento, ainda sem pista suficiente para chegar ao domínio.
+- Hela estima estar em torno de 20% de sua capacidade normal antes do confronto com Odin; a estimativa continua sendo subjetiva e não uma medição externa objetiva.
+- Consegue manifestar lâminas com facilidade crescente, usar força e reflexos claramente sobre-humanos e percorrer distâncias maiores sozinha.
+- Crio já viu Hela manifestar uma lâmina verde diretamente e sabe que seus poderes estão retornando, mas não existe fato estabelecido de que conheça uma porcentagem exata.
+- Hela enfrentou Odin ainda muito abaixo de sua força plena. A luta foi claramente desvantajosa: sua técnica e conhecimento de Odin permitiram alguns ataques, mas a diferença de força foi brutal.
+- Odin atingiu Hela no torso com a haste de Gungnir e a lançou ao chão. Crio interveio imediatamente após o golpe.
+- O ferimento de Hela foi limpo e tratado por Crio. Ela permanece dolorida e deve evitar esforço excessivo imediato.
+- Crio não enfrentou Odin fisicamente. Dentro de seu reino, exerceu autoridade espacial e simplesmente o expulsou.
+- Não está estabelecido quem venceria uma luta direta entre Crio e Odin fora do domínio. Crio afirmou apenas: “Nunca lutei com ele.”
 
 ## Conhecimentos e interpretações relevantes
 
 ### Hela
-- Sabe que sua força e seus poderes continuam retornando e estima estar em torno de 15% de sua capacidade normal.
-- Sabe que já poderia começar a procurar uma saída ou agir por conta própria, mas percebe que não sente a urgência de antes.
-- Percebe que Crio já não a trata como paciente e que seus cuidados atuais são gestos escolhidos, não necessidade médica.
-- Sabe que Crio procura sua companhia por vontade própria e disse diretamente que queria companhia e que gosta dela ali.
-- Percebe que o interesse físico e pessoal de Crio é deliberado.
-- Reconhece em si própria interesse por Crio: observa seu corpo, escolhe roupa com atenção ao olhar dele, gosta quando ele a percebe e guarda uma flor simples que ele trouxe porque pensou nela.
-- Sabe que foi beijada por Crio e que correspondeu; depois iniciou voluntariamente um segundo beijo.
-- Entendeu que Crio evitou avançar enquanto ela estava ferida porque ele próprio resumiu isso em: “Estava ferida.”
-- Continua acreditando que Crio seja humano ou, no máximo, um homem muito incomum.
-- Ainda não sabe que ele é Titã, não conhece sua escala real de poder e não conhece a verdadeira natureza do domínio.
+
+- Sabe agora que Crio acreditou nela desde que revelou sua identidade e que sempre soube quem Odin era.
+- Sabe que Crio já viu Odin na Terra há muito tempo, mas que os dois nunca lutaram.
+- Sabe que Crio não é humano.
+- Sabe que ele é o Titã Crio, filho de Gaia e Urano.
+- Sabe que a fazenda não é apenas uma ilha ou propriedade comum: Crio a chama de **seu reino**.
+- Sabe que o reino responde à autoridade de Crio e que, dentro dele, Crio pode expulsar até Odin sem derrotá-lo fisicamente.
+- Sabe que Crio afirma poder expulsá-la também, inclusive quando ela estiver plenamente recuperada, porque ali é o reino dele.
+- Entendeu que Crio sempre teve esse poder sobre o espaço e, mesmo assim, nunca o usou para prendê-la, controlá-la ou impedir sua saída.
+- Quando Hela recordou que ele havia dito que ela podia partir, Crio reafirmou no presente: **“E pode.”**
+- Hela entendeu que, para Crio, capacidade não equivale a direito de decidir por outra pessoa.
+- Sabe que Crio perguntou se ela queria Odin ali porque considerava que a decisão era dela, ainda que pudesse expulsá-lo por conta própria.
+- Sabe que Crio já teve reinos, guerras e exércitos, mas abandonou esse modo de vida porque “cansou” e, mais precisamente, cansou “de precisar conquistar”.
+- Sabe que Crio escolheu genuinamente a vida simples de fazendeiro porque gosta dela; não é disfarce nem punição estabelecida.
+- Sabe que Crio não sente necessidade de títulos, reverência ou medo e aceita que ela o chame de rei apenas se quiser.
+- Hela contou a Crio com mais clareza sua história com Odin: que conquistaram juntos, que ela foi criada para a guerra, que Odin mudou e a tornou inconveniente, pediu que parasse, ela não parou e então foi aprisionada por eras.
+- Hela sabe que Crio tentou curá-la por completo quando a encontrou, falhou e se incomodou com isso.
+- Hela sabe que Crio se interessou por ela antes de ela voltar a andar direito, mas não avançou porque ela ainda estava ferida.
 
 ### Crio
-- Sabe que Hela é extraordinária e filha de Odin.
-- Sabe quem Odin é.
-- Sabe que Hela está fisicamente muito mais recuperada e já não precisa dele como cuidador constante.
-- Não existe fato estabelecido de que saiba a porcentagem aproximada de poder recuperado por Hela ou que tenha visto suas lâminas secretas durante essa semana.
-- Busca a companhia de Hela de modo consciente e já admitiu que gosta dela ali.
-- Demonstra atração e interesse sem esconder, mas sem pressionar Hela ou condicionar sua liberdade.
-- Esperou que Hela deixasse de estar gravemente ferida antes de beijá-la.
+
+- Sabe que Hela é Hela, filha de Odin, e nunca a considerou uma mulher delirante ou mentirosa por dizer isso.
+- Viu diretamente uma manifestação de lâmina de Hela e sabe que seus poderes retornam.
+- Sabe agora mais sobre a relação de Hela com Odin e sobre o fato de ela ter sido usada nas conquistas e depois aprisionada por eras.
+- Sabe que Hela ainda não decidiu o que fará quando estiver inteira: ela pode voltar a Asgard, enfrentar Odin ou buscar o trono.
+- Não tenta decidir essa escolha por ela.
+- Disse que espera que Hela recupere o restante de seu poder porque “é seu”.
+- Disse que sentiria falta se Hela partisse, mas reafirmou que ela ainda pode ir.
+- Continua interessado nela afetiva e fisicamente, sem transformar interesse em posse.
 
 ### Odin
-- Sabe que Hela rompeu o selo prematuramente.
-- Sabe que ela está em Midgard e que está se recuperando.
-- Ainda não sabe onde exatamente ela está.
-- Ainda não sabe que Crio existe, que Hela está numa fazenda ou que há um domínio anômalo interferindo em sua percepção.
 
-### Thor
-- Sabe apenas que Odin esteve perturbado.
-- Não sabe que Hela escapou nem que Odin agora a procura em Midgard.
+- Encontrou Hela no reino de Crio e confirmou pessoalmente que ela está viva e recuperando poder.
+- Viu Hela resistir a ele ainda muito enfraquecida.
+- Viu Crio e sabe que é um homem de Midgard aparentemente ligado àquele território, mas ainda não sabe que ele é o Titã Crio.
+- Sabe que Crio o reconheceu, não demonstrou medo ou reverência e se recusou a entregar Hela.
+- Foi expulso do domínio sem combate físico quando recusou a ordem para sair.
+- Do lado de fora, não conseguiu localizar de novo a fazenda ou atravessar imediatamente o domínio.
+- Agora considera o fazendeiro e a natureza daquele lugar um mistério relevante, além da própria Hela.
 
 ## Relações ou mudanças de Estado relevantes
 
-- A relação Hela–Crio deixou de ser cuidador/paciente e passou claramente para companhia escolhida e atração mútua.
-- Crio convida Hela para acompanhá-lo em tarefas não por necessidade, mas porque quer companhia.
-- Hela passa a procurá-lo e a permanecer perto dele sem justificativa prática.
-- Os dois admitem observar um ao outro fisicamente sem grande constrangimento.
-- Crio demonstra interesse por pequenos gestos: procura Hela quando ela não está em casa, toca sua cintura quando não é estritamente necessário, deixa claro que gosta quando ela o olha e traz uma pequena flor porque pensou nela.
-- Hela reage positivamente: olha, provoca, escolhe aparência pensando nele, aceita os toques, leva a flor consigo e passa a valorizar explicitamente a atenção dele.
-- Na noite do vigésimo primeiro dia, Hela escolhe sentar-se junto de Crio na cadeira de balanço, permitindo proximidade física voluntária.
-- Crio diz diretamente: “Gosto de você aqui.”
-- Hela menciona que o barco ainda virá; Crio não tenta fazê-la prometer ficar.
-- Quando Hela pergunta por que ele parou, Crio responde “Não parei” e a beija.
-- Hela corresponde ao primeiro beijo e depois inicia voluntariamente um segundo beijo.
-- Crio explica sua espera apenas com “Estava ferida”, deixando claro que o interesse existia, mas ele não queria avançar enquanto ela estava vulnerável.
-- Hela responde “Não estou mais”; Crio: “Percebi.”
-- Ainda não existe declaração de amor, compromisso formal ou decisão de permanência definitiva.
+- O beijo entre Hela e Crio deixou de ser um acontecimento isolado e passou a fazer parte da rotina íntima dos dois.
+- Hela procura Crio sem desculpa prática, espera beijos e atenção e já o beija por iniciativa própria com frequência.
+- Crio toca Hela por afeto e desejo, não apenas por cuidado médico, especialmente pela cintura e em proximidade cotidiana.
+- Hela revelou acidentalmente uma lâmina a Crio no vigésimo sexto dia. A reação calma dele destruiu sua interpretação de que ele só não a temia porque não acreditava nela.
+- No vigésimo sétimo dia, Hela compreendeu que Crio sabia quem Odin era e ainda assim sempre a tratou primeiro como Hela, não como título, arma ou filha do Pai de Todos.
+- No vigésimo oitavo dia, Odin chegou à fazenda. Hela exigiu inicialmente que Crio não interferisse e enfrentou o pai sozinha.
+- Assim que Odin a atingiu e a lançou ao chão, Crio interveio. Antes de agir, perguntou a Hela: “Quer ele aqui?” Hela respondeu: “Não.”
+- Crio então ordenou que Odin saísse. Quando Odin recusou, Crio o expulsou do reino por autoridade do próprio domínio.
+- Hela percebeu que Crio sempre teve poder suficiente para impor sua vontade dentro do reino, inclusive sobre ela, mas sempre escolheu não fazê-lo.
+- Essa percepção reforçou fortemente a confiança e o vínculo de Hela com Crio: ele tem poder real e ainda assim não o converte em posse.
+- Hela não prometeu ficar. Disse explicitamente que ainda não decidiu o que fará quando estiver inteira.
+- Ao fim da conversa, disse: **“Hoje eu estou aqui.”** Crio aceitou isso sem exigir promessa.
+- Os dois se beijaram novamente depois das revelações.
+- Não existe ainda declaração de amor, compromisso formal ou decisão definitiva sobre Asgard.
+
+## Processos e prazos
+
+- A recuperação de Hela continua, mas o golpe de Odin cria uma lesão recente que precisa de algum tempo para cicatrizar.
+- A recuperação total continua sem prazo ou resultado final fixado.
+- O barco periódico continua existindo como meio externo possível de saída, mas já não é a única questão prática relevante agora que Hela recupera poderes e conhece melhor a natureza do lugar.
+- Odin pode continuar procurando Hela e investigando o homem/reino que o expulsou, mas nenhuma próxima ação específica foi estabelecida ainda.
 
 ## Último fato estabelecido
 
-Na noite do vigésimo primeiro dia, Hela senta-se junto de Crio na cadeira de balanço. Crio diz que gosta dela ali. Depois de uma aproximação mútua, ele a beija; Hela corresponde e, após Crio explicar que esperou porque ela estava ferida, Hela inicia um segundo beijo. Ela permanece junto dele enquanto a fogueira baixa, reconhecendo internamente que já possui condições de começar a partir, mas não partiu — e que Crio é uma das razões.
+Depois de Odin ser expulso, Hela e Crio conversam longamente na casa. Crio revela ser o Titã Crio, filho de Gaia e Urano, e explica que aquela terra é seu reino. Hela entende que ele sempre poderia tê-la expulsado ou impedido dentro daquele espaço, mas nunca confundiu poder com direito sobre ela. Crio reafirma que ela ainda pode partir. Hela conta mais de sua história com Odin, admite que ainda não decidiu o que fará quando estiver inteira e encerra dizendo que, hoje, está ali. Eles se beijam. Crio lembra que ela ainda está ferida e que ainda precisa jantar; Hela termina rindo, tomando cuidado com o corte.
 
 ## Primeiro ponto aberto
 
-A continuação começa após o primeiro beijo. Permanecem abertas a forma como Hela e Crio lidam com essa nova intimidade, se e quando Hela revelará seus poderes recuperados, quando ela descobrirá a verdadeira natureza de Crio e quando a busca de Odin finalmente produzirá caminho suficiente para chegar à fazenda.
+A continuação começa após a revelação completa de Crio e o primeiro confronto direto com Odin. Hela precisa assimilar que o homem com quem se envolveu é um Titã antigo e soberano de um reino próprio, enquanto continua livre para partir. Permanecem abertas sua recuperação, sua decisão sobre Asgard e Odin, a reação de Odin à identidade ainda desconhecida de Crio e como a relação entre Hela e Crio muda agora que praticamente não há mais mistério entre eles sobre quem são.
