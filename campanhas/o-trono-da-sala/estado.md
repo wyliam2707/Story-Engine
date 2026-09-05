@@ -1,7 +1,7 @@
 # Estado
 
-Momento: fim do sétimo dia de convivência consciente de Hela na fazenda de Crio, com o capítulo da primeira semana encerrado.
-Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu domínio anômalo nos confins da Terra.
+Momento: fim do sétimo dia de convivência consciente de Hela na fazenda de Crio, após um POV íntimo de Hela e com o quarto capítulo encerrado.
+Local principal: casa e varanda da fazenda de Crio, dentro de seu domínio anômalo nos confins da Terra.
 
 ## Presenças e posições
 
@@ -24,7 +24,8 @@ Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu do
 
 - Crio continua cuidando de Hela de modo rústico, seco, direto e gentil, preservando sua autonomia sempre que possível.
 - Hela continua tentando recuperar independência e compreender Crio, sua vida e o lugar onde está.
-- Hela afirma que pretende partir quando surgir uma oportunidade real de deixar a ilha.
+- Hela ainda pretende partir quando surgir uma oportunidade real de deixar a ilha.
+- Hela espera recuperar seus poderes e acredita que, quando isso acontecer, Crio finalmente compreenderá que sua história sobre Hela, Odin e Asgard era verdadeira.
 - Odin sabe que Hela rompeu o selo antes de sua morte e está em algum lugar fora de seu alcance imediato; ainda não estabeleceu uma ação concreta de busca.
 
 ## Processos e prazos
@@ -33,14 +34,18 @@ Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu do
 - O contato normal com o exterior é raro; um barco passa pela região aproximadamente uma vez a cada três meses.
 - Crio deixou claro a Hela que, quando houver um barco e ela quiser partir, ele não a impedirá.
 
-## Conhecimentos recentemente adquiridos
+## Conhecimentos e interpretações relevantes
 
 - Hela sabe que Crio vive realmente como fazendeiro e mantém pessoalmente a rotina da propriedade.
 - Hela já conhece e participa das rotinas de café, refeições, cuidados, períodos na varanda e noites diante da fogueira.
 - Hela sabe que existe uma rota ocasional de barco e que a próxima passagem pode demorar até cerca de três meses.
 - Hela sabe explicitamente que não é prisioneira de Crio e que ele não pretende impedir sua partida.
-- Hela continua acreditando que Crio seja apenas um homem ou fazendeiro incomum; não sabe que ele é Titã nem conhece a verdadeira natureza de seu domínio.
-- Hela começou a perceber Crio como alguém incomumente sólido, pouco reativo e difícil de deslocar emocionalmente, sem saber a origem dessa impressão.
+- Hela continua acreditando que Crio seja humano ou, no máximo, um fazendeiro incomum; não sabe que ele é Titã nem conhece a verdadeira natureza de seu domínio.
+- Hela considera plausível que Crio não acredite de fato que ela seja Hela e que talvez conheça Odin apenas como nome de mito ou nem compreenda quem ele realmente é.
+- Hela reconhece que Crio nunca disse explicitamente que acreditava em sua identidade ou história.
+- Essa interpretação explica, para Hela, por que Crio não demonstra reverência, medo ou curiosidade diante de Odin, Asgard ou de sua alegada natureza divina.
+- Hela começou a perceber Crio como alguém incomumente sólido, pouco reativo e difícil de deslocar emocionalmente, comparando sua presença à permanência de uma pedra.
+- Hela observa que Crio é rústico, forte, calejado e sem qualquer preocupação com corte, aparência de status ou demonstração de importância.
 - Crio sabe que Hela é filha de Odin e que sua natureza é extraordinária.
 - Odin sabe que o selo de Hela foi rompido violentamente antes do momento em que deveria ceder.
 - Odin conseguiu perceber Hela por um instante como distante, ferida e instável, mas o rastro desapareceu ao alcançar o domínio de Crio; ele não sabe onde ela está.
@@ -53,15 +58,19 @@ Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu do
 - Crio continua tratando sua vulnerabilidade sem pena, reverência, oportunismo ou constrangimento desnecessário.
 - Pequenas rotinas já se ajustaram naturalmente à presença de Hela: duas canecas no café, uma cadeira preparada onde ela costuma sentar e espaço para ela acompanhar Crio enquanto ele trabalha.
 - Crio começou a procurar a presença de Hela na rotina e percebeu que gosta de tê-la por perto.
-- Ao fim do sétimo dia, Crio reconheceu de forma simples e direta que considera Hela bonita. Existe atração inicial da parte dele, ainda sem declaração romântica, compromisso ou tentativa de avançar sobre a vulnerabilidade dela.
-- Hela percebeu o olhar e o elogio de Crio, não o rejeitou e deixou a constatação permanecer entre os dois sem exigir que ele parasse.
-- Ao retornarem para dentro na última noite da primeira semana, Hela aceitou espontaneamente a mão de Crio para caminhar de volta, transformando um gesto antes necessário em algo já natural entre os dois.
-- Hela ainda afirma que partirá quando o barco vier.
+- Crio reconheceu de forma simples e direta que considera Hela bonita. Existe atração inicial da parte dele, ainda sem declaração romântica, compromisso ou tentativa de avançar sobre a vulnerabilidade dela.
+- Hela percebeu que a atração de Crio não veio acompanhada de pressão, expectativa ou tentativa de tomar espaço sobre ela, e isso a desconcerta porque difere dos olhares que conheceu no passado.
+- Hela começou a observar fisicamente Crio com atenção pessoal: pensa em suas mãos, força, rosto, rusticidade e presença; não nomeia isso como atração, mas existe curiosidade e interesse inicial do lado dela.
+- Hela percebeu que tem olhado menos para o mar nos últimos dias, embora racionalize isso dizendo que já sabe que o barco pode demorar e que não há utilidade em procurar.
+- Na última noite, mesmo decidindo inicialmente não ir até Crio, Hela acabou levantando e indo à varanda por vontade própria para sentar-se com ele.
+- Crio já havia deixado a segunda cadeira preparada e disse que esperava que ela viesse.
+- Crio percebeu Hela olhando para ele; ela negou. O pequeno constrangimento permaneceu sem ser transformado em declaração ou avanço romântico.
+- Hela ainda afirma para si mesma que partirá quando o barco vier.
 
 ## Último fato estabelecido
 
-Na última noite do sétimo dia, depois de Crio admitir com simplicidade que acha Hela bonita, os dois permanecem diante da fogueira sem transformar a atração em cortejo. Quando entram em casa, Crio oferece a mão e Hela a aceita sem protesto. O capítulo da primeira semana termina com essa proximidade pequena e voluntária: ela ainda pretende partir, ele já sente atração, e nenhum dos dois força significado maior do que o momento possui.
+Na noite do sétimo dia, depois de refletir sozinha sobre Crio, Hela decide que ele provavelmente é apenas um humano que não acredita realmente em sua identidade nem compreende quem Odin é. Apesar de dizer a si mesma que não precisava vê-lo novamente naquela noite, ela vai até a varanda e encontra a segunda cadeira já preparada. Sentada ao lado dele, olha para Crio; ele percebe e diz que ela está olhando. Hela nega. Crio responde apenas: “Certo.” O capítulo termina com Hela irritada e parcialmente divertida por ter sido percebida.
 
 ## Primeiro ponto aberto
 
-A continuação pode partir do início da segunda semana: como Hela reage ao saber que Crio a vê como mulher e não apenas como alguém ferida, como Crio lida com o próprio interesse sem pressioná-la, e como a recuperação e a rotina continuam a aproximá-los ou não.
+A continuação pode abrir no início da segunda semana, com Hela ainda sustentando a interpretação de que Crio é humano e provavelmente não acredita nela, enquanto a curiosidade e a atração entre os dois começam a existir dos dois lados sem ainda serem assumidas como romance. A recuperação física de Hela, o retorno eventual de seus poderes e qualquer revelação sobre a verdadeira natureza de Crio permanecem abertos.
