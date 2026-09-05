@@ -10,6 +10,7 @@ Registro canônico da Ficção fechada da campanha.
 4. [Capítulo 4 — O Fazendeiro que Não Acreditava](004-o-fazendeiro-que-nao-acreditava.md)
 5. [Capítulo 5 — Dez por cento](005-dez-por-cento.md)
 6. [Capítulo 6 — Gosto de Você Aqui](006-gosto-de-voce-aqui.md)
+7. [Capítulo 7 — Esse é Meu Reino](007-esse-e-meu-reino.md)
 
 ## Regra de uso
 
