@@ -15,7 +15,19 @@ O romance cresce de forma orgânica pela dependência, convivência, curiosidade
 
 A prosa deve ser cinematográfica e próxima, com diálogos fortes, atenção a expressão, corpo, ambiente e silêncio. Hela não precisa ser domesticada para o romance funcionar, e Crio não precisa desejar o mundo dela para ser digno dela.
 
-As falas das personagens devem ser identificadas no corpo da cena pelo nome, no formato `Crio — fala` e `Hela — fala`, preservando clareza de autoria sem quebrar a fluidez narrativa.
+As falas das personagens devem ser identificadas no corpo da cena pelo nome, preservando clareza de autoria sem quebrar a fluidez narrativa. Pensamentos explicitamente apresentados também devem identificar a personagem.
+
+Padrão:
+
+```text
+Crio — fala.
+Hela — fala.
+
+Crio, pensa — pensamento.
+Hela, pensa — pensamento.
+```
+
+O Livro canônico segue obrigatoriamente `regras-basicas/modulos/LIVRO.md`.
 
 ## Personagens centrais
 
