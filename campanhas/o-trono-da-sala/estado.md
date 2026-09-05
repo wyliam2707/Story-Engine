@@ -1,6 +1,6 @@
 # Estado
 
-Momento: fim do sétimo dia de convivência consciente de Hela na fazenda de Crio.
+Momento: fim do sétimo dia de convivência consciente de Hela na fazenda de Crio, com o capítulo da primeira semana encerrado.
 Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu domínio anômalo nos confins da Terra.
 
 ## Presenças e posições
@@ -54,13 +54,14 @@ Local principal: casa e arredores imediatos da fazenda de Crio, dentro de seu do
 - Pequenas rotinas já se ajustaram naturalmente à presença de Hela: duas canecas no café, uma cadeira preparada onde ela costuma sentar e espaço para ela acompanhar Crio enquanto ele trabalha.
 - Crio começou a procurar a presença de Hela na rotina e percebeu que gosta de tê-la por perto.
 - Ao fim do sétimo dia, Crio reconheceu de forma simples e direta que considera Hela bonita. Existe atração inicial da parte dele, ainda sem declaração romântica, compromisso ou tentativa de avançar sobre a vulnerabilidade dela.
-- Hela percebeu o olhar e o elogio de Crio, mas sua resposta emocional futura permanece aberta.
+- Hela percebeu o olhar e o elogio de Crio, não o rejeitou e deixou a constatação permanecer entre os dois sem exigir que ele parasse.
+- Ao retornarem para dentro na última noite da primeira semana, Hela aceitou espontaneamente a mão de Crio para caminhar de volta, transformando um gesto antes necessário em algo já natural entre os dois.
 - Hela ainda afirma que partirá quando o barco vier.
 
 ## Último fato estabelecido
 
-Ao fim do sétimo dia, depois de uma semana em que a convivência deixou de ser apenas cuidado e passou a incluir companhia, Crio olha para Hela por tempo suficiente para que ela perceba. Quando questionado, responde apenas que ela é bonita. Não transforma isso em cortejo nem explicação; volta ao que fazia. Hela fica com a constatação de que o olhar dele sobre ela começou a mudar.
+Na última noite do sétimo dia, depois de Crio admitir com simplicidade que acha Hela bonita, os dois permanecem diante da fogueira sem transformar a atração em cortejo. Quando entram em casa, Crio oferece a mão e Hela a aceita sem protesto. O capítulo da primeira semana termina com essa proximidade pequena e voluntária: ela ainda pretende partir, ele já sente atração, e nenhum dos dois força significado maior do que o momento possui.
 
 ## Primeiro ponto aberto
 
-A continuação pode partir do efeito dessa primeira atração explicitamente percebida: como Hela reage ao saber que Crio a vê como mulher e não apenas como alguém ferida, como Crio lida com o próprio interesse sem pressioná-la, e como a recuperação e a rotina continuam a aproximá-los ou não.
+A continuação pode partir do início da segunda semana: como Hela reage ao saber que Crio a vê como mulher e não apenas como alguém ferida, como Crio lida com o próprio interesse sem pressioná-la, e como a recuperação e a rotina continuam a aproximá-los ou não.
