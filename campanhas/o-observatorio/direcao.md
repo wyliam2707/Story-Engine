@@ -42,6 +42,16 @@ Mistério sério no início, com múltiplos POVs independentes, preservação de
 - Ravena e Estelar começam investigando juntas; Zatanna segue uma linha independente até as investigações convergirem.
 - Tomás não revela espontaneamente sua verdadeira natureza a desconhecidos. Ele não mente, mas pode responder apenas o que foi perguntado e preservar informação por omissão ou precisão literal.
 
+## Recontextualização futura do Observatório
+
+- Depois que Ravena, Estelar e Zatanna descobrirem legitimamente que o Observatório e a ilha são extensões espaciais de Tomás, reservar espaço para pelo menos uma cena ou capítulo em que elas revisitam mentalmente a convivência anterior sob essa nova informação.
+- O humor deve vir da descoberta progressiva de que frases antes banais eram tecnicamente literais: elas moravam nele, dormiam nele desde a primeira noite, tomavam banho nele, usavam banheiro nele, comiam alimentos cultivados ou preparados dentro de sua extensão e conviviam com móveis e cômodos que podiam se reorganizar porque faziam parte dele.
+- A mesa que "se limpa sozinha" deve ser lembrada como um dos melhores gatilhos dessa compreensão: antes parecia automação da casa; depois fica claro que a própria extensão de Tomás estava se reorganizando.
+- Pode surgir a piada de que elas inicialmente pensavam ter "dormido com Tomás" apenas no sentido de compartilhar a casa, até alguém corrigir: "não, tecnicamente dormimos nele".
+- As reações devem permanecer próprias das Cadeiras. Zatanna pode explorar o absurdo verbal, Ravena pode sofrer em silêncio cada implicação nova, e Estelar pode tratar partes da descoberta com franqueza surpreendente, mas nenhuma reação específica fica pré-fechada.
+- Não transformar a revelação em anatomia literal, fetiche ou piada contínua. O espaço é Tomás em sentido metafísico/topológico. O humor funciona porque a linguagem cotidiana passa a admitir leituras absurdamente corretas.
+- A revelação deve primeiro conservar peso cosmológico e emocional. A comédia entra depois, como consequência natural das personagens perceberem o que aquilo significa para tudo que já viveram ali.
+
 ## Espaço Aberto
 
 O desenvolvimento da história permanece aberto fora do que foi explicitamente fechado acima. Em especial, sentimentos, decisões românticas, ritmos de aproximação e formas de relacionamento pertencem às personagens e às Cadeiras durante a Ficção.
