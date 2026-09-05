@@ -5,57 +5,65 @@ STATUS
 
 ## Momento
 
-O Capítulo 1 foi concluído. Várias rupturas dimensionais já ocorreram na Terra, e Ravena, Estelar e Zatanna reorganizaram suas investigações para tentar detectar a próxima manifestação desde o início, em vez de chegar somente depois da assinatura avassaladora associada ao fechamento.
+O Capítulo 2 foi fechado. Ravena, Estelar e Zatanna responderam independentemente à mesma nova ruptura, encontraram-se no porto, cooperaram diante do fenômeno e presenciaram Tomás fechando a passagem.
 
-A próxima ruptura relevante ainda não aconteceu no ponto atual da Ficção.
+Tomás voltou pelos Caminhos. As três permaneceram no local e combinaram suas leituras até obter coordenadas em mar aberto onde mapas, satélites, sensores e rotas comuns não mostram destino útil.
 
-## Núcleo Ravena / Estelar
+## Núcleo Ravena / Estelar / Zatanna
 
-- Ravena e Estelar continuam investigando juntas.
-- Os registros confirmam que, nos casos aproveitáveis, a ruptura já existe antes da aparição do homem desconhecido.
-- A assinatura energética extremamente alta surge associada ao que ele faz durante o fechamento, não ao primeiro instante registrado da abertura.
-- Isso não inocenta o desconhecido nem prova que ele não tenha relação com a causa; apenas impede tratá-lo automaticamente como o agente que abre fisicamente cada passagem.
-- Estelar observou o comportamento registrado do homem: ele prioriza a passagem, não permanece depois do fechamento e não foi visto atacando civis nos registros examinados.
-- Ravena decidiu separar analiticamente a assinatura da abertura da assinatura do fechamento.
-- Estelar decidiu manter leituras energéticas e alertas físicos preparados para permitir resposta rápida à próxima ocorrência.
-- As duas reorganizaram sua rede de detecção para priorizar sinais do nascimento da ruptura.
-- Elas ainda não conhecem Zatanna como parte desta investigação.
+- Ravena e Estelar chegaram ao local pela rede de detecção preparada no Capítulo 1.
+- Zatanna chegou separadamente por seu alerta mágico.
+- As três confirmaram que investigavam o mesmo tipo de ruptura por linhas diferentes.
+- Ravena e Estelar possuem vídeo, leituras energéticas e cronologia das ocorrências anteriores.
+- Zatanna possui resíduos e leitura mágica própria das rupturas e dos fechamentos.
+- Elas cooperaram no local, mas nenhuma intimidade nova deve ser presumida além do que a cena realmente estabeleceu.
+- Nenhuma apresentação formal entre Zatanna, Ravena e Estelar foi explicitamente registrada no capítulo; eventual reconhecimento por fama ou experiência externa permanece não estabelecido até ser necessário.
 
-## Núcleo Zatanna
+## Encontro breve com Tomás
 
-- Zatanna continua investigando separadamente.
-- Sua análise mágica indica que os resíduos associados à abertura e ao fechamento não parecem duas etapas do mesmo gesto mágico.
-- A abertura deixa uma estrutura irregular e tensionada; o fechamento apresenta uma assinatura muito maior, precisa e distinta.
-- Isso não inocenta o desconhecido; Zatanna apenas concluiu que rastrear somente a assinatura dele provavelmente a faz chegar tarde demais.
-- Ela criou um alerta mágico vinculado às características comuns das rupturas examinadas, buscando perceber a próxima manifestação desde o começo.
-- Ela ainda não sabe que Ravena e Estelar estão fazendo uma investigação paralela do mesmo fenômeno.
+- Tomás surgiu do céu com pressa para fechar a ruptura.
+- Em uma olhada rápida, percebeu três pessoas poderosas próximas demais da passagem: uma alienígena e duas ligadas à magia.
+- Não identificou nomes, histórias, personalidades ou intenções profundas.
+- Para impedir que alguém fosse pego no fechamento, alterou os caminhos de aproximação: quem tentava avançar em direção à ruptura terminava novamente no ponto de onde partira.
+- A contenção não impedia recuo, movimento lateral, fala, magia ou voo; apenas aproximação da passagem.
+- Estelar tentou se aproximar duas vezes, inclusive voando.
+- Zatanna testou o limite lateralmente e depois na direção da ruptura.
+- Ravena observou e concluiu que não se tratava de uma barreira comum.
+- Tomás fechou a ruptura com uma manifestação de energia extremamente alta e precisa.
+- Assim que a passagem fechou, a contenção cessou.
+- Estelar tentou alcançá-lo e chamou para que esperasse, mas Tomás saiu pelos Caminhos sem permanecer para conversa.
+
+## Rastro e coordenadas
+
+- O desaparecimento de Tomás não apagou imediatamente toda a continuidade do caminho usado por ele.
+- Ravena ainda possuía leitura energética residual.
+- Zatanna percebeu uma continuidade mágica/dimensional da passagem usada por Tomás.
+- Estelar cruzou essas informações com mapas, registros e sistemas de localização.
+- As três, trabalhando juntas, obtiveram uma direção e coordenadas em mar aberto.
+- No ponto indicado, mapas comuns, imagens de satélite, sensores meteorológicos e rotas marítimas não mostram ilha ou outro destino útil.
+- Para elas, o dado estabelecido é apenas que a direção associada ao caminho de Tomás converge naquele ponto do oceano.
 
 ## Tomás
 
-- Está no Observatório.
-- Sabe que rupturas anômalas vêm surgindo fora do funcionamento normal dos caminhos.
-- Consegue fechar manifestações individuais, mas ainda não conhece a causa estrutural.
-- Não conhece Ravena, Estelar ou Zatanna.
+- Voltou ao Observatório depois de fechar a ruptura.
+- Sabe apenas que encontrou três desconhecidas poderosas perto da passagem, uma alienígena e duas ligadas à magia.
+- Sabe que pelo menos duas tentaram testar/aproximar-se durante sua contenção.
+- Não conhece seus nomes.
+- Não sabe que elas conseguiram rastrear a continuidade de seu caminho até coordenadas no oceano.
+- Continua sabendo que rupturas anômalas surgem fora do funcionamento normal dos Caminhos e que fechar manifestações individuais não resolveu a causa estrutural.
 
 ## Conhecimento separado
 
-- Ravena e Estelar compartilham apenas o que construíram juntas nesta investigação.
-- Zatanna conhece somente sua própria linha de evidências e conclusões.
-- Nenhum núcleo conhece as provas privadas do outro.
-- Tomás não conhece as investigadoras.
-- O executor IA conhecer todas as linhas não transfere informação entre personagens.
-
-## Processo em andamento
-
-- Ravena e Estelar possuem uma rede de detecção preparada para a assinatura inicial das rupturas.
-- Zatanna possui um alerta mágico independente preparado para o mesmo tipo de manifestação.
-- A próxima ruptura relevante fará as linhas convergirem no mesmo local, conforme o Arco Preparado.
-- Depois do encontro, as provas poderão ser compartilhadas e combinadas.
+- Ravena, Estelar e Zatanna agora compartilham apenas as informações efetivamente trocadas e construídas juntas no porto.
+- O pensamento de Tomás sobre elas permanece privado.
+- Tomás não sabe das coordenadas obtidas pelas três.
+- As três não sabem quem Tomás é, o que é o Observatório nem por que o ponto no oceano não aparece nos sistemas comuns.
+- O executor IA conhecer essas informações não as transfere entre personagens.
 
 ## Último fato estabelecido
 
-A próxima porta ainda não abriu. Ravena e Estelar aguardam sua rede de detecção; Zatanna aguarda seu alerta mágico. Nenhum dos dois núcleos sabe que o outro está preparado para responder ao mesmo fenômeno.
+Ravena, Estelar e Zatanna estão com coordenadas em mar aberto associadas ao rastro deixado pelo caminho de Tomás. Os sistemas comuns mostram apenas oceano naquele ponto. Tomás já retornou ao Observatório e não sabe que foi rastreado.
 
 ## Primeiro ponto aberto
 
-A próxima manifestação da ruptura é o próximo acontecimento preparado do arco. Quando ela surgir, Ravena, Estelar e Zatanna decidirão pelas próprias Cadeiras como responder, chegar ao local e lidar com a presença umas das outras.
+As Cadeiras de Ravena, Estelar e Zatanna decidem o que fazer com as coordenadas e como prosseguir até o ponto em mar aberto. A forma de viagem, as cautelas que desejam tomar e suas leituras sobre o encontro breve com Tomás continuam abertas às respectivas Cadeiras.
