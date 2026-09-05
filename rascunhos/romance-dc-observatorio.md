@@ -177,3 +177,13 @@ Guardião, pensa — Está ficando mais frequente.
 - Possibilidades naturais incluem Estelar receber finalmente um passeio/visita segura a Tamaran e o Guardião decidir sair por algumas horas para levar Zatanna para jantar.
 - Essas cenas devem surgir de decisões das Cadeiras e do Diretor, não como resultados obrigatórios já fechados.
 - A força dessa fase está justamente em provar que a ligação entre eles sobrevive depois que a crise que os reuniu terminou.
+
+## Romance emergente — regra para a primeira temporada
+
+- A primeira temporada pode plantar sementes românticas sem determinar antecipadamente quais delas vão florescer.
+- O Diretor pode fazer o Guardião flertar, oferecer atenção, criar momentos íntimos, demonstrar preferência, convidar, elogiar ou se aproximar de Ravena, Estelar e Zatanna.
+- Essas ações são propostas do Personagem do Diretor, não resultados fechados sobre o que as três sentem.
+- Cada Cadeira decide autonomamente como recebe cada gesto: interesse, curiosidade, desconforto, diversão, indiferença, reciprocidade ou qualquer outra reação coerente.
+- Não impedir romance caso uma Cadeira caminhe espontaneamente nessa direção; também não forçar reciprocidade para cumprir a premissa de harém.
+- O teste é justamente observar o que acontece quando o Diretor planta possibilidades e as Cadeiras respondem como personagens independentes.
+- Pensamentos podem confirmar ao leitor quando uma reação interna relevante não é visível pela fala ou ação, sem transformar isso em narração constante de sentimento.
