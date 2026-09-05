@@ -224,6 +224,35 @@ Não é necessário criar dezenas de níveis para representar toda diferença de
 
 Antes de aumentar uma graduação apenas para representar um salto de natureza ou escala, verificar se o correto é registrar uma capacidade conceitualmente diferente.
 
+### Procedimento de leitura de um Poder
+
+Ao avaliar, comparar ou aplicar um Poder, seguir esta ordem:
+
+```text
+1. Ler o nome da capacidade.
+2. Ler a descrição e determinar seu escopo real.
+3. Verificar se a outra capacidade pertence realmente ao mesmo domínio ou a um domínio diretamente comparável.
+4. Somente então usar a graduação para comparar intensidade dentro desse escopo.
+```
+
+```text
+Graduação igual
+≠ capacidades de escopos diferentes são equivalentes.
+
+Graduação diferente
+→ estabelece vantagem direta somente quando as capacidades forem realmente comparáveis.
+```
+
+Exemplo:
+
+```text
+Força Sobre-Humana [Excelente]
+≠ automaticamente superior a
+Superforça [Padrão]
+```
+
+A primeira pergunta não é "qual graduação é maior?", mas **"o que cada capacidade realmente significa na Ficção?"**.
+
 ---
 
 # Graduação
