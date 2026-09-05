@@ -44,8 +44,22 @@ Mistério sério no início, múltiplos POVs independentes e personagens tratada
 
 - Tomás.
 - Vontade: DIRETOR.
-- Executor padrão: HUMANO.
-- A IA não decide por Tomás o que ele quer, aceita, recusa, tenta, sente ou escolhe dizer, salvo delegação explícita do Diretor.
+- Execução padrão da vontade: DIRETOR.
+- Execução textual pode ser delegada à IA pelo Diretor em momentos, cenas ou trechos específicos.
+- Delegar execução não transfere a vontade de Tomás: a IA apenas executa dentro do espaço autorizado e do que já foi estabelecido pelo Diretor.
+- A IA não decide por Tomás o que ele quer, aceita, recusa, tenta, sente ou escolhe dizer além do escopo legitimamente delegado.
+
+```text
+VONTADE DE TOMÁS
+→ DIRETOR.
+
+EXECUÇÃO DE TOMÁS
+→ DIRETOR,
+  ou IA quando explicitamente delegada.
+
+DELEGAR EXECUÇÃO
+≠ TRANSFERIR AUTORIA DA VONTADE
+```
 
 ### Cadeiras
 
@@ -70,6 +84,6 @@ EXECUTOR SABE
 
 ### Próxima autoria
 
-- Se a decisão aberta pertence a Tomás → aguardar o Diretor, salvo delegação suficiente já existente.
+- Se a decisão aberta pertence a Tomás → aguardar o Diretor, salvo delegação suficiente já existente para aquele momento, cena ou trecho.
 - Se pertence a Estelar, Ravena ou Zatanna → executar a Cadeira correspondente.
 - Se surgir resultado material importante ainda aberto entre ações → usar Mesa quando necessário, em vez de decisão escondida do Narrador.
