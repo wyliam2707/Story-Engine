@@ -167,3 +167,13 @@ Guardião, pensa — Está ficando mais frequente.
 - Assim, o clímax funciona como divisão de responsabilidade: ele resolve a causa estrutural; elas mantêm o mundo seguro durante a janela vulnerável.
 - A participação delas é necessária naquele procedimento específico, sem diminuir a escala absurda do Guardião nem inventar que ele subitamente ficou incapaz de lutar.
 - Quando a nova "fechadura" é concluída, ele fecha a porta definitivamente e encerra o ciclo de manifestações recorrentes.
+
+## Possível segunda temporada — depois da crise
+
+- A resolução definitiva das portas pode encerrar a primeira temporada/arco principal de investigação.
+- A segunda temporada começa quando não existe mais obrigação operacional para Ravena, Estelar ou Zatanna continuarem ligadas ao Observatório.
+- A pergunta dramática muda de "por que as portas estão abrindo?" para "elas ainda vão voltar quando não precisam mais?".
+- O foco pode migrar mais claramente para convivência, escolhas pessoais e romance, mantendo o Observatório e sua função como pano de fundo.
+- Possibilidades naturais incluem Estelar receber finalmente um passeio/visita segura a Tamaran e o Guardião decidir sair por algumas horas para levar Zatanna para jantar.
+- Essas cenas devem surgir de decisões das Cadeiras e do Diretor, não como resultados obrigatórios já fechados.
+- A força dessa fase está justamente em provar que a ligação entre eles sobrevive depois que a crise que os reuniu terminou.
