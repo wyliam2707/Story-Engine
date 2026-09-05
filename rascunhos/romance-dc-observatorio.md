@@ -157,10 +157,13 @@ Guardião, pensa — Está ficando mais frequente.
 
 ## Possível resolução do mistério das portas
 
-- A causa pode ser simples: uma entidade está tentando atravessar/invadir por meio das portas anômalas.
-- O Guardião provavelmente teria poder para enfrentar a entidade sozinho, mas resolver tudo dessa forma exigiria deixar outra ameaça, passagem ou contenção desprotegida por alguns minutos.
-- O risco não é falta de poder; é responsabilidade simultânea. Soltar outro problema na Terra por cinco minutos para ganhar tempo não combina com a função dele.
-- Ravena, Estelar e Zatanna podem então ter uma função real no clímax: conter, atrasar ou impedir o avanço da entidade enquanto ele prepara um selo permanente.
-- O objetivo dele no confronto não é "vencer" a entidade em combate, mas criar o selo que a prende de vez e encerra o ciclo de portas.
-- A participação delas não precisa existir porque ele é incapaz de fazer sozinho; existe porque fazer sozinho teria um custo ou risco desnecessário para o mundo.
-- Isso preserva a escala absurda do Guardião sem tornar as três irrelevantes.
+- A causa pode ser simples: uma entidade ou conjunto de criaturas está forçando as portas a partir do outro lado.
+- A solução definitiva pode ser tratada como uma "troca de fechadura" dimensional.
+- Para substituir o mecanismo/selo antigo, o Guardião precisa abrir deliberadamente a porta, desmontar ou desfazer a trava anterior, construir a nova contenção e então fechá-la novamente.
+- Durante esses minutos a passagem fica realmente aberta.
+- O problema não é falta de poder do Guardião: ele precisa dedicar atenção e poder à troca da fechadura e não pode, ao mesmo tempo, garantir que nada atravesse sem comprometer o trabalho.
+- Ravena, Estelar e Zatanna assumem a função de guardar a passagem enquanto ele trabalha.
+- Elas podem impedir que várias criaturas atravessem, empurrar de volta as que tentam sair ou derrotar as que conseguirem alcançar a Terra.
+- Assim, o clímax funciona como divisão de responsabilidade: ele resolve a causa estrutural; elas mantêm o mundo seguro durante a janela vulnerável.
+- A participação delas é necessária naquele procedimento específico, sem diminuir a escala absurda do Guardião nem inventar que ele subitamente ficou incapaz de lutar.
+- Quando a nova "fechadura" é concluída, ele fecha a porta definitivamente e encerra o ciclo de manifestações recorrentes.
