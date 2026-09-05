@@ -200,13 +200,31 @@ Não presumir que toda mensagem sem colchetes seja fala de Daniel quando o conte
 
 ## Registro em Livro
 
-O Livro registra a ficção canonizada da campanha em capítulos.
+O Livro registra a ficção canonizada da campanha em capítulos e permanece obrigatório durante a Ficção.
 
 Ao fechar ou salvar a continuidade, não existe relação obrigatória de 1:1 entre o bloco executado e um capítulo literário. O Narrador deve dividir ou agrupar o material em quantos capítulos forem necessários para preservar coerência narrativa, unidade dramática, ritmo, transições e leitura natural.
 
 Um fechamento operacional pode gerar um capítulo, vários capítulos ou consolidar material com continuidade anterior quando isso for narrativamente mais coerente. A divisão em capítulos serve ao Livro, não à duração da sessão ou ao momento em que o Diretor pediu para salvar.
 
-Ao fechar capítulos, preservar marcações como `NARRADOR`, nome da personagem e `PERSONAGEM — pensamento` quando a origem da fala, ação ou interioridade estiver estabelecida.
+Ao fechar capítulos, preservar obrigatoriamente a origem de falas e pensamentos:
+
+```text
+Daniel — fala.
+Kara — fala.
+
+Daniel, pensa — pensamento.
+Kara, pensa — pensamento.
+```
+
+Narração permanece identificada separadamente quando necessário:
+
+```text
+NARRADOR — descrição, consequência ou fato narrado.
+```
+
+A fala não deve aparecer sem identificação quando sua origem é conhecida. Pensamento não deve ser transformado em fato objetivo do Narrador.
+
+A forma normativa completa está em `regras-basicas/modulos/LIVRO.md`.
 
 Direção, Mesa, Parecer, consultas, auditorias, instruções de cena e demais metaconversas não entram no Livro.
 
