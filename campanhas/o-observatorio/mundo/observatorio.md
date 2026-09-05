@@ -88,6 +88,23 @@ Este arquivo preserva apenas os fatos externos estáveis necessários para a cam
 - A casa permanece limpa, organizada e funcional sem exigir explicação doméstica convencional, pois sua ordem está ligada à própria natureza do domínio.
 - A escala cósmica do lugar convive com uma rotina simples e doméstica.
 - A arquitetura pode incorporar memórias espaciais, lugares visitados e conexões preservadas sem deixar de parecer uma casa coerente para Tomás.
+- Recursos domésticos do Observatório podem vir da própria ilha, de produção local, de estoques preservados e de lugares legitimamente conectados pelos Caminhos; não é necessário que Tomás faça compras ou receba abastecimento externo regular.
+- Água, alimentos cultivados na ilha e itens preparados na cozinha continuam sendo água e comida normais em termos materiais. O fato de a ilha e a casa serem extensão de Tomás não os transforma em fluidos ou tecidos corporais.
+- Ainda assim, depois da revelação, é perfeitamente coerente que as personagens percebam retroativamente o absurdo semântico de terem bebido água que "vinha dele", comido alimentos cultivados "nele" e preparados "dentro dele".
+- Tomás pode cozinhar de forma convencional com as próprias mãos, mas a cozinha, despensas e infraestrutura do Observatório respondem à sua natureza de maneira extremamente eficiente. Isso ajuda a explicar como consegue preparar grandes quantidades de comida em pouco tempo sem precisar recorrer a criação arbitrária de matéria.
+
+## Recontextualizações futuras — material de revelação
+
+- A revelação de que Tomás é uma ruptura consciente e que o Observatório/ilha são parte dele deve recontextualizar cenas antigas em vez de invalidá-las.
+- Ravena, Estelar e Zatanna podem conhecer, confiar, gostar ou até se envolver romanticamente com Tomás primeiro como homem e pessoa individual; descobrir depois que esse mesmo indivíduo também é uma ruptura consciente, a ilha e o Observatório não torna a personalidade humanoide falsa ou uma máscara. Todas essas formas são Tomás.
+- Isso permite a leitura futura, ao mesmo tempo verdadeira e cômica, de que elas achavam estar namorando um homem e descobrem que também estão namorando uma ruptura, uma ilha e uma casa dimensional.
+- A primeira chegada à ilha pode ser reinterpretada depois: Tomás estava dormindo e a fronteira de entrada física não estava fechada. As três atravessaram para dentro de sua extensão espacial antes de ele perceber que havia visitas. A metáfora "ele dormia de boca aberta" pode ser usada humoristicamente pelas personagens depois da revelação, mas não é anatomia literal.
+- Os testes posteriores de portal para sair ganham outro sentido: Tomás precisou ajustar uma rota de saída através da própria extensão espacial para visitantes que haviam entrado por uma abertura física/natural do domínio. Isso torna a frase "Agora vocês podem sair. Entrar ainda demanda confiança" retrospectivamente ainda mais literal.
+- O fato de Tomás permitir saída, mas manter entrada mágica dependente de confiança, pode ser compreendido depois como consentimento sobre quem pode atravessar para dentro de sua própria extensão.
+- As refeições também ganham duplo sentido: Tomás cozinha dentro de uma parte de si, usando infraestrutura que também é parte dele, e pode servir alimentos cultivados ou armazenados em sua própria extensão. A estranheza posterior é conceitual e social, não biológica.
+- Chá, água, alimentos, quartos, banhos, jardins e demais elementos domésticos podem se tornar fonte de humor retroativo quando as personagens finalmente entenderem a natureza do Observatório.
+- Esse humor deve surgir depois que a revelação tiver peso suficiente. A verdade cosmológica não deve ser reduzida a uma piada constante.
+- O ponto emocional central é que Tomás continua sendo uma pessoa real com vontade, ego, desejos e vínculos. Descobrir a escala de sua existência amplia quem ele é; não substitui o homem que elas conheceram.
 
 ## Continuidade externa
 
