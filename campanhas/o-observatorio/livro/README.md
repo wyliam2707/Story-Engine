@@ -2,7 +2,7 @@
 
 Livro canônico da campanha.
 
-## Capítulos
+## Temporada 1
 
 1. [O Homem que Fecha Portas](001-o-homem-que-fecha-portas.md)
 2. [Convergência](002-convergencia.md)
@@ -14,3 +14,12 @@ Livro canônico da campanha.
 8. [Padrões Próprios](008-padroes-proprios.md)
 9. [Chaves](009-chaves.md)
 10. [Fechaduras](010-fechaduras.md)
+11. [Capítulo 11](011-capitulo-11.md)
+12. [Visitas](012-visitas.md)
+13. [A Porta](013-a-porta.md)
+
+## Temporada 2
+
+14. [A Primeira a Voltar](014-a-primeira-a-voltar.md)
+15. [Quarenta e Duas Perguntas](015-quarenta-e-duas-perguntas.md)
+16. [Sem Precisar Dizer Nada](016-sem-precisar-dizer-nada.md)
