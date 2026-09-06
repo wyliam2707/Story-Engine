@@ -7,7 +7,7 @@ STATUS
 
 A Temporada 1 foi encerrada no Capítulo 13 — **A Porta**.
 
-A Temporada 2 está em execução. O Capítulo 16 — **Sem Precisar Dizer Nada** foi fechado.
+A Temporada 2 está em execução. O Capítulo 17 — **A Liberdade de Ficar** foi fechado.
 
 A crise das rupturas externas recorrentes terminou. Tomás conseguiu alterar a "fechadura" dimensional que permitia que as passagens fossem forçadas repetidamente. Ravena, Estelar e Zatanna participaram da contenção junto de reforços e depois usaram as três chaves para ancorar Tomás novamente quando sua existência ficou espalhada pela ruptura durante o processo.
 
@@ -28,8 +28,6 @@ Ravena, Estelar e Zatanna já descobriram a natureza profunda de Tomás.
 - A ilha é parte da ancoragem física de Tomás na Terra.
 - O Observatório é sua extensão espacial estável.
 - A forma humanoide funciona como seu ego individual e sua maneira de agir como pessoa.
-
-A revelação não tornou falsa a personalidade que Ravena, Estelar e Zatanna conheceram. Tomás continua sendo a mesma pessoa; a descoberta ampliou a escala daquilo que ele é.
 
 ## Rupturas / Caminhos
 
@@ -56,14 +54,27 @@ A pergunta deixada pelo fim da primeira temporada já recebeu resposta prática:
 - Tomás disse: "Dentro da minha cabeça, sempre vai ter uma escolha sua."
 - Ravena respondeu: "Eu gosto disso."
 - Ravena foi embora levando sua cópia de **Sem Precisar Dizer Nada**.
+- No Capítulo 17, ao saber que a rota para Tamaran poderia ficar pronta em dois ou três dias, Ravena decidiu ir.
 
 ### Estelar
 
 - Também escolheu continuar voltando sem necessidade operacional.
 - A possibilidade de levar Tomás a Tamaran deixou de ser uma hipótese abstrata.
-- Depois de voltar à Torre, passou a pensar em mapas, Tamaran e na necessidade de avisar sua família.
-- Pensamento estabelecido: "Talvez eu realmente deva avisá-los."
-- A questão interna mudou de *se* Tomás conhecerá Tamaran para *como* e *quando* isso poderá acontecer.
+- Estelar reafirmou que fugiu de Tamaran por causa de um casamento político decidido pelos pais e que não pode simplesmente tratar a volta como se nada tivesse acontecido.
+- Tomás separou "rei e rainha" de "pai e mãe" e sugeriu que Estelar talvez tenha pensado demais nos governantes e de menos nos pais que perderam uma filha.
+- O eixo emocional da conversa foi fechado pela ideia de que **liberdade não é apenas poder ir embora; também é poder ficar porque se quer**.
+- Tomás deixou explícito que, se Estelar quiser ficar com os pais, voltar à Terra, ficar com ele ou ir embora, ele não escolherá por ela.
+- Frase central estabelecida: "Só não escolha porque ainda sente que precisa fugir. Escolha porque é onde você quer estar."
+- Estelar reconheceu que não quer continuar tomando decisões apenas em oposição ao lugar de onde fugiu.
+- Tomás passou a chamar naturalmente o quarto onde está a janela para Tamaran de **quarto de Estelar**; ela percebeu a provocação e não rejeitou a ideia.
+- A rota será baseada nessa janela/conexão, com chegada discreta a Tamaran e deslocamento posterior até o castelo.
+- O nome informal do plano tornou-se **invasão diplomática**.
+- A viagem está prevista para **daqui a dois ou três dias**.
+- Estelar pretende avisar os pais antes da chegada.
+- Ela quer voltar a Tamaran por escolha própria, não por obrigação.
+- Tomás brincou com a possibilidade de ser um "possível sogro" para o pai de Estelar; ela entrou na brincadeira.
+- Estelar deixou claro que seu pai provavelmente perguntará **quem Tomás é para ela** e deliberadamente não revelou a Tomás qual resposta dará.
+- No POV final do Capítulo 17, Estelar pensou: "Eu vou voltar para casa." e então corrigiu: "Porque eu quero."
 
 ### Zatanna
 
@@ -87,17 +98,28 @@ A pergunta deixada pelo fim da primeira temporada já recebeu resposta prática:
 - Permanece sob vontade do Diretor.
 - Continua cortejando Ravena, Estelar e Zatanna de maneira individual, sem reciprocidade automática e sem sincronizar as três relações.
 - Após a crise, percebeu que havia se apegado muito à forma humanoide e deixado de considerar aspectos básicos de sua natureza.
-- Nos três dias posteriores a **Quarenta e Duas Perguntas**, continuou lidando com rupturas locais como rotina.
-- Está pesquisando como dividir autoridade e atenção, permitindo que uma parte funcional de sua própria extensão cuide do Observatório sem exigir concentração consciente da forma humanoide em tudo.
-- Começou a preparar uma rota/portal para Tamaran como possibilidade real de visita.
+- Continua pesquisando como dividir autoridade e atenção, permitindo que uma parte funcional de sua própria extensão cuide do Observatório sem exigir concentração consciente da forma humanoide em tudo.
+- Está praticamente concluindo a rota para Tamaran usando como referência a janela/conexão existente no quarto de Estelar.
+- A intenção atual é uma chegada pequena e discreta, seguida de deslocamento diplomático até o castelo, não uma abertura direta sobre o palácio.
 
 ## Relações
 
 - Nenhum vínculo é automaticamente definido pelo avanço dos outros.
 - Ravena mantém uma aproximação baseada em silêncio, confiança, memória e presença sem cobrança.
-- Estelar mantém a relação mais franca com possibilidades futuras e com Tamaran.
+- Estelar reconheceu explicitamente que gosta de Tomás, sem ainda fechar a natureza exata ou o estágio do vínculo.
+- A conversa do Capítulo 17 aprofundou o vínculo entre Tomás e Estelar através de autonomia, confiança, pertencimento e humor.
 - Zatanna transformou curiosidade investigativa em interesse pessoal voluntário e foi a primeira das três a iniciar um beijo com Tomás.
 - O cortejo continua aberto e cada Cadeira conserva plena autoria sobre sentimentos, ritmo e decisões.
+
+## Torre dos Titãs
+
+- Estelar voltou à Torre após passar boa parte do dia com Tomás preparando a rota.
+- Conversou primeiro com Ravena sobre a viagem e sobre a ideia de que voltar não apaga a decisão de ter fugido.
+- Ravena decidiu acompanhar a viagem.
+- Dick, Ciborgue e Mutano souberam que Estelar pretende voltar a Tamaran em dois ou três dias.
+- Eles também souberam que Tomás, Ravena e Zatanna devem acompanhá-la.
+- A expressão **invasão diplomática** foi compartilhada na Torre.
+- Mutano descobriu que Tomás ainda não sabe como Estelar pretende apresentá-lo ao pai e considerou isso particularmente divertido.
 
 ## Livro
 
@@ -107,13 +129,14 @@ Capítulos persistidos:
 - 14 — **A Primeira a Voltar**.
 - 15 — **Quarenta e Duas Perguntas**.
 - 16 — **Sem Precisar Dizer Nada**.
+- 17 — **A Liberdade de Ficar**.
 
 O título literal do Capítulo 11 não foi recuperado do histórico disponível durante a persistência; por isso o arquivo foi mantido com identificação neutra em vez de receber um título inventado.
 
 ## Último fato estabelecido
 
-O Capítulo 16 terminou no POV privado de Zatanna após o beijo. Ela reconheceu que quis beijar Tomás, percebeu que o interesse dele por sua vida comum tornou o vínculo mais pessoal e, ao pensar na possível viagem a Tamaran, concluiu que quer ir.
+O Capítulo 17 terminou com Estelar sozinha em seu quarto na Torre, pensando na viagem próxima. Depois de refletir sobre pais, Tamaran, liberdade, a chave do Observatório e o quarto que Tomás já chama de dela, pensou: "Eu vou voltar para casa." e corrigiu: "Porque eu quero."
 
 ## Primeiro ponto aberto
 
-A história continua depois desse POV. Tomás segue pesquisando a divisão de autoridade/atenção do Observatório e preparando uma rota para Tamaran. Ravena possui sua cópia de **Sem Precisar Dizer Nada**; Estelar considera como avisar Tamaran; Zatanna quer participar da possível viagem. Nenhuma decisão futura de Ravena, Estelar ou Zatanna está pré-fechada.
+A história continua após o fechamento do Capítulo 17. A viagem a Tamaran está prevista para daqui a dois ou três dias. Estelar pretende avisar os pais; Ravena decidiu ir; Zatanna já havia concluído privadamente que quer participar. Tomás continua finalizando a rota e permanece sob vontade do Diretor. A resposta que Estelar dará quando o pai perguntar quem Tomás é para ela continua aberta e deliberadamente não foi revelada a Tomás.
