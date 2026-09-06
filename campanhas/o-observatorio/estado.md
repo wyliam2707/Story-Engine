@@ -5,19 +5,17 @@ STATUS
 
 ## Momento
 
-O Capítulo 7 foi fechado.
+O Capítulo 8 foi fechado.
 
-No café da manhã do segundo dia, Tomás perguntou a Ravena, Estelar e Zatanna se elas se importariam caso ele as cortejasse. Definiu cortejo como “demonstrar interesse abertamente”. As três disseram que não se importariam; Ravena estabeleceu que isso não implica expectativa, obrigação ou promessa.
+Durante o segundo dia no Observatório, Ravena e Zatanna retomaram a investigação das rupturas enquanto Tomás estava no pomar. Ao perceber o que buscavam, Tomás ofereceu acesso a uma das bibliotecas úteis para estudar os Caminhos. Zatanna perguntou se aquilo também contava como cortejo; Tomás respondeu que, para ela, sim. Ao ser questionado sobre Ravena, disse que, no momento, só podia continuar oferecendo silêncio. Ravena respondeu que havia percebido.
 
-Tomás confirmou que conhece padrões de rupturas locais e que algumas possuem comportamento conhecido e até rotina, mas recusou aprofundar a explicação porque isso excedia as “credenciais atuais” delas.
+Na biblioteca, Zatanna encontrou uma relação entre os registros das rupturas externas e os alinhamentos dos Caminhos. Tomás reagiu com “Como pude esquecer isso?” e explicou como memória seletiva: nem tudo precisa de uso imediato. A investigação chegou à hipótese provisória de que as rupturas externas não surgem em lugares aleatórios; alguma coisa parece aproveitar momentos de alinhamento dos Caminhos para abrir onde não deveria.
 
-Sobre as janelas vivas, confirmou que já esteve nos lugares mostrados por algumas delas e que as manteve porque gostou das vistas. Ao falar de Tamaran, reconheceu Tamarus pela descrição de Estelar e descreveu de memória uma vista específica da capital a partir de uma montanha.
+Ainda pela manhã, a mesma ruptura local do jardim reapareceu, agora com cerca de doze metros. Tomás a reconheceu, mandou que não tocasse nas flores e estabeleceu que aquela seria a última vez naquela semana antes de ordenar que voltasse para casa. Ravena e Zatanna concluíram que Tomás não reconhece apenas categorias de comportamento; ele parece reconhecer aquela fissura em particular, e ela também responde a ele. Tomás limitou a explicação a dizer que as fissuras da ilha possuem padrões próprios.
 
-Tomás lembrou que mantinha uma pequena janela para Tamaran em seu quarto porque gostava do nascer do sol. Foi buscá-la e, antes de entregá-la a Estelar, verificou o alinhamento da conexão. Ravena e Zatanna sentiram o espaço se distender por um instante; Estelar percebeu alteração energética. Tomás estimou aproximadamente quatro meses até um alinhamento adequado para uma viagem a Tamaran.
+O almoço foi preparado pelas três visitantes, cumprindo a tarefa doméstica deixada por Tomás no café. Estelar assumiu a maior parte do preparo, Ravena ajudou e Zatanna acabou participando. Tomás comeu com elas e, quando pressionado por uma avaliação, disse que ficou melhor do que esperava. Ele assumiu que faria o jantar.
 
-Estelar aceitou a futura viagem. Tomás declarou que considera a oferta, a janela e a verificação do alinhamento parte do cortejo. Estelar disse que estava funcionando.
-
-Ao terminar o café, Tomás deixou a responsabilidade pela comida daquele dia com uma das três, informou que poderiam deixar a comida sobre a mesa porque ela se limpa sozinha e saiu para o pomar. As três ficaram conversando por alguns minutos. Estelar disse que gostou do cortejo e prefere aquilo a flores; Zatanna provocou sobre o padrão estabelecido; Ravena disse que ainda está tentando descobrir o que Tomás considera normal. Estelar decidiu levar a janela de Tamaran para seu quarto.
+No fim da tarde, Tomás previu que uma fissura local apareceria na praia em cerca de trinta minutos. Ravena e Zatanna o acompanharam. A fissura tentou abrir várias vezes sem completar o ciclo. Tomás então a ajudou a abrir; depois disso, ela começou a se fechar sozinha. Ele explicou que, sem ajuda, teria de esperar a tarde inteira até ela conseguir abrir. Para Ravena e Zatanna, ficou claro que algumas fissuras locais possuem ciclos e padrões individuais suficientemente estáveis para Tomás prever quando aparecem, quanto demoram e quando precisam de ajuda para completar o próprio processo.
 
 ## Observatório / Ilha
 
@@ -25,81 +23,82 @@ Ao terminar o café, Tomás deixou a responsabilidade pela comida daquele dia co
 - Saída mágica por portal está liberada para Ravena, Estelar e Zatanna.
 - Comunicação comum funciona para fora do Observatório.
 - Existem janelas vivas para lugares reais em tempo presente; elas não são passagens abertas por padrão.
-- A janela para Tamaran mostra Tamarus a partir de uma montanha e agora está com Estelar.
-- Tomás afirmou que a mesa pode se limpar sozinha.
+- A janela para Tamaran permanece dentro do Observatório e está com Estelar durante a estadia.
 - A natureza profunda do Observatório continua desconhecida para as três.
+- Uma das bibliotecas do Observatório foi apresentada por Tomás como útil para estudar os Caminhos.
 
 ## Rupturas
 
-- Rupturas locais são antigas, recorrentes e normalmente aparecem pelo menos uma vez por dia.
-- Rupturas externas são a anomalia recente e surgem aproximadamente a cada três ou quatro dias.
-- Tomás ainda não conhece a causa estrutural das rupturas externas.
-- As três sabem que Tomás distingue comportamentos entre rupturas locais e que algumas possuem rotina.
-- Elas ainda não sabem o que “casa” significa quando Tomás fala com uma ruptura.
+- Rupturas locais são antigas, recorrentes e possuem padrões próprios.
+- Algumas podem reaparecer no mesmo dia e ser reconhecidas individualmente por Tomás.
+- A ruptura do jardim respondeu novamente a ordens de Tomás e parece reconhecer sua autoridade/intenção.
+- Tomás estabeleceu com ela um limite de “última vez essa semana”.
+- Outra fissura local da praia possui horário e ciclo suficientemente previsíveis para Tomás saber com antecedência quando surgirá.
+- Essa fissura da praia pode precisar de ajuda para completar a abertura antes de conseguir se fechar sozinha.
+- Tomás não trata todas as fissuras locais da mesma maneira: às vezes fecha, manda embora, tolera, orienta ou ajuda a completar um ciclo.
+- Rupturas externas continuam sendo a anomalia recente e surgem aproximadamente a cada três ou quatro dias.
+- Hipótese atual: as rupturas externas acompanham alinhamentos naturais dos Caminhos, mas alguma força, presença ou condição ainda desconhecida parece usar esses momentos para abrir onde não deveria.
 
-## Caminhos / Viagem
+## Caminhos / Investigação
 
-- Tomás confirmou que já esteve em lugares mostrados por janelas vivas.
-- Nem todos os destinos estão acessíveis ao mesmo tempo.
-- Tomás precisa retornar ao Observatório para manter as coisas em ordem e não costuma ficar muito tempo longe.
-- O próximo alinhamento adequado conhecido para Tamaran está estimado em aproximadamente quatro meses.
-- As três não sabem como os alinhamentos são determinados.
+- Zatanna identificou relação entre datas/localizações das rupturas externas e alinhamentos dos Caminhos.
+- Ravena destacou que as externas não se comportam como as locais.
+- A hipótese provisória separa duas coisas: o momento natural em que uma abertura se torna possível e o agente/condição que aproveita esse momento para abrir fora do padrão.
+- Ainda não foi identificado quem ou o que provoca as rupturas externas.
+- Tomás possui memória seletiva; informação pode estar registrada nas bibliotecas sem estar na consciência ativa dele naquele momento.
 
 ## Tomás
 
 - Permanece sob vontade do Diretor.
-- Pediu permissão para cortejar as três e recebeu consentimento dentro dos limites expressos por cada uma.
-- Já iniciou cortejo de forma concreta com Estelar por meio da oferta de viagem, da janela e da verificação do alinhamento.
-- Reconheceu Tamarus por memória própria.
-- Mantinha a janela de Tamaran em seu quarto por gostar do nascer do sol.
-- Ao fim do capítulo saiu para o pomar.
+- Continua cortejando as três de forma aberta e individualizada.
+- Para Zatanna, ofereceu acesso a conhecimento e à biblioteca como parte do cortejo.
+- Para Ravena, declarou que, no momento, só pode continuar oferecendo silêncio.
+- Reconhece fissuras locais por padrões próprios e aparentemente por individualidade.
+- Consegue prever certos ciclos locais com antecedência e intervir sem necessariamente fechar a fissura.
+- Disse que faria o jantar após as três prepararem o almoço.
 
 ## Ravena
 
-- Não se opôs ao cortejo de Tomás.
-- Estabeleceu que demonstração de interesse não cria obrigação ou expectativa.
-- Participou com humor seco da conversa sobre “credenciais”.
-- Percebeu a distorção espacial causada pela verificação do alinhamento.
-- Observou a reação emocional de Estelar.
-- Continua sem conhecer a natureza profunda de Tomás ou do Observatório.
+- Participou da investigação na biblioteca com Zatanna.
+- Ao ouvir que Tomás só podia continuar oferecendo silêncio, respondeu “Eu percebi”.
+- Ajudou a formular a hipótese de que algo está usando alinhamentos dos Caminhos para abrir fora do padrão.
+- Percebeu que Tomás reconheceu a fissura do jardim como indivíduo, não apenas como categoria.
+- Observou na praia que Tomás ajudou a fissura a abrir, em vez de fechá-la.
 
 ## Estelar
 
-- Não se opôs ao cortejo de Tomás.
-- Gostou explicitamente do primeiro gesto de cortejo.
-- Recebeu a pequena janela para Tamaran.
-- Aceitou a futura viagem a Tamaran.
-- Sabe que o alinhamento adequado está estimado em aproximadamente quatro meses.
-- Disse que o cortejo está funcionando e que prefere isso a flores.
-- Pretende levar a janela para seu quarto durante a estadia.
+- Participou da rotina doméstica no almoço e assumiu a maior parte do preparo.
+- Continua com a janela para Tamaran dentro do Observatório durante a estadia.
+- Continua sendo a personagem que respondeu de forma mais explicitamente positiva ao cortejo até aqui.
 
 ## Zatanna
 
-- Não se opôs ao cortejo de Tomás.
-- Continua usando humor e perguntas diretas para testar limites e compreender o lugar.
-- Adotou “credenciais” como referência às informações que Tomás ainda não revela.
-- Percebeu a distorção espacial da verificação do alinhamento.
-- Acrescentou a mesa que se limpa sozinha à lista de estranhezas do Observatório.
+- Recebeu a biblioteca como parte explicitamente reconhecida do cortejo de Tomás.
+- Encontrou a relação entre as rupturas externas e os alinhamentos dos Caminhos.
+- Passou a questionar o sistema de arquivamento/memória de Tomás.
+- Concluiu com Ravena que a ruptura do jardim se parece menos com fenômeno impessoal e mais com uma relação.
+- Observou na praia que Tomás ajudou uma fissura a abrir antes que ela se fechasse sozinha.
+- Continua usando “credenciais” como provocação para os limites de informação impostos por Tomás.
 
 ## Relação / Convivência
 
-- O cortejo de Tomás às três está explicitamente autorizado, mas isso não equivale a namoro, compromisso ou reciprocidade automática.
-- Estelar demonstra a resposta romântica mais explícita até aqui e gostou do gesto ligado a Tamaran.
-- Zatanna mantém curiosidade pessoal e humor, sem fechar avanço romântico.
-- Ravena mantém limites claros e ainda processa principalmente o silêncio de Trigon e a estranheza do Observatório.
-- A convivência doméstica está começando a parecer menos missão e mais rotina compartilhada.
+- O cortejo de Tomás às três continua explicitamente autorizado, sem equivaler a namoro ou compromisso.
+- O cortejo está sendo incorporado à investigação e à convivência, não separado em cenas obrigatoriamente românticas.
+- Estelar recebeu um gesto ligado a Tamaran; Zatanna recebeu acesso a conhecimento; Ravena recebeu a continuidade do silêncio de Trigon.
+- A rotina doméstica agora inclui divisão prática de tarefas: as três fizeram o almoço e Tomás assumiu o jantar.
 
 ## Conhecimento separado
 
 - Nenhuma das três conhece a verdadeira natureza de Tomás como ruptura consciente ou sabe que ilha e Observatório são manifestações da mesma existência.
-- Nenhuma delas sabe que estar dentro do Observatório significa estar dentro da extensão espacial de Tomás.
-- A mesa que se limpa sozinha ainda é apenas mais uma peculiaridade da casa para elas.
+- Nenhuma delas sabe que bibliotecas, jardim, mesa, quartos e demais estruturas são partes da extensão espacial de Tomás.
+- Elas podem interpretar “memória seletiva” como funcionamento mental/metafórico comum; a relação literal com as bibliotecas permanece bastidor.
+- Elas ainda não sabem que algumas fissuras locais podem corresponder a vínculos familiares aproximados de Tomás.
 - Conhecimento do executor IA não migra entre as personagens.
 
 ## Último fato estabelecido
 
-Tomás está no pomar. Ravena, Estelar e Zatanna continuam dentro do Observatório depois do café da manhã do segundo dia. Estelar está com a janela para Tamaran. As três ainda precisam decidir quem ficará responsável pela comida daquele dia.
+No fim da tarde do segundo dia, Tomás, Ravena e Zatanna estão na praia depois de observar uma fissura local completar seu ciclo com ajuda de Tomás. A fissura já desapareceu. Estelar permanece na ilha/Observatório. A hipótese sobre alinhamentos dos Caminhos está estabelecida, mas a causa das rupturas externas continua desconhecida.
 
 ## Primeiro ponto aberto
 
-A manhã do segundo dia continua. A investigação das rupturas externas ainda precisa avançar, mas a convivência doméstica já começou a criar motivos práticos para as três saírem do Observatório e retomarem contato com suas vidas fora da ilha. Tomás permanece sob vontade do Diretor.
+O segundo dia ainda não terminou. Tomás havia dito que faria o jantar. A investigação agora possui uma hipótese concreta sobre os alinhamentos, e os próximos passos podem envolver buscar confirmação fora da ilha, comparar registros externos ou acompanhar a próxima ruptura anômala. A necessidade prática de roupas, equipamentos e contato com a vida fora do Observatório ainda pode motivar uma saída nos próximos dias.
