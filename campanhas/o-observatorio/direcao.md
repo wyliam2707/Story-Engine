@@ -42,6 +42,15 @@ Mistério sério no início, com múltiplos POVs independentes, preservação de
 - Ravena e Estelar começam investigando juntas; Zatanna segue uma linha independente até as investigações convergirem.
 - Tomás não revela espontaneamente sua verdadeira natureza a desconhecidos. Ele não mente, mas pode responder apenas o que foi perguntado e preservar informação por omissão ou precisão literal.
 
+## Memória e bibliotecas de Tomás
+
+- As bibliotecas do Observatório podem funcionar como formas de memória organizada de Tomás sem que todo o conteúdo esteja simultaneamente presente na consciência ativa de sua forma humanoide.
+- Tomás pode genuinamente esquecer uma informação que continua registrada em sua própria estrutura e reconhecê-la imediatamente quando alguém chama sua atenção para ela. A lógica é de memória seletiva: nem tudo precisa de uso imediato.
+- Por isso é coerente que Zatanna encontre uma relação importante nos registros e Tomás reaja com algo como "Nossa... como pude esquecer isso? Era óbvio agora que você falou", sem que isso contradiga a natureza do Observatório.
+- Essa relação entre biblioteca e memória não deve ser explicada cedo demais às personagens. Antes da revelação, pode parecer apenas que Tomás possui bibliotecas demais e um sistema de arquivamento excêntrico.
+- Em momento posterior, Ravena, Estelar e/ou Zatanna podem encontrar um livro que registre a própria chegada delas ao Observatório ou acontecimentos muito recentes que viveram ali. Esse livro pode funcionar como pista de que a biblioteca não é apenas um arquivo histórico externo, mas também uma forma pela qual Tomás organiza experiência e memória.
+- O encontro desse livro não fecha por antecipação quando ou como elas entenderão a verdade. A reação e a dedução pertencem às Cadeiras no momento em que a Ficção chegar lá.
+
 ## Recontextualização futura do Observatório
 
 - Depois que Ravena, Estelar e Zatanna descobrirem legitimamente que o Observatório e a ilha são extensões espaciais de Tomás, reservar espaço para pelo menos uma cena ou capítulo em que elas revisitam mentalmente a convivência anterior sob essa nova informação.
