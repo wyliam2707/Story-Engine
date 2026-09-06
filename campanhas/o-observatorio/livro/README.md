@@ -12,3 +12,4 @@ Livro canônico da campanha.
 6. [A Primeira Noite](006-a-primeira-noite.md)
 7. [Credenciais](007-credenciais.md)
 8. [Padrões Próprios](008-padroes-proprios.md)
+9. [Chaves](009-chaves.md)
