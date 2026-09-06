@@ -11,3 +11,4 @@ Livro canônico da campanha.
 5. [Janelas](005-janelas.md)
 6. [A Primeira Noite](006-a-primeira-noite.md)
 7. [Credenciais](007-credenciais.md)
+8. [Padrões Próprios](008-padroes-proprios.md)
