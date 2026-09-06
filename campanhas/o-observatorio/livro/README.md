@@ -13,3 +13,4 @@ Livro canônico da campanha.
 7. [Credenciais](007-credenciais.md)
 8. [Padrões Próprios](008-padroes-proprios.md)
 9. [Chaves](009-chaves.md)
+10. [Fechaduras](010-fechaduras.md)
