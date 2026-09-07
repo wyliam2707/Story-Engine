@@ -29,3 +29,5 @@ Livro canônico da campanha.
 20. [Um Beijo e um Plano de Fuga](020-um-beijo-e-um-plano-de-fuga.md)
 21. [O Direito de Desafiar](021-o-direito-de-desafiar.md)
 22. [Mapas e uma Promessa de Amizade](022-mapas-e-uma-promessa-de-amizade.md)
+23. [As Condições do Desafio](023-as-condicoes-do-desafio.md)
+24. [O Príncipe e o Impossível](024-o-principe-e-o-impossivel.md)
