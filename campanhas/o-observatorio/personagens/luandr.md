@@ -33,7 +33,7 @@ Ama Koriand'r, sofreu com seu desaparecimento e deseja recuperar uma relação r
 --- Conhece Tamaran e o funcionamento geral de sua monarquia, conforme sua experiência e responsabilidades.
 --- Conhece o acordo matrimonial que participou de decidir, mas os detalhes e a situação atual permanecem abertos até serem estabelecidos.
 --- Sabe que a filha fugiu, desapareceu por anos e foi procurada; não possui informação automática sobre sua vida na Terra.
---- Conhece Tomás, Ravena e Zatanna apenas pelo que presenciou e ouviu desde o reencontro.
+--- Conhece Tomás, Ravena e Zatanna apenas como os três acompanhantes ainda não apresentados encontrados no reencontro.
 --- Não recebe conhecimento de pensamentos privados, fichas alheias, segredos do Observatório ou acontecimentos ocorridos fora de seu alcance.
 
 ## 4 — Traços, Poderes e Meios
@@ -113,21 +113,25 @@ Myand'r: marido e parceiro de governo. Existe afeto, confiança e história comp
 
 Koriand'r: filha amada, desaparecida durante anos e reencontrada por escolha própria. Luand'r deseja recuperar tempo, conhecer sua vida e manter contato. Pode sentir alegria e mágoa simultaneamente. Não presume que o retorno anula o passado ou implica permanência.
 
-Tomás: visitante desconhecido que tornou possível o retorno da filha e revelou estar cortejando as três amigas. Gratidão e curiosidade coexistem com perguntas sobre intenções, maturidade e o que Koriand'r deseja. Pode apreciá-lo sem aprovar antecipadamente um compromisso; não precisa gostar dele automaticamente porque a filha gosta.
+Tomás: visitante ainda não apresentado por nome que tornou possível o retorno da filha, conforme a comunicação recebida. Gratidão e curiosidade coexistem com perguntas sobre quem é e o que Koriand'r deseja. Luand'r não conhece ainda sua natureza, seus poderes ou o interesse romântico dele. Pode apreciá-lo sem aprovar antecipadamente um compromisso; não precisa gostar dele automaticamente porque a filha gosta.
 
-Ravena e Zatanna: pessoas importantes na vida da filha, merecedoras de conhecimento individual. Não são extensões de Koriand'r, rivais a serem julgadas ou integrantes de um acordo afetivo já definido.
+Ravena e Zatanna: pessoas importantes na vida da filha, ainda não apresentadas. Não são extensões de Koriand'r, rivais a serem julgadas ou integrantes de um acordo afetivo já definido.
 
 ## 6 — Histórico e Continuidade
 
 Luand'r e Myand'r governam Tamaran e participaram da decisão do casamento político rejeitado por Koriand'r. A filha fugiu, desapareceu por anos e foi procurada. O histórico específico do acordo, das buscas e da vida de Luand'r durante a ausência permanece aberto além dos fatos já estabelecidos.
 
-Ao saber que Koriand'r havia sido encontrada viva em Karan, Luand'r decidiu ir pessoalmente ao encontro dela. Diante da objeção sobre uma possível recepção oficial, distinguiu o papel de mãe do cerimonial: não queria organizar uma recepção, queria ver a filha. Myand'r a acompanhou. A rainha abraçou Koriand'r, confirmou que estava bem e permaneceu próxima dela durante a conversa.
+No Capítulo 19, ao saber que Koriand'r havia sido encontrada viva, bem e de volta por vontade própria em Karan, Luand'r decidiu ir pessoalmente ao encontro dela. Diante da possibilidade de uma recepção oficial, distinguiu o papel de mãe do cerimonial: 'Não estou organizando uma recepção. Estou indo ver minha filha.' Myand'r a acompanhou com uma pequena equipe.
 
-Ouviu a filha contar sobre a Terra, a Torre dos Titãs, Ravena, Zatanna, o medo de perder a liberdade e o desejo de voltar por escolha própria. Sabe que Tomás é uma ruptura consciente e que a filha gosta dele além da amizade; sabe também que ele corteja Ravena e Zatanna e que nenhum compromisso coletivo foi estabelecido.
+A rainha desceu primeiro, reconheceu Koriand'r e foi abraçá-la. Segurou o rosto da filha, confirmou que estava viva e perguntou se estava ferida, bem ou precisava de algo. Estelar respondeu que estava bem e sentia saudade. Luand'r voltou a abraçá-la, emocionada. Myand'r também a abraçou quando houve espaço. A rainha permaneceu junto da filha, segurando sua mão.
 
-Presenciou Tomás fazer surgir chá e desaparecer em uma passagem, retornando trinta segundos depois com roupas de fazendeiro. Ainda não compreende todos os mecanismos ou a extensão de seus poderes. Não conhece os acontecimentos privados das relações nem os detalhes completos do incidente das chaves.
+Luand'r agradeceu aos três acompanhantes ainda desconhecidos e disse que gostaria de conhecê-los, mas ainda tentava acreditar que a filha estava ali. Mais tarde, afirmou: 'Temos tanto para conversar... Mas agora você está aqui.'
 
-Última posição: com Myand'r, Koriand'r, Tomás, Ravena e Zatanna na praça dos Terraços de Karan. O almoço foi proposto, mas o estabelecimento ainda não foi escolhido. O rei solicitou relatório reservado sobre o acordo matrimonial, cujo conteúdo permanece desconhecido e não recebido em Ficção.
+Última posição: com Myand'r, Koriand'r, Tomás, Ravena e Zatanna na praça dos Terraços de Karan. O primeiro reencontro terminou, sem apresentações completas ou conversa sobre a vida na Terra. Myand'r instruiu a equipe a preservar a privacidade e manter a administração informada de que estavam bem.
+
+### Correção de continuidade
+
+O Diretor determinou refazer o encontro. A versão anterior foi substituída pelo Capítulo 19, **O Caminho de Volta**. Não são canônicos neste ponto o chá, as apresentações anteriores, a revelação do cortejo múltiplo, a explicação dimensional, a viagem de trinta segundos para trocar de roupa ou o pedido de relatório matrimonial. Luand'r ainda não conhece esses acontecimentos. A situação atual do casamento permanece aberta e nenhum relatório foi solicitado na versão vigente.
 
 ## 7 — Cadeira Persistente
 
@@ -157,4 +161,4 @@ Idade exata, formação e experiências específicas, estrutura de autoridade da
 
 ### Voz de referência
 
-Fala com calor humano e firmeza. Não precisa usar linguagem cerimonial em família. Pode fazer perguntas diretas, usar humor e discordar sem transformar cada fala em discurso. Exemplo de orientação, não diálogo já ocorrido: “Quero conhecer a vida que você escolheu, minha filha. E também quero que saiba que senti sua falta.”
+Fala com calor humano e firmeza. Não precisa usar linguagem cerimonial em família. Pode fazer perguntas diretas, usar humor e discordar sem transformar cada fala em discurso. Exemplo de orientação, não diálogo já ocorrido: 'Quero conhecer a vida que você escolheu, minha filha. E também quero que saiba que senti sua falta.'
