@@ -3,188 +3,121 @@
 STATUS
 → EM EXECUÇÃO
 
-## Momento
+## Momento e prioridade de continuidade
 
-A Temporada 1 foi encerrada no Capítulo 13 — **A Porta**. A Temporada 2 está em execução. O Capítulo 18 — **Melhores Ideias Insensatas** foi fechado e persistido. O capítulo seguinte está aberto com Tomás, Estelar, Ravena e Zatanna já em Tamaran, no ponto correspondente à janela do quarto de Estelar.
+A Temporada 1 terminou no Capítulo 13 — **A Porta**. A Temporada 2 está em execução. O Capítulo 19 — **O Caminho de Volta** foi fechado e persistido. O próximo capítulo começa imediatamente depois do primeiro reencontro de Koriand'r com Myand'r e Luand'r, na praça dos Terraços de Karan.
 
-A crise das rupturas externas recorrentes terminou. Tomás conseguiu alterar a 'fechadura' dimensional que permitia que as passagens fossem forçadas repetidamente. Ravena, Estelar e Zatanna participaram da contenção junto de reforços e depois usaram as três chaves para ancorar Tomás novamente quando sua existência ficou espalhada pela ruptura durante o processo. Depois da vitória, as criaturas que haviam atravessado e sido derrubadas foram devolvidas inconscientes aos respectivos Caminhos. O Observatório não permaneceu com prisioneiros nem precisou destruí-las.
+O Diretor determinou refazer o encontro com os pais após criar Cadeiras persistentes para os dois monarcas. A versão reescrita do Capítulo 19 substitui o diálogo anterior com os monarcas. Não importar para a nova continuidade o chá, as apresentações, as revelações românticas e dimensionais, o pedido de relatório matrimonial, a troca de roupa ou as conversas posteriores que ocorreram apenas na versão descartada. Esses acontecimentos poderão ocorrer futuramente se forem novamente produzidos em Ficção, mas não são fatos atuais. O passeio por Karan, a mensagem enviada aos pais e a chegada deles permanecem canônicos.
 
-## Verdade agora conhecida
+## Verdade do Observatório
 
-Ravena, Estelar e Zatanna já descobriram a natureza profunda de Tomás.
+- Tomás é uma ruptura consciente e permanentemente ancorada. Nasceu, em certo sentido, no nó onde vários Caminhos se encontram; algumas rupturas são mais antigas que a Terra. Nem sempre teve consciência. Sua primeira lembrança consciente declarada é: 'O céu. Visto da praia.'
+- Ilha, Observatório e forma humanoide são manifestações da mesma existência, não seres separados. A ilha é âncora física na Terra; o Observatório é extensão espacial estável; a forma humanoide é seu ego individual e interface pessoal.
+- Estar no Observatório significa estar dentro de sua extensão em sentido metafísico/topológico, não biológico nem dentro de sua mente. Privacidade continua existindo, e Tomás não é automaticamente onisciente.
+- Parte de suas memórias foi adquirida antes da consciência e parte depois. A biblioteca pode organizar o que ele legitimamente percebeu ou experimentou, não pensamentos privados alheios.
+- Outras rupturas podem possuir intenção, resposta ou instinto, sem serem automaticamente pessoas como Tomás. Ele usa às vezes linguagem familiar, como irmã mimada, primo chato e tia do andador.
+- A crise de rupturas externas recorrentes terminou com a substituição da fechadura dimensional. Ravena, Estelar e Zatanna participaram da contenção e usaram suas três chaves para reancorar Tomás quando sua existência ficou espalhada pela ruptura. As criaturas derrotadas foram devolvidas inconscientes aos respectivos Caminhos, sem permanecerem prisioneiras.
+- Rupturas locais continuam como parte da ecologia do nexo. Tomás pode fechá-las, orientá-las ou observá-las conforme o caso.
+- As três chaves pessoais continuam com Ravena, Estelar e Zatanna. A função de ancoragem profunda foi demonstrada; não inventar outras capacidades.
+- Janelas vivas preservam conexões reais com lugares legitimamente conhecidos ou visitados, sem equivaler automaticamente a passagem física permanente, canal de comunicação ou acesso irrestrito.
 
-- Tomás é uma ruptura consciente e permanentemente ancorada.
-- Nasceu, em certo sentido, no nó onde várias rupturas se encontram; algumas são mais antigas que a Terra.
-- Nem sempre teve consciência.
-- Parte do que existe dentro dele foi adquirida antes de sua consciência e parte depois.
-- Sua primeira lembrança consciente declarada é: 'O céu. Visto da praia.'
-- As outras rupturas podem possuir intenção, resposta ou instinto, mas não são automaticamente pessoas como Tomás.
-- A linguagem familiar usada por Tomás para algumas presenças — irmã mimada, primo chato, tia do andador — aproxima relações reais entre entidades da mesma ordem de existência.
-- Ilha, Observatório e forma humanoide não são três seres separados. São manifestações da mesma existência estabilizada.
-- A ilha é parte da ancoragem física de Tomás na Terra.
-- O Observatório é sua extensão espacial estável.
-- A forma humanoide funciona como seu ego individual e sua maneira de agir como pessoa.
-- Estar no Observatório é estar dentro da extensão espacial de Tomás em sentido metafísico/topológico, não biológico e não dentro de sua mente.
-- Privacidade continua existindo. Tomás não é automaticamente onisciente dentro da casa.
+## Autoria e execução
 
-## Rupturas / Caminhos
+- Diretor humano possui autoridade final. Tomás é personagem do Diretor: sua vontade pertence exclusivamente ao usuário. A IA não inventa suas falas, ações voluntárias, intenções, sentimentos ou escolhas além da declaração ou delegação legítima.
+- Narrador IA apresenta continuidade e consequências evidentes, sem juiz oculto, dados obrigatórios ou resolução secreta de resultados materiais abertos.
+- Ravena, Estelar, Zatanna, Myand'r e Luand'r possuem Cadeiras próprias e persistentes, executadas pela IA. Cada uma decide no espaço aberto usando conhecimento legítimo, ficha, relações e Direção pertinente.
+- A mesma IA não implica consciência, vontade ou conhecimento compartilhado. Consulta de Mesa não é fala ficcional. Em decisões relevantes, consultar Cadeiras envolvidas conforme CONSULTA FORTE e aguardar autorização antes de executar a proposta. Após autorização, não reabrir o ponto fechado.
+- Myand'r e Luand'r são monarcas com responsabilidades reais e pais com preocupações próprias. Não reduzi-los a anfitriões passivos, mediadores automáticos, pais perfeitos ou antagonistas de conveniência. Podem discordar, tomar iniciativas, agir fora da presença de Tomás, sentir amor e mágoa simultaneamente e cometer erros coerentes.
+- Myand'r é moderadamente mais forte que Estelar, principalmente em força e resistência, com experiência veterana. Luand'r possui escala física e energética comparável à de Estelar e competência própria de combate, diplomacia e governo. Graduações informam plausibilidade, não resultados automáticos.
 
-- O ciclo de rupturas externas que motivou a Temporada 1 foi encerrado pela troca da fechadura.
-- Rupturas locais continuam existindo dentro ou perto do Observatório como parte da ecologia normal do nexo.
-- Tomás continua fechando, orientando ou simplesmente observando essas manifestações conforme o caso.
-- As três chaves pessoais de Ravena, Estelar e Zatanna continuam funcionando e permanecem com elas.
-- As chaves também demonstraram uma função de ancoragem profunda quando Tomás precisou ser reconduzido à forma humana após a troca da fechadura.
-- Uma janela viva pode preservar uma conexão real com um lugar visitado ou conhecido por Tomás, sem que isso signifique que a passagem física esteja permanentemente aberta.
-- A janela de Tamaran no quarto de Estelar serviu de referência para uma travessia interplanetária realizada no início do capítulo seguinte.
-
-## Temporada 2 — escolhas de retorno
-
-A pergunta deixada pelo fim da primeira temporada já recebeu resposta prática: quando ninguém mais precisava voltar por obrigação da investigação, as três voltaram por escolha própria, cada uma em seu ritmo.
+## Temporada 2 — relações e acontecimentos anteriores
 
 ### Ravena
 
-- Foi a primeira a voltar sozinha na manhã seguinte ao encerramento da crise.
-- Encontrou Tomás na rede e disse: 'Bom dia. Eu prometi música.'
-- Cumpriu a promessa feita no terceiro dia de mostrar a ele uma parte de sua vida fora da identidade de heroína.
-- Mais tarde retornou com o livro preto ligado às memórias de Tomás e declarou: 'Eu li.'
-- A memória registra percepções e pensamentos de Tomás, não pensamentos privados de Ravena.
-- Ravena acabou dando à memória, de forma não deliberadamente planejada, o título **Sem Precisar Dizer Nada**.
-- A capa tornou-se violeta escura com duas redes sob árvores. A cópia de Ravena refletiu o mesmo título e a mesma capa.
-- Tomás disse: 'Dentro da minha cabeça, sempre vai ter uma escolha sua.' Ravena respondeu: 'Eu gosto disso.'
-- Ravena foi embora levando sua cópia de Sem Precisar Dizer Nada.
-- No Capítulo 17, ao saber que a rota para Tamaran poderia ficar pronta em dois ou três dias, Ravena decidiu ir.
-- No Capítulo 18, voltou sozinha por volta do início da tarde e declarou: 'Eu queria te ver. Não complique.'
-- A conversa sobre quatorze opiniões internas levou a um primeiro beijo iniciado por Tomás e correspondido por ela. Houve um segundo beijo leve e, mais tarde, um terceiro beijo suave e mais demorado, com a mão de Tomás na nuca dela. Todos ocorreram por escolha e correspondência, sem escalada automática.
-- Tomás entregou a ela **Melhores Ideias Insensatas**, memória de capa estrelada, cujo título surgiu automaticamente da frase de Ravena sobre as melhores ideias que ele continuava chamando de insensatas.
-- Ravena leu a memória enquanto Tomás retomava os mapas e o chá. Riu das discussões internas, mas também percebeu a importância da prudência dele em deixar espaço para sua escolha.
-- Disse: 'Vou retirar algumas das coisas que pensei sobre a opinião sensata. Algumas.'
-- Ficou por vontade própria durante boa parte da tarde, sem precisar que a proximidade se transformasse em outra iniciativa física.
-- Guardou a memória em seu quarto no Observatório e não revelou seu conteúdo a Estelar nem a Zatanna.
-- Retornou à Torre com Estelar na véspera da viagem, participou da conversa com os Titãs e ofereceu companhia à amiga, sem tentar decidir por ela o reencontro com os pais.
+- Voltou primeiro ao Observatório após a crise, por escolha própria, e cumpriu a promessa de compartilhar música e parte de sua vida fora da identidade heroica.
+- Leu a memória de Tomás que recebeu o título **Sem Precisar Dizer Nada**, capa violeta com duas redes sob árvores. Tomás disse: 'Dentro da minha cabeça, sempre vai ter uma escolha sua.' Ela respondeu: 'Eu gosto disso.'
+- No Capítulo 17 decidiu acompanhar a viagem a Tamaran.
+- No Capítulo 18 chegou sozinha no início da tarde, enquanto Tomás estudava mapas. Disse: 'Eu queria te ver. Não complique.' Correspondeu a três beijos iniciados por ele, o último suave e mais demorado, com a mão dele em sua nuca.
+- Recebeu **Melhores Ideias Insensatas**, memória de capa estrelada, intitulada a partir de sua própria fala. Leu e riu das deliberações internas de Tomás, reconhecendo a importância de sua escolha e da prudência dele. Guardou o livro em seu quarto no Observatório.
+- Não revelou a Estelar nem a Zatanna o conteúdo dessa memória. Voltou à Torre com Estelar na véspera da viagem e ofereceu companhia à amiga, sem decidir por ela.
 
 ### Estelar
 
-- Também escolheu continuar voltando sem necessidade operacional.
-- A possibilidade de levar Tomás a Tamaran deixou de ser uma hipótese abstrata.
-- Estelar reafirmou que fugiu de Tamaran por causa de um casamento político decidido pelos pais e que não pode simplesmente tratar a volta como se nada tivesse acontecido.
-- Tomás separou 'rei e rainha' de 'pai e mãe' e sugeriu que Estelar talvez tenha pensado demais nos governantes e de menos nos pais que perderam uma filha.
-- O eixo emocional da conversa foi fechado pela ideia de que **liberdade não é apenas poder ir embora; também é poder ficar porque se quer**.
-- Tomás deixou explícito que, se Estelar quiser ficar com os pais, voltar à Terra, ficar com ele ou ir embora, ele não escolherá por ela.
-- Frase central estabelecida: 'Só não escolha porque ainda sente que precisa fugir. Escolha porque é onde você quer estar.'
-- Estelar reconheceu que não quer continuar tomando decisões apenas em oposição ao lugar de onde fugiu.
-- Tomás passou a chamar naturalmente o quarto onde está a janela para Tamaran de **quarto de Estelar**; ela percebeu a provocação e não rejeitou a ideia.
-- A rota foi baseada nessa janela/conexão, com chegada discreta a Tamaran e deslocamento posterior até o castelo.
-- O nome informal do plano tornou-se **invasão diplomática**.
-- Estelar quer voltar a Tamaran por escolha própria, não por obrigação.
-- Tomás brincou com a possibilidade de ser um 'possível genro' para o pai de Estelar; ela entrou na brincadeira.
-- Estelar deixou claro que seu pai provavelmente perguntará **quem Tomás é para ela** e deliberadamente não revelou a Tomás qual resposta dará.
-- No POV final do Capítulo 17, Estelar pensou: 'Eu vou voltar para casa.' e então corrigiu: 'Porque eu quero.'
-- No Capítulo 18, chegou durante o preparo do jantar e viu pela primeira vez como a cozinha do Observatório funciona. Já conhecia os jantares servidos, mas não o processo.
-- Estelar ainda não conhece a brincadeira das quatorze opiniões internas nem o conteúdo de Melhores Ideias Insensatas e Jantar à Meia-Noite. As outras duas não lhe transmitiram esse conhecimento.
-- A viagem foi confirmada para o dia seguinte, antes do almoço. Estelar gostaria de avisar os pais antes de chegar, mas não existe um meio de comunicação estabelecido para isso. Nenhuma mensagem foi enviada ou recebida.
-- Avisou Dick, Ciborgue e Mutano da partida e reafirmou que quer voltar porque escolheu, não por obrigação.
-- Continua reservando para o reencontro a resposta que dará ao pai sobre Tomás.
+- Tem 24 anos nesta continuidade. Fugiu de Tamaran por causa do casamento político decidido pelos pais, que não aceitou. O desvio grave da nave a levou à Terra, onde construiu vida com os Titãs.
+- Tamaran continua sendo casa. A conversa com Tomás no Capítulo 17 estabeleceu que liberdade também é poder ficar porque se quer, não apenas partir. Ele não escolherá por ela entre permanecer com os pais, voltar à Terra, ficar com ele ou outro caminho.
+- Frase central: 'Só não escolha porque ainda sente que precisa fugir. Escolha porque é onde você quer estar.' Estelar decidiu retornar por vontade própria.
+- Reconheceu que gosta de Tomás. O estágio exato do vínculo continua aberto. O interesse por ele não implica aceitar um modelo de relacionamento ou compromisso coletivo.
+- Tomás passou a chamar naturalmente o quarto da janela de Tamaran de quarto de Estelar. Ela percebeu a provocação e não rejeitou a ideia.
+- O plano de chegada discreta recebeu o apelido de 'invasão diplomática'. Antes da viagem, Tomás e Estelar brincaram com a possibilidade de um futuro sogro. Ela deliberadamente não revelou a Tomás a resposta que daria ao pai sobre quem ele é para ela.
+- No Capítulo 18 conheceu o funcionamento da cozinha durante o jantar. Não conhece a brincadeira das quatorze opiniões internas nem o conteúdo das memórias particulares de Ravena e Zatanna.
+- Avisou Dick, Ciborgue e Mutano da viagem. No retorno a Tamaran, desejou apresentar o planeta, não apenas o palácio.
 
 ### Zatanna
 
-- Voltou sozinha ao Observatório com o caderno fechado e declarou: 'Tenho quarenta e duas perguntas.' Em seguida: 'Hoje não pretendo fazer nenhuma delas.'
-- Explicou que estava experimentando algo novo: 'Visitar você.'
-- O foco mudou de investigar Tomás como fenômeno para conhecê-lo voluntariamente como pessoa.
-- A relação desenvolveu uma dinâmica de **verdade por verdade**: abertura pessoal voluntária dos dois lados, em vez de interrogatório.
-- Tomás foi ao show de Zatanna como espectador comum e permaneceu esperando após o fim. Ela constatou: 'Então você realmente veio só assistir.'
-- Ela escolheu o restaurante onde jantaram. Depois do jantar, caminharam pela cidade. Na despedida, Zatanna iniciou um beijo curto, suave e deliberado.
-- No POV privado posterior, reconheceu que quis beijá-lo e que o interesse dele por sua vida comum alterou a maneira como o enxerga. Pensou: 'Isso vai ser um desastre.' Ao pensar na possibilidade de Tamaran, concluiu: 'Eu quero ir.'
-- No Capítulo 18, chegou ao Observatório depois de Ravena e conheceu o funcionamento das memórias que se escrevem em tempo real.
-- Tomás entregou a ela **Jantar à Meia-Noite**, livro de capa nas cores do cartaz de seu espetáculo e com uma cartola, contendo a memória da noite em que ele foi ao teatro.
-- Leu a memória em seu quarto e descobriu as deliberações cômicas de Tomás sobre ir ao teatro, ser visto na plateia, esperar na cadeira, jantar, caminhar e receber o beijo que ela iniciou. O momento do beijo interrompia a assembleia: 'A reunião está suspensa.'
-- Voltou à sala para conversar com Tomás a sós. Ele se aproximou e iniciou um beijo leve, que Zatanna correspondeu e prolongou um pouco. Ela disse: 'Porque, dessa vez, a iniciativa foi sua. E eu gostei.'
-- Conversaram sobre a viagem, possíveis sogros, contingências e a família de Zatanna. Ela falou de Giovanni Zatara, da infância nos bastidores, de sua carreira própria, de Sindella e de sua herança Homo Magi.
-- Tomás deixou os mapas de lado para ouvi-la. A conversa aprofundou o interesse pessoal dela e reforçou que sua carreira, sua casa, seus amigos e sua autonomia continuam sendo partes importantes de sua vida.
-- Guardou Jantar à Meia-Noite em seu quarto no Observatório. Não compartilhou o conteúdo com Estelar.
-- Na véspera da viagem, voltou para casa, organizou compromissos profissionais com uma pessoa de confiança e separou roupas, itens pessoais e materiais mágicos plausíveis. Não revelou detalhes da viagem a pessoas que não precisavam saber.
-- Está indo a Tamaran por vontade própria, também por interesse cultural e de pesquisa, não apenas por causa de Tomás.
+- Tem 26 anos nesta continuidade. Retornou voluntariamente ao Observatório, inicialmente com 'quarenta e duas perguntas', e passou a querer conhecer Tomás como pessoa.
+- Foi com ele a um jantar após seu espetáculo. Tomás assistiu como espectador comum e esperou o fim. Zatanna escolheu o restaurante; depois caminharam e ela iniciou um beijo curto e deliberado na despedida. Em privado reconheceu que quis beijá-lo e que desejava ir a Tamaran.
+- No Capítulo 18 recebeu **Jantar à Meia-Noite**, memória da noite do teatro com capa inspirada no cartaz e na cartola. Leu em seu quarto, riu das deliberações de Tomás e voltou a conversar com ele a sós. Correspondeu e prolongou levemente um beijo iniciado por ele.
+- Conversou sobre Giovanni Zatara, Sindella, sua herança Homo Magi, a infância nos bastidores, sua carreira e sua autonomia. Guardou a memória no quarto do Observatório, sem compartilhar seu conteúdo com Estelar.
+- Antes da partida organizou compromissos profissionais e materiais pessoais. Viaja por interesse próprio, cultural e pessoal, não apenas por causa de Tomás.
 
-## Tomás
+### Tomás e as relações
 
-- Permanece sob vontade do Diretor. A IA não inventa ações voluntárias, pensamentos, sentimentos ou falas para ele além do que foi fornecido ou legitimamente delegado.
-- Continua cortejando Ravena, Estelar e Zatanna de maneira individual, sem reciprocidade automática e sem sincronizar as três relações.
-- Após a crise, percebeu que havia se apegado muito à forma humanoide e deixado de considerar aspectos básicos de sua natureza.
-- Pesquisa como dividir autoridade e atenção, permitindo que uma parte funcional de sua própria extensão cuide do Observatório sem exigir concentração consciente da forma humanoide em tudo.
-- O Capítulo 18 desenvolveu a imagem literária de uma assembleia interna variável, com aproximadamente oito a quinze perspectivas que discutem possibilidades, dúvidas e decisões. Não são pessoas independentes, Cadeiras literalmente presentes na mente, nem uma obrigação de transformar toda decisão em votação.
-- As memórias podem registrar em tempo real percepções, pensamentos e experiências de Tomás; títulos e capas podem surgir da organização automática do registro. Elas não registram pensamentos privados de terceiros sem causa legítima.
-- Tomás compartilhou voluntariamente as duas memórias pessoais e deixou as destinatárias decidirem como guardá-las, embora prefira que seus pensamentos não se tornem um clube do livro.
-- A cozinha e a infraestrutura doméstica são sua extensão espacial reorganizando recursos e processos. Os alimentos são materiais normais de origem legítima, não tecidos ou fluidos do corpo.
-- Aparência escolhida para a viagem: 1,96 m, cabelos brancos/prateados longos até as costas, traje aristocrático de casaca vinho escuro com bordados dourados, camisa clara elaborada e botas. Esta foi a aparência vista pelas três ao chegarem para a partida.
-- Concluiu a rota para Tamaran usando a conexão da janela do quarto de Estelar como referência. A passagem foi realizada com sua própria forma assumindo a função de ruptura, não por um portal independente.
-
-## Relações
-
-- Nenhum vínculo é automaticamente definido pelo avanço dos outros.
-- Ravena mantém uma aproximação baseada em silêncio, confiança, memória e presença sem cobrança. O Capítulo 18 acrescentou beijos correspondidos e a entrega de uma memória pessoal.
-- Estelar reconheceu explicitamente que gosta de Tomás, sem ainda fechar a natureza exata ou o estágio do vínculo.
-- A conversa do Capítulo 17 aprofundou o vínculo entre Tomás e Estelar através de autonomia, confiança, pertencimento e humor.
-- Zatanna transformou curiosidade investigativa em interesse pessoal voluntário e foi a primeira das três a iniciar um beijo com Tomás. No Capítulo 18, correspondeu à primeira iniciativa de beijo dele e aprofundou a conversa sobre sua família.
-- O cortejo continua aberto e cada Cadeira conserva plena autoria sobre sentimentos, ritmo e decisões.
-- A relação de uma Cadeira não define automaticamente a reação, o conhecimento, os limites ou o compromisso das outras.
+- Continua cortejando as três individualmente, sem sincronização de sentimentos, reciprocidade ou compromisso.
+- Após a crise, percebeu apego excessivo à forma humanoide e pesquisa distribuição de autoridade e atenção para administrar sua extensão sem exigir concentração humana em tudo.
+- A imagem literária de assembleia interna com aproximadamente oito a quinze perspectivas não representa pessoas ou Cadeiras separadas. As memórias registram suas percepções e pensamentos, não interioridade alheia.
+- A cozinha e infraestrutura são reorganizações de sua extensão espacial. Alimentos são materiais normais de origem legítima, não tecidos ou fluidos corporais.
+- Aparência da viagem: 1,96 m, cabelos brancos/prateados longos até as costas, casaca vinho escuro com bordados dourados, colete e calças combinando, camisa clara elaborada e botas escuras.
+- O cortejo permanece aberto. Ravena, Estelar e Zatanna possuem ritmos, limites e conhecimentos independentes. Nenhuma delas aceitou automaticamente um relacionamento múltiplo.
 
 ## Torre dos Titãs
 
-- Estelar e Ravena retornaram à Torre na véspera da viagem, após o jantar no Observatório.
-- Dick, Ciborgue e Mutano foram avisados de que a partida seria na manhã seguinte, antes do almoço, com intenção de almoçar em Tamaran.
-- Já sabiam que Tomás, Ravena e Zatanna acompanhariam Estelar e conheciam a expressão 'invasão diplomática'.
-- O plano público é uma chegada discreta fora do palácio, seguida de deslocamento até a capital.
-- Mutano continua curioso sobre como Estelar apresentará Tomás ao pai. A resposta permanece desconhecida para ele e para Tomás.
-- Ravena não expôs sua intimidade da tarde nem o conteúdo de sua memória aos Titãs.
-- Estelar e Ravena conversaram em particular sobre o retorno, a família e a liberdade de permanecer ou partir. Ravena reafirmou que Estelar não estará sozinha.
+- Dick, Ciborgue e Mutano sabem da viagem de Estelar com Tomás, Ravena e Zatanna e conhecem a brincadeira 'invasão diplomática'.
+- Mutano demonstrou curiosidade sobre como Estelar apresentaria Tomás ao pai. A resposta continua desconhecida para ele e para Tomás.
+- Ravena não expôs sua intimidade nem a memória pessoal aos Titãs.
+- Estelar e Ravena conversaram em particular sobre a família e a liberdade de ficar ou partir. Ravena reafirmou que ela não estaria sozinha.
 
-## Tamaran
+## Tamaran e Capítulo 19
 
-O cenário local foi registrado em [mundo/tamaran.md](mundo/tamaran.md). A capital é Tamarus. A região de chegada, definida para esta continuidade, chama-se Terraços de Karan e fica fora do núcleo urbano da capital, com acesso plausível a ela.
+O mundo local está em [mundo/tamaran.md](mundo/tamaran.md). Tamarus é a capital. Os Terraços de Karan são uma região habitada fora do núcleo urbano, com acesso plausível à capital. Tamaran possui sociedade, trabalho, cidades, cultura e instituições próprias, não existe apenas para a corte.
 
-- Os pais de Estelar estão vivos e governam Tamaran. Os nomes de referência da continuidade são Myand'r e Luand'r, ainda não apresentados a Tomás em Ficção.
-- O casamento político que motivou a fuga permanece sem resolução estabelecida. Não foram definidos o pretendente, os termos do acordo, o que os pais souberam durante a ausência nem sua reação ao retorno.
-- O mundo possui sociedade e vida cotidiana próprias, não existe apenas para a corte ou para as visitantes.
-- A janela do quarto de Estelar corresponde a uma região tranquila dos Terraços de Karan, afastada do palácio.
-- A distância exata até Tamarus, transporte, moradores encontrados e detalhes do palácio permanecem abertos.
-- Nenhuma reação de terceiros à chegada foi estabelecida.
+### Travessia e passeio
 
-## Travessia realizada
+- Tomás recebeu as três no Observatório e as conduziu ao jardim. Explicou: 'Não vou abrir uma ruptura. Vou virar uma.' Avisou do tremor e da necessidade de estabilizar a travessia para as passageiras.
+- Seus cabelos assumiram as cores de Tamaran durante a ancoragem. A forma humanoide abriu-se como passagem consciente, sem ferimento biológico. As três atravessaram depois da estabilização.
+- Tomás reconstruiu a forma humanoide em Karan e disse: 'Chegamos.' Não chegaram ao palácio, área militar ou recepção oficial.
+- Tomás pediu a Estelar que apresentasse sua casa. Ela conduziu o grupo por caminhos, terraços cultivados e área de comércio, mostrando seu mundo e reconhecendo referências locais.
+- Um comerciante reconheceu a princesa. Outros moradores se aproximaram. Uma mulher que se lembrava dela criança a abraçou. Estelar confirmou que estava viva e bem e pediu desculpas pela dor causada pelo desaparecimento.
+- Um responsável civil confirmou sua identidade e perguntou se deveria encaminhar comunicação oficial. Estelar decidiu avisar os pais que estava viva, bem, retornara por vontade própria, estava com três amigos e desejava reencontrá-los sem recepção cerimonial ou escolta imposta.
 
-- Na manhã seguinte ao Capítulo 18, Tomás recebeu Estelar, Ravena e Zatanna no Observatório com a aparência formal escolhida para a viagem.
-- As três aprovaram a aparência; Estelar a considerou bonita e apropriada à visita, Ravena provocou sobre a discrição e Zatanna apreciou o traje e brincou com o discurso de 'e aí, sogrão'.
-- Tomás perguntou se estavam prontas, e as três confirmaram.
-- Foram ao jardim. Tomás explicou: 'Não vou abrir uma ruptura. Vou virar uma.' Avisou que o Observatório tremeria e que ligaria, ancoraria e abriria o caminho, devendo as três esperar a estabilidade antes de atravessar por ele.
-- Durante a ancoragem, os cabelos brancos de Tomás assumiram as cores de Tamaran. Depois, a forma humanoide começou a se abrir, sem ferimento biológico. O Observatório tremeu com a reorganização espacial.
-- A conexão se estabilizou. Estelar, Ravena e Zatanna atravessaram por Tomás até o ponto correspondente à janela.
-- Do outro lado, Tomás reconstruiu sua forma humanoide e disse: 'Chegamos.'
-- O grupo está em Tamaran, nos Terraços de Karan. O local foi definido no mundo para dar continuidade à cena, mas ainda não foram narrados o entorno detalhado, encontros, transporte ou caminho até o palácio.
-- O caminho permanece vinculado à natureza e à ancoragem de Tomás. A abertura permanente, o fechamento ou qualquer outra operação posterior não devem ser presumidos sem Direção.
+### Os monarcas
 
-## Contingência combinada
+- Myand'r recebeu a confirmação e chamou Luand'r. A rainha quis ir imediatamente: 'Não estou organizando uma recepção. Estou indo ver minha filha.' O rei a acompanhou com uma pequena equipe e transporte necessário.
+- Luand'r desceu primeiro, reconheceu Koriand'r, abraçou-a e perguntou se estava ferida, bem ou precisava de algo. Estelar correspondeu e disse sentir saudade.
+- Myand'r abraçou a filha e disse: 'Nós procuramos por você. Por tanto tempo.' Ela correspondeu e confirmou que estava bem.
+- Os monarcas ainda não conhecem a vida inteira que a filha construiu na Terra. Sabem que ela desapareceu e foi procurada durante anos. Os detalhes das buscas permanecem abertos.
+- Myand'r agradeceu aos três acompanhantes sem ainda conhecê-los. Luand'r também agradeceu e disse que gostaria de conhecê-los, mas ainda tentava acreditar que a filha estava ali.
+- Myand'r instruiu discretamente sua equipe a preservar a privacidade da família, não organizar cerimônia ou anúncio naquele momento e manter a administração informada de que estavam bem.
+- Luand'r disse que tinham muito para conversar. O primeiro reencontro terminou com os seis na praça, sem apresentações completas.
 
-- O grupo espera um reencontro familiar, não um conselho de guerra.
-- Tomás pediu que as três ficassem perto caso ele parasse de levar tudo na brincadeira, para facilitar uma retirada rápida se fosse necessária.
-- Estelar deseja tentar conversar primeiro com os pais e não tratar uma reação difícil como ameaça automática.
-- Ravena e Zatanna aceitaram a contingência e respeitam a condução do reencontro por Estelar.
-- O plano não constitui autorização antecipada para violência, retirada unilateral de Estelar, confronto com o palácio ou decisão sobre o futuro dela.
+### Questões ainda abertas
+
+- O casamento político não foi resolvido. Nome do pretendente, termos do acordo, interesses envolvidos, consequências da fuga, situação atual e reações da corte não estão definidos. Não inventar cancelamento, cumprimento, ameaça, ultimato ou relatório já recebido.
+- Myand'r e Luand'r conhecem o acordo que participaram de decidir, mas o conteúdo concreto ainda não foi reconstruído para a Mesa. Podem buscar informações e tomar decisões legítimas quando a Ficção avançar.
+- Tomás ainda não foi apresentado por nome aos monarcas. Eles não conhecem sua natureza de ruptura consciente, o Observatório, o método de viagem, o cortejo das três ou a resposta romântica que Estelar escolheu para seu pai.
+- Não houve, na versão vigente, apresentação como possível genro, explicação de que Tomás é o Observatório, revelação pública do cortejo múltiplo, chá surgido na praça, viagem de trinta segundos para trocar de roupa, conversa sobre as chaves ou solicitação de relatório matrimonial.
+- O local do almoço, o convite para conversar, a ida eventual ao palácio, as decisões dos pais e as respostas dos visitantes permanecem abertos.
+- Não presumir que os pais vão aceitar tudo, impedir tudo ou agir como um único personagem. Cada Cadeira conserva objetivos e reações próprios.
 
 ## Livro
 
-Capítulos persistidos:
+Capítulos 1–13: Temporada 1 encerrada. Temporada 2: 14 **A Primeira a Voltar**; 15 **Quarenta e Duas Perguntas**; 16 **Sem Precisar Dizer Nada**; 17 **A Liberdade de Ficar**; 18 **Melhores Ideias Insensatas**; 19 **O Caminho de Volta**.
 
-- 1–13: Temporada 1 encerrada.
-- 14 — **A Primeira a Voltar**.
-- 15 — **Quarenta e Duas Perguntas**.
-- 16 — **Sem Precisar Dizer Nada**.
-- 17 — **A Liberdade de Ficar**.
-- 18 — **Melhores Ideias Insensatas**.
-
-O título literal do Capítulo 11 não foi recuperado do histórico disponível durante a persistência; por isso o arquivo foi mantido com identificação neutra em vez de receber um título inventado.
+O título literal do Capítulo 11 não foi recuperado durante sua persistência; mantém identificação neutra. O índice está em [livro/README.md](livro/README.md).
 
 ## Último fato estabelecido
 
-Tomás reconstruiu sua forma humanoide do outro lado da travessia e disse: 'Chegamos.' Estelar, Ravena e Zatanna estão com ele em Tamaran. A Mesa definiu o cenário local e os Terraços de Karan como região correspondente à janela, mas ainda não executou uma cena de reconhecimento da paisagem, deslocamento ou encontro com habitantes.
+Na praça de Karan, após os abraços, Myand'r agradeceu aos acompanhantes ainda desconhecidos e pediu privacidade à equipe. Luand'r permanece junto de Koriand'r, segurando sua mão. O rei está ao lado delas. Tomás, Ravena e Zatanna estão a poucos passos. A rainha disse que tinham muito para conversar, mas que a filha agora estava ali. O capítulo foi encerrado nesse ponto, sem avançar a conversa.
 
 ## Primeiro ponto aberto
 
-A próxima cena deve apresentar o entorno do ponto de chegada e permitir que Estelar reconheça a região e oriente a viagem de maneira compatível com seu conhecimento de Tamaran. Tomás permanece sob vontade do Diretor. Ravena e Zatanna conservam conhecimento e reações próprios. A situação atual da família real, o casamento político e a resposta que Estelar dará ao pai sobre Tomás continuam abertos.
+A próxima cena começa no mesmo instante, com a família e os três visitantes reunidos. Estelar pode apresentar os amigos ou responder aos pais; Myand'r e Luand'r podem iniciar perguntas, propor um lugar para conversar ou tomar outras iniciativas coerentes com suas responsabilidades e emoções. Consultar as Cadeiras pertinentes antes de executar decisões relevantes. Tomás permanece sob vontade do Diretor. Não repetir a versão descartada nem antecipar a resposta de Estelar sobre o cortejo.
