@@ -25,3 +25,4 @@ Livro canônico da campanha.
 16. [Sem Precisar Dizer Nada](016-sem-precisar-dizer-nada.md)
 17. [A Liberdade de Ficar](017-a-liberdade-de-ficar.md)
 18. [Melhores Ideias Insensatas](018-melhores-ideias-insensatas.md)
+19. [O Caminho de Volta](019-o-caminho-de-volta.md)
