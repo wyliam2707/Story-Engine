@@ -1,88 +1,104 @@
 # Arco Preparado — O Desafio de Karna
 
-## Natureza do registro
+## Natureza e autoridade
 
-Este documento reúne a história política definida pela Direção e o roteiro preparado para a continuação da viagem a Tamaran. Os fatos de mundo abaixo estão estabelecidos; os acontecimentos futuros são direção narrativa, não cenas já executadas. O registro substitui propostas anteriores incompatíveis, especialmente a resolução por simples tratado comercial, a possibilidade de Koriand'r ou Myand'r disputarem pessoalmente a cláusula e a ideia de que Tomás ofereceria recursos a Myand'r após o duelo. A oferta imaginada pelo Diretor é dirigida a Karras.
+Este documento reúne a história política estabelecida e a direção narrativa da continuação de O Observatório. Fatos de mundo são antecedentes existentes; acontecimentos futuros são roteiro, não Ficção já executada. As decisões do Diretor sobre o arco devem ser seguidas, sem tratar seus marcos como sugestões descartáveis. A execução concreta preserva as ações declaradas por Tomás e as decisões das Cadeiras pertinentes.
 
-A Direção deseja um conflito curto, com causa política legítima e resolução alcançável em poucos dias. Não prolongar o acordo matrimonial em uma saga artificial, não fabricar conspirações ou crises para impedir sua resolução e não transformar o pretendente em vilão descartável. O mundo continua funcionando fora das cenas de Tomás.
+O objetivo é um conflito curto, com causa política legítima e resolução alcançável em quatro dias de visita. Não prolongar artificialmente o casamento, fabricar conspirações para impedir a resolução, transformar Karras em vilão descartável ou interromper continuamente o cotidiano com crises. O mundo político continua funcionando fora das cenas do protagonista.
+
+Este registro substitui versões anteriores incompatíveis, especialmente o cronograma de três dias, a conversa privada do segundo dia que já apresentaria o desafio, a reunião encenada como uma apresentação preparada para Tomás, a resolução por simples tratado comercial, a contestação por Koriand'r ou Myand'r e a oferta de recursos a Myand'r após o duelo. A oferta imaginada pelo Diretor é dirigida a Karras.
 
 ## História política estabelecida
 
-Tamaran saiu de um conflito com a Cidadela em posição militar e econômica difícil. Suas rotas comerciais estavam vulneráveis, parte da frota precisava ser reconstruída e uma nova guerra poderia comprometer sua independência.
+Tamaran saiu de um conflito com a Cidadela em posição militar e econômica difícil. Suas rotas comerciais ficaram vulneráveis, parte da frota precisava ser reconstruída e outra guerra poderia comprometer sua independência.
 
-Karna é uma potência regional independente, com uma frota capaz de auxiliar a defesa de Tamaran e controle sobre um corredor estratégico de abastecimento. O príncipe Karras, herdeiro de Karna, participou da negociação de uma aliança entre as casas reais. O casamento com Koriand'r era a garantia dinástica central: a união produziria um herdeiro com direitos reconhecidos nas duas casas, vinculando seus interesses políticos e sucessórios por uma geração. As cortes apoiaram o acordo por essa razão. Uma simples substituição por comércio, dinheiro ou defesa não oferecia a mesma garantia e, portanto, não era uma solução que Myand'r pudesse ter adotado trivialmente quando a filha recusou.
+Karna é uma potência regional independente, com frota capaz de auxiliar a defesa de Tamaran e controle sobre um corredor estratégico de abastecimento. O príncipe Karras, herdeiro de Karna, participou da negociação da aliança entre as casas reais. O casamento com Koriand'r era a garantia dinástica central: a união produziria um herdeiro com direitos reconhecidos nas duas casas, vinculando interesses políticos e sucessórios por uma geração. As cortes apoiaram o acordo por essa razão. Comércio, dinheiro ou defesa isoladamente não ofereciam garantia equivalente, portanto não eram uma substituição trivial disponível quando Koriand'r recusou.
 
-Myand'r aceitou o acordo após consultar o Conselho da Coroa. Acreditava estar protegendo Tamaran, não punindo ou descartando Koriand'r. Seu erro foi insistir que a necessidade política justificava exigir o sacrifício pessoal da filha mesmo após sua recusa. Luand'r apoiava a necessidade de uma aliança, mas discordou dessa insistência e defendeu outras garantias e uma negociação mais longa. Não conseguiu impedir a ruptura familiar e também carrega culpa pelo que aconteceu.
+Myand'r aceitou o acordo depois de consultar o Conselho da Coroa. Acreditava proteger Tamaran, não punir ou descartar a filha. Insistiu na necessidade política mesmo após a recusa dela, acreditando que compreenderia a responsabilidade. Luand'r apoiava a necessidade de uma aliança, mas discordou da insistência no casamento e defendeu outras garantias e uma negociação mais longa. Não conseguiu impedir a ruptura familiar e também carrega culpa pelo ocorrido.
 
-Koriand'r recusou o casamento e fugiu antes da cerimônia. O desvio de sua nave a levou à Terra. Durante os anos de ausência, os pais a procuraram, enfrentaram pistas falsas e não obtiveram confirmação de sua morte. O casamento não foi celebrado nem automaticamente cancelado.
+Koriand'r recusou o casamento e fugiu antes da cerimônia. O desvio de sua nave a levou à Terra. Durante sua ausência, os pais a procuraram, enfrentaram pistas falsas e nunca obtiveram confirmação de sua morte. O casamento não foi celebrado nem automaticamente cancelado.
 
-Karna não declarou guerra após a fuga, mas a ratificação definitiva da aliança foi suspensa. Os reinos mantiveram acordos provisórios de comércio e defesa, menos vantajosos e sujeitos a renovação. Karras defendeu essa continuidade em vez de uma retaliação militar. A fuga o expôs politicamente perante sua corte. Ele não considera que possua Koriand'r, mas entende que sua casa assumiu compromissos e sofreu perda de prestígio. Deseja defender a posição de Karna sem ser reduzido a um pretendente apaixonado ou a um antagonista cruel.
+Karna não declarou guerra, mas suspendeu a ratificação definitiva da aliança. Os reinos mantiveram acordos provisórios de comércio e defesa, menos vantajosos e sujeitos a renovação. Karras defendeu essa continuidade em vez de retaliação militar. A fuga o expôs politicamente perante sua corte. Ele entende que sua casa assumiu compromissos e sofreu perda de prestígio, e possui razões legítimas para defender sua posição.
 
 ## Corte e interesses
 
-O Conselho da Coroa de Tamaran reúne responsáveis pela administração, defesa, diplomacia e economia. Seus membros não substituem os monarcas, mas possuem influência e interesses reais.
+O Conselho da Coroa de Tamaran reúne responsáveis pela administração, defesa, diplomacia e economia. Seus membros não substituem os monarcas, mas possuem influência, responsabilidades e opiniões próprias.
 
-- Vaelor, chanceler, foi um dos principais defensores do tratado. Considera a aliança essencial à estabilidade e teme as consequências diplomáticas do retorno da princesa. Não deseja prejudicá-la, mas acredita que os interesses do reino devem prevalecer sobre preferências pessoais da família real.
-- Serak, almirante, concentra-se nas garantias militares e na proteção das rotas. Considera o tratado útil, mas não insubstituível se existir outra solução realmente equivalente.
+- Vaelor, chanceler, foi um dos principais defensores do tratado. Considera a aliança essencial e teme as consequências diplomáticas do retorno da princesa. Não deseja prejudicá-la, mas acredita que os interesses do reino devem prevalecer sobre preferências pessoais da família real.
+- Serak, almirante, concentra-se nas garantias militares e na proteção das rotas. Considera o tratado útil, mas pode reconhecer outra solução realmente equivalente.
 - Famílias nobres, comerciantes e oficiais possuem investimentos e prestígio ligados à aproximação com Karna. Alguns apoiam o acordo por convicção; outros temem perder influência. A corte não possui uma vontade única.
 
-A volta de Koriand'r afeta esses interesses. A administração já recebeu a confirmação de que ela retornou viva, voluntariamente e acompanhada por três visitantes da Terra. O pedido de privacidade de Myand'r não paralisa o governo. Vaelor prepara informações sobre o tratado, Serak atualiza as garantias de defesa e a chancelaria prepara a comunicação diplomática a Karna. Esses processos não significam que os pais ou os visitantes tenham recebido automaticamente todas as informações. O conhecimento de cada personagem deve seguir fontes e acontecimentos legítimos.
+A administração já recebeu a confirmação de que Koriand'r retornou viva, voluntariamente e acompanhada por três visitantes da Terra. O pedido de privacidade de Myand'r não paralisa o governo. Vaelor prepara informações sobre o tratado, Serak atualiza as garantias de defesa e a chancelaria prepara comunicação diplomática a Karna. Esses processos não atribuem automaticamente seu conteúdo aos monarcas ou visitantes. O conhecimento segue fontes e acontecimentos legítimos.
 
-## A tradição de contestação
+## Tradição de contestação
 
-O tratado reconhece uma tradição de Karna: outro pretendente, pessoalmente reconhecido pela princesa, pode desafiar o pretendente escolhido pela família. Não se trata de um campeão contratado, mas de alguém com interesse legítimo em disputar a união. O vencedor conquista o direito de desposá-la conforme a tradição. O resultado possui validade política e é reconhecido pelas cortes.
+O tratado reconhece uma tradição de Karna: outro pretendente, pessoalmente reconhecido pela princesa, pode desafiar o pretendente escolhido pela família. Não se trata de um campeão contratado, mas de alguém com interesse legítimo em disputar a união. O vencedor conquista o direito de desposá-la conforme a tradição. O resultado possui validade política reconhecida pelas cortes.
 
-Myand'r não pode lutar como substituto, pois é parte responsável pelo acordo. A tradição não permite que Koriand'r conteste pessoalmente a disputa reservada aos pretendentes. Antes da fuga, não havia outro pretendente reconhecido capaz de apresentar o desafio. Essas condições explicam por que a saída não foi usada anteriormente.
+Myand'r não pode lutar como substituto porque é parte responsável pelo acordo. A tradição não permite que Koriand'r conteste pessoalmente a disputa reservada aos pretendentes. Antes da fuga, não havia outro pretendente reconhecido capaz de apresentar o desafio. Isso explica por que a saída não foi utilizada anteriormente.
 
-Agora Tomás possui legitimidade porque Koriand'r autorizou que ele a cortejasse. Myand'r pode apresentar-lhe diretamente a possibilidade de lutar pela mão da filha contra Karras. Não é preciso inventar compensações, impedimentos matrimoniais convenientes, novas exceções ou discursos recorrentes sobre autonomia. A tradição define o significado do desafio; sentimentos, desejos, reações e decisões concretas pertencem às Cadeiras e ao Diretor.
+Agora Tomás possui legitimidade porque Koriand'r autorizou que ele a cortejasse. A tradição já era conhecida pelos governantes, mas a possibilidade concreta não existia antes. O rei pode identificá-la durante a discussão do Conselho e apresentar diretamente a Tomás a possibilidade de lutar pela mão da filha contra Karras. Não acrescentar compensações, impedimentos matrimoniais convenientes, exceções ou ressalvas morais para enfraquecer o significado da tradição. Sentimentos, desejos, reações e decisões pertencem às Cadeiras e ao Diretor.
 
 ## Karras
 
-Príncipe herdeiro de Karna, governante em formação e guerreiro de elite. Recebeu treinamento desde jovem e participou de campanhas militares reais. É orgulhoso, disciplinado, confiante, tecnicamente competente e respeitado por seus soldados. Tem razões pessoais e políticas para defender o acordo.
+Príncipe herdeiro de Karna, governante em formação e guerreiro de elite. Treinado desde jovem, participou de campanhas militares reais. É orgulhoso, disciplinado, confiante, tecnicamente competente e respeitado por seus soldados. Possui interesses pessoais e políticos próprios, não é um pretendente apaixonado genérico nem antagonista cruel.
 
-Sua capacidade de combate está pelo menos no nível de Estelar. Possui força e resistência ligeiramente superiores, voo, projeção de energia e experiência elevada em combate corpo a corpo. Estelar pode ser mais ágil e explosiva; Karras é técnico, resistente e acostumado a confrontos prolongados. Ele não precisa ser artificialmente elevado ao nível cósmico de Tomás nem reduzido a um adversário incompetente.
+Sua capacidade de combate está pelo menos no nível de Estelar. Possui força e resistência ligeiramente superiores, voo, projeção de energia e experiência elevada em combate corpo a corpo. Estelar pode ser mais ágil e explosiva; Karras é técnico, resistente e acostumado a confrontos prolongados. Não elevar artificialmente seu poder ao nível cósmico de Tomás nem reduzi-lo a um adversário incompetente.
 
-Karras lutará pessoalmente no desafio. Não delegará o combate a um campeão. Sua Cadeira deve preservar sua inteligência, personalidade, orgulho, conhecimento e reações próprias. A direção de vitória de Tomás não autoriza fazê-lo perder por conveniência mediante incompetência inventada.
+Karras lutará pessoalmente no desafio, sem delegá-lo a campeão. Sua Cadeira preserva inteligência, personalidade, orgulho, conhecimento e reações próprias. A direção de vitória de Tomás não autoriza incompetência inventada nem rendição por conveniência.
 
-## Cronograma preparado
+## Cronograma preparado — quatro dias
 
-### Dia 1 — Hoje
+### Dia 1 — Hoje: reencontro e cotidiano
 
-O reencontro e o almoço em Karan continuam. Myand'r e Luand'r aproveitam a presença da filha, mas continuam governando. A corte e a administração reagem à notícia conforme seus próprios processos. Não antecipar aos personagens informações que ainda não receberam.
+O almoço em Karan continua. Estelar mostra seu mundo aos amigos e aproveita os pais. Myand'r e Luand'r participam como família, mas continuam governando. A preocupação política existe ao fundo, com informações e instruções discretas conforme necessário. Não antecipar aos personagens informações que ainda não receberam.
 
-### Dia 2 — O aviso e as cartas na mesa
+### Dia 2 — Retorno ao palácio e aviso
 
-A chancelaria informa Myand'r de que Karras está a caminho e chegará no dia seguinte, motivado pela notícia do retorno de Koriand'r e pela situação do tratado. O rei conversa com Luand'r e toma a iniciativa de procurar a filha e Tomás para uma conversa reservada. Luand'r participa. Não é uma audiência pública nem uma armadilha.
+O grupo retorna ao palácio durante a tarde. A chancelaria informa Myand'r de que Karras está a caminho e chegará no quarto dia, motivado pelo retorno de Koriand'r e pela situação do tratado. O rei conversa com Luand'r e prepara uma reunião do Conselho para o terceiro dia. Não substituir essa etapa por uma conversa privada que já resolva ou apresente toda a questão do desafio. O retorno ao palácio não significa que Tomás ou as visitantes conheçam automaticamente o aviso.
 
-Myand'r explica a causa política do casamento, o que aconteceu durante a ausência, os compromissos ainda existentes e a chegada de Karras. Assume sua responsabilidade pelo passado sem fingir que o problema político desapareceu. Luand'r pode apresentar sua própria perspectiva e discordar do marido. O rei coloca a tradição de contestação na mesa e informa Tomás de que, por ser um pretendente reconhecido, pode desafiar Karras pela mão de Koriand'r.
+### Dia 3 — Conselho da Coroa
 
-A Cadeira de Estelar já apresentou, em consulta de preparação, uma posição favorável à possibilidade: ela gosta de Tomás, gostaria que fosse ele a disputar sua mão e considera a ideia pessoalmente romântica, embora possa sentir preocupação com o combate. Essa consulta não é uma fala já executada e não substitui a reação da Cadeira quando a cena ocorrer. Não forçar a personagem a repetir discursos sobre liberdade a cada menção ao casamento.
+Myand'r convoca o Conselho porque precisa definir a posição de Tamaran antes da chegada de Karras. A reunião é uma deliberação real de governo, não uma encenação com solução previamente conhecida pelos personagens. O rei preside, escuta, questiona e avalia opiniões divergentes. Vaelor defende a importância da garantia dinástica, Serak apresenta as consequências militares, outros conselheiros podem defender renegociação, manutenção dos acordos provisórios ou posições distintas. Luand'r participa como rainha, com opinião e autoridade próprias.
 
-### Dia 3 — A chegada e o desafio
+Koriand'r e Tomás são convidados a participar. O rei já sabe do cortejo pelo almoço, mas o Conselho ainda não possui essa informação oficialmente. Quando a presença e a posição de Tomás se tornam relevantes, Myand'r pergunta à filha quem ele é para ela e se ela autorizou que a cortejasse. A resposta pertence à Cadeira de Estelar. Não repetir a pergunta por esquecimento do que o rei já sabe.
 
-Karras chega a Tamaran com uma delegação oficial pequena para tratar do acordo. A direção é que defenda sua posição e lute pessoalmente se Tomás apresentar o desafio. A situação deve caminhar para uma resolução concreta em poucas cenas significativas, sem uma sequência artificial de obstáculos.
+A confirmação formal permite que Myand'r perceba uma possibilidade concreta que não existia antes: há agora um pretendente reconhecido capaz de contestar o compromisso. O rei conhece a tradição, mas não precisa ter planejado desde o início utilizá-la. Pode interromper a discussão e consultar Vaelor sobre a validade da cláusula. O chanceler confirma as condições e os conselheiros discutem as consequências políticas reais.
+
+Koriand'r conhece o casamento que motivou sua fuga. Não narrar que descobre sua existência pela primeira vez. Pode reconhecer que a discussão se aproxima do antigo acordo, perguntar a respeito e descobrir a situação atual, a chegada de Karras e a possibilidade concreta de contestação. Myand'r explica o problema, a tradição e as consequências, então pergunta a Tomás o que pensa da possibilidade de desafiar Karras pela mão de Koriand'r. Dar espaço às respostas, uma pergunta de cada vez, sem despejar todas as intervenções por cima do protagonista.
+
+### Opiniões preparatórias das Cadeiras
+
+Estelar considera coerente participar da reunião, conhece sua corte e responderia com franqueza sobre o cortejo. Gosta de Tomás, autorizou sua aproximação e considera pessoalmente romântica a possibilidade de ele disputar sua mão. Em consulta anterior, afirmou que gostaria que fosse ele. Pode sentir expectativa e preocupação com um combate real. Não pré-escrever sua reação completa nem obrigá-la a repetir discursos sobre liberdade. A Cadeira decide sua resposta concreta quando a cena ocorrer.
+
+Myand'r convoca o Conselho por responsabilidade de governo, não para conduzir uma apresentação teatral ao pretendente. Quer ouvir posições, compreender o que Tamaran pode sustentar e encontrar uma saída para o compromisso sem repetir o erro anterior. A pergunta sobre Tomás serve para conhecer formalmente a posição da filha perante o Conselho. A confirmação do cortejo lhe permite identificar a cláusula como alternativa concreta. Ele pode colocá-la na mesa, ouvir a avaliação do chanceler e dos demais, e consultar Tomás sem presumir sua aceitação.
+
+Luand'r participa como rainha, não apenas como mãe ou mediadora. Procura uma saída legítima que preserve Tamaran e não repita a insistência do passado. Pode discordar de Vaelor quando este tratar o casamento como única solução, mas sabe que comércio ou dinheiro não substituem trivialmente a garantia dinástica. Considera seriamente a cláusula quando identificada e deseja condições claras para que o resultado tenha validade perante as duas cortes. Não presume conhecer a extensão dos poderes de Tomás nem tenta decidir por Koriand'r.
+
+Essas opiniões foram aprovadas como preparação do arco. Não são falas executadas, nem impedem que as Cadeiras reajam naturalmente aos acontecimentos concretos. A reunião deve possuir opiniões diversas, mas não precisa se prolongar por uma sucessão artificial de obstáculos.
+
+### Dia 4 — Karras e resolução
+
+Karras chega com uma pequena delegação oficial para tratar do compromisso. A direção é que defenda sua posição e lute pessoalmente se Tomás apresentar o desafio. O dia deve conduzir à resolução concreta do conflito principal em poucas cenas significativas. O desafio não foi apresentado nem aceito ainda na Ficção.
 
 ## Direção do duelo
 
-O Diretor pretende que Tomás vença, mas não pretende matar nem humilhar Karras. O duelo será privado, com poucas testemunhas e validade política. O local deve ser um corpo celeste desabitado, distante de Tamaran e de rotas habitadas, com espaço para combate aéreo e manifestações dimensionais de grande escala. A escolha evita que Tomás precise restringir sua verdadeira natureza por medo de destruir Tamaran. Não realizar o combate em seu próprio domínio para lhe conceder uma vantagem artificial, nem estabelecer limitações que contrariem suas capacidades.
+O Diretor pretende que Tomás vença, sem matar ou humilhar Karras. O duelo será privado, com poucas testemunhas e validade política, em um corpo celeste desabitado, distante de Tamaran e das rotas habitadas. O local deve permitir combate aéreo e manifestações dimensionais de grande escala, evitando que Tomás precise restringir sua natureza por medo de destruir Tamaran. Não realizar o combate no próprio domínio de Tomás para lhe conceder vantagem artificial, nem estabelecer limitações que contrariem suas capacidades.
 
-As condições concretas, o local exato, a forma de deslocamento e as testemunhas serão definidos na Ficção. O combate pode terminar por rendição, incapacidade de continuar ou reconhecimento inequívoco da vitória; não é uma luta até a morte.
+Local exato, deslocamento, condições e testemunhas serão definidos na Ficção. Não é uma luta até a morte. A direção de vitória deve ser executada por ações concretas, respeitando a competência de Karras e sem predeterminar cada golpe.
 
 Progressão desejada pelo Diretor:
 
-1. Tomás começa em forma humana, lutando em uma escala próxima à de Karras e demonstrando seus poderes. Karras deve ter oportunidade real de mostrar força, técnica, resistência, adaptação e contra-ataques. O equilíbrio inicial decorre da escolha de Tomás de atuar nessa escala, não de um enfraquecimento inventado.
-2. Tomás revela o que é de verdade: uma ruptura consciente. A manifestação de sua natureza dimensional serve como intimidação e revela uma diferença de escala que o combate inicial não mostrava. A revelação também é relevante para Myand'r, que ainda não compreende plenamente a natureza de Tomás.
-3. Tomás retorna à forma humana e o confronto termina com sua vitória, conforme a direção pretendida, sem matar ou humilhar Karras. A coreografia, as ações voluntárias de Tomás e as reações dos demais não ficam pré-escritas. Não narrar ações do protagonista que o Diretor ainda não declarou.
-4. Após o duelo, Tomás pretende conversar com Karras e propor-lhe um acordo ou oferecer algo útil a Karna. O Diretor mencionou mapas, caminhos, recursos ou alguma coisa de que Karras realmente precise. A necessidade específica de Karna, o conteúdo da oferta, os termos e a aceitação ainda não foram escolhidos. Não inventar uma oferta definitiva antes de a Direção desenvolvê-la.
+1. Tomás começa em forma humana, lutando em escala próxima à de Karras e demonstrando seus poderes. Karras mostra força, técnica, resistência, adaptação e contra-ataques. O equilíbrio inicial decorre da escolha de Tomás de atuar nessa escala, não de enfraquecimento inventado.
+2. Tomás revela o que é de verdade: uma ruptura consciente. A manifestação serve como intimidação e demonstra a diferença de escala que o combate inicial não mostrava. A revelação também é relevante para Myand'r, que ainda não compreende plenamente sua natureza.
+3. Tomás retorna à forma humana e encerra o confronto com vitória, conforme a direção pretendida, sem matar ou humilhar Karras. A coreografia, as ações voluntárias do protagonista e as reações dos demais não ficam pré-escritas.
+4. Depois do duelo, Tomás pretende conversar com Karras e propor um acordo ou oferecer algo útil a Karna. O Diretor mencionou mapas, caminhos, recursos ou alguma coisa de que Karras realmente precise. A necessidade específica, o conteúdo da oferta, os termos e a aceitação ainda não foram escolhidos. Não inventar uma oferta definitiva antes de desenvolver essa parte com o Diretor.
 
-O encerramento emocional desejado é Karras com a honra preservada, grato por uma oferta útil e ainda assustado ou profundamente impressionado pelo que testemunhou. Sua gratidão não deve ser confundida com submissão, amizade automática ou perda de personalidade. O temor pode coexistir com respeito, orgulho e senso de dever. O foco desta parte do planejamento é Karras, não uma proposta de recursos a Myand'r ou a Tamaran.
+O encerramento emocional desejado é Karras com a honra preservada, grato por uma oferta útil e ainda assustado ou profundamente impressionado pelo que testemunhou. Gratidão não implica submissão, amizade automática ou perda de personalidade. Temor pode coexistir com respeito, orgulho e senso de dever. O foco da oferta posterior é Karras, não Myand'r ou Tamaran.
 
-## Autoridade, continuidade e execução
+## Continuidade e execução
 
-Este é um roteiro preparado sob direção do usuário. Os marcos autorais devem ser seguidos, não tratados como sugestões descartáveis. A execução concreta permanece sujeita às declarações de Tomás e às decisões das Cadeiras pertinentes. A Direção pode ajustar os marcos durante a preparação ou a Ficção.
+Não confundir preparação, Mesa, Ficção e Registro. Não narrar os eventos futuros como já ocorridos. A cena atual permanece no almoço do primeiro dia em Karan, depois das revelações dos cortejos e da brincadeira sobre o conselho interno de Tomás. Myand'r, Luand'r, Estelar, Ravena, Zatanna e Tomás estão presentes. A última troca envolveu Tomás prometendo contar a Estelar sobre o conselho interno, com Ravena e Zatanna compartilhando a brincadeira. O conteúdo privado do livro não foi explicado a Estelar nem aos pais.
 
-Não confundir preparação, Mesa e Ficção. Não registrar o duelo como ocorrido, nem antecipar a chegada de Karras ou a conversa do segundo dia. A cena atual permanece no almoço do primeiro dia em Karan, depois das revelações dos cortejos e da brincadeira sobre o conselho interno de Tomás. Myand'r, Luand'r, Estelar, Ravena, Zatanna e Tomás estão presentes. O almoço pode continuar naturalmente; o mundo político segue em paralelo.
+Tomás controla exclusivamente suas ações, falas e decisões voluntárias. Consultar Cadeiras pertinentes antes de reações materiais conforme Consulta Forte, aguardando aprovação do Diretor. Não transformar detalhes cotidianos em rodadas obrigatórias de todos os presentes. Personagens podem iniciar ações, discordar, desejar, sentir ciúmes, agir impulsivamente ou seguir tradições de acordo com sua personalidade. Não transferir conhecimento privado entre Cadeiras, antecipar resultados afetivos nem transformar autonomia em discurso obrigatório.
 
-Consultar as Cadeiras pertinentes antes de reações materiais, conforme a política de Consulta Forte, aguardando aprovação do Diretor. Não transformar cada detalhe cotidiano em uma rodada de seis reações. Dar espaço ao usuário para responder a uma pergunta de cada vez. Não controlar a vontade de Tomás, não transferir conhecimento privado entre personagens, não inventar conflitos artificiais e não transformar autonomia em um discurso obrigatório. Personagens adultos podem desejar, aceitar, recusar, provocar, sentir ciúmes, agir impulsivamente ou seguir tradições de acordo com sua personalidade e situação.
-
-As propostas anteriores de resolução por simples substituição comercial, compensação genérica ou vitória de um campeão escolhido pelo rei estão superadas por este roteiro. A oferta de mapas a Myand'r sugerida pelo Narrador está igualmente superada: a intenção atual do Diretor é negociar com Karras, e os detalhes ainda estão abertos.
+As propostas anteriores de simples substituição comercial, compensação genérica, impedimento matrimonial conveniente ou vitória de campeão escolhido pelo rei estão superadas. A intenção atual do Diretor é negociar com Karras após o duelo; os detalhes dessa proposta continuam abertos.
