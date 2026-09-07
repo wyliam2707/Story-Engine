@@ -27,3 +27,5 @@ Livro canônico da campanha.
 18. [Melhores Ideias Insensatas](018-melhores-ideias-insensatas.md)
 19. [O Caminho de Volta](019-o-caminho-de-volta.md)
 20. [Um Beijo e um Plano de Fuga](020-um-beijo-e-um-plano-de-fuga.md)
+21. [O Direito de Desafiar](021-o-direito-de-desafiar.md)
+22. [Mapas e uma Promessa de Amizade](022-mapas-e-uma-promessa-de-amizade.md)
