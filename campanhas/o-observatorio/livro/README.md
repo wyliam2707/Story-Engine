@@ -26,3 +26,4 @@ Livro canônico da campanha.
 17. [A Liberdade de Ficar](017-a-liberdade-de-ficar.md)
 18. [Melhores Ideias Insensatas](018-melhores-ideias-insensatas.md)
 19. [O Caminho de Volta](019-o-caminho-de-volta.md)
+20. [Um Beijo e um Plano de Fuga](020-um-beijo-e-um-plano-de-fuga.md)
