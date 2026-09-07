@@ -31,3 +31,4 @@ Livro canônico da campanha.
 22. [Mapas e uma Promessa de Amizade](022-mapas-e-uma-promessa-de-amizade.md)
 23. [As Condições do Desafio](023-as-condicoes-do-desafio.md)
 24. [O Príncipe e o Impossível](024-o-principe-e-o-impossivel.md)
+25. [O que fica depois do céu](025-o-que-fica-depois-do-ceu.md)
