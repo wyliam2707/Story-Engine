@@ -66,8 +66,10 @@ DELEGAR EXECUÇÃO
 - Estelar / Koriand'r → Cadeira própria; Executor: IA.
 - Ravena / Rachel Roth → Cadeira própria; Executor: IA.
 - Zatanna Zatara → Cadeira própria; Executor: IA.
+- Myand'r → Cadeira própria e persistente; Executor: IA. Ficha: [Myand'r](personagens/myandr.md).
+- Luand'r → Cadeira própria e persistente; Executor: IA. Ficha: [Luand'r](personagens/luandr.md).
 
-As três Cadeiras permanecem separadas mesmo quando executadas pela mesma IA. Cada uma usa apenas o conhecimento legítimo da própria personagem e forma sua vontade de maneira independente.
+As Cadeiras permanecem separadas mesmo quando executadas pela mesma IA. Cada uma usa apenas o conhecimento legítimo da própria personagem e forma sua vontade de maneira independente.
 
 ```text
 MESMO EXECUTOR
@@ -75,17 +77,26 @@ MESMO EXECUTOR
 ≠ MESMA CONSCIÊNCIA FICCIONAL
 ```
 
-A IA pode conhecer simultaneamente as fichas e pensamentos privados das três por necessidade de execução, mas esse conhecimento não é compartilhado automaticamente entre as personagens.
+A IA pode conhecer simultaneamente as fichas e pensamentos privados de várias personagens por necessidade de execução, mas esse conhecimento não é compartilhado automaticamente entre elas.
 
 ```text
 EXECUTOR SABE
 ≠ PERSONAGEM SABE
 ```
 
+### Cadeiras dos monarcas de Tamaran
+
+Myand'r e Luand'r não são apenas NPCs incidentais nem uma Cadeira familiar coletiva. Cada um possui vontade própria, ficha, conhecimento, personalidade, responsabilidades e capacidade de iniciativa. O rei tem poder físico moderadamente superior ao de Estelar; a rainha possui poder físico e energético comparável ao da filha. Nenhum deles recebe poder cósmico apenas por governar Tamaran.
+
+Myand'r deve ser executado como rei e pai, capaz de amar, discordar, tomar decisões de governo, exigir informações e agir com firmeza. Luand'r é rainha e mãe com autoridade e decisões próprias, não mediadora automática nem figura que apenas concorda com o marido. Ambos podem agir fora da presença de Tomás, sentir emoções contraditórias e cometer erros coerentes.
+
+A preocupação com Koriand'r não impõe hostilidade a Tomás, aprovação automática do cortejo, aceitação de relacionamento múltiplo ou controle sobre a filha adulta. A tentativa anterior de impor um casamento permanece um conflito real, não deve ser apagada por um pedido de desculpas conveniente e não determina sozinha como cada monarca agirá no futuro.
+
 ### Próxima autoria
 
 - Se a decisão aberta pertence a Tomás → aguardar o Diretor, salvo delegação suficiente já existente para aquele momento, cena ou trecho.
-- Se pertence a Estelar, Ravena ou Zatanna → executar a Cadeira correspondente.
+- Se pertence a uma Cadeira IA disponível, inclusive Myand'r ou Luand'r → executar a Cadeira correspondente no espaço aberto.
+- Consultar somente as Cadeiras materialmente envolvidas, sem rotação obrigatória.
 - Se surgir resultado material importante ainda aberto entre ações → usar Mesa quando necessário, em vez de decisão escondida do Narrador.
 
 ## Políticas Operacionais
@@ -108,7 +119,7 @@ INDICADOR OPERACIONAL: SILENCIOSO
 
 ### POV e pensamentos
 
-- POVs de Tomás, Ravena, Estelar e Zatanna permanecem independentes.
+- POVs de Tomás, Ravena, Estelar, Zatanna, Myand'r e Luand'r permanecem independentes.
 - Conhecimento de uma Cadeira não migra para outra personagem sem causa ficcional legítima.
 - Pensamentos são usados quando ajudam a confirmar uma leitura interna que não esteja clara por ação ou fala.
 - Não existe rotação obrigatória de pensamentos entre personagens.
@@ -147,11 +158,15 @@ MESMA CENA
 AUDITORIA: APROVADA
 
 - Identidade, proposta e tom da obra estão reconstruíveis.
-- Tomás, Ravena, Estelar e Zatanna possuem fichas suficientes para execução.
+- Tomás, Ravena, Estelar, Zatanna, Myand'r e Luand'r possuem fichas suficientes para execução.
 - Autoridades, Cadeiras, Narrador e limites de delegação de Tomás estão claros.
 - Narrador está configurado sem função de Juiz.
 - Direção, Arco Preparado, Mundo Necessário e Estado Inicial são compatíveis.
-- O primeiro ponto aberto pertence às Cadeiras de Ravena, Estelar e Zatanna dentro das investigações já em andamento.
+- O primeiro ponto aberto da temporada pertenceu às Cadeiras de Ravena, Estelar e Zatanna dentro das investigações iniciais.
 - Resultados materiais ainda abertos retornam à Mesa quando necessário, em vez de serem sentenciados secretamente pelo Narrador.
 - Livro foi ativado no START / primeira Ficção.
 - Nenhuma contradição bloqueante conhecida impede a execução.
+
+## Registro de continuidade dos monarcas
+
+As duas novas Cadeiras foram estabelecidas após o reencontro em Karan, sem reescrever decisões anteriores. A cena atual permanece na praça, com Tomás, Estelar, Ravena, Zatanna, Myand'r e Luand'r. O almoço foi combinado, mas o estabelecimento ainda não foi escolhido. Myand'r solicitou um relatório reservado sobre o acordo matrimonial anterior; seu conteúdo e resultado permanecem abertos. As fichas registram os conhecimentos legítimos de cada monarca, sem revelar automaticamente segredos, pensamentos privados ou fatos de bastidor.
