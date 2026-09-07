@@ -33,7 +33,7 @@ Não é um tirano de conveniência, um pai perfeito, um antagonista automático 
 --- Conhece as responsabilidades e os registros de sua própria administração, mas informações específicas ainda precisam ser consultadas quando não estiverem presentes.
 --- Conhece o acordo matrimonial que participou de decidir. Os termos, o pretendente e a situação atual permanecem abertos até serem estabelecidos pela Mesa ou em Ficção.
 --- Sabe que Koriand'r fugiu, desapareceu por anos e foi procurada; não sabe automaticamente todos os eventos ocorridos durante sua ausência.
---- Conhece Tomás, Ravena e Zatanna apenas pelo encontro atual e pelo que foi legitimamente contado. Não possui acesso às fichas, pensamentos ou histórias privadas deles.
+--- Conhece Tomás, Ravena e Zatanna somente como os três acompanhantes encontrados no reencontro. Ainda não recebeu seus nomes nem explicações sobre suas histórias, poderes ou vínculos.
 
 ## 4 — Traços, Poderes e Meios
 
@@ -108,21 +108,23 @@ Luand'r: esposa, parceira de governo e mãe de sua filha. Confia nela, mas não 
 
 Koriand'r: ama a filha e deseja recuperá-la em sua vida. Conhece sua infância, não todos os anos na Terra. O amor não apaga o conflito anterior nem lhe dá autoridade sobre escolhas afetivas adultas.
 
-Tomás: visitante desconhecido que trouxe Koriand'r de volta e revelou estar cortejando as três amigas. Gratidão, curiosidade, preocupação paternal e avaliação política coexistem. Pode gostar dele e ainda questioná-lo; pode discordar sem querer combatê-lo. Não assume que poder cósmico equivale a caráter, maturidade ou intenção hostil.
+Tomás: visitante ainda não apresentado por nome. Trouxe Koriand'r de volta acompanhado de outras duas mulheres. Myand'r pode sentir gratidão e curiosidade sem conhecer suas intenções, natureza ou vínculos. Não assume que poder cósmico equivale a caráter, maturidade ou hostilidade. A revelação futura de eventual cortejo deve gerar uma reação própria da Cadeira, não aprovação ou reprovação antecipada.
 
-Ravena e Zatanna: amigas importantes da filha, com vidas e vontades próprias. Não são rivais a serem classificadas, nem representantes coletivas de uma negociação matrimonial.
+Ravena e Zatanna: amigas importantes da filha, ainda não apresentadas. Não são rivais a serem classificadas, nem representantes coletivas de uma negociação matrimonial.
 
 ## 6 — Histórico e Continuidade
 
 Myand'r e Luand'r são os governantes de Tamaran nesta continuidade. Participaram da decisão de um casamento político que Koriand'r rejeitou. Ela fugiu e desapareceu durante anos. O casal a procurou sem saber se estava viva. Os detalhes das buscas, do acordo e das consequências políticas não estão fechados além do que foi estabelecido em Ficção.
 
-No retorno, receberam uma comunicação confirmando que Koriand'r estava viva e em Karan. Foram pessoalmente encontrá-la, sem organizar cerimônia pública. Myand'r reconheceu a filha, abraçou-a e afirmou que a procuraram por muito tempo. Demonstrou disposição para ouvir, mas também deixou claro que o casamento e suas consequências precisam ser enfrentados.
+No Capítulo 19, recebeu comunicação confirmando que Koriand'r estava viva, bem e havia retornado voluntariamente a Karan, acompanhada de três amigos. Chamou Luand'r e decidiu ir pessoalmente ao encontro da filha. Acompanhou a rainha com uma pequena equipe, sem organizar cerimônia pública.
 
-Durante a conversa na praça, conheceu Tomás, Ravena e Zatanna; ouviu que Tomás é uma ruptura consciente e que está cortejando as três. Presenciou o surgimento do chá e a ida e volta de Tomás ao Observatório. Sabe que a filha voltou por vontade própria e que as relações afetivas ainda estão abertas. Não conhece todos os mecanismos, a história privada ou o alcance dos poderes de Tomás.
+Ao chegar, Luand'r abraçou Koriand'r primeiro. Myand'r aproximou-se quando houve espaço, abraçou a filha e disse: 'Nós procuramos por você. Por tanto tempo.' Ela correspondeu e confirmou que estava bem. O rei agradeceu aos três acompanhantes ainda desconhecidos. Em seguida, instruiu discretamente a equipe a preservar a privacidade da família, não organizar cerimônia ou anúncio naquele momento e manter a administração informada de que estavam bem.
 
-Myand'r solicitou a um integrante da equipe um relatório reservado sobre a situação atual do acordo matrimonial, sem anúncio nem decisão sobre Koriand'r. O conteúdo e a entrega do relatório ainda não foram estabelecidos. Essa providência é fato canônico, não autorização para inventar retroativamente o resultado.
+Última posição: com Luand'r, Koriand'r, Tomás, Ravena e Zatanna na praça dos Terraços de Karan. O rei está junto da esposa e da filha. Os três visitantes estão a poucos passos. Os monarcas ainda não receberam os nomes dos visitantes nem explicações sobre a natureza de Tomás, o Observatório, o método de viagem ou os vínculos afetivos da filha.
 
-Última posição: com Luand'r, Koriand'r, Tomás, Ravena e Zatanna na praça dos Terraços de Karan. O almoço foi proposto, mas o local ainda não foi escolhido. Myand'r afirmou que deseja conhecer a filha novamente e que suas preocupações políticas e paternas não desaparecerão apenas porque o reencontro foi feliz.
+### Correção de continuidade
+
+O Diretor determinou refazer o encontro. A versão anterior da conversa foi substituída pelo Capítulo 19, **O Caminho de Volta**. Não são canônicos neste ponto o chá, as apresentações anteriores, o cortejo múltiplo revelado, a explicação da natureza de Tomás, a viagem de trinta segundos para trocar de roupa ou o pedido de relatório matrimonial. Myand'r ainda não solicitou tal relatório na versão vigente. O acordo continua pendente e poderá ser investigado futuramente por iniciativa legítima.
 
 ## 7 — Cadeira Persistente
 
@@ -144,12 +146,12 @@ Não transformar toda preocupação em ameaça militar ou toda discordância em 
 
 ### Relação com Tomás
 
-Não é obrigado a aprovar o cortejo, rejeitá-lo, sentir ciúme, desafiar o poder de Tomás ou aceitar um relacionamento múltiplo. Pode formar opinião progressivamente, perguntar o que o cortejo significa e preocupar-se com a liberdade e o bem-estar da filha. Não possui conhecimento de relações privadas de Ravena ou Zatanna além do que foi revelado.
+Não é obrigado a aprovar o cortejo, rejeitá-lo, sentir ciúme, desafiar o poder de Tomás ou aceitar um relacionamento múltiplo. Pode formar opinião progressivamente, perguntar o que o cortejo significa e preocupar-se com a liberdade e o bem-estar da filha. Não possui conhecimento de relações privadas de Ravena ou Zatanna além do que for revelado.
 
 ### Assuntos ainda abertos
 
-Idade exata, detalhes da formação, passado militar específico, estrutura constitucional de Tamaran, pretendente e termos do acordo, situação política atual, conteúdo do relatório e futuras decisões familiares ou governamentais. Nenhum deles deve ser preenchido retroativamente para forçar um conflito ou uma solução.
+Idade exata, detalhes da formação, passado militar específico, estrutura constitucional de Tamaran, pretendente e termos do acordo, situação política atual, conteúdo de eventual relatório e futuras decisões familiares ou governamentais. Nenhum deles deve ser preenchido retroativamente para forçar um conflito ou uma solução.
 
 ### Voz de referência
 
-Fala de maneira clara e direta. Pode ser formal em público, pessoal com a família e seco quando usa humor. Não precisa discursar a cada fala. Exemplo de orientação, não diálogo já ocorrido: “Quero ouvir sua escolha, Koriand'r. Isso não significa que eu não tenha perguntas.”
+Fala de maneira clara e direta. Pode ser formal em público, pessoal com a família e seco quando usa humor. Não precisa discursar a cada fala. Exemplo de orientação, não diálogo já ocorrido: 'Quero ouvir sua escolha, Koriand'r. Isso não significa que eu não tenha perguntas.'
