@@ -32,3 +32,4 @@ Livro canônico da campanha.
 23. [As Condições do Desafio](023-as-condicoes-do-desafio.md)
 24. [O Príncipe e o Impossível](024-o-principe-e-o-impossivel.md)
 25. [O que fica depois do céu](025-o-que-fica-depois-do-ceu.md)
+26. [O Grande Guerreiro Karras](026-o-grande-guerreiro-karras.md)
