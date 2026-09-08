@@ -115,6 +115,7 @@ CADEIRA
 
 NARRADOR
 → verifica e conecta fatos necessários;
+→ conduz NPCs incidentais sem Cadeira atribuída;
 → preenche contexto, falas e gestos compatíveis;
 → acompanha tempo, espaço e causalidade;
 → apresenta a Ficção autorizada.
@@ -209,7 +210,7 @@ A IA pode resumir rotinas repetitivas sem atravessar uma decisão indisponível.
 
 Cada personagem deve conservar uma linha de vida própria fora da presença do protagonista. A Cadeira mantém compromissos, intenções, relações, responsabilidades e disponibilidade relevantes, sem precisar preencher cada hora do calendário.
 
-Na Mesa que prepara um intervalo, a IA pode consultar as Cadeiras materialmente pertinentes sobre o que pretendem fazer nesse período. As Cadeiras podem propor visitas, trabalho, descanso, investigação, encontros entre si ou simplesmente não procurar o protagonista. Não esperar que o Diretor indique toda iniciativa.
+Na Mesa que prepara um intervalo, a IA pode consultar as Cadeiras materialmente pertinentes sobre o que pretendem fazer nesse período. As Cadeiras podem propor visitas, trabalho, descanso, investigação, encontros entre si, aproximações afetivas ou simplesmente não procurar o protagonista. Não esperar que o Diretor indique toda iniciativa.
 
 ```text
 Diretor: Vou passar a manhã treinando.
@@ -254,7 +255,76 @@ Se o Diretor preferir deixar o resultado aberto, a Mesa pode construí-lo poster
 
 ---
 
-# 7 — Aplicação a novas histórias e retomadas
+# 7 — Tom, iniciativa e desenvolvimento da cena
+
+A Mesa pode construir não apenas o resultado, mas a experiência que será apresentada. Quando relevantes, o Diretor e as Cadeiras podem discutir iniciativa, tom, progressão, local, ritmo, limite de apresentação e ponto de retorno. Não transformar esses elementos em formulário obrigatório.
+
+```text
+DIRETOR
+→ propõe uma aproximação suave.
+
+CADEIRA B
+→ avalia que sua personagem está com saudade e deseja tomar a iniciativa com mais intensidade.
+
+DIRETOR
+→ ajusta a proposta para começar suavemente e acompanhar a iniciativa de B.
+
+DIRETOR
+→ pode fazer.
+
+FICÇÃO
+→ desenvolve a versão aprovada.
+```
+
+A Cadeira pode concordar, discordar ou propor outro tom conforme a pessoa e o momento. O Diretor não precisa antecipar toda reação de outra personagem. Uma cutucada como `ela não teria vontade de procurar A?` solicita avaliação própria, não é uma ordem automática nem uma autorização ficcional.
+
+Personalidade orienta a expressão, mas não é roteiro fixo. Uma pessoa reservada pode agir com intensidade, uma expansiva pode desejar tranquilidade e uma confiante pode sentir nervosismo. Não uniformizar vozes, gestos ou formas de desejar. Não converter o tom em moralidade: suavidade não é sempre mais madura, e intensidade não é automaticamente incoerente.
+
+O tom inicial pode mudar por iniciativa legítima de outra Cadeira e por acontecimentos da cena. Depois que a Mesa fecha a progressão, o Narrador não deve neutralizá-la nem intensificá-la por preferência própria. Humor pode sustentar a tensão, em vez de obrigatoriamente encerrá-la.
+
+Esse princípio vale para qualquer gênero: uma conversa pode virar discussão, uma investigação pode tornar-se assustadora, uma luta pode ganhar desespero e uma aproximação pode mudar de ritmo. O resultado fechado não dispensa desenvolvimento literário. O módulo `modulos/ROMANCE.md` detalha sua aplicação à intimidade adulta não gráfica.
+
+## Corte e retorno
+
+Quando houver limite de apresentação, a Mesa pode definir onde a cena será interrompida e em que ponto a narrativa retornará. O corte não deve ocorrer automaticamente ao primeiro sinal de intimidade ou de tensão apenas por conveniência do Narrador.
+
+O Narrador desenvolve a experiência não gráfica aprovada até o ponto permitido, omite o que ficou fora da apresentação e retorna conforme a Direção. Uma elipse não autoriza inventar acontecimentos materiais, compromissos ou estados emocionais. O retorno não precisa ser um relatório do que ocorreu fora de cena.
+
+Resumir é legítimo quando o Diretor deseja condensar, quando o intervalo não precisa de dramatização ou quando o escopo termina. Não resumir apenas porque o destino já foi decidido ou porque não surgiu uma nova decisão a cada parágrafo. A experiência pode ser o propósito da sequência.
+
+---
+
+# 8 — NPCs incidentais e autoria contextual do Narrador
+
+Nem toda pessoa que aparece precisa de Cadeira persistente. O Narrador pode conduzir vontades, reações e iniciativas ordinárias de NPCs sem Cadeira atribuída, dentro do contexto e do escopo autorizado.
+
+```text
+NPC INCIDENTAL
+→ Narrador interpreta e decide suas ações contextuais.
+
+CADEIRA PERSISTENTE
+→ conserva autoria individual própria.
+
+DIRETOR
+→ pode atribuir Cadeira eventual ou persistente quando necessário.
+```
+
+Na Mesa, o Narrador pode apresentar uma leitura concreta do NPC que conduz. Pode dizer `estou pensando em fazê-la aceitar`, `ele não confiaria nessa abordagem` ou `ela pode oferecer outra alternativa`. O Diretor discute, ajusta ou fecha a versão. Isso não é um parecer superior sobre as Cadeiras persistentes.
+
+```text
+Diretor: Quero conversar com a dona da hospedaria sobre um viajante.
+Narrador: Ela conhece a vila, mas não revelaria informações privadas sem motivo. Posso conduzir a conversa conforme a abordagem.
+Diretor: Então começo perguntando sobre a vila.
+Diretor: Pode fazer.
+```
+
+O NPC pode aceitar, recusar, negociar, proteger interesses ou tomar pequenas iniciativas sem ser reduzido a um instrumento do protagonista. O Narrador não precisa criar uma Cadeira para cada guarda, comerciante ou figurante. Atribuir autoria individual torna-se útil quando uma personagem precisa conservar trajetória, objetivos, relações ou decisões próprias relevantes. A simples quantidade de falas ou a existência de uma escolha não impõe uma Cadeira.
+
+A atribuição de Cadeira não altera retroativamente os fatos. A nova Cadeira herda o histórico legítimo e passa a decidir o espaço aberto. O Narrador não assume uma Cadeira persistente apenas porque sua personagem está fora de cena, nem usa autoria contextual para inventar obstáculos, poderes, recursos ou segredos decisivos.
+
+---
+
+# 9 — Aplicação a novas histórias e retomadas
 
 O BOOT deve carregar esta especificação junto do núcleo. A criação de nova obra registra `MESA: CICLO OBRIGATÓRIO` por padrão, sem exigir uma pergunta para ativá-lo. Uma obra pode adotar política diferente por decisão explícita do Diretor; a exceção deve ficar registrada e não ser inferida de uma autorização local.
 
@@ -264,7 +334,7 @@ O Registro preserva somente a Ficção executada. Direções futuras, consultas,
 
 ---
 
-# 8 — Critérios de conformidade
+# 10 — Critérios de conformidade
 
 Uma execução está conforme quando:
 
@@ -276,6 +346,9 @@ Uma execução está conforme quando:
 - `faça como achar melhor` não amplia a delegação além da questão discutida;
 - a Ficção continua pelo intervalo aprovado, sem paradas artificiais ou eventos inventados para satisfazer uma condição;
 - as Cadeiras conservam agendas, iniciativa e conhecimento separados;
+- a Mesa pode alinhar tom, iniciativa, desenvolvimento e cortes, sem uniformizar personalidades;
+- a prosa preserva o tom aprovado e não apaga prematuramente a experiência;
+- NPCs incidentais podem agir por autoria contextual do Narrador sem exigir Cadeira persistente;
 - resultados fechados são executados, não sorteados ou arbitrados novamente;
 - Registro e retomada preservam o estado operacional e não promovem propostas a cânone.
 
