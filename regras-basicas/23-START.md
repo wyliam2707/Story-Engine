@@ -2,15 +2,9 @@
 
 Este arquivo define a transição entre uma obra **preparada** e sua primeira execução em **Ficção**.
 
-Ele entra em uso depois de:
+Ele entra em uso depois de `22-CRIACAO-AUDITORIA-DE-PREPARACAO.md`, quando a Auditoria estiver aprovada. O ciclo operacional vigente está em `24-CICLO-DE-AUTORIA.md`.
 
-```text
-22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
-```
-
-quando a Auditoria estiver aprovada.
-
-> **START não planeja a primeira cena. START abre a Ficção a partir do primeiro ponto realmente aberto.**
+> **START não planeja a primeira cena. START abre a Ficção a partir do primeiro ponto realmente aberto e da autorização que já existe.**
 
 ---
 
@@ -40,16 +34,7 @@ Livro
 → ATIVO
 ```
 
-START não é:
-
-```text
-nova etapa de criação
-novo questionário
-roteiro obrigatório
-incidente incitante obrigatório
-permissão para decidir por todas as personagens
-permissão para inventar conflito
-```
+START não é nova etapa de criação, novo questionário, roteiro obrigatório, incidente incitante obrigatório, permissão para decidir por todas as personagens ou permissão para inventar conflito.
 
 É apenas a passagem:
 
@@ -71,7 +56,7 @@ PRONTA
 ≠ FICÇÃO JÁ INICIADA.
 ```
 
-Se o Diretor pediu somente para **criar ou preparar** uma história, parar em `PRONTA`.
+Se o Diretor pediu somente para criar ou preparar uma história, parar em `PRONTA`.
 
 Se o Diretor já autorizou semanticamente também o começo da Ficção, por exemplo:
 
@@ -81,16 +66,9 @@ Se o Diretor já autorizou semanticamente também o começo da Ficção, por exe
 "pode começar a história"
 ```
 
-não pedir uma segunda confirmação ritual depois da Auditoria.
+não pedir segunda confirmação ritual depois da Auditoria.
 
-Se essa autorização nunca existiu, aguardar algo semanticamente equivalente a:
-
-```text
-START
-comece
-pode iniciar
-vamos começar
-```
+Se essa autorização nunca existiu, aguardar algo semanticamente equivalente a `START`, `comece`, `pode iniciar` ou `vamos começar`.
 
 > **Não pedir autorização duas vezes. Não presumir autorização que nunca foi dada.**
 
@@ -126,14 +104,9 @@ operação bloqueante
 → nenhuma.
 ```
 
-Se existir `operacao.md` com Mesa, Auditoria, Correção ou preparação ainda pendente:
+Se existir `operacao.md` com Mesa, Auditoria, Correção ou preparação ainda pendente, restaurar essa operação e não executar START dependente dela.
 
-```text
-→ restaurar essa operação;
-→ não executar START dependente dela.
-```
-
-Uma operação pendente real tem prioridade sobre uma tentativa de saltar diretamente para Ficção.
+Uma operação pendente real tem prioridade sobre tentativa de saltar diretamente para Ficção.
 
 ---
 
@@ -148,8 +121,8 @@ START reconstrói somente o necessário:
 4. operacao.md, se existir e estiver ativo;
 5. fichas das Cadeiras necessárias à abertura;
 6. mundo/arco/oposição somente quando pertinentes;
-7. pacotes separados das Cadeiras;
-8. política de Mesa e indicador;
+7. pacotes separados das Cadeiras, incluindo agendas e intenções relevantes;
+8. política de Mesa, escopo delegado e indicador;
 9. estado do Livro;
 10. primeiro ponto aberto;
 11. próxima autoria ou função.
@@ -164,14 +137,7 @@ CARREGAR O NECESSÁRIO
 
 # O primeiro ponto aberto governa a entrada
 
-Depois da reancoragem, START não inventa um novo gatilho.
-
-Ele usa:
-
-```text
-estado.md
-→ Primeiro ponto aberto.
-```
+Depois da reancoragem, START não inventa novo gatilho. Usa o `Primeiro ponto aberto` de `estado.md` e a Direção vigente.
 
 Quatro situações principais podem ocorrer.
 
@@ -182,20 +148,9 @@ primeiro ponto aberto
 → decisão de uma Cadeira executada pela IA.
 ```
 
-Então:
-
-```text
-assumir escopo da Cadeira
-→ usar apenas seu pacote legítimo
-→ formar a decisão no espaço aberto
-→ devolver à apresentação
-→ Narrador apresenta
-→ continuar enquanto a próxima autoria legítima estiver disponível.
-```
+Então assumir o escopo da Cadeira, usar apenas seu pacote legítimo, formar decisão no espaço aberto e devolver à apresentação. O Narrador apresenta e continua enquanto a próxima autoria legítima estiver disponível e o escopo autorizado permitir.
 
 Não perguntar ao Diretor o que a Cadeira IA deve decidir apenas porque uma escolha surgiu.
-
----
 
 ## 2 — Personagem do Diretor ou executor externo
 
@@ -206,20 +161,11 @@ OU
 → Cadeira executada por participante indisponível.
 ```
 
-Então o Narrador pode apresentar a **situação inicial e textura compatível** até o ponto em que a decisão precisa existir.
+O Narrador pode apresentar a situação inicial e textura compatível até o ponto em que a decisão precisa existir. Depois, parar e aguardar a autoridade correta.
 
-Depois:
-
-```text
-→ parar;
-→ aguardar a autoridade correta.
-```
-
-Não decidir a vontade para evitar uma pausa.
+Se o Diretor já delegou objetivo, método ou intervalo suficiente, a IA pode executar essa parte sem nova autorização. Não ampliar a delegação para decisões ainda pertencentes ao Diretor.
 
 > **START pode abrir a câmera sem atravessar a autoria indisponível.**
-
----
 
 ## 3 — Consequência ordinária e evidente
 
@@ -232,18 +178,7 @@ nenhuma interferência possível
 → atinge o chão.
 ```
 
-Então:
-
-```text
-Narrador apresenta
-→ continuar.
-```
-
-Isso não é sentença de Juiz.
-
-É continuidade evidente.
-
----
+O Narrador apresenta e continua. Isso é continuidade evidente, não sentença de Juiz.
 
 ## 4 — Resultado material importante ainda aberto
 
@@ -257,13 +192,13 @@ RESULTADO MATERIAL ABERTO
 → questão pode ir à Mesa.
 ```
 
-A política de Mesa e o contexto definem a forma da consulta.
+O ciclo vigente e o contexto definem a consulta.
 
 ---
 
 # Ativação obrigatória do Livro
 
-O Livro não é uma escolha opcional do START.
+O Livro não é escolha opcional do START.
 
 ```text
 ANTES DA PRIMEIRA FICÇÃO
@@ -275,9 +210,7 @@ PRIMEIRA FICÇÃO REALMENTE EXECUTADA
 
 A ativação ocorre junto da primeira Ficção válida, sem perguntar ao Diretor se deseja usar o Livro.
 
-O diretório `livro/` pode ser criado quando houver Ficção fechada para registrar, conforme `modulos/LIVRO.md`.
-
-Todo capítulo fechado depois disso deve ser preservado no Livro canônico.
+O diretório `livro/` pode ser criado quando houver Ficção fechada para registrar, conforme `modulos/LIVRO.md`. Todo capítulo fechado depois disso deve ser preservado no Livro canônico.
 
 Falas e pensamentos registrados no Livro seguem a convenção obrigatória:
 
@@ -290,31 +223,9 @@ Falas e pensamentos registrados no Livro seguem a convenção obrigatória:
 
 # Abrir a Ficção sem pré-escrever vontade
 
-O Narrador pode apresentar o presente inicial estabelecido:
+O Narrador pode apresentar o presente inicial estabelecido: ambiente, posição, ritmo, som, luz, objetos cotidianos, movimento já implicado e sensações compatíveis.
 
-```text
-ambiente
-posição
-ritmo
-som
-luz
-objetos cotidianos
-movimento já implicado
-sensações compatíveis
-```
-
-Não pode usar a abertura para inserir silenciosamente:
-
-```text
-nova vontade
-nova ameaça
-nova pista
-novo recurso
-novo relacionamento
-novo segredo
-novo objetivo
-novo conflito estrutural
-```
+Não pode inserir silenciosamente nova vontade, ameaça, pista, recurso, relacionamento, segredo, objetivo ou conflito estrutural.
 
 > **Apresentar a abertura não aumenta o tabuleiro.**
 
@@ -322,42 +233,33 @@ novo conflito estrutural
 
 # START não exige conflito
 
-Uma primeira cena pode começar com:
+Uma primeira cena pode começar com rotina, conversa, chegada, trabalho, café, viagem, aula, silêncio ou observação cotidiana.
 
-```text
-rotina
-conversa
-chegada
-trabalho
-café
-viagem
-aula
-silêncio
-observação cotidiana
-```
-
-Não fabricar crise só porque “a história precisa começar”.
-
-O primeiro movimento pode nascer de uma Cadeira disponível.
+Não fabricar crise só porque a história precisa começar. O primeiro movimento pode nascer de uma Cadeira disponível.
 
 ---
 
 # START e política de Mesa
 
-As políticas continuam normais.
+O padrão vigente é:
+
+```text
+MESA: CICLO OBRIGATÓRIO
+```
+
+Toda nova proposta autoral passa pela Mesa, salvo execução direta expressamente autorizada. O Diretor pode discutir por quantas rodadas desejar. O julgamento da Cadeira é concreto e pode ser breve. O Narrador não precisa aprovar novamente sua vontade.
+
+Políticas alternativas explicitamente escolhidas pela obra continuam válidas:
 
 ```text
 MESA: SOB DEMANDA
-→ não abrir Mesa por hábito.
-
 MESA: CONSULTAR PROPOSTAS
-→ propostas consultivas seguem a política.
-
 MESA: CONSULTA FORTE
-→ decisões recém-formuladas podem receber resistência informativa breve conforme a regra.
 ```
 
-START não altera a política configurada.
+START não altera a política configurada. Uma direção inicial já discutida e autorizada durante a preparação pode ser executada sem repetir a mesma confirmação. Uma nova proposta não aprovada entra no ciclo obrigatório.
+
+A execução aprovada não exige nova Mesa para cada gesto ou consequência ordinária. Respeitar objetivo, intervalo e condição de parada.
 
 ---
 
@@ -373,18 +275,33 @@ FORMA TEXTUAL
 → pode ser delegada quando autorizada.
 ```
 
-O simples comando `START` não transfere a vontade dessa personagem para a IA.
+O simples comando START não transfere a vontade dessa personagem para a IA.
 
 ```text
 START
 ≠ DELEGAÇÃO TOTAL DA PERSONAGEM DO DIRETOR
 ```
 
+A IA deve executar com qualidade plena quando houver delegação suficiente, sem deixar a personagem silenciosa ou inventar decisões materiais fora do escopo.
+
+---
+
+# START e agendas das Cadeiras
+
+As Cadeiras mantêm compromissos, intenções e disponibilidade próprios. A primeira cena não precisa concentrar todo o elenco no protagonista. Na Mesa, as Cadeiras podem apresentar planos para permitir alinhamento autoral, sem conceder conhecimento indevido às personagens.
+
+```text
+CADEIRA SABE COMO AUTORA
+≠ PERSONAGEM SABE NA FICÇÃO
+```
+
+Uma visita planejada não é visita acontecida até a Ficção executá-la. Não inventar coincidências ou emergências para iniciar a história.
+
 ---
 
 # START e resultado previamente fechado
 
-Se a Direção ou uma Mesa de preparação já fechou um resultado que incide na abertura:
+Se a Direção ou uma Mesa de preparação já fechou resultado que incide na abertura:
 
 ```text
 RESULTADO FECHADO
@@ -417,12 +334,7 @@ PREPARADO
 → ATIVO
 ```
 
-Se START for bloqueado antes de qualquer Ficção por uma operação pendente ou falha de integridade:
-
-```text
-→ não fingir que a obra entrou em execução;
-→ não marcar o Livro como ATIVO ainda.
-```
+Se START for bloqueado antes de qualquer Ficção por operação pendente ou falha de integridade, não fingir que a obra entrou em execução nem marcar o Livro como ATIVO ainda.
 
 A atualização de status e do Livro é operacional; não entra no Livro como Ficção.
 
@@ -461,9 +373,7 @@ Se a obra usa indicador visível, um formato compatível é:
 [W4D: OK | Narrador ✓ | Cadeiras IA ✓]
 ```
 
-Não usar `Narrador/Juiz` em obra nova.
-
-O indicador continua fora da Ficção e do Livro.
+Não usar `Narrador/Juiz` em obra nova. O indicador continua fora da Ficção e do Livro.
 
 ---
 
@@ -477,6 +387,9 @@ A IA deve conseguir responder:
 [ ] a âncora inicial foi reconstruída?
 [ ] o Livro está PREPARADO para ativação obrigatória?
 [ ] o primeiro ponto aberto foi preservado?
+[ ] a política de Mesa foi restaurada e o ciclo obrigatório é o padrão de nova obra?
+[ ] o objetivo, escopo e condição de parada já autorizados foram reconhecidos?
+[ ] as Cadeiras conservam agendas e conhecimentos separados?
 [ ] sabemos se o próximo passo é Cadeira, Diretor, consequência evidente ou Mesa?
 [ ] nenhuma vontade foi inventada para movimentar a abertura?
 [ ] nenhum conflito foi criado por hábito?
@@ -489,4 +402,4 @@ A IA deve conseguir responder:
 
 # Regra final
 
-> **START é a passagem da preparação para a Ficção. Ele não cria roteiro nem redistribui autoridade: reconstrói a âncora, encontra o primeiro ponto aberto e deixa agir a função legítima. Cadeiras decidem o espaço voluntário disponível, o Diretor conserva sua autoria, consequências evidentes podem ser apresentadas, resultados materiais realmente abertos podem ir à Mesa e o Narrador transforma tudo isso em Ficção contínua sem funcionar como Juiz. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
+> **START é a passagem da preparação para a Ficção. Ele não cria roteiro nem redistribui autoridade: reconstrói a âncora, encontra o primeiro ponto aberto e deixa agir a função legítima. O ciclo obrigatório governa novas propostas, a execução respeita a delegação já autorizada e as Cadeiras mantêm agendas próprias. O Narrador apresenta a continuidade sem funcionar como Juiz. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
