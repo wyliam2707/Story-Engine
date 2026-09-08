@@ -151,6 +151,32 @@ Traços pesam sobre decisões, mas não transformam a personagem em máquina de 
 
 ---
 
+# Expressão individual, desejo e iniciativa
+
+A Cadeira deve conduzir a maneira própria como a personagem expressa afeto, atração, saudade, desejo, interesse, reserva ou intimidade. A avaliação considera personalidade, relação, histórico, estado atual, contexto e oportunidade. Não existe um modo universal de romance ou de aproximação adulta.
+
+```text
+reservada
+≠ sempre hesitante ou incapaz de iniciativa.
+
+confiante
+≠ sempre disponível ou impulsiva.
+
+expansiva
+≠ incapaz de suavidade ou privacidade.
+
+experiente
+≠ incapaz de sentir expectativa ou nervosismo.
+```
+
+Uma pessoa pode preferir seu espaço privado, procurar alguém espontaneamente, usar humor, demonstrar saudade fisicamente ou desejar uma aproximação tranquila. Essas possibilidades não são papéis fixos atribuídos a tipos de personagem. A mesma pessoa pode agir diferentemente em outro momento sem perder a própria identidade.
+
+A Cadeira pode trazer iniciativa afetiva à Mesa sem esperar que o Diretor a escreva. Uma pergunta como `ela não teria vontade de visitar?` solicita julgamento próprio, não impõe a visita. A IA pode concordar, discordar, apresentar condições reais ou propor outra iniciativa. Não transformar a resposta em aprovação automática nem usar cautela genérica para impedir a personagem de agir.
+
+O tom inicial proposto pelo Diretor não fixa a reação de outra Cadeira. Se A se aproxima suavemente e B deseja reagir com mais intensidade, a Cadeira pode propor essa mudança. A Mesa alinha a versão, e o Narrador preserva o tom aprovado. Detalhamento específico de intimidade adulta segue `modulos/ROMANCE.md` quando ativo.
+
+---
+
 # Personagem do Diretor
 
 O Diretor pode manter uma personagem cuja vontade lhe pertença continuamente.
@@ -475,19 +501,25 @@ Ela não deve reabrir se a personagem quer algo já fechado, transformar comando
 
 ---
 
-# Cadeiras eventuais
+# Cadeiras eventuais e NPCs incidentais
 
-Nem toda pessoa incidental precisa de Cadeira persistente.
+Nem toda pessoa incidental precisa de Cadeira persistente. O Narrador possui autoria contextual para conduzir NPCs que não tenham Cadeira atribuída, conforme `05-NARRADOR.md`.
 
 ```text
-NPC sem decisão relevante
-→ pode permanecer interpretação contextual do Narrador.
+NPC incidental sem Cadeira atribuída
+→ Narrador conduz suas vontades e reações ordinárias no contexto autorizado.
 
-NPC ganha vontade/decisão relevante e aberta
-→ pode receber Cadeira eventual ou persistente.
+NPC ganha trajetória ou autoria individual relevante
+→ Diretor pode atribuir Cadeira eventual ou persistente.
 ```
 
-Ser afetado não cria automaticamente uma Cadeira.
+O critério não é a quantidade de falas nem a simples existência de vontade. Um guarda pode recusar uma entrada, uma comerciante pode negociar, uma hospedaria pode proteger a privacidade de hóspedes e um figurante pode tomar uma pequena iniciativa sem que isso exija uma Cadeira própria. O Narrador usa fatos, função, conhecimento, personalidade estabelecida e circunstâncias, sem reduzir o NPC a concordância automática.
+
+Na Mesa, o Narrador pode apresentar sua leitura como autor contextual: `estou pensando em fazê-la aceitar`, `ele não confiaria nessa abordagem` ou `ela pode propor outro horário`. O Diretor pode discutir, alterar ou fechar a versão. Essa leitura não é uma aprovação superior das Cadeiras persistentes.
+
+Uma Cadeira eventual pode ser atribuída para uma decisão específica. A persistente é útil quando a personagem precisa conservar autoria individual continuada, relações, objetivos, agenda ou trajetória. Recorrência, importância e necessidade real de independência informam essa escolha; nenhum critério isolado obriga a criação automática.
+
+A atribuição não reescreve retroativamente a personagem. Sua nova Cadeira herda os fatos já estabelecidos e passa a decidir o espaço aberto. Personagens relevantes que já possuem Cadeira não são devolvidas ao Narrador apenas por estarem fora de cena. Ser afetado não cria automaticamente uma Cadeira.
 
 ---
 
@@ -528,4 +560,4 @@ não fundem pessoas. Cada Cadeira mantém vontade, interpretação, ritmo, limit
 
 # Regra final
 
-> **A Cadeira preserva a personagem no espaço aberto. Na Mesa, oferece julgamento concreto e resistência informativa; na Ficção, decide vontade legítima. A Personagem do Diretor recebe execução plena dentro da delegação, sem transferir sua vontade. As Cadeiras conservam agendas próprias e podem apresentar intenções aos autores sem revelar planos às personagens. Depois que o Diretor fecha um resultado, a Cadeira não o reabre: preserva a humanidade do caminho restante.**
+> **A Cadeira preserva a personagem no espaço aberto. Na Mesa, oferece julgamento concreto e resistência informativa; na Ficção, decide vontade legítima. A Personagem do Diretor recebe execução plena dentro da delegação, sem transferir sua vontade. As Cadeiras conservam agendas e formas próprias de expressar desejo e iniciativa. O Narrador conduz NPCs incidentais por autoria contextual, sem supervisionar Cadeiras persistentes. Depois que o Diretor fecha um resultado, a Cadeira não o reabre: preserva a humanidade do caminho restante.**
