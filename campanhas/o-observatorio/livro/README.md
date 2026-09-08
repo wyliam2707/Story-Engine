@@ -42,5 +42,7 @@ Livro canônico da campanha.
 ## Temporada 3
 
 29. [Pela Porta da Frente](029-pela-porta-da-frente.md)
+30. [Coisas sem urgência](030-coisas-sem-urgencia.md)
+31. [O céu de Tamaran](031-o-ceu-de-tamaran.md)
 
-**Capítulo 29 encerrado.** A continuidade começa no último ponto de `estado.md`, sem avanço automático do relógio.
+**Capítulos 29, 30 e 31 encerrados.** A continuidade começa no último ponto de `estado.md`, sem avanço automático do relógio. O Capítulo 32 permanece aberto para a próxima direção do Diretor.
