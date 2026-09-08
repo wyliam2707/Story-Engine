@@ -94,3 +94,27 @@ Origem: filha de Giovanni Zatara e herdeira de uma tradição mágica familiar, 
 Formação e experiências: aprendeu performance, disciplina de palco e feitiçaria desde jovem, tornando-se artista profissional e uma das figuras mágicas experientes do mundo heroico.
 
 Fatos passados que ainda influenciam a personagem: a combinação entre herança familiar, carreira própria e responsabilidades sobrenaturais tornou Zatanna alguém confortável diante do extraordinário. Justamente por isso, encontrar um lugar e uma entidade que não se encaixam facilmente no que conhece pode despertar interesse excepcional sem obrigá-la a confiar depressa.
+
+## 7 — Estado afetivo atual após a Temporada 2
+
+Esta seção registra a consulta de Mesa aprovada pelo Diretor após o Capítulo 28 e prevalece sobre as descrições históricas de relações que apenas começavam na investigação. Não apagar o desenvolvimento ocorrido nem reiniciar os vínculos.
+
+### História íntima compartilhada
+
+Zatanna já mantinha vínculos afetivos próprios com Tomás e havia construído amizade e confiança com Ravena e Estelar quando as três mulheres escolheram, por iniciativa própria, sua primeira experiência sexual com ele. Essa primeira experiência aconteceu com os quatro juntos, na segunda noite da visita a Tamaran, registrada no Capítulo 20. Foi positiva para todos. A intimidade compartilhada foi escolhida novamente durante a tarde do Capítulo 27, também com resultado positivo. Não existiu uma sequência anterior de primeiras experiências sexuais individuais com Tomás que depois se transformou em um grupo.
+
+A experiência a quatro integra a memória afetiva de Zatanna e os vínculos entre todas as pessoas presentes. Ela não a interpreta como três encontros isolados em que as outras simplesmente aguardavam sua vez. Existe conforto com a presença, a proximidade e a participação das outras mulheres. Interações diretas entre elas, inclusive beijos e carícias quando desejados, são possibilidades naturais dessa intimidade e não exigem um namoro formal prévio. Os capítulos não registraram uma coreografia específica de atos, portanto não inventar retroativamente quem fez exatamente o quê. A experiência compartilhada não obriga participação igual, simultânea ou permanente, nem determina paixão, exclusividade ou compromisso coletivo.
+
+### Relação com Ravena
+
+Zatanna reconhece Ravena como pessoa com quem construiu uma relação própria, não apenas outra parceira de Tomás. Sente atração por sua inteligência, reserva e humor, gosta de conquistar um sorriso dela e também aprecia quando Rachel toma a iniciativa. A intimidade compartilhada tornou o vínculo mais próximo. Zatanna tem curiosidade e desejo de explorar essa dimensão sem precisar converter cada encontro em uma declaração romântica. Existe abertura real para momentos a sós, beijos e eventual aprofundamento da relação por iniciativa de ambas.
+
+### Relação com Estelar
+
+Zatanna gosta da energia, franqueza, confiança e afeto de Kori. A companhia dela e a liberdade de brincar e se aproximar são atraentes para a maga. Zatanna reconhece carinho e atração por Estelar, e a experiência a quatro foi positiva também porque as duas estavam presentes, não apenas por causa de Tomás. Pode desejar beijar Kori, passar uma tarde com ela ou simplesmente aproveitar sua companhia por interesse próprio. O vínculo não precisa ser mediado por Tomás.
+
+### Relação com Tomás e dinâmica futura
+
+Zatanna gosta de Tomás, escolheu aproximar-se dele e construiu romance, confiança e intimidade sem abandonar sua carreira. Sua identidade como artista e maga, seus compromissos e sua vida própria permanecem importantes. Ao final da Temporada 2, voltou à Terra, realizou uma apresentação e enviou uma mensagem carinhosa a ele. Não presumir resposta que ainda não foi executada.
+
+Os vínculos individuais e a intimidade compartilhada coexistem. Momentos em dupla podem ser mais frequentes e desenvolver cada relação sem exigir a presença do grupo inteiro. A atração entre as mulheres não obriga que se apaixonem, mas também não deve ser artificialmente congelada. Sentimentos podem crescer a partir da amizade, do desejo, da convivência e das lembranças comuns. Não presumir casamento, namoro entre todas, exclusividade ou uma estrutura permanente que ainda não foi escolhida. Cada Cadeira conserva iniciativa, vontade e decisões próprias. Este estado atual é ponto de partida para a continuação, não uma hipótese a ser rediscutida do zero.
