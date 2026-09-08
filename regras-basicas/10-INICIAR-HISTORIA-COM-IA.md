@@ -1,466 +1,68 @@
 # 10 — Iniciar uma História Nova com IA
 
-Este arquivo coordena **somente o ramo NOVA HISTÓRIA**. Deve ser usado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`.
+Este arquivo coordena somente o ramo NOVA HISTÓRIA, depois do BOOT. O ciclo vigente segue `00-ARQUITETURA-E-MESA.md` e `24-CICLO-DE-AUTORIA.md`. A estrutura documental segue `25-MEMORIA-DE-CAMPANHA.md` e `07-CRIAR-CAMPANHA.md`.
 
-> **BOOT escolhe o caminho. Este arquivo coordena as etapas. Cada etapa específica define seu trabalho.**
+> **Etapas separadas não significam formulário obrigatório. Base suficiente permite propor; falta realmente decisiva pede pergunta.**
 
-Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM-IA.md`.
+Não repetir decisões já aprovadas nem exigir planejamento completo do futuro. Se o usuário deseja continuar uma obra, usar o arquivo 11. O padrão de Mesa é CICLO OBRIGATÓRIO, salvo escolha expressa diferente.
 
-O ciclo operacional vigente é definido por `00-ARQUITETURA-E-MESA.md` e `24-CICLO-DE-AUTORIA.md`. Toda nova obra adota `MESA: CICLO OBRIGATÓRIO` por padrão, salvo escolha expressa diferente do Diretor.
-
----
-
-# Princípio do processo
-
-A criação acontece por etapas autorais separadas para evitar que a IA transforme uma ideia curta em obra inteira sem participação do Diretor.
-
-Ao mesmo tempo:
-
-> **Etapa separada não significa formulário obrigatório.**
-
-Quando uma etapa já estiver semanticamente resolvida:
+## Pipeline oficial
 
 ```text
-organizar
-→ propor ou registrar
-→ confirmar somente quando necessário
-→ avançar.
+1. PREMISSA → 12-CRIACAO-PREMISSA.md
+2. ESTILO / TOM → 13-CRIACAO-ESTILO-E-TOM.md
+3. NOME / DESTINO → 14-CRIACAO-NOME-E-DESTINO.md
+4. PERSONAGENS CENTRAIS → 15-CRIACAO-PERSONAGENS-CENTRAIS.md
+5. FICHAS → 16-CRIACAO-FICHAS.md
+6. AUTORIDADES / CADEIRAS / EXECUTORES → 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
+7. DIREÇÃO → 18-CRIACAO-DIRECAO.md
+8. POLÍTICAS OPERACIONAIS → 19-CRIACAO-POLITICAS-OPERACIONAIS.md
+9. MUNDO NECESSÁRIO → 20-CRIACAO-MUNDO-NECESSARIO.md
+10. ESTADO INICIAL → 21-CRIACAO-ESTADO-INICIAL.md
+11. AUDITORIA DE PREPARAÇÃO → 22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
+12. START → 23-START.md
 ```
 
-Regra geral:
+Cada etapa específica conserva sua responsabilidade. Se já estiver semanticamente resolvida, organizar e avançar sem nova confirmação ritual. Uma autorização de começo dada durante a preparação continua válida no escopo indicado.
 
-> **Base suficiente → propor. Falta realmente decisiva → perguntar.**
+## Preparação e persistência
 
-Não repetir perguntas já respondidas e não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
+Definir Premissa e Estilo/Tom suficientes, nome e slug estáveis e destino livre. Criar primeiro `campanhas/<slug>/INICIO.md`, somente com informações aprovadas. O destino criado não é START.
 
-O ciclo de Mesa da Ficção não cria uma segunda confirmação ritual para uma etapa de preparação que o Diretor já aprovou. Preservar a autorização semântica e o escopo de cada etapa.
+Personagens centrais são identificadas antes de exigir fichas completas. Preferir uma ficha por vez, usando `04-FICHA.md` e `modelos/FICHA.md`. Não inventar trauma, segredo, fraqueza, poder ou drama para preencher campos. Uma ficha suficiente não é exaustiva.
 
----
+Depois, configurar Diretor, Narrador, Cadeiras e executores. O Narrador não é Juiz nem supervisor das Cadeiras. Não escolher silenciosamente a Personagem do Diretor. A IA pode executá-la plenamente dentro da delegação, sem assumir sua vontade. As Cadeiras têm agendas, vínculos e iniciativas próprios.
 
-# Pipeline oficial de NOVA HISTÓRIA
+Salvar as informações aprovadas em suas fontes:
 
 ```text
-1. PREMISSA
-→ 12-CRIACAO-PREMISSA.md
-
-2. ESTILO / TOM
-→ 13-CRIACAO-ESTILO-E-TOM.md
-
-3. NOME / DESTINO CANÔNICO
-→ 14-CRIACAO-NOME-E-DESTINO.md
-
-4. PERSONAGENS CENTRAIS
-→ 15-CRIACAO-PERSONAGENS-CENTRAIS.md
-
-5. FICHAS
-→ 16-CRIACAO-FICHAS.md
-
-6. AUTORIDADES / CADEIRAS / EXECUTORES
-→ 17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
-
-7. DIREÇÃO
-→ 18-CRIACAO-DIRECAO.md
-
-8. POLÍTICAS OPERACIONAIS
-→ 19-CRIACAO-POLITICAS-OPERACIONAIS.md
-
-9. MUNDO NECESSÁRIO
-→ 20-CRIACAO-MUNDO-NECESSARIO.md
-
-10. ESTADO INICIAL
-→ 21-CRIACAO-ESTADO-INICIAL.md
-→ modelos/ESTADO.md
-
-11. AUDITORIA DE PREPARAÇÃO
-→ 22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
-
-12. START
-→ 23-START.md
+INICIO.md → premissa, tom, composição e configuração.
+canon/personagens/ → fichas aprovadas.
+canon/direcao.md → Direção vigente.
+canon/mundo/ → fatos externos necessários.
+canon/relacoes/ → vínculos duradouros que precisam de fonte própria.
+estado/ → condições iniciais e presente individual.
+operacao.md → preparação ou Mesa pendente, quando necessário.
 ```
 
----
+A Direção pode ser mínima. O mundo necessário pode ser nenhum antes do START. Não criar enciclopédia, futuro, elenco ornamental ou agenda exaustiva por obrigação.
 
-# 1 — Premissa
+Política padrão: Mesa CICLO OBRIGATÓRIO, indicador SILENCIOSO e módulos opcionais inativos salvo escolha ou necessidade real. O Livro é preparado para ativação obrigatória com a primeira Ficção.
 
-Responde:
+## Estado inicial e Auditoria
 
-> **Que história estamos tentando construir?**
+Usar `21-CRIACAO-ESTADO-INICIAL.md` e `modelos/CAMPANHA/estado/`. Definir o presente inicial e o primeiro ponto aberto, sem pré-escrever a primeira cena. Registrar conhecimento, intenções e compromissos somente quando legitimamente estabelecidos. Não preencher o Estado com Direção futura ou proposta de Mesa.
 
-Não transformar Premissa em sinopse completa.
+A Auditoria verifica se outra IA conseguiria reconstruir a obra a partir das fontes persistentes, sem depender do chat. Verificar autoridade, conhecimentos separados, memória viva, escopo, módulos, Livro e integridade das fontes necessárias. Não exigir detalhes que a Ficção pode descobrir organicamente.
 
-```text
-PREMISSA: APROVADA
-→ Estilo / Tom
-```
+Se aprovada, marcar PRONTA. Se houver bloqueio real, reparar com fonte legítima ou decisão do Diretor.
 
----
+## START
 
-# 2 — Estilo / Tom
+Usar `23-START.md`. Começar somente com autorização semântica, inclusive aquela já dada durante a preparação. Se o Diretor pediu apenas preparação, aguardar em PRONTA.
 
-Responde:
+Reancorar, restaurar as Cadeiras e a operação, identificar o primeiro ponto aberto e a próxima autoria, respeitar o ciclo e o escopo aprovado. A primeira Ficção ativa o Livro. Não exigir incidente incitante, combate ou perigo.
 
-> **Como queremos experimentar e apresentar esta história?**
+Uma Cadeira IA disponível pode decidir e continuar dentro da autorização vigente. Consequências evidentes podem ser apresentadas; resultados materiais importantes ainda abertos podem voltar à Mesa. Não usar Juiz ou RNG invisível.
 
-Pode definir gênero, tom, ritmo, escala, perspectiva e limites quando realmente importarem.
-
-Não importar clichês como fatos.
-
----
-
-# 3 — Nome / Destino
-
-Definir:
-
-```text
-NOME
-SLUG
-DESTINO → campanhas/<slug>/
-```
-
-Antes de criar, verificar conflito.
-
-Criar primeiro:
-
-```text
-campanhas/<slug>/README.md
-```
-
-com somente o que já foi aprovado.
-
-```text
-DESTINO CRIADO
-≠ FICÇÃO INICIADA
-```
-
----
-
-# 4 — Personagens Centrais
-
-Definir quem precisa sustentar a Premissa no início.
-
-```text
-PERSONAGEM CENTRAL
-≠ FICHA CONCLUÍDA
-```
-
-Não criar elenco ornamental por hábito. Não antecipar configuração de Cadeiras se ela ainda não foi dada.
-
-```text
-PESSOA
-→ primeiro.
-```
-
----
-
-# 5 — Fichas
-
-Usar:
-
-```text
-16-CRIACAO-FICHAS.md
-04-FICHA.md
-modelos/FICHA.md
-```
-
-Preferir uma personagem por vez:
-
-```text
-reunir o que já sabemos
-→ identificar lacunas realmente importantes
-→ propor
-→ revisar
-→ aprovar
-→ salvar
-```
-
-```text
-FICHA SUFICIENTE
-≠ FICHA EXAUSTIVA
-```
-
-Não inventar trauma, segredo, fraqueza, poder ou drama para preencher campos.
-
----
-
-# 6 — Autoridades / Cadeiras / Executores
-
-Usar `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md`.
-
-Ordem:
-
-```text
-PESSOA
-→ FICHA
-→ CADEIRA
-→ EXECUTOR
-```
-
-Configuração comum:
-
-```text
-DIRETOR → HUMANO
-NARRADOR → IA
-CADEIRAS não atribuídas ao Diretor → IA
-```
-
-No W4D atual:
-
-```text
-NARRADOR
-≠ JUIZ
-≠ SUPERVISOR DAS CADEIRAS
-```
-
-O Narrador apresenta a Ficção; resultados materiais abertos podem voltar à Mesa. Não precisa aprovar novamente o julgamento de cada Cadeira.
-
-Não escolher silenciosamente qual personagem pertence ao Diretor.
-
-```text
-DELEGAR EXECUÇÃO
-≠ TRANSFERIR VONTADE
-```
-
-A Personagem do Diretor pode receber execução IA com qualidade plena dentro do objetivo e intervalo autorizados. A IA escolhe como executar, sem ampliar a delegação para a agenda inteira.
-
-As Cadeiras devem manter agendas, compromissos e iniciativas próprios. A Mesa pode alinhar essas linhas de vida sem conceder conhecimento indevido às personagens.
-
-Registrar configuração aprovada no `README.md`.
-
----
-
-# 7 — Direção
-
-Usar `18-CRIACAO-DIRECAO.md`.
-
-A Direção inicial preserva o que o Diretor já decidiu e ainda precisa continuar válido.
-
-> **Direção não é plano obrigatório do futuro.**
-
-```text
-DIRETOR NÃO DECIDIU
-→ NÃO PRECISA PREENCHER.
-```
-
-Salvar em:
-
-```text
-campanhas/<slug>/direcao.md
-```
-
----
-
-# 8 — Políticas Operacionais
-
-Usar `19-CRIACAO-POLITICAS-OPERACIONAIS.md`.
-
-Definir:
-
-```text
-POLÍTICA DE MESA
-INDICADOR OPERACIONAL
-MÓDULOS OPCIONAIS ATIVOS
-LIVRO PREPARADO PARA ATIVAÇÃO OBRIGATÓRIA
-```
-
-Padrões:
-
-```text
-MESA: CICLO OBRIGATÓRIO
-INDICADOR OPERACIONAL: SILENCIOSO
-MÓDULOS OPCIONAIS: INATIVOS salvo escolha ou necessidade real
-LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
-```
-
-O Livro não é uma escolha opcional durante a Ficção.
-
-O ciclo obrigatório não precisa ser ativado por pergunta. O Diretor pode escolher expressamente política diferente, e a configuração será registrada. Uma execução direta local não muda a política persistente.
-
----
-
-# 9 — Mundo Necessário
-
-Usar `20-CRIACAO-MUNDO-NECESSARIO.md`.
-
-Pergunta:
-
-> **Existe fato externo às personagens que precisa estar definido antes do START?**
-
-Resultado válido:
-
-```text
-MUNDO NECESSÁRIO: NENHUM ANTES DO START
-```
-
-Não construir enciclopédia por obrigação.
-
----
-
-# 10 — Estado Inicial
-
-Usar:
-
-```text
-21-CRIACAO-ESTADO-INICIAL.md
-modelos/ESTADO.md
-```
-
-Pergunta:
-
-> **Onde estamos quando a Ficção abrir, o que já é verdade e qual é a primeira coisa que continua aberta?**
-
-```text
-ESTADO SUFICIENTE
-≠ PRIMEIRA CENA PRÉ-ESCRITA
-```
-
-Antes da primeira cena:
-
-```text
-Último fato estabelecido
-→ história ainda não iniciada.
-```
-
-O primeiro ponto aberto deve preservar a autoria correta ou identificar que o próximo passo é apenas continuidade evidente.
-
----
-
-# Persistência progressiva
-
-Depois que o workspace existe:
-
-```text
-Premissa / Estilo / composição central / autoridades / políticas
-→ README.md
-
-ficha aprovada
-→ personagens/<nome>.md
-
-Direção
-→ direcao.md
-
-mundo necessário
-→ mundo/<assunto>.md
-
-âncora e presente ficcional, incluindo compromissos e prazos relevantes
-→ estado.md
-```
-
-Se etapa ainda aberta precisar sobreviver à perda de contexto:
-
-```text
-operacao.md
-→ preserva processo pendente sem canonizá-lo.
-```
-
-> **Persistir o que foi decidido. Não antecipar o que continua aberto.**
-
----
-
-# 11 — Auditoria de Preparação
-
-Usar:
-
-```text
-22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
-```
-
-A Auditoria responde:
-
-> **Uma nova IA conseguiria iniciar corretamente esta obra usando somente as fontes persistentes?**
-
-Ela verifica também que a obra usa a arquitetura atual:
-
-```text
-Narrador sem função de Juiz ou supervisor das Cadeiras
-Mesa com ciclo obrigatório por padrão, salvo política explícita diferente
-julgamento próprio das Cadeiras
-execução da Personagem do Diretor delimitada por escopo
-agendas e conhecimento separados
-sem RNG universal
-sem sentença causal escondida
-Livro preparado para ativação obrigatória com a primeira Ficção
-```
-
-```text
-PRONTA
-→ reconstruível e executável.
-
-PRONTA
-≠ completamente planejada.
-
-PRONTA
-≠ Ficção já iniciada.
-```
-
-Se aprovada:
-
-```text
-AUDITORIA: APROVADA
-STATUS → PRONTA
-→ START quando houver autorização semântica para começar.
-```
-
-Se o Diretor já havia dito `crie e comece`, `quando estiver pronta pode iniciar` ou equivalente, não pedir nova confirmação ritual. Se pediu somente preparação/criação, parar em `PRONTA`.
-
----
-
-# 12 — START
-
-Usar:
-
-```text
-23-START.md
-```
-
-START:
-
-```text
-→ confirma autorização semântica para começar
-→ reancora o mínimo necessário
-→ reconstrói pacotes separados das Cadeiras
-→ restaura operação pendente, se houver
-→ caso contrário identifica primeiro ponto aberto
-→ identifica próxima autoria ou função
-→ respeita ciclo de Mesa e escopo já autorizados
-→ ativa o Livro obrigatoriamente quando a primeira Ficção for executada
-→ começa a Ficção sem redistribuir autoridade
-```
-
-A partir do primeiro ponto:
-
-```text
-Cadeira IA disponível
-→ decide e continua dentro da autorização vigente.
-
-Personagem do Diretor / executor externo indisponível
-→ Narrador pode apresentar a moldura inicial
-→ parar antes da vontade necessária.
-
-consequência ordinária/evidente
-→ Narrador apresenta e continua.
-
-resultado material importante realmente aberto
-→ Mesa, quando necessária.
-```
-
-Não usar Juiz ou RNG invisível. Não existe obrigação de começar por ação, conflito ou perigo.
-
-Uma direção inicial aprovada durante a preparação pode ser executada no START sem repetir a mesma autorização. Uma nova proposta não aprovada entra no ciclo obrigatório antes de virar Ficção.
-
-Quando a primeira Ficção realmente for executada:
-
-```text
-STATUS
-PRONTA
-→ EM EXECUÇÃO
-
-LIVRO
-PREPARADO
-→ ATIVO
-```
-
----
-
-# Regra final
-
-> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção exatamente no primeiro ponto autorizado. O ciclo obrigatório, a delegação delimitada e as agendas próprias acompanham qualquer nova obra, preservando Diretor, Cadeiras, Mesa e Narrador em funções separadas, sem Juiz permanente. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
+> **A preparação torna a obra reconstruível. O START abre a Ficção autorizada. A memória viva deve conservar a continuidade de todas as personagens, não apenas a do protagonista.**

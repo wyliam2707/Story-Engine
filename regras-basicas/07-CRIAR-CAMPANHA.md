@@ -1,439 +1,87 @@
 # 07 — Criar História / Campanha
 
-No W4D, `campanha` é o nome técnico atual do espaço persistente de uma obra.
+No W4D, campanha é o espaço persistente de uma obra. Este arquivo materializa o workspace durante a preparação. O processo autoral é coordenado por `10-INICIAR-HISTORIA-COM-IA.md`. A estrutura vigente é definida por `25-MEMORIA-DE-CAMPANHA.md` e pelo modelo `modelos/CAMPANHA/`.
 
-Este arquivo define **como materializar e completar o workspace persistente**.
+> **Primeiro decidir. Depois persistir. Não criar fatos para preencher uma árvore.**
 
-Para criação conduzida por IA, ele complementa `10-INICIAR-HISTORIA-COM-IA.md`.
+## Nascimento do workspace
 
-> **Primeiro decidir. Depois persistir. Não criar arquivos para preencher uma árvore ideal.**
-
----
-
-# Quando a pasta nasce
-
-No ramo `NOVA HISTÓRIA`, criar o destino somente depois de:
+Depois de Premissa e Estilo/Tom aprovados, nome aprovado ou provisório autorizado, slug definido e destino livre, criar:
 
 ```text
-PREMISSA → APROVADA
-ESTILO / TOM → APROVADO
-NOME → APROVADO ou provisório autorizado
-SLUG → definido e sem conflito
+campanhas/<slug>/INICIO.md
 ```
 
-Seguir `14-CRIACAO-NOME-E-DESTINO.md`.
+Registrar apenas nome, status EM PREPARAÇÃO, premissa e tom já aprovados. Não criar fichas, mundo, futuro ou primeira cena por antecipação. O arquivo de entrada materializa a pasta no GitHub. `DESTINO CRIADO` não significa preparação concluída nem START.
 
-Criar primeiro:
-
-```text
-campanhas/<slug>/README.md
-```
-
-Conteúdo mínimo:
-
-```text
-# [NOME]
-
-STATUS
-→ EM PREPARAÇÃO
-
-## Proposta curta
-[Premissa aprovada.]
-
-## Estilo / Tom
-[Resumo aprovado.]
-```
-
-```text
-DESTINO CRIADO
-≠ PREPARAÇÃO CONCLUÍDA
-≠ START
-```
-
----
-
-# Persistência progressiva
-
-```text
-Personagens centrais
-→ README.md
-
-ficha aprovada
-→ personagens/<slug-da-personagem>.md
-
-Autoridades / políticas
-→ README.md
-
-Direção
-→ direcao.md
-
-Mundo necessário
-→ mundo/<assunto>.md
-
-Estado inicial / atual
-→ estado.md
-
-Mesa / Auditoria / criação pendente
-→ operacao.md
-```
-
-Não criar arquivo vazio nem inventar conteúdo para completar estrutura.
-
----
-
-# Estrutura possível
+## Estrutura vigente
 
 ```text
 campanhas/<slug>/
-├── README.md
-├── direcao.md
-├── estado.md
-├── personagens/
-├── operacao.md             # somente quando necessário
-├── mundo/                  # somente quando necessário
-├── arco.md                 # somente com Arco Preparado ativo
-├── oposicao.md             # somente com Opositor ativo
-└── livro/                  # obrigatório quando houver Ficção fechada para registrar
+├── INICIO.md
+├── canon/
+│   ├── direcao.md
+│   ├── mundo/
+│   ├── personagens/
+│   └── relacoes/
+├── estado/
+│   ├── cena-atual.md
+│   ├── personagens.md
+│   ├── relacoes.md
+│   └── pendencias.md
+├── operacao.md                  # quando necessário
+└── livro/
+    ├── README.md
+    └── 001-....md
 ```
 
-A ausência de fonte opcional não é erro.
+Não criar arquivos vazios nem inventar conteúdo para completar diretórios. Fichas, mundo e vínculos aparecem conforme aprovação e necessidade. Os quatro arquivos de Estado são a memória viva e devem estar suficientes antes de iniciar. O Livro é obrigatório durante a Ficção, embora não precise conter capítulos antes do START.
 
-Antes do START, `livro/` pode ainda não existir porque nenhuma Ficção foi fechada. Depois que a Ficção começar, o Livro é obrigatório e deve registrar todo capítulo fechado.
+Arco Preparado e Opositor continuam opcionais, com arquivos próprios quando ativos. A Edição de Leitura é derivada. Referenciar fontes opcionais por `INICIO.md` sem obrigar sua criação.
 
----
+## Persistência por etapa
 
-# Passo 1 — Personagens centrais
+| Etapa | Fonte principal |
+| --- | --- |
+| Premissa, tom, nome, autoridades, políticas e módulos | `INICIO.md` |
+| Ficha aprovada | `canon/personagens/<slug>.md` |
+| Direção vigente | `canon/direcao.md` |
+| Mundo necessário | `canon/mundo/<assunto>.md` |
+| Vínculo duradouro que precisa de fonte própria | `canon/relacoes/<vinculo>.md` |
+| Estado inicial e presente | `estado/` |
+| Mesa, Auditoria ou criação pendente | `operacao.md` |
+| Ficção válida fechada | `livro/` |
 
-Seguir `15-CRIACAO-PERSONAGENS-CENTRAIS.md`.
+A estrutura cresce junto com a obra. Uma ficha suficiente não é exaustiva. Um vínculo não exige arquivo próprio apenas por existir. Uma intenção ou compromisso não vira fato pela opinião de uma Cadeira.
 
-```text
-README
-→ quem está no centro da obra.
+## Personagens, Cadeiras e Executores
 
-FICHA
-→ quem cada pessoa é.
-```
+Seguir `15-CRIACAO-PERSONAGENS-CENTRAIS.md`, `16-CRIACAO-FICHAS.md`, `17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md` e `04-FICHA.md`. Preferir uma personagem por vez e preservar o que já foi aprovado. Registrar em `INICIO.md` Diretor, Narrador, Personagem do Diretor se houver, Cadeiras e executores.
 
-Não antecipar configuração de Cadeiras quando ela ainda não foi dada.
+O Narrador não é Juiz. Uma única IA pode operar várias Cadeiras sem fundi-las. A vontade da Personagem do Diretor não é transferida à IA por delegação de execução. As Cadeiras conservam agendas, vínculos e iniciativas próprios.
 
----
+## Direção, políticas e mundo
 
-# Passo 2 — Fichas
+Seguir as etapas 18, 19 e 20. A Direção pode ser mínima; não preencher um futuro não decidido. O padrão é `MESA: CICLO OBRIGATÓRIO` e indicador SILENCIOSO, salvo escolha expressa diferente. Módulos opcionais são ativados quando realmente usados; o Livro é preparado para ativação obrigatória.
 
-Seguir:
+O mundo necessário pode ser nenhum antes do START. Não construir enciclopédia por hábito. Os fatos externos estáveis pertencem a `canon/mundo/`, e não ao Estado da cena.
 
-```text
-16-CRIACAO-FICHAS.md
-04-FICHA.md
-modelos/FICHA.md
-```
+## Estado inicial
 
-Preferir uma personagem por vez.
+Seguir `21-CRIACAO-ESTADO-INICIAL.md` e os modelos em `modelos/CAMPANHA/estado/`. Registrar somente condições iniciais aprovadas, presenças e posições relevantes, conhecimentos individuais necessários, compromissos existentes e primeiro ponto aberto. Não pré-escrever a primeira cena nem inventar intenções para produzir movimento.
 
-Salvar somente quando aprovada:
+Antes da primeira Ficção, o último fato é `história ainda não iniciada`. A âncora inicial e as próximas autorias devem ser reconhecíveis. Não exigir calendário exaustivo ou informações que ainda não existem.
 
-```text
-campanhas/<slug>/personagens/<slug-da-personagem>.md
-```
+## Auditoria e START
 
-```text
-FICHA SUFICIENTE
-≠ FICHA EXAUSTIVA
-```
+A preparação deve ser suficiente para outra IA reconstruir a obra. Seguir `22-CRIACAO-AUDITORIA-DE-PREPARACAO.md`. Verificar integridade, autoridade, separação de conhecimento, fontes necessárias, memória viva e operação pendente. Falta real bloqueante exige reparo fundamentado, não improvisação.
 
-Rascunho que precisa persistir antes da aprovação pode ficar em `operacao.md`.
+Com Auditoria aprovada, marcar PRONTA. O START segue `23-START.md` e requer autorização semântica para começar. Se o Diretor já disse `crie e comece`, não pedir nova confirmação. Se pediu somente preparação, aguardar.
 
----
+START reancora, restaura as Cadeiras e a operação correta, identifica o primeiro ponto aberto e inicia sem redistribuir autoridade. A primeira Ficção ativa obrigatoriamente o Livro. Não existe obrigação de começar por conflito ou perigo.
 
-# Passo 3 — Autoridades, Cadeiras e Executores
+## Campanhas anteriores
 
-Seguir:
+As histórias existentes permanecem preservadas como testes. Não apagar ou reescrever capítulos nem migrar automaticamente suas fontes. A estrutura nova vale para obras criadas daqui para frente. Uma migração expressa deve preservar originais e verificar fontes antes de consolidar o novo Estado.
 
-```text
-17-CRIACAO-AUTORIDADES-CADEIRAS-E-EXECUTORES.md
-03-CADEIRAS-E-EXECUTORES.md
-05-NARRADOR.md
-```
-
-Ordem:
-
-```text
-PESSOA
-→ FICHA
-→ CADEIRA
-→ EXECUTOR
-```
-
-Registrar no `README.md`:
-
-```text
-DIRETOR
-NARRADOR
-PERSONAGEM DO DIRETOR, se houver
-CADEIRAS necessárias
-EXECUTOR de cada função
-deligações relevantes
-```
-
-No W4D atual:
-
-```text
-NARRADOR
-≠ JUIZ
-```
-
-O Narrador apresenta a Ficção. Resultado material realmente aberto pode ir à Mesa.
-
-```text
-DELEGAR EXECUÇÃO
-≠ TRANSFERIR VONTADE
-```
-
----
-
-# Passo 4 — Direção
-
-Seguir:
-
-```text
-18-CRIACAO-DIRECAO.md
-01-AUTORIDADE-E-DIRECAO.md
-modelos/DIRECAO.md
-```
-
-Criar:
-
-```text
-campanhas/<slug>/direcao.md
-```
-
-A Direção pode ser mínima.
-
-```text
-DIRETOR NÃO DECIDIU O FUTURO
-→ NÃO PREENCHER O FUTURO.
-```
-
----
-
-# Passo 5 — Políticas Operacionais
-
-Seguir `19-CRIACAO-POLITICAS-OPERACIONAIS.md`.
-
-Registrar:
-
-```text
-POLÍTICA DE MESA
-INDICADOR OPERACIONAL
-MÓDULOS OPCIONAIS ATIVOS
-LIVRO PREPARADO PARA ATIVAÇÃO OBRIGATÓRIA
-```
-
-Padrões:
-
-```text
-MESA: SOB DEMANDA
-INDICADOR: SILENCIOSO
-MÓDULOS OPCIONAIS: INATIVOS salvo escolha ou necessidade real
-LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
-```
-
-A Mesa pode ser usada para qualquer domínio narrativo, inclusive combate.
-
----
-
-# Passo 6 — Mundo Necessário
-
-Seguir `20-CRIACAO-MUNDO-NECESSARIO.md`.
-
-Resultado legítimo:
-
-```text
-MUNDO NECESSÁRIO
-→ NENHUM ANTES DO START
-```
-
-Quando houver fatos externos estáveis realmente necessários:
-
-```text
-campanhas/<slug>/mundo/<assunto>.md
-```
-
-Não construir enciclopédia por hábito.
-
----
-
-# Passo 7 — Mesa inicial, quando necessária
-
-Durante a preparação:
-
-```text
-DIRETOR PROPÕE
-→ CADEIRAS OPINAM
-→ NARRADOR PODE EMITIR PARECER
-→ DIRETOR ALTERA, CANCELA OU FECHA
-```
-
-Nada discutido vira Ficção apenas porque houve concordância.
-
-Uma proposta pode ser ajustada até existir uma versão que as Cadeiras consigam sustentar.
-
-Depois do fechamento:
-
-```text
-RESULTADO FECHADO
-→ não reabrir.
-
-CAMINHO RESTANTE
-→ Cadeiras executam.
-```
-
-Se a Mesa precisar sobreviver a pausa:
-
-```text
-operacao.md
-```
-
----
-
-# Passo 8 — Estado Inicial
-
-Seguir:
-
-```text
-21-CRIACAO-ESTADO-INICIAL.md
-modelos/ESTADO.md
-```
-
-Criar:
-
-```text
-campanhas/<slug>/estado.md
-```
-
-Antes do primeiro START:
-
-```text
-Último fato estabelecido
-→ história ainda não iniciada.
-```
-
-```text
-ESTADO INICIAL
-≠ PRIMEIRA CENA PRÉ-ESCRITA
-```
-
-O primeiro ponto aberto deve preservar a próxima autoria ou identificar continuidade evidente.
-
----
-
-# Passo 9 — Auditoria de Preparação
-
-Seguir:
-
-```text
-22-CRIACAO-AUDITORIA-DE-PREPARACAO.md
-```
-
-A Auditoria verifica se outra IA consegue reconstruir e iniciar corretamente a obra.
-
-Ela também confirma:
-
-```text
-NARRADOR configurado sem função de Juiz
-Mesa disponível para resultados materiais abertos
-sem RNG universal
-sem sentença escondida
-Livro preparado para ativação obrigatória com a primeira Ficção
-```
-
-Se tudo estiver suficiente:
-
-```text
-AUDITORIA: APROVADA
-STATUS → PRONTA
-```
-
-Se houver bloqueio autoral real:
-
-```text
-AUDITORIA: BLOQUEADA
-STATUS → EM PREPARAÇÃO
-```
-
-```text
-PRONTA
-≠ FICÇÃO JÁ INICIADA
-```
-
----
-
-# Passo 10 — START
-
-Seguir:
-
-```text
-23-START.md
-```
-
-START ocorre depois da Auditoria aprovada **e quando existe autorização semântica para começar a Ficção**.
-
-```text
-Diretor já disse "crie e comece" / "quando estiver pronta, pode iniciar"
-→ não pedir nova confirmação ritual.
-
-Diretor pediu somente preparação
-→ parar em PRONTA até autorização de início.
-```
-
-Ao executar:
-
-```text
-START
-→ reancorar o mínimo necessário
-→ reconstruir Cadeiras separadamente
-→ restaurar operação pendente, se houver
-→ caso contrário identificar primeiro ponto aberto
-→ identificar próxima autoria ou função
-→ ativar o Livro quando a primeira Ficção for executada
-→ iniciar a camada correta
-```
-
-Então:
-
-```text
-Cadeira IA disponível
-→ decide e continua.
-
-Personagem do Diretor / executor externo indisponível
-→ Narrador pode apresentar a moldura inicial
-→ parar antes da vontade necessária.
-
-consequência ordinária/evidente
-→ Narrador apresenta e continua.
-
-resultado material importante ainda aberto
-→ Mesa, quando necessária.
-```
-
-Não usar Juiz ou RNG invisível.
-
-Não existe obrigação de começar por ação, conflito ou perigo.
-
-Quando a primeira Ficção realmente ocorrer:
-
-```text
-STATUS
-PRONTA
-→ EM EXECUÇÃO
-
-LIVRO
-PREPARADO
-→ ATIVO
-```
-
----
-
-# Regra final
-
-> **O workspace cresce junto com a preparação. Fichas preservam pessoas; Direção preserva decisões autorais; políticas configuram o motor; mundo preserva fatos externos necessários; Estado preserva a âncora presente; a Auditoria verifica reconstruibilidade; e o START abre a Ficção somente quando ela está pronta e autorizada. A Mesa substitui a necessidade de um Juiz para resultados autorais importantes, enquanto o Narrador apresenta a versão executável. O Livro torna-se obrigatório e ativo com a primeira Ficção.**
+> **O workspace guarda a obra, não apenas o protagonista. A IA deve manter a memória de cada Cadeira e seus vínculos sem depender do chat como única fonte.**
