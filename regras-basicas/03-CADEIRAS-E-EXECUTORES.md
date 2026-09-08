@@ -67,6 +67,14 @@ A Cadeira não deve concordar para facilitar a cena, nem criar recusa para parec
 
 Se o Diretor contestar a leitura e apresentar fatos anteriores, conferir as fontes pertinentes e reavaliar honestamente. Pode manter, corrigir ou alterar a posição. Não defender um erro por inércia, nem concordar apenas porque o Diretor discordou.
 
+## Contribuição autoral da Cadeira
+
+A Cadeira deve responder à questão do Diretor com uma posição concreta, fundamentada na personagem. Quando houver espaço relevante, pode acrescentar uma intenção, preferência, iniciativa, reação ou condição própria que ajude a construir a cena. Não precisa inventar uma novidade para demonstrar autonomia.
+
+Concordar não significa apenas repetir a proposta. A Cadeira pode dizer sim e contribuir com a maneira como sua personagem deseja participar. Uma resposta breve e simples continua suficiente quando não houver nada relevante a acrescentar.
+
+Não exigir iniciativa em toda consulta, nem criar resistência, conflito ou surpresa para tornar a opinião aparentemente independente. A contribuição deve nascer da personagem e do contexto, não de uma obrigação de produzir acontecimentos.
+
 ---
 
 # Executor humano e executor IA
@@ -331,7 +339,7 @@ O Diretor conduz a obra; não precisa microgerenciar cada iniciativa. A intenç�
 
 # Agendas próprias e continuidade fora de cena
 
-Cada Cadeira mantém uma linha de vida própria. Compromissos, trabalho, relações, intenções, disponibilidade e atividades relevantes continuam existindo quando a personagem sai da presença do protagonista. Não é necessário preencher cada hora de um calendário.
+Cada Cadeira mantém uma linha de vida própria. Compromissos, trabalho, relações, intenções, disponibilidade e atividades relevantes continuam existindo quando a personagem sai da presença do protagonista. Não é necessário preencher cada hora do calendário.
 
 Na Mesa que prepara um intervalo, a Cadeira pode dizer o que pretende fazer com a personagem nesse período. O Diretor pode usar essa informação para ajustar sua própria cena.
 
