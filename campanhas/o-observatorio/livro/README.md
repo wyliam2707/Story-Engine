@@ -37,4 +37,10 @@ Livro canônico da campanha.
     - [Continuação: A Volta para Casa](027a-a-volta-para-casa.md), registro complementar do jantar, da despedida e do retorno.
 28. [O Lugar de Voltar](028-o-lugar-de-voltar.md)
 
-**Temporada 2 encerrada no Capítulo 28.** A próxima temporada ainda não foi iniciada.
+**Temporada 2 encerrada no Capítulo 28.**
+
+## Temporada 3
+
+29. [Pela Porta da Frente](029-pela-porta-da-frente.md)
+
+**Capítulo 29 encerrado.** A continuidade começa no último ponto de `estado.md`, sem avanço automático do relógio.
