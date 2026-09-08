@@ -17,7 +17,7 @@ IA RECEBE O W4D
 ↓
 CARREGA O NÚCLEO
 ↓
-CONFIRMA INTERNAMENTE AS FUNÇÕES
+CONFIRMA INTERNAMENTE AS FUNÇÕES E O CICLO DE AUTORIA
 ↓
 IDENTIFICA A OPERAÇÃO DESEJADA
 ↓
@@ -40,29 +40,30 @@ README.md
 05-NARRADOR.md
 08-PLAUSIBILIDADE-E-RITMO.md
 06-REGISTRO-E-RETOMADA.md
+24-CICLO-DE-AUTORIA.md
 ```
 
-A IA não precisa recitar esses arquivos.
+O arquivo 24 é obrigatório e não depende da ativação de módulo. Se um resumo anterior divergir sobre ciclo, delegação ou agendas, aplicar a especificação vigente.
 
-Precisa distinguir:
+A IA não precisa recitar esses arquivos. Precisa distinguir:
 
 ```text
 DIRETOR
 → conduz e pode fechar o que desejar.
 
 CADEIRA
-→ autoria voluntária de uma personagem no espaço aberto.
+→ função autoral responsável pela vontade de uma personagem no espaço aberto.
 
 EXECUTOR
 → quem opera uma função.
 
 MESA
-→ espaço autoral para testar, alinhar e fechar versões.
+→ espaço autoral para julgamento, discussão, alinhamento e fechamento de versões.
 
 NARRADOR
-→ na Mesa pode emitir Parecer;
+→ na Mesa pode emitir Parecer quando útil;
 → na Ficção apresenta continuidade e consequências evidentes;
-→ não funciona como Juiz permanente.
+→ não funciona como Juiz nem supervisor das Cadeiras.
 
 FICÇÃO
 → acontecimentos efetivamente executados.
@@ -87,6 +88,46 @@ SEM RNG UNIVERSAL
 SEM TESTE UNIVERSAL
 SEM DIFICULDADE UNIVERSAL
 SEM SENTENÇA OCULTA DO NARRADOR
+
+MESA: CICLO OBRIGATÓRIO
+→ padrão de nova obra.
+```
+
+## Verificação operacional do ciclo
+
+Antes de operar, a IA deve compreender:
+
+```text
+nova ideia do Diretor
+→ Mesa, salvo execução direta expressa.
+
+Cadeira na Mesa
+→ julgamento autoral próprio, não fala ficcional.
+
+Mesa aberta
+→ discussão sem limite fixo de rodadas;
+→ nada novo é canonizado antes da autorização.
+
+Pode fazer
+→ executar somente a versão e o escopo aprovados.
+
+Execução autorizada
+→ continuar sem nova Mesa para cada gesto ordinário.
+
+Personagem do Diretor
+→ vontade do Diretor;
+→ IA decide como executar dentro da delegação.
+
+Faça como achar melhor
+→ escolha delegada na questão em discussão, não na vida inteira.
+
+Cadeiras
+→ agendas e iniciativas próprias;
+→ conhecimento autoral não vira conhecimento ficcional.
+
+Narrador
+→ não aprova novamente a vontade das Cadeiras;
+→ não escolhe resultado material escondido.
 ```
 
 Se um resultado material importante continua realmente aberto, a questão pode ir à Mesa.
@@ -117,6 +158,12 @@ sem atribuir poder de sentença, RNG oculto ou arbitragem soberana.
 Quando houver operação legítima de atualização, o rótulo pode ser normalizado mecanicamente.
 
 > **Rótulo legado não reativa uma autoridade removida do engine.**
+
+## Políticas de Mesa antigas
+
+Uma política explicitamente escolhida e ainda válida por uma obra existente deve ser respeitada durante a retomada. A ausência de política explícita aplica o padrão vigente `MESA: CICLO OBRIGATÓRIO`.
+
+Não interpretar uma autorização local como mudança permanente de política. Não reescrever retrospectivamente o cânone de uma obra antiga para adaptar seu passado ao novo ciclo. Se o Diretor determinar a migração, atualizar somente a configuração necessária, preservando os acontecimentos.
 
 ---
 
@@ -186,7 +233,7 @@ Auditoria
 START
 ```
 
-O BOOT não antecipa essas decisões.
+O BOOT não antecipa essas decisões. Registrar o ciclo obrigatório como padrão, salvo escolha explícita diferente do Diretor. Não transformar o padrão em pergunta obrigatória.
 
 ---
 
@@ -277,8 +324,10 @@ CONTEXTO OPERACIONAL VÁLIDO
 → continuar a operação atual.
 ```
 
+Isso não permite ignorar uma Mesa aberta, ultrapassar o escopo de execução ou assumir vontade pertencente ao Diretor. Se uma mudança normativa relevante ocorreu, carregar o complemento necessário antes de prosseguir.
+
 ---
 
 # Regra final
 
-> **A IA aprende o W4D antes de usá-lo. Aprende também que o Narrador não é Juiz: resultados importantes não são decididos por sentença oculta. Depois do BOOT, a IA distingue entre criar uma obra nova e retomar uma existente, e só então entra no fluxo correspondente.**
+> **A IA aprende o W4D antes de usá-lo. Aprende também que a nova proposta autoral passa pelo ciclo de Mesa, que as Cadeiras oferecem julgamento próprio e que o Narrador não é Juiz. Depois do BOOT, distingue entre criar uma obra nova e retomar uma existente, preserva o escopo da delegação e só então entra no fluxo correspondente.**
