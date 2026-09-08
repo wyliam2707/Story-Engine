@@ -4,9 +4,7 @@ Este arquivo define a **oitava etapa autoral** do ramo `NOVA HISTÓRIA`.
 
 Ele entra em uso depois que a Direção inicial já está suficiente em `18-CRIACAO-DIRECAO.md`.
 
-Esta etapa não define a história, o mundo ou a personalidade das personagens.
-
-Ela define **como o W4D vai operar nesta obra**.
+Esta etapa não define a história, o mundo ou a personalidade das personagens. Ela define **como o W4D vai operar nesta obra**.
 
 > **Política operacional configura o sistema; não cria Ficção.**
 
@@ -41,7 +39,7 @@ Se o Diretor não demonstrou preferência especial:
 
 ```text
 MESA
-→ SOB DEMANDA
+→ CICLO OBRIGATÓRIO
 
 INDICADOR OPERACIONAL
 → SILENCIOSO
@@ -63,23 +61,43 @@ Perguntar apenas quando a escolha muda materialmente a forma de interação dese
 
 # Política de Mesa
 
-A fonte normativa é:
+As fontes normativas são:
 
 ```text
 00-ARQUITETURA-E-MESA.md
+24-CICLO-DE-AUTORIA.md
 ```
 
 As opções são:
 
 ```text
+MESA: CICLO OBRIGATÓRIO
 MESA: SOB DEMANDA
 MESA: CONSULTAR PROPOSTAS
 MESA: CONSULTA FORTE
 ```
 
+## CICLO OBRIGATÓRIO
+
+Padrão do W4D e de toda nova obra, salvo escolha explícita diferente do Diretor.
+
+```text
+IDEIA / DIREÇÃO / QUESTÃO
+→ julgamento das Cadeiras pertinentes
+→ discussão e refinamento, por quantas rodadas o Diretor desejar
+→ pode fazer / autorização equivalente
+→ Ficção executa o escopo aprovado.
+```
+
+A Mesa é um espaço de coautoria. A Cadeira oferece julgamento concreto, que pode ser breve. O Narrador não precisa aprovar cada opinião e só emite parecer quando houver questão real.
+
+Uma autorização expressa de execução direta dispensa a Mesa somente para o escopo indicado. Não altera a política persistente.
+
+O ciclo não exige nova Mesa para cada gesto dentro de uma cena já autorizada. A IA continua pelo objetivo, intervalo e condição de parada definidos. Não amplia `faça como achar melhor` para decisões que não estavam em discussão.
+
 ## SOB DEMANDA
 
-Padrão do W4D.
+Política alternativa escolhida explicitamente pelo Diretor.
 
 ```text
 consultar
@@ -91,44 +109,63 @@ consultar
 
 ## CONSULTAR PROPOSTAS
 
-Usar quando o Diretor quer que propostas claramente consultivas passem pelas Cadeiras antes de execução.
+Política alternativa explícita para quando o Diretor quer que propostas claramente consultivas passem pelas Cadeiras antes de execução.
 
 Não transforma determinação inequívoca fora de Mesa em consulta automática.
 
 ## CONSULTA FORTE
 
-Usar quando o Diretor quer receber opinião breve das Cadeiras mesmo diante de algumas decisões recém-formuladas sobre vontade, reação ou postura de personagem.
+Política alternativa explícita para quando o Diretor quer receber opinião breve das Cadeiras mesmo diante de algumas decisões recém-formuladas sobre vontade, reação ou postura de personagem.
 
-Continua sem poder de veto.
-
-O Diretor pode encerrar ou pular a consulta a qualquer momento.
+Continua sem poder de veto. O Diretor pode encerrar ou pular a consulta a qualquer momento.
 
 ---
 
 # Como escolher sem interrogar
 
-A IA deve usar o comportamento do Diretor quando isso já estiver claro.
+A IA deve usar a preferência do Diretor quando isso já estiver claro.
 
 Exemplos:
 
 ```text
-"quero que vocês me avisem quando uma decisão parecer fora da personagem"
-→ sugerir CONSULTA FORTE.
+"quero discutir toda nova ideia antes de narrar"
+→ CICLO OBRIGATÓRIO, que já é o padrão.
 
 "eu pergunto quando quiser opinião"
-→ SOB DEMANDA.
+→ SOB DEMANDA, se for escolha explícita de política.
 
 "quando eu estiver propondo uma reação, consulte primeiro"
-→ CONSULTAR PROPOSTAS.
+→ CONSULTAR PROPOSTAS, se essa for a abrangência que o Diretor escolheu.
+
+"quero que vocês me avisem quando uma decisão parecer fora da personagem"
+→ pode justificar CONSULTA FORTE se o Diretor desejar essa política mais restrita.
 ```
 
 Se nada disso apareceu:
 
 ```text
-MESA: SOB DEMANDA
+MESA: CICLO OBRIGATÓRIO
 ```
 
-Não perguntar apenas porque existem três opções.
+Não perguntar apenas porque existem quatro opções. Uma autorização direta local não é mudança de política.
+
+---
+
+# Delegação e agendas
+
+A configuração de uma Personagem do Diretor deve preservar a titularidade de sua vontade e permitir execução IA plena dentro da direção aprovada. A IA escolhe como realizar o objetivo, não assume decisões materiais fora do escopo.
+
+```text
+OBJETIVO
+ESCOPO
+CONDIÇÃO DE PARADA
+```
+
+são elementos interpretativos da direção, não campos obrigatórios de um formulário.
+
+As Cadeiras mantêm agendas e intenções próprias. Na Mesa, podem apresentar o que pretendem fazer durante um intervalo para permitir alinhamento autoral. O conhecimento compartilhado entre executores não passa automaticamente às personagens.
+
+Esses princípios são gerais e não exigem um módulo especial nem uma configuração diferente para romance, combate ou cotidiano.
 
 ---
 
@@ -143,9 +180,7 @@ INDICADOR OPERACIONAL: VISÍVEL
 
 ## SILENCIOSO
 
-Padrão do Story Engine.
-
-O sistema opera normalmente sem imprimir marcadores a cada resposta.
+Padrão do Story Engine. O sistema opera normalmente sem imprimir marcadores a cada resposta.
 
 Falha real de contexto, reancoragem necessária, Auditoria bloqueante ou outro problema que impeça execução correta ainda deve ser informado.
 
@@ -223,17 +258,7 @@ GÊNERO ROMÂNTICO
 
 Mas não é necessário transformar a escolha em uma longa configuração.
 
-O módulo não cria:
-
-```text
-triângulo amoroso
-ciúme
-medo de compromisso
-rejeição
-ritmo lento
-```
-
-por obrigação.
+O módulo não cria triângulo amoroso, ciúme, medo de compromisso, rejeição ou ritmo lento por obrigação.
 
 ---
 
@@ -261,9 +286,7 @@ A Edição de Leitura derivada permanece opcional.
 
 # Arco Preparado
 
-Ativar quando o Diretor realmente quer preservar preparação estrutural de um arco.
-
-Não confundir com a simples existência de uma história em andamento.
+Ativar quando o Diretor realmente quer preservar preparação estrutural de um arco. Não confundir com a simples existência de uma história em andamento.
 
 Especialmente em escrita por descoberta:
 
@@ -289,7 +312,7 @@ Uma personagem antagonista com Cadeira própria continua sendo personagem; isso 
 Boa interação:
 
 ```text
-"Como você não indicou preferência operacional, vou manter os padrões: Mesa sob demanda e indicador silencioso. Romance parece central à proposta, então sugiro ativar esse módulo; Arco Preparado e Opositor ficam inativos. Livro será mantido ativo quando a Ficção começar, como regra do W4D."
+"Vou manter o ciclo obrigatório de autoria e o indicador silencioso, que são os padrões do W4D. Romance parece central à proposta, então sugiro ativar esse módulo; Arco Preparado e Opositor ficam inativos. O Livro será ativado quando a Ficção começar."
 ```
 
 Se o Diretor aprovar as escolhas opcionais, registrar.
@@ -302,17 +325,7 @@ usar os padrões
 → continuar.
 ```
 
-Evitar:
-
-```text
-"Escolha 1, 2 ou 3 para Mesa."
-"Escolha visível ou silencioso."
-"Agora decida cada módulo."
-```
-
-quando não há necessidade real de interromper a criação.
-
-O Livro não entra nessa pergunta: ele não é escolha opcional durante a Ficção.
+Evitar interrogatório sobre cada política quando não há necessidade real de interromper a criação. O Livro não entra nessa pergunta: não é escolha opcional durante a Ficção.
 
 > **Padrões existem para evitar perguntas que não precisam ser feitas.**
 
@@ -328,15 +341,7 @@ POLÍTICAS: PROPOSTAS
 POLÍTICAS: DEFINIDAS
 ```
 
-A etapa está suficiente quando já é possível operar a obra sem ambiguidade relevante.
-
-Isso pode acontecer por:
-
-```text
-escolha explícita do Diretor
-OU
-aceitação dos padrões do W4D.
-```
+A etapa está suficiente quando já é possível operar a obra sem ambiguidade relevante, por escolha explícita do Diretor ou aceitação dos padrões do W4D.
 
 ---
 
@@ -352,7 +357,7 @@ Exemplo antes do START:
 
 ```text
 ## Política de Mesa
-MESA: SOB DEMANDA
+MESA: CICLO OBRIGATÓRIO
 
 ## Indicador operacional
 INDICADOR OPERACIONAL: SILENCIOSO
@@ -376,9 +381,7 @@ Exemplo após o START:
 
 Não colocar essas informações nas fichas.
 
-Não criar arquivos vazios de módulos opcionais apenas para representar `INATIVO`.
-
-O diretório `livro/` passa a ser criado quando houver Ficção fechada para registrar.
+Não criar arquivos vazios de módulos opcionais apenas para representar `INATIVO`. O diretório `livro/` passa a ser criado quando houver Ficção fechada para registrar.
 
 ---
 
@@ -389,7 +392,7 @@ As políticas opcionais podem mudar depois do START.
 Exemplos:
 
 ```text
-Diretor passa a querer mais consulta
+Diretor passa a querer mais ou menos consulta
 → alterar política de Mesa.
 
 Diretor não quer mais marcador visível
@@ -401,7 +404,7 @@ Romance deixa de ser necessário como módulo
 
 O Livro permanece ativo enquanto a obra estiver executando e preservando Ficção.
 
-A mudança de outras políticas vale dali em diante e não reescreve automaticamente a Ficção anterior.
+A mudança de outras políticas vale dali em diante e não reescreve automaticamente a Ficção anterior. Uma exceção local de execução direta não é mudança persistente de política.
 
 ---
 
@@ -411,6 +414,9 @@ Antes de seguir, a IA deve conseguir responder:
 
 ```text
 [ ] qual política de Mesa está ativa?
+[ ] o ciclo obrigatório foi aplicado como padrão, salvo escolha explícita diferente?
+[ ] a execução da Personagem do Diretor preserva vontade e escopo?
+[ ] as Cadeiras podem manter agendas e iniciativas próprias?
 [ ] qual política de indicador está ativa?
 [ ] quais módulos opcionais realmente estão ativos?
 [ ] o Livro está configurado para ativação obrigatória com a Ficção?
@@ -431,4 +437,4 @@ POLÍTICAS OPERACIONAIS
 
 # Regra final
 
-> **Políticas Operacionais configuram como o W4D funciona naquela obra. Mesa, indicador e módulos opcionais usam escolhas e padrões para evitar interrogatório. O Livro é exceção: toda obra que executa Ficção mantém Livro canônico ativo e todo capítulo fechado deve ser registrado.**
+> **Políticas Operacionais configuram como o W4D funciona naquela obra. O ciclo obrigatório é o padrão de autoria, com alternativas escolhidas expressamente pelo Diretor. A execução é delimitada, as Cadeiras possuem agendas próprias e o Narrador não revisa suas vontades. Indicador e módulos usam escolhas e padrões para evitar interrogatório. O Livro permanece obrigatório durante a Ficção.**
