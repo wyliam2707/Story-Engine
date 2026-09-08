@@ -1,14 +1,13 @@
 # 17 — Criação: Autoridades, Cadeiras e Executores
 
-Este arquivo define a **sexta etapa autoral** do ramo `NOVA HISTÓRIA`.
-
-Ele entra em uso depois que as fichas iniciais necessárias estão suficientemente construídas em `16-CRIACAO-FICHAS.md`.
+Este arquivo define a **sexta etapa autoral** do ramo `NOVA HISTÓRIA`. Ele entra em uso depois que as fichas iniciais necessárias estão suficientemente construídas em `16-CRIACAO-FICHAS.md`.
 
 A definição normativa continua em:
 
 ```text
 03-CADEIRAS-E-EXECUTORES.md
 05-NARRADOR.md
+24-CICLO-DE-AUTORIA.md
 ```
 
 > **Primeiro existe a pessoa. Depois se define quem possui sua vontade e quem executa cada função.**
@@ -23,6 +22,8 @@ quem executa o Narrador?
 alguma personagem pertence diretamente ao Diretor?
 quais personagens possuem Cadeira persistente agora?
 quem executa cada Cadeira?
+como a Personagem do Diretor pode receber execução IA?
+como as Cadeiras mantêm agendas e iniciativas próprias?
 quem possui a próxima autoria quando a Ficção começar?
 ```
 
@@ -43,16 +44,13 @@ No W4D atual, configurar `NARRADOR` não cria uma autoridade de sentença.
 
 ```text
 NARRADOR
-→ na Mesa pode emitir Parecer;
+→ na Mesa pode emitir Parecer quando houver questão real;
 → na Ficção apresenta continuidade e consequências evidentes;
-→ não escolhe secretamente resultados materiais abertos.
+→ não escolhe secretamente resultados materiais abertos;
+→ não revisa a vontade das Cadeiras como segundo julgador.
 ```
 
-Se um resultado importante continua aberto:
-
-```text
-→ Mesa, quando necessário.
-```
+Se um resultado importante continua aberto, pode voltar à Mesa quando necessário.
 
 Workspaces antigos que tragam `NARRADOR / JUIZ` devem ser interpretados como rótulo legado e normalizados para `NARRADOR` quando houver atualização legítima.
 
@@ -126,38 +124,54 @@ PERSONAGEM DO DIRETOR
 → vontade: DIRETOR.
 ```
 
-Isso inclui:
-
-```text
-o que quer
-o que tenta
-o que aceita
-o que recusa
-iniciativa voluntária
-conteúdo de fala que dependa de escolha própria
-```
+Isso inclui o que quer, o que tenta, o que aceita, o que recusa, iniciativa voluntária e conteúdo de fala que dependa de escolha própria.
 
 A execução textual pode ser delegada sem transferir vontade.
 
 > **Delegar a forma não delega a vontade.**
 
+A IA deve poder executar essa personagem com a mesma qualidade literária das demais, preenchendo falas, gestos, humor, flerte, métodos e pequenas ações compatíveis com o objetivo autorizado. Não deve deixá-la silenciosa por receio de executá-la, nem inventar novos objetivos ou compromissos.
+
 ---
 
-# Cadeira consultiva do Personagem do Diretor
+# Cadeira consultiva da Personagem do Diretor
 
 Uma Personagem do Diretor pode possuir Cadeira consultiva IA na Mesa.
 
 ```text
 CADEIRA CONSULTIVA
-→ OPINIÃO.
+→ JULGAMENTO / OPINIÃO.
 
 DIRETOR
 → DECISÃO DA VONTADE.
 ```
 
-A Cadeira pode apontar que uma proposta é coerente, estranha ou depende de determinada condição.
+A Cadeira pode apontar que uma proposta é coerente, estranha ou depende de determinada condição. Pode oferecer alternativas e sugerir uma forma natural de agir.
 
 Não pode fabricar trauma, segredo, motivação, relação ou capacidade para justificar sua leitura.
+
+O Diretor pode escolher uma alternativa ou dizer `faça como achar melhor`. A delegação vale para a questão em discussão, não para toda a agenda ou decisões futuras.
+
+---
+
+# Escopo de execução
+
+A execução delegada deve respeitar objetivo, escopo e condição de parada quando pertinentes.
+
+```text
+OBJETIVO
+→ o que o Diretor pretende realizar.
+
+ESCOPO
+→ quais escolhas, métodos e intervalos estão delegados.
+
+CONDIÇÃO DE PARADA
+→ quando devolver autoria ao Diretor.
+```
+
+Não exigir formulário. Inferir o que estiver claro e perguntar somente quando faltar algo decisivo.
+
+Uma autorização para ir ao teatro não permite preencher automaticamente o resto do dia. Uma autorização para treinar durante a tarde permite desenvolver todo esse intervalo, incluindo rotina e transições ordinárias. `Só pare se receber visita` não autoriza inventar visita nem executar além do limite temporal ou material concedido.
 
 ---
 
@@ -181,6 +195,8 @@ CADEIRA IA
 
 Mesmo quando o mesmo modelo técnico executa ambos.
 
+Na Mesa, a Cadeira oferece julgamento autoral concreto, não fala ficcional. Pode dizer que a personagem aceitaria, recusaria ou preferiria outra condição. Uma frase pode bastar. A IA não deve concordar por conveniência nem fabricar resistência para parecer independente.
+
 ---
 
 # Uma IA pode executar várias Cadeiras e o Narrador
@@ -199,12 +215,12 @@ Fluxo por escopo:
 ```text
 CADEIRA KARA
 → usar pacote legítimo de Kara
-→ decidir o espaço aberto de Kara
+→ julgar ou decidir o espaço aberto de Kara
 → encerrar escopo
 
 CADEIRA MORGANA
 → usar pacote legítimo de Morgana
-→ decidir o espaço aberto de Morgana
+→ julgar ou decidir o espaço aberto de Morgana
 → encerrar escopo
 
 se surgir resultado material ainda aberto
@@ -255,7 +271,7 @@ CAMINHO RESTANTE
 → continua distribuído entre as Cadeiras.
 ```
 
-A configuração precisa permitir que o executor saiba **quem ainda pode decidir cada parte do caminho**, sem confundir o resultado fechado com vontade automática de todas as personagens.
+A configuração precisa permitir que o executor saiba quem ainda pode decidir cada parte do caminho, sem confundir o resultado fechado com vontade automática de todas as personagens.
 
 ---
 
@@ -282,6 +298,23 @@ A atribuição de executor deve preservar essa separação.
 
 ---
 
+# Agendas e iniciativa própria
+
+A Cadeira mantém compromissos, intenções, relações e disponibilidade próprios, mesmo fora da presença do protagonista. Na Mesa, a IA pode apresentar o que pretende fazer com a personagem durante um intervalo, permitindo que o Diretor alinhe a cena.
+
+```text
+Cadeira de Kara: O trabalho dela termina perto do almoço. Estou pensando em fazê-la visitar Daniel porque quer vê-lo.
+Diretor: Então colocarei Daniel ensaiando no quintal.
+Cadeira de Kara: Funciona. Ela pode chegar e observar antes de se anunciar.
+Diretor: Pode fazer.
+```
+
+A personagem não conhece o ensaio apenas porque sua Cadeira conhece. Daniel não conhece a visita apenas porque o Diretor ouviu a intenção. A agenda não é roteiro imutável nem precisa preencher cada hora.
+
+Compromissos e prazos persistentes pertencem ao Estado. Propostas ainda em discussão pertencem à Operação. Não salvar uma visita proposta como acontecida.
+
+---
+
 # Próxima autoria
 
 A configuração deve permitir reconhecer em tempo real quem possui a próxima decisão aberta.
@@ -292,7 +325,7 @@ Kara precisa decidir
 Cadeira Kara = IA disponível
 → trocar de escopo
 → Kara decide
-→ continuar.
+→ continuar dentro da execução autorizada.
 ```
 
 ```text
@@ -308,7 +341,7 @@ resultado importante entre ações permanece aberto
 → Mesa pode ser aberta.
 ```
 
-> **Não parar porque existe decisão; parar quando a autoria necessária não está disponível ou quando uma questão material aguarda fechamento autoral.**
+> **Não parar porque existe decisão; parar quando a autoria necessária não está disponível, quando a condição de parada é alcançada ou quando uma questão material aguarda fechamento autoral.**
 
 ---
 
@@ -366,13 +399,7 @@ CADEIRA Elisa → Bruno
 CADEIRA Marcos → IA
 ```
 
-Se a próxima autoria depender de Bruno e ele estiver indisponível:
-
-```text
-→ parar no ponto correto.
-```
-
-A IA não assume a Cadeira sem delegação legítima.
+Se a próxima autoria depender de Bruno e ele estiver indisponível, parar no ponto correto. A IA não assume a Cadeira sem delegação legítima.
 
 ---
 
@@ -435,7 +462,7 @@ Se tudo já estiver claro, apenas sintetizar.
 Exemplo:
 
 ```text
-AUTORIDADES — proposta
+AUTORIDADES: proposta
 
 Diretor
 → Humano.
@@ -464,14 +491,7 @@ AUTORIDADES: PROPOSTAS
 AUTORIDADES: APROVADAS
 ```
 
-`APROVADAS` significa que já sabemos:
-
-```text
-quem conduz
-quem narra
-quem possui a vontade de cada personagem necessária
-quem executa cada Cadeira
-```
+`APROVADAS` significa que já sabemos quem conduz, quem narra, quem possui a vontade de cada personagem necessária e quem executa cada Cadeira.
 
 ---
 
@@ -517,7 +537,7 @@ POLÍTICA DE MESA
 → quando e como consultas são acionadas.
 ```
 
-Configurar Cadeiras não escolhe automaticamente `CONSULTA FORTE`.
+O padrão vigente é `MESA: CICLO OBRIGATÓRIO`, salvo escolha expressa diferente do Diretor. Configurar Cadeiras não escolhe automaticamente uma política alternativa.
 
 ---
 
@@ -531,10 +551,13 @@ A IA deve conseguir responder:
 [ ] existe Personagem do Diretor?
 [ ] quem possui a vontade de cada personagem central necessária?
 [ ] quem executa cada Cadeira?
-[ ] alguma delegação possui limite?
+[ ] a execução delegada possui objetivo, escopo e parada reconhecíveis quando pertinentes?
+[ ] a Personagem do Diretor pode ser executada sem silêncio artificial?
+[ ] as Cadeiras conservam agendas e iniciativas próprias?
 [ ] a configuração está fora das fichas?
 [ ] consigo identificar a próxima autoria numa cena?
-[ ] sei que Narrador não possui poder de Juiz?
+[ ] sei que Narrador não possui poder de Juiz nem revisa a vontade da Cadeira?
+[ ] o ciclo obrigatório está disponível como padrão da obra?
 ```
 
 Se sim:
@@ -550,4 +573,4 @@ AUTORIDADES / CADEIRAS / EXECUTORES
 
 # Regra final
 
-> **A ficha preserva quem a pessoa é. A Cadeira preserva sua autoria voluntária. O Executor opera essa autoria. O Narrador apresenta a Ficção e não funciona como Juiz. Configurar autoridades deve permitir que o W4D saiba quem pode decidir cada ponto aberto e quando uma questão material deve voltar à Mesa.**
+> **A ficha preserva quem a pessoa é. A Cadeira preserva sua autoria voluntária e sua linha de vida própria. O Executor opera essa autoria. A Personagem do Diretor recebe execução plena dentro da delegação sem transferir sua vontade. O Narrador apresenta a Ficção e não funciona como Juiz. A configuração permite identificar quem pode decidir cada ponto aberto, como o ciclo obrigatório é aplicado e quando uma questão material deve voltar à Mesa.**
