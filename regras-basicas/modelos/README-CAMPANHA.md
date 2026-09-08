@@ -62,9 +62,10 @@ No W4D atual:
 ```text
 NARRADOR
 ≠ JUIZ
+≠ SUPERVISOR DAS CADEIRAS
 ```
 
-O Narrador apresenta a Ficção e pode emitir Parecer na Mesa. Ele não possui sentença causal soberana sobre resultados materiais abertos.
+O Narrador apresenta a Ficção e pode emitir Parecer quando houver questão real. Não possui sentença causal soberana nem precisa aprovar novamente a vontade de uma Cadeira.
 
 Arquivos antigos que usem `NARRADOR / JUIZ` devem ser interpretados como rótulo legado e podem ser normalizados mecanicamente para `NARRADOR`.
 
@@ -83,6 +84,21 @@ PERSONAGEM DO DIRETOR
 DELEGAR EXECUÇÃO
 ≠ TRANSFERIR VONTADE
 ```
+
+A IA pode executar a personagem com a mesma qualidade literária das demais, escolhendo como realizar a direção dentro do escopo autorizado. Não criar silêncio artificial, novos objetivos ou decisões fora da delegação.
+
+```text
+OBJETIVO
+→ definido ou delegado pelo Diretor.
+
+ESCOPO
+→ somente ações, escolhas e intervalo autorizados.
+
+CONDIÇÃO DE PARADA
+→ quando devolver autoria ao Diretor.
+```
+
+Não exigir esses campos como formulário quando o contexto já os esclarecer. `Faça como achar melhor` delega a escolha em discussão, não toda a vida da personagem.
 
 ### Cadeiras
 
@@ -111,11 +127,30 @@ MESMO EXECUTOR
 ≠ MESMA CONSCIÊNCIA FICCIONAL
 ```
 
+Na Mesa, a Cadeira oferece julgamento autoral concreto, não uma fala ficcional. Pode concordar, discordar, propor condições ou apresentar intenção própria. A opinião pode ser breve. Não existe obrigação de consenso nem de parecer do Narrador para cada resposta.
+
+### Agendas e iniciativa
+
+Cada Cadeira mantém compromissos, intenções, relações e disponibilidade próprios, inclusive fora da presença da Personagem do Diretor. Na Mesa, pode apresentar o que pretende fazer no intervalo em discussão para permitir alinhamento autoral.
+
+```text
+CADEIRA SABE COMO AUTORA
+≠ PERSONAGEM SABE NA FICÇÃO
+```
+
+Agendas não precisam ser exaustivas nem imutáveis. Compromissos e prazos estabelecidos pertencem ao Estado; propostas ainda em discussão pertencem à Operação. Não canonizar visitas apenas propostas.
+
 ---
 
 ## Política de Mesa
 
-Escolher uma:
+Padrão do W4D:
+
+```text
+MESA: CICLO OBRIGATÓRIO
+```
+
+O Diretor pode escolher expressamente outra política:
 
 ```text
 MESA: SOB DEMANDA
@@ -123,27 +158,26 @@ MESA: CONSULTAR PROPOSTAS
 MESA: CONSULTA FORTE
 ```
 
-Fonte normativa:
+Fontes normativas:
 
 ```text
 regras-basicas/00-ARQUITETURA-E-MESA.md
+regras-basicas/24-CICLO-DE-AUTORIA.md
 ```
 
-Padrão:
+No ciclo obrigatório:
 
 ```text
-MESA: SOB DEMANDA
+IDEIA / DIREÇÃO / QUESTÃO
+→ JULGAMENTO DAS CADEIRAS PERTINENTES
+→ DISCUSSÃO SEM LIMITE FIXO DE RODADAS
+→ PODE FAZER / AUTORIZAÇÃO EQUIVALENTE
+→ FICÇÃO EXECUTA O ESCOPO APROVADO
 ```
 
-A Mesa pode ser usada para qualquer resultado autoral importante, inclusive combate, romance ou investigação.
+Uma nova proposta não vira Ficção antes da autorização. O Diretor pode dispensar expressamente a consulta num escopo local, sem alterar a política persistente. A execução aprovada não exige nova Mesa para cada gesto ordinário.
 
-```text
-Mesa aberta
-→ proposta, opinião e Parecer não são Ficção.
-
-Diretor autoriza execução
-→ versão fechada entra na Ficção.
-```
+Não perguntar ao Diretor se deseja ativar o ciclo obrigatório quando não houver preferência diferente. Registrar o padrão.
 
 ---
 
@@ -184,7 +218,7 @@ seguir:
 regras-basicas/modelos/OPERACAO.md
 ```
 
-Esse arquivo é operacional, não canônico.
+Esse arquivo é operacional, não canônico. Deve preservar a versão em discussão, as Cadeiras consultadas, as opiniões necessárias e o que aguarda o Diretor, sem promover propostas a fatos.
 
 ---
 
@@ -223,13 +257,13 @@ Quando útil:
 → camada autoral do Diretor fora da Ficção.
 ```
 
-A semântica, a política de Mesa e o modo atual determinam a operação.
+A semântica, a política de Mesa e o modo atual determinam a operação. Dentro de Mesa aberta, uma formulação declarativa continua em consulta até autorização ou cancelamento.
 
 No Livro canônico, falas e pensamentos preservam a origem explicitamente:
 
 ```text
-Wyliam — fala.
-Wyliam, pensa — pensamento.
+[Personagem] — fala.
+[Personagem], pensa — pensamento.
 ```
 
 A forma normativa completa está em `regras-basicas/modulos/LIVRO.md`.
@@ -280,13 +314,12 @@ START
 → reconstruir Cadeiras separadamente
 → identificar primeiro ponto aberto
 → identificar próxima autoria ou função
+→ respeitar ciclo de Mesa e escopo já autorizados
 → ativar Livro obrigatoriamente
 → iniciar a Ficção sem redistribuir autoridade.
 ```
 
-Se o Diretor já autorizou o começo antes da Auditoria, não perguntar novamente.
-
-Se ele pediu somente preparação, permanecer em `PRONTA` até autorização.
+Se o Diretor já autorizou o começo antes da Auditoria, não perguntar novamente. Se pediu somente preparação, permanecer em `PRONTA` até autorização.
 
 Quando a primeira Ficção realmente for executada:
 
