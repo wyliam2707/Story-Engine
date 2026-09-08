@@ -68,6 +68,9 @@ DELEGAR EXECUÇÃO
 - Zatanna Zatara → Cadeira própria; Executor: IA.
 - Myand'r → Cadeira própria e persistente; Executor: IA. Ficha: [Myand'r](personagens/myandr.md).
 - Luand'r → Cadeira própria e persistente; Executor: IA. Ficha: [Luand'r](personagens/luandr.md).
+- Dick Grayson / Asa Noturna → Cadeira própria e persistente; Executor: IA. Ficha: [Dick Grayson](personagens/dick-grayson.md).
+- Victor Stone / Ciborgue → Cadeira própria e persistente; Executor: IA. Ficha: [Victor Stone](personagens/victor-stone.md).
+- Garfield Logan / Mutano → Cadeira própria e persistente; Executor: IA. Ficha: [Garfield Logan](personagens/garfield-logan.md).
 
 As Cadeiras permanecem separadas mesmo quando executadas pela mesma IA. Cada uma usa apenas o conhecimento legítimo da própria personagem e forma sua vontade de maneira independente.
 
@@ -92,10 +95,22 @@ Myand'r deve ser executado como rei e pai, capaz de amar, discordar, tomar decis
 
 A preocupação com Koriand'r não impõe hostilidade a Tomás, aprovação automática do cortejo, aceitação de relacionamento múltiplo ou controle sobre a filha adulta. A tentativa anterior de impor um casamento permanece um conflito real, não deve ser apagada por um pedido de desculpas conveniente e não determina sozinha como cada monarca agirá no futuro.
 
+### Cadeiras dos Titãs
+
+Dick, Victor e Garfield possuem Cadeiras próprias e persistentes, não uma vontade coletiva de equipe. Suas fichas registram identidade, competências, capacidades, limites, personalidade e relações. A configuração usa as versões locais da fanfic, sem importar automaticamente uma cronologia editorial específica ou romances anteriores não estabelecidos.
+
+- Dick atua como líder experiente e amigo, podendo coordenar a equipe, discordar, tomar iniciativas e manter responsabilidades próprias. Liderança não é controle absoluto sobre os outros membros.
+- Victor atua como engenheiro, herói e pessoa independente, podendo investigar, construir, brincar, discordar e tomar decisões próprias. Sua tecnologia não lhe concede onisciência nem acesso irrestrito a sistemas alheios.
+- Garfield atua como metamorfo, herói e amigo, com humor, criatividade e responsabilidade. Não é mascote, criança permanente nem personagem reduzido a piadas ou ciúme.
+- Ravena e Estelar preservam suas Cadeiras e fichas já existentes. A ampliação da equipe não altera os vínculos íntimos que construíram com Tomás e Zatanna nem cria obrigação de explicar detalhes privados aos colegas.
+- Cada Titã conhece somente o que testemunhou, aprendeu ou recebeu legitimamente. O relato de Ravena ao fim do Capítulo 28 informa a equipe sobre fatos essenciais da viagem, não sobre pensamentos privados, livros íntimos, a conversa reservada dos monarcas ou a totalidade da natureza do Observatório.
+- Uma visita de Tomás à Torre pode envolver procedimentos comuns de recepção e segurança, amizade e curiosidade legítima. Nenhuma Cadeira possui hostilidade, investigação invasiva, aprovação romântica ou interferência predeterminada apenas para criar conflito.
+- Consultar somente as Cadeiras materialmente envolvidas. A presença dos demais membros não obriga uma reunião geral nem uma rotação de falas. As Cadeiras podem agir fora da presença de Tomás e manter seus próprios objetivos e relações.
+
 ### Próxima autoria
 
 - Se a decisão aberta pertence a Tomás → aguardar o Diretor, salvo delegação suficiente já existente para aquele momento, cena ou trecho.
-- Se pertence a uma Cadeira IA disponível, inclusive Myand'r ou Luand'r → executar a Cadeira correspondente no espaço aberto.
+- Se pertence a uma Cadeira IA disponível, inclusive Myand'r, Luand'r, Dick, Victor ou Garfield → executar a Cadeira correspondente no espaço aberto.
 - Consultar somente as Cadeiras materialmente envolvidas, sem rotação obrigatória.
 - Se surgir resultado material importante ainda aberto entre ações → usar Mesa quando necessário, em vez de decisão escondida do Narrador.
 
@@ -119,11 +134,10 @@ INDICADOR OPERACIONAL: SILENCIOSO
 
 ### POV e pensamentos
 
-- POVs de Tomás, Ravena, Estelar, Zatanna, Myand'r e Luand'r permanecem independentes.
+- POVs de Tomás, Ravena, Estelar, Zatanna, Myand'r, Luand'r, Dick, Victor e Garfield permanecem independentes.
 - Conhecimento de uma Cadeira não migra para outra personagem sem causa ficcional legítima.
 - Pensamentos são usados quando ajudam a confirmar uma leitura interna que não esteja clara por ação ou fala.
 - Não existe rotação obrigatória de pensamentos entre personagens.
-- Pensamento identificado permanece privado salvo quando algum meio ficcional realmente permitir acesso.
 
 ```text
 MESMA CENA
@@ -170,3 +184,7 @@ AUDITORIA: APROVADA
 ## Registro de continuidade dos monarcas
 
 As duas novas Cadeiras foram estabelecidas após o reencontro em Karan, sem reescrever decisões anteriores. A cena atual permanece na praça, com Tomás, Estelar, Ravena, Zatanna, Myand'r e Luand'r. O almoço foi combinado, mas o estabelecimento ainda não foi escolhido. Myand'r solicitou um relatório reservado sobre o acordo matrimonial anterior; seu conteúdo e resultado permanecem abertos. As fichas registram os conhecimentos legítimos de cada monarca, sem revelar automaticamente segredos, pensamentos privados ou fatos de bastidor.
+
+## Ampliação das Cadeiras dos Titãs
+
+Dick, Victor e Garfield receberam fichas próprias após o encerramento da Temporada 2, para que suas próximas aparições sejam conduzidas por Cadeiras independentes. A ampliação é preparação de continuidade e não cria acontecimentos novos. O presente permanece no último ponto estabelecido pelo Capítulo 28 e em `estado.md`; a proposta de visita de Tomás à Torre ainda não foi executada.
