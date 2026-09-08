@@ -1,12 +1,12 @@
 # 10 — Iniciar uma História Nova com IA
 
-Este arquivo coordena **somente o ramo NOVA HISTÓRIA**.
-
-Ele deve ser usado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`.
+Este arquivo coordena **somente o ramo NOVA HISTÓRIA**. Deve ser usado depois do BOOT de `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`.
 
 > **BOOT escolhe o caminho. Este arquivo coordena as etapas. Cada etapa específica define seu trabalho.**
 
 Se o usuário quer continuar uma obra existente, usar `11-CONTINUAR-HISTORIA-COM-IA.md`.
+
+O ciclo operacional vigente é definido por `00-ARQUITETURA-E-MESA.md` e `24-CICLO-DE-AUTORIA.md`. Toda nova obra adota `MESA: CICLO OBRIGATÓRIO` por padrão, salvo escolha expressa diferente do Diretor.
 
 ---
 
@@ -32,6 +32,8 @@ Regra geral:
 > **Base suficiente → propor. Falta realmente decisiva → perguntar.**
 
 Não repetir perguntas já respondidas e não exigir planejamento futuro que o Diretor prefere descobrir escrevendo.
+
+O ciclo de Mesa da Ficção não cria uma segunda confirmação ritual para uma etapa de preparação que o Diretor já aprovou. Preservar a autorização semântica e o escopo de cada etapa.
 
 ---
 
@@ -141,9 +143,7 @@ PERSONAGEM CENTRAL
 ≠ FICHA CONCLUÍDA
 ```
 
-Não criar elenco ornamental por hábito.
-
-Não antecipar configuração de Cadeiras se ela ainda não foi dada.
+Não criar elenco ornamental por hábito. Não antecipar configuração de Cadeiras se ela ainda não foi dada.
 
 ```text
 PESSOA
@@ -208,9 +208,10 @@ No W4D atual:
 ```text
 NARRADOR
 ≠ JUIZ
+≠ SUPERVISOR DAS CADEIRAS
 ```
 
-O Narrador apresenta a Ficção; resultados materiais abertos podem ir à Mesa.
+O Narrador apresenta a Ficção; resultados materiais abertos podem voltar à Mesa. Não precisa aprovar novamente o julgamento de cada Cadeira.
 
 Não escolher silenciosamente qual personagem pertence ao Diretor.
 
@@ -218,6 +219,10 @@ Não escolher silenciosamente qual personagem pertence ao Diretor.
 DELEGAR EXECUÇÃO
 ≠ TRANSFERIR VONTADE
 ```
+
+A Personagem do Diretor pode receber execução IA com qualidade plena dentro do objetivo e intervalo autorizados. A IA escolhe como executar, sem ampliar a delegação para a agenda inteira.
+
+As Cadeiras devem manter agendas, compromissos e iniciativas próprios. A Mesa pode alinhar essas linhas de vida sem conceder conhecimento indevido às personagens.
 
 Registrar configuração aprovada no `README.md`.
 
@@ -260,7 +265,7 @@ LIVRO PREPARADO PARA ATIVAÇÃO OBRIGATÓRIA
 Padrões:
 
 ```text
-MESA: SOB DEMANDA
+MESA: CICLO OBRIGATÓRIO
 INDICADOR OPERACIONAL: SILENCIOSO
 MÓDULOS OPCIONAIS: INATIVOS salvo escolha ou necessidade real
 LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
@@ -268,7 +273,7 @@ LIVRO: PREPARADO — ativação obrigatória no START / primeira Ficção
 
 O Livro não é uma escolha opcional durante a Ficção.
 
-Padrões existem para evitar perguntas inúteis.
+O ciclo obrigatório não precisa ser ativado por pergunta. O Diretor pode escolher expressamente política diferente, e a configuração será registrada. Uma execução direta local não muda a política persistente.
 
 ---
 
@@ -336,7 +341,7 @@ Direção
 mundo necessário
 → mundo/<assunto>.md
 
-âncora e presente ficcional
+âncora e presente ficcional, incluindo compromissos e prazos relevantes
 → estado.md
 ```
 
@@ -366,8 +371,11 @@ A Auditoria responde:
 Ela verifica também que a obra usa a arquitetura atual:
 
 ```text
-Narrador sem função de Juiz
-Mesa disponível para resultados materiais abertos
+Narrador sem função de Juiz ou supervisor das Cadeiras
+Mesa com ciclo obrigatório por padrão, salvo política explícita diferente
+julgamento próprio das Cadeiras
+execução da Personagem do Diretor delimitada por escopo
+agendas e conhecimento separados
 sem RNG universal
 sem sentença causal escondida
 Livro preparado para ativação obrigatória com a primeira Ficção
@@ -392,9 +400,7 @@ STATUS → PRONTA
 → START quando houver autorização semântica para começar.
 ```
 
-Se o Diretor já havia dito `crie e comece`, `quando estiver pronta pode iniciar` ou equivalente, não pedir nova confirmação ritual.
-
-Se pediu somente preparação/criação, parar em `PRONTA`.
+Se o Diretor já havia dito `crie e comece`, `quando estiver pronta pode iniciar` ou equivalente, não pedir nova confirmação ritual. Se pediu somente preparação/criação, parar em `PRONTA`.
 
 ---
 
@@ -415,6 +421,7 @@ START:
 → restaura operação pendente, se houver
 → caso contrário identifica primeiro ponto aberto
 → identifica próxima autoria ou função
+→ respeita ciclo de Mesa e escopo já autorizados
 → ativa o Livro obrigatoriamente quando a primeira Ficção for executada
 → começa a Ficção sem redistribuir autoridade
 ```
@@ -423,7 +430,7 @@ A partir do primeiro ponto:
 
 ```text
 Cadeira IA disponível
-→ decide e continua.
+→ decide e continua dentro da autorização vigente.
 
 Personagem do Diretor / executor externo indisponível
 → Narrador pode apresentar a moldura inicial
@@ -436,9 +443,9 @@ resultado material importante realmente aberto
 → Mesa, quando necessária.
 ```
 
-Não usar Juiz ou RNG invisível.
+Não usar Juiz ou RNG invisível. Não existe obrigação de começar por ação, conflito ou perigo.
 
-Não existe obrigação de começar por ação, conflito ou perigo.
+Uma direção inicial aprovada durante a preparação pode ser executada no START sem repetir a mesma autorização. Uma nova proposta não aprovada entra no ciclo obrigatório antes de virar Ficção.
 
 Quando a primeira Ficção realmente for executada:
 
@@ -456,4 +463,4 @@ PREPARADO
 
 # Regra final
 
-> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção exatamente no primeiro ponto aberto, preservando Diretor, Cadeiras, Mesa e Narrador em funções separadas — sem Juiz permanente. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
+> **Uma nova história nasce por decisões suficientes, não por planejamento exaustivo. A preparação torna a obra reconstruível; a Auditoria verifica a arquitetura; e o START abre a Ficção exatamente no primeiro ponto autorizado. O ciclo obrigatório, a delegação delimitada e as agendas próprias acompanham qualquer nova obra, preservando Diretor, Cadeiras, Mesa e Narrador em funções separadas, sem Juiz permanente. A primeira Ficção ativa obrigatoriamente o Livro canônico.**
