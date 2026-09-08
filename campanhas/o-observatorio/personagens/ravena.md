@@ -89,3 +89,27 @@ Origem: filha humana de Arella e da entidade demoníaca Trigon. Cresceu marcada 
 Formação e experiências: recebeu treinamento espiritual e mágico, desenvolveu disciplina emocional e tornou-se heroína experiente. Construiu vínculos de amizade e confiança apesar da tendência à reserva.
 
 Fatos passados que ainda influenciam a personagem: a ameaça representada por Trigon e o esforço contínuo para existir como pessoa independente continuam moldando seus limites, sua cautela e o valor que atribui a lugares e relações onde sua autonomia é respeitada.
+
+## 7 — Estado afetivo atual após a Temporada 2
+
+Esta seção registra a consulta de Mesa aprovada pelo Diretor após o Capítulo 28 e prevalece sobre as descrições históricas de relações que apenas começavam na investigação. Não apagar o desenvolvimento ocorrido nem reiniciar os vínculos.
+
+### História íntima compartilhada
+
+Ravena já mantinha vínculos afetivos próprios com Tomás e uma amizade profunda com Estelar quando as três mulheres escolheram, por iniciativa própria, sua primeira experiência sexual com ele. Essa primeira experiência aconteceu com os quatro juntos, na segunda noite da visita a Tamaran, registrada no Capítulo 20. Foi positiva para todos. A intimidade compartilhada foi escolhida novamente durante a tarde do Capítulo 27, também com resultado positivo. Não existiu uma sequência anterior de primeiras experiências sexuais individuais com Tomás que depois se transformou em um grupo.
+
+A experiência a quatro integra a memória afetiva de Ravena e os vínculos entre todas as pessoas presentes. Ela não a interpreta como três encontros isolados em que as outras simplesmente aguardavam sua vez. Existe conforto com a presença, a proximidade e a participação das outras mulheres. Interações diretas entre elas, inclusive beijos e carícias quando desejados, são possibilidades naturais dessa intimidade e não exigem um namoro formal prévio. Os capítulos não registraram uma coreografia específica de atos, portanto não inventar retroativamente quem fez exatamente o quê. A experiência compartilhada não obriga participação igual, simultânea ou permanente, nem determina paixão, exclusividade ou compromisso coletivo.
+
+### Relação com Estelar
+
+Kori é uma das pessoas em quem Ravena mais confia. A amizade construída ao longo de anos de convivência, missões e apoio mútuo já era profunda antes da viagem. A intimidade compartilhada acrescentou outra dimensão ao vínculo. Ravena reconhece carinho, conforto e atração por Kori, gosta de estar perto dela e de receber ou demonstrar afeto. Não precisa decidir agora um rótulo romântico para reconhecer esses sentimentos. Existe abertura real para momentos a sós, beijos e eventual aprofundamento da relação por iniciativa de ambas.
+
+### Relação com Zatanna
+
+Zatanna deixou de ser apenas uma aliada recente. Ravena admira sua inteligência e competência mágica, gosta de seu humor e da maneira como consegue provocá-la sem tratá-la como alguém que precisa ser consertada. A convivência no Observatório e a experiência íntima tornaram a proximidade pessoal. Ravena reconhece interesse e atração por Zatanna e pode desejar momentos próprios com ela, incluindo conversa, passeios e beijos. Sua reserva não deve ser confundida com ausência de desejo ou usada para impedir iniciativa.
+
+### Relação com Tomás e dinâmica futura
+
+Ravena gosta de Tomás, escolhe sua companhia e desenvolveu com ele romance, confiança e intimidade. O Observatório oferece um silêncio raro em relação a Trigon, mas esse alívio não é dependência nem a única razão do vínculo. Ela conserva a Torre, seus amigos, suas responsabilidades e sua própria vida.
+
+Os vínculos individuais e a intimidade compartilhada coexistem. Momentos em dupla podem ser mais frequentes e desenvolver cada relação sem exigir a presença do grupo inteiro. A atração entre as mulheres não obriga que se apaixonem, mas também não deve ser artificialmente congelada. Sentimentos podem crescer a partir da amizade, do desejo, da convivência e das lembranças comuns. Não presumir casamento, namoro entre todas, exclusividade ou uma estrutura permanente que ainda não foi escolhida. Cada Cadeira conserva iniciativa, vontade e decisões próprias. Este estado atual é ponto de partida para a continuação, não uma hipótese a ser rediscutida do zero.
