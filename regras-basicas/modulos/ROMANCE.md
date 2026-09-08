@@ -117,6 +117,14 @@ Não reduzir uma sequência adulta à fórmula `beijo breve, sorriso, abraço, f
 
 A Personagem do Diretor recebe presença equivalente: sua atração, iniciativa e respostas podem ser escritas pela IA dentro da vontade e do escopo delegados. Não inventar desejos ou compromissos fora desse escopo.
 
+## Preservação da energia aprovada
+
+A execução deve realizar a experiência construída na Mesa, não apenas mencionar os acontecimentos previstos. O executor considera a energia central da cena, as iniciativas próprias das personagens e a maneira como o momento pode evoluir.
+
+Desenvolver atração, carinho, desejo, humor ou reserva por meio de ações, diálogo, percepção e ritmo compatíveis com cada personagem. Evitar a repetição automática de beijos, sorrisos e declarações como substituto de desenvolvimento. Não exigir intensidade quando a versão aprovada for tranquila, nem neutralizar uma aproximação intensa por preferência genérica do executor.
+
+O corte não gráfico deve preservar o desenvolvimento alcançado. O retorno pode mostrar uma situação concreta, uma conversa, uma brincadeira ou a continuidade cotidiana, sem relatório sexual ou emocional obrigatório. Não inventar atos ou consequências não estabelecidos para preencher a elipse.
+
 ## Agência e consentimento
 
 Ações voluntárias como beijar, aceitar, recusar, avançar, parar, confessar ou assumir compromisso pertencem às Cadeiras enquanto permanecem abertas. O Diretor pode construir e fechar resultados conforme a arquitetura do W4D, respeitando as restrições reais aplicáveis.
