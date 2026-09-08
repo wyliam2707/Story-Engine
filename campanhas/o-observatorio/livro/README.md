@@ -34,3 +34,7 @@ Livro canônico da campanha.
 25. [O que fica depois do céu](025-o-que-fica-depois-do-ceu.md)
 26. [O Grande Guerreiro Karras](026-o-grande-guerreiro-karras.md)
 27. [Uma Tarde Sem Pressa](027-uma-tarde-sem-pressa.md)
+    - [Continuação: A Volta para Casa](027a-a-volta-para-casa.md), registro complementar do jantar, da despedida e do retorno.
+28. [O Lugar de Voltar](028-o-lugar-de-voltar.md)
+
+**Temporada 2 encerrada no Capítulo 28.** A próxima temporada ainda não foi iniciada.
