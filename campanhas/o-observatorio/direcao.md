@@ -1,7 +1,7 @@
 # Direção
 
 DIREÇÃO
-→ SUFICIENTE PARA INÍCIO
+→ SUFICIENTE PARA CONTINUIDADE
 
 ## Proposta
 
@@ -60,6 +60,21 @@ Mistério sério no início, com múltiplos POVs independentes, preservação de
 - As reações devem permanecer próprias das Cadeiras. Zatanna pode explorar o absurdo verbal, Ravena pode sofrer em silêncio cada implicação nova, e Estelar pode tratar partes da descoberta com franqueza surpreendente, mas nenhuma reação específica fica pré-fechada.
 - Não transformar a revelação em anatomia literal, fetiche ou piada contínua. O espaço é Tomás em sentido metafísico/topológico. O humor funciona porque a linguagem cotidiana passa a admitir leituras absurdamente corretas.
 - A revelação deve primeiro conservar peso cosmológico e emocional. A comédia entra depois, como consequência natural das personagens perceberem o que aquilo significa para tudo que já viveram ali.
+
+## Voz interna de Tomás — direção persistente
+
+O Diretor determinou que o Capítulo 18, [Melhores Ideias Insensatas](livro/018-melhores-ideias-insensatas.md), seja sempre o modelo de voz interna de Tomás. Esta referência permanece válida nas próximas temporadas e não se limita ao Capítulo 29.
+
+- A Assembleia é representação literária do pensamento de Tomás, uma única consciência, não personagens, agentes independentes, Cadeiras externas ou uma organização com cargos.
+- Usar opiniões anônimas, diretas, curtas e contraditórias, com interrupções, humor seco, impulsos, argumentos e possibilidades descartadas. O número de perspectivas pode variar, frequentemente entre oito e quinze, sem obrigação de contagem ou rotação.
+- A opinião sensata não é um censor permanente. Pode preservar coerência, informação, liberdade de escolha e consequências, enquanto outras perspectivas defendem impulsos, brincadeiras, desejos ou interpretações diferentes. Nenhuma delas possui autoridade separada sobre Tomás.
+- Evitar listas de relatórios, pareceres técnicos ou falas genéricas rotuladas como “Voz”. A Assembleia deve soar como Tomás pensando, inclusive quando as opiniões são absurdas ou pouco dignas.
+- Não transformar a discussão em descoberta, decisão, sentimento ou fato que o Diretor ainda não estabeleceu. A forma literária não transfere a autoria da vontade de Tomás para a IA.
+- Preservar a diferença entre Assembleia interna, Cadeiras dos NPCs, Mesa externa e Narrador. O fato de a IA conhecer todas essas perspectivas não cria consciência compartilhada nem conhecimento automático entre personagens.
+
+## Continuidade atual
+
+A Temporada 2 foi encerrada no Capítulo 28 e a Temporada 3 começou no Capítulo 29, **Pela Porta da Frente**, agora encerrado. O último ponto canônico e as pendências estão em `estado.md`. O capítulo registra a visita de Tomás à Torre, a gargantilha de Ravena, o início de seus estudos de teatro e ilusionismo, o almoço com Zatanna e o segundo dia de treino. A busca de Kori no prazo aproximado combinado permanece futura e não deve ser executada automaticamente.
 
 ## Espaço Aberto
 
