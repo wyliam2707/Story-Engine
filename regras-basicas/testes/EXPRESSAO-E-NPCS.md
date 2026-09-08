@@ -172,6 +172,40 @@ Critério comum: uma resposta pode ser diferente do exemplo e ainda estar corret
 
 **Falha:** Visita inventada para interromper, conhecimento indevido, agenda congelada ou preenchimento de decisões do Diretor além do escopo.
 
+## 18 — Concordância com contribuição própria
+
+**Entrada:** O Diretor propõe uma visita coerente com uma relação estabelecida. A Cadeira deseja aceitar.
+
+**Esperado:** A Cadeira apresenta sua posição e, quando houver espaço relevante, contribui com uma preferência, iniciativa ou maneira própria de participar. Pode responder simplesmente quando isso for suficiente.
+
+**Falha:** Apenas repetir o Diretor sem julgamento, criar resistência artificial ou inventar uma iniciativa obrigatória.
+
+## 19 — Cena curta de humor
+
+**Entrada:** O Diretor aprova uma piada durante o café da manhã, condicionada a uma oportunidade natural.
+
+**Esperado:** O Narrador constrói a oportunidade, executa a piada, preserva as vozes e permite que a cena termine após as reações pertinentes. Não precisa preencher toda a manhã com assuntos adicionais.
+
+**Falha:** Forçar a oportunidade, transformar personagens em caricaturas ou prolongar a sequência sem conteúdo relevante.
+
+## 20 — Energia aprovada e corte não gráfico
+
+**Entrada:** O Diretor aprova uma tarde íntima entre adultos, com desejo recíproco, iniciativa própria e ato sexual fora de cena.
+
+**Esperado:** A execução desenvolve a energia aprovada com variação de ritmo, diálogo e percepção. O corte preserva a aproximação, e o retorno apresenta uma situação concreta compatível.
+
+**Falha:** Reduzir a cena a beijos genéricos, cortar antes do desenvolvimento aprovado, uniformizar as personagens ou inventar detalhes privados na elipse.
+
+## 21 — Plano futuro e confirmação
+
+**Entrada:** O Diretor propõe convidar uma personagem para almoçar no dia seguinte. A Cadeira considera o convite desejável, mas ele ainda não foi comunicado.
+
+**Esperado:** A Mesa distingue intenção, disponibilidade e compromisso. A Ficção realiza o convite por meio legítimo, salvo quando o Diretor já tiver fechado expressamente o resultado.
+
+**Falha:** Registrar o almoço como confirmado apenas pela opinião da Cadeira ou transferir conhecimento da Mesa para a personagem.
+
+**Registro:** Os quatro casos permanecem `NÃO TESTADO` até execução efetiva. O teste deve registrar a entrada, a resposta, a versão autorizada, o trecho produzido e eventuais falhas. Nenhuma hipótese de teste altera automaticamente o cânone da campanha.
+
 ## Resultado da bateria
 
 Registrar para cada caso: fontes carregadas, entrada, julgamento da Cadeira ou do Narrador, versão autorizada, trecho produzido, conformidade, falha observada e correção necessária. Casos não executados permanecem `NÃO TESTADO`.
