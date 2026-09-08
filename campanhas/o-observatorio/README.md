@@ -9,7 +9,7 @@ Ravena e Estelar, por um lado, e Zatanna, por outro, investigam portais anômalo
 
 ## Estilo / Tom
 
-Mistério sério no início, múltiplos POVs independentes e personagens tratadas com fidelidade. Depois, contraste entre escala cósmica e cotidiano doméstico, humor natural, flerte e romance emergente, sem obrigar nenhuma Cadeira a corresponder.
+Mistério sério no início, múltiplos POVs independentes e personagens tratadas com fidelidade. Depois, contraste entre escala cósmica e cotidiano doméstico, humor natural, flerte e romance emergente, sem obrigar nenhuma Cadeira a corresponder. A intimidade adulta pode ter tons diferentes conforme as personagens, o contexto e a Direção, sem uniformização ou cortes prematuros obrigatórios.
 
 ## Continuidade de fanfic
 
@@ -38,27 +38,27 @@ Mistério sério no início, múltiplos POVs independentes e personagens tratada
 
 - Executor: IA.
 - Apresenta Ficção, continuidade e consequências evidentes.
-- Não atua como Juiz e não decide secretamente resultados materiais ainda abertos.
+- Não atua como Juiz nem decide secretamente resultados materiais ainda abertos.
+- Na Mesa, oferece parecer quando houver questão real e pode conduzir contextualmente NPCs incidentais sem Cadeira persistente. Não supervisiona nem revisa automaticamente a vontade das Cadeiras.
 
 ### Personagem do Diretor
 
 - Tomás.
 - Vontade: DIRETOR.
-- Execução padrão da vontade: DIRETOR.
-- Execução textual pode ser delegada à IA pelo Diretor em momentos, cenas ou trechos específicos.
-- Delegar execução não transfere a vontade de Tomás: a IA apenas executa dentro do espaço autorizado e do que já foi estabelecido pelo Diretor.
-- A IA não decide por Tomás o que ele quer, aceita, recusa, tenta, sente ou escolhe dizer além do escopo legitimamente delegado.
+- Execução textual padrão: IA, dentro dos objetivos, decisões e escopo delegados pelo Diretor.
+- A Cadeira consultiva de Tomás pode sugerir alternativas e executar escolhas delegadas, sem assumir sua vontade permanentemente.
+- A IA desenvolve diálogo, humor, flerte, gestos, métodos e pequenas decisões compatíveis, dando a Tomás presença plena nas cenas.
+- A IA não inventa objetivos, promessas, compromissos, mudanças de vontade ou decisões materiais além da delegação. “Faça como achar melhor” aplica-se à questão discutida, não ao restante do dia por padrão.
 
 ```text
 VONTADE DE TOMÁS
 → DIRETOR.
 
-EXECUÇÃO DE TOMÁS
-→ DIRETOR,
-  ou IA quando explicitamente delegada.
+EXECUÇÃO TEXTUAL
+→ IA dentro do escopo autorizado.
 
-DELEGAR EXECUÇÃO
-≠ TRANSFERIR AUTORIA DA VONTADE
+DELEGAÇÃO
+→ liberdade concedida, não presumida.
 ```
 
 ### Cadeiras
@@ -78,11 +78,7 @@ As Cadeiras permanecem separadas mesmo quando executadas pela mesma IA. Cada uma
 MESMO EXECUTOR
 ≠ MESMA CADEIRA
 ≠ MESMA CONSCIÊNCIA FICCIONAL
-```
 
-A IA pode conhecer simultaneamente as fichas e pensamentos privados de várias personagens por necessidade de execução, mas esse conhecimento não é compartilhado automaticamente entre elas.
-
-```text
 EXECUTOR SABE
 ≠ PERSONAGEM SABE
 ```
@@ -110,20 +106,25 @@ Dick, Victor e Garfield possuem Cadeiras próprias e persistentes, não uma vont
 ### Próxima autoria
 
 - Se a decisão aberta pertence a Tomás → aguardar o Diretor, salvo delegação suficiente já existente para aquele momento, cena ou trecho.
-- Se pertence a uma Cadeira IA disponível, inclusive Myand'r, Luand'r, Dick, Victor ou Garfield → executar a Cadeira correspondente no espaço aberto.
+- Se pertence a uma Cadeira IA disponível → executar a Cadeira correspondente no espaço aberto.
 - Consultar somente as Cadeiras materialmente envolvidas, sem rotação obrigatória.
+- NPCs incidentais podem receber condução contextual do Narrador. Criar Cadeira eventual ou persistente quando a importância da autoria justificar, não por simples presença.
 - Se surgir resultado material importante ainda aberto entre ações → usar Mesa quando necessário, em vez de decisão escondida do Narrador.
 
 ## Políticas Operacionais
 
 ### Política de Mesa
 
-MESA: CONSULTA FORTE
+MESA: CICLO OBRIGATÓRIO
 
-- A IA pode apontar de forma breve quando uma proposta do Diretor entra em tensão com ficha, fato já estabelecido ou comportamento consolidado de uma personagem.
-- A consulta informa; não possui poder de veto.
-- Uma determinação inequívoca do Diretor fecha o ponto autoral correspondente e deve ser executada, preservando o espaço que continuar aberto.
-- A Mesa ocorre fora da Ficção.
+O Diretor aprovou o ciclo obrigatório do núcleo vigente, substituindo a configuração histórica de CONSULTA FORTE. A Mesa recebe novas propostas autorais por padrão, permanece aberta para discussão e refinamento e só passa à Ficção após autorização expressa, como “pode fazer”. Uma ordem de execução direta é exceção local legítima e não altera o padrão.
+
+- As Cadeiras oferecem julgamentos próprios, concretos e breves quando a questão é simples, sem concordância ou resistência automáticas.
+- O Diretor pode contestar, fornecer contexto, pedir justificativa ou alterar a proposta. A consulta informa; não possui veto.
+- O Narrador não repete pareceres para aprovar a vontade das Cadeiras nem reabre decisões fechadas.
+- A autorização permite execução contínua do escopo aprovado, não exige nova Mesa para cada gesto nem concede autoridade ilimitada sobre o restante do dia.
+- Agendas e iniciativas das Cadeiras são independentes. Não fabricar visitas, emergências ou atrasos para cumprir uma condição de parada.
+- A Mesa ocorre fora da Ficção; conhecimento de bastidor não migra para as personagens.
 
 ### Indicador operacional
 
@@ -138,6 +139,7 @@ INDICADOR OPERACIONAL: SILENCIOSO
 - Conhecimento de uma Cadeira não migra para outra personagem sem causa ficcional legítima.
 - Pensamentos são usados quando ajudam a confirmar uma leitura interna que não esteja clara por ação ou fala.
 - Não existe rotação obrigatória de pensamentos entre personagens.
+- A Assembleia de Tomás é uma única consciência, com o Capítulo 18 como modelo persistente de voz.
 
 ```text
 MESMA CENA
@@ -155,36 +157,46 @@ MESMA CENA
 
 #### Romance
 
-- Relações múltiplas não sincronizam Cadeiras.
-- Cada vínculo possui ritmo, intensidade e natureza próprios.
+- Relações múltiplas não sincronizam Cadeiras. Cada vínculo possui ritmo, intensidade e natureza próprios.
 - Não criar ciúme, repressão, medo de compromisso, rejeição ou mal-entendido apenas para fabricar conflito.
 - Interesse não obriga avanço; oportunidade não obriga reciprocidade.
-- Consentimento e decisões voluntárias permanecem com a Cadeira correspondente.
+- Consentimento e decisões voluntárias permanecem com a Cadeira correspondente no espaço aberto.
+- A Mesa pode construir iniciativa, tom, progressão, limites de apresentação e cortes. O Narrador preserva a versão aprovada e não uniformiza as personagens.
+- Sensualidade adulta pode ser não gráfica e ainda desenvolver desejo, proximidade, humor e subtexto. O corte não deve apagar prematuramente a experiência; o retorno não exige relatório sexual ou declaração emocional obrigatória.
+- As fichas e o estado estabelecem tendências, não roteiros fixos de intimidade. Reservada não significa sempre hesitante, confiante não significa sempre disponível e expansiva não significa incapaz de suavidade.
 
 #### Arco Preparado
 
 - A temporada 1 possui preparação estrutural própria em `arco.md`.
 - Fatos do arco não determinam sentimentos ou decisões voluntárias das personagens.
 - O Diretor pode alterar conscientemente a preparação quando desejar; mudanças não são tratadas como se sempre tivessem sido verdade.
+- A crise estrutural inicial e o arco de Tamaran já foram executados. Não reiniciar suas pendências resolvidas.
 
 ## Auditoria de Preparação
 
 AUDITORIA: APROVADA
 
 - Identidade, proposta e tom da obra estão reconstruíveis.
-- Tomás, Ravena, Estelar, Zatanna, Myand'r e Luand'r possuem fichas suficientes para execução.
+- As personagens centrais e persistentes possuem fichas suficientes para execução.
 - Autoridades, Cadeiras, Narrador e limites de delegação de Tomás estão claros.
 - Narrador está configurado sem função de Juiz.
-- Direção, Arco Preparado, Mundo Necessário e Estado Inicial são compatíveis.
-- O primeiro ponto aberto da temporada pertenceu às Cadeiras de Ravena, Estelar e Zatanna dentro das investigações iniciais.
+- Direção, mundo, estado e Livro são compatíveis com os fatos executados.
 - Resultados materiais ainda abertos retornam à Mesa quando necessário, em vez de serem sentenciados secretamente pelo Narrador.
 - Livro foi ativado no START / primeira Ficção.
 - Nenhuma contradição bloqueante conhecida impede a execução.
 
-## Registro de continuidade dos monarcas
+A aprovação acima é a configuração de preparação da obra, não uma afirmação de que testes comportamentais das regras novas foram executados. A validação prática do ciclo e da expressão das personagens continua pela própria campanha.
 
-As duas novas Cadeiras foram estabelecidas após o reencontro em Karan, sem reescrever decisões anteriores. A cena atual permanece na praça, com Tomás, Estelar, Ravena, Zatanna, Myand'r e Luand'r. O almoço foi combinado, mas o estabelecimento ainda não foi escolhido. Myand'r solicitou um relatório reservado sobre o acordo matrimonial anterior; seu conteúdo e resultado permanecem abertos. As fichas registram os conhecimentos legítimos de cada monarca, sem revelar automaticamente segredos, pensamentos privados ou fatos de bastidor.
+## Registro histórico de continuidade
 
-## Ampliação das Cadeiras dos Titãs
+Myand'r e Luand'r receberam Cadeiras persistentes após o reencontro em Karan, sem reescrever decisões anteriores. Suas fichas registram os conhecimentos legítimos e as responsabilidades próprias. Dick, Victor e Garfield receberam fichas próprias após o encerramento da Temporada 2. Essas ampliações não criaram acontecimentos novos nem alteraram os vínculos íntimos das personagens centrais.
 
-Dick, Victor e Garfield receberam fichas próprias após o encerramento da Temporada 2, para que suas próximas aparições sejam conduzidas por Cadeiras independentes. A ampliação é preparação de continuidade e não cria acontecimentos novos. O presente permanece no último ponto estabelecido pelo Capítulo 28 e em `estado.md`; a proposta de visita de Tomás à Torre ainda não foi executada.
+O estado histórico ao fim do Capítulo 29 permanece recuperável no histórico Git e nos capítulos canônicos. Preparações antigas, como o almoço ainda não escolhido em Karan, o relatório reservado sobre o casamento anterior e a visita à Torre após o Capítulo 28, devem ser lidas à luz dos capítulos que efetivamente as desenvolveram. Não promovê-las a pendências presentes se já foram resolvidas.
+
+## Continuidade atual
+
+A Temporada 3 está em execução. Os Capítulos 29, 30 e 31 estão encerrados. O Capítulo 30 registrou a rotina de Tomás, o jantar com Ravena e Zatanna e a primeira visita delas ao quarto pessoal. O Capítulo 31 registrou o retorno voluntário de Kori à Terra, a despedida familiar, sua primeira visita ao quarto, o reencontro na Torre e a noite com Ravena e Tomás.
+
+O último ponto é a manhã na cozinha da Torre dos Titãs, após a piada de Tomás sobre a cama de Ravena ser pequena e ainda faltar Zatanna. O almoço com Zatanna continua uma proposta para mais tarde, não um evento já executado. A próxima ação relevante de Tomás pertence ao Diretor, salvo delegação suficiente.
+
+Consultar [estado.md](estado.md), [direcao.md](direcao.md), o [índice do Livro](livro/README.md) e [quarto de Tomás](mundo/quarto-de-tomas.md) para a continuidade atual. O cânone dos capítulos prevalece sobre resumos históricos.
