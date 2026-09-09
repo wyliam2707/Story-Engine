@@ -18,8 +18,8 @@ Estilo e tom aprovados pelo Diretor.
 
 ## Personagens centrais
 
-- Emma Frost: personagem adulta do universo Marvel, com 29 anos nesta história, um ano mais velha que Arthur. Escolhida para o romance. Versão, período e situação inicial ainda serão definidos.
-- Arthur Jack: protagonista original, mutante de 28 anos. Sua identidade, aparência, personalidade, histórico e Domínio de Realidade estão registrados em `canon/personagens/arthur-jack.md`. Ficha em construção, com os fatos já aprovados preservados.
+- Emma Frost: 29 anos nesta história, um ano mais velha que Arthur. Versão local dos quadrinhos Marvel, com as experiências da Rainha Branca, dos Satânicos, da Geração X e dos X-Men preservadas em uma cronologia condensada. Sua ficha vigente está em `canon/personagens/emma-frost.md`.
+- Arthur Jack: mutante original de 28 anos. Sua identidade, aparência, personalidade, competências, histórico e Domínio de Realidade estão registrados em `canon/personagens/arthur-jack.md`.
 
 Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparecerem e adquirirem relevância, sem criar elenco ornamental ou fichas antecipadas. Personagens recorrentes podem receber Cadeira e registros próprios quando necessário. A ausência de ficha prévia não impede uma participação incidental legítima.
 
@@ -33,13 +33,14 @@ Premissa: APROVADA.
 Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
 Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
-Próxima etapa: FICHAS. A ficha de Arthur contém seu núcleo aprovado; formação e demais detalhes necessários ainda podem ser definidos. Não exigir preenchimento exaustivo nem criar uma motivação fixa para sua personalidade. A versão e a situação inicial de Emma permanecem abertas.
+Fichas centrais: SUFICIENTES PARA A PREPARAÇÃO. A ficha de Emma foi construída sob a autorização do Diretor; a de Arthur preserva seu núcleo aprovado e deixa detalhes não necessários abertos.
+Próxima etapa: AUTORIDADES, CADEIRAS E EXECUTORES. A atribuição da Personagem do Diretor ainda não foi definida expressamente. Não presumir que a autorização para criar Emma transfere a vontade de Arthur ou autoriza iniciar a Ficção.
 
 O rascunho anterior `rascunhos/emma-frost-deus-local.md` permanece como registro histórico da preparação. A ficha de Arthur é a fonte vigente de sua identidade e mutação; o rascunho não é uma segunda fonte canônica. Não importar personagens, fatos ou acontecimentos de outras campanhas para preencher lacunas.
 
 ## Autoridades e executores
 
-A configuração específica das Cadeiras e da Personagem do Diretor será registrada na etapa própria. A escolha do protagonista não transfere sua vontade à IA.
+A configuração específica das Cadeiras e da Personagem do Diretor será registrada na etapa própria. A escolha do protagonista não transfere sua vontade à IA. A criação da ficha de Emma não constitui ainda uma cena ou decisão ficcional dela.
 
 ## Políticas e módulos
 
@@ -47,13 +48,13 @@ Aplicar os padrões vigentes do W4D enquanto a configuração específica não f
 
 ## Cânone externo
 
-Universo Marvel como referência. A versão e o período de Emma, bem como o alcance das fontes externas permitidas, serão definidos quando necessários. Os fatos desta obra prevalecerão sobre referências externas em caso de diferença local. Não importar indiscriminadamente acontecimentos ou relações de outras continuidades.
+Universo Marvel dos quadrinhos como referência, com versão local e idade própria de Emma. Sua trajetória selecionada e os limites de importação estão na ficha `canon/personagens/emma-frost.md`. As fichas desta obra prevalecem sobre divergências externas. Não importar indiscriminadamente acontecimentos, relações ou cronologias incompatíveis. O período editorial exato e a situação presente não precisam ser fixados além do que a preparação e a Ficção exigirem.
 
 ## Mapa das fontes
 
 - `canon/personagens/arthur-jack.md`: ficha de Arthur, fonte vigente dos fatos aprovados sobre ele.
+- `canon/personagens/emma-frost.md`: ficha local de Emma, sua identidade, trajetória, capacidades e personalidade.
 - `canon/direcao.md`: Direção autoral vigente, quando criada.
-- `canon/personagens/`: demais fichas individuais aprovadas, quando criadas.
 - `canon/relacoes/`: vínculos duradouros que precisem de fonte própria.
 - `canon/mundo/`: fatos externos estáveis necessários.
 - `estado/`: cena atual, personagens, relações e pendências, quando houver condições iniciais suficientes.
