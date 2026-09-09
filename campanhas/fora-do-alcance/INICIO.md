@@ -1,6 +1,6 @@
 # Fora do Alcance
 
-STATUS: EM EXECUÇÃO. Livro ativo, capítulo 001 em andamento.
+STATUS: EM EXECUÇÃO. Livro ativo, capítulo 001 fechado; capítulo 002 ainda não iniciado.
 
 ## Proposta e tom
 
@@ -15,7 +15,7 @@ Fichas suficientes. Detalhes não necessários permanecem abertos. Acrescentar o
 
 ## Âncora atual
 
-Nova York, Manhattan, tarde de data ficcional não fixada. Emma está debilitada após uma armadilha de Shaw e uma fuga. Arthur a ampara em um café. Ela tentou sondar sua mente, não obteve acesso dentro do Domínio de Realidade e perguntou: `Quem é você?`. Dois seguranças procuram Emma na rua próxima. O resultado da perseguição e a próxima ação de Arthur permanecem abertos. A posição exata, os conhecimentos e as pendências estão em `estado/`. Trecho válido: `livro/001-a-queda.md`.
+Nova York, Manhattan, tarde de data ficcional não fixada. Emma está recuperada da sobrecarga após a cura leve de Arthur e sentada ao lado dele em um café. Dois seguranças de Shaw recuaram para as proximidades da esquina, mantendo o café à vista. A perseguição permanece sem resolução. Emma tentou sondar Arthur sem obter acesso e desconhece a natureza do Domínio de Realidade. Arthur mencionou a possibilidade de sua ameaça de causalidade ter sido um blefe e reiterou seu pedido de nome. A apresentação anterior de Emma como Emma Frost permanece válida. O último ponto recuperável e as lacunas de transcrição estão em `estado/` e `operacao.md`. Capítulo fechado: `livro/001-a-queda.md`.
 
 ## Autoridades e executores
 
@@ -39,9 +39,9 @@ Quadrinhos Marvel, com versão local e idade própria de Emma. Sua ficha determi
 - `estado/personagens.md`: presente e conhecimentos individuais.
 - `estado/relacoes.md`: relações atuais.
 - `estado/pendencias.md`: processos e compromissos.
-- `operacao.md`: escopo e operação pendente.
+- `operacao.md`: escopo, lacunas de transcrição e retomada.
 - `livro/README.md`: índice do Livro.
 
 ## Preparação e retomada
 
-Auditoria aprovada antes do START. O Diretor autorizou a abertura, que foi executada e registrada no capítulo 001 em andamento. Recarregar Direção, Estado, Operação, fichas pertinentes e Livro; reconstruir as Cadeiras separadamente. Retomar no ponto da âncora sem refazer o encontro. O rascunho `rascunhos/emma-frost-deus-local.md` é histórico, não fonte canônica concorrente. Não importar outras campanhas. `atualizar` não avança nem fecha capítulo.
+Auditoria aprovada antes do START. A abertura foi executada e o capítulo 001 está fechado. Recarregar Direção, Estado, Operação, fichas pertinentes e Livro; reconstruir as Cadeiras separadamente. Retomar no ponto recuperável da âncora sem refazer o encontro, inventar respostas ausentes ou antecipar a perseguição. O rascunho `rascunhos/emma-frost-deus-local.md` é histórico, não fonte canônica concorrente. Não importar outras campanhas. `atualizar` não avança nem fecha capítulo.
