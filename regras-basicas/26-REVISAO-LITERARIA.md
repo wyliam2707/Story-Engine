@@ -4,16 +4,49 @@ Este arquivo governa a transformação editorial da Ficção já criada em texto
 
 > **A Mesa cria a história. O Livro cria a experiência de ler essa história.**
 
+## Ativação
+
+A revisão literária **não é automática**.
+
+Enquanto a história estiver sendo criada, continuar usando normalmente o fluxo de Mesa, Cadeiras, Narrador e Ficção já estabelecido pelo sistema. Não interromper a criação para reescrever tudo em prosa de romance, não aumentar automaticamente a densidade literária e não transformar cada cena em versão final.
+
+A rotina deste arquivo só entra em operação quando o Diretor pedir explicitamente algo equivalente a:
+
+```text
+vamos fazer revisão literária
+revisar o Livro
+vamos transformar isso em livro
+revisar os capítulos
+```
+
+Até esse pedido, a história continua sendo criada no formato operacional normal.
+
+```text
+HISTÓRIA EM CRIAÇÃO
+→ Mesa cria acontecimentos.
+→ Cadeiras decidem personagens.
+→ Narrador executa no formato operacional vigente.
+→ Livro pode registrar a Ficção fechada conforme as regras normais.
+→ NÃO iniciar revisão literária por conta própria.
+
+DIRETOR PEDE REVISÃO LITERÁRIA
+→ ativar esta rotina.
+→ usar toda a Ficção válida já criada como matéria-prima.
+→ trabalhar estrutura, tom e prosa sem alterar o cânone.
+```
+
 A revisão literária não é uma segunda Mesa e não recebe autoridade para decidir novos acontecimentos. Sua função é transformar fatos, decisões, reações e consequências já estabelecidos em prosa coesa, imersiva e literariamente completa.
 
 ## Separação de funções
 
 ```text
-MESA
+MESA / CRIAÇÃO
 → decide o que acontece.
 → define vontades, escolhas, reações materiais, consequências, regras, conhecimentos e limites.
+→ pode permanecer direta, ágil e operacional.
 
 REVISÃO LITERÁRIA
+→ começa somente por pedido explícito do Diretor.
 → decide como o leitor experimenta o que já aconteceu.
 → trabalha forma, ritmo, atmosfera, descrição, interioridade, subtexto e estrutura editorial.
 ```
@@ -158,14 +191,15 @@ Se o próprio Livro for revisado literariamente, a versão anterior pode ser sub
 ## Fluxo de trabalho
 
 ```text
-1. criar a história na Mesa;
-2. fechar a Ficção válida;
-3. antes de revisar, definir estrutura, divisão e tom dos capítulos;
-4. revisar um capítulo por vez;
-5. expandir cenas segundo seu peso literário;
-6. conferir voz, personalidade, conhecimento, continuidade e causalidade;
-7. comparar com a Ficção válida para detectar invenção editorial;
-8. substituir ou publicar a versão revisada somente com autorização do Diretor.
+1. criar a história normalmente, sem ativar esta rotina;
+2. fechar e preservar a Ficção válida conforme o sistema;
+3. aguardar o Diretor pedir explicitamente revisão literária;
+4. só então definir estrutura, divisão e tom dos capítulos;
+5. revisar um capítulo por vez;
+6. expandir cenas segundo seu peso literário;
+7. conferir voz, personalidade, conhecimento, continuidade e causalidade;
+8. comparar com a Ficção válida para detectar invenção editorial;
+9. substituir ou publicar a versão revisada somente com autorização do Diretor.
 ```
 
 A revisão estrutural também permanece editorial. Discutir como capítulos devem ser agrupados ou divididos não executa nova Ficção.
@@ -183,4 +217,4 @@ A revisão pode aprofundar o que existe. Não pode decidir o que ainda não acon
 
 ## Regra final
 
-> **A Mesa produz o acontecimento; a revisão produz presença. O leitor pode receber muito mais palavras, sensações, pensamentos e textura sem que uma única decisão nova seja criada. A história pertence à autoria; a forma literária pertence à revisão.**
+> **Durante a criação, criar normalmente. Somente quando o Diretor pedir revisão literária, transformar a Ficção pronta em experiência de leitura. A Mesa produz o acontecimento; a revisão produz presença.**
