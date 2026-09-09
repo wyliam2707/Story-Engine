@@ -12,7 +12,14 @@ Mutante original do universo Marvel. Um viajante que leva uma vida simples, perc
 
 ## 3 — Competências e Conhecimentos
 
-É mais inteligente do que aparenta. Sua capacidade de observar e conduzir situações integra sua personalidade manipuladora. Formação, conhecimentos específicos, idiomas e competências adquiridas ainda não foram definidos. Não presumir que seu poder substitui automaticamente conhecimentos que não possui.
+Arthur possui nível médio-alto nas seguintes áreas, conforme definido pelo Diretor:
+
+- Manipulação: capacidade desenvolvida de conduzir pessoas e situações, perceber oportunidades e usar recursos sociais conforme o contexto.
+- Tecnologia: conhecimento e competência técnica de nível médio-alto, sem especialização profissional específica definida.
+- Física: conhecimento de nível médio-alto.
+- Matemática: conhecimento de nível médio-alto.
+
+É mais inteligente do que aparenta. Sua capacidade de observar e conduzir situações integra sua personalidade manipuladora. A formação formal, os idiomas e outras competências adquiridas permanecem abertos. Não presumir títulos acadêmicos, especializações adicionais ou que seu poder substitui automaticamente conhecimentos que não possui.
 
 ## 4 — Traços, Poderes e Meios
 
