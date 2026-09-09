@@ -6,6 +6,6 @@ Este índice registra a Ficção canônica válida da campanha. Falas e pensamen
 
 ## Capítulos
 
-- [001 — A queda](001-a-queda.md) — EM ANDAMENTO. Abertura da história, armadilha de Shaw, fuga de Emma, encontro com Arthur e tentativa telepática frustrada. O capítulo ainda não foi fechado; a próxima autoria pertence ao Diretor.
+- [001 — A queda](001-a-queda.md) — FECHADO. Armadilha de Shaw, fuga de Emma, encontro com Arthur, cura, tentativa telepática frustrada e recuo dos seguranças. O registro recuperável termina com Arthur reiterando seu pedido de apresentação. A perseguição permanece sem resolução.
 
-O próximo trecho válido será acrescentado ao capítulo em andamento até que o Diretor solicite seu fechamento. O índice não considera o capítulo encerrado.
+O próximo capítulo será 002. Nenhuma nova Ficção foi executada para produzir o fechamento. As lacunas de transcrição posteriores ao último checkpoint estão indicadas em `../operacao.md`; não foram preenchidas com falas ou acontecimentos inventados.
