@@ -2,14 +2,20 @@
 
 Status: ATIVO
 
-O Livro preserva integralmente a Ficção válida. A apresentação canônica identifica NARRADOR, falas e pensamentos conforme o módulo Livro. O prólogo registra os antecedentes aprovados; o primeiro capítulo apresenta o encontro no Éter e os três POVs das junções de almas. Não adicionar propostas de Mesa ou resultados futuros ainda não executados.
+O Livro preserva integralmente a Ficção válida. O prólogo registra os antecedentes aprovados; o primeiro capítulo apresenta o encontro no Éter e os três POVs das junções de almas. Não adicionar propostas de Mesa ou resultados futuros ainda não executados.
+
+## Convenção editorial
+
+A apresentação do Livro utiliza prosa literária fluida, com narração sem o marcador NARRADOR. As falas mantêm a identificação de quem fala, e os pensamentos são identificados pelo personagem e destacados em itálico. Os POVs conservam a separação de conhecimentos, percepções e intenções.
+
+A edição literária pode enriquecer descrições, ritmo, transições e linguagem, mas não modifica acontecimentos, decisões, falas em seu sentido, vínculos, regras, conhecimentos ou resultados. Não acrescentar fatos novos para embelezar o texto. A terceira interpretação das junções permanece sem seus efeitos definidos ou revelados. O formato de apresentação na conversa e na Mesa não precisa ser alterado para acompanhar o estilo do Livro.
 
 ## Índice
 
 | Ordem | Unidade | Arquivo | Situação |
 |---|---|---|---|
 | 000 | Prólogo: Dois cataclismos | `000-prologo-dois-cataclismos.md` | Fechado, versão corrigida |
-| 001 | Um nome no vazio | `001-um-nome-no-vazio.md` | Fechado, versão válida dos três POVs |
+| 001 | Um nome no vazio | `001-um-nome-no-vazio.md` | Fechado, edição literária dos três POVs |
 
 ## Ponto de continuidade
 
