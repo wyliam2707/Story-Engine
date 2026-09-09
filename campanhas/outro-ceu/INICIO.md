@@ -1,6 +1,6 @@
 # Outro Céu
 
-STATUS: PRONTA
+STATUS: EM EXECUÇÃO
 
 ## Proposta curta
 
@@ -23,9 +23,9 @@ Sara e Nari são conhecidas, não irmãs, ambas princesas demoníacas. Sara pert
 
 ## Políticas e módulos
 
-Mesa: CICLO OBRIGATÓRIO, salvo escolha expressa diferente. A autorização atual para prólogo e primeiro capítulo vale somente para esse escopo e não altera a política persistente.
+Mesa: CICLO OBRIGATÓRIO, salvo escolha expressa diferente. A autorização do prólogo e primeiro capítulo foi consumida e não altera a política persistente.
 Indicador operacional: SILENCIOSO.
-Livro: PREPARADO; ativação obrigatória com a primeira Ficção.
+Livro: ATIVO, com prólogo e primeiro capítulo fechados.
 Módulos opcionais: inativos, salvo escolha ou necessidade real.
 Memória individual e preservação do Livro: obrigatórias.
 
@@ -48,13 +48,13 @@ Obra 100% autoral. Não importar personagens, fatos, poderes ou regras de outras
 - `estado/personagens.md`: condições, conhecimentos e intenções individuais.
 - `estado/relacoes.md`: relações presentes.
 - `estado/pendencias.md`: processos e assuntos ainda abertos.
-- `operacao.md`: autorização atual, auditoria e checkpoint operacional.
-- `livro/README.md`: índice do Livro, a ser ativado com a primeira Ficção.
+- `operacao.md`: checkpoint, escopo e próxima autoria.
+- `livro/README.md`: índice do Livro e capítulos fechados.
 
 Os caminhos antigos `sana-iron-heart.md` e `na.md` são referências de migração, não fichas independentes.
 
 ## Retomada
 
-A preparação suficiente foi consolidada. Autorização semântica expressa para salvar os antecedentes e executar prólogo seguido do primeiro capítulo. A Auditoria verifica identidade, autoridades, mundo, Direção, Estado e ponto aberto sem exigir planejamento do futuro. Consultar `operacao.md` antes do START. A Ficção ainda não foi iniciada neste checkpoint.
+A preparação foi concluída e a Auditoria aprovada. O Diretor autorizou salvar os antecedentes e executar prólogo seguido do primeiro capítulo. O Livro foi ativado e ambos foram fechados. Reancorar por `operacao.md`, quatro fontes de Estado, Direção e Livro antes de continuar. O primeiro ponto aberto é a resposta de Sara e Nari à última pergunta médica de Will, dentro do Pagoda. Não houve recuperação ou saída do Éter.
 
 Seguir as normas vigentes de `regras-basicas/`, especialmente 04, 10, 17–25 e o módulo Livro. Não converter conteúdo de Mesa em acontecimentos adicionais nem avançar além do escopo autorizado.
