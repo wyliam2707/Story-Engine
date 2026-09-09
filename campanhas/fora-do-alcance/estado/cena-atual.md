@@ -4,22 +4,24 @@ STATUS: EM EXECUÇÃO. Capítulo 001 em andamento.
 
 ## Âncora
 
-Nova York, Manhattan, tarde de data ficcional não fixada. Mesas externas de um café em uma rua próxima ao edifício comercial onde Emma foi atacada. Arthur está sentado, com uma xícara sobre a mesa, e ampara Emma nos braços e no colo. Ela está consciente, mas ainda debilitada pela sobrecarga psíquica. A cadeira se deslocou um pouco quando ele a amparou; a xícara permaneceu na mesa. Pessoas comuns estão nas proximidades. Dois seguranças de Shaw chegaram à esquina e procuram Emma; um olhou na direção das mesas e diminuiu o passo. Não foi estabelecido que a localizaram definitivamente.
+Nova York, Manhattan, tarde de data ficcional não fixada. Mesas externas de um café em uma rua próxima ao edifício comercial onde Emma foi atacada. Arthur está sentado, com uma xícara sobre a mesa, e continua junto de Emma, que foi amparada nos braços e no colo dele. Ela está em forma humana, consciente e bem melhor após a cura leve realizada por Arthur. Recuperou coordenação, lucidez e alívio da dor aguda. Pode firmar o corpo e falar normalmente. Não foi estabelecido que se afastou de Arthur ou saiu do colo. Pessoas comuns estão nas proximidades.
+
+Dois seguranças de Shaw reconheceram Emma e se aproximaram pelo passeio. Um parou a alguns passos, mantendo as mãos visíveis; o outro ficou um pouco atrás. O primeiro exigiu que ela os acompanhasse. Emma recusou e advertiu que pensassem antes de insistir. O homem não avançou imediatamente. A perseguição permanece ativa, sem captura, combate ou resolução.
 
 ## Último fato válido
 
-Emma tentou sondar a mente de Arthur e não obteve acesso dentro dos três metros de seu Domínio de Realidade. Ajustou a tentativa, também sem acesso, e a interrompeu. Não conhece a explicação. Sua última fala foi: `Quem é você?`
+Arthur se apresentou como Arthur, perguntou se Emma estava bem e aplicou uma cura leve de seu Domínio de Realidade. Emma sentiu recuperação imediata e apresentou-se como Emma Frost. Perguntou o que ele havia feito. Os seguranças interromperam antes da resposta; Emma recusou acompanhá-los. A última fala é `Não. E sugiro que pensem muito bem antes de insistir.`
 
 ## Primeiro ponto aberto
 
-A próxima resposta ou ação de Arthur pertence ao Diretor. Emma e os seguranças conservam suas autorias e intenções próprias. A perseguição não está resolvida; não houve combate entre Arthur e os seguranças, cura, fuga conjunta, apresentação pessoal, convite ou compromisso romântico.
+A próxima resposta ou ação de Arthur pertence ao Diretor. A pergunta de Emma sobre a cura permanece sem resposta. Emma e os seguranças conservam suas autorias e intenções próprias. Arthur não recebeu explicação sobre Shaw, o dispositivo ou a tentativa telepática. Emma não conhece a natureza nem o alcance do Domínio de Realidade. Não houve decisão de Arthur sobre a perseguição, fuga conjunta, convite ou compromisso romântico.
 
 ## Limite
 
-A abertura autorizada foi executada até o ponto de parada. Aguardar nova direção, consulta ou delegação do Diretor antes de decidir a vontade material de Arthur. Aplicar o ciclo de Mesa para nova proposta conforme a política vigente. Não antecipar o resultado da perseguição, inventar conhecimento sobre a mutação de Arthur ou avançar o tempo por conveniência.
+A autorização para apresentação e cura foi executada. Aguardar nova direção, consulta ou delegação do Diretor para a próxima vontade material de Arthur. A execução ordinária das Cadeiras pertinentes permanece disponível dentro do escopo. Não antecipar resultado da perseguição, atribuir conhecimento de bastidor ou criar novo objetivo para Arthur.
 
 ## Referências
 
 `../livro/001-a-queda.md` — trecho válido em andamento.
 `../canon/direcao.md` — Direção persistente.
-`../operacao.md` — escopo restante e retomada.
+`../operacao.md` — escopo e retomada.
