@@ -1,76 +1,66 @@
 # Fora do Alcance
 
-STATUS: EM PREPARAÇÃO
+STATUS: PRONTA. START AUTORIZADO. Primeira Ficção ainda não executada neste checkpoint.
 
 ## Proposta curta
 
-Uma história no universo Marvel centrada em Emma Frost e um mutante original adulto capaz de moldar a realidade dentro de três metros de si. Dois indivíduos extraordinariamente poderosos, com vidas e interesses próprios, desenvolvem uma relação romântica enquanto lidam com suas diferenças, seus círculos sociais e as consequências de suas escolhas.
-
-Premissa aprovada pelo Diretor. O encontro, a evolução da relação e os acontecimentos futuros ainda não foram executados.
+Uma história no universo Marvel centrada em Emma Frost e Arthur Jack, mutante original adulto capaz de moldar a realidade dentro de três metros de si. Dois indivíduos extraordinariamente poderosos, com vidas e interesses próprios, desenvolvem uma relação romântica enquanto lidam com suas diferenças, seus círculos sociais e as consequências de suas escolhas.
 
 ## Estilo e tom
 
-Romance adulto centrado nos problemas pessoais de Emma e do protagonista: vidas privadas, amizades, família, trabalho, desejos, diferenças de personalidade e convivência. O universo Marvel é contexto, não obrigação de missões, política mutante ou ameaças mundiais. Humor, atração, conflitos cotidianos e momentos sérios surgem conforme personagens e acontecimentos, sem drama, ciúme, oposição ou reconciliação obrigatórios.
+Romance adulto centrado nos problemas pessoais de Emma e Arthur: vidas privadas, amizades, família, trabalho, desejos, diferenças de personalidade e convivência. O universo Marvel é contexto, não obrigação de missões, política mutante ou ameaças mundiais. Humor, atração, conflitos cotidianos e momentos sérios surgem conforme personagens e acontecimentos, sem drama, ciúme, oposição ou reconciliação obrigatórios.
 
-Narração em terceira pessoa, com diálogos naturais e ritmo flexível. As cenas importantes recebem presença suficiente, sem alongamento mecânico nem resumo prematuro. Intimidade adulta pode ser apresentada de forma não gráfica. Emma preserva sua personalidade, seus interesses e seu histórico controverso; o romance não a torna automaticamente dócil nem exige aprovação de terceiros. Cada personagem conserva vida, vínculos e iniciativas próprios.
-
-Estilo e tom aprovados pelo Diretor.
+Narração em terceira pessoa, diálogos naturais e ritmo flexível. As cenas importantes recebem presença suficiente, sem alongamento mecânico nem resumo prematuro. Intimidade adulta pode ser apresentada de forma não gráfica. Emma preserva personalidade, interesses e histórico controverso; o romance não a torna automaticamente dócil nem exige aprovação de terceiros. Cada personagem conserva vida, vínculos e iniciativas próprios.
 
 ## Personagens centrais
 
-- Emma Frost: 29 anos nesta história, um ano mais velha que Arthur. Versão local dos quadrinhos Marvel, com as experiências da Rainha Branca, dos Satânicos, da Geração X e dos X-Men preservadas em uma cronologia condensada. Sua ficha vigente está em `canon/personagens/emma-frost.md`.
-- Arthur Jack: mutante original de 28 anos. Sua identidade, aparência, personalidade, competências, histórico e Domínio de Realidade estão registrados em `canon/personagens/arthur-jack.md`.
+- Emma Frost: 29 anos, um ano mais velha que Arthur. Versão local dos quadrinhos Marvel, com experiências da Rainha Branca, dos Satânicos, da Geração X e dos X-Men preservadas em cronologia condensada. Ficha em `canon/personagens/emma-frost.md`.
+- Arthur Jack: mutante original de 28 anos. Identidade, aparência, personalidade, competências, histórico e Domínio de Realidade em `canon/personagens/arthur-jack.md`.
 
-Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparecerem e adquirirem relevância, sem criar elenco ornamental ou fichas antecipadas. Personagens recorrentes podem receber Cadeira e registros próprios quando necessário. A ausência de ficha prévia não impede uma participação incidental legítima.
+Fichas centrais suficientes e aprovadas para a preparação. Detalhes não necessários permanecem abertos. Outras personagens serão acrescentadas conforme adquirirem relevância; NPCs incidentais não exigem ficha antecipada.
 
-## Condição inicial em preparação
+## Condição inicial
 
-Nova York é a cidade escolhida para a abertura. Emma mantém ali sua vida pessoal e empresarial e seus vínculos com os X-Men. Arthur está passando uma temporada na cidade, sem destino fixo ou missão que justifique sua presença. A duração da estadia, a hospedagem, a situação cotidiana concreta de Emma e as circunstâncias do encontro ainda não foram definidas. Nenhuma cena ou encontro foi executado.
-
-## Criação em andamento
-
-Premissa: APROVADA.
-Estilo e tom: APROVADOS.
-Nome e destino: APROVADOS.
-Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
-Fichas centrais: SUFICIENTES PARA A PREPARAÇÃO. A ficha de Emma foi construída sob a autorização do Diretor; a de Arthur preserva seu núcleo aprovado e deixa detalhes não necessários abertos.
-Autoridades, Cadeiras e Executores: APROVADOS. Arthur é a Personagem do Diretor, com execução textual delegável à IA. Emma possui Cadeira IA própria.
-Direção: SUFICIENTE PARA A PREPARAÇÃO, consolidada em `canon/direcao.md` a partir das decisões já aprovadas.
-Políticas operacionais: padrões vigentes do W4D aplicáveis.
-Mundo necessário: Nova York aprovada como cidade inicial. Os antagonismos históricos de Emma podem ser consultados e selecionados conforme a necessidade, sem criar uma ameaça ativa ou um arco obrigatório.
-Próxima etapa: completar somente a situação inicial necessária, preparar o Estado e realizar a Auditoria. Não iniciar Ficção sem autorização semântica de começo.
-
-O rascunho anterior `rascunhos/emma-frost-deus-local.md` permanece como registro histórico da preparação. A ficha de Arthur é a fonte vigente de sua identidade e mutação; o rascunho não é uma segunda fonte canônica. Não importar personagens, fatos ou acontecimentos de outras campanhas para preencher lacunas.
+Nova York, Manhattan. Emma mantém ali vida pessoal e empresarial e vínculos com os X-Men. Arthur passa uma temporada sem destino fixo ou missão. A abertura autorizada envolve uma armadilha ligada a Sebastian Shaw, fuga física e perseguição, culminando no encontro no café. O encadeamento fechado está em `canon/direcao.md` e a autorização em `operacao.md`. A âncora e os conhecimentos individuais estão em `estado/`. Nenhum encontro anterior foi estabelecido.
 
 ## Autoridades e executores
 
-- Diretor: usuário humano. Conduz a obra, fecha Direções e determina o escopo das autorizações.
+- Diretor: usuário humano. Conduz a obra, fecha Direções e determina escopos de autorização.
 - Narrador: IA. Apresenta a Ficção autorizada, preserva continuidade e conduz NPCs incidentais. Não é Juiz permanente nem supervisor das Cadeiras.
-- Emma Frost: Cadeira ficcional e consultiva executada pela IA. Sua vontade própria permanece aberta dentro da Direção e dos fatos da obra. A Cadeira utiliza a ficha, o conhecimento legítimo, o Estado e as relações de Emma, sem importar conhecimento de bastidor. Mantém iniciativas, vínculos e atividades próprios.
-- Arthur Jack: Personagem do Diretor, com vontade pertencente ao usuário. A IA pode executar textualmente falas, gestos, humor, flerte, métodos e pequenas decisões compatíveis com o objetivo e o escopo delegados. Sua Cadeira consultiva IA pode propor alternativas e apontar tensões, mas não assume sua vontade. A delegação não autoriza novos objetivos, compromissos, confissões, relações ou decisões materiais fora do escopo.
-- Outras personagens: acrescentar Cadeiras conforme adquirirem relevância. NPCs incidentais podem ser conduzidos pelo Narrador sem ficha antecipada. Não fundir conhecimentos, vontades ou relações por compartilharem executor.
+- Emma Frost: Cadeira ficcional e consultiva IA, com vontade própria dentro da Direção e fatos. Usa ficha, conhecimento legítimo, Estado e relações, sem importar conhecimento de bastidor. Mantém iniciativas, vínculos e atividades próprios.
+- Arthur Jack: Personagem do Diretor. Sua vontade pertence ao usuário. A IA pode executar textualmente falas, gestos, humor, flerte, métodos e pequenas decisões compatíveis com objetivo e escopo delegados. Sua Cadeira consultiva pode propor alternativas e apontar tensões, sem assumir sua vontade. Não criar objetivos, compromissos, confissões, relações ou decisões materiais fora do escopo.
+- Outras personagens: Cadeiras conforme relevância, com conhecimento e vontade separados. NPCs incidentais podem ser conduzidos pelo Narrador.
 
-Configuração aprovada expressamente pelo Diretor. Ela não modifica as fichas. Aplicar o ciclo vigente do W4D, com julgamento das Cadeiras pertinentes antes de novas propostas, salvo execução direta expressamente autorizada. Uma autorização fecha somente o escopo em discussão; não transfere automaticamente o restante do dia ou decisões futuras. As Cadeiras preservam suas vidas independentes e a separação entre conhecimento autoral e ficcional.
+Configuração aprovada expressamente. Uma autorização fecha somente o escopo em discussão; não transfere o restante do dia ou decisões futuras.
 
 ## Políticas e módulos
 
-Mesa em CICLO OBRIGATÓRIO e indicador SILENCIOSO. Aplicar os demais padrões vigentes do W4D. O Livro será obrigatório e ativo a partir da primeira Ficção. A manutenção da memória seguirá `25-MEMORIA-DE-CAMPANHA.md`, incluindo o comando `atualizar`. Módulos opcionais serão ativados conforme escolha ou necessidade real, sem impor tramas ou conflitos.
+MESA: CICLO OBRIGATÓRIO. INDICADOR: SILENCIOSO. Novas propostas passam por julgamento das Cadeiras pertinentes, salvo execução direta expressa. A Mesa permanece aberta até autorização ou cancelamento; a execução autorizada não é interrompida a cada gesto. Sem Juiz permanente ou RNG universal.
+
+Romance: módulo opcional ativo para orientar a intimidade adulta sem impor conflito, ciúme ou comportamento uniforme. Arco Preparado e Opositor inativos, salvo decisão posterior. Livro preparado e obrigatório, ativado com a primeira Ficção. Memória vigente conforme `25-MEMORIA-DE-CAMPANHA.md`, incluindo manutenção automática e comando `atualizar` sem avanço da Ficção.
 
 ## Cânone externo
 
-Universo Marvel dos quadrinhos como referência, com versão local e idade própria de Emma. Sua trajetória selecionada e os limites de importação estão na ficha `canon/personagens/emma-frost.md`. As fichas desta obra prevalecem sobre divergências externas. Não importar indiscriminadamente acontecimentos, relações ou cronologias incompatíveis. O período editorial exato e a situação presente não precisam ser fixados além do que a preparação e a Ficção exigirem.
+Universo Marvel dos quadrinhos, com versão local e idade própria de Emma. Trajetória selecionada e limites de importação em sua ficha. As fichas desta obra prevalecem sobre divergências externas. Não importar indiscriminadamente cronologias, relações ou acontecimentos incompatíveis. O período editorial exato não precisa ser fixado além do necessário.
 
 ## Mapa das fontes
 
-- `canon/personagens/arthur-jack.md`: ficha de Arthur, fonte vigente dos fatos aprovados sobre ele.
-- `canon/personagens/emma-frost.md`: ficha local de Emma, sua identidade, trajetória, capacidades e personalidade.
-- `canon/direcao.md`: Direção autoral vigente, com foco, limites e espaço aberto.
-- `canon/relacoes/`: vínculos duradouros que precisem de fonte própria.
-- `canon/mundo/`: fatos externos estáveis necessários.
-- `estado/`: cena atual, personagens, relações e pendências, quando houver condições iniciais suficientes.
-- `operacao.md`: somente quando houver processo autoral transitório a preservar.
-- `livro/README.md`: índice dos capítulos válidos, quando o Livro for ativado.
+- `canon/personagens/arthur-jack.md`: identidade e mutação vigentes de Arthur.
+- `canon/personagens/emma-frost.md`: identidade, trajetória, capacidades e personalidade de Emma.
+- `canon/direcao.md`: Direção autoral vigente e abertura fechada.
+- `canon/relacoes/`: vínculos duradouros quando precisarem de fonte própria.
+- `canon/mundo/`: fatos externos estáveis quando necessários. Não há arquivo obrigatório de mundo adicional antes do START.
+- `estado/cena-atual.md`: âncora exata e primeiro ponto aberto.
+- `estado/personagens.md`: presente e conhecimentos individuais.
+- `estado/relacoes.md`: situação relacional presente.
+- `estado/pendencias.md`: processos e compromissos estabelecidos.
+- `operacao.md`: autorização, escopo e condição de parada.
+- `livro/README.md`: índice do Livro; capítulos válidos em `livro/`.
+
+## Auditoria de preparação
+
+AUDITORIA APROVADA. Premissa, tom, fichas, autoridades, Direção, políticas e mundo necessário suficientes. Os quatro arquivos de Estado foram preparados, o Livro existe e a autorização de começo foi recebida. O primeiro ponto e a próxima autoria são reconhecíveis. Nenhuma lacuna de aparência, hospedagem, data exata, elenco secundário ou planejamento futuro bloqueia a abertura. Não há necessidade de nova confirmação ritual.
 
 ## Retomada
 
-Esta obra ainda está em preparação; não existe primeiro capítulo nem cena executada. Retomar a etapa de criação pendente sem inventar fatos. Quando houver Estado vivo, carregar Direção, Estado, Operação ativa e fontes pertinentes, reconstruindo as Cadeiras separadamente. O comando `atualizar` mantém os registros e não avança a Ficção nem fecha capítulo.
+Recarregar Direção, Estado, Operação e fichas pertinentes; reconstruir as Cadeiras separadamente e consultar o Livro para fatos precisos. O rascunho `rascunhos/emma-frost-deus-local.md` é histórico de preparação, não fonte canônica concorrente. Não importar outras campanhas. A primeira Ficção muda o status para EM EXECUÇÃO e ativa o Livro. `atualizar` preserva o ponto sem avançar ou fechar capítulo.
