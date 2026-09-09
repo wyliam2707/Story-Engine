@@ -1,19 +1,25 @@
 # Cena atual — Fora do Alcance
 
-STATUS: ANTES DA PRIMEIRA FICÇÃO.
+STATUS: EM EXECUÇÃO. Capítulo 001 em andamento.
 
 ## Âncora
 
-Nova York, Manhattan, tarde de data ficcional ainda não fixada. A abertura autorizada situa uma negociação privada de Emma em um escritório de segundo andar de um edifício comercial, com saída física para uma rua lateral e um café com mesas externas nas proximidades. Arthur está sentado no café. Emma está na negociação, antes da armadilha. A posição exata de cada pessoa, a configuração ordinária do espaço e o horário podem ser estabelecidos pela execução sem inventar recursos extraordinários.
+Nova York, Manhattan, tarde de data ficcional não fixada. Mesas externas de um café em uma rua próxima ao edifício comercial onde Emma foi atacada. Arthur está sentado, com uma xícara sobre a mesa, e ampara Emma nos braços e no colo. Ela está consciente, mas ainda debilitada pela sobrecarga psíquica. A cadeira se deslocou um pouco quando ele a amparou; a xícara permaneceu na mesa. Pessoas comuns estão nas proximidades. Dois seguranças de Shaw chegaram à esquina e procuram Emma; um olhou na direção das mesas e diminuiu o passo. Não foi estabelecido que a localizaram definitivamente.
 
 ## Último fato válido
 
-A história ainda não foi iniciada. Emma e Arthur não se conhecem. Nenhuma armadilha, fuga, queda, socorro ou tentativa telepática foi executada.
+Emma tentou sondar a mente de Arthur e não obteve acesso dentro dos três metros de seu Domínio de Realidade. Ajustou a tentativa, também sem acesso, e a interrompeu. Não conhece a explicação. Sua última fala foi: `Quem é você?`
 
 ## Primeiro ponto aberto
 
-Iniciar a cena pela negociação e pela armadilha autorizadas, construindo o caminho até o encontro e a tentativa telepática frustrada. Direção e escopo estão em `../canon/direcao.md` e `../operacao.md`.
+A próxima resposta ou ação de Arthur pertence ao Diretor. Emma e os seguranças conservam suas autorias e intenções próprias. A perseguição não está resolvida; não houve combate entre Arthur e os seguranças, cura, fuga conjunta, apresentação pessoal, convite ou compromisso romântico.
 
 ## Limite
 
-Executar a abertura aprovada e devolver a autoria ao Diretor depois da tentativa sem acesso, sem resolver antecipadamente a perseguição nem decidir a próxima ação material de Arthur. A Cadeira de Emma preserva suas decisões e conhecimentos próprios. Não transformar propostas posteriores ou informações de bastidor em fatos.
+A abertura autorizada foi executada até o ponto de parada. Aguardar nova direção, consulta ou delegação do Diretor antes de decidir a vontade material de Arthur. Aplicar o ciclo de Mesa para nova proposta conforme a política vigente. Não antecipar o resultado da perseguição, inventar conhecimento sobre a mutação de Arthur ou avançar o tempo por conveniência.
+
+## Referências
+
+`../livro/001-a-queda.md` — trecho válido em andamento.
+`../canon/direcao.md` — Direção persistente.
+`../operacao.md` — escopo restante e retomada.
