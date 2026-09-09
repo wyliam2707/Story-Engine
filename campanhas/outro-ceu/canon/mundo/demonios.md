@@ -7,6 +7,14 @@ Status: CÂNONE DE MUNDO EM DESENVOLVIMENTO
 
 Demônios são uma raça do mundo de Outro Céu. A designação não estabelece relação com inferno, maldade ou demonologia tradicional. Vivem quase 3.000 anos e se reproduzem muito raramente. Causa da reprodução rara, desenvolvimento e maturidade e detalhes biológicos ainda não foram definidos.
 
+## Forma comum e Forma Demoníaca
+
+A aparência cotidiana dos demônios pode ser quase humana, preservando traços raciais visíveis. Sara e Nari, em sua forma comum, apresentam pequenos chifres e não mantêm asas visíveis.
+
+A **Forma Demoníaca** não é a aparência cotidiana nem uma condição obrigatória de repouso. É uma transformação de combate, usada como base de uma arte marcial protetora. Sua manifestação pode incluir traços mais amplos, como asas e chifres maiores, além da proteção semelhante a uma armadura, preservando a identidade e a aparência reconhecível do indivíduo.
+
+A forma comum não representa perda de poder, regressão, fraqueza ou transformação incompleta. A Forma Demoníaca também não recebe automaticamente custo, perda de controle, corrupção ou necessidade de manutenção energética constante sem autoria específica.
+
 ## Território e Ruptura do Caos
 
 Os demônios vivem próximos à Ruptura do Caos, uma zona que emana magia negra e magia do caos. A região é quase inóspita para as demais raças, mas oferece o ambiente ideal para a civilização demoníaca. O território não deixa de atrair a ganância de outros povos, especialmente por seus recursos e pelas minas ainda quase inexploradas que interessam aos anões há gerações.
