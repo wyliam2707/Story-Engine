@@ -163,7 +163,7 @@ Absorvia outra vez.
 
 O Dan, feito para sustentar a reserva de um Santo, parecia enorme demais para aquilo que recebia.
 
-*Três dias.*
+**Will, pensa -** *Três dias.*
 
 Talvez.
 
@@ -667,7 +667,7 @@ Todas incompatíveis em significado.
 
 Nari fechou os olhos.
 
-*Amanhã.*
+**Nari, pensa -** *Amanhã.*
 
 Talvez houvesse outra alteração.
 
@@ -703,7 +703,7 @@ A magia podia fazer coisas que ele não conhecia.
 
 E, claramente, duas mulheres vindas de outro mundo traziam regras próprias.
 
-*Casamento.*
+**Will, pensa -** *Casamento.*
 
 Ainda parecia exagerado.
 
@@ -791,7 +791,7 @@ Agora Sara estava sobre ele.
 
 Will olhou para o teto.
 
-*Isso não estava no contrato.*
+**Will, pensa -** *Isso não estava no contrato.*
 
 A frase surgiu automaticamente.
 
@@ -835,7 +835,7 @@ O braço dela apertou-o um pouco quando se mexeu durante o sono.
 
 Will arqueou ligeiramente uma sobrancelha.
 
-*Também não vou fingir que isso é desagradável.*
+**Will, pensa -** *Também não vou fingir que isso é desagradável.*
 
 A honestidade interna parecia razoável.
 
