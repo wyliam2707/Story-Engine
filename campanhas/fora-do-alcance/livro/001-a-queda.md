@@ -1,6 +1,6 @@
 # 001 — A queda
 
-STATUS: EM ANDAMENTO. Primeira Ficção válida, sem fechamento de capítulo. O trecho termina após a tentativa telepática frustrada; a próxima autoria de Arthur permanece com o Diretor.
+STATUS: EM ANDAMENTO. Primeira Ficção válida, sem fechamento de capítulo.
 
 NARRADOR — A reunião acontecia no segundo andar de um edifício comercial de Manhattan. A sala era discreta para os padrões de Sebastian Shaw, mas a vista para a cidade e a mesa de madeira escura indicavam que discrição não significava economia. Emma Frost deixara o casaco sobre o encosto da cadeira. Diante dela, uma pasta reunia documentos relativos a antigas participações do Clube do Inferno.
 
@@ -56,4 +56,26 @@ NARRADOR — Ela interrompeu a sondagem. Sua atenção voltou ao rosto de Arthur
 
 Emma Frost — Quem é você?
 
-NARRADOR — A pergunta ficou entre os dois. Emma ainda estava debilitada e próxima de Arthur. Os seguranças permaneciam na rua, procurando por ela. Nenhuma decisão posterior de Arthur, resolução da perseguição ou aproximação romântica foi estabelecida.
+NARRADOR — Arthur olhou para ela, ainda a amparando.
+
+Arthur Jack — Arthur. E você, está bem?
+
+NARRADOR — Ele usou uma aplicação leve de seu Domínio de Realidade para curá-la. A alteração alcançou a condição que a sobrecarga deixara em Emma. A dor aguda começou a ceder, a sensação de desorientação se desfez e o corpo recuperou a coordenação que lhe faltava. Não houve brilho, gesto ritual ou aparelho. O efeito foi real, sem exigir que Arthur conhecesse os detalhes médicos do que estava corrigindo.
+
+NARRADOR — Emma inspirou fundo. A diferença era imediata. O ruído da rua voltou a ocupar seu lugar habitual, sem a pressão dolorosa que o acompanhara desde o ataque. Ela apoiou uma mão na borda da mesa e conseguiu firmar o corpo. Ergueu os olhos para Arthur, agora com atenção muito mais precisa.
+
+Emma Frost — Emma Frost. E, sim, agora estou bem melhor.
+
+NARRADOR — Ela observou o rosto dele por mais um instante. A recuperação não explicava a ausência de acesso telepático que acabara de encontrar, e Emma não tinha motivo para confundir os dois fenômenos.
+
+Emma Frost — O que você fez?
+
+NARRADOR — Antes que Arthur respondesse, um dos homens que a procuravam reconheceu Emma entre as mesas. Tocou o braço do companheiro e os dois se aproximaram pelo passeio. O primeiro parou a alguns passos, mantendo as mãos visíveis. O outro ficou um pouco atrás, atento à rua.
+
+Segurança — Senhorita Frost. Precisamos que venha conosco.
+
+NARRADOR — Emma voltou o rosto para ele. Sua expressão endureceu, mas a voz saiu firme.
+
+Emma Frost — Não. E sugiro que pensem muito bem antes de insistir.
+
+NARRADOR — O homem não avançou imediatamente. Olhou para Arthur, que continuava junto dela, e depois para Emma. A perseguição permanecia em aberto; ninguém havia sido capturado, atacado ou dispensado. A próxima resposta de Arthur e as decisões seguintes pertenciam às respectivas autorias.
