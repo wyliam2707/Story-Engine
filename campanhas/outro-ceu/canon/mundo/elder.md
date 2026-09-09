@@ -5,7 +5,7 @@ Status: CÂNONE DE MUNDO EM DESENVOLVIMENTO
 
 ## Continente
 
-Elder é um grande continente composto por quatro reinos. A definição dos povos e reinos está em andamento. Nomes, localização, fronteiras e estruturas ainda não definidos permanecem abertos. Não presumir que cada reino corresponda necessariamente a uma raça nem criar guerras ou alianças além das relações estabelecidas pelo Diretor.
+Elder é um grande continente composto por quatro reinos. Os povos centrais são humanos, elfos, anões e demônios. A definição dos nomes, localização, fronteiras e estruturas dos reinos está em andamento. Não criar guerras ou alianças além das relações estabelecidas pelo Diretor.
 
 ## Humanos
 
@@ -19,7 +19,7 @@ A variedade de poderes não estabelece uma lista universal de classes, uma magia
 
 ### Sociedade
 
-A superioridade numérica, a ambição e o expansionismo são elementos centrais do conceito humano definido pelo Diretor. Podem sustentar tensões políticas e disputas territoriais quando a história do continente for desenvolvida, mas nenhum conflito, conquista, governo ou acontecimento específico está estabelecido por essas características.
+A superioridade numérica, a ambição e o expansionismo são elementos centrais do conceito humano definido pelo Diretor. O reino humano integra a aliança voltada à conquista de terras demoníacas, com interesses próprios de expansão territorial, influência política e acesso a recursos. Consultar `alianca-dos-tres-reinos.md` para a relação e seus limites.
 
 ## Elfos
 
@@ -33,7 +33,7 @@ Assim como os humanos, os elfos normalmente possuem um ou dois poderes, no máxi
 
 Os elfos são protetores de suas terras florestais e desconfiados de forasteiros. Tendem a considerar sua cultura superior. Têm os demônios como inimigos porque consideram a magia demoníaca uma ofensa à natureza. Essa é a crença e posição dos elfos, não uma confirmação de que a magia demoníaca seja objetivamente antinatural, corruptora ou maligna.
 
-A inimizade entre elfos e demônios é um fato da relação entre os povos. Sua origem histórica, intensidade, manifestações políticas, conflitos passados e possíveis exceções individuais permanecem abertos. Não inventar guerra atual, massacre, tratado ou obrigação de hostilidade em todo encontro.
+O reino élfico integra a aliança voltada à conquista de terras demoníacas, com objetivos ligados à influência da magia demoníaca, à proteção territorial e à segurança. A origem histórica da inimizade, seus conflitos passados e as posições individuais permanecem abertos. Não inventar guerra já iniciada, massacre, tratado ou obrigação de hostilidade em todo encontro. Consultar `alianca-dos-tres-reinos.md`.
 
 ## Anões
 
@@ -47,13 +47,15 @@ Seguem a referência usual de um ou dois poderes por indivíduo, com graduaçõe
 
 Os anões extraem minérios, forjam armas e comercializam seus produtos. Mantêm muitos negócios com humanos e elfos. A natureza, volume e organização desses acordos ainda podem ser desenvolvidos.
 
-Há gerações, os anões estão de olho nas minas ainda quase inexploradas dos demônios. O interesse por esses recursos é um elemento estabelecido de sua relação com o território demoníaco. Não presumir que já possuam direitos de exploração, acesso autorizado, concessões, acordos, invasões ou operações militares. A localização, os minérios, a extensão das reservas e os motivos da exploração reduzida permanecem abertos.
-
-A ambição comercial e o interesse nas minas podem sustentar negociações, disputas econômicas e tensões futuras, mas não determinam automaticamente hostilidade, guerra ou um plano coletivo único.
+Há gerações, os anões estão de olho nas minas ainda quase inexploradas dos demônios. O reino anão integra a aliança voltada à conquista de terras demoníacas, buscando acesso e controle econômico de seus recursos. Não presumir que já possuam direitos de exploração, acesso autorizado, concessões ou operações militares. A localização, os minérios, a extensão das reservas e os motivos da exploração reduzida permanecem abertos. Consultar `alianca-dos-tres-reinos.md`.
 
 ## Demônios
 
 A fonte primária da espécie e de seu território é `demonios.md`. Os demônios vivem próximos à Ruptura do Caos, cuja zona emana magia negra e do caos e é quase inóspita para os demais povos, mas ideal para sua civilização. São o povo com mais poderes e habilidades natas, enorme vitalidade, superioridade habitual em combate individual e um exército forte. Culturalmente, tendem a se considerar superiores, mas não buscam dominar o continente. A região e seus recursos atraem a ganância externa. Consultar a fonte primária para capacidades, longevidade, reprodução, relações e limites do que foi estabelecido.
+
+## Política continental
+
+Os reinos humanos, élficos e anões formam uma aliança com o propósito reservado de conquistar terras demoníacas. Cada reino possui objetivos distintos, e a intenção de conquista não é comunicada diretamente aos demônios. A fonte primária é `alianca-dos-tres-reinos.md`. A existência da aliança não estabelece invasão já iniciada, guerra declarada, resultado predeterminado ou conhecimento uniforme entre todos os personagens.
 
 ## Fontes relacionadas
 
