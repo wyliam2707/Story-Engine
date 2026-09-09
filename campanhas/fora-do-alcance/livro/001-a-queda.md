@@ -79,3 +79,33 @@ NARRADOR — Emma voltou o rosto para ele. Sua expressão endureceu, mas a voz s
 Emma Frost — Não. E sugiro que pensem muito bem antes de insistir.
 
 NARRADOR — O homem não avançou imediatamente. Olhou para Arthur, que continuava junto dela, e depois para Emma. A perseguição permanecia em aberto; ninguém havia sido capturado, atacado ou dispensado. A próxima resposta de Arthur e as decisões seguintes pertenciam às respectivas autorias.
+
+NARRADOR — Arthur olhou para os dois homens, sem se levantar nem deixar de amparar Emma.
+
+Arthur Jack — Se vocês se aproximarem, uma sucessão de causalidades vai pará-los. Escorregar, bater numa mesa, sacar uma arma e atirar na própria perna... Entenderam? O que acham?
+
+NARRADOR — O primeiro segurança estreitou os olhos. A ameaça não parecia seguir o repertório habitual de alguém tentando impedir uma abordagem. Olhou para Emma, agora visivelmente recuperada, e tornou a encarar Arthur.
+
+Segurança — Senhor, isso não é assunto seu. Afaste-se dela.
+
+NARRADOR — O segundo homem, que permanecia um pouco atrás, olhou para as mesas e para os clientes que já acompanhavam a conversa. Não avançou.
+
+Segundo segurança — Não precisamos fazer isso aqui.
+
+NARRADOR — O primeiro manteve a posição por um instante. A mulher que haviam encontrado quase sem forças estava novamente lúcida, e o desconhecido acabara de descrever uma ameaça que nenhum dos dois sabia avaliar. Ele não tinha motivo para presumir que fosse uma brincadeira, nem para testar a afirmação diante de tantas pessoas.
+
+Segurança — Muito bem. Vamos recuar.
+
+NARRADOR — Fez um gesto para o companheiro e os dois se afastaram pelo passeio, sem se aproximar de Arthur. O primeiro levou a mão ao rádio e comunicou que haviam localizado Emma, mas que a abordagem estava interrompida. Não recebeu nenhuma resposta que pudesse ser ouvida da mesa. Os homens permaneceram nas proximidades da esquina, mantendo o café à vista. A perseguição não estava encerrada, mas nenhum deles havia sido ferido e a condição anunciada por Arthur não precisara ser acionada.
+
+NARRADOR — Emma acompanhou o recuo até os dois se afastarem. Só então voltou a atenção para Arthur. O olhar que lhe dirigiu era agora menos afetado pela dor e muito mais avaliador.
+
+Emma Frost — Uma ameaça curiosamente específica.
+
+NARRADOR — Ela apoiou as mãos para se erguer, agora capaz de sustentar o próprio peso, e se acomodou na cadeira ao lado. Ajustou a roupa, observou brevemente a esquina e voltou a olhar para ele.
+
+Emma Frost — Obrigada por me amparar. E pela recuperação. Seja lá o que tenha feito, funcionou.
+
+NARRADOR — A gratidão não eliminava sua curiosidade. Emma ainda se lembrava perfeitamente da tentativa de sondagem que não encontrara acesso, e a menção casual à causalidade acrescentara uma possibilidade que ela não pretendia ignorar.
+
+Emma Frost — Minha pergunta continua de pé, Arthur. O que exatamente você fez comigo? E você estava falando sério sobre controlar causalidade?
