@@ -16,7 +16,7 @@ O tom combina maravilhamento diante do desconhecido, humor natural e consequênc
 
 ## Personagens centrais
 
-Em preparação. O mago/cultivador, SA e NA são identificações provisórias da premissa, ainda sem fichas ou atribuições de autoria.
+Núcleo aprovado: Will God Stone, SA e NA. Will é o mago/cultivador protagonista. SA e NA são conhecidas, não irmãs, e ambas princesas de um reino demoníaco. A designação demoníaco não estabelece ligação com inferno. As fichas individuais estão em preparação; não foram aprovadas integralmente nem receberam atribuições de autoria.
 
 ## Políticas e módulos
 
@@ -31,10 +31,10 @@ Obra 100% autoral. Não importar personagens, fatos, poderes ou regras de outras
 
 ## Mapa das fontes
 
-As fontes de Direção, personagens, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `operacao.md` será usado quando houver processo autoral que precise sobreviver à pausa. `livro/` será ativado com a primeira Ficção.
+As fontes de Direção, personagens, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `operacao.md` preserva a construção em andamento e o ponto de retomada, sem substituir o cânone. `livro/` será ativado com a primeira Ficção.
 
 ## Retomada
 
-Etapa atual: Personagens Centrais. Premissa, Estilo/Tom e Nome/Destino aprovados. Nenhuma Ficção foi iniciada. O mundo será construído durante a preparação, conforme solicitação do Diretor.
+Etapa atual: Fichas, começando por Will God Stone. Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Consultar `operacao.md` para o material detalhado, as correções e o ponto aberto dos Saberes. Nenhuma Ficção foi iniciada. O mundo será construído durante a preparação, conforme solicitação do Diretor.
 
-Seguir as normas vigentes de `regras-basicas/`, especialmente os arquivos 10, 15, 24 e 25. Não transformar elementos provisórios em fatos adicionais, nem iniciar a primeira cena antes da preparação e autorização correspondentes.
+Seguir as normas vigentes de `regras-basicas/`, especialmente os arquivos 10, 16, 24 e 25. Não transformar elementos provisórios em fatos adicionais, nem iniciar a primeira cena antes da preparação e autorização correspondentes.
