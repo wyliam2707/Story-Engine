@@ -1,6 +1,5 @@
-# Capítulo 1: Um nome no vazio
-
-## Will
+# Capítulo 1
+## Um nome no vazio
 
 O Éter recusava quase todas as gentilezas que transformavam um espaço em lugar.
 
@@ -292,7 +291,7 @@ Alguma indicação de que ainda existia uma pessoa consciente do outro lado daqu
 
 Will estabeleceu o contato mental que conseguia sustentar e enviou uma única frase.
 
-Will: “Consegue me ouvir?”
+**Will -** Consegue me ouvir?
 
 Nada.
 
@@ -304,7 +303,7 @@ O tempo de alguém naquela condição não devia ser desperdiçado em cerimônia
 
 Will tentou novamente.
 
-Will: “Não precisa falar com o corpo. Apenas tente responder se conseguir me compreender.”
+**Will -** Não precisa falar com o corpo. Apenas tente responder se conseguir me compreender.
 
 Silêncio.
 
