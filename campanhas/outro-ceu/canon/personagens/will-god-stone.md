@@ -73,11 +73,15 @@ Raízes espirituais: Fogo, Gelo e Madeira.
 
 **Alquimia [Excelente]:** permite transformar materiais, extrair sua energia e condensá-la em pílulas. Os efeitos dependem dos materiais utilizados. As três raízes espirituais fundamentam sua prática alquímica.
 
+### Relíquia: Pagoda do Céu
+
+Will possui a relíquia Pagoda do Céu. Após ficar preso no Éter em consequência do cataclismo de sua ascensão, utilizou-a para criar uma residência temporária e resistir ao ambiente etéreo sem se decompor. A extensão, duração, funcionamento, outros recursos e limitações da relíquia ainda não foram definidos. Não atribuir-lhe automaticamente viagem dimensional, controle do Éter ou capacidades adicionais.
+
 ### Graduação e meios
 
 As graduações individuais acima foram definidas pelo Diretor. A escala Santo pertence ao cultivo do mundo de origem e não substitui as graduações do Story Engine. Nome, natureza e descrição de cada capacidade definem seu escopo antes da comparação de intensidade. As graduações não constituem um nível geral, orçamento de pontos ou mecanismo universal de testes. A graduação Padrão não significa ausência de capacidade extraordinária, e o grau Único não acrescenta poderes de outro domínio. O Corpo do Dragão e a Arte do Dragão são aspectos relacionados da especialidade corporal e marcial de Will, sem duplicação artificial de capacidades.
 
-Nenhum equipamento extraordinário ou recurso externo específico foi estabelecido. Não presumir perda de poderes, ferimentos ou recursos em decorrência da travessia sem definição autoral.
+Nenhum outro equipamento extraordinário ou recurso externo específico foi estabelecido. Não presumir perda de poderes, ferimentos ou recursos em decorrência da travessia sem definição autoral.
 
 ## 5. Personalidade e Vida Emocional
 
@@ -95,6 +99,10 @@ Teve várias companheiras de Dao, com quem compartilhou períodos de cultivo e j
 
 Sua filosofia de deixar ir foi construída por essas experiências, não por ausência de perdas ou sentimentos. Não possui vínculos estabelecidos no novo mundo antes do encontro inicial.
 
-Durante sua ascensão a Santo, Will foi atingido por uma tribulação espacial. Para impedir que ela destruísse os arredores, fechou-a por dentro, sendo arremessado para outro mundo. A travessia não foi uma viagem planejada nem uma escolha de destino. Não foi estabelecida perda de poderes, ferimento, aprisionamento ou nova habilidade decorrente do acontecimento.
+### O cataclismo e o Éter
 
-A história começará com seu encontro com SA e NA feridas. As circunstâncias desse encontro e o funcionamento do novo mundo ainda serão construídos. A ficha registra quem Will é, não o resultado antecipado de suas decisões na Ficção.
+Durante sua ascensão a Santo, Will foi atingido por uma tribulação espacial. Para impedir que ela destruísse os arredores, fechou-a por dentro. O cataclismo resultante o deixou preso no Éter, uma dimensão entre dimensões. O ambiente etéreo apresenta risco de decomposição. Will utilizou a relíquia Pagoda do Céu para criar uma residência temporária e resistir ao Éter sem se decompor.
+
+A duração do aprisionamento, a natureza e o funcionamento do Éter, as condições da residência, os acontecimentos durante esse período e a forma como Will posteriormente chega a Elder ainda serão desenvolvidos pelo Diretor. Não presumir fuga, resgate, perda de poderes, ferimentos, domínio dimensional ou outros resultados não estabelecidos.
+
+A história começará com seu encontro com Sara Iron Heart e Nari Bood Heart feridas. As circunstâncias desse encontro e o funcionamento do novo mundo ainda serão construídos. A ficha registra quem Will é, não o resultado antecipado de suas decisões na Ficção.
