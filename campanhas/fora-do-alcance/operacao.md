@@ -1,23 +1,27 @@
 # Operação — Fora do Alcance
 
-STATUS: PREPARAÇÃO / MESA ABERTA. Nenhuma Ficção foi executada. Este arquivo preserva a proposta de abertura e os ajustes do Diretor, sem transformar o encadeamento em acontecimentos já ocorridos.
+STATUS: PREPARAÇÃO / ABERTURA EM ALINHAMENTO. Nenhuma Ficção foi executada. Este arquivo preserva as decisões aprovadas e o espaço ainda aberto, sem tratar a proposta como acontecimento.
 
-## Direção do Diretor para o encontro
+## Direção aprovada para o encontro
 
-O Diretor aprovou Nova York como cidade inicial e deseja que Emma Frost chegue quase desmaiada, caindo no colo de Arthur. Arthur a ampara, ela se recupera e tenta usar sua telepatia nele, sem obter acesso porque está próxima demais, dentro de seu Domínio de Realidade de três metros. A partir desse ponto, a evolução da interação permanece aberta. O Diretor pediu uma causa concreta e plausível para a chegada, com fuga física, por uma janela ou correndo, e rejeitou o teletransporte inventado na proposta anterior.
+Nova York é a cidade inicial. O Diretor deseja que Emma Frost chegue quase desmaiada, caindo no colo de Arthur. Arthur a ampara, ela recupera consciência suficiente para reagir e tenta usar sua telepatia nele, sem obter acesso porque está próxima demais, dentro de seu Domínio de Realidade de três metros. A partir desse ponto, a interação permanece aberta.
 
-## Proposta de causa em discussão
+O Diretor aprovou a fuga física por uma janela ou correndo e rejeitou o teletransporte introduzido anteriormente. Também aprovou que a perseguição contra Emma possa continuar, inclusive durante o encontro. Não interromper artificialmente a perseguição apenas para permitir uma conversa, nem determinar por antecipação seu resultado.
 
-Uma negociação privada ligada ao passado de Emma no Clube do Inferno transforma-se em uma armadilha preparada por Sebastian Shaw. Um dispositivo de contenção psíquica, desenvolvido para atingir uma telepata de seu nível, a surpreende e provoca uma sobrecarga neural. Emma consegue romper a contenção e escapar por seus próprios meios. A versão revisada propõe que ela use a forma de diamante para atravessar uma janela de um andar baixo, alcance a rua ou um pátio adjacente e, ao voltar à forma humana, ainda debilitada, procure afastar-se do local. Ao passar perto de Arthur, que está sentado em uma área externa, perde as forças e cai sobre ele. A posição exata e a sequência física devem ser coerentes, sem teletransporte, levitação inventada ou queda de altura desnecessária.
+## Causa e encadeamento propostos para a abertura
 
-A causa específica, o local exato, os detalhes do dispositivo e os métodos não fechados de Emma ainda são matéria de Mesa. A fuga deve preservar sua competência, iniciativa e os poderes que possui, sem fabricar fraqueza permanente. Não introduzir um inimigo ativo adicional, uma perseguição obrigatória ou um arco de combate apenas para sustentar o encontro. A armadilha pode continuar sendo um problema próprio de Emma, mas não determina automaticamente os acontecimentos posteriores.
+Uma negociação privada ligada ao passado de Emma no Clube do Inferno transforma-se em uma armadilha de Sebastian Shaw. Um dispositivo de contenção psíquica, preparado para surpreender uma telepata de seu nível, provoca uma sobrecarga neural. Emma rompe a contenção e escapa por seus próprios meios. A versão de fuga física aceita pelo Diretor permite que ela use a forma de diamante para atravessar uma janela de um andar baixo, alcance a rua ou um pátio adjacente e continue a pé. Ao voltar à forma humana, ainda debilitada, procura afastar-se do local e perde as forças junto de Arthur, sentado na área externa de um café.
+
+A perseguição pode ser concretizada por seguranças de Shaw encarregados de recapturá-la, que saem do prédio e procuram alcançá-la. Eles não precisam conhecer Arthur nem possuir recursos extraordinários novos. Sua quantidade, posição, proximidade e ações concretas serão estabelecidas no alinhamento e na execução legítima, sem inventar captura, vitória, morte, fuga concluída ou um segundo antagonista como resultado obrigatório. A ameaça pode permanecer ativa quando Emma chega a Arthur.
+
+A causa com Shaw e os detalhes operacionais ainda não executados permanecem no escopo de preparação. Não existe teletransportador, teletransporte próprio de Emma, levitação inventada ou queda de altura desnecessária. Preservar sua competência, iniciativa e capacidades, sem fabricar fraqueza permanente. O incidente é um problema real da vida de Emma, não obrigação de transformar o romance em arco de combate ou de manter uma ameaça em todas as cenas.
 
 ## Resultado e fronteira pretendidos
 
-O núcleo desejado pelo Diretor é a chegada quase inconsciente, Arthur amparando Emma, recuperação suficiente para ela reagir e tentativa telepática sem acesso. A interpretação do limite é local: a autoridade de realidade de Arthur não admite uma intrusão psíquica não autorizada em sua mente dentro do domínio. Isso não reduz os poderes gerais de Emma nem cria imunidade global a qualquer fenômeno fora do raio. Não impor a Arthur uma ação, fala, cura ou decisão adicional além do que o Diretor autorizou.
+O núcleo fechado pelo Diretor é a chegada quase inconsciente, Arthur amparando Emma, recuperação suficiente para ela reagir e tentativa telepática sem acesso. A interpretação do limite é local: a autoridade de realidade de Arthur não admite uma intrusão psíquica não autorizada em sua mente dentro do domínio. Isso não reduz os poderes gerais de Emma nem cria imunidade global fora do raio. Não impor a Arthur uma ação, fala, cura ou decisão adicional além do que o Diretor autorizou.
 
-A reação de Emma deve ser decidida por sua Cadeira, com base no estado e no conhecimento legítimo. Ela não conhece Arthur nem seu poder de antemão. Não estabelecer atração, confiança, hostilidade, controle mental bem-sucedido ou interesse romântico como consequência automática do encontro. Depois da tentativa sem acesso, devolver a autoria ao Diretor, mantendo a conversa e as decisões seguintes abertas.
+A Cadeira de Emma decide sua reação com base na ficha, no estado e no conhecimento legítimo. Ela não conhece Arthur nem seu poder de antemão. Não estabelecer atração, confiança, hostilidade, controle mental bem-sucedido ou interesse romântico como consequência automática. A perseguição pode gerar decisões e consequências pertinentes, mas não autoriza resolver a situação por Arthur nem avançar além do escopo. Depois da tentativa sem acesso, devolver a autoria ao Diretor, mantendo as decisões seguintes abertas.
 
 ## Próximo passo
 
-Apresentar a versão revisada e receber autorização ou ajustes do Diretor. Em seguida, concluir o Estado inicial e a Auditoria de preparação necessários. Não registrar o incidente como passado executado, iniciar o Livro ou avançar a Ficção antes da autorização semântica correspondente. A configuração de autoridades e as fichas vigentes permanecem em INICIO.md e canon/personagens/.
+Consolidar o alinhamento restante da abertura, preparar o Estado inicial e realizar a Auditoria necessários. O START depende de autorização semântica para iniciar a Ficção; a aprovação do mecanismo de encontro não deve ser confundida com uma execução já realizada. A configuração de autoridades e as fichas vigentes permanecem em INICIO.md e canon/personagens/.
