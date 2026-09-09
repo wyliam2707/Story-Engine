@@ -26,6 +26,12 @@ Diretor: usuário, titular da vontade de Will. Narrador: IA, sem Juiz. Sara e Na
 
 O Narrador apresenta decisões das Cadeiras e fatos fechados; não escolhe reações das personagens por conveniência nem acrescenta prudência, consenso, santificação, vergonha, medo, atração ou conflito automaticamente. Preferências genéricas do executor não são traços das personagens.
 
+## Rotina de revisão literária
+
+A revisão do Livro segue `livro/REVISAO-LITERARIA.md`.
+
+Princípio central: **a Mesa cria a história; o Livro cria a experiência de ler essa história.** A revisão pode reorganizar capítulos, aprofundar descrição, pensamento, ritmo, humor, corporalidade, subtexto e atmosfera, mas não cria fatos materiais, decisões, conhecimentos, poderes, relações ou consequências novas. Estrutura e tom são definidos antes da reescrita; os capítulos são revisados um por vez e só substituídos após autorização do Diretor.
+
 ## Fontes primárias
 
 - `INICIO.md`: entrada, autoridades, políticas e mapa das fontes.
@@ -36,6 +42,7 @@ O Narrador apresenta decisões das Cadeiras e fatos fechados; não escolhe reaç
 - `canon/mundo/demonios.md`: raça, forma comum e Forma Demoníaca.
 - `estado/cena-atual.md`, `personagens.md`, `relacoes.md`, `pendencias.md`: presente, conhecimento, vínculos e processos.
 - `livro/README.md`: índice e sequência histórica válida.
+- `livro/REVISAO-LITERARIA.md`: rotina editorial para transformar Ficção fechada em prosa de romance sem criar nova história.
 
 Os caminhos antigos `sana-iron-heart.md` e `na.md` são referências de migração, não fichas independentes. O sobrenome pessoal Nari Bood Heart mantém a grafia escolhida, enquanto a Casa governante foi nomeada Blood Heart. Não criar terceira Casa nem alterar silenciosamente os nomes.
 
