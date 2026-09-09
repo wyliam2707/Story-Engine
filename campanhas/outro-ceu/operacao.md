@@ -4,24 +4,25 @@ Status: PREPARAÇÃO EM ANDAMENTO. Documento operacional, não constitui Ficçã
 
 ## Ponto de retomada
 
-Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. Will, Sana e NA possuem fichas aprovadas e persistidas. O Diretor escolheu desenvolver o mundo antes de retomar Autoridades, Cadeiras e Executores. Respeitar essa ordem local e não redirecionar para a etapa anterior. A etapa atual é a construção progressiva de Elder. O último elemento estabelecido foi a estrutura do Conclave: reinado formado pelas Casas Iron Heart e Blood Heart, juntamente com um Senado de 40 representantes, um por família demoníaca mais poderosa. Continuar a definição do governo conforme o Diretor. Não iniciar Ficção.
+Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. Will, Sara e Nari possuem fichas aprovadas e persistidas. O Diretor escolheu desenvolver o mundo antes de retomar Autoridades, Cadeiras e Executores. Respeitar essa ordem local. A etapa atual é a construção progressiva de Elder. O último elemento estabelecido foi o funcionamento do Conclave com três votos institucionais: um da Iron Heart, um da Blood Heart e um coletivo do Senado. Quando os dois reis discordam, o voto do Senado decide. Continuar a definição do governo conforme o Diretor. Não iniciar Ficção.
 
-Fontes canônicas primárias:
+## Fontes canônicas primárias
+
 - `canon/personagens/will-god-stone.md`
-- `canon/personagens/sana-iron-heart.md`
-- `canon/personagens/na.md`
+- `canon/personagens/sara-iron-heart.md`
+- `canon/personagens/nari-bood-heart.md`
 - `canon/mundo/demonios.md`
 - `canon/mundo/elder.md`
 - `canon/mundo/alianca-dos-tres-reinos.md`
 - `canon/mundo/conclave.md`
 
-Consultar as fontes primárias para fatos estabelecidos, sem duplicar fichas ou criar fontes concorrentes.
+Consultar as fontes primárias para fatos estabelecidos, sem duplicar fichas ou criar fontes concorrentes. Os caminhos antigos `canon/personagens/sana-iron-heart.md` e `canon/personagens/na.md` são referências de migração, não fichas independentes.
 
 ## Núcleo central e pendências não impeditivas
 
-Will God Stone é o protagonista e Personagem do Diretor. Sua ficha e graduações estão aprovadas. Sana Iron Heart, 140 anos, é princesa da Casa Iron Heart e candidata a uma das próximas rainhas do Conclave. NA, 150 anos, é a segunda princesa, conhecida de Sana e não sua irmã. Seu nome completo e sua Casa ainda não foram definidos. Sua ficha pode ser renomeada posteriormente sem reiniciar a criação. As graduações individuais dos Saberes de NA permanecem abertas e não impedem a preparação.
+Will God Stone é o protagonista e Personagem do Diretor. Sua ficha e graduações estão aprovadas. Sara Iron Heart, anteriormente Sana, tem 140 anos, é princesa da Casa Iron Heart e candidata a uma das próximas rainhas do Conclave. Nari Bood Heart, anteriormente NA, tem 150 anos, é a segunda princesa, conhecida de Sara e não sua irmã. O Diretor indicou exatamente a grafia Bood Heart para Nari e anteriormente Blood Heart para a Casa governante. Preservar ambas sem corrigir silenciosamente ou inventar uma terceira Casa; a relação exata entre as grafias permanece a esclarecer.
 
-As referências visuais foram fornecidas na conversa. Os arquivos de imagem ainda não foram incorporados ao repositório. Não inventar caminhos nem substituir as referências por outras imagens.
+Sara possui formação e Saberes aprovados com graduações registrados em sua ficha. Nari possui base semelhante, maior especialização mágica e Saberes amplos suficientes; suas graduações individuais de conhecimento permanecem abertas e não impedem a preparação. As referências visuais foram fornecidas na conversa. Os arquivos de imagem ainda não foram incorporados ao repositório. Não inventar caminhos nem substituir referências.
 
 ## Mundo em desenvolvimento
 
@@ -31,14 +32,14 @@ A fonte primária demoníaca é `canon/mundo/demonios.md`. Demônios vivem quase
 
 A fonte `canon/mundo/alianca-dos-tres-reinos.md` registra a aliança humana, élfica e anã para conquistar terras demoníacas, mantendo esse objetivo reservado aos demônios. Humanos buscam expansão territorial, influência e recursos; elfos buscam combater a influência mágica que consideram ofensiva à natureza e proteger seus interesses territoriais; anões buscam acesso e controle econômico das minas e recursos. A face pública proposta envolve defesa regional, estabilidade, rotas, comércio e entendimento. As lideranças, cronologia, instituições, preparativos, ações diplomáticas concretas, plano militar, repartição e momento de eventual ofensiva permanecem abertos. Não transformar objetivo em guerra já iniciada ou vitória predeterminada. Preservar o conhecimento individual, a capacidade de suspeita e reação dos demônios e os interesses divergentes dos aliados.
 
-A fonte `canon/mundo/conclave.md` estabelece que o Conclave é a forma de reinado demoníaca. As Casas Iron Heart e Blood Heart formam o governo juntamente com um Senado de 40 representantes, um de cada uma das 40 famílias mais poderosas. A divisão de poder, governantes atuais, número de rainhas, regras de sucessão, critérios das famílias e competências do Senado permanecem abertos. Não atribuir automaticamente NA à Casa Blood Heart, nem presumir que as Casas governantes integrem ou não as 40 famílias. O próximo ponto pode ser a estrutura do reinado e o processo de sucessão, conforme escolha do Diretor.
+A fonte `canon/mundo/conclave.md` estabelece o reinado formado pelas Casas Iron Heart e Blood Heart e pelo Senado de 40 representantes, um de cada família mais poderosa. Há um representante de cada Casa governante, os dois reis. O Conclave funciona com três votos, um por Casa e um voto coletivo do Senado. Quando os reis discordam, o Senado decide por seu voto. Os 40 senadores não possuem 40 votos adicionais no Conclave. A deliberação interna do Senado, identidade dos reis, atribuições, sucessão, critérios das famílias e demais procedimentos permanecem abertos.
 
-Sana possui Forma Demoníaca [Excepcional] e Manipulação de Trevas [Padrão]. NA possui Manipulação de Energia Bruta [Excepcional], associada à Magia do Caos, e Forma Demoníaca [Padrão]. Ambas têm Força, Velocidade e Resistência [Excelente]. Sua escala comparativa é 16 diante de Will 64, sem equivalência automática entre cultivo e graduações.
+Sara possui Forma Demoníaca [Excepcional] e Manipulação de Trevas [Padrão]. Nari possui Manipulação de Energia Bruta [Excepcional], associada à Magia do Caos, e Forma Demoníaca [Padrão]. Ambas têm Força, Velocidade e Resistência [Excelente]. Sua escala comparativa é 16 diante de Will 64, sem equivalência automática entre cultivo e graduações.
 
 A causa da reprodução rara permanece aberta. Não inventar rivalidade obrigatória entre as princesas, parentesco, regras de casamento, infertilidade individual ou consequências sociais inevitáveis. Nomes e localização exata dos reinos de Elder permanecem abertos. Não transformar interesses coletivos em obrigação individual nem criar acontecimentos, causas históricas ou ameaças na Ruptura sem autoria.
 
 ## Próxima etapa
 
-Continuar a definição do mundo, um elemento por vez conforme o Diretor trouxer ou solicitar propostas. Não criar uma enciclopédia para preencher lacunas. Depois de obter mundo suficiente, retomar Autoridades, Direção, Políticas Operacionais, Estado Inicial, Auditoria e START. O Diretor conserva a vontade de Will; Sana e NA devem ter Cadeiras independentes para suas decisões voluntárias.
+Continuar a definição do mundo, um elemento por vez conforme o Diretor trouxer ou solicitar propostas. Não criar uma enciclopédia para preencher lacunas. Depois de obter mundo suficiente, retomar Autoridades, Direção, Políticas Operacionais, Estado Inicial, Auditoria e START. O Diretor conserva a vontade de Will; Sara e Nari devem ter Cadeiras independentes para suas decisões voluntárias.
 
 Nenhuma Ficção foi iniciada, nenhum resultado do encontro foi estabelecido e as causas e condições detalhadas dos ferimentos permanecem abertas. Preservar a Mesa em Ciclo Obrigatório e não começar a cena antes da autorização correspondente.
