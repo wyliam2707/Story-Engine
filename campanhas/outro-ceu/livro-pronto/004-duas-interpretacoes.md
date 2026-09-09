@@ -87,7 +87,7 @@ Ficou imóvel até o teto decidir parar de se mover.
 
 Quando teve certeza de que não iria desmaiar, soltou o ar pelo nariz.
 
-“Ótimo. Inteira e inútil.”
+**Sara -** Ótimo. Inteira e inútil.
 
 A voz saiu mais baixa do que gostaria.
 
@@ -161,13 +161,13 @@ Descia.
 
 Subia novamente.
 
-“Nari.”
+**Sara -** Nari.
 
 Não houve resposta.
 
 Sara tentou deslocar o corpo para mais perto e descobriu que até aquilo exigia negociação com músculos recém-reconstruídos.
 
-“Nari.”
+**Sara -** Nari.
 
 A respiração da ruiva continuou estável.
 
@@ -233,7 +233,7 @@ Primeiro precisava ouvir Nari.
 
 Sara tocou-lhe o ombro.
 
-“Nari.”
+**Sara -** Nari.
 
 Dessa vez houve reação.
 
@@ -253,15 +253,15 @@ Nari moveu os dedos lentamente, depois girou a mão.
 
 Sua expressão continuou controlada, mas a respiração mais profunda denunciou a importância do que acabara de confirmar.
 
-“Quanto tempo?”
+**Nari -** Quanto tempo?
 
-“Não sei.”
+**Sara -** Não sei.
 
 Nari flexionou o braço. Depois tentou elevar um pouco o tronco.
 
 Sara já sabia o que aconteceria.
 
-“Eu não faria isso.”
+**Sara -** Eu não faria isso.
 
 Nari fez assim mesmo.
 
@@ -271,31 +271,31 @@ Sara esperou.
 
 Nari fechou os olhos por alguns segundos.
 
-“Você poderia ter mencionado a tontura.”
+**Nari -** Você poderia ter mencionado a tontura.
 
-“Eu disse que não faria.”
+**Sara -** Eu disse que não faria.
 
-“Isso não é a mesma coisa.”
+**Nari -** Isso não é a mesma coisa.
 
-“É uma versão mais curta.”
+**Sara -** É uma versão mais curta.
 
 Nari tornou a abrir os olhos e começou a avaliar o próprio corpo.
 
-“Muito fraca.”
+**Nari -** Muito fraca.
 
-“Sim.”
+**Sara -** Sim.
 
-“Mas funcional.”
+**Nari -** Mas funcional.
 
-“Também.”
+**Sara -** Também.
 
 Nari respirou lentamente, movendo os dedos dos pés sob o cobertor.
 
-“Então ele conseguiu.”
+**Nari -** Então ele conseguiu.
 
 Sara acompanhou o olhar dela até Will.
 
-“Conseguiu.”
+**Sara -** Conseguiu.
 
 Por alguns instantes, as duas ficaram em silêncio.
 
@@ -307,21 +307,21 @@ Depois para Sara.
 
 Depois discretamente para si mesma.
 
-“Não estamos vestidas.”
+**Nari -** Não estamos vestidas.
 
 Sara respondeu sem alterar a expressão.
 
-“Minha investigação chegou à mesma conclusão.”
+**Sara -** Minha investigação chegou à mesma conclusão.
 
 Nari tornou a olhar para Will.
 
-“Ele nos reconstruiu.”
+**Nari -** Ele nos reconstruiu.
 
-“Sim.”
+**Sara -** Sim.
 
-“Isso explica.”
+**Nari -** Isso explica.
 
-“Também cheguei a essa parte.”
+**Sara -** Também cheguei a essa parte.
 
 Nari lançou-lhe um olhar curto.
 
@@ -329,7 +329,7 @@ Sara teria apreciado mais a pequena vitória se não houvesse algo muito mais im
 
 Ela levantou a própria mão.
 
-“Temos outro problema.”
+**Sara -** Temos outro problema.
 
 Nari focou a marca.
 
@@ -357,67 +357,67 @@ Conhecia aquela expressão. A ruiva não estava sem reação. Estava reorganizan
 
 Nari falou primeiro.
 
-“Ele fez a junção com você.”
+**Nari -** Ele fez a junção com você.
 
-“Fez.”
+**Sara -** Fez.
 
-“Quando?”
+**Nari -** Quando?
 
-“Não sei quanto tempo antes ou depois da sua. Conversamos separadamente.”
+**Sara -** Não sei quanto tempo antes ou depois da sua. Conversamos separadamente.
 
 Nari voltou a olhar para Will.
 
-“Comigo também.”
+**Nari -** Comigo também.
 
-“Eu imaginei pela aliança.”
+**Sara -** Eu imaginei pela aliança.
 
 Nari ignorou a provocação.
 
-“Ele pediu que você se tornasse serva dele?”
+**Nari -** Ele pediu que você se tornasse serva dele?
 
-“Sim.”
+**Sara -** Sim.
 
-“E você aceitou compartilhar sua alma.”
+**Nari -** E você aceitou compartilhar sua alma.
 
 Sara estreitou ligeiramente os olhos.
 
-“Exatamente.”
+**Sara -** Exatamente.
 
 Nari respirou devagar.
 
 Sara fez a pergunta que realmente importava.
 
-“Ele disse que você ficaria vinculada?”
+**Sara -** Ele disse que você ficaria vinculada?
 
 Nari olhou para ela.
 
-“Não.”
+**Nari -** Não.
 
-“Disse que eu ficaria?”
+**Sara -** Disse que eu ficaria?
 
-“Disse que você ficaria livre.”
+**Nari -** Disse que você ficaria livre.
 
 Sara ficou imóvel.
 
 A pequena dúvida que ainda existia desapareceu.
 
-“Ele me disse que você ficaria livre.”
+**Sara -** Ele me disse que você ficaria livre.
 
 Nari voltou os olhos para o homem adormecido.
 
 Dessa vez demorou mais.
 
-“Então ele conduziu dois acordos separados.”
+**Nari -** Então ele conduziu dois acordos separados.
 
-“Sim.”
+**Sara -** Sim.
 
-“E apresentou a cada uma de nós a liberdade da outra.”
+**Nari -** E apresentou a cada uma de nós a liberdade da outra.
 
-“Sim.”
+**Sara -** Sim.
 
 Nari tocou a marca com o polegar.
 
-“Sem mencionar o segundo vínculo.”
+**Nari -** Sem mencionar o segundo vínculo.
 
 Sara observou Will.
 
@@ -425,7 +425,7 @@ A irritação já não era uma possibilidade.
 
 Agora possuía estrutura.
 
-“Parece que nosso marido seleciona muito bem quais informações considera necessárias.”
+**Sara -** Parece que nosso marido seleciona muito bem quais informações considera necessárias.
 
 Nari não respondeu ao título.
 
@@ -433,21 +433,21 @@ Talvez porque estivesse ocupada demais considerando o mesmo problema.
 
 Sara virou o rosto para ela.
 
-“Vai me dizer para não concluir nada antes de ouvi-lo?”
+**Sara -** Vai me dizer para não concluir nada antes de ouvi-lo?
 
 Nari olhou para Sara.
 
-“Eu ia dizer que precisamos ouvi-lo.”
+**Nari -** Eu ia dizer que precisamos ouvi-lo.
 
-“É praticamente a mesma coisa.”
+**Sara -** É praticamente a mesma coisa.
 
-“Não. Você já concluiu várias coisas.”
+**Nari -** Não. Você já concluiu várias coisas.
 
-“Algumas estão desenhadas na nossa mão.”
+**Sara -** Algumas estão desenhadas na nossa mão.
 
 Nari olhou novamente para a marca.
 
-“Isso é difícil de contestar.”
+**Nari -** Isso é difícil de contestar.
 
 Sara respirou fundo.
 
@@ -461,31 +461,31 @@ Não havia opção melhor.
 
 Sara elevou a voz.
 
-“Will.”
+**Sara -** Will.
 
 Nenhuma reação.
 
 Ela esperou.
 
-“Will.”
+**Sara -** Will.
 
 O homem mexeu ligeiramente a cabeça.
 
 Nari observou.
 
-“Ele parece exausto.”
+**Nari -** Ele parece exausto.
 
-“Ele pode continuar exausto depois de explicar.”
+**Sara -** Ele pode continuar exausto depois de explicar.
 
 Sara tentou novamente.
 
-“Will God Stone.”
+**Sara -** Will God Stone.
 
 A respiração dele mudou.
 
 Sara aumentou um pouco o tom.
 
-“Acorde.”
+**Sara -** Acorde.
 
 Os olhos de Will se abriram.
 
@@ -507,19 +507,19 @@ O médico apareceu antes de qualquer outra reação.
 
 Os olhos passaram por Sara, avaliando postura, cor, respiração, foco. Depois fizeram o mesmo com Nari.
 
-“Como estão se sentindo?”
+**Will -** Como estão se sentindo?
 
 Sara quase respondeu à pergunta.
 
 Quase.
 
-“Fraca.”
+**Sara -** Fraca.
 
-Nari completou: “Muito abaixo da nossa condição normal.”
+**Nari -** Muito abaixo da nossa condição normal.
 
 Will assentiu.
 
-“Esperado. Os corpos estão reconstruídos. Recuperação completa é outra coisa.”
+**Will -** Esperado. Os corpos estão reconstruídos. Recuperação completa é outra coisa.
 
 Ele observou ambas mais alguns segundos.
 
@@ -537,13 +537,13 @@ Nari fez o mesmo.
 
 Will olhou para ambas.
 
-“Sim.”
+**Will -** Sim.
 
 Sara esperou.
 
-“Sim?”
+**Sara -** Sim?
 
-“As ligações continuam estáveis.”
+**Will -** As ligações continuam estáveis.
 
 Ela olhou para Nari.
 
@@ -553,27 +553,27 @@ Era pior do que imaginavam.
 
 Sara voltou-se para ele.
 
-“Você prometeu que Nari ficaria livre.”
+**Sara -** Você prometeu que Nari ficaria livre.
 
-“Vai ficar.”
+**Will -** Vai ficar.
 
-Nari acrescentou: “E prometeu que Sara ficaria livre.”
+**Nari -** E prometeu que Sara ficaria livre.
 
-“Também.”
+**Will -** Também.
 
 Will respondeu com tanta naturalidade que Sara precisou reconsiderar a hipótese de que estivesse deliberadamente tentando insultá-las.
 
-“Will.”
+**Sara -** Will.
 
-“Sim?”
+**Will -** Sim?
 
-“Nós duas temos marcas de casamento.”
+**Sara -** Nós duas temos marcas de casamento.
 
 Ele olhou para as mãos delas.
 
 Depois para Sara.
 
-“Marcas de quê?”
+**Will -** Marcas de quê?
 
 O quarto ficou muito quieto.
 
@@ -589,19 +589,19 @@ Ele simplesmente não sabia.
 
 Nari foi a primeira a dizer em voz alta o que ambas perceberam.
 
-“Você realmente não entende.”
+**Nari -** Você realmente não entende.
 
 Will franziu a testa.
 
-“Entendo o contrato que fiz.”
+**Will -** Entendo o contrato que fiz.
 
 Sara sentiu uma curiosidade perigosa nascer no meio da irritação.
 
-“Então explique.”
+**Sara -** Então explique.
 
 Will apontou para as marcas.
 
-“Estabeleci duas junções de alma para criar vínculos de servidão. Preciso delas como referência para o tratamento e para tentar localizar a origem de vocês. Quando sairmos do Éter, revogo os contratos e liberto as duas.”
+**Will -** Estabeleci duas junções de alma para criar vínculos de servidão. Preciso delas como referência para o tratamento e para tentar localizar a origem de vocês. Quando sairmos do Éter, revogo os contratos e liberto as duas.
 
 Sara ficou olhando.
 
@@ -609,21 +609,21 @@ Nari também.
 
 Will esperou.
 
-“Que foi?”
+**Will -** Que foi?
 
 Sara falou devagar.
 
-“Vínculos de servidão.”
+**Sara -** Vínculos de servidão.
 
-“Sim.”
+**Will -** Sim.
 
-“Revogáveis.”
+**Sara -** Revogáveis.
 
-“Sim.”
+**Will -** Sim.
 
-“E você acredita que pode simplesmente nos libertar depois.”
+**Sara -** E você acredita que pode simplesmente nos libertar depois.
 
-“Foi exatamente o que acabei de dizer.”
+**Will -** Foi exatamente o que acabei de dizer.
 
 Sara fechou os olhos.
 
@@ -631,73 +631,73 @@ Por um momento, aquela conversa exigia menos visão.
 
 Nari assumiu.
 
-“Will, somos demônios.”
+**Nari -** Will, somos demônios.
 
 Ele virou o rosto para ela.
 
 Os olhos passaram naturalmente pelos pequenos chifres.
 
-“Eu já tinha concluído que vocês não eram humanas.”
+**Will -** Eu já tinha concluído que vocês não eram humanas.
 
-“Demônios.”
+**Nari -** Demônios.
 
-“Certo.”
+**Will -** Certo.
 
-“Nossa constituição não permite escravidão por contrato.”
+**Nari -** Nossa constituição não permite servidão por contrato.
 
 Will ficou imóvel.
 
-“Não permite?”
+**Will -** Não permite?
 
-“Não.”
+**Nari -** Não.
 
-“Uma proibição?”
+**Will -** Uma proibição?
 
-“Não é lei.”
+**Nari -** Não é lei.
 
 Nari ergueu a mão marcada.
 
-“É nossa natureza.”
+**Nari -** É nossa natureza.
 
 Sara abriu novamente os olhos.
 
-“Você não pode estabelecer uma junção de almas e transformar uma demônia em escrava.”
+**Sara -** Você não pode estabelecer uma junção de almas e transformar uma demônia em serva.
 
 Will olhou para a marca dela.
 
 Depois para Nari.
 
-“Mas o contrato foi aceito.”
+**Will -** Mas o contrato foi aceito.
 
-“Foi”, respondeu Nari.
+**Nari -** Foi.
 
 Will franziu mais a testa.
 
-“Então alguma coisa estabeleceu o vínculo.”
+**Will -** Então alguma coisa estabeleceu o vínculo.
 
 Sara apoiou a cabeça no travesseiro.
 
-“Finalmente estamos chegando.”
+**Sara -** Finalmente estamos chegando.
 
 Will olhou para ela.
 
-“Chegando onde?”
+**Will -** Chegando onde?
 
 Sara ergueu a mão.
 
-“Nisto.”
+**Sara -** Nisto.
 
 Ele continuou sem compreender.
 
 Nari explicou:
 
-“Quando uma relação de serviço é estabelecida entre almas segundo nossa natureza, ela não produz escravidão.”
+**Nari -** Quando uma relação de serviço é estabelecida entre almas segundo nossa natureza, ela não produz servidão.
 
 Will esperou.
 
 Nari terminou:
 
-“Produz casamento.”
+**Nari -** Produz casamento.
 
 Nada aconteceu durante um instante.
 
@@ -713,9 +713,9 @@ Depois para a marca de Sara.
 
 Voltou para Nari.
 
-“Casamento.”
+**Will -** Casamento.
 
-“Sim.”
+**Nari -** Sim.
 
 Ele tornou a olhar para as marcas.
 
@@ -727,19 +727,19 @@ Nem encantado.
 
 Parecia um homem tentando descobrir em qual momento uma palavra simples se transformara em outra completamente diferente sem avisá-lo.
 
-“Eu pedi que se tornassem minhas servas.”
+**Will -** Eu pedi que se tornassem minhas servas.
 
-“Sabemos”, disse Sara.
+**Sara -** Sabemos.
 
-“E vocês responderam que aceitavam compartilhar suas almas.”
+**Will -** E vocês responderam que aceitavam compartilhar suas almas.
 
-“Sim.”
+**Sara -** Sim.
 
 Will apontou entre as duas.
 
-“Isso, para vocês, significa casamento.”
+**Will -** Isso, para vocês, significa casamento.
 
-Nari respondeu: “Com a proposta que você fez, sim.”
+**Nari -** Com a proposta que você fez, sim.
 
 Will passou a mão pelo rosto.
 
@@ -751,19 +751,19 @@ Isso não apagava o restante.
 
 Mas mudava a natureza do problema.
 
-“Você não sabia”, disse ela.
+**Sara -** Você não sabia.
 
-“Não.”
+**Will -** Não.
 
-“Nem imaginou.”
+**Sara -** Nem imaginou.
 
-“Não.”
+**Will -** Não.
 
-“Nem sequer suspeitou.”
+**Sara -** Nem sequer suspeitou.
 
 Will olhou para as duas alianças espirituais.
 
-“Eu estava bastante satisfeito porque o contrato parecia ter funcionado.”
+**Will -** Eu estava bastante satisfeito porque o contrato parecia ter funcionado.
 
 Sara deixou escapar uma respiração curta pelo nariz.
 
@@ -771,57 +771,57 @@ Não chegou a ser riso.
 
 Não estava em clima para isso.
 
-Nari perguntou: “No seu mundo, esse tipo de contrato pode ser encerrado unilateralmente por você?”
+**Nari -** No seu mundo, esse tipo de contrato pode ser encerrado unilateralmente por você?
 
-“Sim.”
+**Will -** Sim.
 
-“E você pretendia fazer isso quando estivéssemos fora.”
+**Nari -** E você pretendia fazer isso quando estivéssemos fora.
 
-“Desde o começo.”
+**Will -** Desde o começo.
 
 Sara imediatamente retomou o ponto que aquela explicação não resolvia.
 
-“Mas sabia que precisava de nós duas.”
+**Sara -** Mas sabia que precisava de nós duas.
 
 Will olhou para ela.
 
-“Sabia.”
+**Will -** Sabia.
 
-“E não contou.”
+**Sara -** E não contou.
 
-“Não.”
+**Will -** Não.
 
-“Fez uma proposta para mim dizendo que Nari ficaria livre.”
+**Sara -** Fez uma proposta para mim dizendo que Nari ficaria livre.
 
-“Sim.”
+**Will -** Sim.
 
-“Depois fez outra para Nari dizendo que eu ficaria livre.”
+**Sara -** Depois fez outra para Nari dizendo que eu ficaria livre.
 
-“Sim.”
+**Will -** Sim.
 
 A tranquilidade das respostas a irritou mais do que uma tentativa de desculpa teria irritado.
 
 Sara falou:
 
-“Então você nos enganou.”
+**Sara -** Então você nos enganou.
 
 Will demorou antes de responder.
 
-“Eu omiti que precisava das duas ligações.”
+**Will -** Eu omiti que precisava das duas ligações.
 
-“É uma palavra elegante.”
+**Sara -** É uma palavra elegante.
 
-“É a palavra correta.”
+**Will -** É a palavra correta.
 
 Sara o encarou.
 
 Will sustentou o olhar.
 
-“Eu não menti quando disse que libertaria a outra. Pretendia libertar ambas.”
+**Will -** Eu não menti quando disse que libertaria a outra. Pretendia libertar ambas.
 
-“Depois de conseguir o que precisava.”
+**Sara -** Depois de conseguir o que precisava.
 
-“Depois de salvar vocês e tirar nós três daqui.”
+**Will -** Depois de salvar vocês e tirar nós três daqui.
 
 Sara não respondeu imediatamente.
 
@@ -831,29 +831,29 @@ Ela não gostava dela, mas havia.
 
 Nari perguntou:
 
-“Por que não nos contou?”
+**Nari -** Por que não nos contou?
 
 Will apoiou os braços sobre os joelhos.
 
-“Porque vocês estavam morrendo.”
+**Will -** Porque vocês estavam morrendo.
 
 Sara inclinou a cabeça.
 
-“Isso explica a pressa. Não a omissão.”
+**Sara -** Isso explica a pressa. Não a omissão.
 
-“Eu precisava das duas ligações.”
+**Will -** Eu precisava das duas ligações.
 
 Nari permaneceu atenta.
 
 Will continuou:
 
-“Não sabia quem vocês eram, qual relação existia entre vocês nem como reagiriam à proposta. Se dissesse a uma que precisava vincular também a outra, ela poderia recusar. Se uma recusasse, eu poderia perder a possibilidade de estabilizar as duas e também a melhor referência que tinha para encontrar uma saída.”
+**Will -** Não sabia quem vocês eram, qual relação existia entre vocês nem como reagiriam à proposta. Se dissesse a uma que precisava vincular também a outra, ela poderia recusar. Se uma recusasse, eu poderia perder a possibilidade de estabilizar as duas e também a melhor referência que tinha para encontrar uma saída.
 
 Sara falou:
 
-“Então decidiu por nós quais informações poderíamos receber.”
+**Sara -** Então decidiu por nós quais informações poderíamos receber.
 
-“Decidi não arriscar duas vidas para descobrir se vocês aprovariam a estrutura inteira do plano.”
+**Will -** Decidi não arriscar duas vidas para descobrir se vocês aprovariam a estrutura inteira do plano.
 
 A resposta caiu entre os três.
 
@@ -873,57 +873,57 @@ As duas coisas não precisavam cancelar uma à outra.
 
 Nari parecia ter chegado a conclusão semelhante por outro caminho.
 
-“Você acreditava que os vínculos seriam temporários.”
+**Nari -** Você acreditava que os vínculos seriam temporários.
 
-“Sim.”
+**Will -** Sim.
 
-“Então, do seu ponto de vista, não estava escolhendo uma obrigação permanente para nenhuma de nós.”
+**Nari -** Então, do seu ponto de vista, não estava escolhendo uma obrigação permanente para nenhuma de nós.
 
-“Não.”
+**Will -** Não.
 
 Sara respondeu:
 
-“Do nosso ponto de vista, estava.”
+**Sara -** Do nosso ponto de vista, estava.
 
 Will tornou a olhar para as alianças.
 
-“Percebi.”
+**Will -** Percebi.
 
 Nari passou o polegar pela própria marca.
 
-“E nós não sabíamos que você acreditava poder desfazê-las.”
+**Nari -** E nós não sabíamos que você acreditava poder desfazê-las.
 
 Will voltou-se para ela.
 
-“Vocês não podem?”
+**Will -** Vocês não podem?
 
 Nari não respondeu imediatamente.
 
 Sara respondeu por ela.
 
-“Praticamente não.”
+**Sara -** Praticamente não.
 
 Will fixou os olhos em Sara.
 
-“Praticamente?”
+**Will -** Praticamente?
 
 Ela já conhecia aquele tipo de pessoa o suficiente para prever o próximo pensamento.
 
-“Não fique animado com a palavra.”
+**Sara -** Não fique animado com a palavra.
 
-“Se não é impossível, existe diferença.”
+**Will -** Se não é impossível, existe diferença.
 
 Nari falou:
 
-“Existe diferença entre algo ser teoricamente separável e você saber como separá-lo.”
+**Nari -** Existe diferença entre algo ser teoricamente separável e você saber como separá-lo.
 
 Will recostou-se na cadeira.
 
-“Eu sei como revogar o contrato que fiz.”
+**Will -** Eu sei como revogar o contrato que fiz.
 
 Sara respondeu imediatamente:
 
-“Você sabe como revogar o contrato que acredita ter feito.”
+**Sara -** Você sabe como revogar o contrato que acredita ter feito.
 
 Will parou.
 
@@ -947,19 +947,19 @@ Se alguma vencera.
 
 Nari colocou a mão sobre o cobertor.
 
-“Temos duas compreensões diferentes do mesmo vínculo.”
+**Nari -** Temos duas compreensões diferentes do mesmo vínculo.
 
 Will assentiu lentamente.
 
-“No mínimo.”
+**Will -** No mínimo.
 
 Sara não gostou da última parte.
 
-“Por que ‘no mínimo’?”
+**Sara -** Por que ‘no mínimo’?
 
 Nari olhou para a marca.
 
-“Porque ainda não sabemos o que a magia fez com a divergência.”
+**Nari -** Porque ainda não sabemos o que a magia fez com a divergência.
 
 Silêncio.
 
@@ -969,19 +969,19 @@ E, ao mesmo tempo, extremamente difícil de contestar.
 
 Will quebrou o silêncio.
 
-“Então estudamos depois.”
+**Will -** Então estudamos depois.
 
 Sara ergueu uma sobrancelha.
 
-“Depois.”
+**Sara -** Depois.
 
 Ele apontou discretamente para as duas.
 
-“Vocês mal conseguem sentar.”
+**Will -** Vocês mal conseguem sentar.
 
 Depois apontou para si mesmo.
 
-“E eu não tenho energia suficiente para resolver nada importante agora.”
+**Will -** E eu não tenho energia suficiente para resolver nada importante agora.
 
 Nari observou-o de maneira mais cuidadosa.
 
@@ -999,13 +999,13 @@ Estava drenado.
 
 Nari perguntou:
 
-“Quanto gastou?”
+**Nari -** Quanto gastou?
 
-“Quase toda a reserva.”
+**Will -** Quase toda a reserva.
 
-“Nos reconstruindo.”
+**Nari -** Nos reconstruindo.
 
-“Sim.”
+**Will -** Sim.
 
 Sara ficou em silêncio.
 
@@ -1023,37 +1023,37 @@ Ainda havia firmeza física, mas nada daquele excesso de poder que Sara esperari
 
 Ela puxou o cobertor um pouco mais para cima.
 
-“Antes da metafísica conjugal, temos um problema mais básico.”
+**Sara -** Antes da metafísica conjugal, temos um problema mais básico.
 
 Will olhou.
 
 Sara indicou o cobertor.
 
-“Roupas.”
+**Sara -** Roupas.
 
 Nari acrescentou:
 
-“Preferencialmente.”
+**Nari -** Preferencialmente.
 
 Will olhou para as duas e pareceu lembrar que medicina possuía limites que alfaiataria não respeitava.
 
-“As de vocês não sobreviveram.”
+**Will -** As de vocês não sobreviveram.
 
 Sara respondeu:
 
-“Nós percebemos.”
+**Sara -** Nós percebemos.
 
-“Tenho roupas minhas.”
+**Will -** Tenho roupas minhas.
 
 Nari avaliou a sugestão.
 
-“São feitas para você.”
+**Nari -** São feitas para você.
 
-“Essa é normalmente a finalidade das minhas roupas.”
+**Will -** Essa é normalmente a finalidade das minhas roupas.
 
 Sara fechou os olhos por um instante.
 
-“Traga.”
+**Sara -** Traga.
 
 Will saiu.
 
@@ -1077,17 +1077,17 @@ Havia coisas grandes demais para caber numa frase rápida.
 
 Sara foi a primeira.
 
-“Você achou que estava fazendo isso por mim.”
+**Sara -** Você achou que estava fazendo isso por mim.
 
 Não era exatamente uma pergunta.
 
 Nari não fingiu não compreender.
 
-“Sim.”
+**Nari -** Sim.
 
 Sara passou o polegar pela marca.
 
-“Eu também.”
+**Sara -** Eu também.
 
 Nari olhou para a própria.
 
@@ -1111,17 +1111,17 @@ Só que ambas haviam feito a mesma escolha sem saber.
 
 Sara respirou fundo.
 
-“Isso torna a situação consideravelmente mais idiota.”
+**Sara -** Isso torna a situação consideravelmente mais idiota.
 
 Nari pensou por um instante.
 
-“Sim.”
+**Nari -** Sim.
 
 Sara olhou para ela.
 
 Nari acrescentou:
 
-“Objetivamente.”
+**Nari -** Objetivamente.
 
 A porta tornou a abrir antes que Sara respondesse.
 
@@ -1131,7 +1131,7 @@ As roupas eram simples, próprias da tradição que ele usava. Nenhuma havia sid
 
 Ele colocou as peças ao alcance delas.
 
-“É o que tenho.”
+**Will -** É o que tenho.
 
 Nari examinou uma camisa.
 
@@ -1145,7 +1145,7 @@ As proporções de Will não correspondiam às delas, e nenhuma quantidade de bo
 
 Ainda assim, roupas eram roupas.
 
-“Vire”, disse Sara.
+**Sara -** Vire.
 
 Will obedeceu.
 
@@ -1163,11 +1163,11 @@ Continuou.
 
 Nari estava tendo dificuldades diferentes com amarrações que claramente pertenciam a outra tradição.
 
-“Como isso fecha?”
+**Nari -** Como isso fecha?
 
 Will respondeu ainda de costas:
 
-“Qual peça?”
+**Will -** Qual peça?
 
 Nari descreveu.
 
@@ -1175,11 +1175,11 @@ Ele explicou.
 
 Sara interrompeu no meio:
 
-“Não. Se você continuar dando instruções sem olhar, vamos ficar aqui até amanhã.”
+**Sara -** Não. Se você continuar dando instruções sem olhar, vamos ficar aqui até amanhã.
 
 Will ficou quieto.
 
-“Você mandou virar.”
+**Will -** Você mandou virar.
 
 Sara olhou para Nari.
 
@@ -1187,7 +1187,7 @@ Nari olhou para Sara.
 
 Essa era, infelizmente, uma observação correta.
 
-“Pode olhar.”
+**Sara -** Pode olhar.
 
 Will virou.
 
@@ -1209,9 +1209,9 @@ Will não tentou fingir que não acontecera.
 
 Sara ergueu uma sobrancelha.
 
-“Algum problema?”
+**Sara -** Algum problema?
 
-“Nenhum.”
+**Will -** Nenhum.
 
 Ele se aproximou para mostrar a Nari como prender a peça.
 
@@ -1221,19 +1221,19 @@ O olhar dele passou por ela novamente.
 
 Sem pressa suficiente para ser acidente.
 
-“Você está olhando.”
+**Sara -** Você está olhando.
 
 Will tornou a encará-la.
 
-“Sim.”
+**Will -** Sim.
 
 A ausência completa de vergonha na resposta conseguiu desarmar por um momento a réplica que Sara preparava.
 
 Nari terminou a amarração.
 
-“Isso deveria ser uma confissão?”
+**Nari -** Isso deveria ser uma confissão?
 
-“Não achei que fosse segredo.”
+**Will -** Não achei que fosse segredo.
 
 Sara observou-o.
 
@@ -1261,15 +1261,15 @@ Isso já qualificava como sucesso.
 
 Nari olhou para si.
 
-“Foi feito para outro corpo.”
+**Nari -** Foi feito para outro corpo.
 
 Will respondeu:
 
-“Posso oferecer roupas ou regeneração. Alfaiataria permanece fora das minhas especialidades.”
+**Will -** Posso oferecer roupas ou regeneração. Alfaiataria permanece fora das minhas especialidades.
 
 Sara ajeitou uma dobra.
 
-“Que decepção. Um marido deveria vir com mais habilidades domésticas.”
+**Sara -** Que decepção. Um marido deveria vir com mais habilidades domésticas.
 
 Will olhou para ela.
 
@@ -1279,15 +1279,15 @@ Nari também.
 
 Will ficou em silêncio por um instante.
 
-“Você está usando marido agora?”
+**Will -** Você está usando marido agora?
 
 Sara respondeu sem hesitar:
 
-“Não se acostume.”
+**Sara -** Não se acostume.
 
-“Só estou acompanhando a terminologia local.”
+**Will -** Só estou acompanhando a terminologia local.
 
-“Continue acompanhando em silêncio.”
+**Sara -** Continue acompanhando em silêncio.
 
 Ele quase sorriu.
 
@@ -1303,7 +1303,7 @@ A saída continuava sendo outra questão.
 
 Nari foi a primeira a retomá-la.
 
-“Quanto tempo até poder tentar abrir a passagem?”
+**Nari -** Quanto tempo até poder tentar abrir a passagem?
 
 Will voltou para a cadeira.
 
@@ -1311,29 +1311,29 @@ Dessa vez não houve qualquer tentativa de esconder o cansaço.
 
 Ele fechou os olhos por alguns segundos, avaliando a própria reserva e a lentidão com que o Éter permitia recuperá-la.
 
-“Talvez três dias.”
+**Will -** Talvez três dias.
 
 Sara ficou imóvel.
 
-“Talvez.”
+**Sara -** Talvez.
 
-“Não consigo medir com precisão quanto vou recuperar aqui.”
+**Will -** Não consigo medir com precisão quanto vou recuperar aqui.
 
 Nari compreendeu antes de perguntar.
 
-“O Éter oferece pouca energia.”
+**Nari -** O Éter oferece pouca energia.
 
-“Quase nenhuma.”
+**Will -** Quase nenhuma.
 
 Will abriu os olhos.
 
-“Em condições normais eu recuperaria muito mais rápido. Aqui, não.”
+**Will -** Em condições normais eu recuperaria muito mais rápido. Aqui, não.
 
-“Três dias para sair?”
+**Sara -** Três dias para sair?
 
 Will balançou a cabeça.
 
-“Três dias para ter energia suficiente para tentar.”
+**Will -** Três dias para ter energia suficiente para tentar.
 
 Nari assentiu.
 
@@ -1341,21 +1341,21 @@ A distinção era importante.
 
 Sara perguntou:
 
-“Usando nossas almas como referência.”
+**Sara -** Usando nossas almas como referência.
 
-“Os vínculos.”
+**Will -** Os vínculos.
 
 Ela ergueu a mão marcada.
 
-“Os casamentos.”
+**Sara -** Os casamentos.
 
 Will olhou para a marca.
 
-“Os vínculos.”
+**Will -** Os vínculos.
 
 Sara sustentou o olhar.
 
-“Casamentos.”
+**Sara -** Casamentos.
 
 Will respirou lentamente.
 
@@ -1365,31 +1365,31 @@ Não interveio.
 
 Will acabou cedendo apenas o necessário.
 
-“Usando aquilo.”
+**Will -** Usando aquilo.
 
 Sara pareceu considerar a resposta.
 
-“Aceito temporariamente.”
+**Sara -** Aceito temporariamente.
 
-“Generoso.”
+**Will -** Generoso.
 
 Ela ignorou.
 
 Nari continuou:
 
-“Você consegue determinar onde a passagem vai abrir?”
+**Nari -** Você consegue determinar onde a passagem vai abrir?
 
-“Não.”
+**Will -** Não.
 
-“Consegue garantir que chegaremos a Elder?”
+**Nari -** Consegue garantir que chegaremos a Elder?
 
 Will olhou para ela.
 
-“Elder é o nome do mundo de vocês?”
+**Will -** Elder é o nome do mundo de vocês?
 
 Nari percebeu a informação que acabara de fornecer.
 
-“Sim.”
+**Nari -** Sim.
 
 Will assentiu.
 
@@ -1397,17 +1397,17 @@ Era apenas um nome.
 
 Nada mais.
 
-“Se os vínculos funcionarem como espero, é o destino que tentarei alcançar. Não vou prometer precisão que ainda não tenho.”
+**Will -** Se os vínculos funcionarem como espero, é o destino que tentarei alcançar. Não vou prometer precisão que ainda não tenho.
 
 Sara perguntou:
 
-“E os três atravessam?”
+**Sara -** E os três atravessam?
 
-“Essa é a intenção.”
+**Will -** Essa é a intenção.
 
-“Garantia?”
+**Sara -** Garantia?
 
-“Não.”
+**Will -** Não.
 
 Nari pareceu satisfeita com a honestidade da resposta, ainda que não com o conteúdo.
 
@@ -1427,35 +1427,35 @@ Nari fez o mesmo.
 
 Will percebeu.
 
-“Nós podemos discutir isso quando estivermos fora.”
+**Will -** Nós podemos discutir isso quando estivermos fora.
 
 Sara ergueu os olhos.
 
-“Você ainda acredita que vai simplesmente desfazer.”
+**Sara -** Você ainda acredita que vai simplesmente desfazer.
 
-“Pretendo tentar.”
+**Will -** Pretendo tentar.
 
 Nari respondeu:
 
-“E nós pretendemos descobrir exatamente o que foi feito antes que tente qualquer coisa.”
+**Nari -** E nós pretendemos descobrir exatamente o que foi feito antes que tente qualquer coisa.
 
 Will olhou para ela.
 
-“Justo.”
+**Will -** Justo.
 
 Sara inclinou a cabeça.
 
-“Não sei se usaria essa palavra.”
+**Sara -** Não sei se usaria essa palavra.
 
-“Então escolha outra.”
+**Will -** Então escolha outra.
 
 Ela pensou.
 
-“Necessário.”
+**Sara -** Necessário.
 
 Will assentiu.
 
-“Necessário.”
+**Will -** Necessário.
 
 Pela primeira vez desde que Sara abrira os olhos, os três concordaram com alguma coisa.
 
