@@ -2,83 +2,155 @@
 
 A reconstrução dos dois corpos exigiu quase tudo o que Will ainda conseguia arrancar de si mesmo.
 
-O Pagoda do Céu lhe oferecia abrigo, instrumentos, preparados e materiais que conhecia bem. A energia de Madeira fazia o restante possível, sustentando regeneração, reconstrução de tecidos e recuperação de estruturas que o Éter havia reduzido a pouco mais que lembranças de anatomia.
+O Pagoda do Céu lhe dava abrigo, instrumentos, preparados, materiais e, acima de tudo, um lugar onde o Éter não continuava devorando as pacientes enquanto ele trabalhava. Não lhe dava, infelizmente, uma fonte decente de energia.
 
-Will trabalhava sem pressa inútil. Energia abundante nunca substituíra medicina, e naquele lugar energia abundante era justamente o que ele não possuía.
+Will compensou com experiência.
 
-Will, pensa: *Mais um pouco. Não vou chegar até aqui para deixar duas reconstruções pela metade.*
+A energia de Madeira correu por suas mãos em quantidades que, em qualquer outro lugar, ele teria recuperado com relativa facilidade. Ali, cada parcela gasta parecia uma moeda lançada num poço sem fundo.
 
-O corpo de Sara foi recuperando forma, integridade e função. Nari passou pelo mesmo processo, com as adaptações que a constituição de cada uma exigia. Aos poucos, a devastação causada pelo Éter deixou de parecer irreversível.
+Will, pensa: *Mais um pouco. Não vou parar agora e descobrir como fica uma pessoa reconstruída pela metade.*
 
-Quando terminou, ambas estavam inteiras outra vez.
+Sara foi a primeira a recuperar integridade suficiente para que o tratamento deixasse de parecer uma tentativa de convencer a morte a esperar. Ossos, tecidos, órgãos e canais de energia voltaram a formar um conjunto coerente. Nari exigiu adaptações diferentes, mas o princípio permaneceu o mesmo.
 
-Inteiras não significava fortes. Os corpos recém-restaurados ainda precisariam de tempo para voltar a responder como antes, e as duas permaneceram inconscientes depois do tratamento. Mas estavam vivas, respirando e fora do limite onde qualquer instante poderia ser o último.
+Will trabalhou durante horas.
 
-Só então Will permitiu que o olhar deixasse de ser exclusivamente médico.
+Quando terminou, as duas estavam inteiras.
 
-Sara tinha cabelos prateados e uma beleza marcante, difícil de ignorar mesmo adormecida. Nari, com os cabelos vermelhos e feições muito diferentes das dela, era igualmente impressionante. Na forma comum, ambas pareciam quase humanas, exceto pelos pequenos chifres. Não havia asas visíveis.
+Inteiras, não recuperadas.
 
-Will deixou o olhar permanecer por um instante a mais.
+Os corpos haviam sido reconstruídos, mas ainda eram corpos recém-reconstruídos. A força, a resistência e o domínio que ambas possuíam antes não podiam simplesmente reaparecer porque a anatomia voltara ao lugar. Continuaram inconscientes.
 
-Will, pensa: *Duas mulheres lindas. Uma prateada, uma ruiva. O Éter passou séculos sem me oferecer uma conversa decente e agora resolveu exagerar.*
+Will ficou alguns instantes diante da cama, respirando devagar.
 
-Ele sorriu de leve.
+Só então o médico deixou de ocupar todo o espaço da cabeça e o homem voltou a ter alguma opinião.
 
-Will, pensa: *Gostei do que estou vendo. Muito. Vai ser interessante descobrir se a personalidade acompanha a aparência.*
+Sara tinha cabelos prateados, traços fortes e uma beleza difícil de ignorar. Nari, ruiva, possuía feições diferentes e igualmente marcantes. Na forma comum, as duas pareciam quase humanas. Os chifres eram pequenos. Não havia asas.
 
-As roupas, evidentemente, não haviam sido reconstruídas junto com os corpos. Will acomodou as duas na cama, cobriu-as e verificou a própria reserva.
+Will deixou os olhos passearem sem pressa.
 
-Quase nada.
+Will, pensa: *Duas mulheres lindas. Uma prateada, uma ruiva. Passei séculos preso no vazio e o universo resolveu pedir desculpas de uma vez.*
 
-Seu cultivo não havia diminuído. Seus conhecimentos, capacidades e corpo permaneciam os mesmos. O problema era simples e irritante: ele gastara uma quantidade absurda de energia de Madeira, e o Éter era um lugar miserável para recuperá-la.
+Seu olhar demorou um pouco mais.
 
-Will puxou uma cadeira para diante da cama.
+Will, pensa: *Gostei. Bastante. Agora falta descobrir se alguma das duas consegue manter uma conversa sem tentar me matar.*
+
+A possibilidade não lhe pareceu particularmente preocupante.
+
+As roupas, por outro lado, tinham desaparecido junto com o que o Éter destruíra. Medicina de alto nível podia fazer muitas coisas. Reconstruir um vestido por regeneração não estava entre elas.
+
+Will cobriu as duas com o que havia na cama e verificou a própria reserva.
+
+Quase vazia.
+
+Aquilo era desagradável de uma maneira muito específica. Ele continuava sendo um Santo. Seu cultivo não havia desaparecido. Seus conhecimentos estavam intactos. Seu corpo continuava sendo o Corpo do Dragão que refinara durante séculos.
+
+Só não tinha energia suficiente para fazer quase nada que merecesse o nome de poder.
+
+Will olhou para as duas mulheres também reduzidas, por motivos completamente diferentes, a uma condição próxima da de pessoas comuns.
+
+Will, pensa: *Três monstros de poder e nenhum de nós em condição de assustar uma porta.*
+
+Ele puxou uma cadeira para diante da cama.
 
 Will, pensa: *Vou recuperar um pouco antes de pensar na passagem.*
 
 Fechou os olhos e começou a meditar.
 
-A energia chegava devagar, quase gota a gota. Depois de algum tempo, o cansaço venceu a concentração. Will continuou sentado, mas a meditação terminou em sono.
+No Éter, energia vinha quase gota a gota.
 
-Quando Sara despertou, a primeira descoberta foi o próprio corpo.
+Depois de algum tempo, a meditação perdeu uma disputa silenciosa contra o cansaço.
 
-Respiração. Peso. Calor. Colchão sob as costas. Dedos que obedeciam novamente.
+Will dormiu sentado.
 
-Ela abriu os olhos e tentou se erguer.
+---
 
-A tontura venceu a tentativa quase imediatamente.
+Sara acordou sentindo o próprio corpo.
 
-Sara: "Certo. Ainda não exatamente pronta para uma batalha."
+Por alguns segundos, isso bastou para ocupar toda a sua atenção.
 
-A integridade havia voltado. A força, não.
+Respiração. Peso. Calor. Dedos que obedeciam. Um coração batendo onde deveria.
 
-Ao ajustar o cobertor, percebeu que estava nua. A constatação pareceu muito menos extraordinária do que estar viva. O Éter quase destruíra o corpo inteiro; esperar que as roupas tivessem sobrevivido seria pedir demais ao universo.
+Ela abriu os olhos.
 
-Foi então que notou Nari deitada ao lado.
+Tentou se sentar.
 
-Sara: "Nari?"
+A tontura a devolveu imediatamente ao travesseiro.
 
-A ruiva ainda dormia.
+Sara: "Ótimo. Inteira e inútil."
 
-Sara observou a respiração dela e concluiu que Will realmente conseguira reconstruir as duas.
+A frase saiu com mais força do que seu corpo parecia disposto a sustentar.
 
-Depois viu a marca em sua própria mão.
+Ela esperou a visão parar de oscilar e tentou avaliar a situação com menos entusiasmo.
+
+A cama era desconhecida. O teto também. O cobertor estava sobre ela. Sob o cobertor, não havia roupa alguma.
+
+Sara olhou para si mesma.
+
+A nudez não entrou nem perto do topo da lista de problemas.
+
+O Éter quase a reduzira a nada. Esperar que o vestido tivesse sido reconstruído junto seria atribuir à magia um interesse excessivo por alfaiataria.
+
+Foi então que viu Nari.
+
+A ruiva dormia ao seu lado, respirando.
+
+Sara: "Nari."
+
+Nada.
+
+Sara olhou mais atentamente. Corpo inteiro. Respiração estável. Também nua sob o cobertor.
+
+Então Will realmente conseguira salvar as duas.
+
+Ela ergueu a própria mão.
+
+A marca ainda estava ali.
 
 O casamento.
 
-E, poucos segundos depois, viu uma marca equivalente na mão de Nari.
+Depois viu a mão de Nari.
 
-Sara permaneceu imóvel.
+Sara ficou imóvel.
 
-Sara, pensa: *Ele também fez uma junção com ela.*
+A mesma marca.
 
-Quando Nari despertou, levou alguns instantes para descobrir a mesma sequência de fatos: corpo inteiro, força ausente, nenhuma roupa, Sara viva ao lado e Will adormecido na cadeira.
+Sara, pensa: *Não.*
 
-Então Sara mostrou a própria mão.
+Ela se inclinou o suficiente para olhar melhor, ignorando o protesto dos músculos.
 
-Nari olhou para a marca.
+Não havia dúvida.
 
-Depois para a sua.
+Sara, pensa: *Ele também se casou com ela.*
+
+Nari começou a acordar pouco depois.
+
+Levou alguns instantes para chegar à mesma sequência de conclusões: estava viva, estava inteira, estava fraca, estava nua, Sara estava ao lado e Will dormia na cadeira em frente.
+
+Nari olhou para o teto.
+
+Nari: "Quanto tempo?"
+
+Sara: "Não sei."
+
+Nari moveu os dedos, depois os braços.
+
+Nari: "O corpo está funcional. Muito abaixo do normal."
+
+Sara: "Descobri isso tentando sentar. Recomendo não repetir a pesquisa."
+
+Nari lançou um olhar breve para ela.
+
+Nari: "Agradeço pela contribuição científica."
+
+Sara ergueu a própria mão.
+
+Sara: "Temos outro problema."
+
+Nari viu a marca.
+
+Depois olhou para a própria.
+
+Ficou quieta por alguns segundos.
 
 Sara: "Você também?"
 
@@ -86,25 +158,35 @@ Nari: "Sim."
 
 Sara: "Ele pediu que você se tornasse serva dele?"
 
-Nari: "Pediu."
+Nari: "Sim."
 
 Sara: "E prometeu que eu ficaria livre?"
 
-Nari levou um instante antes de responder.
+Nari demorou uma fração de segundo a mais.
 
-Nari: "Sim."
+Nari: "Prometeu."
 
-Sara encarou o homem adormecido.
+Sara virou o rosto para Will.
 
 Sara: "Ele me disse que você ficaria livre."
 
-Nari: "E me disse que você ficaria livre."
+Nari acompanhou o olhar.
 
-As duas tinham agora um problema que nenhum dos acordos particulares havia anunciado.
+Nari: "Então ele fez os dois acordos separadamente."
 
-A discussão não avançou muito sem o terceiro participante.
+Sara: "E omitiu a parte conveniente."
 
-Sara elevou a voz.
+Nari: "Isso parece provável."
+
+Sara: "Provável?"
+
+Nari: "Ainda não ouvimos a versão dele."
+
+Sara olhou para Will de novo.
+
+Sara: "Podemos providenciar isso."
+
+Ela elevou a voz.
 
 Sara: "Will."
 
@@ -112,27 +194,31 @@ Nada.
 
 Nari: "Will God Stone."
 
-Ele se moveu na cadeira.
+Ele se mexeu um pouco.
 
 Sara: "Acorde."
 
-Will abriu os olhos devagar. A reserva continuava muito abaixo do que gostaria, mas a visão diante dele era consideravelmente melhor do que a que encontrara no Éter.
+Will abriu os olhos devagar.
 
-As duas estavam acordadas.
+Por um instante pareceu precisar lembrar por que duas mulheres estavam numa cama diante dele.
 
-Will olhou de Sara para Nari e sorriu.
+Então lembrou.
 
-Will: "Bom que minhas damas estão acordadas... agora podemos ter uma conversa."
+E gostou bastante de confirmar que ambas estavam acordadas.
+
+Will olhou de uma para a outra.
+
+Will: "Bom que minhas damas estão acordadas. Agora podemos ter uma conversa."
 
 Sara ergueu a mão marcada.
 
 Sara: "Podemos. Começando por isto."
 
-Nari mostrou a própria marca.
+Nari mostrou a própria.
 
 Nari: "Nós duas temos uma."
 
-Will olhou para os dois sinais.
+Will olhou para as marcas.
 
 Will: "Sim."
 
@@ -140,109 +226,151 @@ Sara: "E você prometeu a cada uma que a outra ficaria livre."
 
 Will: "Sim. Vou libertar vocês assim que sairmos daqui."
 
-Sara ficou olhando para ele.
+Sara ficou encarando-o.
 
-Sara: "Então você realmente não percebe o problema."
+Will percebeu que aquela não era a resposta esperada.
 
-Will: "Que problema?"
+Sara: "Você realmente não entendeu."
+
+Will: "Entendi o quê?"
+
+Nari respondeu sem mudar muito a expressão.
 
 Nari: "Nós duas estamos casadas com você."
 
-A expressão de Will mudou imediatamente.
+Will piscou.
 
-Will: "Que casamento? Era só um contrato de servidão. Vou libertar vocês assim que sairmos daqui."
+Olhou para Sara.
 
-Sara soltou uma risada curta, incrédula.
+Depois para Nari.
 
-Sara: "Um contrato de servidão."
+Depois para as marcas.
 
-Ela mostrou novamente a marca.
+Will: "Que casamento? Era só um contrato de servidão."
 
-Sara: "Will, isto é uma marca de casamento."
+Sara fechou os olhos por um instante.
 
-Will olhou para o sinal como se alguém tivesse acabado de mudar a definição de uma palavra enquanto ele dormia.
+Sara: "Só. Um contrato de servidão."
 
-Nari percebeu.
+Will: "Exatamente."
 
-Nari: "Você realmente não sabia?"
+Sara abriu os olhos.
 
-Will: "Eu pedi que vocês se tornassem minhas servas. Fiz uma junção para criar o vínculo. Isso é um contrato de servidão."
+Sara: "Isto é uma marca de casamento."
+
+Will tornou a olhar para a mão dela.
+
+Will: "Para vocês."
+
+Nari inclinou ligeiramente a cabeça.
+
+Nari: "Você realmente não sabia."
+
+Não era uma pergunta.
+
+Will: "Eu pedi que se tornassem minhas servas. Fiz uma junção para criar o vínculo. Isso é um contrato de servidão."
 
 Sara: "Para você."
 
 Nari: "Para nós, não."
 
-Will voltou a atenção para ela.
+Will esperou.
 
-Nari: "Somos demônios. Nossa constituição não permite escravidão. Não é uma lei. Não é uma proibição política. O vínculo simplesmente não pode nos transformar em escravos."
+Nari: "Somos demônios. Nossa constituição não permite escravidão. Não é uma lei. Não é uma proibição. O vínculo simplesmente não consegue nos transformar em escravos."
 
 Will: "Demônios."
 
 Sara: "Sim."
 
-Will: "Isso explica algumas diferenças que encontrei durante o tratamento."
+Will olhou rapidamente para os pequenos chifres.
 
-Nari continuou:
+Will: "Isso explica algumas coisas do tratamento."
+
+Sara: "Fico feliz que o casamento esteja ajudando sua pesquisa médica."
+
+Will: "Ainda não aceitei a palavra casamento."
+
+Sara: "Ela não precisa da sua aceitação."
+
+Nari continuou antes que os dois transformassem aquilo numa disputa de vocabulário.
 
 Nari: "A única forma de um demônio servir outra pessoa por meio de uma junção de almas é o casamento. Quando você fez a proposta, foi isso que entendemos."
 
-Will ficou em silêncio por alguns instantes.
+Will ficou em silêncio.
 
-Will, pensa: *Elas aceitaram casamento. Eu estava fazendo servidão.*
+Will, pensa: *Elas estavam aceitando casamento. Eu estava fazendo servidão.*
 
-Sara: "Você realmente não sabia que estava se casando conosco."
+Sara observou o rosto dele.
+
+Sara: "Você realmente não sabia."
 
 Will: "Não."
 
-Sara: "E ainda fez os dois acordos separadamente."
-
-Will: "Porque eu precisava das duas ligações."
-
-Nari: "E pretendia libertar as duas depois?"
+Sara: "Mas sabia que precisava das duas."
 
 Will: "Sim."
 
-Sara: "Mas não contou a nenhuma que faria o mesmo contrato com a outra."
+Sara: "E fez os acordos separadamente."
 
-Will: "Não."
+Will: "Porque eu precisava das duas ligações."
 
-A resposta permaneceu entre os três por um momento.
+Nari: "E pretendia libertar ambas depois?"
 
-Sara: "Então omitiu uma parte bastante importante."
+Will: "Sim."
 
-Will: "Omiti que precisava das duas ligações. Não menti sobre libertar vocês. Era exatamente o que eu pretendia fazer."
+Sara: "Sem contar a nenhuma de nós que faria o mesmo acordo com a outra."
 
-Sara: "Para você."
+Will: "Não contei."
 
-Will: "Para mim, sim. Eu não sabia que vocês estavam aceitando outra coisa."
+Sara manteve o olhar nele.
 
-Nari olhou para a própria marca.
+Will não tentou sorrir.
 
-Nari: "E nós não sabíamos que você acreditava poder desfazer o pacto."
+Sara: "Então você nos enganou."
+
+Will: "Omiti uma parte. Não menti sobre libertar vocês. Eu pretendia desfazer os dois contratos assim que estivéssemos fora do Éter."
+
+Sara: "Na sua versão do acordo."
+
+Will: "Na única versão que eu sabia que existia."
+
+Nari olhou para a marca em sua mão.
+
+Nari: "E nós não sabíamos que você acreditava poder desfazê-la."
 
 Will: "Não dá só para eu liberar vocês depois?"
 
-Sara olhou para Nari antes de responder.
+Sara virou o rosto lentamente para Nari.
 
-Sara: "Se fosse tão simples, a junção de almas não teria o significado que tem para nós."
+Nari devolveu o olhar.
 
-Nari: "Um casamento demoníaco é praticamente impossível de separar. Não conheço uma forma de simplesmente declarar que terminou e fazer a ligação desaparecer."
+Nenhuma das duas respondeu de imediato.
 
-Will: "Praticamente impossível não é a mesma coisa que impossível."
+Will: "Esse silêncio não parece promissor."
 
-Nari: "Também não é a mesma coisa que saber como desfazer."
+Nari: "Um casamento demoníaco é praticamente impossível de separar."
+
+Will: "Praticamente."
+
+Nari: "Sim."
+
+Will: "Então não é impossível."
+
+Nari: "Também não significa que você saiba como."
 
 Will recostou-se na cadeira.
 
 Will: "No meu mundo eu saberia revogar o contrato."
 
-Sara: "E nós sabemos o que uma junção de almas significa para demônios."
+Sara: "E no nosso nós sabemos o que uma junção de almas significa."
 
 Will: "Então temos dois entendimentos diferentes do mesmo pacto."
 
-Nari: "Pelo menos."
+Nari: "No mínimo."
 
-O assunto não estava resolvido. Estava, finalmente, identificado.
+O problema não estava resolvido.
+
+Pelo menos agora existia um problema que todos reconheciam.
 
 Sara puxou o cobertor um pouco mais para cima.
 
@@ -256,21 +384,35 @@ Will olhou para as duas.
 
 Will: "Tenho algumas minhas. Não foram feitas exatamente pensando em vocês, mas devem resolver a parte de ficarem nuas."
 
-Nari: "Por enquanto, isso já é uma melhoria."
+Nari: "Isso já seria uma melhoria objetiva."
 
-Will buscou algumas peças no Pagoda e voltou com roupas simples de seu próprio uso.
+Will levantou-se.
 
-Sara observou o tamanho delas.
+Sara acompanhou o movimento e percebeu que ele estava mais lento do que antes.
+
+Sara não comentou.
+
+Will voltou com algumas peças simples de seu próprio uso.
+
+Sara segurou uma delas e olhou para ele.
 
 Sara: "Você é quase dois metros de homem."
 
-Will: "É por isso que estou relativamente confiante de que existe tecido suficiente."
+Will: "Por isso tenho bastante confiança na quantidade de tecido."
 
-Nari: "Isso não é a mesma coisa que dizer que vão servir."
+Nari examinou outra peça.
 
-Will: "Eu prometi evitar nudez completa. Não prometi alfaiataria."
+Nari: "Quantidade não é corte."
 
-As duas conseguiram improvisar. O resultado cumpriu a promessa de Will no sentido mais técnico possível. As roupas cobriam. Também deixavam bastante pele à mostra, seja pelo corte, pelo tamanho ou pela maneira como precisaram ser ajustadas.
+Will: "Eu ofereci uma solução para nudez. Não um alfaiate."
+
+As duas improvisaram.
+
+O resultado cumpriu a promessa no sentido mais técnico possível.
+
+As roupas cobriam.
+
+Também deixavam uma quantidade bastante generosa de pele à mostra, seja pelo caimento, pelo tamanho ou pelos ajustes improvisados.
 
 Will olhou.
 
@@ -278,153 +420,215 @@ Sara percebeu.
 
 Sara: "Algum problema?"
 
-Will não desviou os olhos imediatamente.
+Will não desviou os olhos.
 
-Will: "Nenhum. Na verdade, acho que a solução ficou melhor do que eu esperava."
+Will: "Nenhum."
 
-Nari olhou para a própria roupa.
+Sara esperou.
+
+Will deixou o olhar passar por ela e depois por Nari.
+
+Will: "Na verdade, funcionou melhor do que eu esperava."
+
+Nari olhou para si mesma.
 
 Nari: "Melhor para quem?"
 
-Will sorriu.
+Will: "Para mim, claramente."
 
-Will: "Não vou mentir dizendo que não gostei do resultado."
+Nari ergueu uma sobrancelha.
 
-Sara: "Pelo menos você é sincero."
+Sara soltou o ar pelo nariz, sem decidir se aquilo merecia resposta.
 
-Will: "Às vezes é mais divertido."
+Will não pareceu sentir necessidade de se justificar.
 
-A conversa acabou chegando também à aparência das duas.
+A conversa acabou chegando à aparência das duas.
 
 Will: "Então é assim que vocês normalmente parecem."
 
 Sara: "Normalmente?"
 
-Will: "Durante o tratamento encontrei padrões que sugeriam algo maior."
+Will: "Durante o tratamento encontrei estruturas que sugeriam uma manifestação maior."
 
 Sara: "A Forma Demoníaca."
 
 Nari: "É uma transformação de combate. Esta é nossa aparência comum."
 
-Will assentiu. A forma cotidiana quase humana, com pequenos chifres e sem asas, não era uma versão incompleta. Era simplesmente como elas eram quando não estavam manifestando a transformação marcial.
+Will assentiu.
 
-Com o problema imediato da nudez resolvido, Will explicou o próximo limite.
+Quase humanas. Pequenos chifres. Sem asas. A forma maior pertencia ao combate, não ao repouso.
 
-Will: "Pelas minhas estimativas, vou precisar de pelo menos três dias para recuperar energia suficiente para tentar abrir uma passagem usando o vínculo das almas de vocês com o mundo natal. Depois que sairmos daqui... pensamos no que fazer sobre o 'casamento'."
+Com a questão imediata resolvida, Will voltou ao problema dos próximos dias.
 
-Sara: "Você continua colocando essa palavra entre aspas mesmo quando fala."
+Will: "Pelas minhas estimativas, vou precisar de pelo menos três dias para recuperar energia suficiente para tentar abrir uma passagem usando o vínculo das almas de vocês com o mundo natal. Depois que sairmos daqui, pensamos no que fazer sobre o 'casamento'."
 
-Will: "Na minha cabeça ainda está."
+Sara: "Você conseguiu colocar aspas na palavra só com o tom de voz."
 
-Nari: "Sua cabeça aparentemente não possui jurisdição sobre magia."
+Will: "Era a intenção."
 
-Will: "Estou começando a perceber."
+Nari: "Sua intenção não parece ter tido grande autoridade sobre o vínculo até agora."
+
+Will olhou para a marca dela.
+
+Will: "Três dias. Depois discutimos com a magia."
+
+Sara: "Ótimo. Quero assistir."
 
 ## Primeiro dia
 
-As horas seguintes foram ocupadas por recuperação, perguntas e tentativas de entender as marcas sem chegar a conclusão alguma.
+As primeiras horas foram pouco espetaculares.
 
-Sara e Nari ainda estavam fracas, embora já conseguissem se mover melhor. Will recuperava energia no ritmo irritantemente lento que o Éter permitia.
+Sara e Nari precisavam recuperar corpos recém-reconstruídos. Will precisava recuperar uma reserva quase vazia num lugar que oferecia energia com a generosidade de um cobrador de impostos.
 
-Foi durante uma meditação que sentiu uma ardência na mão.
+A situação tinha uma ironia simples.
 
-Will abriu um olho.
+Will era um Santo.
+
+Sara e Nari eram demônias poderosas mesmo para os padrões de sua raça.
+
+Naquele momento, os três precisavam pensar antes de atravessar um corredor depressa demais.
+
+Sara não gostava particularmente desse fato.
+
+Nari o tratava como dado provisório.
+
+Will o considerava irritante.
+
+Nenhum deles precisava transformar isso numa experiência espiritual.
+
+Foi durante uma meditação que Will sentiu uma ardência na mão.
+
+Abriu um olho.
 
 Will: "Isso é novo."
 
-Uma marca fina começava a surgir em seu dedo.
+Uma linha fina estava se formando em seu dedo.
 
-Sara ficou imediatamente atenta.
+Sara viu primeiro.
 
 Sara: "Uma aliança."
 
 Will: "Não."
 
-Sara: "Will."
+Sara: "É literalmente uma aliança."
 
-Will: "Uma marca de vínculo."
+Will: "É uma marca de vínculo."
 
-Sara: "Uma aliança."
+Sara: "No dedo. Em forma de aliança."
 
-Nari aproximou-se o suficiente para observar.
+Will olhou para Nari como se pedisse uma segunda opinião.
 
-Nari: "Ela combina com as nossas."
+Nari: "Ela está descrevendo a geometria corretamente."
 
-Sara cruzou os braços.
+Will: "Obrigado pelo apoio."
+
+Nari: "Não foi apoio."
+
+A marca terminou de se formar.
+
+Combinava com as delas.
 
 Sara: "Bem-vindo ao casamento."
 
 Will: "Ainda prefiro 'contrato extremamente mal interpretado'."
 
-Sara: "É um título comprido para marido."
+Sara: "É um título muito grande para marido."
 
-Will ia responder quando Nari ergueu a própria mão.
+Will abriu a boca para responder.
+
+Nari ergueu a própria mão.
 
 Nari: "Esperem."
 
-O desenho havia mudado.
+O desenho em sua pele estava mudando.
 
-Linhas adicionais surgiam ao redor da marca original, formando uma segunda estrutura. Sara encontrou o mesmo padrão em sua mão.
+Linhas adicionais cresciam ao redor da marca original. Não substituíam o símbolo matrimonial. Integravam-se a ele.
 
-Will se aproximou e examinou as linhas.
+Sara olhou para a própria mão.
+
+O mesmo acontecia ali.
+
+Will se aproximou.
+
+Sua expressão mudou antes de tocar a mão de Nari para examinar melhor.
 
 Will: "Isso eu conheço."
 
-Nari: "De onde?"
+Nari: "O quê?"
 
-Will: "Parecem marcas de servidão do meu mundo."
+Will: "Essas linhas. São parecidas com marcas de servidão do meu mundo."
 
-Sara: "Então agora temos aliança de casamento com marca de escravidão."
+Sara baixou os olhos para a própria mão.
 
-Will: "Eu diria que o contrato de servidão finalmente está se estabilizando."
+Sara: "Então minha aliança está criando uma marca de escravidão."
 
-Sara: "Claro que diria."
+Will: "Ou meu contrato de servidão finalmente está se estabilizando."
 
-Nari: "E eu diria que o casamento está reagindo à natureza do contrato que você tentou estabelecer."
+Sara ergueu o rosto.
 
-Will: "Então cada um escolhe a interpretação que o deixa mais confortável?"
+Sara: "Você conseguiu interpretar exatamente o mesmo fato na direção oposta."
 
-Sara: "Não. Eu escolho a correta."
+Will: "É uma habilidade."
 
-Will sorriu.
+Nari examinou as linhas.
 
-Will: "É uma característica de família?"
+Nari: "Também pode ser o casamento reagindo à natureza do pacto que você tentou estabelecer."
 
-Sara: "Você ainda não conhece minha família."
+Will: "Então estamos empatados."
 
-Will: "Já estou curioso."
+Sara: "Não."
 
-A magia, pouco impressionada com a disputa, não ofereceu explicação alguma.
+Will: "Por quê?"
+
+Sara: "Porque eu estou certa."
+
+Will olhou para Nari.
+
+Nari: "Não vou arbitrar isso."
+
+A magia também se recusou a participar da discussão.
 
 ### Primeira noite
 
-O Pagoda tinha espaço suficiente para que ninguém precisasse dividir uma cama.
+O Pagoda tinha quartos suficientes.
 
-Sara escolheu um quarto.
+Esse fato pareceu simples o bastante para todos.
 
-Nari escolheu outro.
+Sara escolheu um.
 
-Will foi para um terceiro depois de algumas horas de meditação.
+Nari outro.
 
-Na manhã seguinte, abriu os olhos e encontrou cabelos prateados espalhados sobre parte de seu peito.
+Will ficou em um terceiro.
 
-Ficou imóvel.
+Ninguém sugeriu dividir cama.
 
-Sara dormia parcialmente apoiada nele, um braço atravessado sobre seu torso. Do outro lado, Nari havia conquistado uma porção impressionante do cobertor e estava encostada em seu ombro.
+Ninguém tinha motivo para isso.
 
-Will, pensa: *Interessante.*
+Na manhã seguinte, Will acordou com cabelos prateados sobre o peito.
 
-Sara se mexeu e apertou-o um pouco mais durante o sono.
+Não se moveu.
 
-Will, pensa: *Muito interessante.*
+Sara dormia parcialmente apoiada nele, um braço atravessado sobre seu torso. Nari estava do outro lado, encostada em seu ombro e responsável por uma distribuição de cobertor que qualquer tribunal imparcial consideraria criminosa.
+
+Will olhou para o teto.
+
+Will, pensa: *Isso não estava no contrato.*
+
+Sara se mexeu e apertou-o um pouco mais.
+
+Will olhou para ela.
+
+Will, pensa: *Também não vou fingir que a situação é desagradável.*
 
 Nari acordou primeiro.
 
+Abriu os olhos.
+
 Olhou para Will.
 
-Depois para Sara.
+Olhou para Sara.
 
-Depois para a cama.
+Olhou para o quarto.
 
 Nari: "Não."
 
@@ -434,69 +638,101 @@ Nari: "Eu fui dormir em outro quarto."
 
 Will: "Eu também."
 
-Sara despertou com a conversa.
+Sara abriu os olhos com a conversa.
 
-Sara: "Vocês podem discutir mais baixo?"
+Sara: "Falem mais baixo."
 
-Abriu os olhos e percebeu onde estava.
+Will: "Bom dia para você também."
+
+Sara percebeu onde estava.
+
+Olhou para o próprio braço sobre Will.
+
+Retirou-o.
+
+Depois olhou para ele.
 
 Sara: "Explique."
 
-Will: "Eu estava esperando que uma de vocês tivesse uma teoria."
+Will: "Eu estava esperando que uma de vocês pudesse fazer isso."
 
-Nari: "Eu fechei a porta."
+Nari: "Eu fechei minha porta."
 
 Will: "Eu também."
 
-Sara: "Eu tranquei."
+Sara: "Eu tranquei a minha."
 
-Will: "Isso é ainda mais interessante."
+Will: "Então o mistério melhorou."
 
-Nari olhou para as marcas.
+Sara: "Não melhorou."
 
-Nari: "Nenhum casamento demoníaco normal faz isso."
+Nari verificou a própria marca.
 
-Will: "E nenhum contrato de servidão do meu mundo também."
+Nari: "Casamentos demoníacos não fazem isso."
 
-Sara: "Se acontecer de novo, deixa de ser acidente."
+Will: "Contratos de servidão também não."
 
-Nari olhou para o cobertor.
+Sara: "Se acontecer novamente, não foi acidente."
 
-Nari: "Também gostaria de registrar que não fui eu quem roubou quase tudo."
+Nari puxou o cobertor alguns centímetros.
 
-Sara: "Foi você."
+Sara segurou a outra ponta.
 
-Nari: "Acusação sem provas."
+Nari parou.
 
-Will: "Eu estava no meio. Tenho testemunho material. Meu pé estava congelando."
+Sara: "Nem tente."
 
-Sara começou a rir.
+Nari: "O quê?"
 
-A investigação sobre teletransporte conjugal perdeu vários minutos para uma discussão sobre cobertores.
+Sara: "Você roubou o cobertor inteiro."
+
+Nari: "Não há evidência suficiente para essa conclusão."
+
+Will: "Meu pé ficou descoberto a noite toda. Eu sou a evidência."
+
+Nari: "Você estava dormindo."
+
+Will: "Meu pé continua tendo memória térmica."
+
+Sara largou o cobertor.
+
+Sara: "Temos uma magia conjugal nos teleportando durante o sono e vocês estão discutindo jurisprudência de cobertor."
+
+Nari: "As duas questões podem existir ao mesmo tempo."
+
+Will: "Finalmente alguém sensato."
+
+Sara olhou para ele.
+
+Will: "Relativamente sensato."
 
 ## Segundo dia
 
-No segundo dia, os três estavam melhores.
+No segundo dia, a recuperação já era perceptível.
 
-Sara e Nari já conseguiam caminhar pelo Pagoda sem tratar cada corredor como campanha militar. Will recuperara uma pequena parte da reserva, suficiente para não adormecer toda vez que tentava meditar, mas ainda muito abaixo do necessário para a passagem.
+Sara conseguia andar pelo Pagoda com mais confiança, embora ainda muito abaixo do que considerava aceitável. Nari passava cada vez mais tempo examinando as marcas. Will recuperara energia suficiente para parar de considerar cada meditação um risco de cochilo, mas ainda estava longe da quantidade necessária para abrir a passagem.
 
-Foi durante uma análise das marcas que surgiu o próximo problema.
+A manhã transcorreu sem grandes surpresas.
 
-Sara decidiu interromper horas de observação de símbolos e andar um pouco.
+Isso acabou perto do meio do dia.
 
-Will: "Querida, não exagere."
+Sara se levantou depois de tempo demais sentada diante de anotações mágicas.
 
-Silêncio.
+Will, ainda olhando para os símbolos: "Querida, não exagere."
 
 Sara parou.
 
 Nari levantou os olhos.
 
-Will continuou olhando para as anotações até perceber que ninguém falava.
+Will continuou escrevendo por alguns segundos.
+
+Percebeu o silêncio.
 
 Will: "O quê?"
 
 Sara: "O que você me chamou?"
+
+Will franziu a testa.
 
 Will: "Sara."
 
@@ -510,121 +746,171 @@ Will: "Não disse."
 
 Nari: "Disse."
 
-Will olhou para as duas.
+Will olhou para as duas como se a votação estivesse sendo manipulada.
 
 Will: "Querida, eu saberia o que..."
 
-Parou.
+A frase morreu.
 
-Sara começou a sorrir.
+Sara não sorriu.
+
+Isso tornou a expressão dela muito pior.
 
 Will fechou a boca.
 
-Tentou novamente.
+Sara: "Continue."
 
-Will: "Sara."
+Will: "Não."
 
-Dessa vez funcionou.
+Nari estendeu a mão para um papel próximo dele.
 
-Will: "Viram?"
+Nari: "Tente comigo."
 
-Nari: "Tente outra frase."
+Will: "Nari, passe aquele papel."
 
-Will: "Sara, sente-se."
+Ela entregou.
 
 Nada aconteceu.
 
-Então virou-se para Nari.
+Will: "Viu?"
+
+Nari colocou o papel de volta.
+
+Nari: "Outra frase."
 
 Will: "Amor, passe aquele papel."
 
-Os três ficaram imóveis.
+A mão de Nari parou no meio do caminho.
 
-Nari olhou para o papel.
+Will ficou imóvel.
 
-Depois para Will.
+Sara virou lentamente o rosto para ele.
 
 Will: "Eu não disse isso."
 
-Sara já estava rindo.
-
-Nari entregou o papel.
+Nari pegou o papel.
 
 Nari: "Aqui está, querido."
 
-Ela própria congelou.
+Ela própria ficou quieta.
 
-Will ergueu uma sobrancelha.
+Sara cruzou os braços.
 
-Sara perdeu qualquer tentativa de compostura.
+Sara: "Interessante."
 
-Sara: "Não acredito."
+Nari olhou para Will.
 
-Nari tentou sistematizar o fenômeno. Descobriram que os nomes normais ainda funcionavam boa parte do tempo. O problema parecia surgir quando uma fala carregava intimidade, cuidado, irritação pessoal ou quando alguém tentava se distanciar de propósito.
+Nari: "Não faça essa expressão."
 
-A magia possuía critérios próprios e nenhum interesse em explicá-los.
+Will: "Que expressão?"
 
-Nari: "Talvez exista uma relação entre intenção emocional e forma de tratamento."
+Nari: "A que você está fazendo."
+
+Will: "Estou apenas observando um fenômeno mágico."
+
+Sara: "Com muita satisfação científica."
+
+Will: "Sou um homem dedicado ao conhecimento."
+
+Nari: "Claro."
+
+Nas horas seguintes, Nari tentou transformar o problema numa investigação.
+
+Descobriram que os nomes ainda funcionavam.
+
+Na maior parte do tempo.
+
+O vínculo parecia interferir principalmente quando uma fala carregava cuidado, intimidade, irritação pessoal ou uma tentativa deliberada de criar distância conjugal.
+
+O critério não era simples.
+
+E parecia não se importar com a dignidade de ninguém.
+
+Nari: "Talvez exista relação entre intenção emocional e forma de tratamento."
 
 Will: "Querida, acho que você está pensando demais."
 
-Ele parou.
+Silêncio.
+
+Will fechou os olhos.
 
 Will: "Droga."
 
-Sara: "Continue, amor. Está divertido."
+Sara: "Então acontece quando você está sendo condescendente também. Útil."
 
-Sara também parou.
+Will: "Eu não estava sendo condescendente."
 
-Will começou a rir.
+Sara: "Claro, amor."
 
-Sara: "Eu detesto isso."
+Ela ficou imóvel.
 
-Will: "Você está sorrindo."
+Will olhou para ela.
 
-Sara: "Posso sorrir e detestar ao mesmo tempo."
+Sara: "Uma palavra e eu jogo alguma coisa em você."
 
-Nari: "Isso está dentro da capacidade humana."
+Will não disse nada.
 
-Will: "E demoníaca, aparentemente."
+Nari anotou alguma coisa.
 
-Sara: "Especialmente demoníaca."
+Sara: "Você anotou isso?"
+
+Nari: "Sim."
+
+Sara: "Por quê?"
+
+Nari: "Porque aconteceu."
+
+Sara: "Apague."
+
+Nari: "Não."
+
+Sara ficou olhando para ela.
+
+Nari continuou escrevendo.
 
 ### Segunda noite
 
-Dessa vez fizeram um experimento.
+Na segunda noite, decidiram testar o fenômeno de maneira deliberada.
 
 Sara escolheu um quarto distante.
 
 Nari escolheu outro ainda mais longe.
 
-Will ficou em um terceiro.
+Will ficou num terceiro.
 
-Nari marcou as portas. Sara colocou móveis diante da sua. Will verificou o próprio quarto duas vezes.
+Nari marcou as portas.
 
-Sara: "Se acordarmos juntos novamente, eu aceito que é o vínculo."
+Sara colocou móveis diante da própria.
+
+Will verificou o quarto duas vezes.
+
+Sara: "Se acordarmos juntos novamente, aceito que é o vínculo."
 
 Will: "Eu ainda quero saber como."
 
-Nari: "Primeiro confirmamos o fenômeno."
+Nari: "Primeiro confirmamos que é repetível."
 
-Sara: "Você consegue transformar até dormir em pesquisa."
+Sara: "Você transformou dormir em experimento."
 
-Nari: "É uma habilidade."
+Nari: "Sim."
+
+Sara: "Isso não era elogio."
+
+Nari: "Não precisava ser."
+
+Eles se separaram.
 
 Na manhã seguinte, Nari acordou com o rosto encostado no ombro de Sara.
 
 Sara estava atravessada na cama.
 
-Will estava de costas para as duas, ocupando uma área surpreendentemente pequena para alguém de seu tamanho.
+Will estava de costas para as duas e ocupava uma área surpreendentemente pequena para alguém do seu tamanho.
 
 Nari abriu os olhos.
 
 Nari: "Confirmado."
 
-Sara, ainda de olhos fechados:
-
-Sara: "Não quero saber."
+Sara, ainda de olhos fechados: "Não quero saber."
 
 Will: "Eu quero."
 
@@ -634,129 +920,245 @@ Sara: "Você já estava acordado?"
 
 Will: "Há alguns minutos."
 
-Nari: "E não disse nada?"
+Nari: "E ficou quieto?"
 
 Will: "Estava avaliando a situação."
 
-Nari percebeu o sorriso dele.
+Nari olhou para a posição dos três.
 
-Nari: "Você estava gostando da situação."
+Depois para ele.
 
-Will: "Essas coisas podem coexistir."
+Nari: "Avaliando."
 
-Sara pegou um travesseiro e o lançou contra ele.
+Will: "Com atenção."
 
-O travesseiro acertou o rosto de Will.
+Sara abriu o outro olho.
 
-Nada no pacto impediu.
+Sara: "Você estava gostando."
 
-Will retirou-o devagar.
+Will virou o rosto o suficiente para olhar para ela.
 
-Will: "Então travesseiros são permitidos."
+Will: "Não vejo por que eu deveria mentir sobre isso."
 
-Sara sorriu.
+Sara pegou um travesseiro.
 
-Sara: "Informação útil."
+Will percebeu tarde demais.
 
-Nari: "Aparentemente, o vínculo diferencia agressão física de travesseiros."
+O travesseiro acertou-o no rosto.
 
-Will: "Finalmente uma regra sensata."
+Nada no vínculo impediu.
+
+Will retirou o travesseiro devagar.
+
+Will: "Interessante."
+
+Sara: "O quê?"
+
+Will: "Travesseiros são permitidos."
+
+Sara pegou outro.
+
+Will: "Eu não precisava de confirmação imediata."
+
+Nari: "Então o vínculo não classifica isso como agressão física relevante."
+
+Sara: "Excelente."
+
+Will segurou o segundo travesseiro antes que ela lançasse.
+
+Sara puxou.
+
+Ele não soltou.
+
+Sara: "Will."
+
+Will: "Sara."
+
+Nari observou os dois por alguns segundos.
+
+Nari: "Isso também é informação útil."
+
+Os dois olharam para ela.
+
+Nari voltou a se deitar.
+
+Nari: "Continuem."
 
 ## Terceiro dia
 
-No terceiro dia, os três já haviam recuperado uma parcela considerável de suas condições.
+No terceiro dia, o equilíbrio de forças já começava a parecer menos ridículo.
 
-Sara caminhava com confiança novamente. Nari passava longos períodos estudando as marcas. Will recuperara energia suficiente para considerar que a tentativa de passagem se aproximava, embora ainda não tivesse aberto coisa alguma.
+Sara recuperara boa parte da coordenação e da confiança física. Nari conseguia sustentar análises longas sem precisar descansar. Will tinha energia suficiente para considerar a tentativa de passagem no fim do período que estimara.
 
-O vínculo, por sua vez, parecia empenhado em amadurecer mais rápido que todos eles.
+O vínculo também parecia ter se recuperado.
 
-Os vocativos conjugais tornaram-se frequentes.
+Infelizmente.
 
-Muito frequentes.
+Os vocativos conjugais tornaram-se mais frequentes.
 
-Sara discutia com Will sobre a energia necessária para a travessia quando aconteceu de novo.
+Não gentis.
 
-Sara: "Se você gastar tudo outra vez, querido, e desmaiar quando chegarmos..."
+Frequentes.
+
+Esse detalhe importava.
+
+O pacto não fazia ninguém ficar mais amável. Apenas insistia em embrulhar certas frases no tipo de intimidade que nenhum dos três havia escolhido usar.
+
+Sara discutia com Will sobre a travessia.
+
+Sara: "Se você gastar tudo de novo, querido, e cair inconsciente quando chegarmos..."
 
 Ela parou.
 
-Will: "Continue, amor."
-
-Will fechou os olhos.
-
-Nari riu.
+Will não disse nada.
 
 Sara apontou para ele.
 
-Sara: "Não ria."
+Sara: "Nem pense."
 
-Nari: "Não estou."
+Will: "Eu não fiz nada, amor."
 
-Sara: "Está sim."
+Will fechou a boca.
 
-Nari: "Estou sorrindo."
+Nari continuou olhando para as anotações.
 
-Sara: "É a mesma coisa."
+Nari: "A frequência aumentou."
 
-Nari: "Não é, querida."
+Sara virou-se para ela.
 
-Nari congelou.
+Sara: "Obrigada, querida. Eu não tinha percebido."
 
-Sara cruzou os braços.
+Nari ficou em silêncio.
 
-Sara: "Bem feito."
+Sara também.
 
-Will: "Essa conversa está ficando perigosamente adorável."
+Will baixou o rosto para esconder a expressão.
 
-As duas olharam para ele.
+Sara: "Você está sorrindo."
 
-Will: "Eu retiro o comentário."
+Will: "Não estou."
 
-Sara: "Não pode."
+Sara: "Está."
 
-Nari continuou tentando entender o fenômeno.
+Will: "É uma contração involuntária."
 
-Nari: "A magia não altera o conteúdo."
+Nari: "Tecnicamente possível."
 
-Sara: "Eu continuo podendo chamá-lo de idiota."
+Sara: "Não ajude."
 
-Will: "E eu agradeço por isso, querida."
+Mais tarde, Nari tentou uma abordagem formal.
 
-Sara apontou para ele.
+Nari: "Will God Stone, preciso que examine esta linha."
 
-Sara: "Está vendo?"
+Funcionou.
 
-Nari: "Ela parece corrigir apenas a relação expressa pela forma de tratamento."
+Nari fez uma anotação.
 
-Will: "Como se estivéssemos..."
+Nari: "Senhor God Stone, compare com a marca de Sara."
 
-Sara: "Casados."
+Funcionou outra vez.
 
-Will: "Não comece."
+Ela fez outra anotação.
 
-Sara: "Querido, estamos no terceiro dia."
+Sara: "Está tentando vencer a magia no cansaço?"
 
-Will fechou os olhos.
+Nari: "Estou delimitando o gatilho."
 
-Will: "Eu odeio essa magia."
+Will aproximou-se para olhar o desenho.
 
-Nari: "Isso não parece impedir que ela goste de você."
+Nari: "Meu amor, veja isto."
 
-Will: "Isso foi uma piada?"
+A caneta dela parou sobre o papel.
 
-Nari: "Talvez."
+Will olhou para ela.
 
-Sara: "Ela está evoluindo."
+Nari continuou olhando para o desenho.
 
-Nari: "Cuidado, amor."
+Will: "Você quer anotar ou eu anoto?"
 
-Sara começou a rir.
+Nari: "Não diga nada."
+
+Will: "Não disse."
+
+Sara, do outro lado da mesa: "Eu ouvi."
+
+Nari: "Você também não diga nada."
+
+Sara: "Nem pensei, querida."
+
+Sara fechou os olhos.
+
+Nari ergueu lentamente o rosto.
+
+Sara: "Eu odeio esta magia."
+
+Will: "Nesse ponto, querida, acho que ela já percebeu."
+
+Will respirou fundo pelo nariz.
+
+Sara: "Continue falando. Está indo muito bem."
+
+Will: "Prefiro não."
+
+O efeito não impedia insultos.
+
+Isso foi descoberto pouco depois.
+
+Sara: "Meu querido idiota, você colocou o cálculo errado nessa linha."
+
+Will olhou para o papel.
+
+Will: "Está certo."
+
+Sara: "Não está."
+
+Nari conferiu.
+
+Nari: "Ela está certa, amor."
+
+Nari apoiou a caneta na mesa com muito cuidado.
+
+Will corrigiu o cálculo.
+
+Will: "Pronto. Feliz, querida teimosa?"
+
+Sara encarou-o.
+
+Will também percebeu o que acabara de sair.
+
+Sara: "Querida teimosa."
+
+Will: "Eu pretendia dizer só teimosa."
+
+Sara: "Isso não melhora."
+
+Will: "Não estava tentando melhorar."
+
+Nari voltou às anotações.
+
+Nari: "A magia preserva o conteúdo hostil ou crítico e corrige apenas a forma relacional."
+
+Sara: "Então posso chamar meu marido de idiota, desde que faça isso com carinho involuntário."
+
+Will: "Parece justo."
+
+Sara: "Ninguém perguntou se era justo."
+
+Will: "Também parece consistente."
+
+Sara: "Isso foi pior."
 
 ### Fim do terceiro dia
 
-No final da tarde, os três voltaram à mesa onde haviam acumulado anotações sobre o pacto.
+Ao final da tarde, os três voltaram à mesa com tudo o que haviam aprendido.
 
-A marca de Will estava estável e semelhante a uma aliança. As marcas de Sara e Nari já não pareciam exclusivamente matrimoniais. A estrutura que Will reconhecia como servidão havia se integrado ao desenho original.
+A marca de Will estava estável e semelhante a uma aliança.
+
+As marcas de Sara e Nari já não podiam ser chamadas de puramente matrimoniais. A estrutura que Will reconhecia como servidão havia se integrado ao desenho original.
+
+Não era uma camada por cima.
+
+Era uma coisa só.
 
 Nari passou os dedos pelas linhas.
 
@@ -774,15 +1176,15 @@ Nari olhou para Will.
 
 Nari: "Repita exatamente o que declarou."
 
-Will pensou por um instante.
+Will não precisou pensar muito.
 
 Will: "Eu, Will God Stone, faço de você, Sara Iron Heart, minha serva. Você aceita?"
 
 Sara: "E eu respondi: sim, Will God Stone. Eu, Sara Iron Heart, aceito compartilhar minha alma com você."
 
-Nari: "Eu respondi da mesma forma."
+Nari: "Eu respondi da mesma maneira."
 
-Ela apontou para as marcas.
+Ela apontou para a marca.
 
 Nari: "Você colocou servidão no pacto."
 
@@ -790,11 +1192,17 @@ Will: "Escravidão."
 
 Sara virou o rosto para ele.
 
-Sara: "Isso realmente melhora sua posição."
+Sara: "Você realmente faz questão dessa palavra."
 
-Will: "Não estou tentando melhorar minha posição. Estou tentando ser preciso."
+Will: "Estou tentando ser preciso."
+
+Sara: "É uma precisão muito pouco favorável para você."
+
+Will: "Não estou concorrendo a eleição."
 
 Nari: "Escravidão, então."
+
+Will apontou para as marcas delas.
 
 Will: "E vocês colocaram união de almas."
 
@@ -808,105 +1216,91 @@ Will: "Querida, eu sei que para você..."
 
 Ele parou.
 
-Sara sorriu lentamente.
+Sara ficou olhando para ele.
 
-Sara: "Continue, amor."
+Will: "Não diga nada."
 
-Will: "Vocês estão começando a aproveitar isso demais."
+Sara: "Eu não preciso."
 
-Nari: "Não se distraia, querido."
+Nari: "Continuem."
 
-Nari fechou os olhos.
+Will voltou ao assunto.
 
-Nari: "Incrível."
+Will: "Para mim, era união de almas como mecanismo do contrato."
 
-Will começou a rir.
+Sara: "Para nós, era casamento."
 
-Nari apontou para ele.
-
-Nari: "Você também está preso nisso."
-
-Will: "Eu sei, amor."
-
-Silêncio.
-
-Sara caiu na gargalhada. Nari tentou manter a expressão séria e perdeu a batalha poucos segundos depois.
-
-Quando os três finalmente recuperaram alguma compostura, Nari voltou ao desenho.
-
-Nari: "Você declarou escravidão."
-
-Will: "Sim."
-
-Nari: "Nós declaramos casamento."
-
-Sara: "Sim."
-
-Will: "União de almas."
-
-Sara: "Você pode continuar tentando."
-
-Will: "Vou."
-
-Nari ignorou os dois.
-
-Nari: "A magia aceitou ambas as declarações."
-
-Will deixou o humor diminuir.
+Nari: "E a magia aceitou ambas as declarações."
 
 Will: "Aceitou."
 
-Sara olhou para sua marca.
+Nari tocou a própria marca.
 
-Sara: "E agora ela contém elementos dos dois."
+Nari: "Ela não rejeitou a sua interpretação."
 
-Nari: "Exatamente."
+Sara: "Nem a nossa."
 
-Will passou o polegar sobre a própria marca.
+Will passou o polegar sobre a marca em sua mão.
 
-Will: "E está impondo comportamento conjugal."
+Will: "E agora temos símbolos dos dois sistemas."
 
-Sara: "Colocando nós três na mesma cama."
+Nari: "Além dos efeitos."
 
-Nari: "Alterando vocativos."
+Sara: "A cama."
 
-Will: "Impedindo agressão física entre nós."
+Will: "Os vocativos."
 
-Sara: "Mas não travesseiros."
+Nari: "A restrição contra agressão física."
 
-Will: "Regra importante."
+Sara: "Exceto travesseiros."
 
-Nari respirou fundo.
+Will: "Essa exceção continua suspeitamente específica."
 
-Nari: "E se ela não escolheu entre os contratos?"
+Sara: "Quer testar outra vez?"
 
-Sara olhou para ela.
+Will: "Não."
 
-Will também.
+Nari ignorou os dois.
 
-Nari: "E se simplesmente aceitou os dois?"
+Nari: "E se a magia não escolheu entre os contratos?"
+
+O silêncio mudou.
+
+Sara deixou de olhar para Will.
+
+Will deixou de mexer na própria marca.
+
+Nari continuou:
+
+Nari: "E se ela simplesmente aceitou os dois?"
 
 Sara: "Servidão..."
 
 Will: "Escravidão."
 
-Sara: "Querido, cale a boca por cinco segundos."
+Sara fechou os olhos.
 
-Will abriu a boca, pensou melhor e sorriu.
+Sara: "Querido, se você me interromper mais uma vez..."
+
+A palavra saiu macia demais para o tom da frase.
+
+Will abriu a boca.
+
+Sara ergueu um dedo.
+
+Will fechou de novo.
 
 Sara: "...ao casamento."
 
-O sorriso dele diminuiu aos poucos.
-
-Nari observou novamente as marcas.
+Nari olhou para as três marcas.
 
 Nari: "Não servas de Will."
 
 Will: "Nem simplesmente esposas segundo as regras demoníacas."
 
-Sara: "Nós três presos ao próprio vínculo."
+Sara: "Nós três submetidos ao próprio vínculo."
 
-Will permaneceu alguns segundos em silêncio.
+Will permaneceu em silêncio por alguns segundos.
 
 Will: "Escravos do casamento."
 
@@ -914,19 +1308,19 @@ Sara fez uma careta.
 
 Sara: "Essa frase é horrível."
 
-Nari: "E explica coisas demais."
+Nari: "E explica muita coisa."
 
-Will olhou de Sara para Nari.
+Will olhou para as duas.
 
-Will: "Então eu tentei conseguir duas servas temporárias..."
+Will: "Eu tentei conseguir duas servas temporárias."
 
-Sara: "Nós tentamos conseguir um casamento arranjado administrável..."
+Sara: "Nós tentamos aceitar um casamento arranjado administrável."
 
-Nari: "...e criamos uma instituição mágica com opiniões."
+Nari: "E a magia parece ter entendido que todos nós deveríamos obedecer ao casamento."
 
-Os três ficaram em silêncio.
+Silêncio.
 
-Will olhou para a marca em sua mão.
+Will olhou para a marca.
 
 Depois para Sara.
 
@@ -938,22 +1332,24 @@ Ele parou.
 
 Sara ergueu as sobrancelhas.
 
-Nari começou a sorrir.
+Nari fechou os olhos por um instante.
 
 Will: "Eu não ia dizer isso."
 
-Sara: "Claro que não, querido."
+Sara: "Nós sabemos, querido."
+
+Ela ficou absolutamente imóvel depois da última palavra.
 
 Nari: "Naturalmente, amor."
 
-Will apoiou a testa na mão.
+Nari pousou a testa sobre a mão.
 
-Sara começou a rir.
+Will olhou para as duas.
 
-Nari acompanhou.
+Nenhum deles riu.
 
-Alguns segundos depois, contra o próprio bom senso, Will também estava rindo.
+Isso tornou a situação consideravelmente mais difícil de ignorar.
 
-O problema não estava resolvido.
+No fim do terceiro dia, o problema continuava sem solução.
 
-Mas, ao fim do terceiro dia, os três finalmente sabiam qual era o problema.
+Mas agora tinha um nome.
