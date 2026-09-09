@@ -4,7 +4,7 @@ Status: FICHA EM CONSTRUÇÃO. Documento operacional, não substitui a ficha apr
 
 ## Ponto de retomada
 
-Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Etapa atual: Fichas, começando por Will God Stone. O Diretor está definindo seus Saberes. A última correção acrescentou regeneração ao domínio da Madeira e estabeleceu que Will era conhecido como Santo da Medicina em seu mundo de origem. Prosseguir com Saberes, sem repetir perguntas respondidas. Não iniciar Ficção. O mundo será construído durante a preparação, como solicitado.
+Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Etapa atual: Fichas, começando por Will God Stone. O Diretor definiu sua identidade como médico em primeiro lugar, lutador, cultivador e, por último, mago. Autorizou desenvolver amplamente seus Saberes médicos de nível Santo. Apresentar a proposta consolidada para revisão, sem repetir perguntas respondidas. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
 
 ## Núcleo central
 
@@ -36,7 +36,25 @@ Raízes espirituais: Fogo, Gelo e Madeira.
 - Arte do Dragão: técnica de combate desarmado de altíssimo nível, capaz de criar escamas e garras. É o método de combate próximo mais polido e treinado de Will e sua principal especialidade marcial.
 - Alquimia: transforma materiais, extrai sua energia e a condensa em pílulas. Os efeitos dependem dos materiais utilizados. As três raízes permitem sua prática. Receitas, recursos e efeitos particulares permanecem abertos.
 
-Will era conhecido como Santo da Medicina em seu mundo de origem. Esse reconhecimento integra sua história e será desenvolvido nos Saberes. Não inferir onisciência médica, cura ilimitada ou técnicas específicas ainda não estabelecidas.
+Will era conhecido como Santo da Medicina em seu mundo de origem. Esse reconhecimento integra sua história e será desenvolvido nos Saberes.
+
+### Identidade e Saberes médicos
+
+O Diretor estabeleceu expressamente que Will é médico em primeiro lugar, lutador, cultivador e, por último, mago. Essa é sua identidade e orientação de atuação, não uma proibição de usar poderes nem uma ordem para a IA decidir sua vontade fora da delegação.
+
+Medicina de nível Santo: domínio abrangente e extraordinariamente desenvolvido da prática médica de seu mundo de origem. O Diretor autorizou incluir amplamente os conhecimentos médicos pertinentes, sem exigir uma lista exaustiva de técnicas. Núcleo estabelecido: remédios, identificação de doenças, acupuntura e tratamento.
+
+Proposta de organização dos Saberes, sujeita à revisão consolidada da ficha:
+- Diagnóstico e avaliação: anatomia, fisiologia, sinais e sintomas, exame clínico, identificação de doenças e lesões, avaliação de gravidade, reconhecimento de intoxicações e acompanhamento da evolução do paciente.
+- Tratamento clínico: cuidados de doenças agudas e crônicas, controle de sintomas, prevenção de complicações, recuperação e acompanhamento continuado.
+- Traumatologia e procedimentos: primeiros socorros, estabilização de feridos, controle de hemorragias, tratamento de feridas, fraturas, queimaduras, lesões internas e procedimentos cirúrgicos compatíveis com sua formação.
+- Acupuntura e medicina do cultivo: pontos e canais de energia, avaliação da circulação energética, efeitos do cultivo sobre o organismo, desequilíbrios do Dan e lesões associadas a técnicas de cultivo, conforme a fisiologia que será desenvolvida para o mundo de origem.
+- Farmacologia e recursos medicinais: identificação e propriedades de ervas, minerais e outros materiais, preparação e administração de remédios, dosagens, interações, toxicidade e antídotos.
+- Alquimia medicinal: seleção, preparo e refinamento de materiais, extração e condensação de energia em pílulas, avaliação de propriedades e riscos. Os efeitos dependem dos materiais utilizados; não criar receitas ou recursos específicos sem necessidade autoral.
+- Recuperação e regeneração: integração de conhecimentos médicos com o domínio da Madeira, acompanhamento da cicatrização, recuperação funcional e tratamento de danos físicos conforme as capacidades estabelecidas.
+- Saúde preventiva e conhecimento amplo do organismo: higiene, alimentação, nutrição, prevenção de doenças, reabilitação e cuidados de longo prazo.
+
+A amplitude representa competência profissional de ápice, não onisciência, conhecimento automático das espécies do novo mundo, diagnóstico infalível, cura garantida de qualquer condição ou poder de ressuscitar. Não impor fraquezas artificiais, custos arbitrários ou incapacidade para compensar seu nível. Resultados específicos serão determinados pela autoria e pelas circunstâncias estabelecidas.
 
 ### Personalidade e história
 
@@ -48,4 +66,4 @@ Teve várias companheiras de Dao, com quem compartilhou períodos de cultivo e j
 
 ## Pontos abertos
 
-Definir os Saberes de Will, especialmente medicina e demais conhecimentos que o Diretor desejar. Depois, apresentar ficha consolidada para revisão e aprovação, sem exigir biografia exaustiva. Prosseguir individualmente para SA e NA e então para as etapas posteriores do pipeline. Não criar acontecimentos, resultados de encontros, identidades ocultas ou relações sem autoria correspondente.
+Apresentar a ficha consolidada de Will para revisão e aprovação, sem exigir biografia exaustiva. Outros Saberes podem permanecer abertos. Depois, prosseguir individualmente para SA e NA e então para as etapas posteriores do pipeline. Não criar acontecimentos, resultados de encontros, identidades ocultas ou relações sem autoria correspondente.
