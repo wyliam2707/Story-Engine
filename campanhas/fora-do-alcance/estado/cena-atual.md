@@ -4,21 +4,23 @@ STATUS: EM EXECUÇÃO. Capítulo 001 em andamento.
 
 ## Âncora
 
-Nova York, Manhattan, tarde de data ficcional não fixada. Mesas externas de um café em uma rua próxima ao edifício comercial onde Emma foi atacada. Arthur está sentado, com uma xícara sobre a mesa, e continua junto de Emma, que foi amparada nos braços e no colo dele. Ela está em forma humana, consciente e bem melhor após a cura leve realizada por Arthur. Recuperou coordenação, lucidez e alívio da dor aguda. Pode firmar o corpo e falar normalmente. Não foi estabelecido que se afastou de Arthur ou saiu do colo. Pessoas comuns estão nas proximidades.
+Nova York, Manhattan, tarde de data ficcional não fixada. Mesas externas de um café em uma rua próxima ao edifício comercial onde Emma foi atacada. Arthur permanece sentado à mesa, com uma xícara de café diante de si. Emma, em forma humana e recuperada da dor aguda e da desorientação pela cura leve de Arthur, saiu do colo dele e se acomodou na cadeira ao lado. Pode firmar o corpo, pensar e falar normalmente. Pessoas comuns estão nas proximidades.
 
-Dois seguranças de Shaw reconheceram Emma e se aproximaram pelo passeio. Um parou a alguns passos, mantendo as mãos visíveis; o outro ficou um pouco atrás. O primeiro exigiu que ela os acompanhasse. Emma recusou e advertiu que pensassem antes de insistir. O homem não avançou imediatamente. A perseguição permanece ativa, sem captura, combate ou resolução.
+Dois seguranças de Shaw recuaram após a ameaça condicional de Arthur e permanecem nas proximidades da esquina, mantendo o café à vista. Um comunicou por rádio que haviam localizado Emma, mas que a abordagem estava interrompida. Nenhuma resposta do rádio foi ouvida da mesa. A perseguição permanece ativa, sem captura, combate ou ferimentos produzidos pela ameaça.
 
 ## Último fato válido
 
-Arthur se apresentou como Arthur, perguntou se Emma estava bem e aplicou uma cura leve de seu Domínio de Realidade. Emma sentiu recuperação imediata e apresentou-se como Emma Frost. Perguntou o que ele havia feito. Os seguranças interromperam antes da resposta; Emma recusou acompanhá-los. A última fala é `Não. E sugiro que pensem muito bem antes de insistir.`
+Arthur advertiu os dois homens de que, se se aproximassem, uma sucessão de causalidades poderia fazê-los escorregar, bater numa mesa e até disparar contra a própria perna. O primeiro exigiu que ele se afastasse de Emma; o segundo preferiu evitar uma abordagem naquele local. Diante da recuperação de Emma, da incerteza sobre Arthur e da presença de civis, os homens recuaram. A condição anunciada não precisou ser acionada.
+
+Emma agradeceu por Arthur tê-la amparado e curado, chamou sua ameaça de curiosamente específica e perguntou novamente o que ele havia feito com ela e se falava sério sobre controlar causalidade. A última fala é: `Minha pergunta continua de pé, Arthur. O que exatamente você fez comigo? E você estava falando sério sobre controlar causalidade?`
 
 ## Primeiro ponto aberto
 
-A próxima resposta ou ação de Arthur pertence ao Diretor. A pergunta de Emma sobre a cura permanece sem resposta. Emma e os seguranças conservam suas autorias e intenções próprias. Arthur não recebeu explicação sobre Shaw, o dispositivo ou a tentativa telepática. Emma não conhece a natureza nem o alcance do Domínio de Realidade. Não houve decisão de Arthur sobre a perseguição, fuga conjunta, convite ou compromisso romântico.
+A resposta ou próxima ação material de Arthur pertence ao Diretor. Emma e os seguranças conservam suas autorias e intenções próprias. Arthur não recebeu explicação sobre Shaw, o dispositivo ou a tentativa telepática. Emma desconhece a natureza e o alcance do Domínio de Realidade, embora tenha observado sua cura, a ausência de acesso telepático e ouvido a ameaça de causalidade. Não houve decisão de Arthur sobre fuga conjunta, convite, compromisso ou confronto adicional.
 
 ## Limite
 
-A autorização para apresentação e cura foi executada. Aguardar nova direção, consulta ou delegação do Diretor para a próxima vontade material de Arthur. A execução ordinária das Cadeiras pertinentes permanece disponível dentro do escopo. Não antecipar resultado da perseguição, atribuir conhecimento de bastidor ou criar novo objetivo para Arthur.
+A autorização para a ameaça e a continuidade imediata foi executada. Aguardar nova direção, consulta ou delegação do Diretor para a próxima vontade material de Arthur. Não antecipar resultado da perseguição, atribuir conhecimento de bastidor ou criar novo objetivo para Arthur. A Cadeira de Emma e os NPCs incidentais continuam disponíveis para decisões legítimas dentro do escopo.
 
 ## Referências
 
