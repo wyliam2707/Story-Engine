@@ -87,7 +87,7 @@ A ligação continuava estável.
 
 Ele voltou ao trabalho.
 
-*Depois eu me preocupo com a reserva.*
+**Will, pensa -** *Depois eu me preocupo com a reserva.*
 
 Era uma decisão que teria criticado em um discípulo.
 
@@ -189,7 +189,7 @@ Sua reserva continuava caindo.
 
 Quando percebeu o quanto restava, soltou uma respiração curta pelo nariz.
 
-*Isso vai doer depois.*
+**Will, pensa -** *Isso vai doer depois.*
 
 Não fisicamente.
 
@@ -279,11 +279,11 @@ Havia passado tempo demais tratando carne, energia e alma para pensar em beleza.
 
 Agora pensava.
 
-*Bonitas.*
+**Will, pensa -** *Bonitas.*
 
 A avaliação pareceu insuficiente.
 
-*Muito bonitas.*
+**Will, pensa -** *Muito bonitas.*
 
 Ele deixou os olhos descerem.
 
@@ -323,7 +323,7 @@ Castidade involuntária não estava entre elas.
 
 Seu olhar demorou.
 
-*O universo tem um senso de compensação muito peculiar.*
+**Will, pensa -** *O universo tem um senso de compensação muito peculiar.*
 
 Ele quase sorriu.
 
@@ -359,7 +359,7 @@ Muito.
 
 Will fechou os olhos.
 
-*Recuperar primeiro.*
+**Will, pensa -** *Recuperar primeiro.*
 
 O Éter respondeu à meditação com sua habitual generosidade.
 
