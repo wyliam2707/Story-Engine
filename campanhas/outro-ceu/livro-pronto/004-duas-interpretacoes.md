@@ -35,7 +35,7 @@ A ponta dos dedos.
 
 Até o cabelo sob a nuca incomodava de uma maneira quase reconfortante.
 
-*Ele conseguiu.*
+**Sara, pensa -** *Ele conseguiu.*
 
 A constatação chegou antes que abrisse os olhos.
 
@@ -65,7 +65,7 @@ Casamento.
 
 Sara permaneceu alguns segundos olhando para o teto.
 
-*Casamento.*
+**Sara, pensa -** *Casamento.*
 
 Aquilo continuava sendo uma palavra estranha para associar às últimas horas de sua existência consciente. Não porque a instituição lhe fosse estranha. Muito pelo contrário.
 
@@ -213,13 +213,13 @@ Olhou para uma.
 
 Depois para a outra.
 
-*Não.*
+**Sara, pensa -** *Não.*
 
 Voltou a olhar para Will.
 
 Ele continuava dormindo.
 
-*Não.*
+**Sara, pensa -** *Não.*
 
 A promessa retornou com uma clareza impecável.
 
