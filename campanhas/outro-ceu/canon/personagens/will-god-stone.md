@@ -19,27 +19,27 @@ Conhece a própria força e prefere preservar vidas e evitar destruição sem ca
 
 Os Saberes representam áreas amplas de conhecimento e prática, não listas fechadas de procedimentos. Aplicações pertinentes podem decorrer naturalmente da formação estabelecida, sem conceder onisciência ou inventar capacidades de outro domínio.
 
-### Medicina
+### Medicina [Único]
 
 Domínio de nível Santo, abrangente e extraordinariamente desenvolvido em seu mundo de origem. Inclui diagnóstico, anatomia, fisiologia, identificação de doenças, avaliação de sintomas e lesões, tratamentos clínicos, acupuntura, cirurgia, traumatologia, primeiros socorros, estabilização, hemorragias, fraturas, queimaduras, lesões internas, remédios, antídotos, prevenção, recuperação, reabilitação e cuidados de longo prazo. Inclui medicina do cultivo, pontos e canais de energia, circulação energética, Dan e lesões relacionadas ao cultivo, conforme a fisiologia que será estabelecida para o mundo de origem. É capaz de integrar seu conhecimento médico à regeneração da Madeira e à alquimia medicinal. A amplitude do Saber não estabelece conhecimento automático de toda espécie ou doença ainda desconhecida, nem determina antecipadamente o resultado de todo tratamento.
 
-### Alquimia
+### Alquimia [Excelente]
 
 Conhecimento dos processos de transformação, extração, refinamento e condensação de materiais e energia para criar pílulas e outros preparados. Inclui seleção de materiais, propriedades, dosagens, toxicidade, preparo e avaliação dos efeitos. Os efeitos dependem dos materiais utilizados.
 
-### Herborismo
+### Herborismo [Excelente]
 
 Identificação, cultivo, coleta, conservação e conhecimento das propriedades de plantas e materiais naturais, incluindo seus usos medicinais e alquímicos.
 
-### Técnicas de Cultivo
+### Técnicas de Cultivo [Excelente]
 
 Absorção, refinamento, circulação e armazenamento de energia, desenvolvimento do Dan, refinamento corporal e progressão do cultivo.
 
-### Corpo do Dragão
+### Corpo do Dragão [Único]
 
 Conhecimento e domínio do método de refinamento corporal e da arte marcial desarmada de Will, desenvolvidos até o nível Santo. A Arte do Dragão é sua principal especialidade de combate próximo.
 
-### Negociação e Diplomacia
+### Negociação e Diplomacia [Padrão]
 
 Experiência em diálogo, mediação, compreensão de interesses, negociação de acordos e resolução de divergências. A disposição para negociar decorre de sua personalidade e experiência, não de incapacidade de confrontar.
 
@@ -61,21 +61,21 @@ Raízes espirituais: Fogo, Gelo e Madeira.
 
 ### Poderes e técnicas
 
-**Compreensão:** permite compreender qualquer idioma falado. Não foi estabelecida leitura de pensamentos, acesso a memórias, leitura universal de escrita ou capacidade automática de falar todos os idiomas.
+**Compreensão [Padrão]:** permite compreender qualquer idioma falado. Não foi estabelecida leitura de pensamentos, acesso a memórias, leitura universal de escrita ou capacidade automática de falar todos os idiomas.
 
-**Lótus de Fogo:** permite criar, destruir, manipular e moldar fogo.
+**Lótus de Fogo [Excepcional]:** permite criar, destruir, manipular e moldar fogo.
 
-**Lótus de Gelo:** permite criar, destruir, manipular e moldar gelo.
+**Lótus de Gelo [Excepcional]:** permite criar, destruir, manipular e moldar gelo.
 
-**Lótus de Madeira:** permite criar, destruir, manipular e moldar madeira e plantas. Também permite regeneração.
+**Lótus de Madeira [Excepcional]:** permite criar, destruir, manipular e moldar madeira e plantas. Também permite regeneração.
 
-**Arte do Dragão:** técnica de combate desarmado de altíssimo nível, capaz de criar escamas e garras. É o método de combate próximo mais polido e treinado de Will.
+**Arte do Dragão [Único]:** técnica de combate desarmado de altíssimo nível, capaz de criar escamas e garras. É o método de combate próximo mais polido e treinado de Will.
 
-**Alquimia:** permite transformar materiais, extrair sua energia e condensá-la em pílulas. Os efeitos dependem dos materiais utilizados. As três raízes espirituais fundamentam sua prática alquímica.
+**Alquimia [Excelente]:** permite transformar materiais, extrair sua energia e condensá-la em pílulas. Os efeitos dependem dos materiais utilizados. As três raízes espirituais fundamentam sua prática alquímica.
 
 ### Graduação e meios
 
-A escala Santo pertence ao cultivo do mundo de origem e não substitui as graduações do Story Engine. A intensidade de cada poder será alinhada individualmente quando útil, usando Padrão, Excelente, Excepcional e Único, sem atribuição automática de Único a todas as capacidades. Nome, natureza e descrição do poder definem seu escopo antes da comparação de intensidade. A ausência de graduação individual ainda não reduz nem altera as capacidades aprovadas.
+As graduações individuais acima foram definidas pelo Diretor. A escala Santo pertence ao cultivo do mundo de origem e não substitui as graduações do Story Engine. Nome, natureza e descrição de cada capacidade definem seu escopo antes da comparação de intensidade. As graduações não constituem um nível geral, orçamento de pontos ou mecanismo universal de testes. A graduação Padrão não significa ausência de capacidade extraordinária, e o grau Único não acrescenta poderes de outro domínio. O Corpo do Dragão e a Arte do Dragão são aspectos relacionados da especialidade corporal e marcial de Will, sem duplicação artificial de capacidades.
 
 Nenhum equipamento extraordinário ou recurso externo específico foi estabelecido. Não presumir perda de poderes, ferimentos ou recursos em decorrência da travessia sem definição autoral.
 
