@@ -1,22 +1,32 @@
 # Pendências e processos
 
-Status: EM EXECUÇÃO, primeiro capítulo fechado na versão dos três POVs.
+Status: EM EXECUÇÃO, capítulo 2 fechado.
 
-## Encontro no Éter
+## Éter e passagem
 
-- Comunicação mental: concluída separadamente com Sara e Nari. Ambas responderam e firmaram acordos. Will recebeu seus nomes, mas não a história da emboscada, as posições políticas ou o nome Elder.
-- Junções de almas: duas ligações estabelecidas e marcas surgidas nas mãos das princesas. Will acredita em servidão revogável; cada princesa acredita ter aceitado casamento para sobreviver e permitir que a outra fique livre. Nenhuma princesa sabe do acordo da outra. Will pretende revogar ambos depois da travessia. A terceira interpretação mágica e seus efeitos completos continuam desconhecidos. Referência: `../canon/mundo/juncao-de-almas.md`.
-- Condição das princesas: extrema, com corpos físicos quase sem integridade. A residência impede exposição direta à deterioração etérea. Nenhum tratamento reparador, cura ou recuperação estabelecido.
-- Avaliação e tratamento: Will pretende reconstruir os corpos e lidar com o desgaste das almas. Método concreto, resultados e decisões materiais posteriores permanecem abertos.
-- Possível passagem: as duas ligações oferecem a Will referências que pretende utilizar para tentar localizar a origem das recém-chegadas. Abertura, método, destino e resultado ainda não foram executados.
+- Reconstrução: concluída. Will restaurou os corpos de Sara e Nari com medicina, recursos do Pagoda do Céu e grande quantidade de energia de Madeira.
+- Recuperação: as duas recuperaram bastante força ao longo de três dias. Will recuperou lentamente sua reserva no Éter. Nenhuma perda permanente de cultivo ou poder foi estabelecida.
+- Possível passagem: Will pretende usar as junções como referências para localizar o mundo natal das princesas. Estimou pelo menos três dias para recuperar energia suficiente. O intervalo passou, mas a abertura ainda não foi tentada.
+- Destino: o mundo natal das princesas ainda não foi alcançado. Will continua sem conhecer o nome Elder ou as posições políticas de Sara e Nari.
 - Relíquia das princesas: transporte ao Éter estabelecido; estado e funcionamento posterior permanecem abertos.
+
+## Junção híbrida
+
+- O mal-entendido foi descoberto: Will acreditava em contratos de servidão revogáveis; Sara e Nari acreditavam em casamento.
+- Cada princesa sabe que a outra também está vinculada.
+- Will possui agora uma marca semelhante a aliança; as marcas das princesas incorporaram sinais semelhantes a servidão.
+- Dormir separados termina com os três reunidos na mesma cama.
+- Certos vocativos são corrigidos involuntariamente para formas conjugais.
+- Agressão física direta e tentativa de matar um ao outro são restringidas pelo pacto; não há obediência geral ou controle emocional estabelecido.
+- Ao fim do terceiro dia, os três formularam a hipótese de que a magia somou as duas estruturas, criando “servidão ao casamento” ou “escravos do casamento”.
+- Funcionamento completo, novos efeitos, limites, método de separação e eventual possibilidade de desfazer o vínculo permanecem abertos. Não inventar efeitos adicionais automaticamente.
 
 ## Contexto político
 
-A operação da facção favorável à guerra ocorreu conforme `../canon/mundo/antecedentes-do-encontro.md`. Sua cadeia de comando, os conhecimentos individuais, os sobreviventes adicionais, as reações do Conclave e dos três reinos e qualquer declaração posterior de guerra não foram estabelecidos. Não registrar intenção de um governo como compromisso confirmado sem autoria.
+A operação da facção favorável à guerra ocorreu conforme `../canon/mundo/antecedentes-do-encontro.md`. Sua cadeia de comando, conhecimentos individuais, sobreviventes adicionais, reações do Conclave e dos três reinos e qualquer declaração posterior de guerra não foram estabelecidos.
 
 ## Autoria e continuidade
 
-O prólogo e o primeiro capítulo dos três POVs estão fechados. A versão anterior do capítulo, com diálogos e fatos substituídos pelo Diretor, não constitui Ficção válida. A Mesa está aberta para o tratamento e as ações seguintes. Novas propostas seguem Mesa CICLO OBRIGATÓRIO, sem consulta a cada frase de execução já autorizada. A vontade de Will pertence ao Diretor; Sara e Nari têm Cadeiras independentes. Não criar promessas, prazos, romances, recuperações, revelações ou planos novos para preencher este arquivo.
+Prólogo, capítulo 1 e capítulo 2 estão fechados. A Mesa volta a abrir no fim do terceiro dia, antes de qualquer tentativa de passagem. A vontade de Will pertence ao Diretor; Sara e Nari têm Cadeiras independentes. Novas propostas materiais seguem Mesa CICLO OBRIGATÓRIO, sem microconsultas dentro de uma execução já autorizada.
 
-Referências: `cena-atual.md`, `../livro/001-um-nome-no-vazio.md`, `../canon/direcao.md` e `../operacao.md`.
+Referências: `cena-atual.md`, `../livro/002-tres-dias.md`, `../canon/mundo/juncao-de-almas.md`, `../canon/direcao.md` e `../operacao.md`.
