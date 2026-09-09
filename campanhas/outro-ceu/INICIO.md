@@ -16,7 +16,7 @@ O tom combina maravilhamento diante do desconhecido, humor natural e consequênc
 
 ## Personagens centrais
 
-Núcleo aprovado: Will God Stone, SA e NA. Will é o mago/cultivador protagonista. SA e NA são conhecidas, não irmãs, e ambas princesas de um reino demoníaco. A designação demoníaco não estabelece ligação com inferno. As fichas individuais estão em preparação; não foram aprovadas integralmente nem receberam atribuições de autoria.
+Núcleo aprovado: Will God Stone, SA e NA. Will é o mago/cultivador protagonista, cuja ficha está aprovada em `canon/personagens/will-god-stone.md`. SA e NA são conhecidas, não irmãs, e ambas princesas de um reino demoníaco. A designação demoníaco não estabelece ligação com inferno. Suas fichas individuais ainda estão em preparação. As atribuições de autoria ainda não foram definidas.
 
 ## Políticas e módulos
 
@@ -31,10 +31,10 @@ Obra 100% autoral. Não importar personagens, fatos, poderes ou regras de outras
 
 ## Mapa das fontes
 
-As fontes de Direção, personagens, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `operacao.md` preserva a construção em andamento e o ponto de retomada, sem substituir o cânone. `livro/` será ativado com a primeira Ficção.
+A ficha aprovada de Will está em `canon/personagens/will-god-stone.md`. As demais fontes de Direção, personagens, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `operacao.md` preserva a construção em andamento e o ponto de retomada, sem substituir o cânone. `livro/` será ativado com a primeira Ficção.
 
 ## Retomada
 
-Etapa atual: Fichas, começando por Will God Stone. Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Consultar `operacao.md` para o material detalhado, as correções e o ponto aberto dos Saberes. Nenhuma Ficção foi iniciada. O mundo será construído durante a preparação, conforme solicitação do Diretor.
+Etapa atual: Fichas. Will God Stone possui ficha aprovada. SA e NA ainda serão construídas individualmente. O Diretor está alinhando o uso de graduações nos poderes; consultar `operacao.md` para o ponto aberto. Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Nenhuma Ficção foi iniciada. O mundo será construído durante a preparação, conforme solicitação do Diretor.
 
-Seguir as normas vigentes de `regras-basicas/`, especialmente os arquivos 10, 16, 24 e 25. Não transformar elementos provisórios em fatos adicionais, nem iniciar a primeira cena antes da preparação e autorização correspondentes.
+Seguir as normas vigentes de `regras-basicas/`, especialmente os arquivos 04, 10, 16, 24 e 25. Não transformar elementos provisórios em fatos adicionais, nem iniciar a primeira cena antes da preparação e autorização correspondentes.
