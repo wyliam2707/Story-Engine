@@ -4,7 +4,7 @@ Status: PREPARAÇÃO EM ANDAMENTO. Documento operacional, não constitui Ficçã
 
 ## Ponto de retomada
 
-Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. Will, Sana e NA possuem fichas aprovadas e persistidas. O Diretor escolheu desenvolver o mundo antes de retomar Autoridades, Cadeiras e Executores. Respeitar essa ordem local e não redirecionar para a etapa anterior. A etapa atual é a construção progressiva de Elder. Os quatro povos centrais já foram apresentados: humanos, elfos, anões e demônios. O último elemento estabelecido foi a aliança dos reinos humanos, élficos e anões para conquistar terras demoníacas, com objetivos próprios e propósito reservado aos demônios. Continuar o mundo conforme a direção do Diretor. Não iniciar Ficção.
+Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. Will, Sana e NA possuem fichas aprovadas e persistidas. O Diretor escolheu desenvolver o mundo antes de retomar Autoridades, Cadeiras e Executores. Respeitar essa ordem local e não redirecionar para a etapa anterior. A etapa atual é a construção progressiva de Elder. O último elemento estabelecido foi a estrutura do Conclave: reinado formado pelas Casas Iron Heart e Blood Heart, juntamente com um Senado de 40 representantes, um por família demoníaca mais poderosa. Continuar a definição do governo conforme o Diretor. Não iniciar Ficção.
 
 Fontes canônicas primárias:
 - `canon/personagens/will-god-stone.md`
@@ -13,6 +13,7 @@ Fontes canônicas primárias:
 - `canon/mundo/demonios.md`
 - `canon/mundo/elder.md`
 - `canon/mundo/alianca-dos-tres-reinos.md`
+- `canon/mundo/conclave.md`
 
 Consultar as fontes primárias para fatos estabelecidos, sem duplicar fichas ou criar fontes concorrentes.
 
@@ -30,9 +31,11 @@ A fonte primária demoníaca é `canon/mundo/demonios.md`. Demônios vivem quase
 
 A fonte `canon/mundo/alianca-dos-tres-reinos.md` registra a aliança humana, élfica e anã para conquistar terras demoníacas, mantendo esse objetivo reservado aos demônios. Humanos buscam expansão territorial, influência e recursos; elfos buscam combater a influência mágica que consideram ofensiva à natureza e proteger seus interesses territoriais; anões buscam acesso e controle econômico das minas e recursos. A face pública proposta envolve defesa regional, estabilidade, rotas, comércio e entendimento. As lideranças, cronologia, instituições, preparativos, ações diplomáticas concretas, plano militar, repartição e momento de eventual ofensiva permanecem abertos. Não transformar objetivo em guerra já iniciada ou vitória predeterminada. Preservar o conhecimento individual, a capacidade de suspeita e reação dos demônios e os interesses divergentes dos aliados.
 
+A fonte `canon/mundo/conclave.md` estabelece que o Conclave é a forma de reinado demoníaca. As Casas Iron Heart e Blood Heart formam o governo juntamente com um Senado de 40 representantes, um de cada uma das 40 famílias mais poderosas. A divisão de poder, governantes atuais, número de rainhas, regras de sucessão, critérios das famílias e competências do Senado permanecem abertos. Não atribuir automaticamente NA à Casa Blood Heart, nem presumir que as Casas governantes integrem ou não as 40 famílias. O próximo ponto pode ser a estrutura do reinado e o processo de sucessão, conforme escolha do Diretor.
+
 Sana possui Forma Demoníaca [Excepcional] e Manipulação de Trevas [Padrão]. NA possui Manipulação de Energia Bruta [Excepcional], associada à Magia do Caos, e Forma Demoníaca [Padrão]. Ambas têm Força, Velocidade e Resistência [Excelente]. Sua escala comparativa é 16 diante de Will 64, sem equivalência automática entre cultivo e graduações.
 
-O Conclave, as Casas, a sucessão, a organização do reino e a causa da reprodução rara permanecem abertos. Não inventar rivalidade obrigatória entre as princesas, parentesco, regras de casamento, infertilidade individual ou consequências sociais inevitáveis. Nomes e localização exata dos reinos de Elder permanecem abertos. Não transformar interesses coletivos em obrigação individual nem criar acontecimentos, causas históricas ou ameaças na Ruptura sem autoria.
+A causa da reprodução rara permanece aberta. Não inventar rivalidade obrigatória entre as princesas, parentesco, regras de casamento, infertilidade individual ou consequências sociais inevitáveis. Nomes e localização exata dos reinos de Elder permanecem abertos. Não transformar interesses coletivos em obrigação individual nem criar acontecimentos, causas históricas ou ameaças na Ruptura sem autoria.
 
 ## Próxima etapa
 
