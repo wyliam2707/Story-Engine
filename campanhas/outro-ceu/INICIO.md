@@ -1,29 +1,33 @@
 # Outro Céu
 
-STATUS: EM PREPARAÇÃO
+STATUS: PRONTA
 
 ## Proposta curta
 
-Uma história 100% autoral em que Will God Stone, mago/cultivador de outro mundo, é transportado após sua Tribulação do Céu e encontra duas princesas demoníacas feridas, Sara Iron Heart e Nari Bood Heart. O encontro coloca três desconhecidos diante de uma situação que pode mudar suas vidas, enquanto Will precisa compreender o lugar ao qual chegou, suas regras e as pessoas que o habitam.
-
-A história acompanha o desenvolvimento desse encontro e a descoberta do novo mundo, permitindo que relações, objetivos, conflitos e acontecimentos sejam construídos por autoria, sem destino obrigatório definido de antemão.
+Fantasia original de cultivo e descoberta. Will God Stone, Santo da Medicina vindo de outro mundo, fica preso no Éter após sua Tribulação do Céu. Sara Iron Heart e Nari Bood Heart chegam à dimensão quase sem integridade física, após sobreviverem a uma emboscada e perseguição. Will as leva para a residência do Pagoda do Céu e inicia contato mental. Ele vê nelas uma possível referência para abrir uma passagem. A história acompanha o encontro, a sobrevivência e a descoberta de Elder, sem destino obrigatório.
 
 ## Estilo e tom
 
-Fantasia de cultivo e descoberta, com narração imersiva, desenvolvimento gradual das relações e espaço para cotidiano, exploração, treinamento, conflitos e acontecimentos extraordinários. Ritmo variável conforme a experiência: momentos de convivência podem receber atenção extensa, enquanto deslocamentos e rotinas repetitivas podem ser resumidos.
+Narração imersiva, desenvolvimento gradual das relações e espaço para cotidiano, exploração, treinamento, humor natural, conflitos e acontecimentos extraordinários. Ritmo variável conforme a experiência, com consequências sérias quando fundamentadas. O mundo e as pessoas existem além do protagonista. Não transformar toda descoberta em ameaça nem toda relação em conflito.
 
-O tom combina maravilhamento diante do desconhecido, humor natural e consequências sérias quando houver fundamento. Não transformar toda descoberta em ameaça nem toda relação em conflito. O mundo e as pessoas existem além do protagonista.
+## Personagens centrais e autoridades
 
-## Personagens centrais
+- Diretor: usuário, autoridade autoral final.
+- Personagem do Diretor: Will God Stone. Sua vontade permanece com o Diretor; a IA pode executar falas, gestos, métodos e pequenas escolhas dentro de delegação suficiente, sem criar objetivos ou compromissos novos.
+- Narrador: IA, sem Juiz permanente.
+- Cadeira de Sara Iron Heart: independente, executada pela IA, utilizando sua ficha e memória individual.
+- Cadeira de Nari Bood Heart: independente, executada pela IA, utilizando sua ficha e memória individual.
+- Cadeiras incidentais: somente quando uma trajetória própria justificar. O Narrador conduz NPCs contextuais no escopo autorizado.
 
-Núcleo aprovado: Will God Stone, Sara Iron Heart (anteriormente Sana) e Nari Bood Heart (anteriormente NA). As três fichas suficientes estão aprovadas e persistidas em `canon/personagens/`. Sara e Nari são conhecidas, não irmãs, ambas princesas de um reino demoníaco. Sara pertence à Casa Iron Heart e é candidata a uma das próximas rainhas do Conclave. Nari recebeu o nome definitivo Bood Heart; a relação exata dessa grafia com a Casa Blood Heart, nome já estabelecido do governo, permanece a esclarecer. A designação demoníaco não estabelece ligação com inferno. Atribuições de autoria ainda não foram definidas.
+Sara e Nari são conhecidas, não irmãs, ambas princesas demoníacas. Sara pertence à Iron Heart e é candidata a uma das próximas rainhas. O nome pessoal Nari Bood Heart mantém a grafia indicada pelo Diretor; a relação exata com o nome da Casa Blood Heart ainda não foi explicitamente esclarecida. Não inventar uma terceira Casa nem alterar silenciosamente o nome.
 
 ## Políticas e módulos
 
-Mesa: CICLO OBRIGATÓRIO, salvo escolha expressa diferente.
+Mesa: CICLO OBRIGATÓRIO, salvo escolha expressa diferente. A autorização atual para prólogo e primeiro capítulo vale somente para esse escopo e não altera a política persistente.
 Indicador operacional: SILENCIOSO.
 Livro: PREPARADO; ativação obrigatória com a primeira Ficção.
-Módulos opcionais: ainda não definidos.
+Módulos opcionais: inativos, salvo escolha ou necessidade real.
+Memória individual e preservação do Livro: obrigatórias.
 
 ## Cânone externo
 
@@ -34,16 +38,23 @@ Obra 100% autoral. Não importar personagens, fatos, poderes ou regras de outras
 - `canon/personagens/will-god-stone.md`: ficha aprovada de Will.
 - `canon/personagens/sara-iron-heart.md`: ficha aprovada de Sara.
 - `canon/personagens/nari-bood-heart.md`: ficha aprovada de Nari.
-- `canon/mundo/demonios.md`: natureza, território e capacidades raciais comuns dos demônios.
-- `canon/mundo/elder.md`: continente e povos humanos, élficos e anões.
-- `canon/mundo/alianca-dos-tres-reinos.md`: aliança voltada à conquista de terras demoníacas.
-- `canon/mundo/conclave.md`: governo demoníaco, duas Casas, dois reis e três votos institucionais.
-- `operacao.md`: preparação em andamento, pendências e ponto de retomada, sem substituir o cânone.
+- `canon/direcao.md`: direção e limites autorais vigentes.
+- `canon/mundo/demonios.md`: natureza, território e capacidades raciais demoníacas.
+- `canon/mundo/elder.md`: continente e demais povos.
+- `canon/mundo/alianca-dos-tres-reinos.md`: aliança e facção favorável à guerra.
+- `canon/mundo/conclave.md`: governo demoníaco e seus três votos.
+- `canon/mundo/antecedentes-do-encontro.md`: sequência aprovada do cataclismo, emboscada e chegada ao Éter.
+- `estado/cena-atual.md`: âncora e primeiro ponto aberto.
+- `estado/personagens.md`: condições, conhecimentos e intenções individuais.
+- `estado/relacoes.md`: relações presentes.
+- `estado/pendencias.md`: processos e assuntos ainda abertos.
+- `operacao.md`: autorização atual, auditoria e checkpoint operacional.
+- `livro/README.md`: índice do Livro, a ser ativado com a primeira Ficção.
 
-Os caminhos antigos `sana-iron-heart.md` e `na.md` permanecem apenas como referências de migração para as fichas atuais. As demais fontes de Direção, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `livro/` será ativado com a primeira Ficção.
+Os caminhos antigos `sana-iron-heart.md` e `na.md` são referências de migração, não fichas independentes.
 
 ## Retomada
 
-Etapas de Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. O Diretor optou por desenvolver o mundo antes de retomar Autoridades, Cadeiras e Executores. Etapa local atual: construção de Elder e da organização do Conclave. Consultar `operacao.md` para o ponto aberto e as lacunas não impeditivas. Nenhuma Ficção foi iniciada.
+A preparação suficiente foi consolidada. Autorização semântica expressa para salvar os antecedentes e executar prólogo seguido do primeiro capítulo. A Auditoria verifica identidade, autoridades, mundo, Direção, Estado e ponto aberto sem exigir planejamento do futuro. Consultar `operacao.md` antes do START. A Ficção ainda não foi iniciada neste checkpoint.
 
-Seguir as normas vigentes de `regras-basicas/`, especialmente os arquivos 04, 10, 16, 24 e 25. Não transformar elementos provisórios em fatos adicionais, nem iniciar a primeira cena antes da preparação e autorização correspondentes.
+Seguir as normas vigentes de `regras-basicas/`, especialmente 04, 10, 17–25 e o módulo Livro. Não converter conteúdo de Mesa em acontecimentos adicionais nem avançar além do escopo autorizado.
