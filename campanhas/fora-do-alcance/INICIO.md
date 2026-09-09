@@ -34,13 +34,19 @@ Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
 Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
 Fichas centrais: SUFICIENTES PARA A PREPARAÇÃO. A ficha de Emma foi construída sob a autorização do Diretor; a de Arthur preserva seu núcleo aprovado e deixa detalhes não necessários abertos.
-Próxima etapa: AUTORIDADES, CADEIRAS E EXECUTORES. A atribuição da Personagem do Diretor ainda não foi definida expressamente. Não presumir que a autorização para criar Emma transfere a vontade de Arthur ou autoriza iniciar a Ficção.
+Próxima etapa: AUTORIDADES, CADEIRAS E EXECUTORES. Diretor, Narrador e Cadeira de Emma configurados. A atribuição da vontade de Arthur ao Diretor ou a uma Cadeira IA permanece pendente de escolha expressa. Não presumir que a autorização para criar Emma transfere a vontade de Arthur ou autoriza iniciar a Ficção.
 
 O rascunho anterior `rascunhos/emma-frost-deus-local.md` permanece como registro histórico da preparação. A ficha de Arthur é a fonte vigente de sua identidade e mutação; o rascunho não é uma segunda fonte canônica. Não importar personagens, fatos ou acontecimentos de outras campanhas para preencher lacunas.
 
 ## Autoridades e executores
 
-A configuração específica das Cadeiras e da Personagem do Diretor será registrada na etapa própria. A escolha do protagonista não transfere sua vontade à IA. A criação da ficha de Emma não constitui ainda uma cena ou decisão ficcional dela.
+- Diretor: usuário humano. Conduz a obra, fecha Direções e determina o escopo das autorizações.
+- Narrador: IA. Apresenta a Ficção autorizada, preserva continuidade e conduz NPCs incidentais. Não é Juiz permanente nem supervisor das Cadeiras.
+- Emma Frost: Cadeira ficcional e consultiva executada pela IA. Sua vontade própria permanece aberta dentro da Direção e dos fatos da obra. A Cadeira utiliza a ficha, o conhecimento legítimo, o Estado e as relações de Emma, sem importar conhecimento de bastidor. Mantém iniciativas, vínculos e atividades próprios.
+- Arthur Jack: atribuição de vontade ainda pendente de confirmação expressa. Proposta em discussão: Personagem do Diretor, com vontade do usuário e execução textual delegável à IA. Não tratar a proposta como atribuição aprovada.
+- Outras personagens: acrescentar Cadeiras conforme adquirirem relevância. NPCs incidentais podem ser conduzidos pelo Narrador sem ficha antecipada. Não fundir conhecimentos, vontades ou relações por compartilharem executor.
+
+A configuração não modifica as fichas. Uma delegação de execução não transfere automaticamente a vontade nem autoriza compromissos, objetivos ou decisões futuras fora do escopo. Aplicar o ciclo vigente do W4D, com julgamento das Cadeiras pertinentes antes de novas propostas, salvo execução direta expressamente autorizada.
 
 ## Políticas e módulos
 
