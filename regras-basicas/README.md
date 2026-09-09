@@ -17,9 +17,10 @@ Começar por `09-BOOT-E-ESCOLHA-DE-OPERACAO.md`. Carregar o núcleo:
 06-REGISTRO-E-RETOMADA.md
 24-CICLO-DE-AUTORIA.md
 25-MEMORIA-DE-CAMPANHA.md
+26-REVISAO-LITERARIA.md
 ```
 
-Os arquivos 24 e 25 são obrigatórios e não dependem de módulos opcionais. O primeiro governa ciclo, delegação e agendas; o segundo governa estrutura documental, memória individual, perspectivas e manutenção.
+Os arquivos 24, 25 e 26 são obrigatórios e não dependem de módulos opcionais. O primeiro governa ciclo, delegação e agendas; o segundo governa estrutura documental, memória individual, perspectivas e manutenção; o terceiro separa criação de história e revisão literária, governando como a Ficção fechada pode ser transformada em experiência de leitura sem criar novo cânone.
 
 ## Autoria
 
@@ -34,6 +35,20 @@ Uma ruptura deliberada pode ser fechada pelo Diretor depois de ouvir a objeção
 O padrão de campanha usa `INICIO.md`, `canon/`, `estado/`, `operacao.md` e `livro/`. Consultar [25-MEMORIA-DE-CAMPANHA.md](25-MEMORIA-DE-CAMPANHA.md) e [06-REGISTRO-E-RETOMADA.md](06-REGISTRO-E-RETOMADA.md). O modelo está em [modelos/CAMPANHA](modelos/CAMPANHA/README.md).
 
 A IA mantém a memória viva durante a execução. O comando `atualizar` confere e persiste mudanças sem avançar a Ficção nem fechar capítulo. Conhecimentos, intenções, compromissos e relações devem permanecer separados por pessoa. O mundo externo não compartilha automaticamente a normalidade do grupo principal. A Cadeira interpreta a pessoa, inclusive suas reações inconvenientes, sem suavização ou conflito obrigatório.
+
+## Revisão literária
+
+Aplicar [26-REVISAO-LITERARIA.md](26-REVISAO-LITERARIA.md) quando a obra entrar em revisão editorial.
+
+```text
+MESA
+→ cria a história.
+
+LIVRO / REVISÃO
+→ cria a experiência de ler a história já criada.
+```
+
+A revisão pode redividir capítulos, aprofundar descrição, pensamentos, corporalidade, ritmo, humor, tensão e subtexto. Não pode introduzir silenciosamente nova decisão, novo fato, novo conhecimento, nova relação, novo poder ou nova consequência.
 
 ## Operações
 
@@ -58,10 +73,10 @@ Não perguntar novamente o que o Diretor já decidiu. A criação é progressiva
 
 ## Módulos
 
-`modulos/LIVRO.md` é obrigatório durante a Ficção. Arco Preparado, Opositor e Romance são opcionais. A Edição de Leitura é derivada. A pasta `testes/` contém especificações de conformidade; casos escritos não são testes executados.
+`modulos/LIVRO.md` é obrigatório durante a Ficção. Arco Preparado, Opositor e Romance são opcionais. A Edição de Leitura é derivada quando a obra optar por mantê-la separada. A revisão literária também pode operar diretamente sobre um Livro literário canônico conforme `26-REVISAO-LITERARIA.md`. A pasta `testes/` contém especificações de conformidade; casos escritos não são testes executados.
 
 ## Fontes normativas
 
-`00` Mesa; `01` Autoridade e Direção; `02` Resolução; `03` Cadeiras; `04` Ficha; `05` Narrador; `06` Registro; `07` Criação do workspace; `08` Plausibilidade e ritmo; `09` BOOT; `10` Nova história; `11` Retomada; `12–23` etapas de criação e START; `24` Ciclo de autoria; `25` Memória de campanha.
+`00` Mesa; `01` Autoridade e Direção; `02` Resolução; `03` Cadeiras; `04` Ficha; `05` Narrador; `06` Registro; `07` Criação do workspace; `08` Plausibilidade e ritmo; `09` BOOT; `10` Nova história; `11` Retomada; `12–23` etapas de criação e START; `24` Ciclo de autoria; `25` Memória de campanha; `26` Revisão literária.
 
 > **Uma ideia, uma definição, uma fonte principal. O Registro conserva a vida das personagens sem obrigar o Diretor a carregar sozinho a memória da obra.**
