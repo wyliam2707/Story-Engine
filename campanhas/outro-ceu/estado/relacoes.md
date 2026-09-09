@@ -1,11 +1,21 @@
 # Relações atuais
 
-Status: INICIAL, anterior à primeira execução ficcional.
+Status: EM EXECUÇÃO, após o primeiro capítulo.
 
-Sara Iron Heart e Nari Bood Heart são conhecidas e não são irmãs. Sua história compartilhada inclui os acontecimentos aprovados em `../canon/mundo/antecedentes-do-encontro.md`. A natureza específica de sua amizade, proximidade, compromissos ou diferenças pessoais não foi definida além do vínculo de conhecimento mútuo.
+## Sara e Nari
 
-Will God Stone não possui vínculo anterior estabelecido com Sara ou Nari. O encontro no Éter e o transporte das duas para a residência do Pagoda do Céu são a origem do contato. Não presumir confiança, gratidão, romance, obrigação ou conhecimento recíproco das identidades antes de sua execução.
+Sara Iron Heart e Nari Bood Heart são conhecidas e não são irmãs. Compartilharam a emboscada, perseguição e chegada ao Éter. No primeiro contato dentro da residência, Sara procurou Nari mentalmente e recebeu sua resposta. A natureza específica de sua amizade, proximidade, compromissos ou diferenças pessoais não foi definida além do vínculo e das interações estabelecidas.
+
+## Will e Sara
+
+Primeiro contato, sem vínculo anterior. Will a retirou do Éter e a levou para a residência. Sara ouviu sua apresentação como médico, informou seu nome e perguntou pelo lugar e pelo desconhecido. Não há confiança, gratidão, romance, promessa ou obrigação recíproca estabelecidos.
+
+## Will e Nari
+
+Primeiro contato, sem vínculo anterior. Will a retirou do Éter e a levou para a residência. Nari respondeu à comunicação, apresentou-se e transmitiu informações essenciais sobre a emboscada e a origem em Elder. Não há confiança, gratidão, romance, promessa ou obrigação recíproca estabelecidos.
+
+## Demais relações
 
 As relações pessoais entre membros da facção conspiradora, governos e participantes da reunião permanecem abertas. Não transferir conhecimento ou responsabilidade coletiva automaticamente a indivíduos.
 
-Atualizar este arquivo somente quando uma interação válida estabelecer mudança relevante. O Livro preservará os detalhes históricos.
+Referências: `../livro/001-um-nome-no-vazio.md` e `../canon/mundo/antecedentes-do-encontro.md`. Atualizar somente quando nova interação válida estabelecer mudança relevante.
