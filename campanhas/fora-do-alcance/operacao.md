@@ -1,16 +1,16 @@
 # Operação — Fora do Alcance
 
-STATUS: PREPARAÇÃO / MESA ABERTA. Nenhuma Ficção foi executada. Este arquivo preserva a proposta de abertura e a autorização ainda pendente, sem transformar o encadeamento em acontecimentos já ocorridos.
+STATUS: PREPARAÇÃO / MESA ABERTA. Nenhuma Ficção foi executada. Este arquivo preserva a proposta de abertura e os ajustes do Diretor, sem transformar o encadeamento em acontecimentos já ocorridos.
 
 ## Direção do Diretor para o encontro
 
-O Diretor aprovou Nova York como cidade inicial e deseja que Emma Frost chegue quase desmaiada, caindo no colo de Arthur. Arthur a ampara, ela se recupera e tenta usar sua telepatia nele, sem obter acesso porque está próxima demais, dentro de seu Domínio de Realidade de três metros. A partir desse ponto, a evolução da interação permanece aberta. O Diretor pediu uma causa concreta para a chegada, não uma história futura completa.
+O Diretor aprovou Nova York como cidade inicial e deseja que Emma Frost chegue quase desmaiada, caindo no colo de Arthur. Arthur a ampara, ela se recupera e tenta usar sua telepatia nele, sem obter acesso porque está próxima demais, dentro de seu Domínio de Realidade de três metros. A partir desse ponto, a evolução da interação permanece aberta. O Diretor pediu uma causa concreta e plausível para a chegada, com fuga física, por uma janela ou correndo, e rejeitou o teletransporte inventado na proposta anterior.
 
 ## Proposta de causa em discussão
 
-Uma negociação privada ligada ao passado de Emma no Clube do Inferno transforma-se em uma armadilha preparada por Sebastian Shaw. Um dispositivo de contenção psíquica, desenvolvido para atingir uma telepata de seu nível, a surpreende e causa uma sobrecarga neural. Ela consegue romper a contenção e usa um sistema de teletransporte de emergência para sair. A rota foi sabotada, desviando-a para um ponto imprevisto de Nova York. Ainda debilitada, surge acima do lugar onde Arthur está e cai sobre ele. A proposta não exige que Shaw esteja presente na cena do encontro, que a perseguição continue ou que exista um arco de combate obrigatório.
+Uma negociação privada ligada ao passado de Emma no Clube do Inferno transforma-se em uma armadilha preparada por Sebastian Shaw. Um dispositivo de contenção psíquica, desenvolvido para atingir uma telepata de seu nível, a surpreende e provoca uma sobrecarga neural. Emma consegue romper a contenção e escapar por seus próprios meios. A versão revisada propõe que ela use a forma de diamante para atravessar uma janela de um andar baixo, alcance a rua ou um pátio adjacente e, ao voltar à forma humana, ainda debilitada, procure afastar-se do local. Ao passar perto de Arthur, que está sentado em uma área externa, perde as forças e cai sobre ele. A posição exata e a sequência física devem ser coerentes, sem teletransporte, levitação inventada ou queda de altura desnecessária.
 
-A causa específica, o local exato, os detalhes do dispositivo e o modo da fuga são propostas da Mesa, ainda não aprovadas. A cena deve preservar a competência e a iniciativa de Emma, sua capacidade de usar a forma de diamante e as consequências reais de um ataque psíquico, sem inventar fraqueza permanente. O teletransporte é um recurso externo da situação, não um novo poder próprio de Emma.
+A causa específica, o local exato, os detalhes do dispositivo e os métodos não fechados de Emma ainda são matéria de Mesa. A fuga deve preservar sua competência, iniciativa e os poderes que possui, sem fabricar fraqueza permanente. Não introduzir um inimigo ativo adicional, uma perseguição obrigatória ou um arco de combate apenas para sustentar o encontro. A armadilha pode continuar sendo um problema próprio de Emma, mas não determina automaticamente os acontecimentos posteriores.
 
 ## Resultado e fronteira pretendidos
 
@@ -20,4 +20,4 @@ A reação de Emma deve ser decidida por sua Cadeira, com base no estado e no co
 
 ## Próximo passo
 
-Apresentar a proposta e receber autorização ou ajustes do Diretor. Em seguida, concluir o Estado inicial e a Auditoria de preparação necessários. Não registrar o incidente como passado executado, iniciar o Livro ou avançar a Ficção antes da autorização semântica correspondente. A configuração de autoridades e as fichas vigentes permanecem em INICIO.md e canon/personagens/.
+Apresentar a versão revisada e receber autorização ou ajustes do Diretor. Em seguida, concluir o Estado inicial e a Auditoria de preparação necessários. Não registrar o incidente como passado executado, iniciar o Livro ou avançar a Ficção antes da autorização semântica correspondente. A configuração de autoridades e as fichas vigentes permanecem em INICIO.md e canon/personagens/.
