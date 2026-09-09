@@ -1,14 +1,16 @@
 # Personagens — Estado vivo
 
-STATUS: EM EXECUÇÃO. Referência: `../livro/001-a-queda.md`.
+STATUS: EM EXECUÇÃO. Capítulo 001 fechado. Referência: `../livro/001-a-queda.md`.
 
 ## Arthur Jack
 
 Ficha: `../canon/personagens/arthur-jack.md`.
 
-Está sentado à mesa externa de um café em Manhattan, junto de Emma, que agora ocupa a cadeira ao lado. Sua xícara de café permanece na mesa. Sua hospedagem, duração da estadia e agenda anterior não foram definidas. Amparou Emma após a queda, apresentou-se como Arthur, perguntou se ela estava bem e realizou uma aplicação leve de cura de seu Domínio de Realidade. A cura aliviou a dor aguda e a desorientação e restaurou sua coordenação e lucidez. Emma apresentou-se como Emma Frost, agradeceu e perguntou o que ele fez. Arthur ainda não respondeu.
+Está sentado à mesa externa de um café em Manhattan, junto de Emma, que ocupa a cadeira ao lado. Sua xícara de café permanece na mesa. Hospedagem, duração da estadia e agenda anterior não foram definidas. Amparou Emma após a queda, apresentou-se como Arthur, perguntou se ela estava bem e realizou uma cura leve de seu Domínio de Realidade. A cura aliviou a dor aguda e a desorientação, restaurando coordenação e lucidez.
 
-Quando dois seguranças exigiram que Emma os acompanhasse, Arthur advertiu que, se se aproximassem, uma sucessão de causalidades os pararia, mencionando escorregar, bater numa mesa e até disparar contra a própria perna. Os homens recuaram sem que a condição precisasse ser acionada. Arthur não recebeu explicação sobre Shaw, a armadilha ou a tentativa telepática. Sabe que os homens procuravam Emma, exigiram que ela os acompanhasse e recuaram após sua advertência. Emma perguntou agora se ele falava sério sobre controlar causalidade. Sua próxima vontade material pertence ao Diretor. Não decidiu fugir, convidar Emma, assumir compromisso ou iniciar confronto adicional.
+Quando dois seguranças exigiram que Emma os acompanhasse, Arthur advertiu que, se se aproximassem, uma sucessão de causalidades os pararia, mencionando escorregar, bater numa mesa e até disparar contra a própria perna. Os homens recuaram sem que a condição precisasse ser acionada. Depois de Emma perguntar o que ele fizera e se falava sério sobre controlar causalidade, Arthur disse que poderia ter sido um blefe bem elaborado e comentou que ela tinha cara de quem se recuperava rápido. Reiterou ainda seu pedido de apresentação. O registro anterior já contém Emma apresentando-se como Emma Frost; o pedido posterior não apaga esse conhecimento.
+
+Arthur não recebeu explicação registrada sobre Shaw, a armadilha ou a tentativa telepática. Sabe que os homens procuravam Emma, exigiram que ela os acompanhasse e recuaram após sua advertência. Não decidiu fugir, convidá-la, assumir compromisso ou iniciar confronto adicional. Sua próxima vontade material pertence ao Diretor.
 
 ## Emma Frost
 
@@ -16,7 +18,7 @@ Ficha: `../canon/personagens/emma-frost.md`.
 
 Está em forma humana, consciente e bem melhor após a cura de Arthur. A dor aguda, a desorientação e a dificuldade de coordenação causadas pela sobrecarga foram aliviadas. Saiu do colo dele por iniciativa própria e está sentada na cadeira ao lado. Rompeu o dispositivo, escapou pelo segundo andar em diamante e voltou à forma humana na rua. Sabe que Shaw preparou a armadilha, reconhece a contenção psíquica e viu dois seguranças persegui-la. Recusou acompanhá-los e observou o recuo após a ameaça de Arthur.
 
-Não conhecia Arthur antes do encontro. Sabe seu primeiro nome, que ele a amparou e produziu uma recuperação extraordinária, mas desconhece a natureza, os limites e o alcance da mutação. Tentou uma sondagem telepática superficial e um ajuste de contato, ambos sem acesso à mente dele, e interrompeu a tentativa. Percebeu que não se tratava de barreira psíquica comum; desconhece a causa. Ouviu Arthur ameaçar controlar causalidades para impedir a aproximação dos seguranças. Não observou a execução da ameaça nem conhece a extensão dessa capacidade. Agradeceu pelo amparo e pela cura e perguntou novamente o que ele fez e se falava sério sobre controlar causalidade. Não foi estabelecida atração, confiança ou hostilidade duradoura. Sua Cadeira conserva iniciativa, julgamento e vínculos próprios.
+Não conhecia Arthur antes do encontro. Sabe seu primeiro nome, que ele a amparou e produziu uma recuperação extraordinária, mas desconhece a natureza, os limites e o alcance da mutação. Tentou uma sondagem telepática superficial e um ajuste de contato, ambos sem acesso à mente dele, e interrompeu a tentativa. Percebeu que não se tratava de barreira psíquica comum; desconhece a causa. Ouviu Arthur ameaçar controlar causalidades, mas não observou a execução da ameaça. Agradeceu pelo amparo e pela cura e perguntou o que ele fez e se falava sério sobre controlar causalidade. Arthur respondeu que poderia ter sido um blefe. Não foi estabelecida atração, confiança ou hostilidade duradoura. As respostas intermediárias posteriores ao último checkpoint não foram recuperadas e não devem ser inventadas.
 
 ## Sebastian Shaw
 
