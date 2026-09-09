@@ -1,23 +1,23 @@
 # Cena atual
 
-Status: EM EXECUÇÃO, primeiro capítulo corrigido e fechado.
+Status: EM EXECUÇÃO, primeiro capítulo fechado na versão dos três POVs.
 
 ## Momento e lugar
 
-Éter, interior da residência temporária criada por Will God Stone com o Pagoda do Céu. O prólogo e o primeiro capítulo estão registrados no Livro. O capítulo termina imediatamente após Will levar as duas recém-chegadas para a residência.
+Éter, interior da residência temporária criada por Will God Stone com o Pagoda do Céu. O prólogo e o primeiro capítulo estão registrados no Livro. A última cena termina após as duas junções de almas, antes de qualquer tratamento reparador ou tentativa de passagem.
 
 ## Presentes e condições
 
-Will: presente com Sara e Nari, com cultivo Santo e capacidades preservados. Possui o Pagoda do Céu. Ainda não iniciou a comunicação mental. Não conhece as identidades das duas, sua história política, a emboscada ou o nome Elder. A possibilidade de utilizar as recém-chegadas como referência para sair do Éter é uma direção aprovada pelo Diretor, não uma descoberta já narrada.
+Will: presente com Sara e Nari, com cultivo Santo e capacidades preservados. Possui o Pagoda do Céu. Estabeleceu comunicação mental separada e firmou dois acordos. Conhece os nomes Sara Iron Heart e Nari Bood Heart, mas não suas posições políticas, o nome Elder, a emboscada ou o significado matrimonial das junções. Acredita ter dois contratos de servidão revogáveis e pretende libertar ambas após a travessia. Possui as duas ligações que pretende utilizar para o tratamento e como referências para uma passagem. Nenhum resultado médico ou dimensional foi executado.
 
-Sara Iron Heart e Nari Bood Heart: presentes no abrigo, com corpos físicos quase sem integridade, a um suspiro da morte. A exposição direta ao Éter cessou, mas não houve tratamento, cura ou recuperação estabelecidos. Suas respostas, conhecimentos comunicados e decisões após o transporte permanecem abertos.
+Sara Iron Heart e Nari Bood Heart: presentes no abrigo, com corpos físicos quase sem integridade, a um suspiro da morte. A exposição direta ao Éter cessou, mas não houve cura ou recuperação. Ambas responderam mentalmente, aceitaram separadamente uma junção com Will e receberam marcas discretas nas mãos. Cada uma acredita ter aceitado um casamento arranjado para sobreviver e permitir que a outra fique livre. Nenhuma sabe que a outra também assinou. Não conhecem a longevidade de Will, sua intenção de revogar os vínculos ou a interpretação que ele atribui à servidão.
 
 ## Último fato válido
 
-Will levou Sara e Nari para a residência do Pagoda do Céu, retirando-as da exposição direta à deterioração etérea. Nenhuma comunicação, apresentação ou exame posterior foi executado. Referência: `../livro/001-um-nome-no-vazio.md`.
+O contato mental com Nari terminou depois da segunda junção. Will permaneceu diante das duas, com as ligações estabelecidas. O significado completo da terceira interpretação mágica permanece desconhecido. Referência: `../livro/001-um-nome-no-vazio.md`.
 
 ## Primeiro ponto aberto e limite
 
-A primeira comunicação mental, aprovada pelo Diretor, será construída a partir daqui. Will conserva sua vontade; a IA pode executar falas, gestos e métodos dentro da delegação, sem criar decisões materiais novas. Sara e Nari possuem Cadeiras independentes. Não antecipar tratamento, recuperação, passagem ou chegada a Elder.
+Mesa aberta para o tratamento e as ações seguintes de Will. A vontade de Will pertence ao Diretor, com execução IA no escopo delegado. Sara e Nari possuem Cadeiras independentes. Não antecipar cura, reconstrução, passagem, chegada a Elder ou revelação do mal-entendido. Não presumir que uma princesa saiba do acordo da outra.
 
-Mesa CICLO OBRIGATÓRIO para novas propostas materiais, sem consultas repetidas a cada frase ou gesto de uma execução já autorizada. Preservar o ponto exato quando houver interrupção ou correção.
+Mesa CICLO OBRIGATÓRIO para novas propostas materiais, sem consultas repetidas a cada frase ou gesto de execução já autorizada. Preservar o ponto exato quando houver interrupção ou correção.
