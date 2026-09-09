@@ -1,6 +1,6 @@
 # 001 — A queda
 
-STATUS: EM ANDAMENTO. Primeira Ficção válida, sem fechamento de capítulo.
+STATUS: FECHADO. O texto preserva a Ficção válida recuperável. Eventuais lacunas de transcrição posteriores ao último checkpoint estão documentadas na Operação, sem preenchimento inventado.
 
 NARRADOR — A reunião acontecia no segundo andar de um edifício comercial de Manhattan. A sala era discreta para os padrões de Sebastian Shaw, mas a vista para a cidade e a mesa de madeira escura indicavam que discrição não significava economia. Emma Frost deixara o casaco sobre o encosto da cadeira. Diante dela, uma pasta reunia documentos relativos a antigas participações do Clube do Inferno.
 
@@ -109,3 +109,7 @@ Emma Frost — Obrigada por me amparar. E pela recuperação. Seja lá o que ten
 NARRADOR — A gratidão não eliminava sua curiosidade. Emma ainda se lembrava perfeitamente da tentativa de sondagem que não encontrara acesso, e a menção casual à causalidade acrescentara uma possibilidade que ela não pretendia ignorar.
 
 Emma Frost — Minha pergunta continua de pé, Arthur. O que exatamente você fez comigo? E você estava falando sério sobre controlar causalidade?
+
+Arthur Jack — Pode ter sido um blefe bem elaborado... E você tem cara de quem se recupera rápido.
+
+Arthur Jack — Bom, eu ainda nem te conheço... Seria educado um nome pelo menos.
