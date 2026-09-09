@@ -37,10 +37,10 @@ Os demônios não buscam dominar o continente. A zona da Ruptura oferece o ambie
 
 A região quase inóspita para as outras raças e as capacidades demoníacas tornam o território difícil de disputar, mas seus recursos e oportunidades atraem a ganância externa. Os anões observam há gerações as minas ainda quase inexploradas. Os elfos consideram a magia demoníaca uma ofensa à natureza e têm os demônios como inimigos. Essa avaliação é uma crença élfica, não uma confirmação de que a magia demoníaca seja objetivamente antinatural ou corruptora.
 
-Não estabelecer automaticamente guerra atual, invasões, tratados, concessões, alianças, massacres ou acontecimentos históricos ainda não definidos. O interesse de outros povos não determina que todos seus indivíduos partilhem os mesmos objetivos.
+A aliança humana, élfica e anã voltada à conquista de terras demoníacas está estabelecida em `alianca-dos-tres-reinos.md`. Seu objetivo é reservado e não implica guerra já iniciada, vitória predeterminada ou conhecimento uniforme de todos os demônios. O interesse de outros povos não determina que todos seus indivíduos partilhem os mesmos objetivos.
 
 ## Referências individuais
 
-Sana Iron Heart e NA possuem fichas aprovadas em `../personagens/sana-iron-heart.md` e `../personagens/na.md`. Sana é especializada na Forma Demoníaca [Excepcional] e possui Manipulação de Trevas [Padrão]. NA tem Forma Demoníaca [Padrão] e Manipulação de Energia Bruta [Excepcional], associada à sua Magia do Caos. Ambas possuem Força, Velocidade e Resistência [Excelente]. As fichas individuais são as fontes primárias dessas especializações.
+Sara Iron Heart e Nari Bood Heart possuem fichas aprovadas em `../personagens/sara-iron-heart.md` e `../personagens/nari-bood-heart.md`. Sara é especializada na Forma Demoníaca [Excepcional] e possui Manipulação de Trevas [Padrão]. Nari tem Forma Demoníaca [Padrão] e Manipulação de Energia Bruta [Excepcional], associada à sua Magia do Caos. Ambas possuem Força, Velocidade e Resistência [Excelente]. As fichas individuais são as fontes primárias dessas especializações.
 
-A escala comparativa 16 para as princesas diante de Will 64 representa diferença de poder, sem converter automaticamente a progressão do cultivo de Will nas graduações raciais. Estrutura política do Conclave, Casas, sucessão e costumes ainda serão desenvolvidos.
+A escala comparativa 16 para as princesas diante de Will 64 representa diferença de poder, sem converter automaticamente a progressão do cultivo de Will nas graduações raciais. A estrutura do reinado e do Senado está em `conclave.md`. A relação exata entre o sobrenome Bood Heart de Nari e a Casa Blood Heart permanece a esclarecer.
