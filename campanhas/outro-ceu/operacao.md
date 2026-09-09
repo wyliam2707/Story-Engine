@@ -1,45 +1,35 @@
-# Outro Céu — Operação de preparação
+# Outro Céu: operação e retomada
 
-Status: PREPARAÇÃO EM ANDAMENTO. Documento operacional, não constitui Ficção.
+Status: EM EXECUÇÃO, prólogo e primeiro capítulo fechados.
 
 ## Ponto de retomada
 
-Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. Will, Sara e Nari possuem fichas aprovadas e persistidas. O Diretor escolheu desenvolver o mundo antes de retomar Autoridades, Cadeiras e Executores. Respeitar essa ordem local. A etapa atual é a construção progressiva de Elder. O último elemento estabelecido foi o funcionamento do Conclave com três votos institucionais: um da Iron Heart, um da Blood Heart e um coletivo do Senado. Quando os dois reis discordam, o voto do Senado decide. Continuar a definição do governo conforme o Diretor. Não iniciar Ficção.
+O Diretor autorizou salvar os antecedentes e executar um prólogo seguido do primeiro capítulo. O escopo foi concluído. A Ficção válida está em `livro/000-prologo-dois-cataclismos.md` e `livro/001-um-nome-no-vazio.md`, com índice em `livro/README.md`. Não recomeçar a história nem repetir a preparação.
 
-## Fontes canônicas primárias
+O capítulo termina na residência do Pagoda do Céu, no Éter. Will perguntou se Sara e Nari conseguem sentir algo quando ele tenta estabelecer contato com seus corpos. A resposta ainda está aberta. As duas permanecem à beira da morte, com corpos quase sem integridade, protegidas da exposição etérea direta, mas sem cura ou reconstrução estabelecidas. Will conhece seus nomes e o nome Elder, recebeu informações breves sobre a emboscada e percebe a possibilidade de usar a origem delas como referência para uma passagem. Não houve tentativa de abertura nem chegada a Elder.
 
-- `canon/personagens/will-god-stone.md`
-- `canon/personagens/sara-iron-heart.md`
-- `canon/personagens/nari-bood-heart.md`
-- `canon/mundo/demonios.md`
-- `canon/mundo/elder.md`
-- `canon/mundo/alianca-dos-tres-reinos.md`
-- `canon/mundo/conclave.md`
+## Auditoria e START
 
-Consultar as fontes primárias para fatos estabelecidos, sem duplicar fichas ou criar fontes concorrentes. Os caminhos antigos `canon/personagens/sana-iron-heart.md` e `canon/personagens/na.md` são referências de migração, não fichas independentes.
+Auditoria de preparação aprovada: premissa, tom, fichas, autoridades, Direção, política de Mesa, mundo necessário, quatro fontes de Estado, primeiro ponto aberto e Livro foram consolidados. A autorização semântica do Diretor não exigiu confirmação ritual. O Livro foi ativado com a primeira Ficção. Os dois textos estão registrados e a memória viva foi atualizada.
 
-## Núcleo central e pendências não impeditivas
+Diretor: usuário, titular da vontade de Will. Narrador: IA, sem Juiz. Sara e Nari: Cadeiras independentes IA. A execução de Will pode preencher diálogo, gestos e métodos dentro da delegação, sem assumir objetivos ou compromissos novos. Mesa padrão CICLO OBRIGATÓRIO, indicador SILENCIOSO. O escopo do prólogo e primeiro capítulo foi consumido; nova progressão requer autorização compatível, sem impedir a próxima resposta das Cadeiras dentro de uma continuidade autorizada.
 
-Will God Stone é o protagonista e Personagem do Diretor. Sua ficha e graduações estão aprovadas. Sara Iron Heart, anteriormente Sana, tem 140 anos, é princesa da Casa Iron Heart e candidata a uma das próximas rainhas do Conclave. Nari Bood Heart, anteriormente NA, tem 150 anos, é a segunda princesa, conhecida de Sara e não sua irmã. O Diretor indicou exatamente a grafia Bood Heart para Nari e anteriormente Blood Heart para a Casa governante. Preservar ambas sem corrigir silenciosamente ou inventar uma terceira Casa; a relação exata entre as grafias permanece a esclarecer.
+## Fontes primárias
 
-Sara possui formação e Saberes aprovados com graduações registrados em sua ficha. Nari possui base semelhante, maior especialização mágica e Saberes amplos suficientes; suas graduações individuais de conhecimento permanecem abertas e não impedem a preparação. As referências visuais foram fornecidas na conversa. Os arquivos de imagem ainda não foram incorporados ao repositório. Não inventar caminhos nem substituir referências.
+- `INICIO.md`: entrada, autoridades, políticas e mapa das fontes.
+- `canon/direcao.md`: direção vigente e limites.
+- `canon/personagens/will-god-stone.md`, `sara-iron-heart.md`, `nari-bood-heart.md`: fichas aprovadas.
+- `canon/mundo/antecedentes-do-encontro.md`: fatos autorais do cataclismo, operação conspiratória e encontro.
+- `canon/mundo/elder.md`, `demonios.md`, `alianca-dos-tres-reinos.md`, `conclave.md`: mundo e instituições.
+- `estado/cena-atual.md`, `personagens.md`, `relacoes.md`, `pendencias.md`: presente, conhecimento, vínculos e processos.
+- `livro/README.md`: índice e sequência histórica válida.
 
-## Mundo em desenvolvimento
+Os caminhos antigos `sana-iron-heart.md` e `na.md` são referências de migração, não fichas independentes. As referências visuais permanecem nas imagens fornecidas na conversa; não inventar arquivos ou substituí-las. O sobrenome pessoal Nari Bood Heart mantém a grafia escolhida, enquanto a Casa governante foi nomeada Blood Heart. Não criar terceira Casa nem alterar silenciosamente os nomes.
 
-Elder é um grande continente composto por quatro reinos. `canon/mundo/elder.md` reúne a organização geral e os humanos, elfos e anões. Os humanos vivem em média 150 anos, são a raça mais fraca em poder individual, têm a maior população e apresentam maior ambição, tendência à traição e expansionismo. Os elfos vivem cerca de 300 anos nas grandes florestas, são protetores e desconfiados de forasteiros, tendem a se considerar superiores e têm os demônios como inimigos por considerarem sua magia uma ofensa à natureza. Os anões vivem em média 200 anos nas montanhas, são rústicos e ambiciosos, mineram, forjam e comerciam armas, mantêm muitos negócios com humanos e elfos e observam há gerações as minas demoníacas ainda quase inexploradas. Os três povos normalmente possuem um ou dois poderes, no máximo, entre [Padrão] e [Excelente]. Consultar a fonte para as formações e especificidades.
+## Limites da continuidade
 
-A fonte primária demoníaca é `canon/mundo/demonios.md`. Demônios vivem quase 3.000 anos, reproduzem-se muito raramente e possuem base racial de capacidades em Padrão, incluindo a Forma Demoníaca como arte marcial baseada em transformação protetora semelhante a uma armadura. Habitam próximos à Ruptura do Caos, uma zona que emana magia negra e do caos, quase inóspita para as demais raças e ideal para sua civilização. São efetivamente o povo com mais poderes e habilidades natas, possuem enorme vitalidade, raramente são derrotados em combate individual por outras raças e têm um exército forte. Culturalmente, tendem a se considerar superiores, mas não buscam dominar o continente. Seu território e recursos atraem a ganância dos demais povos. A Ruptura não possui origem, funcionamento, extensão ou efeitos específicos adicionais definidos.
+Não reduzir a condição extrema das princesas a ferimentos convencionais. Não criar recuperação, técnicas, fraquezas, perda de poderes ou resultado médico automaticamente. A comunicação mental específica não transforma Compreensão em leitura de pensamentos. Pagoda e relíquia das princesas conservam apenas os recursos estabelecidos. Éter e Ruptura do Caos não são automaticamente a mesma coisa.
 
-A fonte `canon/mundo/alianca-dos-tres-reinos.md` registra a aliança humana, élfica e anã para conquistar terras demoníacas, mantendo esse objetivo reservado aos demônios. Humanos buscam expansão territorial, influência e recursos; elfos buscam combater a influência mágica que consideram ofensiva à natureza e proteger seus interesses territoriais; anões buscam acesso e controle econômico das minas e recursos. A face pública proposta envolve defesa regional, estabilidade, rotas, comércio e entendimento. As lideranças, cronologia, instituições, preparativos, ações diplomáticas concretas, plano militar, repartição e momento de eventual ofensiva permanecem abertos. Não transformar objetivo em guerra já iniciada ou vitória predeterminada. Preservar o conhecimento individual, a capacidade de suspeita e reação dos demônios e os interesses divergentes dos aliados.
+A facção favorável à guerra não representa necessariamente todos os três povos ou governos. A declaração de guerra, a composição da facção, os sobreviventes adicionais e as reações políticas não foram determinados. O prólogo apresenta informações de bastidor que Will e as princesas não conhecem automaticamente.
 
-A fonte `canon/mundo/conclave.md` estabelece o reinado formado pelas Casas Iron Heart e Blood Heart e pelo Senado de 40 representantes, um de cada família mais poderosa. Há um representante de cada Casa governante, os dois reis. O Conclave funciona com três votos, um por Casa e um voto coletivo do Senado. Quando os reis discordam, o Senado decide por seu voto. Os 40 senadores não possuem 40 votos adicionais no Conclave. A deliberação interna do Senado, identidade dos reis, atribuições, sucessão, critérios das famílias e demais procedimentos permanecem abertos.
-
-Sara possui Forma Demoníaca [Excepcional] e Manipulação de Trevas [Padrão]. Nari possui Manipulação de Energia Bruta [Excepcional], associada à Magia do Caos, e Forma Demoníaca [Padrão]. Ambas têm Força, Velocidade e Resistência [Excelente]. Sua escala comparativa é 16 diante de Will 64, sem equivalência automática entre cultivo e graduações.
-
-A causa da reprodução rara permanece aberta. Não inventar rivalidade obrigatória entre as princesas, parentesco, regras de casamento, infertilidade individual ou consequências sociais inevitáveis. Nomes e localização exata dos reinos de Elder permanecem abertos. Não transformar interesses coletivos em obrigação individual nem criar acontecimentos, causas históricas ou ameaças na Ruptura sem autoria.
-
-## Próxima etapa
-
-Continuar a definição do mundo, um elemento por vez conforme o Diretor trouxer ou solicitar propostas. Não criar uma enciclopédia para preencher lacunas. Depois de obter mundo suficiente, retomar Autoridades, Direção, Políticas Operacionais, Estado Inicial, Auditoria e START. O Diretor conserva a vontade de Will; Sara e Nari devem ter Cadeiras independentes para suas decisões voluntárias.
-
-Nenhuma Ficção foi iniciada, nenhum resultado do encontro foi estabelecido e as causas e condições detalhadas dos ferimentos permanecem abertas. Preservar a Mesa em Ciclo Obrigatório e não começar a cena antes da autorização correspondente.
+Próximo passo: retomar exatamente a última pergunta, preservando as vontades independentes de Sara e Nari e devolvendo ao Diretor as decisões materiais de Will. Não criar cena de encerramento, epílogo ou novo conflito apenas para avançar.
