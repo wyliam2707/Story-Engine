@@ -6,12 +6,12 @@ Status: PREPARAÇÃO EM ANDAMENTO. Documento operacional, não constitui Ficçã
 
 Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Etapa atual: Fichas. Will God Stone possui ficha aprovada e persistida em `canon/personagens/will-god-stone.md`, incluindo suas graduações individuais. Não repetir sua ficha nesta operação.
 
-O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posição, personalidade, poderes principais e Saberes amplos foram estabelecidos, mas a ficha ainda está em construção. O Diretor aceitou os Saberes propostos e acrescentou Etiqueta e Negociação. Próximo ponto: obter somente detalhes materiais ainda necessários, como idade e história individual, e apresentar uma ficha suficiente para revisão. Não inventar técnicas, limitações, história individual ou decisões. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
+O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posição, personalidade, poderes principais, Saberes amplos e idade foram estabelecidos. Próximo ponto: consolidar a ficha suficiente de Sana para revisão, deixando abertas as graduações dos Saberes ainda não definidas ou propondo-as para aprovação. Não inventar história individual, técnicas, limitações ou decisões. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
 
 ## Núcleo central
 
 - Will God Stone: protagonista, cultivador Santo, ficha aprovada.
-- Sana Iron Heart (SA): princesa da Casa Iron Heart, uma das candidatas a se tornar uma das próximas rainhas do Conclave. Guerreira e maga negra poderosa para os padrões de sua raça. Escala comparativa 16 diante de Will 64. A diferença não implica incompetência, humilhação ou perda de autonomia. A referência visual foi fornecida pelo Diretor nesta conversa; seus bytes ainda não foram incorporados ao repositório. Ela apresenta aparência adulta, cabelos longos prateados, franja escura, chifres negros, asas escuras e traje vermelho escuro e preto. Idade e história individual permanecem abertas.
+- Sana Iron Heart (SA): 140 anos. Princesa da Casa Iron Heart, uma das candidatas a se tornar uma das próximas rainhas do Conclave. Guerreira e maga negra poderosa para os padrões de sua raça. Escala comparativa 16 diante de Will 64. A diferença não implica incompetência, humilhação ou perda de autonomia. A referência visual foi fornecida pelo Diretor nesta conversa; seus bytes ainda não foram incorporados ao repositório. Ela apresenta aparência adulta, cabelos longos prateados, franja escura, chifres negros, asas escuras e traje vermelho escuro e preto. História individual além da formação estabelecida permanece aberta.
 - NA: conhecida de Sana, não sua irmã, também princesa de um reino demoníaco. Identidade individual ainda aberta.
 
 ## Sana — personalidade e formação
@@ -43,7 +43,9 @@ As graduações são as do Story Engine, aplicadas a domínios descritos. A esca
 
 ## Mundo e escalas
 
-O termo demoníaco é uma designação do mundo, sem ligação estabelecida com inferno, maldade ou demonologia tradicional. O Conclave, a Casa Iron Heart, a sucessão e a organização do reino ainda não tiveram sua estrutura política definida. Não inferir que Sana seja rainha atual, única sucessora, herdeira por primogenitura ou que as candidatas disputem necessariamente entre si.
+O termo demoníaco é uma designação do mundo, sem ligação estabelecida com inferno, maldade ou demonologia tradicional. O Diretor estabeleceu que os demônios vivem quase 3.000 anos e raramente se reproduzem. Sana tem 140 anos. Não inferir maturidade cronológica específica, duração de gestação, causa da reprodução rara, infertilidade individual, escassez populacional exata, normas de casamento ou consequências políticas obrigatórias. Esses aspectos serão desenvolvidos na construção do mundo.
+
+O Conclave, a Casa Iron Heart, a sucessão e a organização do reino ainda não tiveram sua estrutura política definida. Não inferir que Sana seja rainha atual, única sucessora, herdeira por primogenitura ou que as candidatas disputem necessariamente entre si.
 
 ## Graduações de Will já fechadas
 
