@@ -1,23 +1,25 @@
 # Cena atual
 
-Status: ESTADO INICIAL PREPARADO, antes da primeira execução ficcional.
+Status: EM EXECUÇÃO, primeiro capítulo fechado.
 
 ## Momento e lugar
 
-A abertura autorizada começa com o prólogo dos antecedentes já estabelecidos. A primeira cena aberta ocorre no Éter, na residência temporária criada por Will com o Pagoda do Céu. Sara e Nari foram encontradas por Will e levadas para dentro antes da comunicação mental.
+Éter, interior da residência temporária criada por Will God Stone com o Pagoda do Céu. O prólogo e o primeiro capítulo estão registrados no Livro. Não houve passagem para Elder nem avanço posterior à última pergunta de Will.
 
 ## Presentes e condições
 
-Will God Stone: no interior de sua residência, com o cultivo Santo e os poderes estabelecidos preservados. Possui o Pagoda do Céu. Está diante das duas recém-chegadas e pretende iniciar contato mental. Vê nelas uma possível referência para abrir passagem para fora do Éter.
+Will: junto às duas recém-chegadas, com cultivo Santo e capacidades preservados. Possui o Pagoda do Céu e iniciou comunicação mental específica. Não conhece integralmente a fisiologia demoníaca nem a história política de Elder. Percebe uma possível referência de saída, ainda não utilizada.
 
-Sara Iron Heart e Nari Bood Heart: presentes, em condição extrema, a um suspiro da morte, com os corpos físicos quase sem integridade depois da explosão, luta e deterioração etérea. A residência as protege da exposição direta ao Éter, mas não há recuperação ou cura estabelecida. A possibilidade e o conteúdo de respostas mentais ainda serão executados.
+Sara Iron Heart e Nari Bood Heart: acomodadas em suportes dentro do abrigo. Corpos físicos quase sem integridade, condição extrema e risco de morte. A proteção contra exposição direta ao Éter está estabelecida, mas não houve tratamento reparador, cura ou recuperação. Ambas conseguem responder mentalmente, com esforço e fragilidade; conservaram consciências individuais.
 
-## Último fato e primeiro ponto aberto
+## Último fato válido
 
-Antes do START, a Ficção ainda não foi narrada. Os antecedentes estão aprovados e documentados em `../canon/mundo/antecedentes-do-encontro.md`. O primeiro ponto aberto é a comunicação mental dentro do Pagoda, depois de Will levá-las para a residência. A apresentação do passado pode preceder esse ponto em prólogo.
+Will perguntou: "Entendi. Vocês vieram de Elder. Vou considerar essa informação, mas antes preciso avaliar o que ainda posso fazer por vocês. Conseguem me dizer se sentem algo quando tento estabelecer contato com seus corpos?"
 
-## Limite da execução autorizada
+A resposta de Sara e Nari ainda não foi executada. Referência: `../livro/001-um-nome-no-vazio.md`.
 
-Prólogo e primeiro capítulo baseados na história aprovada. Apresentar o encontro e o contato inicial, sem resolver automaticamente tratamento, recuperação, saída do Éter ou novos compromissos. Retornar à Mesa diante de decisão material de Will fora do escopo ou de resultado importante ainda aberto. A autoria de Sara e Nari permanece independente.
+## Primeiro ponto aberto e limite
 
-Referências: `../canon/direcao.md`, `../canon/personagens/` e `../operacao.md`.
+A próxima autoria disponível é a resposta independente das princesas à pergunta médica, respeitando sua condição extrema. A decisão seguinte de Will sobre método de tratamento, avaliação adicional ou investigação da passagem pertence ao Diretor, salvo delegação suficiente. Não executar cura, reconstrução corporal, abertura de passagem, novo destino ou compromisso futuro por inferência.
+
+A Mesa permanece CICLO OBRIGATÓRIO para novas propostas. O escopo autorizado de prólogo e primeiro capítulo foi consumido. Consultar `../operacao.md`, as fichas e o Estado individual antes de continuar.
