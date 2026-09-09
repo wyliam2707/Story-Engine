@@ -359,7 +359,7 @@ Sara olhou para a própria.
 
 Depois para ele.
 
-**Sara -** Minha aliança está criando uma marca de escravidão.
+**Sara -** Minha aliança está criando uma marca de servidão.
 
 **Will -** Ou meu contrato de servidão está finalmente se estabilizando.
 
