@@ -6,7 +6,7 @@ Status: PREPARAÇÃO EM ANDAMENTO. Documento operacional, não constitui Ficçã
 
 Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Etapa atual: Fichas. Will God Stone possui ficha aprovada e persistida em `canon/personagens/will-god-stone.md`, incluindo suas graduações individuais. Não repetir sua ficha nesta operação.
 
-O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posição, personalidade e poderes principais foram estabelecidos, mas a ficha ainda está em construção. Próximo ponto: propor Saberes amplos compatíveis com sua formação de princesa, guerreira e maga negra, ou receber outros detalhes que o Diretor queira acrescentar. Não inventar técnicas, limitações, história individual ou decisões. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
+O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posição, personalidade, poderes principais e Saberes amplos foram estabelecidos, mas a ficha ainda está em construção. O Diretor aceitou os Saberes propostos e acrescentou Etiqueta e Negociação. Próximo ponto: obter somente detalhes materiais ainda necessários, como idade e história individual, e apresentar uma ficha suficiente para revisão. Não inventar técnicas, limitações, história individual ou decisões. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
 
 ## Núcleo central
 
@@ -17,6 +17,18 @@ O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posiçã
 ## Sana — personalidade e formação
 
 O Diretor definiu Sana como impetuosa, física, explosiva e alguém criada para governar. Essa combinação estabelece temperamento intenso, expressão e atuação marcadas pela presença física e formação voltada ao exercício de autoridade. Sua impulsividade não elimina sua educação para governar, nem determina automaticamente crueldade, incapacidade diplomática ou violência em toda situação. Não inventar traumas, objetivos ocultos, relações ou decisões específicas. A maneira de exercer o poder e suas escolhas concretas serão desenvolvidas pela autoria.
+
+## Sana — Saberes
+
+O Diretor aprovou os campos amplos propostos de Combate, Magia Negra, Governo e Diplomacia, aceitou acrescentar Estratégia Militar e pediu também Etiqueta e Negociação. Os sete Saberes ficam estabelecidos como áreas de formação e repertório, sem criar uma lista exaustiva de técnicas. Graduações individuais ainda não definidas.
+
+- Combate: formação marcial, técnicas de luta, uso de armas compatíveis com seu treinamento, defesa e atuação em confrontos. Nenhuma arma específica foi estabelecida.
+- Magia Negra: conhecimento da tradição mágica de Sana, seus princípios e práticas pertinentes aos domínios que possui. Não importar poderes adicionais automaticamente.
+- Governo: formação para administrar, exercer autoridade, compreender instituições e tomar decisões de governo. O funcionamento concreto do Conclave ainda será construído.
+- Diplomacia: relações políticas, representação, protocolos diplomáticos e condução de entendimentos entre autoridades e grupos.
+- Estratégia Militar: planejamento, organização de forças, leitura de situações militares e emprego de recursos em conflitos, conforme sua formação.
+- Etiqueta: protocolos de corte, precedência, cerimônias, apresentação e conduta em ambientes formais, especialmente nobres e políticos.
+- Negociação: identificação de interesses, propostas, concessões, acordos e resolução de divergências. A formação não obriga Sana a preferir negociar nem garante sucesso.
 
 ## Sana — poderes e graduações
 
