@@ -25,7 +25,7 @@ Estilo e tom aprovados pelo Diretor.
 
 Arthur é um bon vivant. A imagem que apresenta ao mundo é a de alguém que aprecia a boa vida e parece levar as coisas com leveza. Por trás dessa aparência, é manipulador e mais inteligente do que deixa transparecer. A distinção entre sua apresentação social e sua capacidade real é parte de sua identidade, não uma obrigação de enganar em toda conversa.
 
-A natureza, os métodos e as motivações de sua manipulação ainda serão desenvolvidos. Não presumir crueldade, crimes, traumas, objetivos secretos ou superioridade intelectual sobre Emma. Sua personalidade não está concluída, e sua vontade pertence à autoridade que será definida na etapa própria.
+Arthur não possui uma motivação fixa para manipular. Seus motivos e métodos variam conforme a situação, seus interesses e suas escolhas. Não procurar uma causa única que explique esse traço nem inventar uma justificativa psicológica obrigatória. Não presumir crueldade, crimes, traumas, objetivos secretos ou superioridade intelectual sobre Emma. Sua personalidade não está concluída, e sua vontade pertence à autoridade que será definida na etapa própria.
 
 Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparecerem e adquirirem relevância, sem criar elenco ornamental ou fichas antecipadas. Personagens recorrentes podem receber Cadeira e registros próprios quando necessário. A ausência de ficha prévia não impede uma participação incidental legítima.
 
@@ -39,7 +39,7 @@ Premissa: APROVADA.
 Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
 Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
-Próxima etapa: FICHAS, começando pela identidade humana de Arthur Jack. Nome, idade, modo de vida, aparência geral e núcleo inicial de personalidade aprovados; motivações e métodos da manipulação, origem, formação e histórico ainda em construção. Cabelos, olhos, outros detalhes físicos e roupas podem ser definidos quando relevantes. Emma tem 29 anos nesta história. Não inventar profissão, patrimônio, organização, missão ou motivo oculto para justificar sua vida itinerante.
+Próxima etapa: FICHAS, começando pela identidade humana de Arthur Jack. Nome, idade, modo de vida, aparência geral e núcleo inicial de personalidade aprovados, incluindo a ausência de motivação fixa para manipular. Origem, formação e histórico ainda em construção. Cabelos, olhos, outros detalhes físicos e roupas podem ser definidos quando relevantes. Emma tem 29 anos nesta história. Não inventar profissão, patrimônio, organização, missão ou motivo oculto para justificar sua vida itinerante.
 
 A definição anterior da mutação está preservada em `rascunhos/emma-frost-deus-local.md` até sua consolidação na ficha canônica. Esse rascunho não é uma segunda fonte de realidade ficcional e não autoriza importar personagens, fatos ou acontecimentos de outras campanhas.
 
