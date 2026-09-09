@@ -34,7 +34,9 @@ Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
 Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
 Fichas centrais: SUFICIENTES PARA A PREPARAÇÃO. A ficha de Emma foi construída sob a autorização do Diretor; a de Arthur preserva seu núcleo aprovado e deixa detalhes não necessários abertos.
-Próxima etapa: AUTORIDADES, CADEIRAS E EXECUTORES. Diretor, Narrador e Cadeira de Emma configurados. A atribuição da vontade de Arthur ao Diretor ou a uma Cadeira IA permanece pendente de escolha expressa. Não presumir que a autorização para criar Emma transfere a vontade de Arthur ou autoriza iniciar a Ficção.
+Autoridades, Cadeiras e Executores: APROVADOS. Arthur é a Personagem do Diretor, com execução textual delegável à IA. Emma possui Cadeira IA própria.
+Direção: SUFICIENTE PARA A PREPARAÇÃO, consolidada em `canon/direcao.md` a partir das decisões já aprovadas.
+Próxima etapa: POLÍTICAS OPERACIONAIS e MUNDO NECESSÁRIO. Aplicar os padrões vigentes sem transformar a preparação em questionário. A cidade e a situação inicial concreta ainda podem ser escolhidas. Não iniciar Ficção sem autorização semântica de começo.
 
 O rascunho anterior `rascunhos/emma-frost-deus-local.md` permanece como registro histórico da preparação. A ficha de Arthur é a fonte vigente de sua identidade e mutação; o rascunho não é uma segunda fonte canônica. Não importar personagens, fatos ou acontecimentos de outras campanhas para preencher lacunas.
 
@@ -43,14 +45,14 @@ O rascunho anterior `rascunhos/emma-frost-deus-local.md` permanece como registro
 - Diretor: usuário humano. Conduz a obra, fecha Direções e determina o escopo das autorizações.
 - Narrador: IA. Apresenta a Ficção autorizada, preserva continuidade e conduz NPCs incidentais. Não é Juiz permanente nem supervisor das Cadeiras.
 - Emma Frost: Cadeira ficcional e consultiva executada pela IA. Sua vontade própria permanece aberta dentro da Direção e dos fatos da obra. A Cadeira utiliza a ficha, o conhecimento legítimo, o Estado e as relações de Emma, sem importar conhecimento de bastidor. Mantém iniciativas, vínculos e atividades próprios.
-- Arthur Jack: atribuição de vontade ainda pendente de confirmação expressa. Proposta em discussão: Personagem do Diretor, com vontade do usuário e execução textual delegável à IA. Não tratar a proposta como atribuição aprovada.
+- Arthur Jack: Personagem do Diretor, com vontade pertencente ao usuário. A IA pode executar textualmente falas, gestos, humor, flerte, métodos e pequenas decisões compatíveis com o objetivo e o escopo delegados. Sua Cadeira consultiva IA pode propor alternativas e apontar tensões, mas não assume sua vontade. A delegação não autoriza novos objetivos, compromissos, confissões, relações ou decisões materiais fora do escopo.
 - Outras personagens: acrescentar Cadeiras conforme adquirirem relevância. NPCs incidentais podem ser conduzidos pelo Narrador sem ficha antecipada. Não fundir conhecimentos, vontades ou relações por compartilharem executor.
 
-A configuração não modifica as fichas. Uma delegação de execução não transfere automaticamente a vontade nem autoriza compromissos, objetivos ou decisões futuras fora do escopo. Aplicar o ciclo vigente do W4D, com julgamento das Cadeiras pertinentes antes de novas propostas, salvo execução direta expressamente autorizada.
+Configuração aprovada expressamente pelo Diretor. Ela não modifica as fichas. Aplicar o ciclo vigente do W4D, com julgamento das Cadeiras pertinentes antes de novas propostas, salvo execução direta expressamente autorizada. Uma autorização fecha somente o escopo em discussão; não transfere automaticamente o restante do dia ou decisões futuras. As Cadeiras preservam suas vidas independentes e a separação entre conhecimento autoral e ficcional.
 
 ## Políticas e módulos
 
-Aplicar os padrões vigentes do W4D enquanto a configuração específica não for concluída. O Livro será obrigatório e ativo a partir da primeira Ficção. A manutenção da memória seguirá `25-MEMORIA-DE-CAMPANHA.md`, incluindo o comando `atualizar`.
+Aplicar os padrões vigentes do W4D enquanto a configuração operacional específica não for concluída. O padrão é Mesa em CICLO OBRIGATÓRIO e indicador SILENCIOSO. O Livro será obrigatório e ativo a partir da primeira Ficção. A manutenção da memória seguirá `25-MEMORIA-DE-CAMPANHA.md`, incluindo o comando `atualizar`. Módulos opcionais serão ativados conforme escolha ou necessidade real, sem impor tramas ou conflitos.
 
 ## Cânone externo
 
@@ -60,7 +62,7 @@ Universo Marvel dos quadrinhos como referência, com versão local e idade próp
 
 - `canon/personagens/arthur-jack.md`: ficha de Arthur, fonte vigente dos fatos aprovados sobre ele.
 - `canon/personagens/emma-frost.md`: ficha local de Emma, sua identidade, trajetória, capacidades e personalidade.
-- `canon/direcao.md`: Direção autoral vigente, quando criada.
+- `canon/direcao.md`: Direção autoral vigente, com foco, limites e espaço aberto.
 - `canon/relacoes/`: vínculos duradouros que precisem de fonte própria.
 - `canon/mundo/`: fatos externos estáveis necessários.
 - `estado/`: cena atual, personagens, relações e pendências, quando houver condições iniciais suficientes.
