@@ -1,21 +1,27 @@
 # Operação — Fora do Alcance
 
-STATUS: FICÇÃO EM EXECUÇÃO / AGUARDANDO DIRETOR. Capítulo 001 em andamento.
+STATUS: CAPÍTULO 001 FECHADO / AGUARDANDO DIRETOR. O capítulo 002 não foi iniciado.
 
-## Último checkpoint
+## Fechamento
 
-A abertura autorizada foi executada. Emma fugiu da armadilha de Shaw, foi perseguida e perdeu as forças junto ao café onde Arthur estava sentado. Arthur a amparou. Ela recuperou consciência suficiente para conversar, tentou sondar a mente dele sem obter acesso e perguntou quem era. Arthur apresentou-se e realizou uma cura leve, que aliviou a dor aguda e a desorientação e restaurou sua coordenação e lucidez.
+O Diretor solicitou fechar e salvar no GitHub. O capítulo `livro/001-a-queda.md` foi fechado e o índice atualizado. O fechamento não executou despedida, reação, passagem de tempo ou resolução da perseguição. O Estado vivo conserva a cena e as autorias.
 
-Dois seguranças localizaram Emma e exigiram que os acompanhasse. Ela recusou. Arthur advertiu que, se se aproximassem, uma sucessão de causalidades poderia fazê-los escorregar, bater numa mesa e até disparar contra a própria perna. O primeiro exigiu que ele se afastasse; o segundo preferiu evitar uma abordagem ali. Os homens recuaram para as proximidades da esquina, mantendo o café à vista. Um comunicou por rádio que a abordagem estava interrompida. A cadeia causal não precisou ser acionada e ninguém foi ferido.
+## Último checkpoint e continuidade recuperável
 
-Emma saiu do colo de Arthur e sentou-se ao lado dele. Agradeceu pelo amparo e pela cura, chamou a ameaça de curiosamente específica e perguntou o que ele fizera com ela e se falava sério sobre controlar causalidade. O Livro preserva o trecho integral em `livro/001-a-queda.md`; a âncora, os conhecimentos individuais e as pendências estão em `estado/`.
+A abertura autorizada foi executada. Emma fugiu da armadilha de Shaw, foi perseguida e perdeu as forças junto ao café onde Arthur estava sentado. Arthur a amparou. Ela tentou sondar sua mente sem obter acesso e perguntou quem era. Arthur apresentou-se e realizou uma cura leve, que aliviou a dor aguda e a desorientação e restaurou sua coordenação e lucidez. Emma apresentou-se como Emma Frost.
+
+Dois seguranças localizaram Emma e exigiram que os acompanhasse. Ela recusou. Arthur advertiu que, se se aproximassem, uma sucessão de causalidades poderia fazê-los escorregar, bater numa mesa e até disparar contra a própria perna. Os homens recuaram para as proximidades da esquina, mantendo o café à vista. Um comunicou por rádio que a abordagem estava interrompida. A cadeia causal não precisou ser acionada e ninguém foi ferido.
+
+Emma saiu do colo de Arthur e sentou-se ao lado dele. Agradeceu pelo amparo e pela cura, chamou a ameaça de curiosamente específica e perguntou o que ele fizera com ela e se falava sério sobre controlar causalidade. O Livro estava salvo até essa pergunta. As mensagens posteriores do Diretor preservam duas falas adicionais de Arthur: `Pode ter sido um blefe bem elaborado... E você tem cara de quem se recupera rápido.` e `Bom, eu ainda nem te conheço... Seria educado um nome pelo menos.` Ambas foram acrescentadas ao capítulo fechado.
+
+As respostas intermediárias de Emma e eventuais outros trechos dessa continuação não puderam ser recuperados do Livro, da memória contextual ou das fontes disponíveis. Não atribuir à personagem falas, pensamentos, decisões ou mudanças de posição inventados para preencher a lacuna. O último ponto textual recuperável é o pedido de nome. A apresentação anterior de Emma como Emma Frost permanece válida, sem apagar ou reinterpretar o pedido posterior. Se o texto ausente for recuperado, reconciliar a sequência antes de incorporá-lo ao Livro ou ao Estado.
 
 ## Próxima autoria
 
-A próxima resposta ou ação material de Arthur pertence ao Diretor. A Cadeira consultiva pode oferecer alternativas ou apontar tensões. A IA pode executar texto, gestos e métodos dentro de nova delegação, sem decidir objetivos, combate, fuga, convite ou compromisso por conta própria.
+A próxima resposta de Emma, se ainda pendente, pertence à sua Cadeira. A próxima vontade material de Arthur pertence ao Diretor. A IA pode executar texto e métodos dentro de nova delegação, sem decidir objetivos, combate, fuga, convite ou compromisso por conta própria. O pedido atual não autoriza iniciar capítulo 002.
 
-Emma conserva sua Cadeira independente e conhece apenas o que percebeu. Sabe o primeiro nome de Arthur, que ele a curou, que sua sondagem não encontrou acesso e que ele ameaçou controlar causalidade. Não conhece a natureza ou o alcance do Domínio. Arthur não recebeu explicação sobre Shaw, o dispositivo ou a tentativa telepática. Os seguranças desconhecem a identidade e as capacidades de Arthur. A perseguição permanece sem resolução e não deve ser encerrada por conveniência. Não antecipar sucesso, derrota, captura, fuga conjunta ou aproximação romântica.
+Emma conhece somente o que percebeu: o primeiro nome de Arthur, sua cura extraordinária, a sondagem sem acesso e a ameaça de causalidade, que ele posteriormente admitiu poder ter sido um blefe. Não conhece a natureza ou o alcance do Domínio de Realidade. Arthur não recebeu explicação registrada sobre Shaw, o dispositivo ou a tentativa telepática. Os seguranças desconhecem a identidade e as capacidades de Arthur. A perseguição permanece sem resolução. Não antecipar captura, vitória, fuga conjunta, atração ou aproximação romântica.
 
-## Direção restante
+## Retomada
 
-Aplicar a premissa e o tom em `canon/direcao.md`. A abertura consumida pertence ao Livro; não a repetir. Novas propostas seguem a Mesa obrigatória, salvo execução direta expressa. A autorização anterior não transfere o restante do dia. `atualizar` preserva o ponto sem avançar ou fechar capítulo.
+Carregar INICIO, Direção, quatro arquivos de Estado, fichas pertinentes e o capítulo 001 fechado. Reconstruir Cadeiras e conhecimentos separadamente. Não refazer a abertura. Novas propostas seguem a Mesa obrigatória, salvo execução direta expressa. `atualizar` preserva o ponto sem avançar nem fechar capítulo.
