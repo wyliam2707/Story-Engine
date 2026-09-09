@@ -1,23 +1,31 @@
 # Cena atual
 
-Status: EM EXECUÇÃO, primeiro capítulo fechado na versão dos três POVs.
+Status: EM EXECUÇÃO, capítulo 2 fechado.
 
 ## Momento e lugar
 
-Éter, interior da residência temporária criada por Will God Stone com o Pagoda do Céu. O prólogo e o primeiro capítulo estão registrados no Livro. A última cena termina após as duas junções de almas, antes de qualquer tratamento reparador ou tentativa de passagem.
+Fim do terceiro dia após a reconstrução dos corpos, no interior da residência temporária criada por Will God Stone com o Pagoda do Céu, no Éter.
+
+O capítulo 2 termina após Will, Sara e Nari analisarem as marcas e formularem a hipótese de que a magia somou elementos de servidão e casamento, criando uma espécie de “servidão ao casamento”. A tentativa de abertura de passagem ainda não ocorreu.
 
 ## Presentes e condições
 
-Will: presente com Sara e Nari, com cultivo Santo e capacidades preservados. Possui o Pagoda do Céu. Estabeleceu comunicação mental separada e firmou dois acordos. Conhece os nomes Sara Iron Heart e Nari Bood Heart, mas não suas posições políticas, o nome Elder, a emboscada ou o significado matrimonial das junções. Acredita ter dois contratos de servidão revogáveis e pretende libertar ambas após a travessia. Possui as duas ligações que pretende utilizar para o tratamento e como referências para uma passagem. Nenhum resultado médico ou dimensional foi executado.
+Will: presente com Sara e Nari. Cultivo Santo e capacidades preservados. Gastou quantidade extraordinária de energia de Madeira na reconstrução das duas e passou os três dias recuperando lentamente a reserva no Éter. Ao fim do intervalo, recuperou energia suficiente para considerar próxima a tentativa de passagem, mas ainda não a executou. Possui uma marca semelhante a aliança na mão e está sujeito aos efeitos já observados do vínculo híbrido.
 
-Sara Iron Heart e Nari Bood Heart: presentes no abrigo, com corpos físicos quase sem integridade, a um suspiro da morte. A exposição direta ao Éter cessou, mas não houve cura ou recuperação. Ambas responderam mentalmente, aceitaram separadamente uma junção com Will e receberam marcas discretas nas mãos. Cada uma acredita ter aceitado um casamento arranjado para sobreviver e permitir que a outra fique livre. Nenhuma sabe que a outra também assinou. Não conhecem a longevidade de Will, sua intenção de revogar os vínculos ou a interpretação que ele atribui à servidão.
+Sara Iron Heart e Nari Bood Heart: corpos reconstruídos e íntegros. A força e a capacidade funcional avançaram bastante durante os três dias, embora a recuperação não tenha sido declarada absolutamente completa. Estão em sua forma comum quase humana, com pequenos chifres e sem asas visíveis; a Forma Demoníaca permanece uma transformação de combate. Usam roupas improvisadas de Will.
 
-## Último fato válido
+## Conhecimento compartilhado relevante
 
-O contato mental com Nari terminou depois da segunda junção. Will permaneceu diante das duas, com as ligações estabelecidas. O significado completo da terceira interpretação mágica permanece desconhecido. Referência: `../livro/001-um-nome-no-vazio.md`.
+Os três descobriram o mal-entendido dos acordos. Will acreditava sinceramente ter firmado dois contratos de servidão revogáveis e pretendia libertar ambas após a travessia. Sara e Nari acreditavam sinceramente ter aceitado casamento. Cada princesa sabe agora que a outra também firmou uma junção.
+
+Will sabe que Sara e Nari são demônios e que sua constituição impede escravidão comum; sabe que a junção de almas possui significado matrimonial para elas. Sara e Nari sabem que Will utilizava uma tradição diferente de contratos e não pretendia conscientemente contrair os dois casamentos que elas entenderam.
+
+Os três observaram uma terceira interpretação mágica: marca em Will, marcas híbridas nas princesas, reunião na mesma cama quando dormem separados, vocativos conjugais involuntários em certas falas e restrição a agressão física direta entre os cônjuges. A hipótese atual é que a magia somou as duas estruturas. O funcionamento completo e a possibilidade de desfazer o vínculo permanecem desconhecidos.
 
 ## Primeiro ponto aberto e limite
 
-Mesa aberta para o tratamento e as ações seguintes de Will. A vontade de Will pertence ao Diretor, com execução IA no escopo delegado. Sara e Nari possuem Cadeiras independentes. Não antecipar cura, reconstrução, passagem, chegada a Elder ou revelação do mal-entendido. Não presumir que uma princesa saiba do acordo da outra.
+Mesa aberta a partir do fim do terceiro dia. A próxima decisão material pode envolver a tentativa de passagem, preparação para sair do Éter, investigação adicional do vínculo ou outra direção do Diretor.
 
-Mesa CICLO OBRIGATÓRIO para novas propostas materiais, sem consultas repetidas a cada frase ou gesto de execução já autorizada. Preservar o ponto exato quando houver interrupção ou correção.
+Não executar abertura de passagem, chegada ao mundo natal, descoberta política, reação do Conclave ou novos efeitos do vínculo sem autoria. A vontade de Will pertence ao Diretor; Sara e Nari possuem Cadeiras independentes. Mesa CICLO OBRIGATÓRIO para novas propostas materiais, sem microconsultas dentro de uma execução já autorizada.
+
+Referências: `../livro/002-tres-dias.md` e `../canon/mundo/juncao-de-almas.md`.
