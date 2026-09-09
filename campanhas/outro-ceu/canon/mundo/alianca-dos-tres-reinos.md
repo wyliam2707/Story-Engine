@@ -7,7 +7,7 @@ Status: CÂNONE DE MUNDO EM DESENVOLVIMENTO
 
 Os reinos humanos, élficos e anões formam uma aliança voltada à conquista de terras demoníacas. Cada integrante possui interesses próprios, e o propósito de conquista não é comunicado diretamente aos demônios. O nome Aliança dos Três Reinos é uma designação de referência; eventual nome formal, data de fundação e instituições específicas permanecem abertos.
 
-A aliança é um fato do cenário e seu objetivo é real, mas não implica que a invasão já tenha começado, que exista uma guerra declarada ou que a conquista esteja predeterminada. Os reinos conservam suas identidades e interesses. Não presumir uma vontade única de todos os habitantes, governantes ou facções.
+A aliança conserva as identidades e interesses dos reinos. Não presumir uma vontade única de todos os habitantes, governantes ou facções.
 
 ## Objetivos particulares
 
@@ -25,18 +25,22 @@ Buscam acesso e controle econômico das minas e recursos demoníacos ainda quase
 
 ## Face pública e propósito reservado
 
-A aliança pode apresentar sua cooperação como defesa regional, estabilidade, proteção de rotas, comércio e entendimento entre reinos. Essa é a linha pública proposta para suas relações externas, enquanto o objetivo de conquista permanece reservado às autoridades e participantes efetivamente envolvidos. Não atribuir conhecimento do plano a todos os cidadãos, soldados, comerciantes ou representantes. Não estabelecer automaticamente que os demônios desconhecem toda e qualquer suspeita ou informação: o que cada personagem sabe dependerá de suas fontes e acontecimentos.
+A aliança pode apresentar sua cooperação como defesa regional, estabilidade, proteção de rotas, comércio e entendimento entre reinos. O objetivo de conquista permanece reservado às autoridades e participantes efetivamente envolvidos. Não atribuir conhecimento do plano a todos os cidadãos, soldados, comerciantes ou representantes. Não estabelecer automaticamente que os demônios desconhecem toda e qualquer suspeita ou informação: o que cada personagem sabe dependerá de suas fontes e acontecimentos.
 
-A existência de contatos diplomáticos, propostas comerciais, discursos públicos específicos, tratados, espionagem, preparativos militares e eventuais operações será desenvolvida quando necessária. O disfarce político não obriga os demônios a confiar na aliança nem determina suas reações.
+O disfarce político não obriga os demônios a confiar na aliança nem determina suas reações.
 
 ## Equilíbrio e tensões internas
 
 A cooperação permite reunir população, recursos, conhecimento territorial, capacidades militares e produção de diferentes reinos. A superioridade individual, vitalidade e força do exército demoníaco continuam válidas. A zona da Ruptura do Caos é quase inóspita para as demais raças e representa uma dificuldade real de qualquer projeto de conquista, sem que se invente uma impossibilidade absoluta, um custo mágico ou uma solução automática.
 
-Os interesses dos aliados não são idênticos: expansão humana, objetivos élficos relativos à magia e acesso anão aos recursos podem gerar divergências sobre o uso e a distribuição das terras. Nenhuma traição, ruptura da aliança, plano operacional ou resultado de conflito está predeterminado.
+Os interesses dos aliados não são idênticos: expansão humana, objetivos élficos relativos à magia e acesso anão aos recursos podem gerar divergências sobre o uso e a distribuição das terras. Nenhuma conquista, ruptura da aliança ou resultado de guerra está predeterminado.
 
-## Estado da preparação
+## Facção favorável à guerra e antecedente do encontro
 
-A aliança e seus objetivos foram estabelecidos pelo Diretor durante a construção do mundo. Detalhes de organização, lideranças, cronologia, grau de preparação, plano militar, repartição de conquistas e momento de eventual ofensiva permanecem abertos. Não iniciar Ficção nem converter o objetivo político em eventos já ocorridos. O Conclave e as Casas demoníacas serão desenvolvidos progressivamente, preservando a autoria independente de seus integrantes.
+Existe dentro da aliança uma facção favorável à guerra aberta. Uma operação conspiratória utiliza uma falsa reunião diplomática, uma tentativa de captura, artefatos de destruição em área e uma força de extermínio enviada pelos humanos para eliminar sobreviventes. Os detalhes e a sequência aprovados estão em `antecedentes-do-encontro.md`, fonte primária desse acontecimento. Não confundir a facção com a totalidade dos três povos nem atribuir conhecimento integral a todos os participantes.
 
-Fontes relacionadas: `elder.md` para os povos e continente; `demonios.md` para a espécie, a Ruptura do Caos e suas capacidades.
+A operação é um acontecimento estabelecido, mas não determina automaticamente que a guerra já tenha sido declarada, que todos os governos tenham autorizado o extermínio ou que a conquista tenha tido êxito. A composição da facção, sua cadeia de comando, os conhecimentos individuais e a resposta posterior dos reinos permanecem abertos.
+
+## Fontes relacionadas
+
+`elder.md` para os povos e continente; `demonios.md` para a espécie, a Ruptura do Caos e suas capacidades; `conclave.md` para o governo demoníaco; `antecedentes-do-encontro.md` para a operação e seus resultados aprovados.
