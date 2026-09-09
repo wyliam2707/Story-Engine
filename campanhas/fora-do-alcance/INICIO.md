@@ -25,7 +25,7 @@ Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparec
 
 ## Condição inicial em preparação
 
-Arthur está passando uma temporada na cidade onde Emma mora. A cidade exata, a duração da estadia, a hospedagem e as circunstâncias do encontro ainda não foram definidas. Essa condição foi aprovada como ponto de partida, mas nenhuma cena ou encontro foi executado.
+Nova York é a cidade escolhida para a abertura. Emma mantém ali sua vida pessoal e empresarial e seus vínculos com os X-Men. Arthur está passando uma temporada na cidade, sem destino fixo ou missão que justifique sua presença. A duração da estadia, a hospedagem, a situação cotidiana concreta de Emma e as circunstâncias do encontro ainda não foram definidas. Nenhuma cena ou encontro foi executado.
 
 ## Criação em andamento
 
@@ -36,7 +36,9 @@ Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
 Fichas centrais: SUFICIENTES PARA A PREPARAÇÃO. A ficha de Emma foi construída sob a autorização do Diretor; a de Arthur preserva seu núcleo aprovado e deixa detalhes não necessários abertos.
 Autoridades, Cadeiras e Executores: APROVADOS. Arthur é a Personagem do Diretor, com execução textual delegável à IA. Emma possui Cadeira IA própria.
 Direção: SUFICIENTE PARA A PREPARAÇÃO, consolidada em `canon/direcao.md` a partir das decisões já aprovadas.
-Próxima etapa: POLÍTICAS OPERACIONAIS e MUNDO NECESSÁRIO. Aplicar os padrões vigentes sem transformar a preparação em questionário. A cidade e a situação inicial concreta ainda podem ser escolhidas. Não iniciar Ficção sem autorização semântica de começo.
+Políticas operacionais: padrões vigentes do W4D aplicáveis.
+Mundo necessário: Nova York aprovada como cidade inicial. Os antagonismos históricos de Emma podem ser consultados e selecionados conforme a necessidade, sem criar uma ameaça ativa ou um arco obrigatório.
+Próxima etapa: completar somente a situação inicial necessária, preparar o Estado e realizar a Auditoria. Não iniciar Ficção sem autorização semântica de começo.
 
 O rascunho anterior `rascunhos/emma-frost-deus-local.md` permanece como registro histórico da preparação. A ficha de Arthur é a fonte vigente de sua identidade e mutação; o rascunho não é uma segunda fonte canônica. Não importar personagens, fatos ou acontecimentos de outras campanhas para preencher lacunas.
 
@@ -52,7 +54,7 @@ Configuração aprovada expressamente pelo Diretor. Ela não modifica as fichas.
 
 ## Políticas e módulos
 
-Aplicar os padrões vigentes do W4D enquanto a configuração operacional específica não for concluída. O padrão é Mesa em CICLO OBRIGATÓRIO e indicador SILENCIOSO. O Livro será obrigatório e ativo a partir da primeira Ficção. A manutenção da memória seguirá `25-MEMORIA-DE-CAMPANHA.md`, incluindo o comando `atualizar`. Módulos opcionais serão ativados conforme escolha ou necessidade real, sem impor tramas ou conflitos.
+Mesa em CICLO OBRIGATÓRIO e indicador SILENCIOSO. Aplicar os demais padrões vigentes do W4D. O Livro será obrigatório e ativo a partir da primeira Ficção. A manutenção da memória seguirá `25-MEMORIA-DE-CAMPANHA.md`, incluindo o comando `atualizar`. Módulos opcionais serão ativados conforme escolha ou necessidade real, sem impor tramas ou conflitos.
 
 ## Cânone externo
 
