@@ -85,7 +85,7 @@ Não sabia se possuíam uma anatomia compatível com qualquer paciente que trata
 
 Nada disso tinha prioridade.
 
-*Primeiro impedir que o problema continue piorando.*
+**Will, pensa -** *Primeiro impedir que o problema continue piorando.*
 
 A conclusão surgiu com a naturalidade de um reflexo.
 
@@ -123,7 +123,7 @@ A deterioração causada pela exposição direta cessou.
 
 Will só então permitiu que os ombros relaxassem uma fração.
 
-*Agora posso descobrir o tamanho do desastre.*
+**Will, pensa -** *Agora posso descobrir o tamanho do desastre.*
 
 A residência do Pagoda não curava ninguém por simples benevolência. Sua proteção afastava o efeito destrutivo do Éter, mas tudo aquilo que já fora perdido permanecia perdido.
 
@@ -169,7 +169,7 @@ Will possuía Medicina em um nível que poucas pessoas de seu mundo poderiam seq
 
 Nada disso lhe dava licença para olhar uma fisiologia desconhecida e fingir que já a conhecia.
 
-*Definitivamente não são cultivadoras como eu.*
+**Will, pensa -** *Definitivamente não são cultivadoras como eu.*
 
 Ele mudou a abordagem.
 
@@ -199,7 +199,7 @@ Não era apenas uma questão de reconstruir matéria.
 
 Se trabalhasse sobre os corpos como quem restaurava recipientes vazios, poderia conseguir exatamente isso: recipientes.
 
-*Uma casa perfeitamente reconstruída não serve para muita coisa se o morador já foi embora.*
+**Will, pensa -** *Uma casa perfeitamente reconstruída não serve para muita coisa se o morador já foi embora.*
 
 A energia de Madeira seria essencial. Regeneração poderia fornecer uma parte da resposta. Medicina, outra. Os recursos que possuía no Pagoda também seriam necessários.
 
@@ -263,7 +263,7 @@ Duas vidas tinham atravessado o impossível e caído praticamente diante dele.
 
 Era difícil não considerar isso uma oportunidade.
 
-*Preciso das duas.*
+**Will, pensa -** *Preciso das duas.*
 
 O pensamento não era agradável, mas era simples.
 
@@ -335,7 +335,7 @@ Uma consciência.
 
 Will soltou lentamente o ar.
 
-*Tem alguém aí.*
+**Will, pensa -** *Tem alguém aí.*
 
 Pela primeira vez desde que encontrara as duas formas no Éter, uma delas deixou de ser apenas uma paciente desconhecida.
 
