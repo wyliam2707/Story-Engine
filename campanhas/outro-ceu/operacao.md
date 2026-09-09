@@ -6,17 +6,28 @@ Status: PREPARAÇÃO EM ANDAMENTO. Documento operacional, não constitui Ficçã
 
 Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Etapa atual: Fichas. Will God Stone possui ficha aprovada e persistida em `canon/personagens/will-god-stone.md`, incluindo suas graduações individuais. Não repetir sua ficha nesta operação.
 
-O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posição e personalidade foram estabelecidas, mas a ficha ainda está em construção. Próximo ponto: definir seus domínios de combate e magia negra, sem inventar técnicas ou limitações. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
+O Diretor está construindo a ficha de Sana Iron Heart. Sua identidade, posição, personalidade e poderes principais foram estabelecidos, mas a ficha ainda está em construção. Próximo ponto: propor Saberes amplos compatíveis com sua formação de princesa, guerreira e maga negra, ou receber outros detalhes que o Diretor queira acrescentar. Não inventar técnicas, limitações, história individual ou decisões. Não iniciar Ficção. O mundo será construído durante a preparação, conforme solicitado.
 
 ## Núcleo central
 
 - Will God Stone: protagonista, cultivador Santo, ficha aprovada.
-- Sana Iron Heart (SA): princesa da Casa Iron Heart, uma das candidatas a se tornar uma das próximas rainhas do Conclave. Guerreira e maga negra poderosa para os padrões de sua raça. Escala comparativa 16 diante de Will 64. A diferença não implica incompetência, humilhação ou perda de autonomia. A referência visual foi fornecida pelo Diretor nesta conversa; seus bytes ainda não foram incorporados ao repositório. Ela apresenta aparência adulta, cabelos longos prateados, franja escura, chifres negros, asas escuras e traje vermelho escuro e preto. Idade, poderes específicos e história individual permanecem abertos.
+- Sana Iron Heart (SA): princesa da Casa Iron Heart, uma das candidatas a se tornar uma das próximas rainhas do Conclave. Guerreira e maga negra poderosa para os padrões de sua raça. Escala comparativa 16 diante de Will 64. A diferença não implica incompetência, humilhação ou perda de autonomia. A referência visual foi fornecida pelo Diretor nesta conversa; seus bytes ainda não foram incorporados ao repositório. Ela apresenta aparência adulta, cabelos longos prateados, franja escura, chifres negros, asas escuras e traje vermelho escuro e preto. Idade e história individual permanecem abertas.
 - NA: conhecida de Sana, não sua irmã, também princesa de um reino demoníaco. Identidade individual ainda aberta.
 
 ## Sana — personalidade e formação
 
 O Diretor definiu Sana como impetuosa, física, explosiva e alguém criada para governar. Essa combinação estabelece temperamento intenso, expressão e atuação marcadas pela presença física e formação voltada ao exercício de autoridade. Sua impulsividade não elimina sua educação para governar, nem determina automaticamente crueldade, incapacidade diplomática ou violência em toda situação. Não inventar traumas, objetivos ocultos, relações ou decisões específicas. A maneira de exercer o poder e suas escolhas concretas serão desenvolvidas pela autoria.
+
+## Sana — poderes e graduações
+
+- Magia Negra: domínio ou tradição mágica de Sana. O Diretor definiu seu poder específico como Manipulação de Trevas; não importar automaticamente necromancia, corrupção, maldições, controle mental ou outros efeitos não estabelecidos.
+- Manipulação de Trevas [Padrão]: permite manipular trevas. Aplicações, alcance e funcionamento detalhado podem ser desenvolvidos dentro desse domínio, sem acrescentar capacidades materiais de outra natureza.
+- Forma Demoníaca [Excepcional]: transformação de natureza principalmente marcial e protetora, concebida mais como uma armadura do que como uma aberração. Preservar a identidade e a aparência reconhecível de Sana. Sua natureza, manifestações e aplicações específicas permanecem abertas, sem presumir custos, perda de controle ou poderes adicionais.
+- Força [Excelente].
+- Velocidade [Excelente].
+- Resistência [Excelente].
+
+As graduações são as do Story Engine, aplicadas a domínios descritos. A escala comparativa 16/64 não converte automaticamente esses graus em valores de teste, nem retira capacidades de Sana para criar equilíbrio. Não presumir que a Forma Demoníaca altere automaticamente os graus físicos já definidos sem alinhamento.
 
 ## Mundo e escalas
 
