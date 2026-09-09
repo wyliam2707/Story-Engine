@@ -4,7 +4,7 @@ STATUS: EM PREPARAÇÃO
 
 ## Proposta curta
 
-Uma história 100% autoral em que um mago/cultivador é transportado para outro mundo e encontra duas pessoas feridas, identificadas provisoriamente como SA e NA. O encontro coloca três desconhecidos diante de uma situação que pode mudar suas vidas, enquanto o protagonista precisa compreender o lugar ao qual chegou, suas regras e as pessoas que o habitam.
+Uma história 100% autoral em que Will God Stone, mago/cultivador de outro mundo, é transportado após sua Tribulação do Céu e encontra duas princesas demoníacas feridas, Sana Iron Heart e NA. O encontro coloca três desconhecidos diante de uma situação que pode mudar suas vidas, enquanto Will precisa compreender o lugar ao qual chegou, suas regras e as pessoas que o habitam.
 
 A história acompanha o desenvolvimento desse encontro e a descoberta do novo mundo, permitindo que relações, objetivos, conflitos e acontecimentos sejam construídos por autoria, sem destino obrigatório definido de antemão.
 
@@ -16,7 +16,7 @@ O tom combina maravilhamento diante do desconhecido, humor natural e consequênc
 
 ## Personagens centrais
 
-Núcleo aprovado: Will God Stone, SA e NA. Will é o mago/cultivador protagonista, cuja ficha está aprovada em `canon/personagens/will-god-stone.md`. SA e NA são conhecidas, não irmãs, e ambas princesas de um reino demoníaco. A designação demoníaco não estabelece ligação com inferno. Suas fichas individuais ainda estão em preparação. As atribuições de autoria ainda não foram definidas.
+Núcleo aprovado: Will God Stone, Sana Iron Heart (antiga SA) e NA (designação provisória). As três fichas suficientes estão aprovadas e persistidas em `canon/personagens/`. Sana e NA são conhecidas, não irmãs, ambas princesas de um reino demoníaco. Sana pertence à Casa Iron Heart e é candidata a uma das próximas rainhas do Conclave. O nome completo e a Casa de NA permanecem abertos. A designação demoníaco não estabelece ligação com inferno. Atribuições de autoria ainda não definidas.
 
 ## Políticas e módulos
 
@@ -31,10 +31,16 @@ Obra 100% autoral. Não importar personagens, fatos, poderes ou regras de outras
 
 ## Mapa das fontes
 
-A ficha aprovada de Will está em `canon/personagens/will-god-stone.md`. As demais fontes de Direção, personagens, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `operacao.md` preserva a construção em andamento e o ponto de retomada, sem substituir o cânone. `livro/` será ativado com a primeira Ficção.
+- `canon/personagens/will-god-stone.md`: ficha aprovada de Will.
+- `canon/personagens/sana-iron-heart.md`: ficha aprovada de Sana.
+- `canon/personagens/na.md`: ficha aprovada da segunda princesa, com designação provisória.
+- `canon/mundo/demonios.md`: natureza, longevidade e capacidades raciais comuns dos demônios.
+- `operacao.md`: preparação em andamento, pendências e ponto de retomada, sem substituir o cânone.
+
+As demais fontes de Direção, relações, mundo e Estado serão criadas progressivamente conforme a preparação e as aprovações. `livro/` será ativado com a primeira Ficção.
 
 ## Retomada
 
-Etapa atual: Fichas. Will God Stone possui ficha aprovada. SA e NA ainda serão construídas individualmente. O Diretor está alinhando o uso de graduações nos poderes; consultar `operacao.md` para o ponto aberto. Premissa, Estilo/Tom, Nome/Destino e núcleo central aprovados. Nenhuma Ficção foi iniciada. O mundo será construído durante a preparação, conforme solicitação do Diretor.
+Etapas de Premissa, Estilo/Tom, Nome/Destino, Personagens Centrais e Fichas suficientes concluídas. Etapa atual: Autoridades, Cadeiras e Executores. Consultar `operacao.md` para o ponto aberto e as lacunas não impeditivas. Nenhuma Ficção foi iniciada. O mundo será construído progressivamente, conforme solicitação do Diretor.
 
 Seguir as normas vigentes de `regras-basicas/`, especialmente os arquivos 04, 10, 16, 24 e 25. Não transformar elementos provisórios em fatos adicionais, nem iniciar a primeira cena antes da preparação e autorização correspondentes.
