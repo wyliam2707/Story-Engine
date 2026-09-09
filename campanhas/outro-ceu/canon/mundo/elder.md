@@ -35,6 +35,22 @@ Os elfos são protetores de suas terras florestais e desconfiados de forasteiros
 
 A inimizade entre elfos e demônios é um fato da relação entre os povos. Sua origem histórica, intensidade, manifestações políticas, conflitos passados e possíveis exceções individuais permanecem abertos. Não inventar guerra atual, massacre, tratado ou obrigação de hostilidade em todo encontro.
 
+## Anões
+
+Os anões vivem em média 200 anos e habitam as montanhas de Elder. São rústicos e ambiciosos, com uma sociedade fortemente associada à mineração, à forja e ao comércio. Esses traços representam tendências culturais, sem determinar a personalidade ou ocupação de cada indivíduo.
+
+### Capacidades
+
+Seguem a referência usual de um ou dois poderes por indivíduo, com graduações entre [Padrão] e [Excelente], assim como humanos e elfos. As especializações, tradições mágicas e capacidades individuais ainda não foram detalhadas. Mineração e forja são atividades e conhecimentos importantes, sem conceder automaticamente poderes extraordinários a todos os anões.
+
+### Economia e relações
+
+Os anões extraem minérios, forjam armas e comercializam seus produtos. Mantêm muitos negócios com humanos e elfos. A natureza, volume e organização desses acordos ainda podem ser desenvolvidos.
+
+Há gerações, os anões estão de olho nas minas ainda quase inexploradas dos demônios. O interesse por esses recursos é um elemento estabelecido de sua relação com o território demoníaco. Não presumir que já possuam direitos de exploração, acesso autorizado, concessões, acordos, invasões ou operações militares. A localização, os minérios, a extensão das reservas e os motivos da exploração reduzida permanecem abertos.
+
+A ambição comercial e o interesse nas minas podem sustentar negociações, disputas econômicas e tensões futuras, mas não determinam automaticamente hostilidade, guerra ou um plano coletivo único.
+
 ## Fontes relacionadas
 
 A fonte primária da raça demoníaca, incluindo longevidade, reprodução e base racial de poderes, é `demonios.md`. A política do Conclave e das Casas ainda será desenvolvida. Este documento não altera as fichas de Will, Sana ou NA, nem antecipa a posição dos quatro reinos no continente.
