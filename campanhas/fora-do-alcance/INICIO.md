@@ -18,8 +18,8 @@ Estilo e tom aprovados pelo Diretor.
 
 ## Personagens centrais
 
-- Emma Frost: personagem adulta do universo Marvel, escolhida para o romance. Versão, período e situação inicial ainda serão definidos.
-- Arthur Jack: protagonista original, homem adulto e mutante. Vive de maneira simples, viajando pelo mundo sem destino fixo. Sua identidade humana ainda está em construção. Sua mutação aprovada é Domínio de Realidade, um deus local com alcance de três metros. A descrição detalhada será incorporada à ficha durante a etapa própria, sem reduzir o conceito aprovado.
+- Emma Frost: personagem adulta do universo Marvel, com 29 anos nesta história, um ano mais velha que Arthur. Escolhida para o romance. Versão, período e situação inicial ainda serão definidos.
+- Arthur Jack: protagonista original, homem adulto de 28 anos e mutante. Vive de maneira simples, viajando pelo mundo sem destino fixo. Sua identidade humana ainda está em construção. Sua mutação aprovada é Domínio de Realidade, um deus local com alcance de três metros. A descrição detalhada será incorporada à ficha durante a etapa própria, sem reduzir o conceito aprovado.
 
 Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparecerem e adquirirem relevância, sem criar elenco ornamental ou fichas antecipadas. Personagens recorrentes podem receber Cadeira e registros próprios quando necessário. A ausência de ficha prévia não impede uma participação incidental legítima.
 
@@ -33,7 +33,7 @@ Premissa: APROVADA.
 Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
 Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
-Próxima etapa: FICHAS, começando pela identidade humana de Arthur Jack. Nome e modo de vida aprovados; idade exata, personalidade, origem, formação e histórico ainda em construção. Não inventar profissão, patrimônio, organização, missão ou motivo oculto para justificar sua vida itinerante.
+Próxima etapa: FICHAS, começando pela identidade humana de Arthur Jack. Nome, idade e modo de vida aprovados; aparência, personalidade, origem, formação e histórico ainda em construção. Emma tem 29 anos nesta história. Não inventar profissão, patrimônio, organização, missão ou motivo oculto para justificar sua vida itinerante.
 
 A definição anterior da mutação está preservada em `rascunhos/emma-frost-deus-local.md` até sua consolidação na ficha canônica. Esse rascunho não é uma segunda fonte de realidade ficcional e não autoriza importar personagens, fatos ou acontecimentos de outras campanhas.
 
