@@ -47,6 +47,8 @@ Impetuosa, física, explosiva e criada para governar. Tende a expressar-se e agi
 
 ## 6. Histórico
 
-Pertence à Casa Iron Heart e recebeu formação compatível com sua posição de princesa e candidata a rainha do Conclave. É conhecida de Nari Bood Heart, antiga NA, e não é sua irmã. A natureza específica do vínculo entre elas, a estrutura política do Conclave, a sucessão e os acontecimentos particulares de sua vida permanecem abertos. Não pressupor que já seja rainha, única sucessora ou que exista disputa obrigatória entre candidatas.
+Pertence à Casa Iron Heart e recebeu formação compatível com sua posição de princesa e candidata a rainha do Conclave. É conhecida de Nari Bood Heart, antiga NA, e não é sua irmã. A natureza específica do vínculo entre elas e os acontecimentos particulares anteriores de sua vida permanecem abertos. Não pressupor que já seja rainha, única sucessora ou que exista disputa obrigatória entre candidatas.
 
-O encontro inicial estabelecido na premissa envolve Sara e Nari feridas e Will chegando ao novo mundo. As causas dos ferimentos, circunstâncias e resultados ainda não foram definidos. A ficha não antecipa decisões ou acontecimentos da Ficção.
+Os antecedentes aprovados do encontro estão registrados em `../mundo/antecedentes-do-encontro.md`. Sara e Nari sobrevivem à destruição de uma falsa reunião diplomática, enfrentam uma força de extermínio e, já a um suspiro da morte, utilizam uma relíquia danificada para chegar ao Éter. A deterioração compromete quase toda a integridade de seus corpos físicos. Will as encontra e as leva à residência criada pelo Pagoda do Céu antes de iniciar comunicação mental.
+
+A ficha não antecipa recuperação, resultados da conversa, abertura de passagem ou decisões posteriores. Os acontecimentos executados serão preservados no Livro e as condições atuais no Estado.
