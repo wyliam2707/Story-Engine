@@ -119,7 +119,7 @@ Não atravessou ouvidos.
 
 Ela simplesmente alcançou sua consciência.
 
-“Consegue me ouvir?”
+**Will -** Consegue me ouvir?
 
 Sara tentou responder.
 
@@ -129,7 +129,7 @@ Seu instinto ainda procurava pulmões, garganta e língua, embora nenhum deles p
 
 A voz retornou.
 
-“Não precisa falar com o corpo. Apenas tente responder se conseguir me compreender.”
+**Will -** Não precisa falar com o corpo. Apenas tente responder se conseguir me compreender.
 
 Sara concentrou-se.
 
@@ -137,11 +137,11 @@ A tentativa lhe custou mais do que gostaria de admitir.
 
 Mesmo assim, conseguiu empurrar alguma coisa de volta naquela direção.
 
-“Quem... está falando?”
+**Sara -** Quem... está falando?
 
 A resposta veio quase imediatamente.
 
-“Meu nome é Will. Sou médico.”
+**Will -** Meu nome é Will. Sou médico.
 
 Médico.
 
@@ -151,15 +151,15 @@ De todas as coisas que poderiam ter encontrado uma mulher quase destruída em al
 
 A voz continuou.
 
-“Encontrei você e outra pessoa no Éter. Trouxe as duas para um lugar protegido.”
+**Will -** Encontrei você e outra pessoa no Éter. Trouxe as duas para um lugar protegido.
 
 Outra pessoa.
 
 Os pensamentos de Sara se reorganizaram de uma vez.
 
-“Nari?”
+**Sara -** Nari?
 
-“Não sabia o nome dela. Ainda não consegui falar com ela. Está viva.”
+**Will -** Não sabia o nome dela. Ainda não consegui falar com ela. Está viva.
 
 Viva.
 
@@ -189,9 +189,9 @@ Agora Nari estava ali.
 
 Onde quer que *ali* fosse.
 
-“Você disse Éter.”
+**Sara -** Você disse Éter.
 
-“Uma dimensão entre dimensões.”
+**Will -** Uma dimensão entre dimensões.
 
 Sara não conhecia o nome.
 
@@ -209,7 +209,7 @@ Saber quem acreditava estar no comando.
 
 Naquele momento, não possuía sequer certeza de ainda ter duas pernas.
 
-“O ambiente estava deteriorando vocês”, explicou Will. “Minha residência impede que isso continue enquanto estiverem aqui. O que já foi perdido, porém, continua perdido.”
+**Will -** O ambiente estava deteriorando vocês. Minha residência impede que isso continue enquanto estiverem aqui. O que já foi perdido, porém, continua perdido.
 
 Sara tentou sentir o próprio corpo novamente.
 
@@ -219,11 +219,11 @@ Pelo menos agora havia uma razão.
 
 Não era uma razão agradável.
 
-“Você disse que é médico.”
+**Sara -** Você disse que é médico.
 
-“Sim.”
+**Will -** Sim.
 
-“Então sabe a gravidade.”
+**Sara -** Então sabe a gravidade.
 
 Desta vez houve uma pausa.
 
@@ -235,13 +235,13 @@ Porque médicos que demoravam antes de responder perguntas simples geralmente es
 
 Ela preferia as ruins sem decoração.
 
-“Seus corpos estão quase sem integridade”, disse Will. “O dano não é apenas físico. A sustentação espiritual de vocês também foi atingida.”
+**Will -** Seus corpos estão quase sem integridade. O dano não é apenas físico. A sustentação espiritual de vocês também foi atingida.
 
 Sara ficou quieta.
 
-“Isso significa?”
+**Sara -** Isso significa?
 
-“Que reconstruir o corpo não basta.”
+**Will -** Que reconstruir o corpo não basta.
 
 Nada de suavização.
 
@@ -249,29 +249,29 @@ Nada de promessa heroica.
 
 Bom.
 
-“Vou morrer?”
+**Sara -** Vou morrer?
 
 Outra pausa.
 
 Menor.
 
-“Se nada for feito, acredito que sim.”
+**Will -** Se nada for feito, acredito que sim.
 
 Sara teria assentido se possuísse cabeça suficiente para isso.
 
 Era melhor do que ouvir *vai ficar tudo bem* de um desconhecido preso numa dimensão entre dimensões.
 
-“E se você fizer alguma coisa?”
+**Sara -** E se você fizer alguma coisa?
 
-“Posso tentar salvar vocês.”
+**Will -** Posso tentar salvar vocês.
 
 Tentar.
 
 Ela percebeu a escolha da palavra.
 
-“Você consegue reconstruir o que foi perdido?”
+**Sara -** Você consegue reconstruir o que foi perdido?
 
-“Tenho meios para trabalhar com regeneração. Também sou médico e alquimista. Mas não conheço completamente a fisiologia de vocês, e o dano espiritual torna tudo mais delicado.”
+**Will -** Tenho meios para trabalhar com regeneração. Também sou médico e alquimista. Mas não conheço completamente a fisiologia de vocês, e o dano espiritual torna tudo mais delicado.
 
 Sara ouviu.
 
@@ -291,15 +291,15 @@ Não havia uma negociação prévia.
 
 Ele simplesmente as encontrara.
 
-“E o que precisa?”
+**Sara -** E o que precisa?
 
-“Uma ligação estável com sua alma.”
+**Will -** Uma ligação estável com sua alma.
 
 Sara prestou atenção.
 
-“Para quê?”
+**Sara -** Para quê?
 
-“Para conseguir trabalhar usando algo mais confiável do que o corpo atual como referência.”
+**Will -** Para conseguir trabalhar usando algo mais confiável do que o corpo atual como referência.
 
 Havia lógica nisso.
 
@@ -311,17 +311,17 @@ Se a reconstrução dependesse apenas daquilo que sobrara, talvez não houvesse 
 
 Will continuou:
 
-“A ligação também pode servir como referência para a origem de vocês.”
+**Will -** A ligação também pode servir como referência para a origem de vocês.
 
 Sara demorou um pouco mais para responder.
 
-“Nosso mundo?”
+**Sara -** Nosso mundo?
 
-“Não sei onde fica.”
+**Will -** Não sei onde fica.
 
 A resposta veio sem hesitação.
 
-“Mas vocês chegaram aqui vindas de algum lugar. Se a ligação permanecer, talvez eu consiga usá-la para encontrar uma passagem.”
+**Will -** Mas vocês chegaram aqui vindas de algum lugar. Se a ligação permanecer, talvez eu consiga usá-la para encontrar uma passagem.
 
 Talvez.
 
@@ -329,9 +329,9 @@ De novo.
 
 Will parecia ter uma relação saudável com a palavra.
 
-“Você também quer sair.”
+**Sara -** Você também quer sair.
 
-“Quero.”
+**Will -** Quero.
 
 Sara quase conseguiu gostar da honestidade.
 
@@ -347,9 +347,9 @@ Ela sabia negociar com pessoas que queriam alguma coisa.
 
 Pessoas que juravam não querer nada eram mais trabalhosas.
 
-“Então salvar nós duas também ajuda você.”
+**Sara -** Então salvar nós duas também ajuda você.
 
-“Sim.”
+**Will -** Sim.
 
 Sara permaneceu em silêncio.
 
@@ -367,11 +367,9 @@ Que tipo de médico conseguia falar diretamente com uma alma quase desfeita.
 
 Nenhuma delas era mais importante do que a próxima.
 
-“Que ligação?”
+**Sara -** Que ligação?
 
-Will respondeu:
-
-“Uma junção de almas.”
+**Will -** Uma junção de almas.
 
 A névoa na mente de Sara pareceu recuar.
 
@@ -387,7 +385,7 @@ Não como uma técnica obscura ou uma curiosidade acadêmica.
 
 Como parte da natureza do próprio povo.
 
-Demônios não podiam ser transformados em escravos por um contrato comum de servidão. Não porque algum rei ou Senado tivesse proibido a prática. Não porque uma lei pudesse ser revogada.
+Demônios não podiam ser transformados em servos por um contrato comum de servidão. Não porque algum rei ou Senado tivesse proibido a prática. Não porque uma lei pudesse ser revogada.
 
 A própria constituição demoníaca recusava aquele tipo de sujeição.
 
@@ -399,13 +397,13 @@ Sara demorou alguns segundos.
 
 Will prosseguiu, aparentemente sem perceber que acabara de mudar a natureza inteira da conversa.
 
-“Preciso estabelecer a ligação antes de começar o tratamento.”
+**Will -** Preciso estabelecer a ligação antes de começar o tratamento.
 
 Sara concentrou-se.
 
-“E o que você quer em troca?”
+**Sara -** E o que você quer em troca?
 
-“Quero que se torne minha serva.”
+**Will -** Quero que se torne minha serva.
 
 Se ela ainda possuísse sobrancelhas plenamente funcionais, provavelmente uma delas teria subido.
 
@@ -423,13 +421,13 @@ Não da maneira mais charmosa que Sara já ouvira.
 
 Mas definitivamente casamento.
 
-“E Nari?”
+**Sara -** E Nari?
 
-“Quero salvá-la também.”
+**Will -** Quero salvá-la também.
 
 Sara sentiu alguma coisa semelhante a um nó.
 
-“Ela também terá de se tornar sua serva?”
+**Sara -** Ela também terá de se tornar sua serva?
 
 Will não respondeu imediatamente.
 
@@ -437,7 +435,7 @@ A pausa foi curta demais para parecer surpresa.
 
 Longa o bastante para que Sara percebesse que havia uma parte do plano que ele estava escolhendo como apresentar.
 
-“Você será a vinculada ao acordo que estou propondo agora”, disse ele. “Minha intenção é que a outra fique livre quando conseguirmos sair.”
+**Will -** Você será a vinculada ao acordo que estou propondo agora. Minha intenção é que a outra fique livre quando conseguirmos sair.
 
 Sara analisou as palavras.
 
@@ -551,13 +549,13 @@ A facção responsável não podia simplesmente apagar duas princesas e deixar a
 
 Sara voltou-se mentalmente para Will.
 
-“Se eu aceitar, você salva Nari.”
+**Sara -** Se eu aceitar, você salva Nari.
 
-“Vou tentar salvar as duas.”
+**Will -** Vou tentar salvar as duas.
 
-“E ela fica livre.”
+**Sara -** E ela fica livre.
 
-“Sim.”
+**Will -** Sim.
 
 Sara acreditou que ele falava sério.
 
@@ -565,19 +563,19 @@ Talvez estivesse errada.
 
 Mas naquele estado, qualquer negociação exigia escolher quais riscos ainda valiam ser chamados de riscos.
 
-“Você acredita que consegue nos tirar daqui?”
+**Sara -** Você acredita que consegue nos tirar daqui?
 
-“Não posso prometer antes de tentar.”
+**Will -** Não posso prometer antes de tentar.
 
 Sara apreciou mais aquela resposta do que gostaria.
 
-“Mas acredita que a ligação pode servir como caminho.”
+**Sara -** Mas acredita que a ligação pode servir como caminho.
 
-“Como referência.”
+**Will -** Como referência.
 
-“Não é a mesma coisa.”
+**Sara -** Não é a mesma coisa.
 
-“Não.”
+**Will -** Não.
 
 Bom.
 
@@ -605,9 +603,9 @@ Tudo isso pertencia ao futuro.
 
 E um futuro cheio de problemas ainda era futuro.
 
-“Qual é seu nome completo?”
+**Sara -** Qual é seu nome completo?
 
-“Will God Stone.”
+**Will -** Will God Stone.
 
 Sara repetiu mentalmente.
 
@@ -617,7 +615,7 @@ Estranho.
 
 Mas nomes de outros povos frequentemente eram.
 
-“Eu sou Sara Iron Heart.”
+**Sara -** Eu sou Sara Iron Heart.
 
 Ele recebeu a informação sem demonstrar qualquer reconhecimento especial.
 
@@ -635,23 +633,23 @@ Era apenas o acordo extraordinariamente ruim de um homem desesperado para sair d
 
 Quase simples.
 
-“Então vamos fazer isso”, disse Sara.
+**Sara -** Então vamos fazer isso.
 
 Will não iniciou a fórmula imediatamente.
 
-“Quero que compreenda que preciso de uma ligação real. Não apenas uma promessa verbal.”
+**Will -** Quero que compreenda que preciso de uma ligação real. Não apenas uma promessa verbal.
 
 Sara teria soltado uma risada curta se tivesse corpo suficiente.
 
 *Eu sei muito melhor do que você.*
 
-“Compreendo.”
+**Sara -** Compreendo.
 
 A presença de Will se tornou mais definida no contato.
 
 Quando falou, não havia cerimônia além da necessária precisão.
 
-“Eu, Will God Stone, faço de você, Sara Iron Heart, minha serva. Você aceita?”
+**Will -** Eu, Will God Stone, faço de você, Sara Iron Heart, minha serva. Você aceita?
 
 Sara ouviu cada palavra.
 
@@ -679,9 +677,7 @@ A ideia veio seca.
 
 *Não posso lidar com estar morta.*
 
-Sara respondeu:
-
-“Sim, Will God Stone. Eu, Sara Iron Heart, aceito compartilhar minha alma com você.”
+**Sara -** Sim, Will God Stone. Eu, Sara Iron Heart, aceito compartilhar minha alma com você.
 
 A magia respondeu antes que qualquer um dos dois dissesse outra coisa.
 
@@ -753,23 +749,21 @@ Se pudesse, talvez tudo tivesse mudado naquele instante.
 
 Mas não podia.
 
-Will apenas disse:
-
-“Funcionou.”
+**Will -** Funcionou.
 
 Sara interpretou exatamente como seria natural interpretar.
 
 O casamento estava firmado.
 
-“Então comece.”
+**Sara -** Então comece.
 
-“Vou falar com a outra primeiro.”
+**Will -** Vou falar com a outra primeiro.
 
 Sara sentiu uma breve resistência.
 
-“Nari?”
+**Sara -** Nari?
 
-“Preciso avaliar a condição dela antes do tratamento.”
+**Will -** Preciso avaliar a condição dela antes do tratamento.
 
 A explicação fazia sentido.
 
@@ -783,15 +777,15 @@ O contato começou a se afastar.
 
 Antes que desaparecesse, Sara falou:
 
-“Will.”
+**Sara -** Will.
 
-“Sim?”
+**Will -** Sim?
 
-“Não deixe ela morrer.”
+**Sara -** Não deixe ela morrer.
 
 Dessa vez ele respondeu sem pausa.
 
-“Não pretendo.”
+**Will -** Não pretendo.
 
 A presença desapareceu.
 
@@ -893,7 +887,7 @@ A questão era se podia chamar o resultado de sucesso.
 
 Então uma voz surgiu em sua mente.
 
-“Consegue me compreender?”
+**Will -** Consegue me compreender?
 
 Nari não respondeu imediatamente.
 
@@ -913,29 +907,29 @@ Origem.
 
 Outra consciência iniciando contato.
 
-“Sim”, respondeu.
+**Nari -** Sim.
 
 A palavra mental saiu melhor do que esperava.
 
-“Quem é você?”
+**Nari -** Quem é você?
 
-“Will. Sou médico.”
+**Will -** Will. Sou médico.
 
 Nari esperou.
 
-“Encontrei você e outra pessoa no Éter e trouxe as duas para minha residência.”
+**Will -** Encontrei você e outra pessoa no Éter e trouxe as duas para minha residência.
 
 Outra pessoa.
 
-“Quem?”
+**Nari -** Quem?
 
-“Ela se identificou como Sara.”
+**Will -** Ela se identificou como Sara.
 
 Nari concentrou-se.
 
-“Sara Iron Heart?”
+**Nari -** Sara Iron Heart?
 
-“Foi esse o nome.”
+**Will -** Foi esse o nome.
 
 Algo em sua mente relaxou.
 
@@ -949,9 +943,9 @@ Não significava muito mais do que isso.
 
 Ainda.
 
-“Qual é a condição dela?”
+**Nari -** Qual é a condição dela?
 
-“Extrema. Semelhante à sua.”
+**Will -** Extrema. Semelhante à sua.
 
 Nari absorveu a informação.
 
@@ -961,9 +955,9 @@ Sem sobrevivente claramente mais estável.
 
 As duas ainda dependiam da mesma situação.
 
-“Onde estamos?”
+**Nari -** Onde estamos?
 
-“No Éter. Uma dimensão entre dimensões.”
+**Will -** No Éter. Uma dimensão entre dimensões.
 
 Nari procurou referências naquilo que conhecia.
 
@@ -975,15 +969,15 @@ Teoria dimensional em nível suficiente para reconhecer que desconhecer uma dime
 
 Nada lhe oferecia um mapa.
 
-“Você vive aqui?”
+**Nari -** Você vive aqui?
 
-“Estou preso aqui.”
+**Will -** Estou preso aqui.
 
 Essa resposta interessou.
 
-“E ainda assim possui uma residência.”
+**Nari -** E ainda assim possui uma residência.
 
-“O Pagoda do Céu permite que eu mantenha proteção contra o Éter.”
+**Will -** O Pagoda do Céu permite que eu mantenha proteção contra o Éter.
 
 Relíquia, provavelmente.
 
@@ -991,9 +985,9 @@ Ou algo equivalente.
 
 Nari não tentou inferir mais do que tinha.
 
-“Então você também precisa sair.”
+**Nari -** Então você também precisa sair.
 
-“Sim.”
+**Will -** Sim.
 
 Melhor.
 
@@ -1001,39 +995,39 @@ Motivos compartilhados não garantiam confiança.
 
 Mas tornavam comportamento mais previsível.
 
-“Por que nos salvou?”
+**Nari -** Por que nos salvou?
 
-“Porque ainda estavam vivas.”
+**Will -** Porque ainda estavam vivas.
 
 Nari esperou.
 
 Will acrescentou:
 
-“E porque vocês vieram de fora do Éter.”
+**Will -** E porque vocês vieram de fora do Éter.
 
 A segunda parte era a resposta de que ela precisava.
 
-“Você acredita que podemos servir como caminho.”
+**Nari -** Você acredita que podemos servir como caminho.
 
-“Como referência.”
+**Will -** Como referência.
 
 Nari apreciou a correção.
 
-“Para nossa origem.”
+**Nari -** Para nossa origem.
 
-“Sim.”
+**Will -** Sim.
 
-“Você não sabe onde fica.”
+**Nari -** Você não sabe onde fica.
 
-“Não.”
+**Will -** Não.
 
-“Nem se consegue abrir uma passagem.”
+**Nari -** Nem se consegue abrir uma passagem.
 
-“Não.”
+**Will -** Não.
 
-“Mas acredita que pode tentar.”
+**Nari -** Mas acredita que pode tentar.
 
-“Sim.”
+**Will -** Sim.
 
 Nari teria assentido.
 
@@ -1045,23 +1039,23 @@ Não garantida.
 
 Consistente.
 
-“O que precisa de nós?”
+**Nari -** O que precisa de nós?
 
-“Primeiro, salvar vocês.”
+**Will -** Primeiro, salvar vocês.
 
-“Isso não respondeu.”
+**Nari -** Isso não respondeu.
 
 Desta vez, a pausa de Will pareceu diferente.
 
 Nari quase conseguiu imaginá-lo reorganizando a frase.
 
-“Preciso estabelecer uma ligação estável com suas almas. O dano espiritual é grave demais para eu trabalhar apenas com o que resta dos corpos. A mesma ligação pode me ajudar a localizar a origem de vocês depois.”
+**Will -** Preciso estabelecer uma ligação estável com suas almas. O dano espiritual é grave demais para eu trabalhar apenas com o que resta dos corpos. A mesma ligação pode me ajudar a localizar a origem de vocês depois.
 
 Nari concentrou-se.
 
-“Que ligação?”
+**Nari -** Que ligação?
 
-“Uma junção de almas.”
+**Will -** Uma junção de almas.
 
 A análise mudou imediatamente.
 
@@ -1069,7 +1063,7 @@ Nari conhecia aquelas palavras.
 
 E, diferente do desconhecido, conhecia o que significavam para alguém de sua raça.
 
-Uma junção de almas associada a servidão não criava escravidão demoníaca.
+Uma junção de almas associada a servidão não criava servidão demoníaca.
 
 Não podia.
 
@@ -1089,9 +1083,9 @@ Não ruim.
 
 Primeiro, interessante.
 
-“Qual é sua proposta?”
+**Nari -** Qual é sua proposta?
 
-“Em troca do tratamento e da passagem, quero que se torne minha serva.”
+**Will -** Em troca do tratamento e da passagem, quero que se torne minha serva.
 
 Nari permaneceu quieta.
 
@@ -1107,7 +1101,7 @@ Para ela, não havia outra leitura natural.
 
 Will continuou:
 
-“Salvarei você e Sara ficará livre quando conseguirmos atravessar.”
+**Will -** Salvarei você e Sara ficará livre quando conseguirmos atravessar.
 
 A última parte reorganizou o cálculo.
 
@@ -1183,17 +1177,17 @@ A morte possuía uma desvantagem conceitual importante nesse aspecto.
 
 Ela não permitia nenhuma dessas coisas.
 
-“Você acredita que consegue reconstruir nossos corpos?”
+**Nari -** Você acredita que consegue reconstruir nossos corpos?
 
-“Consigo tentar.”
+**Will -** Consigo tentar.
 
-“Não perguntei se consegue tentar.”
+**Nari -** Não perguntei se consegue tentar.
 
 Will ficou em silêncio por um instante.
 
 Depois respondeu:
 
-“Acredito que possuo conhecimento e recursos suficientes para reconstruí-los. Não conheço sua fisiologia por completo, então não vou prometer um resultado que ainda não produzi.”
+**Will -** Acredito que possuo conhecimento e recursos suficientes para reconstruí-los. Não conheço sua fisiologia por completo, então não vou prometer um resultado que ainda não produzi.
 
 Nari considerou isso.
 
@@ -1203,17 +1197,17 @@ Não porque fosse tranquilizadora.
 
 Porque delimitava o que ele sabia.
 
-“E Sara?”
+**Nari -** E Sara?
 
-“A condição dela também exige tratamento.”
+**Will -** A condição dela também exige tratamento.
 
-“Você vai tratá-la mesmo que eu aceite o vínculo.”
+**Nari -** Você vai tratá-la mesmo que eu aceite o vínculo.
 
-“Sim.”
+**Will -** Sim.
 
-“E ela não ficará vinculada a você depois.”
+**Nari -** E ela não ficará vinculada a você depois.
 
-“Pretendo libertá-la quando sairmos.”
+**Will -** Pretendo libertá-la quando sairmos.
 
 Nari ouviu a palavra *libertá-la* dentro do significado que conhecia.
 
@@ -1227,9 +1221,9 @@ Aquilo era impossível para demônios.
 
 Nari não tinha motivo para imaginar que ele trabalhava com regras espirituais diferentes.
 
-“Então Sara poderá retornar ao Conclave sem esse vínculo.”
+**Nari -** Então Sara poderá retornar ao Conclave sem esse vínculo.
 
-“Sim.”
+**Will -** Sim.
 
 A resposta bastou.
 
@@ -1257,35 +1251,35 @@ Não destino emocional.
 
 Custos podiam ser pagos.
 
-“Qual é seu nome completo?”
+**Nari -** Qual é seu nome completo?
 
-“Will God Stone.”
+**Will -** Will God Stone.
 
-“Nari Bood Heart.”
+**Nari -** Nari Bood Heart.
 
-“Entendido.”
+**Will -** Entendido.
 
 Nari prestou atenção ao contato.
 
 Havia uma última pergunta.
 
-“Por que eu?”
+**Nari -** Por que eu?
 
 Will demorou.
 
-“Porque preciso salvar as duas.”
+**Will -** Porque preciso salvar as duas.
 
 Aquilo não respondia exatamente.
 
 Nari percebeu.
 
-“Você precisa de uma ligação.”
+**Nari -** Você precisa de uma ligação.
 
-“Sim.”
+**Will -** Sim.
 
-“Comigo.”
+**Nari -** Comigo.
 
-“Sim.”
+**Will -** Sim.
 
 A formulação ainda deixava alguma coisa incompleta.
 
@@ -1303,11 +1297,11 @@ Depois significava sobrevivência.
 
 Ela decidiu.
 
-“Faça a proposta formal.”
+**Nari -** Faça a proposta formal.
 
 A presença de Will se estabilizou.
 
-“Eu, Will God Stone, faço de você, Nari Bood Heart, minha serva. Você aceita?”
+**Will -** Eu, Will God Stone, faço de você, Nari Bood Heart, minha serva. Você aceita?
 
 Nari ouviu as palavras.
 
@@ -1333,9 +1327,7 @@ O preço era um marido desconhecido.
 
 *Já vi tratados piores.*
 
-Nari respondeu:
-
-“Sim, Will God Stone. Eu, Nari Bood Heart, aceito compartilhar minha alma com você.”
+**Nari -** Sim, Will God Stone. Eu, Nari Bood Heart, aceito compartilhar minha alma com você.
 
 A magia respondeu.
 
@@ -1391,21 +1383,21 @@ Quase.
 
 Will parecia examinar o vínculo do outro lado.
 
-“Funcionou”, disse ele.
+**Will -** Funcionou.
 
-“Então comece o tratamento.”
+**Nari -** Então comece o tratamento.
 
-“Vou começar.”
+**Will -** Vou começar.
 
 Nari concentrou-se.
 
-“Sara.”
+**Nari -** Sara.
 
-“Também será tratada.”
+**Will -** Também será tratada.
 
-“Ela ficará livre.”
+**Nari -** Ela ficará livre.
 
-“Sim.”
+**Will -** Sim.
 
 Nari deixou a consciência relaxar.
 
@@ -1421,17 +1413,17 @@ O contato começou a desaparecer.
 
 Antes que terminasse, Nari perguntou:
 
-“Will God Stone.”
+**Nari -** Will God Stone.
 
-“Sim?”
+**Will -** Sim?
 
-“Não morra antes de nos tirar daqui.”
+**Nari -** Não morra antes de nos tirar daqui.
 
 Houve uma pausa.
 
 Pequena.
 
-“Vou tentar evitar.”
+**Will -** Vou tentar evitar.
 
 Nari não sabia se a resposta era humor.
 
