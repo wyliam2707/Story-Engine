@@ -95,7 +95,7 @@ Dor dizia *aqui*.
 
 Aquilo dizia apenas que alguma coisa estivera ali e talvez já não estivesse.
 
-*Estou viva?*
+**Sara, pensa -** *Estou viva?*
 
 A pergunta surgiu com clareza surpreendente.
 
@@ -105,7 +105,7 @@ Sara tentou rir da própria situação.
 
 Nem isso conseguiu.
 
-*Excelente.*
+**Sara, pensa -** *Excelente.*
 
 Sobreviver a uma emboscada, a uma tentativa de extermínio e a uma relíquia defeituosa para terminar sem saber se ainda possuía boca suficiente para reclamar.
 
@@ -173,7 +173,7 @@ Não significava sequer que Nari continuaria viva daqui a uma hora.
 
 Mas era alguma coisa.
 
-*Ela atravessou também.*
+**Sara, pensa -** *Ela atravessou também.*
 
 Sara tentou reconstruir o último momento em que estivera ao lado dela.
 
@@ -407,7 +407,7 @@ Sara concentrou-se.
 
 Se ela ainda possuísse sobrancelhas plenamente funcionais, provavelmente uma delas teria subido.
 
-*Claro.*
+**Sara, pensa -** *Claro.*
 
 Junção de almas.
 
@@ -473,7 +473,7 @@ Nem sequer sabia que aparência possuía.
 
 Por alguns instantes, a situação conseguiu ser absurda o bastante para competir com a morte pela atenção dela.
 
-*Então é isso.*
+**Sara, pensa -** *Então é isso.*
 
 Se aceitasse, sobreviver talvez significasse voltar para Elder casada com um homem sobre quem sabia apenas duas coisas.
 
@@ -509,7 +509,7 @@ A verdadeira pergunta não era se aquele casamento seria agradável.
 
 Era se ainda existiria uma Sara para achá-lo desagradável.
 
-*Estou morrendo.*
+**Sara, pensa -** *Estou morrendo.*
 
 Ela não precisava dramatizar.
 
@@ -541,7 +541,7 @@ Se Sara não conseguisse retornar...
 
 Nari poderia.
 
-*Alguém precisa contar.*
+**Sara, pensa -** *Alguém precisa contar.*
 
 A necessidade pesou mais do que qualquer consideração matrimonial.
 
@@ -641,7 +641,7 @@ Will não iniciou a fórmula imediatamente.
 
 Sara teria soltado uma risada curta se tivesse corpo suficiente.
 
-*Eu sei muito melhor do que você.*
+**Sara, pensa -** *Eu sei muito melhor do que você.*
 
 **Sara -** Compreendo.
 
@@ -671,11 +671,11 @@ Pensou na própria vida.
 
 Pensou na morte, que estava perto demais para exigir imaginação.
 
-*Posso lidar com um marido.*
+**Sara, pensa -** *Posso lidar com um marido.*
 
 A ideia veio seca.
 
-*Não posso lidar com estar morta.*
+**Sara, pensa -** *Não posso lidar com estar morta.*
 
 **Sara -** Sim, Will God Stone. Eu, Sara Iron Heart, aceito compartilhar minha alma com você.
 
@@ -709,7 +709,7 @@ Não uma joia.
 
 Um sinal.
 
-*Está feito.*
+**Sara, pensa -** *Está feito.*
 
 A enormidade daquilo chegou só depois.
 
@@ -723,7 +723,7 @@ Um homem cujo rosto ainda não conhecia.
 
 Por alguma razão, essa última parte conseguiu irritá-la mais do que deveria.
 
-*Quando eu tiver olhos funcionando de novo, ele é melhor ter pelo menos uma aparência aceitável.*
+**Sara, pensa -** *Quando eu tiver olhos funcionando de novo, ele é melhor ter pelo menos uma aparência aceitável.*
 
 A ideia era pequena.
 
@@ -799,7 +799,7 @@ Arrependimento exigia uma alternativa melhor.
 
 Ela não possuía nenhuma.
 
-*Primeiro sobreviver.*
+**Sara, pensa -** *Primeiro sobreviver.*
 
 Depois viria o marido.
 
@@ -811,7 +811,7 @@ Sara permitiu que a consciência afundasse novamente.
 
 A última coisa em que pensou foi quase ofensivamente prática.
 
-*Espero que Nari saiba aproveitar a liberdade.*
+**Sara, pensa -** *Espero que Nari saiba aproveitar a liberdade.*
 
 ---
 
@@ -855,7 +855,7 @@ Não gostou da conclusão.
 
 Gostar não fazia parte do método.
 
-*Sara?*
+**Nari, pensa -** *Sara?*
 
 Essa pergunta não possuía resposta.
 
@@ -937,7 +937,7 @@ Pouco.
 
 Mas o suficiente.
 
-*Então ela está viva.*
+**Nari, pensa -** *Então ela está viva.*
 
 Não significava muito mais do que isso.
 
@@ -1105,7 +1105,7 @@ Will continuou:
 
 A última parte reorganizou o cálculo.
 
-*Sara ficará livre.*
+**Nari, pensa -** *Sara ficará livre.*
 
 Então o custo estava sendo oferecido a Nari.
 
@@ -1157,7 +1157,7 @@ Humanos de Elder viviam pouco comparados a demônios.
 
 Algumas décadas adicionais poderiam transformar um casamento arranjado em compromisso relativamente curto do ponto de vista de seus cento e cinquenta anos.
 
-*Se ele for humano.*
+**Nari, pensa -** *Se ele for humano.*
 
 Era uma suposição.
 
@@ -1289,7 +1289,7 @@ Não possuía tempo infinito para extrair de um desconhecido uma teoria completa
 
 Talvez pudesse fazer isso depois.
 
-*Depois.*
+**Nari, pensa -** *Depois.*
 
 A palavra tinha valor.
 
@@ -1325,7 +1325,7 @@ Uma chance de garantir que Sara também voltasse livre.
 
 O preço era um marido desconhecido.
 
-*Já vi tratados piores.*
+**Nari, pensa -** *Já vi tratados piores.*
 
 **Nari -** Sim, Will God Stone. Eu, Nari Bood Heart, aceito compartilhar minha alma com você.
 
@@ -1357,7 +1357,7 @@ Espiritual.
 
 Definitiva o bastante para não precisar de testemunhas.
 
-*Então acabou.*
+**Nari, pensa -** *Então acabou.*
 
 Não a vida.
 
@@ -1375,7 +1375,7 @@ Estranha.
 
 Em menos tempo do que levaria para negociar um jantar formal, passara de princesa moribunda a esposa de um desconhecido preso entre dimensões.
 
-*Vou precisar organizar essa frase melhor antes de dizer a alguém.*
+**Nari, pensa -** *Vou precisar organizar essa frase melhor antes de dizer a alguém.*
 
 A ideia quase conseguiu divertir.
 
@@ -1467,7 +1467,7 @@ Ele possuía referências.
 
 Agora podia começar.
 
-*Duas pacientes.*
+**Will, pensa -** *Duas pacientes.*
 
 A ideia veio primeiro.
 
@@ -1475,7 +1475,7 @@ Médico antes de todo o resto.
 
 Depois veio a segunda.
 
-*Duas ligações com a mesma origem.*
+**Will, pensa -** *Duas ligações com a mesma origem.*
 
 Talvez uma saída.
 
