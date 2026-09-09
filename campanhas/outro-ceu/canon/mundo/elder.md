@@ -51,6 +51,10 @@ Há gerações, os anões estão de olho nas minas ainda quase inexploradas dos 
 
 A ambição comercial e o interesse nas minas podem sustentar negociações, disputas econômicas e tensões futuras, mas não determinam automaticamente hostilidade, guerra ou um plano coletivo único.
 
+## Demônios
+
+A fonte primária da espécie e de seu território é `demonios.md`. Os demônios vivem próximos à Ruptura do Caos, cuja zona emana magia negra e do caos e é quase inóspita para os demais povos, mas ideal para sua civilização. São o povo com mais poderes e habilidades natas, enorme vitalidade, superioridade habitual em combate individual e um exército forte. Culturalmente, tendem a se considerar superiores, mas não buscam dominar o continente. A região e seus recursos atraem a ganância externa. Consultar a fonte primária para capacidades, longevidade, reprodução, relações e limites do que foi estabelecido.
+
 ## Fontes relacionadas
 
-A fonte primária da raça demoníaca, incluindo longevidade, reprodução e base racial de poderes, é `demonios.md`. A política do Conclave e das Casas ainda será desenvolvida. Este documento não altera as fichas de Will, Sana ou NA, nem antecipa a posição dos quatro reinos no continente.
+A política do Conclave e das Casas ainda será desenvolvida. Este documento não altera as fichas de Will, Sana ou NA, nem antecipa a posição exata dos quatro reinos no continente.
