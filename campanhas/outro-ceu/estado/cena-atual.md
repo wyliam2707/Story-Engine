@@ -1,25 +1,23 @@
 # Cena atual
 
-Status: EM EXECUÇÃO, primeiro capítulo fechado.
+Status: EM EXECUÇÃO, primeiro capítulo corrigido e fechado.
 
 ## Momento e lugar
 
-Éter, interior da residência temporária criada por Will God Stone com o Pagoda do Céu. O prólogo e o primeiro capítulo estão registrados no Livro. Não houve passagem para Elder nem avanço posterior à última pergunta de Will.
+Éter, interior da residência temporária criada por Will God Stone com o Pagoda do Céu. O prólogo e o primeiro capítulo estão registrados no Livro. O capítulo termina imediatamente após Will levar as duas recém-chegadas para a residência.
 
 ## Presentes e condições
 
-Will: junto às duas recém-chegadas, com cultivo Santo e capacidades preservados. Possui o Pagoda do Céu e iniciou comunicação mental específica. Não conhece integralmente a fisiologia demoníaca nem a história política de Elder. Percebe uma possível referência de saída, ainda não utilizada.
+Will: presente com Sara e Nari, com cultivo Santo e capacidades preservados. Possui o Pagoda do Céu. Ainda não iniciou a comunicação mental. Não conhece as identidades das duas, sua história política, a emboscada ou o nome Elder. A possibilidade de utilizar as recém-chegadas como referência para sair do Éter é uma direção aprovada pelo Diretor, não uma descoberta já narrada.
 
-Sara Iron Heart e Nari Bood Heart: acomodadas em suportes dentro do abrigo. Corpos físicos quase sem integridade, condição extrema e risco de morte. A proteção contra exposição direta ao Éter está estabelecida, mas não houve tratamento reparador, cura ou recuperação. Ambas conseguem responder mentalmente, com esforço e fragilidade; conservaram consciências individuais.
+Sara Iron Heart e Nari Bood Heart: presentes no abrigo, com corpos físicos quase sem integridade, a um suspiro da morte. A exposição direta ao Éter cessou, mas não houve tratamento, cura ou recuperação estabelecidos. Suas respostas, conhecimentos comunicados e decisões após o transporte permanecem abertos.
 
 ## Último fato válido
 
-Will perguntou: "Entendi. Vocês vieram de Elder. Vou considerar essa informação, mas antes preciso avaliar o que ainda posso fazer por vocês. Conseguem me dizer se sentem algo quando tento estabelecer contato com seus corpos?"
-
-A resposta de Sara e Nari ainda não foi executada. Referência: `../livro/001-um-nome-no-vazio.md`.
+Will levou Sara e Nari para a residência do Pagoda do Céu, retirando-as da exposição direta à deterioração etérea. Nenhuma comunicação, apresentação ou exame posterior foi executado. Referência: `../livro/001-um-nome-no-vazio.md`.
 
 ## Primeiro ponto aberto e limite
 
-A próxima autoria disponível é a resposta independente das princesas à pergunta médica, respeitando sua condição extrema. A decisão seguinte de Will sobre método de tratamento, avaliação adicional ou investigação da passagem pertence ao Diretor, salvo delegação suficiente. Não executar cura, reconstrução corporal, abertura de passagem, novo destino ou compromisso futuro por inferência.
+A primeira comunicação mental, aprovada pelo Diretor, será construída a partir daqui. Will conserva sua vontade; a IA pode executar falas, gestos e métodos dentro da delegação, sem criar decisões materiais novas. Sara e Nari possuem Cadeiras independentes. Não antecipar tratamento, recuperação, passagem ou chegada a Elder.
 
-A Mesa permanece CICLO OBRIGATÓRIO para novas propostas. O escopo autorizado de prólogo e primeiro capítulo foi consumido. Consultar `../operacao.md`, as fichas e o Estado individual antes de continuar.
+Mesa CICLO OBRIGATÓRIO para novas propostas materiais, sem consultas repetidas a cada frase ou gesto de uma execução já autorizada. Preservar o ponto exato quando houver interrupção ou correção.
