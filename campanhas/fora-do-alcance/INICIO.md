@@ -21,12 +21,15 @@ Estilo e tom aprovados pelo Diretor.
 - Emma Frost: personagem adulta do universo Marvel, escolhida para o romance. Versão, período e situação inicial ainda serão definidos.
 - Protagonista original: homem adulto, mutante, nome e identidade humana ainda em construção. Sua mutação aprovada é Domínio de Realidade, um deus local com alcance de três metros. A descrição detalhada será incorporada à ficha durante a etapa própria, sem reduzir o conceito aprovado.
 
+Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparecerem e adquirirem relevância, sem criar elenco ornamental ou fichas antecipadas. Personagens recorrentes podem receber Cadeira e registros próprios quando necessário. A ausência de ficha prévia não impede uma participação incidental legítima.
+
 ## Criação em andamento
 
 Premissa: APROVADA.
 Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
-Próxima etapa: PERSONAGENS CENTRAIS, seguida das fichas.
+Personagens centrais: APROVADAS, com elenco inicial de Emma e do protagonista.
+Próxima etapa: FICHAS, começando pela identidade humana do protagonista.
 
 A definição anterior da mutação está preservada em `rascunhos/emma-frost-deus-local.md` até sua consolidação na ficha canônica. Esse rascunho não é uma segunda fonte de realidade ficcional e não autoriza importar personagens, fatos ou acontecimentos de outras campanhas.
 
