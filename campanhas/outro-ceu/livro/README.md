@@ -2,13 +2,13 @@
 
 Status: ATIVO
 
-O Livro preserva integralmente a Ficção válida. O prólogo registra os antecedentes aprovados; o primeiro capítulo apresenta o encontro no Éter e os três POVs das junções de almas. Não adicionar propostas de Mesa ou resultados futuros ainda não executados.
+O Livro preserva integralmente a Ficção válida. O prólogo registra os antecedentes aprovados. O primeiro capítulo apresenta o encontro no Éter e as duas junções de almas. O segundo capítulo registra a reconstrução dos corpos, a descoberta do mal-entendido e os três dias em que o vínculo híbrido começa a manifestar efeitos próprios.
 
 ## Convenção editorial
 
 A apresentação do Livro utiliza prosa literária fluida, com narração sem o marcador NARRADOR. As falas mantêm a identificação de quem fala, e os pensamentos são identificados pelo personagem e destacados em itálico. Os POVs conservam a separação de conhecimentos, percepções e intenções.
 
-A edição literária pode enriquecer descrições, ritmo, transições e linguagem, mas não modifica acontecimentos, decisões, falas em seu sentido, vínculos, regras, conhecimentos ou resultados. Não acrescentar fatos novos para embelezar o texto. A terceira interpretação das junções permanece sem seus efeitos definidos ou revelados. O formato de apresentação na conversa e na Mesa não precisa ser alterado para acompanhar o estilo do Livro.
+A edição literária pode enriquecer descrições, ritmo, transições e linguagem, mas não modifica acontecimentos, decisões, falas em seu sentido, vínculos, regras, conhecimentos ou resultados. Não acrescentar fatos novos para embelezar o texto. O formato de apresentação na conversa e na Mesa não precisa ser alterado para acompanhar o estilo do Livro.
 
 ## Índice
 
@@ -16,13 +16,18 @@ A edição literária pode enriquecer descrições, ritmo, transições e lingua
 |---|---|---|---|
 | 000 | Prólogo: Dois cataclismos | `000-prologo-dois-cataclismos.md` | Fechado, versão corrigida |
 | 001 | Um nome no vazio | `001-um-nome-no-vazio.md` | Fechado, edição literária dos três POVs |
+| 002 | Três dias | `002-tres-dias.md` | Fechado, edição literária |
 
 ## Ponto de continuidade
 
-Will encontrou Sara e Nari no Éter com os corpos quase sem integridade e as levou à residência do Pagoda do Céu. Depois, estabeleceu comunicação mental separada com cada uma e firmou duas junções de almas. As marcas surgiram nas mãos das princesas. Cada uma acredita ter aceitado um casamento arranjado para sobreviver e permitir que a outra fique livre; nenhuma sabe que a outra também assinou. Will acredita ter estabelecido dois contratos de servidão revogáveis e pretende libertar ambas após a travessia.
+Will reconstruiu os corpos de Sara e Nari usando medicina, recursos do Pagoda do Céu e grande quantidade de energia de Madeira. As duas recuperaram a integridade física e avançaram na recuperação ao longo de três dias. Will permanece com o cultivo intacto, mas passou o intervalo recuperando lentamente a reserva de energia no Éter.
 
-As diferenças culturais e a terceira interpretação mágica permanecem desconhecidas pelos personagens. O resultado completo da mistura das regras não foi revelado. Will conhece os nomes Sara Iron Heart e Nari Bood Heart, mas não conhece suas posições políticas, a emboscada, o nome Elder ou o significado matrimonial da junção. As princesas conhecem apenas as informações que receberam dele e não sabem de sua longevidade ou intenção de revogar os vínculos.
+O mal-entendido das junções foi descoberto: Will acreditava ter firmado contratos de servidão revogáveis; Sara e Nari acreditavam ter aceitado casamentos. Cada princesa descobriu que a outra também está vinculada. Will afirmou que pretendia libertar ambas depois da travessia e explicou que ocultou a necessidade das duas ligações porque precisava delas para salvar as duas e localizar uma saída.
 
-As duas continuam à beira da morte, com os corpos quase sem integridade. A proteção contra o Éter não reparou os danos. O capítulo termina após os dois acordos, antes do tratamento e da tentativa de passagem. O próximo ponto é a Mesa para decidir a abordagem médica e as ações seguintes de Will, sem antecipar resultados. Consultar `../estado/cena-atual.md` e `../operacao.md` para a âncora.
+Durante os três dias, o vínculo desenvolveu efeitos que não pertencem integralmente a nenhuma das tradições conhecidas: surgiu uma marca semelhante a aliança em Will; as marcas das princesas incorporaram sinais parecidos com servidão; dormir separados termina com os três reunidos na mesma cama; formas de tratamento conjugais surgem involuntariamente em certas falas; agressão física direta entre os cônjuges é restringida. Ao fim do terceiro dia, os três formularam a hipótese de que a magia somou servidão e casamento, criando uma espécie de “servidão ao casamento”. O funcionamento completo continua aberto.
+
+A forma cotidiana de Sara e Nari é quase humana, com pequenos chifres e sem asas visíveis. A Forma Demoníaca é sua transformação de combate.
+
+A tentativa de abrir uma passagem ainda não ocorreu. Ao fim do terceiro dia, Will recuperou energia suficiente para considerar a tentativa próxima. O próximo ponto pertence à Mesa, antes de qualquer abertura de passagem ou chegada ao mundo natal das princesas.
 
 A Edição de Leitura, se criada, será derivada e não substituirá estes capítulos.
