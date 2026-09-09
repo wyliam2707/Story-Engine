@@ -19,9 +19,13 @@ Estilo e tom aprovados pelo Diretor.
 ## Personagens centrais
 
 - Emma Frost: personagem adulta do universo Marvel, escolhida para o romance. Versão, período e situação inicial ainda serão definidos.
-- Arthur Jack: protagonista original, homem adulto e mutante. Sua identidade humana ainda está em construção. Sua mutação aprovada é Domínio de Realidade, um deus local com alcance de três metros. A descrição detalhada será incorporada à ficha durante a etapa própria, sem reduzir o conceito aprovado.
+- Arthur Jack: protagonista original, homem adulto e mutante. Vive de maneira simples, viajando pelo mundo sem destino fixo. Sua identidade humana ainda está em construção. Sua mutação aprovada é Domínio de Realidade, um deus local com alcance de três metros. A descrição detalhada será incorporada à ficha durante a etapa própria, sem reduzir o conceito aprovado.
 
 Elenco inicial aprovado. Outras personagens serão acrescentadas conforme aparecerem e adquirirem relevância, sem criar elenco ornamental ou fichas antecipadas. Personagens recorrentes podem receber Cadeira e registros próprios quando necessário. A ausência de ficha prévia não impede uma participação incidental legítima.
+
+## Condição inicial em preparação
+
+Arthur está passando uma temporada na cidade onde Emma mora. A cidade exata, a duração da estadia, a hospedagem e as circunstâncias do encontro ainda não foram definidas. Essa condição foi aprovada como ponto de partida, mas nenhuma cena ou encontro foi executado.
 
 ## Criação em andamento
 
@@ -29,7 +33,7 @@ Premissa: APROVADA.
 Estilo e tom: APROVADOS.
 Nome e destino: APROVADOS.
 Personagens centrais: APROVADAS, com elenco inicial de Emma e Arthur.
-Próxima etapa: FICHAS, começando pela identidade humana de Arthur Jack. Nome aprovado; idade exata, personalidade, vida própria, profissão e histórico ainda em construção.
+Próxima etapa: FICHAS, começando pela identidade humana de Arthur Jack. Nome e modo de vida aprovados; idade exata, personalidade, origem, formação e histórico ainda em construção. Não inventar profissão, patrimônio, organização, missão ou motivo oculto para justificar sua vida itinerante.
 
 A definição anterior da mutação está preservada em `rascunhos/emma-frost-deus-local.md` até sua consolidação na ficha canônica. Esse rascunho não é uma segunda fonte de realidade ficcional e não autoriza importar personagens, fatos ou acontecimentos de outras campanhas.
 
