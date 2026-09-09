@@ -49,4 +49,6 @@ Calma, analítica e racional. Tende a pensar antes de falar, procurar compreende
 
 É princesa de um reino demoníaco e recebeu formação compatível com sua posição, especialmente voltada à magia. É conhecida de Sara Iron Heart e não é sua irmã. Sua trajetória particular e a natureza específica do vínculo entre as duas permanecem abertos. A relação entre seu sobrenome Bood Heart e a Casa Blood Heart ainda será esclarecida, sem inventar outra Casa ou alterar silenciosamente a grafia escolhida. Não pressupor disputa política entre elas.
 
-O encontro inicial estabelecido na premissa envolve Sara e Nari feridas e Will chegando ao novo mundo. As causas dos ferimentos, circunstâncias e resultados ainda não foram definidos. A ficha não antecipa decisões ou acontecimentos da Ficção.
+Os antecedentes aprovados do encontro estão registrados em `../mundo/antecedentes-do-encontro.md`. Nari e Sara sobrevivem à destruição de uma falsa reunião diplomática, enfrentam uma força de extermínio e, já a um suspiro da morte, utilizam uma relíquia danificada para chegar ao Éter. A deterioração compromete quase toda a integridade de seus corpos físicos. Will as encontra e as leva à residência criada pelo Pagoda do Céu antes de iniciar comunicação mental.
+
+A ficha não antecipa recuperação, resultados da conversa, abertura de passagem ou decisões posteriores. Os acontecimentos executados serão preservados no Livro e as condições atuais no Estado.
