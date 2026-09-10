@@ -1,67 +1,47 @@
-# Capítulo 7
+# Capítulo 8
 ## O casamento tem opiniões
 
-Nas primeiras horas, nada aconteceu.
+Nas horas seguintes, pouco aconteceu.
 
-Depois de tudo que tinham acabado de descobrir, aquilo deveria ter sido tranquilizador. Não foi. Havia três pessoas dentro da residência do Pagoda, duas recém-reconstruídas, uma quase vazia de energia e um vínculo que cada lado compreendia segundo regras diferentes. O fato de a magia permanecer perfeitamente quieta dava à situação uma educação suspeita.
+Will voltou a cultivar. Sara e Nari passaram o tempo reaprendendo os limites dos próprios corpos.
 
-Will voltou à meditação. Sara e Nari, por sua vez, começaram o trabalho pouco glorioso de reaprender a confiar nos próprios corpos.
+Sara foi a primeira a atravessar o quarto inteiro sem parar. Quando alcançou a parede, respirou fundo e olhou para Will.
 
-Sara descobriu primeiro que *ter um corpo* e *ter de volta o corpo que conhecia* eram coisas diferentes. Levantou-se devagar, esperou a tontura e atravessou o cômodo em passos que teriam sido insignificantes em qualquer outro dia de sua vida. A força ainda estava muito abaixo do normal. O equilíbrio chegava atrasado. Cada movimento exigia atenção.
-
-Ela detestava a sensação, não por ser dolorosa, mas porque era pequena. Seu corpo sempre fora uma certeza. Força, velocidade, presença. Agora até chegar à parede do outro lado exigia uma negociação.
-
-Will abriu um olho quando Sara finalmente alcançou a extremidade do quarto.
+Ele abriu um olho.
 
 **Will -** Conseguiu.
-
-Ela virou o rosto.
 
 **Sara -** Eu sabia.
 
 **Will -** Claro.
 
-**Sara -** Não faça esse tom.
+Ela estreitou os olhos.
 
-**Will -** Que tom?
+**Sara -** Continue cultivando.
 
-Sara ficou olhando.
+Will obedeceu.
 
-Will fechou o olho novamente.
-
-**Sara -** Continue meditando.
-
-Ele continuou.
-
-Nari abordou a recuperação de outro jeito. Em vez de medir distância, testou capacidade: dedos, pulsos, ombros, joelhos, amplitude, precisão, tempo até o cansaço. Não porque fosse incapaz de sentir o próprio corpo sem transformá-lo numa tabela, mas porque detestava descobrir limitações durante uma situação em que precisasse delas.
+Nari preferiu descobrir quanto podia exigir de cada movimento antes que o corpo falhasse.
 
 Sara passou por ela no caminho de volta.
 
-**Sara -** Você transformou estar viva em uma avaliação.
+**Sara -** Você transformou ficar de pé numa investigação.
 
-Nari girou o pulso mais uma vez.
-
-**Nari -** Prefiro descobrir aqui o que vai falhar depois.
+**Nari -** Prefiro descobrir agora o que vai falhar depois.
 
 **Sara -** Tudo está fraco.
 
-**Nari -** Isso eu já sei. Quero saber como.
+**Nari -** Isso eu sei. Quero saber como.
 
-Sara não discutiu. Era uma resposta melhor do que a que esperava.
+A pequena rotina durou até Will interromper a meditação.
 
-As horas avançaram assim. Os corpos recuperavam coordenação pouco a pouco enquanto Will absorvia do Éter uma quantidade de energia que parecia quase uma provocação. O Dan de um Santo recebia migalhas, refinava-as e permanecia imenso demais para o que continha.
+Uma sensação quente atravessava um de seus dedos.
 
-Em algum momento, Sara atravessou o quarto inteiro sem parar. Nari percebeu. Will também. Nenhum dos dois comentou, e Sara apreciou o silêncio mais do que apreciaria qualquer elogio.
+Quando ergueu a mão, uma linha fina surgiu sobre a pele e avançou até fechar um círculo.
 
-A pequena paz durou até a mão de Will começar a arder.
-
-Ele interrompeu a meditação e olhou para os dedos. Uma linha fina surgia sobre a pele, avançando devagar até fechar um círculo ao redor de um deles.
-
-Sara se aproximou o quanto o corpo permitia.
+Sara se aproximou.
 
 **Sara -** Uma aliança.
-
-Will examinou a marca.
 
 **Will -** Uma marca do vínculo.
 
@@ -73,161 +53,165 @@ Will examinou a marca.
 
 Will olhou para ela.
 
-**Will -** Você parece muito comprometida com a nomenclatura.
+**Will -** Você continua muito comprometida com essa palavra.
 
 **Sara -** Eu cresci com ela.
 
-Nari aproximou a própria mão para comparar. A marca de Will era discreta, quase elegante e, para a enorme insatisfação dele, parecida demais com as delas.
+Nari aproximou a própria mão para comparar.
+
+A marca de Will ainda era apenas o círculo. As delas carregavam também as linhas que haviam surgido junto ao vínculo.
 
 **Sara -** Bem-vindo ao casamento.
 
 **Will -** Continuo preferindo “contrato extremamente mal interpretado”.
 
-**Nari -** É um título ruim para marido.
+**Nari -** É um nome longo para marido.
 
 Will virou para ela.
 
-Nari manteve a expressão perfeitamente séria.
+Nari continuou perfeitamente séria.
 
 **Will -** Você também?
 
-**Nari -** Estou apenas contribuindo para a precisão terminológica.
+**Nari -** Precisão terminológica.
 
 Sara soltou uma respiração curta pelo nariz.
 
-Foi então que Nari percebeu outra mudança.
+Antes que Will respondesse, Nari olhou novamente para a própria mão.
 
 **Nari -** Esperem.
 
-Linhas muito finas começavam a crescer a partir das marcas que ela e Sara já possuíam. Não cobriam o símbolo matrimonial nem formavam um desenho independente. Integravam-se a ele.
+As linhas ao redor da aliança estavam mudando.
 
-Will se aproximou e segurou a mão de Nari para observar melhor. Ela deixou. A leveza desapareceu do rosto dele.
+O mesmo acontecia com Sara.
 
-**Will -** Isso eu conheço.
+Will aproximou-se, segurou a mão de Nari e acompanhou o desenho se integrar ao círculo.
 
-**Nari -** O quê?
+A expressão dele perdeu a leveza.
 
-**Will -** Estruturas semelhantes às marcas usadas em contratos de servidão no meu mundo.
+**Nari -** Reconheceu.
+
+**Will -** Sim. Parte dessa estrutura aparece em contratos de servidão no meu mundo.
 
 Sara ergueu a própria mão.
 
 **Sara -** Então nossas alianças estão ganhando partes do seu contrato.
 
-**Will -** Ou o meu contrato está aparecendo nas marcas de vocês.
+**Will -** Ou meus contratos estão ganhando a forma das alianças.
 
 Sara olhou para ele.
 
-**Sara -** Você acabou de interpretar exatamente o mesmo fenômeno na direção oposta.
+**Sara -** Você conseguiu interpretar a mesma coisa ao contrário.
 
-**Will -** Consistência é uma virtude.
+**Will -** Consistência.
 
-**Sara -** Não neste caso.
+**Sara -** Teimosia.
 
-Nari examinou as linhas com atenção, mas não ficou presa nelas como se todo o resto da sala tivesse deixado de existir.
+Nari continuou examinando a marca.
 
-**Nari -** Não parecem duas marcas sobrepostas. Estão se fundindo.
+**Nari -** Não parecem duas estruturas sobrepostas. Estão integradas.
 
-Will soltou a mão dela e olhou para a própria.
+Will verificou outra vez.
 
-**Will -** A minha não recebeu essas linhas.
+**Will -** Estão.
 
-**Nari -** Ainda.
-
-Will fez uma careta.
-
-Sara percebeu.
-
-**Sara -** Agora você está preocupado.
-
-**Will -** Curioso.
-
-**Sara -** Sua curiosidade parece preocupação.
-
-**Will -** Sua leitura facial continua discutível.
-
-Sara deu um passo na direção dele.
-
-Will olhou para o passo e depois para ela. A princesa ainda não tinha força suficiente para transformar presença física em argumento do jeito que gostaria, mas a intenção estava inteira.
-
-Nari não interveio para acalmá-la. Apenas falou o que também queria saber.
-
-**Nari -** Seja curiosidade ou preocupação, o que isso pode significar?
-
-Will respondeu sem fingir certeza.
+**Sara -** E isso significa?
 
 **Will -** Não sei.
 
-Sara ergueu a mão marcada.
+Sara fechou os olhos por um instante.
 
-**Sara -** Você está ficando muito confortável com essa resposta.
+**Sara -** Essa resposta está ficando frequente.
 
-**Will -** Porque continua sendo a correta.
+**Will -** Continua correta.
 
-As linhas pararam de crescer pouco depois. Os três observaram mais algum tempo, sem chegar a conclusão melhor do que a que já possuíam: casamento de um lado, servidão do outro, magia silenciosa no meio.
+As linhas pararam pouco depois.
 
-Quando chegou a noite, surgiu um problema muito mais simples.
+Nenhum deles encontrou explicação melhor.
 
-Onde dormir?
+Quando a noite chegou, decidir onde dormir foi muito mais simples.
 
-O Pagoda tinha quartos suficientes. Sara escolheu um. Nari outro. Will ficou num terceiro. Nenhuma das duas sugeriu compartilhar quarto com ele; Will também não propôs nada. Casamento, contrato ou desastre terminológico não criava obrigação de dividir cama.
+Havia quartos suficientes no Pagoda. Sara escolheu um. Nari ficou com o seguinte. Will tomou outro.
 
-Ao menos nisso, todos concordavam.
+Depois do desastre do enxoval, elas tinham adaptado as roupas dele para algo mais confortável. Uma peça larga servia como camisola para Sara. Nari tinha transformado uma camisa e parte de uma calça em algo próximo de um conjunto curto para dormir.
 
-Sara fechou a porta do próprio quarto e ficou alguns segundos diante da cama. O corpo estava exausto, não por treino ou batalha, mas por ter passado o dia inteiro reaprendendo movimentos que antes eram automáticos. Deitou, puxou o cobertor e olhou uma última vez para a marca.
+Will decidiu não comentar o resultado.
 
-**Sara -** Você fica quieta.
+Parecia prudente.
 
-Nada respondeu.
+**Sara -** Boa noite.
 
-**Sara -** Ótimo.
+**Will -** Boa noite.
 
-No quarto mais distante, Nari fez algo parecido. Examinou a marca por alguns minutos, não procurando uma resposta mística, mas revisando o problema por outro ângulo. Sara aceitara a junção acreditando que Nari ficaria livre. Nari fizera o mesmo por Sara. Will acreditara que libertaria ambas. Três intenções diferentes, compatíveis apenas até a palavra *serviço* começar a significar coisas diferentes.
+**Nari -** Amanhã continuamos.
 
-**Nari, pensa -** *Amanhã.*
+Três portas se fecharam.
 
-Ela preferia adiar a teoria até ter mais fatos.
+Will dormiu profundamente.
 
-Will foi o último a deitar. A energia recuperada ao longo do dia continuava miserável. Ele observou a própria aliança, passou o polegar sobre ela e soltou o ar.
+Mais do que costumava desde que ficara preso no Éter.
 
-**Will, pensa -** *Casamento.*
+Quando voltou à consciência, não percebeu perigo.
 
-Ainda parecia exagerado.
+Percebeu calor.
 
-A marca discordava silenciosamente.
+Algo macio tocava seu rosto. Sem abrir os olhos, seus dedos encontraram fios longos e começaram a passar por eles lentamente.
 
-**Will -** Você também fica quieta.
+Uma vez.
 
-Nenhuma resposta.
+Depois outra.
 
-Por enquanto.
+O corpo junto ao seu peito respondeu antes que sua cabeça terminasse de acordar. Aproximou-se mais e apertou sua cintura.
 
-Os três dormiram em quartos diferentes.
+Do outro lado, outra pessoa também se acomodou. Uma mão segurou seu braço e o corpo se encaixou mais perto.
 
-Will acordou sentindo calor.
+Will respirou fundo.
 
-Não abriu os olhos imediatamente. Primeiro percebeu algo repousando sobre o peito. Depois cabelo, longo e macio, espalhado pelo pescoço. A consciência terminou de acordar e ele encontrou prata diante do rosto.
+Confortável.
 
-Sara dormia parcialmente apoiada sobre ele, um braço atravessado sobre seu torso com a naturalidade de quem havia escolhido aquela posição.
+Seus dedos continuaram o cafuné por mais alguns segundos.
 
-Não havia escolhido.
+Então abriu os olhos.
 
-Will lembrou claramente de deitar sozinho.
+Prata.
 
-**Will, pensa -** *Isso não estava no contrato.*
+Sara dormia contra seu peito, usando a roupa larga dele como camisola. Um braço atravessava sua cintura e uma perna descansava sobre a dele.
 
-Então sentiu outra presença junto ao ombro e virou o rosto.
+Will olhou para a própria mão entre os cabelos dela.
 
-Nari.
+Parou o movimento.
 
-A ruiva dormia próxima o suficiente para alguns fios vermelhos ficarem presos entre o braço dele e o tecido.
+**Will, pensa -** *...certo.*
 
-Will permaneceu imóvel. Havia momentos em que agir depressa era virtude. Aquilo não parecia ser um deles.
+Sentiu um aperto no outro braço.
 
-Também não havia motivo para mentir para si mesmo.
+Virou o rosto.
 
-**Will, pensa -** *A parte mágica é preocupante. O resto, nem tanto.*
+Nari dormia junto ao seu ombro, encolhida contra ele. A camisa larga e o calção improvisado deixavam a cena estranhamente doméstica para três pessoas que, na noite anterior, haviam escolhido três quartos diferentes.
 
-Nari acordou primeiro. Os olhos abriram, encontraram Will, depois Sara, depois o quarto.
+Sara se apertou um pouco mais contra ele.
+
+Nari fez o mesmo.
+
+Will ficou olhando para o teto.
+
+Por alguns segundos, ainda sonolento, a única conclusão disponível foi simples.
+
+Aquilo era muito confortável.
+
+A segunda conclusão demorou um pouco mais.
+
+**Will, pensa -** *Por que elas estão aqui?*
+
+Nari acordou primeiro.
+
+Abriu os olhos, encontrou Will e demorou alguns segundos para entender por que o rosto dele estava tão perto.
+
+Então percebeu a própria mão segurando o braço dele.
+
+Depois Sara.
+
+Depois o quarto.
 
 **Nari -** Não.
 
@@ -235,82 +219,172 @@ Will falou baixo.
 
 **Will -** Bom dia.
 
-Ela ignorou o cumprimento.
+Ela soltou o braço dele devagar.
 
-**Nari -** Eu dormi em outro quarto.
+**Nari -** Por que estou aqui?
 
-**Will -** Eu também.
+Will olhou ao redor.
 
-Nari verificou a marca.
+**Will -** Tecnicamente, você está no meu quarto.
 
-**Will -** Foi a primeira coisa em que pensei.
+Nari ficou encarando-o.
 
-**Nari -** Isso não acontece em casamentos demoníacos.
+**Will -** Não estou dizendo que isso ajuda.
 
-**Will -** Também não acontece em contratos de servidão.
+**Nari -** Eu fui dormir em outro quarto.
 
-Sara começou a despertar antes que continuassem. Primeiro apertou o braço sobre Will de maneira inconsciente, procurando posição melhor. Depois abriu os olhos, viu tecido onde esperava travesseiro, percebeu que o tecido cobria um peito e ergueu o olhar.
+**Will -** Eu não.
+
+Ela franziu a testa.
+
+Will apontou discretamente ao redor.
+
+**Will -** Esse é o meu quarto.
+
+Nari fechou os olhos por um instante.
+
+**Nari -** Isso piora a situação para mim.
+
+Sara se mexeu antes que Will respondesse.
+
+Ainda dormindo, acomodou a cabeça melhor sobre o peito dele e apertou a cintura mais uma vez.
+
+Nari olhou para ela.
+
+Depois para Will.
+
+Ele respondeu com um olhar que deixava claro que também gostaria de uma explicação.
+
+Sara abriu os olhos.
+
+Primeiro viu tecido escuro diante do rosto.
+
+Piscou.
+
+Pareceu prestes a voltar a dormir.
+
+Então percebeu que o tecido cobria um peito.
+
+Seus olhos abriram de verdade.
+
+Olhou para a própria mão na cintura de Will.
+
+Depois para a perna atravessada sobre a dele.
+
+Por fim ergueu o rosto.
 
 Will estava olhando para ela.
 
 **Will -** Bom dia.
 
-Sara congelou, retirou o braço devagar e então encontrou Nari do outro lado.
+Sara ficou absolutamente imóvel.
 
-**Sara -** Explique.
+**Sara -** Por que estou aqui?
 
-**Will -** Eu estava esperando que uma de vocês pudesse.
+Will respirou fundo.
 
-Ela se sentou com cuidado.
+**Will -** Antes que eu responda, gostaria de registrar que este é o meu quarto.
 
-**Sara -** Eu fui dormir sozinha.
+Sara olhou ao redor.
 
-**Nari -** Eu também.
+Depois para ele.
 
-**Will -** Três quartos diferentes.
+**Sara -** Isso não responde por que eu estou nele.
 
-Sara olhou para a porta.
+**Will -** Eu sei.
 
-**Sara -** E acordei em cima de você.
+Ela retirou a perna e o braço, bem mais devagar do que sua expressão sugeria que gostaria.
 
-Will considerou.
+Nari sentou-se do outro lado.
 
-**Will -** Esse é um argumento forte.
+**Nari -** Eu dormi no quarto ao lado.
 
-Ela lançou um olhar que teria sido mais perigoso se o corpo já acompanhasse plenamente a intenção.
+**Sara -** Eu também dormi sozinha.
 
-Nari puxou o cobertor e percebeu que possuía uma parcela desproporcional dele. Will levantou um pé descoberto.
+As duas olharam para Will.
 
-**Will -** Tenho evidência de que alguém roubou o cobertor também.
+Ele ergueu as mãos.
 
-Nari olhou.
+**Will -** Eu tenho a melhor defesa dos três. Fui dormir exatamente aqui.
 
-**Nari -** Isso não faz parte do problema principal.
+Sara estreitou os olhos.
 
-Sara acompanhou o cobertor enrolado em Nari.
+**Sara -** Não pareça satisfeito com isso.
 
-**Sara -** Ainda é um problema.
+**Will -** Estou apenas sendo preciso.
 
-Nari virou para ela.
+Nari soltou uma respiração curta pelo nariz.
 
-**Nari -** Você está do lado errado desta investigação.
+Foi então que ela viu a mão dele.
+
+**Nari -** Sua aliança.
+
+Will olhou.
+
+As linhas que na noite anterior existiam apenas nas marcas de Sara e Nari agora atravessavam a dele da mesma forma.
+
+O mesmo círculo.
+
+As mesmas linhas.
+
+As três marcas estavam iguais.
+
+Sara ergueu a própria mão e comparou.
+
+**Sara -** Ontem a sua não era assim.
+
+**Will -** Não.
+
+Nari olhou para as três mãos.
+
+Depois para a cama.
+
+**Nari -** Três quartos separados.
+
+**Sara -** Três pessoas acordando juntas.
+
+Will assentiu.
+
+**Will -** No meu quarto.
+
+Sara apontou para ele.
+
+**Sara -** Pare de gostar dessa parte.
+
+**Will -** Não estou gostando. Estou registrando fatos.
+
+**Nari -** Tecnicamente correto.
+
+Will olhou para ela.
+
+Nari sustentou o olhar.
 
 Sara quase sorriu.
 
-Quase.
+**Sara -** Fazemos de novo hoje.
 
-A brincadeira morreu quando as três marcas voltaram à atenção.
+**Nari -** Mesmos quartos.
 
-Nari foi direta.
+**Will -** Posso colocar selos nas portas.
 
-**Nari -** Dormir separados não foi respeitado.
+**Sara -** Coloque.
 
-Sara olhou para a cama, depois para Will.
+Nari voltou a observar as marcas iguais.
 
-**Sara -** Se acontecer de novo, não foi acidente.
+**Nari -** Se acontecer novamente, pelo menos eliminamos a coincidência.
 
-**Nari -** Então testamos esta noite.
+Will passou o polegar sobre a própria aliança.
 
-Will recostou a cabeça por mais um instante e olhou para a própria aliança.
+Na noite anterior, ela ainda era diferente.
 
-A magia finalmente tinha dado sua primeira opinião.
+Agora não.
+
+E três pessoas que haviam escolhido dormir separadas tinham acordado abraçadas na mesma cama.
+
+Will olhou para Sara.
+
+Depois para Nari.
+
+Por fim, para a marca.
+
+**Will, pensa -** *Então você realmente tem opiniões.*
