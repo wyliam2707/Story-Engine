@@ -1,19 +1,19 @@
 # Capítulo 12
 ## Ele tem coragem
 
-Will ainda recuperava o fôlego quando Sara se virou para ele. Alguns minutos antes havia céu naquele lugar; agora restava a parede silenciosa do Pagoda e a certeza irritante de que chegar até Elder não significava conseguir entrar nele.
+Will ainda recuperava o fôlego quando Sara se virou para ele. Alguns minutos antes havia céu naquele lugar; agora restava a parede silenciosa do Pagoda e a certeza irritante de que encontrar Elder não significava conseguir entrar nele.
 
 **Sara -** Então, amor, por que caiu?
 
 Will olhou para o ponto vazio onde a passagem estivera.
 
-**Will -** Porque encontrar Elder funcionou. Sustentar a ligação, não.
+**Will -** Porque encontrar Elder funcionou, querida. Sustentar a ligação, não.
 
-Nari se aproximou, mais interessada na falha do que no fracasso.
+Nari se aproximou.
 
-**Nari -** Falta de energia?
+**Nari -** Falta de energia, querido?
 
-**Will -** Não exatamente.
+**Will -** Não exatamente, querida.
 
 Sara estreitou os olhos.
 
@@ -21,7 +21,7 @@ Sara estreitou os olhos.
 
 Will olhou ao redor.
 
-**Will -** Para onde?
+**Will -** Para onde, querida?
 
 Ela ficou em silêncio por um segundo.
 
@@ -29,19 +29,19 @@ Ela ficou em silêncio por um segundo.
 
 Nari desviou os olhos apenas o bastante para mostrar que ouvira perfeitamente. Will teve a prudência de não sorrir muito e ergueu a mão marcada.
 
-**Will -** Vou resumir. As marcas me deram uma referência de Elder. Minha energia conseguiu abrir o caminho pelo Éter, mas, depois de aberto, eu estava tentando manter tudo sozinho.
+**Will -** Vou resumir, queridas. As marcas me deram uma referência de Elder. Minha energia conseguiu abrir o caminho pelo Éter, mas, depois de aberto, eu estava tentando manter tudo sozinho.
 
 Nari acompanhou o raciocínio quase imediatamente.
 
-**Nari -** Então as marcas funcionaram como coordenadas, não como parte da estrutura.
+**Nari -** Então as marcas funcionaram como coordenadas, amor. Não como parte da estrutura.
 
-**Will -** Exatamente.
+**Will -** Exatamente, querida.
 
 Sara voltou a olhar para o espaço vazio.
 
 **Sara -** Então precisa de mais energia.
 
-**Will -** Não. Se eu tivesse o dobro, provavelmente teria conseguido fracassar por mais tempo.
+**Will -** Não, querida. Se eu tivesse o dobro, provavelmente conseguiria fracassar por mais tempo.
 
 Ela sustentou o olhar dele.
 
@@ -49,9 +49,9 @@ Ela sustentou o olhar dele.
 
 **Will -** É experiência médica.
 
-Nari ignorou os dois e voltou à questão central.
+Nari voltou à questão central.
 
-**Nari -** Se quantidade não resolve, o que resolve?
+**Nari -** Se quantidade não resolve, querido, o que resolve?
 
 Will demorou um pouco mais para responder. Não porque estivesse sem ideias, mas porque uma delas acabara de se tornar desagradavelmente plausível.
 
@@ -61,31 +61,37 @@ Sara descruzou os braços. Nari inclinou a cabeça.
 
 **Nari -** Para misturar as circulações?
 
-**Will -** Mais ou menos. Minha energia consegue atravessar o Éter, mas não tem ressonância natural com Elder. A de vocês pertence a Elder, mas nenhuma das duas sabe abrir uma passagem através do Éter. Se eu conseguir fazer uma circulação que carregue as duas coisas, talvez o portal se sustente.
+**Will -** Mais ou menos, querida. Minha energia consegue atravessar o Éter, mas não tem ressonância natural com Elder. A de vocês pertence a Elder, mas nenhuma das duas sabe abrir uma passagem através do Éter. Se eu conseguir misturar as duas coisas, talvez o portal se sustente.
 
 Nari assentiu devagar.
 
 **Nari -** Sua energia abre o caminho. A nossa faz esse caminho pertencer parcialmente a Elder.
 
-**Will -** É uma boa forma de dizer.
+**Will -** É uma boa forma de dizer, querida.
 
 Sara apontou para ele.
 
-**Sara -** Até aqui parece uma técnica normal. Continue desse jeito.
+**Sara -** Até aqui parece uma técnica normal, amor. Continue desse jeito.
 
-Will quase perguntou o que exatamente ela esperava que acontecesse dali em diante. Decidiu não descobrir.
+Will quase perguntou o que exatamente ela esperava que acontecesse dali em diante.
 
-**Will -** Para misturar as três circulações, a técnica exige contato físico direto. Eu vou precisar colocar minha energia em vocês, preencher a circulação completamente, manter um ritmo constante e esperar o fluxo alcançar o ápice antes de passar para a próxima.
+Decidiu não descobrir.
 
-O silêncio ficou estranho rápido demais.
+**Will -** Para misturar as três circulações, a técnica exige contato físico direto. Eu vou precisar colocar minha energia em vocês, manter um ritmo constante até o fluxo se estabilizar e então passar para a próxima.
 
-Sara virou lentamente o rosto para Nari. Nari continuou olhando para Will, mas alguma coisa em sua expressão havia mudado. Will levou alguns segundos para perceber que as duas tinham parado de ouvir aquilo como uma explicação técnica.
+O silêncio ficou estranho.
+
+Sara virou lentamente o rosto para Nari.
+
+Nari continuou olhando para Will.
+
+Ele levou alguns segundos para perceber que as duas haviam parado de ouvir aquilo como uma explicação técnica.
 
 **Sara -** Então sua solução é tentar dormir com nós duas, querido?
 
 Will piscou.
 
-**Will -** O quê?
+**Will -** O quê, querida?
 
 Nari o avaliou por mais um instante, perfeitamente séria.
 
@@ -95,17 +101,25 @@ Sara virou para ela.
 
 **Sara -** Coragem?
 
-**Nari -** Para propor isso às duas ao mesmo tempo.
+**Nari -** Para propor isso às duas ao mesmo tempo, querida.
 
-Will refez mentalmente a própria explicação. Contato físico. Colocar energia nelas. Preencher completamente. Ritmo constante. Ápice. Passar para a próxima.
+Will refez mentalmente a própria explicação.
+
+Contato físico.
+
+Colocar minha energia em vocês.
+
+Ritmo constante.
+
+Passar para a próxima.
 
 Ele fechou os olhos.
 
-**Will -** Não.
+**Will -** Não, querida.
 
 Sara cruzou os braços.
 
-**Will -** Não é isso. É cultivo. Meditação. Costas com costas.
+**Will -** Não é isso, querida. É cultivo. Meditação. Costas com costas.
 
 A expressão das duas mudou.
 
@@ -115,57 +129,81 @@ A expressão das duas mudou.
 
 Will passou a mão pelo rosto.
 
-**Will -** Posso recomeçar.
+**Will -** Posso recomeçar, amor.
 
 **Sara -** Por favor.
 
-Dessa vez ele foi direto ao problema. A energia precisava realmente atravessar Sara e Nari, misturar-se às circulações delas e retornar carregando a ressonância de Elder. Usar as duas forneceria referências independentes do mesmo mundo e aumentaria a chance de o fluxo final se manter estável. Não bastava tocar ou transferir energia rapidamente; o circuito precisava permanecer contínuo por horas, acompanhando o eixo da coluna, e o tecido entre os corpos reduziria eficiência justamente no ponto mais importante.
+Dessa vez ele foi direto ao problema. A energia precisava atravessar Sara e Nari, misturar-se às circulações delas e retornar carregando a ressonância de Elder. Primeiro ele precisaria ensinar às duas como receber e conduzir aquele fluxo. Depois poderiam formar um circuito entre os três.
+
+Não bastava tocar ou transferir energia rapidamente. A circulação precisava permanecer contínua por horas, seguindo principalmente o eixo da coluna.
+
+E tecido entre os corpos reduziria a eficiência justamente ali.
 
 Nari passou a mão pela própria coluna por cima da túnica.
 
-**Nari -** Então precisa ser pele com pele.
+**Nari -** Então precisa ser pele com pele, querido.
 
-**Will -** Nas costas, sim.
+**Will -** Nas costas, querida.
 
 Sara o observou por um momento.
 
-**Sara -** Horas sentadas costas com costas, sem tecido.
+**Sara -** Horas sentadas costas com costas, sem tecido, amor.
 
 **Will -** É.
 
-**Sara -** Sua primeira explicação continua parecendo suspeita, amor.
+**Sara -** Sua primeira explicação continua parecendo suspeita.
 
-**Will -** Eu estava explicando circulação energética.
+**Will -** Eu estava explicando circulação energética, amor.
 
-**Nari -** Acredito em você, querido.
+**Nari -** Claro, querido.
 
 O tom dela não ajudou em absolutamente nada.
 
-Só então as duas olharam para as próprias roupas. As túnicas improvisadas eram tudo que tinham. Funcionavam para viver no Pagoda, mas não para deixar a coluna exposta mantendo o resto coberto. Nari puxou um pouco o tecido junto ao ombro, calculando como poderia prendê-lo na frente.
+As duas olharam para as túnicas improvisadas.
 
-**Nari -** Podemos adaptar isso. Não é complicado.
+Depois uma para a outra.
 
-Sara olhou para ela.
+Não havia nada por baixo.
 
-**Sara -** Você já está planejando.
+Sara puxou um pouco a gola para a frente e soltou o tecido.
 
-**Nari -** Pretende sair do Éter sem fazer isso?
+**Sara -** Bom.
 
-Sara ficou em silêncio.
+Nari acompanhou o gesto.
 
-**Nari -** Então sim, querida. Estou planejando.
+**Nari -** Não é como se ele já não tivesse visto antes, querida.
 
-Will assentiu.
+Sara olhou para Will.
 
-**Will -** Amanhã eu começo ensinando a circulação básica. Depois adaptamos a formação para três pessoas.
+Nari também.
 
-Sara respondeu antes que ele pudesse seguir para a porta.
+Will percebeu perfeitamente a direção daquela conversa.
+
+**Will -** Amanhã começo ensinando a circulação básica, queridas.
+
+Ele se virou para a porta.
+
+**Sara -** Você parece estar gostando muito da ideia, amor.
+
+Will continuou andando.
+
+**Will -** Depois adaptamos a formação para três pessoas.
+
+**Nari -** Está fugindo, querido.
+
+**Will -** Estou organizando a aula, querida.
+
+Sara respondeu antes que ele alcançasse a porta.
 
 **Sara -** Amanhã você começa sua aula, mestre.
 
-Will olhou para ela e sorriu.
+Will parou.
 
-**Will -** Gostei disso.
+Olhou para ela.
+
+Sorriu.
+
+**Will -** Gostei disso, amor.
 
 Sara apontou um dedo em sua direção.
 
@@ -173,18 +211,22 @@ Sara apontou um dedo em sua direção.
 
 Nari se levantou ao lado dela.
 
-**Nari -** Sob circunstâncias muito específicas.
+**Nari -** Sob circunstâncias muito específicas, amor.
 
 Will abriu a porta.
 
-**Will -** Ainda conta.
+**Will -** Ainda conta, querida.
 
-Sara pegou a primeira coisa pequena o bastante para arremessar, e Will fechou a porta antes de descobrir se o pacto tinha alguma opinião nova sobre aquele tipo de agressão.
+Sara pegou a primeira coisa pequena o bastante para arremessar.
 
-Do outro lado, ouviu a voz dela.
+Will fechou a porta.
+
+O objeto bateu na madeira do outro lado.
 
 **Sara -** Covarde.
 
-Will continuou andando. O portal permanecia fechado, sua reserva continuava baixa e a técnica ainda precisava ser ensinada, adaptada e executada por horas antes de sequer descobrirem se a teoria estava certa. Mesmo assim, pela primeira vez desde que a passagem desabara, havia uma solução possível.
+Will continuou andando.
 
-Inconveniente, constrangedora e, aparentemente, corajosa.
+Amanhã começariam.
+
+Inconveniente, constrangedor e, aparentemente, corajoso.
