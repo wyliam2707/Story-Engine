@@ -1,268 +1,418 @@
 # Capítulo 2
 ## O preço de sobreviver
 
-O nome ficou com Sara antes que qualquer outra coisa voltasse a fazer sentido.
+Ótimo.
 
-Will.
+Sara tentou mover a mão.
 
-Médico.
+Nada.
 
-Não era muita informação, mas naquele momento parecia suficiente para construir uma pequena ponte sobre o nada. Sara ainda não sabia se respirava, se possuía mãos ou se a sensação de existir vinha de um corpo real ou apenas do que restava da própria alma. Pensar continuava possível, embora cada pensamento parecesse atravessar uma substância espessa antes de assumir forma.
+Tentou abrir os olhos.
 
-As lembranças vinham em pedaços. A reunião diplomática. O instante em que a situação deixara de fazer sentido. A explosão preparada para matar quem estivesse ali. Depois, homens chegando não para resgatar os sobreviventes, mas para terminar o trabalho. Sara lembrava de lutar, lembrava de Nari, lembrava da relíquia danificada escolhida porque todas as alternativas já haviam conseguido ser piores.
+Nada também.
 
-Então espaço rasgando, queda sem direção e o próprio corpo deixando de ser uma certeza.
-
-**Sara, pensa -** *Estou viva?*
-
-A pergunta surgiu clara. A resposta, infelizmente, não.
-
-Ela tentou rir da própria situação e não conseguiu nem isso.
-
-**Sara, pensa -** *Excelente.*
-
-Sobreviver a uma emboscada, a uma tentativa de extermínio e a uma relíquia defeituosa para terminar sem saber se ainda possuía boca suficiente para reclamar parecia ofensivo em vários níveis.
-
-A presença de Will continuava próxima. Sara concentrou-se nela.
-
-**Sara -** Onde estou?
-
-**Will -** No Éter. Uma dimensão entre dimensões. Encontrei você e outra pessoa lá fora e trouxe as duas para uma área protegida.
-
-A segunda metade da frase atravessou a névoa com força.
-
-**Sara -** Nari?
-
-**Will -** Não sabia o nome dela. Ainda não consegui falar com ela. Está viva.
-
-Viva.
-
-Sara se agarrou à palavra. Não significava segurança, recuperação ou sequer que Nari continuaria viva uma hora depois. Mas era alguma coisa.
-
-**Sara -** O ambiente estava fazendo isso conosco?
-
-**Will -** Sim. A exposição ao Éter estava deteriorando os corpos. Minha residência impede que continue enquanto estiverem aqui. O que já foi perdido, porém, continua perdido.
-
-Sara tentou encontrar o próprio corpo outra vez. O resultado foi o mesmo conjunto de ausências e fragmentos.
-
-**Sara -** Você disse que é médico.
-
-**Will -** Sim.
-
-**Sara -** Então diga a gravidade.
-
-Houve uma pausa curta. Sara reconheceu imediatamente o tipo de silêncio. Médicos que demoravam antes de responder perguntas simples geralmente estavam escolhendo palavras. Ela preferia as ruins sem decoração.
-
-**Will -** Seus corpos estão quase sem integridade. O dano não é apenas físico. A sustentação espiritual também foi atingida.
-
-**Sara -** Vou morrer?
-
-Outra pausa, menor.
-
-**Will -** Se nada for feito, acredito que sim.
-
-Bom. Direto.
-
-**Sara -** E se você fizer alguma coisa?
-
-**Will -** Posso tentar salvar vocês.
-
-Tentar. Ela percebeu a palavra e gostou mais dela do que gostaria de uma promessa vazia.
-
-Will explicou o necessário sem tentar transformar o procedimento em milagre. Tinha meios para trabalhar com regeneração, medicina e alquimia, mas não conhecia completamente a fisiologia delas, e o dano espiritual tornava a reconstrução mais delicada. Precisava de uma ligação estável com a alma de cada uma para usar algo mais confiável que os corpos quase desfeitos como referência. A mesma ligação poderia, depois, servir para localizar a origem delas e talvez abrir um caminho para fora do Éter.
-
-Sara ouviu até o fim.
-
-**Sara -** Então salvar nós duas também ajuda você.
-
-**Will -** Sim.
-
-Aquilo simplificou um pouco a situação. Ela sabia negociar com pessoas que queriam alguma coisa; pessoas que juravam não querer nada eram quase sempre mais trabalhosas.
-
-**Sara -** Que tipo de ligação?
-
-**Will -** Uma junção de almas.
-
-A névoa na mente de Sara pareceu recuar.
-
-Junção de almas.
-
-Aquilo ela conhecia.
-
-Não como uma técnica obscura ou curiosidade acadêmica, mas como parte da própria natureza demoníaca. Demônios não podiam ser transformados em servos por um contrato comum de servidão. Não era uma proibição política que algum rei pudesse revogar. A constituição espiritual do povo simplesmente recusava aquela forma de sujeição.
-
-Uma junção de almas associada a uma relação de serviço pertencia a outra instituição.
-
-Casamento.
-
-Sara ficou em silêncio alguns segundos.
-
-Will prosseguiu, aparentemente sem perceber que acabara de mudar a natureza inteira da conversa.
-
-**Will -** Preciso estabelecer essa ligação antes de começar o tratamento.
-
-**Sara -** E o que você quer em troca?
-
-**Will -** Quero que se torne minha serva.
-
-Se ainda possuísse sobrancelhas plenamente funcionais, uma delas teria subido.
-
-**Sara, pensa -** *Claro.*
-
-Junção de almas. Serviço.
-
-Para ela não havia ambiguidade. O desconhecido estava propondo casamento, ainda que de uma maneira que dificilmente encontraria espaço em qualquer manual de cortejo.
-
-**Sara -** E Nari?
-
-**Will -** Quero salvá-la também.
-
-**Sara -** Ela também terá de ficar vinculada a você?
-
-Will demorou um pouco mais para responder. A pausa foi curta demais para parecer surpresa e longa o bastante para indicar escolha de palavras.
-
-**Will -** Você será a vinculada ao acordo que estou propondo agora. Minha intenção é que a outra fique livre quando conseguirmos sair.
-
-Sara analisou a frase.
-
-A outra ficaria livre.
-
-Para ela, o significado era simples: o casamento seria seu. Nari sobreviveria sem carregar o mesmo vínculo.
-
-Sara deixou o silêncio durar porque compreendia perfeitamente o tamanho da escolha. Não sabia a idade de Will, sua origem, família, posição, aparência ou sequer se a espécie dele era realmente humana. Sabia apenas que era médico, estava preso entre dimensões e acreditava poder salvá-las.
-
-A situação era absurda o bastante para competir com a morte pela atenção dela.
-
-**Sara, pensa -** *Então é isso.*
-
-Casamento não exigia amor. Não exigia desejo, intimidade ou abandono das próprias responsabilidades. A tradição colocava a residência do marido como referência comum do vínculo, mas Sara continuaria sendo Sara, continuaria tendo deveres, posição e escolhas. Havia casamentos políticos em Elder mais antigos que algumas amizades.
-
-A verdadeira pergunta não era se aquilo seria agradável.
-
-Era se ainda existiria uma Sara para achá-lo desagradável.
+Respirar parecia estar acontecendo em algum lugar, embora ela não tivesse certeza de que pulmões ainda participavam do processo. Havia consciência, havia dor e havia uma sensação particularmente desagradável de que as partes responsáveis por transformar uma pessoa em uma pessoa tinham entrado em desacordo.
 
 **Sara, pensa -** *Estou morrendo.*
 
-Não havia drama na constatação. Era apenas fato.
+A conclusão parecia sólida.
 
-Se recusasse, preservaria a liberdade por uma quantidade extraordinariamente pequena de tempo. Se aceitasse e sobrevivesse, teria um problema. Problemas eram privilégio dos vivos.
+Alguns instantes depois, reconsiderou.
 
-Depois havia Nari.
+**Sara, pensa -** *Ou já morri. Ainda não decidi.*
 
-Sara e Nari não precisavam ser amigas para que a sobrevivência da outra importasse. Tinham estado na mesma reunião, visto a emboscada, enfrentado a força enviada para eliminar os sobreviventes e atravessado juntas a relíquia. Se uma delas voltasse ao Conclave, a história não morreria com as duas.
+Se aquilo fosse a morte, era decepcionante. Esperava alguma coisa mais organizada.
 
-**Sara, pensa -** *Alguém precisa contar.*
+Sara tentou alcançar o próprio corpo outra vez e encontrou apenas pedaços de sensação. Não sabia onde estavam as pernas. Um dos braços talvez ainda existisse. O rosto era uma hipótese. A única coisa que conseguia reconhecer com certeza era a própria consciência, comprimida dentro de algo que parecia pequeno demais para contê-la.
 
-A necessidade pesou mais que qualquer consideração matrimonial.
+A memória estava melhor.
 
-**Sara -** Se eu aceitar, você salva Nari.
+Infelizmente.
 
-**Will -** Vou tentar salvar as duas.
+A reunião.
 
-**Sara -** E ela fica livre.
+As primeiras palavras que deixaram de fazer sentido.
+
+A explosão.
+
+O salão desaparecendo em fogo e pedra.
+
+Gente caindo.
+
+Ela própria levantando.
+
+Nari ainda viva.
+
+Depois vieram os homens.
+
+Sara lembrava daquela parte com uma clareza que dispensava interpretação. Não eram socorristas. Não tinham chegado tarde demais para impedir a tragédia. Tinham chegado exatamente na hora certa para terminar o trabalho.
+
+Houvera luta. Dor. A relíquia danificada. Nari próxima. A escolha entre usar alguma coisa que poderia matá-las ou esperar algo que certamente faria isso.
+
+Sara lembrava de ativá-la.
+
+Depois o mundo desaparecera.
+
+Não havia outra palavra.
+
+Ela não sabia quanto tempo tinha passado desde então. Minutos, horas, dias. O que quer que fosse aquele lugar, não fornecia nenhum favor como luz, temperatura ou passagem do tempo.
+
+Sara concentrou-se.
+
+Nari.
+
+Tentou chamar.
+
+Nada.
+
+Tentou outra vez.
+
+Nada.
+
+Um desconforto muito diferente da dor surgiu.
+
+**Sara, pensa -** *Não.*
+
+Se estivesse sozinha...
+
+Não terminou o pensamento.
+
+Foi quando alguma coisa tocou sua consciência.
+
+Uma presença.
+
+Estranha.
+
+Não era Nari.
+
+**Will -** Consegue me ouvir?
+
+Sara permaneceu em silêncio por um instante. A voz não chegava por seus ouvidos. Ela simplesmente existia dentro da comunicação, suficientemente distinta para não parecer pensamento próprio.
+
+**Will -** Não precisa mover o corpo. Apenas responda se conseguir compreender.
+
+Bom.
+
+Pelo menos alguém sabia que havia um corpo envolvido.
+
+Sara reuniu o pouco de concentração que possuía.
+
+**Sara -** Quem... está falando?
+
+A resposta veio rapidamente.
+
+**Will -** Meu nome é Will. Sou médico.
+
+Médico.
+
+Melhor do que várias alternativas.
+
+**Sara -** Onde estou?
+
+**Will -** No Éter. Uma dimensão entre dimensões.
+
+Ela esperou que alguma lembrança desse significado útil à frase.
+
+Nada.
+
+**Sara -** Estou morrendo?
+
+Will não tentou amenizar.
 
 **Will -** Sim.
 
-Sara acreditou que ele falava sério. Talvez estivesse errada, mas naquela condição qualquer negociação exigia escolher quais riscos ainda mereciam ser chamados de riscos.
+Sara gostou um pouco mais dele por isso.
 
-**Sara -** Você acredita que consegue nos tirar daqui?
+Não muito.
 
-**Will -** Não posso prometer antes de tentar. Mas acredito que a ligação pode servir como referência para encontrar a origem de vocês.
+O bastante.
 
-Outra resposta ruim de um jeito útil. Ele não vendia certeza onde não possuía nenhuma.
+**Sara -** Quanto tempo?
+
+**Will -** Não sei. Pouco o bastante para eu não querer desperdiçar.
+
+Excelente.
+
+Finalmente alguém com prioridades razoáveis.
+
+**Sara -** Nari?
+
+A pausa foi curta.
+
+**Will -** Se está falando da outra pessoa que encontrei, ela está aqui. Viva.
+
+Sara não percebeu o quanto estava esperando aquela resposta até alguma coisa dentro dela relaxar.
+
+Nari estava viva.
+
+Ainda havia duas.
+
+**Sara -** Você consegue salvá-la?
+
+**Will -** Vou tentar salvar as duas.
+
+Não *sim*.
+
+Não uma promessa bonita.
+
+Vou tentar.
+
+Sara aceitou.
+
+**Sara -** Então fale rápido.
+
+**Will -** Pretendo.
+
+A presença dele tornou-se mais nítida.
+
+**Will -** Os corpos de vocês sofreram deterioração extrema. Eu interrompi o processo, mas o dano também atingiu estruturas espirituais. Para reconstruir você com segurança, preciso de uma referência estável para sua alma.
+
+Sara ouviu.
+
+Era desagradável perceber que não compreendia completamente a medicina envolvida, mas compreendia perfeitamente a palavra *alma*.
+
+**Sara -** O que precisa?
+
+**Will -** Um vínculo direto. Um contrato de servidão.
+
+Claro.
+
+Sara quase teria rido se tivesse uma boca disponível.
+
+**Sara, pensa -** *Claro que não sairia de graça.*
+
+Um homem desconhecido a encontrava praticamente morta no nada, dizia que podia reconstruí-la e ainda pretendia salvar Nari.
+
+E queria alguma coisa em troca.
+
+Isso fazia sentido.
+
+Contrato de servidão. Vínculo direto com a alma.
+
+Sara sabia o que aquilo significava para ela.
+
+A conclusão surgiu imediatamente, sem necessidade de cerimônia.
+
+Casamento.
+
+Não exatamente o tipo de proposta que imaginara receber algum dia. Também nunca imaginara que receberia uma sem conseguir enxergar o pretendente.
+
+Havia problemas mais urgentes.
+
+**Sara -** Você é humano?
+
+Will demorou apenas o suficiente para que ela percebesse que a resposta não era completamente simples.
+
+**Will -** De onde venho, seria chamado assim.
+
+Humano.
+
+Ou suficientemente próximo.
+
+Sara fez a conta.
+
+Quarenta anos. Talvez cinquenta. Sessenta se aquele desconhecido tivesse uma vida particularmente longa.
+
+**Sara, pensa -** *Posso lidar com um casamento por quarenta ou sessenta anos.*
+
+Não era pouco.
+
+Mas também não era morrer agora.
+
+**Sara -** E a outra?
+
+**Will -** Também vou tentar salvá-la.
+
+**Sara -** O que pretende fazer com ela?
+
+Will demorou uma fração.
+
+**Will -** Pretendo libertá-la quando sairmos daqui, se você aceitar.
+
+Sara ficou quieta.
+
+Foi pouco tempo.
+
+Para ela, pareceu mais.
+
+A resposta se encaixou perfeitamente.
+
+Ela aceitaria o vínculo.
+
+Nari seria salva.
+
+Depois sairia livre.
+
+Simples.
+
+Não agradável.
+
+Simples.
+
+E Nari precisava sair.
+
+Não apenas viva.
+
+Livre.
+
+Alguém precisava chegar ao Conclave e contar o que tinha acontecido naquela reunião. A explosão. Os mortos. Os homens enviados depois para garantir que não restassem sobreviventes.
+
+Se Sara não pudesse levar a informação, Nari levaria.
+
+Uma delas bastava.
+
+**Sara, pensa -** *Então eu assumo.*
+
+A decisão não pareceu heroica.
+
+Nem triste.
+
+Pareceu apenas necessária.
 
 **Sara -** Qual é seu nome completo?
 
 **Will -** Will God Stone.
 
-Sara repetiu mentalmente. Estranho, mas nomes de outros povos frequentemente eram.
+Estranho.
 
-**Sara -** Eu sou Sara Iron Heart.
+Sara repetiu mentalmente.
 
-Ele recebeu o nome sem qualquer reconhecimento especial. Isso confirmou que Will realmente não sabia quem havia encontrado e, curiosamente, Sara gostou um pouco da informação. Pelo menos aquele casamento não estava sendo comprado por posição política.
+Will God Stone.
 
-Era apenas o acordo extraordinariamente ruim de um homem desesperado para sair do Éter com uma mulher desesperada para continuar viva.
+Nenhuma memória respondeu ao nome.
 
-Quase simples.
+Melhor assim.
 
-**Sara -** Então vamos fazer isso.
+**Sara -** Sara Iron Heart.
 
-Will não iniciou a fórmula imediatamente.
+Nenhuma reação.
 
-**Will -** Quero que compreenda que preciso de uma ligação real, não apenas de uma promessa verbal.
+Nenhuma pausa especial.
 
-Sara quase riu.
+Nenhum reconhecimento.
 
-**Sara, pensa -** *Eu sei muito melhor do que você.*
+Ele não sabia.
 
-**Sara -** Compreendo.
+Aquilo respondeu a uma pergunta que ela nem tivera tempo de fazer. Não estava negociando com Sara Iron Heart por causa de quem ela era. Para ele, era apenas uma desconhecida morrendo.
 
-A presença de Will se tornou mais definida no contato. Quando falou, não houve cerimônia além da precisão necessária.
+Curiosamente, isso facilitava.
+
+**Will -** Preciso da sua resposta consciente. Se aceitar, o vínculo será real.
+
+**Sara -** Entendi. Então faça.
+
+Ele não desperdiçou mais tempo.
+
+A presença de Will tornou-se mais firme. Sara sentiu alguma coisa tocar os limites da própria alma, ainda sem fechar nada, esperando.
 
 **Will -** Eu, Will God Stone, faço de você, Sara Iron Heart, minha serva. Você aceita?
 
-Sara ouviu cada palavra. Para ela, serviço e junção de almas já tinham um nome diferente.
+Serva.
 
-Pensou em Nari, no Conclave, na própria vida e na morte próxima demais para exigir imaginação.
+Era assim que ele chamava.
 
-**Sara, pensa -** *Posso lidar com um marido.*
+Sara não precisava discutir terminologia enquanto estava morrendo.
 
-A ideia veio seca.
+Ele queria o vínculo.
 
-**Sara, pensa -** *Não posso lidar com estar morta.*
+Ela conhecia o preço.
+
+Nari sairia livre.
+
+O Conclave teria alguém capaz de contar o que acontecera.
+
+E ela teria a possibilidade de continuar viva tempo suficiente para descobrir que tipo de marido acabara de adquirir.
+
+O cálculo não melhoraria se repetido.
 
 **Sara -** Sim, Will God Stone. Eu, Sara Iron Heart, aceito compartilhar minha alma com você.
 
-A magia respondeu imediatamente. Algo tocou sua alma, encontrou a declaração que acabara de fazer, encontrou Will e fechou a junção. Não houve dor. Houve presença, uma certeza súbita de que alguma coisa que antes terminava nela agora possuía uma conexão real com outra pessoa.
+A resposta veio antes que pudesse pensar mais.
 
-Na mão que mal conseguia sentir, uma marca começou a existir.
+Não de Will.
 
-Sara não precisava vê-la para compreender.
+Da própria magia.
+
+O vínculo fechou.
+
+Sara sentiu a própria alma ser tocada e, pela primeira vez desde a relíquia, alguma coisa pareceu segura.
+
+Não confortável.
+
+Segura.
+
+Havia outra presença ligada à dela agora. Distinta. Estranha. Impossível de confundir com a própria consciência.
+
+Real.
+
+Ela sentiu também alguma coisa surgir onde acreditava que sua mão deveria estar.
+
+Uma marca.
+
+Não precisava enxergar.
+
+Sabia.
 
 Uma aliança.
 
-**Sara, pensa -** *Está feito.*
+Sara permaneceu em silêncio por um instante.
 
-A enormidade daquilo chegou só depois. Sara Iron Heart, casada com Will God Stone, um homem cujo rosto ainda não conhecia. Por alguma razão, essa última parte conseguiu irritá-la mais do que deveria.
+Casada.
 
-**Sara, pensa -** *Quando eu tiver olhos funcionando de novo, é melhor ele ter pelo menos uma aparência aceitável.*
+A palavra era absurda.
 
-Era uma preocupação pequena, quase ridícula diante da situação, e profundamente sua. Sara agarrou-se a ela. Pensamentos pequenos pertenciam a pessoas que ainda esperavam ter manhã seguinte.
+Casada com um homem que nunca tinha visto.
 
-Do outro lado, Will parecia concentrado na ligação.
+Talvez fosse horrível.
+
+Sara percebeu que aquela preocupação realmente a incomodava.
+
+**Sara, pensa -** *Se eu sobreviver e ele for feio, vou ficar muito irritada.*
+
+Era uma estupidez magnífica.
+
+E exatamente por isso gostou dela.
+
+Pessoas prestes a deixar de existir não se preocupavam com a aparência do marido.
+
+Pessoas que esperavam sobreviver, sim.
+
+A presença de Will mudou.
 
 **Will -** Funcionou.
 
-Para Sara, o significado era óbvio. O casamento estava firmado.
+**Sara -** Nari.
 
-**Sara -** Então comece.
+Não precisou dizer mais.
 
-**Will -** Vou falar com a outra primeiro.
+**Will -** Vou falar com ela agora.
 
-**Sara -** Nari?
+Rápido.
 
-**Will -** Preciso avaliar a condição dela antes do tratamento.
+Sem cerimônia.
 
-Sara aceitou. Nari ficaria livre. Era o que importava.
+Exatamente o que Sara queria.
 
-Antes que o contato desaparecesse, falou uma última vez.
+**Sara -** Salve ela.
 
-**Sara -** Will.
+**Will -** Vou tentar.
 
-**Will -** Sim?
+A presença começou a se afastar.
 
-**Sara -** Não deixe ela morrer.
+Sara ficou sozinha com o pouco de corpo que ainda possuía, um casamento feito sem rosto e uma única certeza que realmente importava.
 
-A resposta veio sem pausa.
+Nari teria uma chance.
 
-**Will -** Não pretendo.
+Se Sara tivesse de carregar o preço para isso, carregaria.
 
-A presença se afastou. Sara permaneceu sozinha com a própria consciência e uma ligação nova dentro da alma. Não se arrependeu. Arrependimento exigia uma alternativa melhor e ela não possuía nenhuma.
+A consciência começou a desaparecer novamente.
 
-**Sara, pensa -** *Primeiro sobreviver.*
+Antes de perder completamente a consciência, um último pensamento conseguiu atravessar a névoa.
 
-Depois viria o marido. Depois o Conclave. Depois a guerra que provavelmente esperava alguém do outro lado daquela dimensão.
+**Sara, pensa -** *Quarenta anos.*
 
-A consciência começou a afundar novamente.
+Uma pequena pausa mental.
 
-**Sara, pensa -** *Espero que Nari saiba aproveitar a liberdade.*
+**Sara, pensa -** *Sessenta no pior caso.*
+
+Ela podia lidar com isso.
