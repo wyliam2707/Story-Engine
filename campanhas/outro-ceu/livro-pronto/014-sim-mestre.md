@@ -185,6 +185,10 @@ Sua própria energia fechou o caminho.
 
 **Will -** Precisa deixar entrar.
 
+Sara olhou para ele.
+
+**Sara -** Você realmente precisa escolher melhor suas palavras, amor.
+
 Ela respirou fundo.
 
 **Sara -** Tente outra vez, amor.
@@ -237,6 +241,14 @@ O contato entre as costas continuava presente, mas deixou de ocupar a atenção.
 
 Respiração, ritmo e circulação tomaram seu lugar.
 
+**Will -** Não feche agora, querida. Mantenha o ritmo.
+
+**Sara -** Estou tentando.
+
+Nari não abriu os olhos.
+
+**Nari -** Isso está ficando difícil de ouvir sem contexto, querido.
+
 Pequenas tensões alteravam o fluxo. Pequenas correções o devolviam ao caminho.
 
 Depois de algumas horas, já não parecia haver três energias disputando espaço.
@@ -255,7 +267,7 @@ Sara soltou o ar devagar.
 
 Nari não abriu os olhos.
 
-**Nari -** Sua credibilidade está diminuindo, querido.
+**Nari -** É exatamente o que alguém diria nessa situação, querido.
 
 A circulação completou outra volta.
 
