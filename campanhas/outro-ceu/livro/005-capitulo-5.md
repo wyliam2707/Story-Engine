@@ -1,4 +1,5 @@
 # Capítulo 5
+## Sim, mestre.
 
 A primeira noite depois do portal fechado trouxe um problema muito menor do que ficar preso no Éter.
 
