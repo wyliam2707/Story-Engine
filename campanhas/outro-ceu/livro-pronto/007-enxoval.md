@@ -482,3 +482,25 @@ Sara voltou a observar as peças restantes.
 Nari olhou para o pequeno amontoado sobre a cama.
 
 **Nari -** Tecnicamente, isso é nosso enxoval.
+
+Sara virou lentamente para ela.
+
+Will também.
+
+Nari olhou para os dois.
+
+**Nari -** O quê?
+
+Sara puxou a manga enorme sobre a mão.
+
+**Sara -** Nada. Só estou tentando decidir se fico ofendida com o enxoval ou com o casamento.
+
+Will voltou para a cadeira.
+
+**Will -** Recomendo começar pelo enxoval.
+
+Sara olhou para ele.
+
+**Sara -** Não recomende nada.
+
+**Will -** Justo.
