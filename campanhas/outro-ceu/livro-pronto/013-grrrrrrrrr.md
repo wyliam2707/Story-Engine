@@ -1,106 +1,224 @@
 # Capítulo 13
 ## GRRRRRRRR
 
-Na primeira noite depois do portal fechado, os três chegaram à cama sem a cerimônia das noites anteriores. Dormir separados continuava sendo possível, mas já sabiam o resultado: o pacto esperaria todos adormecerem e os reuniria ali de qualquer forma. Sara foi a primeira a aceitar a inutilidade do protesto e escolheu um dos lados; Nari ocupou o outro. Will ficou alguns segundos diante do espaço que sobrara no meio, até Nari lembrar, com toda a calma, que ele tinha uma opção real e uma ilusão de escolha.
+Quando Will voltou ao quarto naquela noite, Sara e Nari já estavam lá.
 
-Ele deitou. Nenhum dos três comentou que aquela era a primeira vez que entravam na mesma cama por decisão própria.
+As duas haviam trocado as túnicas usadas durante o dia pelas versões mais simples que tinham improvisado para dormir. O resultado continuava sendo pouco mais que uma única camada de tecido sobre a pele.
 
-O silêncio deveria ter facilitado o sono, mas Will descobriu uma dificuldade nova. Sabia perfeitamente que Sara e Nari eram bonitas e não havia novidade alguma nisso; o problema era estar consciente demais de que as túnicas improvisadas que usavam eram praticamente tudo o que vestiam. Por alguns minutos, uma viga no teto recebeu uma quantidade de atenção absolutamente incompatível com sua importância arquitetônica.
+Will parou na porta.
 
-Sara percebeu.
+Sara percebeu primeiro.
 
-**Sara -** O teto ficou interessante de repente, querido?
+**Sara -** Está olhando, amor.
 
-**Will -** Estou pensando.
+Will não desviou os olhos imediatamente.
 
-Nari acompanhou o olhar dele até a madeira e depois voltou os olhos para Will.
+**Will -** Estou, querida.
 
-**Nari -** Se continuar se esforçando tanto para não olhar, vai chamar mais atenção do que se simplesmente agisse normalmente.
+Nari ergueu uma sobrancelha.
 
-Will permaneceu olhando para cima.
+**Nari -** Pelo menos continua sincero.
 
-**Will -** Essa viga tem méritos.
+Will entrou e fechou a porta atrás de si.
 
-Sara virou de lado e puxou a coberta.
+**Will -** Vocês acabaram de passar vários minutos discutindo comigo sobre ficar sem metade da roupa amanhã. Isso não ajuda.
+
+Sara puxou a coberta sobre as pernas.
+
+**Sara -** Parece estar gostando bastante da dificuldade, querido.
+
+**Will -** Não reclamei dela.
+
+Nari soltou um pequeno som pelo nariz.
+
+**Nari -** Corajoso de novo.
+
+Will olhou para a cama.
+
+Sara ocupava um lado. Nari, o outro.
+
+O espaço no meio estava vazio.
+
+**Will -** Então é isso?
+
+**Sara -** Se vamos acordar aqui de qualquer maneira, amor, prefiro começar na cama em vez de descobrir onde o casamento resolveu me colocar enquanto eu dormia.
+
+**Nari -** Concordo, querido. Deite logo.
+
+Will ficou alguns segundos diante do espaço reservado para ele.
+
+Depois deitou.
+
+Sara ajeitou o travesseiro e virou de lado. Nari puxou a coberta. Por alguns instantes ninguém falou.
+
+Will olhou para o teto.
+
+A viga ainda estava lá.
+
+Injustificavelmente interessante.
+
+**Sara -** Voltou a estudar arquitetura, querido?
+
+**Will -** A viga merece uma segunda avaliação.
+
+Sara se virou mais um pouco e passou um braço por cima dele.
+
+Will olhou para ela.
+
+**Sara -** O quê?
+
+**Will -** Nada, querida.
+
+Ela apoiou a cabeça contra o ombro dele e fechou os olhos.
+
+**Sara -** Só aceitei meu destino, amor.
+
+Nari, do outro lado, aproximou-se o suficiente para encontrar uma posição confortável.
+
+**Nari -** Uma adaptação admiravelmente rápida, querida.
+
+Sara não abriu os olhos.
 
 **Sara -** Durma.
 
-Foi uma boa ideia. Dessa vez, o pacto não precisou corrigir ninguém.
+Will voltou a olhar para a viga.
+
+Ela perdeu boa parte do interesse.
 
 ---
 
-Na manhã seguinte, a lembrança do portal voltou antes mesmo de todos saírem da cama. Will permaneceu alguns instantes olhando o teto, mas já não havia viga interessante o bastante para afastar o pensamento. Elder estivera aberto diante deles. Sara e Nari podiam atravessar. Ele não. Mesmo assim, Will continuara sustentando a passagem para que elas tivessem tempo de ir.
+Na manhã seguinte, Will acordou olhando para o teto.
 
-**Will, pensa -** *Eu ia deixá-las sair sem mim.*
+Outra vez.
 
-A pergunta veio logo depois.
+Nari dormia com a cabeça apoiada em um de seus braços. Sara havia tomado posse do outro lado, abraçada a ele, parte do corpo acomodada sobre seu peito e o rosto escondido perto de seu ombro.
 
-**Will, pensa -** *Por quê?*
+Will permaneceu imóvel.
 
-Sara acordou pouco depois. O primeiro pensamento claro foi a imagem daquele céu a poucos passos de distância. Ela poderia ter atravessado, e não existia dúvida técnica sobre isso.
+Sara respirou fundo e se apertou um pouco mais contra ele.
 
-**Sara, pensa -** *Eu podia ter ido.*
+**Will, pensa -** *Travesseiro.*
 
-Mas ficara.
+Nari ajustou a cabeça no braço dele sem acordar.
 
-**Sara, pensa -** *Por quê?*
+Will fechou os olhos por um instante.
 
-Nari despertou por último e encontrou uma lembrança ainda mais específica: fora ela quem mandara Will fechar. Não hesitara quando disse aquilo.
+**Will, pensa -** *Definitivamente travesseiro.*
 
-**Nari, pensa -** *Eu podia ter atravessado.*
+Quando finalmente conseguiram sair da cama, Will decidiu começar o dia pela técnica que havia prometido ensinar.
 
-Uma pequena pausa.
+Os três se reuniram à mesa. Sara ainda parecia sonolenta, Nari já acompanhava cada palavra com atenção, e Will desenhava com o dedo sobre a madeira o caminho básico que a energia deveria seguir.
 
-**Nari, pensa -** *Por que não fui?*
+**Will -** Primeiro preciso ensinar vocês a reconhecer minha energia dentro da própria circulação. Quando ela entrar aqui...
 
-As marcas permaneceram silenciosas.
+GRRRRRRRRRRRRR.
 
-GRRRRRRRR.
+Will parou.
 
-O som atravessou o quarto e matou os três pensamentos ao mesmo tempo.
+Nari olhou para Sara.
 
-Will virou o rosto para Sara. Ela fechou os olhos.
+Sara fechou os olhos.
 
 **Sara -** Não diga nada, querido.
 
-Outro ronco tornou a defesa impossível. Will sentou-se e, só então, percebeu uma pergunta que deveria ter feito havia dias.
+Will abriu a boca.
+
+GRRRRRRRR.
+
+Dessa vez veio de Nari.
+
+Ela ficou imóvel.
+
+Will baixou lentamente a mão.
+
+**Will -** Queridas...
+
+Sara abriu os olhos.
+
+**Sara -** Cuidado.
 
 **Will -** Quando foi a última vez que vocês comeram?
 
-Nari começou a reconstruir mentalmente os últimos acontecimentos. Reunião, explosão, combate, Éter, reconstrução, recuperação.
+Nari começou a reconstruir os últimos dias.
 
-**Nari -** Antes de chegarmos aqui.
+A reunião.
 
-Will ficou em silêncio por tempo suficiente para Sara entender.
+A explosão.
+
+O combate.
+
+O Éter.
+
+A reconstrução.
+
+Os dias no Pagoda.
+
+Ela olhou para Will.
+
+**Nari -** Antes de chegarmos aqui, amor.
+
+Will ficou em silêncio.
+
+Sara percebeu primeiro.
 
 **Sara -** Você esqueceu.
 
-**Will -** Não exatamente.
+**Will -** Não exatamente, querida.
 
-**Sara -** Esqueceu de alimentar duas pessoas que quase morreram, amor.
+**Sara -** Você esqueceu de alimentar duas pessoas que quase morreram.
 
-O próprio estômago de Nari resolveu participar da acusação. Will se levantou.
+O estômago dela resolveu reforçar o argumento.
+
+GRRRRRRRRR.
+
+Will se levantou.
 
 **Will -** Vou procurar comida.
 
+Sara apontou para a porta.
+
 **Sara -** Excelente diagnóstico, doutor.
 
-O Pagoda ainda conservava mantimentos. Will simplesmente não dependia de alimentação comum havia tempo demais para pensar nela espontaneamente. Quando voltou com cereais, raízes preservadas, frutas secas e ervas, Sara já parecia disposta a perdoar quase qualquer coisa que pudesse ser mastigada. Quase.
+O Pagoda ainda conservava mantimentos. Will simplesmente não dependia de alimentação comum havia tempo demais para que fome fizesse parte de sua rotina.
 
-A primeira refeição acabou rápido. Nari foi quem percebeu que Will não preparara nada para si.
+Quando voltou com cereais, raízes preservadas, frutas secas e algumas ervas, Sara olhou para a comida com uma concentração que até então reservara para problemas consideravelmente mais perigosos.
 
-**Nari -** Você não vai comer?
+Nari não ficou muito atrás.
+
+A refeição desapareceu rápido.
+
+Foi Nari quem percebeu primeiro que Will não havia colocado nada para si.
+
+**Nari -** Você não vai comer, querido?
 
 **Will -** Não preciso com frequência.
 
-A explicação sobre cultivo resolveu o mistério, mas não absolveu o esquecimento.
+Sara continuou mastigando enquanto o observava.
+
+**Sara -** Quanto é “não preciso com frequência”, amor?
+
+**Will -** O suficiente para eu não pensar em comida todos os dias.
+
+Ela apontou para ele com o que ainda segurava na mão.
 
 **Sara -** Então realmente não passou pela sua cabeça.
 
-**Will -** Não.
+Will considerou mentir.
 
-Ela pegou outra porção.
+Por muito pouco tempo.
 
-**Sara -** Isso continua sendo esquecer, querido.
+**Will -** Não, querida.
 
-Will aceitou a derrota e acrescentou mentalmente comida à rotina. Depois daquilo, alimentação deixou de ser uma emergência e passou a ser apenas parte da vida no Pagoda. As perguntas da manhã, por outro lado, continuaram sem resposta.
+Sara pegou outra porção.
+
+**Sara -** Isso continua sendo esquecer.
+
+**Will -** Já entendi.
+
+**Nari -** Duvido, querido.
+
+Will acrescentou alimentação à lista mental de coisas que agora precisava lembrar.
+
+A aula podia esperar alguns minutos.
+
+Sara certamente não.
