@@ -1,264 +1,316 @@
 # Capítulo 3
 ## O mesmo preço
 
-Nari começou pelo que ainda sabia.
+Nari começou pelo que ainda conseguia provar.
 
-Seu nome. Nari Bood Heart. Estava viva, provavelmente. Havia utilizado uma relíquia danificada junto com Sara depois de sobreviver a uma falsa reunião diplomática e à força enviada para eliminar quem tivesse restado. Esses fatos estavam em ordem. O restante, não.
+Estava consciente.
 
-Quando tentou perceber o próprio corpo, encontrou informações ruins demais para serem úteis: sensações incompletas, ausência onde deveria haver presença, nenhuma continuidade física confiável. *Ferimento* era uma palavra pequena para aquilo. Deterioração parecia mais precisa.
+Isso era alguma coisa.
 
-**Nari, pensa -** *Sara?*
+Pensava com dificuldade, mas pensava. Lembrava do próprio nome. Lembrava da reunião. Lembrava da explosão e, com clareza suficiente para dispensar dúvidas, dos homens que chegaram depois.
+
+Não para ajudar.
+
+Para terminar.
+
+Também lembrava de Sara, da luta, da relíquia danificada e da decisão de usá-la porque todas as alternativas disponíveis terminavam com as duas mortas.
+
+Depois disso, suas lembranças deixavam de formar uma sequência.
+
+Havia queda sem direção. Uma pressão que não parecia pressão. A sensação de que alguma coisa estava arrancando partes dela sem precisar tocá-la.
+
+Agora nem sequer tinha certeza de possuir um corpo completo.
+
+Tentou mover os dedos.
+
+Não encontrou dedos.
+
+Tentou respirar conscientemente.
+
+Alguma coisa respondeu, mas aquilo não parecia uma respiração normal.
+
+**Nari, pensa -** *Então ainda estou viva.*
+
+Uma conclusão provisória.
+
+**Nari, pensa -** *Por enquanto.*
+
+Tentou alcançar Sara.
+
+Nada.
+
+Tentou de novo.
 
 Nenhuma resposta.
 
-Ela tentou reconstruir o instante da relíquia. Lembrava de Sara próxima, da energia instável, da certeza de que o artefato estava danificado e da decisão de usá-lo mesmo assim. A alternativa era morrer onde estavam. Um recurso defeituoso podia matar; não utilizá-lo também. Não havia sabedoria especial em escolher uma morte conhecida apenas porque era mais fácil descrevê-la.
+Nari interrompeu as possibilidades antes que começassem a se multiplicar. Não havia utilidade em imaginar respostas que não podia verificar.
 
-Então uma presença alcançou sua mente.
+Foi então que outra presença tocou sua consciência.
+
+Estranha.
+
+Definida.
+
+Externa.
 
 **Will -** Consegue me compreender?
 
-Nari não respondeu imediatamente. A primeira pergunta não foi *quem é?*, mas *isso é externo?* Prestou atenção. A presença possuía direção e origem; não parecia lembrança nem pensamento espontâneo.
+Nari não respondeu imediatamente. Prestou atenção à sensação. Não parecia memória nem pensamento fragmentado. Havia uma origem diferente da própria consciência.
+
+Alguém estava falando com ela.
 
 **Nari -** Sim. Quem é você?
 
-**Will -** Will. Sou médico. Encontrei você e outra pessoa no Éter e trouxe as duas para minha residência.
+A resposta veio depressa.
 
-**Nari -** Quem?
+**Will -** Will. Sou médico. Encontrei você e outra pessoa no Éter. Tirei as duas da exposição direta, mas vocês estão em estado crítico.
 
-**Will -** Ela se identificou como Sara Iron Heart.
+Outra pessoa.
 
-Alguma coisa em Nari relaxou.
+**Nari -** Sara Iron Heart?
+
+Uma pausa curta.
+
+**Will -** Ela se identificou assim.
+
+Nari sentiu a tensão diminuir uma fração.
+
+**Nari -** Está viva?
+
+**Will -** Sim.
+
+**Nari -** Consciente?
+
+**Will -** Consegui falar com ela.
+
+Melhor.
+
+Muito melhor.
+
+Não significava que Sara sobreviveria. Significava que ainda havia duas pessoas tentando.
+
+Nari voltou ao problema imediato.
+
+**Nari -** Quanto dano?
+
+**Will -** Extremo. E preciso agir agora.
+
+**Nari -** Então aja.
+
+**Will -** Preciso primeiro do seu consentimento.
+
+Isso exigia atenção.
+
+**Nari -** Para quê?
+
+**Will -** O corpo não é a única coisa danificada. Sua estrutura espiritual também está comprometida. Para reconstruí-la com segurança, preciso manter uma referência estável da sua alma.
+
+Nari absorveu apenas o necessário.
+
+**Nari -** Como?
+
+**Will -** Com um vínculo direto. Um contrato de servidão ligado à alma.
+
+Nari ficou em silêncio.
+
+Claro.
+
+Havia um preço.
+
+Não esperava que um desconhecido preso entre dimensões reconstruísse duas pessoas quase mortas sem querer nada em troca.
+
+Vínculo de alma.
+
+Servidão.
+
+Ela conhecia aquelas palavras e sabia o que significavam para alguém como ela.
+
+**Nari, pensa -** *Casamento.*
+
+Não era exatamente o momento em que imaginara resolver aquela parte da própria vida.
+
+Também não parecia uma boa razão para morrer.
+
+Primeiro precisava saber com quem estava negociando.
+
+**Nari -** Você é humano?
+
+Will hesitou uma fração.
+
+**Will -** De onde venho, seria chamado assim.
+
+Humano, ou próximo o bastante.
+
+Uma vida humana.
+
+Administrável.
+
+Restava a parte mais importante.
+
+**Nari -** Sara. Você consegue salvá-la?
+
+**Will -** Vou tentar salvar as duas.
+
+Nari ouviu a formulação.
+
+Tentaria.
+
+Não prometia o que ainda não podia garantir.
+
+**Nari -** Você precisa de mim ou precisa de nós duas?
+
+Dessa vez Will demorou.
 
 Pouco.
 
-O suficiente.
+Mas demorou.
 
-**Nari, pensa -** *Então ela está viva.*
+**Will -** Preciso de um vínculo com você para reconstruir você com segurança.
 
-**Nari -** Qual é a condição dela?
+Resposta correta.
 
-**Will -** Extrema. Semelhante à sua.
+E não era a resposta da pergunta.
 
-Sem vantagem significativa. Sem sobrevivente claramente mais estável. As duas continuavam presas ao mesmo problema.
+**Nari, pensa -** *Tem alguma coisa que não está dizendo.*
 
-Nari perguntou onde estavam, quem era Will e por que possuía uma residência num lugar que ele próprio descrevia como uma dimensão entre dimensões. As respostas vieram sem enfeite: Will estava preso no Éter, o Pagoda do Céu o mantinha protegido, e ele as havia retirado da exposição direta antes que o ambiente terminasse de desfazê-las.
+Ela fez mais uma pergunta.
 
-**Nari -** Então você também precisa sair.
+**Nari -** Se eu aceitar, o que acontece com Sara?
 
-**Will -** Sim.
+Outra pausa curta.
 
-**Nari -** E acredita que podemos servir de caminho.
+**Will -** Minha intenção é que ela esteja livre quando sairmos daqui.
 
-**Will -** Como referência.
+Nari permaneceu em silêncio.
 
-Ela apreciou a correção.
+Poderia insistir. Poderia voltar à pergunta anterior. Poderia exigir que ele explicasse exatamente por que escolhera aquelas palavras.
 
-**Nari -** Para nossa origem.
+Em outra situação, faria isso.
 
-**Will -** Sim.
+Naquela, seu corpo estava tão destruído que nem dedos tinha certeza de possuir.
 
-**Nari -** Você sabe onde fica?
+**Nari, pensa -** *Depois, faço ele falar.*
 
-**Will -** Não.
+Uma pausa.
 
-**Nari -** Sabe se consegue abrir uma passagem?
+**Nari, pensa -** *Se houver depois.*
 
-**Will -** Não.
+Isso bastou.
 
-Nari ficou alguns segundos em silêncio.
+Se aceitasse, haveria uma chance de sobreviver. Sara também teria uma chance e, segundo Will, estaria livre quando saíssem dali.
 
-**Nari -** Mas acredita que pode tentar.
+Livre para voltar ao Conclave.
 
-**Will -** Sim.
+Livre para contar o que acontecera.
 
-A lógica não era perfeita, mas era consistente. Naquela condição, consistência já valia alguma coisa.
+A reunião. A explosão. A força enviada depois.
 
-Will explicou que o primeiro problema era salvar as duas. O dano espiritual era grave demais para reconstruir os corpos usando apenas o que restava fisicamente, por isso precisava estabelecer uma ligação estável com suas almas. A mesma ligação poderia depois funcionar como referência para encontrar o mundo de origem delas.
+Alguém precisava voltar sabendo disso.
 
-**Nari -** Que ligação?
+Nari ou Sara.
 
-**Will -** Uma junção de almas.
-
-A análise mudou imediatamente.
-
-Nari conhecia aquelas palavras e, diferente do desconhecido, conhecia o que significavam para alguém de sua raça. Uma junção de almas associada a servidão não criava servidão demoníaca. Não podia. A natureza delas não aceitava aquele vínculo. Dentro da tradição demoníaca, a forma correspondente era matrimonial.
-
-Casamento.
-
-Nari ficou quieta, reorganizando o problema.
-
-**Nari -** Qual é sua proposta?
-
-**Will -** Em troca do tratamento e da passagem, quero que se torne minha serva.
-
-A formulação confirmava o que entendera. Junção, serviço, casamento. Para Nari não havia outra leitura natural.
-
-Will continuou:
-
-**Will -** Salvarei você e Sara ficará livre quando conseguirmos atravessar.
-
-Isso mudou o cálculo.
-
-**Nari, pensa -** *Sara ficará livre.*
-
-Então o custo estava sendo oferecido a ela. Nari seria a vinculada. Sara poderia voltar ao Conclave sem carregar aquela obrigação.
-
-Casamento praticamente permanente. Um homem desconhecido. Residência conjugal como referência. Nenhuma exigência automática de amor, intimidade ou abandono de deveres. Politicamente complicado, possivelmente muito complicado, mas administrável.
-
-Desde que ela estivesse viva.
-
-Nari considerou também a aparência implícita daquele homem. Tudo na comunicação permitia tratá-lo, por enquanto, como alguém próximo o suficiente de humano para usar a referência conhecida como hipótese. Humanos de Elder viviam pouco comparados a demônios. Se Will fosse humano, o casamento que parecia enorme no presente poderia ainda ser um compromisso limitado diante dos séculos de sua própria vida.
-
-**Nari, pensa -** *Se ele for humano.*
-
-Uma suposição não era um fato, mas podia participar de um cálculo desde que permanecesse marcada como suposição.
-
-**Nari -** Você acredita que consegue reconstruir nossos corpos?
-
-**Will -** Acredito que possuo conhecimento e recursos suficientes para tentar. Não conheço sua fisiologia por completo, então não vou prometer um resultado que ainda não produzi.
-
-Boa resposta. Não porque fosse tranquilizadora, mas porque delimitava o que ele sabia.
-
-**Nari -** E Sara?
-
-**Will -** A condição dela também exige tratamento.
-
-**Nari -** Você vai tratá-la mesmo que eu aceite o vínculo.
-
-**Will -** Sim.
-
-**Nari -** E ela não ficará vinculada a você depois.
-
-**Will -** Pretendo libertá-la quando sairmos.
-
-Nari ouviu *libertá-la* segundo o significado que conhecia: encerrar qualquer obrigação provisória relacionada ao resgate. Não lhe ocorreu que Will acreditasse estar falando literalmente de revogar um contrato de servidão de alma. Por que ocorreria? Aquilo era impossível para demônios.
-
-**Nari -** Então Sara poderá retornar ao Conclave sem esse vínculo.
-
-**Will -** Sim.
-
-A resposta bastou.
-
-O Conclave precisava saber o que havia acontecido. A falsa reunião, a explosão, a força posterior. Se as duas morressem, quem organizara aquilo ganharia mais que duas mortes. Ganharia silêncio.
-
-Nari não pretendia oferecer isso gratuitamente.
-
-Se apenas Sara voltasse, já seria suficiente para quebrar o silêncio. Se Nari também sobrevivesse, melhor. O casamento passava a ser custo, não destino emocional.
-
-Custos podiam ser pagos.
+Uma bastava.
 
 **Nari -** Qual é seu nome completo?
 
 **Will -** Will God Stone.
 
+Ela guardou.
+
 **Nari -** Nari Bood Heart.
 
-**Will -** Entendido.
+Nenhuma reação.
 
-Ela prestou atenção ao contato. Ainda havia uma parte do plano que não parecia completamente exposta.
+Ele não reconhecia o nome.
 
-**Nari -** Por que eu?
+Outra informação útil.
 
-Will demorou.
+**Will -** Nari Bood Heart. Preciso de uma resposta consciente. O vínculo será real.
 
-**Will -** Porque preciso salvar as duas.
+**Nari -** Entendi. Continue.
 
-**Nari -** Você precisa de uma ligação.
+A presença de Will ficou mais firme.
 
-**Will -** Sim.
+Nari sentiu alguma coisa se aproximar de sua alma, ainda sem atravessar o limite.
 
-**Nari -** Comigo.
-
-**Will -** Sim.
-
-A formulação continuava incompleta. Nari percebeu, mas também percebeu que estava morrendo e não possuía tempo infinito para extrair de um desconhecido uma teoria completa de contratos espirituais.
-
-Talvez pudesse fazer isso depois.
-
-**Nari, pensa -** *Depois.*
-
-A palavra tinha valor. Depois significava sobrevivência.
-
-**Nari -** Faça a proposta formal.
-
-A presença de Will se estabilizou.
+Esperando.
 
 **Will -** Eu, Will God Stone, faço de você, Nari Bood Heart, minha serva. Você aceita?
 
-Não havia afeto, romantização ou promessa de felicidade. Era uma negociação de sobrevivência. De certa forma, isso tornava o casamento mais simples de aceitar.
+Serva.
 
-Uma chance de viver. Uma chance de voltar. Uma chance de garantir que Sara também voltasse livre.
+Era a palavra dele.
 
-O preço era um marido desconhecido.
+Nari conhecia a dela.
+
+Uma vida humana em troca de uma chance para as duas continuarem vivas e Sara voltar livre.
+
+Podia pagar isso.
 
 **Nari, pensa -** *Já vi tratados piores.*
 
 **Nari -** Sim, Will God Stone. Eu, Nari Bood Heart, aceito compartilhar minha alma com você.
 
-A magia respondeu imediatamente. A junção tocou algo mais profundo que carne, encontrou a declaração, encontrou Will e fechou o vínculo. Uma marca surgiu na mão que Nari quase não conseguia sentir.
+A magia respondeu imediatamente.
+
+Algo encontrou a declaração de Will.
+
+Encontrou a dela.
+
+E fechou o vínculo.
+
+Por um instante, Nari perdeu toda referência do próprio corpo. Não porque fosse doloroso, mas porque a sensação era profunda demais para competir com qualquer outra coisa.
+
+A ligação estava ali.
+
+Will existia do outro lado dela.
+
+Separado.
+
+Mas ligado.
+
+Alguma coisa surgiu onde sua mão deveria estar.
+
+Nari não conseguia vê-la.
+
+Não precisava.
 
 Uma aliança.
 
-Discreta. Espiritual. Definitiva o bastante para não precisar de testemunhas.
-
-**Nari, pensa -** *Então acabou.*
-
-Não a vida. O acordo.
+**Nari, pensa -** *Então está feito.*
 
 Casada.
 
-A constatação era estranha, mas não esmagadora. Em menos tempo do que levaria para negociar um jantar formal, passara de princesa moribunda a esposa de um desconhecido preso entre dimensões.
+A palavra merecia mais consideração do que ela tinha tempo para oferecer.
+
+Em menos tempo do que levaria para negociar um jantar formal, adquirira um marido cujo rosto nunca tinha visto.
 
 **Nari, pensa -** *Vou precisar organizar essa frase antes de dizer a alguém.*
 
-Will parecia examinar a ligação do outro lado.
+A presença de Will mudou.
 
 **Will -** Funcionou.
 
 **Nari -** Então comece o tratamento.
 
-**Will -** Vou começar.
+**Will -** Vou começar agora.
 
 **Nari -** Sara.
 
 **Will -** Também será tratada.
 
-**Nari -** Ela ficará livre.
+Nari aceitou a resposta por enquanto.
 
-**Will -** Sim.
+O resto ficaria para depois.
 
-Nari deixou a consciência relaxar. Isso bastava por enquanto. O casamento era problema futuro. A sobrevivência era problema presente, e ela preferia resolver problemas na ordem em que podiam matá-la.
+Se houvesse depois.
 
-Antes de o contato desaparecer, falou uma última vez.
+A consciência começou a afundar.
 
-**Nari -** Will God Stone.
+Sara estaria livre.
 
-**Will -** Sim?
+O Conclave teria alguém capaz de contar o que acontecera.
 
-**Nari -** Não morra antes de nos tirar daqui.
+E Nari teria tempo para descobrir exatamente qual parte daquela conversa Will God Stone escolhera não responder.
 
-Houve uma pausa pequena.
-
-**Will -** Vou tentar evitar.
-
-A conexão mental se encerrou.
-
-Will abriu os olhos diante das duas formas quase destruídas. Agora podia sentir duas ligações distintas, uma com Sara Iron Heart e outra com Nari Bood Heart. Estáveis o suficiente para oferecer aquilo que precisava.
-
-Duas pacientes.
-
-Duas referências com a mesma origem.
-
-Talvez uma saída, mais tarde.
-
-Primeiro havia corpos para reconstruir.
-
-Will não sabia que Sara acreditava ter assumido um casamento para libertar Nari, nem que Nari acabara de fazer exatamente o mesmo por Sara. Para ele, as duas haviam aceitado contratos temporários que pretendia desfazer quando estivessem fora do Éter. Também não lhes dissera que precisava das duas ligações. Se explicasse a operação inteira antes de garanti-las, uma poderia recusar ao descobrir que a outra também seria vinculada, e naquele estado uma recusa podia custar duas vidas.
-
-Ele já teria de explicar a omissão depois.
-
-Pessoas vivas podiam discutir.
-
-Will aproximou-se das duas, respirou fundo e chamou a energia de Madeira.
-
-Agora podia começar.
+O vínculo permaneceu.
