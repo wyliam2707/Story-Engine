@@ -53,59 +53,49 @@ Nari respondeu antes que ela precisasse.
 
 Will olhou de uma para a outra.
 
-**Will -** Eu disse Sara.
+**Will -** Eu pensei Sara.
 
-**Sara -** Pensou Sara, talvez. Da sua boca saiu outra coisa.
+**Sara -** E sua boca discordou.
 
 A diferença o fez ficar quieto. Will reconstruía a frase com clareza suficiente para saber que pretendia dizer *Sara, não exagere*. Não havia intenção de carinho, intimidade ou brincadeira. Era apenas um nome usado para chamar alguém diretamente.
 
 Nari percebeu isso também.
 
-**Nari -** Repita.
-
-**Will -** Sara.
-
-A palavra saiu normalmente.
-
-Os três ficaram em silêncio.
-
-Sara ergueu uma sobrancelha.
-
-**Sara -** Ótimo experimento.
-
-Nari não se abalou.
-
-**Nari -** Dizer o nome sozinho não reproduziu a mesma função. Chame-a e peça alguma coisa.
+**Nari -** Chame-a pelo nome outra vez.
 
 Will olhou para Sara.
 
-**Will -** Querida, sente-se.
+Pretendeu dizer apenas o nome.
+
+**Will -** Querida.
 
 Ele parou no instante em que ouviu a própria voz.
 
-Sara também.
+Sara ergueu uma sobrancelha.
+
+**Sara -** Melhor experimento.
 
 Nari abaixou os olhos para o papel e anotou uma linha.
 
 **Will -** Eu disse Sara.
 
-**Sara -** Não disse.
+**Sara -** Pensou Sara.
 
-**Will -** Eu sei o que tentei dizer.
+**Nari -** O nome, quando usado para chamar diretamente, está sendo substituído.
 
-**Nari -** Esse parece ser justamente o ponto.
+Will decidiu testar com uma frase completa.
 
-Will passou a mão pelo rosto. Nari então decidiu testar em si mesma, sem transformar o fenômeno numa pesquisa infinita.
+**Will -** Querida, sente-se.
 
-Virou-se para ele.
+Aconteceu de novo. A intenção fora *Sara, sente-se*. O restante saiu exatamente como pretendia.
+
+Nari então virou-se para Will.
 
 **Nari -** Querido, passe aquela folha.
 
 A mão dela ficou imóvel sobre a mesa.
 
 Will também parou.
-
-Nari respirou uma vez, controladamente.
 
 **Nari -** Eu ia dizer Will.
 
@@ -117,7 +107,7 @@ Nari lançou-lhe um olhar.
 
 **Sara -** Para mim.
 
-Will entregou a folha.
+Will entregou a folha. Nari não precisou de uma coleção infinita de testes para perceber o próximo passo.
 
 **Nari -** Precisamos separar nome usado como referência de nome usado como vocativo.
 
@@ -135,21 +125,19 @@ Sara fez uma careta para a descrição, não para a magia.
 
 **Sara -** Agora fale comigo.
 
-Nari virou o rosto.
+Nari virou o rosto para ela e tentou começar da mesma maneira, usando o nome.
 
 **Nari -** Querida, você ainda está tentando andar como se tivesse recuperado toda a força.
 
-Nari parou e fechou os olhos por um instante.
+Nari fechou os olhos por um instante.
 
-**Sara -** Você pretendia dizer meu nome.
+**Sara -** Você pretendia dizer Sara.
 
 **Nari -** Sim.
 
 Will apontou para a folha.
 
-**Will -** Então não é o conteúdo da frase. É a forma de chamar diretamente a pessoa.
-
-Nari assentiu e, dessa vez, não precisou de dez testes para aceitar uma regra que já se mostrava bastante clara.
+**Will -** Então nomes continuam existindo normalmente. O problema é quando usamos um deles para chamar a pessoa.
 
 Sara decidiu confirmar com ele.
 
@@ -163,21 +151,15 @@ Will teve a péssima ideia de sorrir.
 
 **Sara -** Não sorria. A frase continua exatamente como eu queria.
 
-A observação eliminou outra possível confusão. O vínculo não apagava irritação, crítica, ameaça ou qualquer outra intenção. Não tornava ninguém mais gentil. Apenas substituía o nome usado para chamar diretamente um dos outros por uma forma conjugal.
+A observação eliminou qualquer dúvida restante. O vínculo não apagava irritação, crítica, ameaça ou intenção. Não tornava ninguém mais gentil. Apenas substituía o nome usado como vocativo por uma forma conjugal.
 
 Nari escreveu uma única conclusão no papel.
 
-**Nari -** O vocativo é corrigido. O resto da frase permanece.
+**Nari -** O vocativo é alterado. O resto da frase permanece.
 
-Sara olhou para a palavra *corrigido*.
+Will tentou chamar Nari e recebeu “amor”. Nari tentou Sara e recebeu “querida”. Sara tentou Will e recebeu “querido”. Depois disso, continuar repetindo a mesma coisa teria sido apenas tortura com pretensão científica.
 
-**Sara -** Alterado.
-
-**Nari -** Alterado, então.
-
-Will tentou chamar Nari de novo e recebeu “amor”. Nari tentou Sara e recebeu “querida”. Sara tentou Will e recebeu “querido”. Depois disso, continuar repetindo a mesma coisa teria sido apenas tortura com pretensão científica.
-
-A magia não precisava tornar cada fala carinhosa para ser inconveniente. Pelo contrário, o contraste era pior. Sara podia estar completamente irritada e ainda assim ouvir a própria voz entregar um “querido” no lugar exato em que pretendia usar o nome de Will. Nari podia fazer uma observação seca e terminar chamando-o de “amor”. Will podia dar uma instrução médica e descobrir que “Sara” havia sido sequestrado no caminho.
+A magia não precisava tornar cada fala carinhosa para ser inconveniente. Pelo contrário, o contraste era pior. Sara podia estar completamente irritada e ainda assim ouvir a própria voz entregar um “querido” no lugar exato em que pretendia usar o nome de Will. Nari podia fazer uma observação seca e chamar alguém de “amor”. Will podia dar uma instrução médica e descobrir que “Sara” havia sido sequestrado no caminho.
 
 Nenhum sentimento mudava junto.
 
@@ -251,7 +233,7 @@ A resposta simples produziu uma pausa. Sara não parecia preparada para a ausên
 
 **Will -** A parte mágica é preocupante. Duas mulheres bonitas aparecendo na minha cama não é exatamente a parte desagradável.
 
-Nari observou o rosto dele. Sara também. Nenhuma das duas parecia ofendida o bastante para transformar aquilo num problema maior do que já era, mas Sara decidiu responder com o recurso mais próximo.
+Nari observou o rosto dele. Sara também. Nenhuma das duas parecia disposta a transformar atração em ofensa por obrigação, mas Sara decidiu responder com o recurso mais próximo.
 
 Pegou um travesseiro e arremessou.
 
@@ -303,15 +285,11 @@ Sara viu.
 
 A marca continuou em silêncio.
 
-Sara estreitou os olhos.
+Sara estreitou os olhos e tentou chamá-lo pelo nome.
 
-**Sara -** Ainda vou descobrir o limite dessa coisa, querido.
+**Sara -** Querido, ainda vou descobrir o limite dessa coisa.
 
-Ela parou.
-
-O “querido” tinha ocupado exatamente o lugar onde pretendia dizer Will.
-
-A irritação permaneceu intacta.
+Ela parou. O “querido” tinha ocupado exatamente o lugar onde pretendia dizer Will. A irritação permaneceu intacta.
 
 Will sorriu atrás do travesseiro roubado.
 
