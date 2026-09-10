@@ -191,7 +191,7 @@ Will ainda segurava Sara pelo braço.
 
 Sara ainda estava perto demais dele.
 
-**Nari -** O que vocês pretendiam dizer?
+**Nari -** Queridos, o que vocês pretendiam dizer?
 
 Will respondeu primeiro.
 
@@ -203,19 +203,19 @@ Sara franziu a testa.
 
 O silêncio piorou.
 
-**Sara -** Eu realmente pretendia chamar você de amor.
+**Sara -** Amor, eu realmente pretendia chamar você de amor.
 
-**Will -** E eu de querida.
+**Will -** Querida, e eu realmente pretendia chamar você de querida.
 
 Nari sentou-se na beirada da cama.
 
-**Nari -** Então não parece uma palavra sendo trocada depois da intenção.
+**Nari -** Queridos, então não parece uma palavra sendo trocada depois da intenção.
 
 Will soltou Sara quando teve certeza de que ela estava firme.
 
-**Will -** Não pensei em nome nenhum. Só falei.
+**Will -** Queridas, não pensei em nome nenhum. Só falei.
 
-**Sara -** Comigo também.
+**Sara -** Amor, comigo também.
 
 Nari olhou diretamente para Will.
 
@@ -227,7 +227,7 @@ Will também.
 
 Nari estreitou os olhos.
 
-**Nari -** Eu ia dizer Will.
+**Nari -** Meu bem, eu ia dizer Will.
 
 Sara virou lentamente para ela.
 
