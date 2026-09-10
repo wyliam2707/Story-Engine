@@ -1,318 +1,264 @@
-# Capítulo 9
-## Então somos servos.
+# Capítulo 10
+## Então somos servos
 
-No terceiro dia, Sara acordou antes de Will e levou poucos segundos para compreender onde estava. A cama, Nari próxima, Will do outro lado. Outra manhã, outro quarto que nenhum deles havia escolhido dividir.
+Naquela tarde, os três se sentaram em torno da mesa.
 
-A surpresa já não tinha força suficiente para indignação imediata, e isso pareceu pior. Na primeira manhã, acordar junto dele fora absurdo. Na segunda, evidência. Na terceira, ameaçava adquirir a forma desagradável de rotina.
+Não havia nada novo para testar.
 
-Sara sentou-se e percebeu outra coisa.
+Esse era justamente o problema.
 
-Nenhuma tontura.
-
-Apoiou os pés no chão, levantou e esperou. O corpo respondeu sem exigir negociação. Ainda não era sua força habitual, mas já não parecia viver dentro de uma versão provisória de si mesma.
-
-Nari abriu os olhos enquanto Sara testava os ombros.
-
-**Nari -** Melhor?
-
-**Sara -** Muito.
-
-Nari sentou-se também, moveu os braços e confirmou a própria recuperação com um aceno satisfeito.
-
-Will falou ainda de olhos fechados.
-
-**Will -** Fico feliz.
-
-Sara olhou para ele.
-
-**Sara -** Desta vez conseguiu terminar sem chamar ninguém de querida.
-
-Will abriu um olho.
-
-**Will -** Eu não usei nome nenhum.
-
-**Nari -** Estamos aprendendo a sobreviver à gramática do casamento.
-
-Sara soltou o ar pelo nariz.
-
-**Sara -** Uma habilidade indispensável.
-
-Will sentou-se. A reserva energética ainda estava longe de cheia, mas já não parecia um poço seco. Pela primeira vez desde a reconstrução, a possibilidade de tentar abrir uma passagem deixava de ser fantasia otimista e começava a parecer um risco calculável.
-
-O vínculo, por outro lado, continuava insolúvel.
-
-As marcas não tinham mudado desde o primeiro dia, e os três já conheciam dois comportamentos claros: durante o sono, a magia os reunia; durante a fala, um nome usado como vocativo podia ser substituído por “amor”, “querido”, “querida” ou variações semelhantes. O restante da frase permanecia exatamente como fora pretendido.
-
-Sara demonstrou isso pouco depois, quando encontrou um erro num dos cálculos de Will sobre a energia necessária para a passagem.
-
-Ela apontou para a linha.
-
-**Sara -** Querido, isso está errado.
-
-Os três pararam por um instante.
-
-Sara fechou os olhos.
-
-**Sara -** Eu disse Will.
-
-Will refez o cálculo.
-
-**Will -** E você continua certa.
-
-**Sara -** Eu sei.
-
-Nari aproximou-se e conferiu os números.
-
-**Nari -** O erro é pequeno, mas está aí.
-
-Will corrigiu a linha.
-
-**Will -** Pronto.
-
-Sara ainda olhava para ele.
-
-**Will -** O quê?
-
-**Sara -** Nada. Só estou apreciando a raridade de você admitir rápido.
-
-Will virou para Nari.
-
-**Will -** Ela sempre é assim?
-
-Nari pensou por um segundo.
-
-**Nari -** Não sei. Você parece receber uma versão surpreendentemente paciente.
-
-Sara olhou para ela.
-
-**Sara -** Cuidado.
-
-Nari ergueu as mãos.
-
-**Nari -** Eu não disse que era dócil.
-
-Will guardou a observação. Nenhuma das duas percebeu importância especial nela.
-
-Mais tarde, quando Sara ameaçou testar novamente o limite dos travesseiros, o vocativo voltou a interferir.
-
-**Sara -** Querido, se continuar reclamando, eu encontro alguma coisa mais pesada.
-
-Ela parou, irritada com a palavra e não com o conteúdo.
-
-Will ergueu uma sobrancelha.
-
-**Will -** A ameaça sobreviveu inteira.
-
-**Sara -** Era para sobreviver.
-
-Nari anotou apenas o necessário. Não havia mais motivo para repetir dezenas de formulações. A regra estava clara: o vínculo substituía o nome usado para chamar diretamente um dos outros. Não criava carinho, não apagava hostilidade, não mudava opinião. Se Sara pretendesse dizer “Will, seu idiota”, a magia podia perfeitamente produzir “Querido, seu idiota” e considerar o trabalho encerrado.
-
-O que continuava sem resposta era por que o vínculo fazia aquilo.
-
-No fim da tarde, Nari reuniu as anotações na mesa. Não assumiu o papel de árbitra entre Sara e Will. Sentou junto deles como alguém igualmente presa ao problema e tão interessada numa resposta quanto os outros dois.
-
-**Nari -** Vamos parar de discutir efeitos separados e olhar para o conjunto.
+Tinham alianças iguais, acordavam juntos mesmo quando dormiam separados e, naquela manhã, descobriram que podiam conversar normalmente até o momento em que tentavam tratar o casamento como se não existisse. A partir dali, a própria linguagem começava a colaborar contra eles.
 
 Sara apoiou os braços sobre a mesa.
 
-**Sara -** Finalmente.
+**Sara -** Certo. Quero entender o que fizemos.
 
-Will olhou para a própria marca.
+Will olhou para ela.
 
-**Will -** O conjunto não parece muito simpático.
+**Will -** Achei que já tivéssemos estabelecido que eu fiz um contrato e vocês duas aceitaram outra coisa.
 
-**Nari -** Não precisa ser simpático. Precisa fazer sentido.
+**Sara -** Amor, isso explica como chegamos aqui. Não explica o que existe agora.
 
-Ela começou pelo início. Will repetiu exatamente a fórmula usada nos dois contratos.
+Will ficou alguns segundos em silêncio.
 
-**Will -** Eu, Will God Stone, faço de você, Sara Iron Heart, minha serva. Você aceita?
+**Will -** Justo, querida.
 
-Sara respondeu com a própria declaração.
+Nari olhou de um para o outro.
 
-**Sara -** Sim, Will God Stone. Eu, Sara Iron Heart, aceito compartilhar minha alma com você.
+Nenhum comentou os vocativos.
 
-Nari confirmou que dissera a mesma coisa em seu acordo.
+Já tinham problemas melhores.
 
-Ninguém discutia mais as palavras. O problema estava no significado que cada lado carregara para dentro delas.
-
-**Nari -** Você colocou servidão.
+**Nari -** Então vamos separar as duas coisas primeiro.
 
 Will assentiu.
 
-**Nari -** Nós colocamos casamento.
+**Nari -** Como funciona a servidão no seu contrato?
 
-Sara corrigiu sem olhar para ele:
+Ele pensou antes de responder.
 
-**Sara -** Nós entendemos casamento. Ele nem sabia que estava propondo um.
-
-**Will -** Continuo achando essa parte particularmente importante.
-
-**Sara -** Para sua defesa, sim.
-
-Nari voltou às marcas.
-
-**Nari -** Depois, a sua recebeu forma matrimonial. As nossas receberam estruturas que você reconhece como servidão. Não são duas marcas independentes. Viraram uma estrutura só.
-
-Will passou o polegar sobre a própria aliança.
-
-**Will -** Então qual sistema venceu?
-
-Nari balançou a cabeça.
-
-**Nari -** Acho que essa pergunta está atrapalhando.
-
-Sara olhou para ela.
-
-**Nari -** Estamos procurando um vencedor porque partimos do princípio de que a magia teve de escolher uma das interpretações. Mas nenhum efeito combina completamente com apenas uma delas.
-
-Ela apontou para a marca de Will.
-
-**Nari -** Você tem uma aliança.
-
-Depois para as próprias marcas.
-
-**Nari -** Nós temos estruturas de servidão integradas às nossas.
-
-Sara completou:
-
-**Sara -** Somos arrastados para a mesma cama.
-
-Will acrescentou:
-
-**Will -** E nossos nomes são sequestrados quando tentamos chamar uns aos outros.
-
-**Sara -** Isso foi uma descrição surpreendentemente boa.
-
-Nari continuou:
-
-**Nari -** O vínculo também mantém a restrição contra agressão física séria entre nós, mas não parece interessado em travesseiros, discussões ou insultos.
-
-Will olhou para Sara.
-
-**Will -** Principalmente insultos.
-
-Sara nem piscou.
-
-**Sara -** Querido, continue e eu demonstro.
-
-Ela fechou a boca logo depois. O vocativo tinha tomado o lugar de Will outra vez.
-
-Nari não sorriu. O canto da boca ameaçou, mas ela voltou às anotações antes que Sara pudesse usar aquilo contra ela.
-
-**Nari -** E se a magia não escolheu?
-
-O silêncio mudou.
-
-Will deixou de mexer na marca. Sara endireitou-se na cadeira.
-
-**Nari -** E se ela aceitou as duas interpretações?
-
-Will franziu a testa.
-
-**Will -** Servidão e casamento ao mesmo tempo.
-
-**Sara -** Isso não nos tornou suas servas.
-
-**Will -** Claramente não.
+**Will -** Existe uma relação definida. Um lado assume a posição de mestre. O outro aceita servir dentro dos termos estabelecidos. Há autoridade, obrigação e obediência ligadas ao vínculo.
 
 Sara ergueu uma sobrancelha.
 
-**Sara -** Fico feliz que tenha notado.
+**Sara -** Obediência.
 
-Will ignorou.
+**Will -** Dentro do contrato.
 
-Nari olhou para as três mãos.
+**Sara -** E você seria o mestre.
 
-**Nari -** Talvez porque a servidão não esteja apontando para você.
+**Will -** Era essa a intenção.
 
-A frase fez Will parar.
+**Nari -** E poderia nos libertar depois.
 
-Sara também.
+**Will -** Sim.
 
-Nari tocou a própria marca.
+Sara olhou para a própria aliança.
 
-**Nari -** Você tentou criar uma relação de serviço. Nós aceitamos uma relação matrimonial. A magia pode ter preservado as duas coisas, mas alterado o objeto da primeira.
+**Sara -** Então seu vínculo precisa saber quem manda e quem serve.
+
+Will assentiu.
+
+Nari virou a mão sobre a mesa, deixando a marca visível.
+
+**Nari -** O nosso não.
+
+Will olhou para ela.
+
+**Nari -** Quando dois demônios unem as almas dessa forma, é casamento. Não existe mestre entre os dois. Um não recebe autoridade sobre o outro apenas por ser marido ou esposa.
+
+Sara completou:
+
+**Sara -** Nem obediência.
+
+**Will -** Essa parte ficou bastante evidente.
+
+Sara olhou para ele.
+
+**Sara -** Meu bem, não abuse da sorte.
+
+Will decidiu não responder.
+
+Nari continuou.
+
+**Nari -** Então temos duas estruturas que começaram com princípios diferentes. Na sua, existe servidão. Na nossa, existe casamento.
+
+**Sara -** E a magia aceitou as duas.
+
+Will passou o polegar sobre a própria aliança.
+
+**Will -** Isso já sabemos.
+
+**Sara -** Sabemos que aceitou. Não sabemos como resolveu a contradição.
+
+Will olhou para ela.
+
+**Will -** Servidão exige hierarquia. Casamento, para vocês, não.
+
+**Nari -** Exato.
+
+Por alguns segundos, os três ficaram olhando para as marcas.
+
+As linhas que Will reconhecia como pertencentes à servidão estavam ali.
+
+A forma matrimonial também.
+
+Nenhuma tinha desaparecido para dar lugar à outra.
+
+**Will -** Se o meu contrato tivesse vencido, vocês seriam minhas servas.
+
+**Sara -** Não somos.
+
+**Will -** Eu percebi, querida.
+
+**Sara -** Ótimo.
+
+**Nari -** E se apenas o casamento tivesse vencido, a estrutura de servidão não deveria continuar aparecendo nas três marcas.
+
+Will assentiu devagar.
+
+**Will -** Então nenhuma interpretação substituiu a outra.
 
 Sara acompanhou o raciocínio.
 
-**Sara -** Serviço ao casamento.
+**Sara -** As duas ficaram.
 
-Will olhou para ela.
+Nari olhou para Will.
 
-Sara apontou para a própria aliança.
+**Nari -** Casamento e servidão.
 
-**Sara -** Não a você. A isto.
+**Will -** Ao mesmo tempo.
+
+Sara recostou-se na cadeira.
+
+**Sara -** Isso continua sem resolver a parte da obediência.
+
+Will ergueu os olhos.
+
+**Sara -** Se existe servidão, alguém deveria estar obedecendo alguém.
 
 Nari assentiu.
 
-A conclusão começava a encaixar efeitos que antes pareciam apenas absurdos. O vínculo não exigia obediência a Will, porque Will não era o mestre daquela relação. Também não se limitava ao casamento demoníaco que Sara e Nari conheciam, porque carregava a lógica de serviço introduzida por ele. Em vez de tornar duas mulheres servas de um homem, parecia ter transformado os três em participantes obrigados a servir certos critérios do próprio casamento.
+**Nari -** Essa é a parte que não encaixa.
 
-Will recostou-se devagar.
+Will ficou quieto.
 
-**Will -** Então somos servos.
+Sara também.
 
-Sara fez uma careta.
+Nari foi a primeira a continuar.
 
-**Sara -** Do casamento.
+**Nari -** Talvez porque continuemos procurando uma pessoa.
 
-**Nari -** Parece a interpretação que explica mais coisas com menos invenção.
+Will franziu a testa.
+
+**Will -** Como mestre.
+
+**Nari -** Sim.
+
+Sara olhou para a aliança.
+
+**Sara -** Você não é.
+
+**Will -** Obrigado pela confirmação, amor.
+
+**Sara -** Disponha.
+
+Nari ignorou os dois.
+
+**Nari -** Eu também não sou. Sara também não.
+
+**Will -** Então quem sobra?
+
+Ninguém respondeu imediatamente.
+
+A pergunta ficou sobre a mesa.
+
+Will olhou para as três mãos.
+
+Sara fez o mesmo.
+
+Foi ela quem falou primeiro.
+
+**Sara -** Talvez o erro seja esse.
+
+**Will -** Qual?
+
+**Sara -** Procurar quem.
+
+Nari voltou os olhos para ela.
+
+Sara tocou a própria aliança.
+
+**Sara -** A única coisa que existe igualmente para os três é isto.
+
+Will acompanhou o gesto.
+
+**Will -** O vínculo.
+
+**Nari -** O casamento.
+
+O silêncio seguinte foi diferente.
+
+Não porque tivessem encontrado uma prova nova.
+
+Porque, pela primeira vez, as peças antigas cabiam na mesma resposta.
+
+Will havia colocado servidão no vínculo.
+
+Sara e Nari haviam colocado casamento.
+
+A magia não escolhera um dos dois. Preservara ambos.
+
+Mas se nenhum dos três ocupava a posição de mestre, a hierarquia precisava apontar para outra coisa.
+
+Will olhou para Sara.
+
+Depois para Nari.
+
+**Will -** Então quando ela nos obriga a reconhecer a relação...
+
+**Nari -** Não está nos fazendo obedecer uns aos outros.
+
+Sara terminou:
+
+**Sara -** Está fazendo os três obedecerem ao casamento.
+
+Will ficou olhando para a aliança.
+
+A ironia levou alguns segundos para chegar inteira.
+
+**Will -** Eu tentei conseguir duas servas.
+
+**Nari -** Sim.
+
+**Sara -** E conseguiu duas esposas.
 
 Will olhou para ela.
 
-**Will -** Você consegue dizer isso de uma forma menos ameaçadora?
+**Will -** Essa parte já tinha sido mencionada, querida.
 
-**Nari -** Consigo. Não quero.
+Sara quase sorriu.
 
-Sara sorriu de verdade dessa vez, pequeno e rápido.
+**Sara -** Achei importante manter clara.
 
-Will percebeu.
+Will voltou para a marca.
 
-**Sara -** Não fique satisfeito. A situação continua absurda.
+**Will -** Mas a servidão também ficou.
 
-**Will -** Não disse nada.
+**Nari -** Ficou.
 
-**Sara -** Seu rosto disse.
+Ele ergueu os olhos lentamente.
 
-A mesa ficou em silêncio por alguns segundos. Nenhum deles gostava da conclusão, mas ela se encaixava bem demais nas evidências para ser descartada apenas por ser inconveniente.
+**Will -** Então somos servos.
 
-Will tentara conseguir duas servas temporárias. Sara e Nari acreditaram aceitar casamentos administráveis em troca de sobrevivência. A magia, aparentemente, resolvera a divergência criando uma terceira coisa que nenhum dos três pedira.
+Sara fez uma pequena careta.
 
-Servidão ao casamento.
+**Sara -** Do casamento.
 
-Não amor. Não desejo. Não obediência.
+Nari assentiu.
 
-Um vínculo que tinha critérios próprios e nenhuma educação para consultá-los antes de aplicá-los.
+**Nari -** Os três.
 
-Will olhou para Sara e depois para Nari.
+Will recostou-se na cadeira.
 
-Ia chamá-las pelos nomes.
-
-**Will -** Amores, amanhã tento abrir a passagem.
-
-Ele fechou os olhos no instante em que ouviu a primeira palavra.
-
-Sara ficou absolutamente imóvel.
-
-Nari levou dois dedos à testa.
-
-**Will -** Eu ia dizer Sara e Nari.
-
-**Sara -** Nós sabemos, querido.
-
-Ela parou logo depois.
-
-Nari soltou o ar.
-
-**Nari -** Isso vai ser insuportável, amor.
-
-Também parou.
-
-Nenhum deles riu. Não era necessário. O absurdo já fazia o trabalho sozinho.
-
-No fim do terceiro dia, os corpos de Sara e Nari voltavam a lhes pertencer, a reserva de Will deixara de estar vazia e a passagem estava próxima o bastante para finalmente ser tentada.
-
-O problema que os acompanharia para fora do Éter continuava sem solução.
-
-Mas agora tinha um nome.
-
-**Servos do casamento.**
+**Will -** Ótima notícia.
