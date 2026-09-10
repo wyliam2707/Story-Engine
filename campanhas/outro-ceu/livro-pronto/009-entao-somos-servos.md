@@ -19,13 +19,13 @@ Sara apoiou os braços sobre a mesa.
 
 Will olhou para ela.
 
-**Will -** Querida, sabemos como começou.
+**Will -** Sabemos como começou.
 
 **Sara -** Meu bem, sabemos como cada um achou que começou. Não é a mesma coisa.
 
 Nari observou os dois por um instante e depois colocou a mão marcada sobre a mesa.
 
-**Nari -** Queridos, então vamos separar as duas estruturas.
+**Nari -** Então vamos separar as duas estruturas.
 
 Will assentiu.
 
@@ -33,13 +33,13 @@ Will assentiu.
 
 Will pensou antes de responder.
 
-**Will -** Querida, existe uma relação definida entre mestre e servo. O servo aceita servir dentro dos termos do vínculo. O mestre recebe autoridade correspondente a esses termos e pode desfazer o contrato depois.
+**Will -** Existe uma relação definida entre mestre e servo. O servo aceita servir dentro dos termos do vínculo. O mestre recebe autoridade correspondente a esses termos e pode desfazer o contrato depois.
 
 Sara ergueu uma sobrancelha.
 
-**Sara -** Amor, autoridade significa que eu deveria obedecer você.
+**Sara -** Autoridade significa que eu deveria obedecer você.
 
-**Will -** Querida, dentro do que tivesse sido aceito, sim.
+**Will -** Dentro do que tivesse sido aceito, sim.
 
 Sara recostou-se na cadeira.
 
@@ -47,39 +47,39 @@ Sara recostou-se na cadeira.
 
 Will sustentou o olhar dela.
 
-**Will -** Querida, essa parte ficou bastante clara.
+**Will -** Essa parte ficou bastante clara.
 
 Nari quase sorriu, mas continuou.
 
-**Nari -** Meu bem, então a sua servidão é assimétrica. Um manda dentro dos termos. O outro serve.
+**Nari -** Então a sua servidão é assimétrica. Um manda dentro dos termos. O outro serve.
 
 **Will -** Exatamente, querida.
 
 Nari virou-se para Sara.
 
-**Nari -** Querida, no nosso vínculo não existe isso.
+**Nari -** No nosso vínculo não existe isso.
 
 Sara assentiu.
 
-**Sara -** Amor, casamento não transforma um dos dois em mestre. Compartilhar a alma cria o vínculo, mas não dá autoridade de um sobre o outro.
+**Sara -** Casamento não transforma um dos dois em mestre. Compartilhar a alma cria o vínculo, mas não dá autoridade de um sobre o outro.
 
 Will passou o polegar sobre a própria aliança.
 
-**Will -** Queridas, então temos um problema bem simples. As marcas carregam elementos dos dois vínculos.
+**Will -** Então temos um problema bem simples. As marcas carregam elementos dos dois vínculos.
 
-**Nari -** Meu bem, e nenhum deles parece ter desaparecido.
+**Nari -** E nenhum deles parece ter desaparecido.
 
-**Sara -** Amor, casamento ficou.
+**Sara -** Casamento ficou.
 
-**Will -** Querida, servidão também.
+**Will -** Servidão também.
 
-**Sara -** Meu bem, e ainda assim você não manda em nós.
+**Sara -** E ainda assim você não manda em nós.
 
 Will soltou uma respiração curta.
 
 **Will -** Querida, você está gostando bastante dessa parte.
 
-**Sara -** Amor, muito.
+**Sara -** Muito.
 
 Nari olhou para Sara.
 
@@ -87,43 +87,43 @@ Nari olhou para Sara.
 
 Sara virou para ela.
 
-**Sara -** Meu bem, eu estou concentrada.
+**Sara -** Eu estou concentrada.
 
 Will decidiu não entrar naquela disputa.
 
 Nari voltou às marcas.
 
-**Nari -** Queridos, se o contrato de Will tivesse substituído o nosso, Sara e eu seriam servas dele.
+**Nari -** Se o contrato de Will tivesse substituído o nosso, Sara e eu seriam servas dele.
 
-**Will -** Querida, sim.
+**Will -** Sim.
 
-**Nari -** Meu bem, e não somos.
+**Nari -** E não somos.
 
 Sara levantou a mão marcada.
 
-**Sara -** Amor, se apenas o casamento tivesse prevalecido, essas estruturas de servidão não deveriam estar aqui.
+**Sara -** Se apenas o casamento tivesse prevalecido, essas estruturas de servidão não deveriam estar aqui.
 
 Will olhou para ela.
 
-**Will -** Querida, concordo.
+**Will -** Concordo, querida.
 
 Sara ficou um segundo em silêncio.
 
-**Sara -** Meu bem, isso foi fácil demais.
+**Sara -** Isso foi fácil demais.
 
-**Will -** Querida, posso discordar se deixar você mais confortável.
+**Will -** Posso discordar se deixar você mais confortável.
 
 **Sara -** Amor, não estrague.
 
 Nari levou dois dedos à testa.
 
-**Nari -** Meus bens, vocês conseguem discutir até quando concordam.
+**Nari -** Vocês conseguem discutir até quando concordam.
 
 Os dois olharam para ela.
 
-**Sara -** Querida, aparentemente agora fazemos isso com carinho obrigatório.
+**Sara -** Aparentemente agora fazemos isso com carinho obrigatório.
 
-**Will -** Meu bem, o carinho é discutível.
+**Will -** O carinho é discutível.
 
 Sara sorriu sem humor.
 
@@ -131,35 +131,35 @@ Sara sorriu sem humor.
 
 Nari respirou fundo e voltou ao ponto.
 
-**Nari -** Queridos, nenhuma estrutura venceu.
+**Nari -** Nenhuma estrutura venceu.
 
 Will ficou olhando para as alianças.
 
-**Will -** Querida, então as duas foram preservadas.
+**Will -** Então as duas foram preservadas.
 
-**Sara -** Amor, casamento e servidão.
+**Sara -** Casamento e servidão.
 
-**Nari -** Meu bem, ao mesmo tempo.
+**Nari -** Ao mesmo tempo.
 
 A frase ficou sobre a mesa.
 
 Will apoiou os antebraços nela.
 
-**Will -** Queridas, então falta a parte mais importante da servidão.
+**Will -** Então falta a parte mais importante da servidão.
 
 Sara inclinou a cabeça.
 
-**Sara -** Amor, obediência.
+**Sara -** Obediência.
 
 **Will -** Exatamente, querida.
 
 Nari olhou para ele.
 
-**Nari -** Meu bem, você ainda está procurando essa obediência entre nós três.
+**Nari -** Você ainda está procurando essa obediência entre nós três.
 
 Will franziu a testa.
 
-**Will -** Querida, porque é assim que meu contrato funciona.
+**Will -** Porque é assim que meu contrato funciona.
 
 Sara apontou para ele.
 
@@ -167,21 +167,21 @@ Sara apontou para ele.
 
 Will olhou para ela.
 
-**Will -** Querida, desenvolva.
+**Will -** Desenvolva.
 
 Sara indicou primeiro Will, depois Nari e finalmente a si mesma.
 
-**Sara -** Meu bem, você não manda em mim. Eu não mando em Nari. Nari não manda em você. Nenhum dos três ocupa essa posição.
+**Sara -** Você não manda em mim. Eu não mando em Nari. Nari não manda em você. Nenhum dos três ocupa essa posição.
 
 Nari assentiu devagar.
 
-**Nari -** Querida, isso elimina as pessoas.
+**Nari -** Isso elimina as pessoas.
 
 Will olhou para ela.
 
-**Will -** Meu bem, servidão sem mestre não faz sentido.
+**Will -** Servidão sem mestre não faz sentido.
 
-**Nari -** Amor, talvez o erro esteja em procurar um mestre que seja uma pessoa.
+**Nari -** Talvez o erro esteja em procurar um mestre que seja uma pessoa.
 
 Will ficou quieto.
 
@@ -193,11 +193,11 @@ Os três olharam para as alianças.
 
 Sara foi a primeira a tocar a própria marca.
 
-**Sara -** Amor, existe uma coisa acima dos três desde o começo.
+**Sara -** Existe uma coisa acima dos três desde o começo.
 
 Will acompanhou o gesto.
 
-**Will -** Querida, o vínculo.
+**Will -** O vínculo.
 
 Nari balançou levemente a cabeça.
 
@@ -229,7 +229,7 @@ E, naquela manhã, o vínculo deixara claro que não aceitava ser tratado como a
 
 Will passou o polegar sobre a aliança.
 
-**Will -** Queridas, então quando ele força o reconhecimento da relação, não está fazendo vocês obedecerem a mim.
+**Will -** Então quando ele força o reconhecimento da relação, não está fazendo vocês obedecerem a mim.
 
 Sara respondeu sem hesitar.
 
@@ -237,19 +237,19 @@ Sara respondeu sem hesitar.
 
 Nari completou:
 
-**Nari -** Meus bens, a servidão permaneceu. Só não colocou nenhum de nós como mestre.
+**Nari -** A servidão permaneceu. Só não colocou nenhum de nós como mestre.
 
 Will recostou-se devagar.
 
-**Will -** Queridas, então eu tentei criar duas servas.
+**Will -** Então eu tentei criar duas servas.
 
 Sara ergueu uma sobrancelha.
 
-**Sara -** Amor, e conseguiu duas esposas.
+**Sara -** E conseguiu duas esposas, amor.
 
 Will olhou para ela.
 
-**Will -** Querida, essa parte já tinha sido esclarecida.
+**Will -** Essa parte já tinha sido esclarecida.
 
 **Sara -** Meu bem, achei importante repetir.
 
@@ -257,15 +257,15 @@ Nari finalmente sorriu.
 
 Will tornou a olhar para as três mãos sobre a mesa.
 
-**Will -** Queridas, mas a servidão também ficou.
+**Will -** Mas a servidão também ficou.
 
-**Nari -** Meu bem, ficou.
+**Nari -** Ficou.
 
 Ele demorou alguns segundos.
 
 Então entendeu a ironia inteira.
 
-**Will -** Queridas, então somos servos.
+**Will -** Então somos servos.
 
 Sara olhou para a própria aliança.
 
@@ -273,7 +273,7 @@ Sara olhou para a própria aliança.
 
 Nari assentiu.
 
-**Nari -** Os três, meus bens.
+**Nari -** Os três.
 
 Will recostou a cabeça na cadeira e olhou para o teto.
 
