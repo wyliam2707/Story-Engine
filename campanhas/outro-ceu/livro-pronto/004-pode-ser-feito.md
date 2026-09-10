@@ -1,106 +1,560 @@
 # Capítulo 4
 ## Pode ser feito
 
-A primeira dificuldade foi decidir por onde começar. Will já conhecera pacientes cuja sobrevivência dependia de segundos, gente aberta por lâminas, esmagada sob pedra ou envenenada por substâncias que transformavam cada batimento do coração em mais alguns centímetros de veneno circulando pelo corpo. Também conhecera cultivadores que insistiam em chamar de “ferimento” aquilo que, na prática, significava terem destruído metade dos próprios canais espirituais tentando uma técnica para a qual não estavam preparados.
+Will não começou por Sara.
 
-Sara e Nari não se encaixavam em nenhuma dessas experiências. Ali não havia um ferimento principal. Havia duas pessoas quase inteiramente ausentes.
+Também não começou por Nari.
 
-Will permaneceu entre elas por alguns instantes, percebendo as duas ligações recém-formadas. Agora podia senti-las, não como pensamentos ou emoções, mas como referências firmes onde antes existiam apenas restos físicos e espirituais ameaçados de desaparecer. Era pouco comparado a conhecer a fisiologia das duas, mas infinitamente mais do que possuía antes.
+Começou pelas duas.
 
-Ele começou por Sara.
+As ligações recém-formadas permaneciam distintas dentro de sua percepção, duas referências firmes onde antes existiam apenas estruturas físicas e espirituais se desfazendo. Não lhe diziam quem eram aquelas pessoas, não ofereciam memórias, pensamentos ou qualquer conhecimento conveniente sobre seus corpos. Faziam algo muito mais útil naquele momento.
 
-A junção oferecia uma direção interna, algo que lhe permitia distinguir com maior segurança o que ainda pertencia a ela daquilo que o Éter destruíra sem deixar vestígio. Will reuniu energia de Madeira nas mãos. Em seu mundo, aquela energia significava vida em uma de suas formas mais úteis: crescimento, regeneração, reconstrução, a capacidade de convencer matéria viva de que ainda havia um estado ao qual retornar.
+Diziam a ele onde cada uma ainda existia.
 
-Ele não a despejou sobre Sara. Seria mais fácil e também seria estúpido. Regenerar rápido demais uma estrutura que não compreendia era uma boa maneira de criar erros com excelente vitalidade.
+Era suficiente para começar.
 
-Medicina veio antes da força. Will observou, comparou e testou a resposta de regiões pequenas, procurando descobrir o que ainda possuía função, o que reagia à Madeira, o que rejeitava a energia e o que simplesmente pertencia a uma anatomia diferente da humana. Cada resposta ensinava alguma coisa.
+Will posicionou-se entre as duas e fechou os olhos por alguns instantes. A energia de Madeira respondeu ao chamado, deixando o Dan e percorrendo seus canais antes de se dividir entre as mãos.
 
-Cada aprendizado também custava energia.
+Um fluxo alcançou Sara.
 
-No Éter, isso importava muito. Em qualquer ambiente normal, Will recuperaria parte do que gastava quase naturalmente através do cultivo. Ali, a residência do Pagoda o mantinha vivo, mas não tornava a dimensão generosa. O fluxo ambiente era miserável e o Dan começou a esvaziar desde os primeiros estágios do trabalho.
+O outro, Nari.
 
-Will percebeu e continuou.
+Nenhum deles avançou muito.
 
-**Will, pensa -** *Depois eu me preocupo com a reserva.*
+Primeiro ele precisava impedir que qualquer instabilidade interna terminasse aquilo que o Éter começara.
 
-Era uma decisão que teria criticado num discípulo, com bastante razão. Também era uma decisão que já tomara muitas vezes como médico. Conhecer a escolha prudente e poder realizá-la eram luxos diferentes.
+O Pagoda havia interrompido a deterioração externa. Isso não significava que os corpos tivessem se tornado estáveis. Havia estruturas incompletas demais, sistemas que mal podiam ser chamados de sistemas e uma sustentação espiritual que sobrevivia principalmente porque se recusava a desaparecer.
 
-A reconstrução avançou devagar. Estruturas fundamentais primeiro, depois órgãos, circulação, tecidos e conexões. Will trabalhava até que o mundo se reduzisse à paciente, à resposta da energia e à próxima correção. Havia diferenças que o obrigavam a parar e reconsiderar. Sara não era humana. Ele já suspeitara disso, mas agora possuía certeza de que aquela constituição física e energética tinha regras próprias.
+Will começou pelo mínimo necessário à vida.
 
-Nada que sua medicina não pudesse investigar. Tudo que sua arrogância poderia destruir, se permitisse que ela aparecesse.
+Não órgãos completos.
 
-Will foi insistente, não arrogante.
+Não músculos.
 
-Quando finalmente conseguiu olhar para Sara e reconhecer um corpo inteiro em vez de um organismo em processo de desaparecer, não sentiu alívio imediato. Inteira não significava recuperada. A vida estava estabilizada, a matéria retornara e a sustentação espiritual possuía novamente onde se ancorar, mas Sara continuava inconsciente e profundamente enfraquecida.
+Não pele.
 
-Ele verificou uma vez. Depois outra.
+Estrutura.
 
-Só então mudou para Nari.
+Pontos de sustentação.
 
-A segunda paciente não era uma cópia da primeira. As semelhanças entre as constituições ajudavam, mas as diferenças continuavam exigindo atenção. Nari respondia à Madeira e possuía estruturas que Will agora reconhecia com menos hesitação, mas ele não permitiu que familiaridade recém-adquirida virasse descuido.
+Conexões essenciais.
 
-Sua reserva continuou caindo.
+Aquilo que precisava existir para que o passo seguinte tivesse onde se apoiar.
 
-Quando percebeu o quanto restava, soltou uma respiração curta pelo nariz.
+A Madeira entrou em ambas lentamente.
 
-**Will, pensa -** *Isso vai doer depois.*
+Sara respondeu primeiro.
 
-Não fisicamente. Energeticamente.
+Não melhor.
 
-Era uma espécie de pobreza muito específica. Continuava sendo Santo, seu Dan continuava tendo a capacidade de um Santo, o corpo permanecia refinado ao nível que levara séculos para alcançar e seu conhecimento não desaparecera. Poder armazenado, porém, era outra questão. Ter um reservatório enorme não ajudava muito quando ele estava quase vazio.
+Primeiro.
 
-Will continuou até Nari atingir o mesmo ponto de Sara: corpo inteiro, vida estabilizada, consciência ainda ausente.
+Will sentiu uma parte da estrutura espiritual dela reagir, guiando o crescimento físico para uma direção que fazia sentido. Ajustou o fluxo e deixou a própria energia acompanhar aquela informação em vez de tentar impor uma anatomia conhecida.
 
-Quando terminou, ficou com as mãos apoiadas sobre os joelhos e respirou algumas vezes. O silêncio da residência pareceu ocupar espaço depois de horas em que sua atenção não tivera lugar para nada além do tratamento.
+Nari respondeu alguns segundos depois.
 
-Ele verificou as duas novamente.
+Diferente.
 
-Sara viva. Nari viva.
+Will interrompeu imediatamente parte do fluxo.
 
-Dessa vez permitiu que a palavra *viva* fosse suficiente.
+**Will, pensa -** *Não.*
 
-Só então percebeu o cansaço. O corpo de Santo ainda tinha reservas físicas que uma pessoa comum consideraria absurdas, mas isso não significava que cansaço deixasse de existir. Com o Dan quase vazio, havia uma diferença irritante entre saber que podia fazer coisas extraordinárias e ter energia insuficiente para realizá-las.
+A energia recuou uma fração e tomou outro caminho.
 
-Will olhou para as duas pacientes.
+A ligação com Nari permaneceu firme.
 
-Inteiras.
+Ele tentou novamente.
 
-Muito melhor.
+Dessa vez a resposta foi correta.
 
-E, quando o médico deixou de ocupar cada canto da mente, sobrou espaço para o homem perceber outra coisa.
+Will soltou o ar devagar.
 
-Sara tinha cabelos longos de um prateado claro espalhados sobre a cama, traços adultos e definidos, pele pálida e pequenos chifres escuros que quebravam o aspecto quase humano sem diminuir em nada a harmonia do rosto. Nari era diferente: cabelos vermelhos intensos, linhas mais finas, orelhas ligeiramente pontudas e os mesmos sinais inequívocos de uma raça que Will ainda não conhecia.
+Era precisamente por isso que não podia simplesmente inundá-las com regeneração.
 
-Ele ficou olhando sem pressa. Durante o tratamento, carne, energia e alma haviam sido problemas médicos. Agora beleza voltava a existir como categoria.
+Madeira sabia fazer tecido crescer.
+
+Não sabia, por gentileza divina, qual tecido deveria crescer em uma criatura que Will nunca havia visto inteira.
+
+As almas delas sabiam.
+
+Então ele as seguiu.
+
+Pouco a pouco.
+
+Nas duas.
+
+Trabalhar daquela maneira exigia uma atenção diferente da medicina comum. Em vez de tratar um corpo e depois o outro, Will mantinha duas reconstruções abertas ao mesmo tempo. Enquanto uma estrutura se consolidava em Sara, ele sustentava Nari. Quando a resposta de Nari exigia correção, reduzia o avanço de Sara sem interrompê-la por completo. Energia circulava entre suas mãos em quantidades diferentes a cada momento, ajustada conforme a necessidade.
+
+Era menos parecido com construir duas casas.
+
+Mais parecido com impedir duas casas de desabarem enquanto ainda reconstruía as fundações.
+
+Will perdeu rapidamente qualquer noção de tempo.
+
+A primeira vitória foi pequena.
+
+Uma circulação voltou a existir em Sara.
+
+Ainda incompleta, ainda insuficiente, mas contínua.
+
+Will manteve-a.
+
+Em Nari, uma estrutura equivalente não reagiu da mesma forma. Ele observou pelo vínculo, comparou funções em vez de formas e encontrou outra organização.
+
+**Will, pensa -** *Certo. Vocês realmente não pretendem facilitar nada.*
+
+Ajustou.
+
+Funcionou.
+
+Uma coisa de cada vez.
+
+Duas pacientes ao mesmo tempo.
+
+A energia de Madeira continuou descendo do Dan.
+
+No Éter, cada parcela importava.
+
+Will sabia disso.
+
+Ignorou por enquanto.
+
+Havia uma diferença importante entre gastar energia demais e perder uma paciente porque decidiu economizar.
+
+Ele escolheria qual problema lamentar depois.
+
+Horas começaram a se acumular sem que tivesse como medi-las.
+
+A reconstrução ganhou profundidade.
+
+Estruturas internas reapareceram gradualmente, guiadas pelas referências de alma. Alguns órgãos possuíam funções que Will reconhecia imediatamente. Outros apresentavam pequenas diferenças que o obrigavam a abandonar qualquer tentativa de trabalhar por memória.
+
+Ele não precisava saber o nome.
+
+Precisava saber o que fazia.
+
+O corpo respondia.
+
+A alma corrigia.
+
+Will aprendia.
+
+Em vários momentos, precisou desfazer alguns centímetros de trabalho antes que se tornassem um erro maior. Madeira regenerava com uma eficiência maravilhosa e, por isso mesmo, podia transformar uma decisão ruim em um desastre muito saudável.
+
+Ele não tinha energia para desperdiçar dessa maneira.
+
+Sara tornou-se mais estável.
+
+Nari também.
+
+Não juntas.
+
+Não exatamente no mesmo ritmo.
+
+Mas próximas o bastante para que Will parasse de sentir que qualquer segundo de distração seria fatal.
+
+Foi a primeira vez que permitiu uma respiração mais longa.
+
+Só então percebeu quanto do Dan já havia gasto.
+
+Muito.
+
+Mais do que gostaria.
+
+Menos do que temera.
+
+Ainda suficiente.
+
+**Will, pensa -** *Pode ser feito.*
+
+Não era confiança.
+
+Ainda não.
+
+Era diagnóstico.
+
+Pela primeira vez desde que encontrara aqueles dois restos no Éter, Will acreditou realmente que poderia devolver corpos inteiros às pessoas ligadas a ele.
+
+Isso mudou o trabalho.
+
+Não o tornou mais rápido.
+
+Tornou-o possível.
+
+Will aumentou cuidadosamente o fluxo.
+
+As estruturas começaram a se completar em camadas.
+
+Os ossos vieram primeiro onde ainda faltavam. Não todos de uma vez, mas como linhas progressivas que reencontravam proporção e encaixe. Depois articulações, ligamentos, fibras, musculatura.
+
+A forma geral dos corpos começou a retornar.
+
+Will percebeu as primeiras respostas que indicavam diferenças sexuais.
+
+Registrou.
+
+Ajustou.
+
+Continuou.
+
+Não havia motivo para parar sobre aquilo.
+
+Naquele momento, sexo era anatomia.
+
+Nada além disso.
+
+Ele precisava reconstruir duas pessoas.
+
+O resto poderia esperar.
+
+O trabalho avançou.
+
+Nervos.
+
+Vasos.
+
+Tecidos.
+
+Will mudava de uma para a outra quase continuamente, não porque uma estivesse recebendo menos atenção, mas porque cada etapa precisava de tempo para responder antes que ele pudesse avançar novamente.
+
+Sara tolerava melhor alguns aumentos no fluxo de Madeira.
+
+Nari aceitava menos energia bruta de uma vez, mas sua estrutura espiritual parecia oferecer indicações mais nítidas em determinadas regiões.
+
+Nenhuma era mais fácil.
+
+Só eram diferentes.
+
+Isso Will entendia.
+
+Pacientes sempre eram.
+
+O Dan continuava esvaziando.
+
+A reserva de um Santo era imensa.
+
+O problema era que reconstruir dois corpos quase do nada também era.
+
+Will começou a sentir a diferença na precisão.
+
+Não perda de controle.
+
+Peso.
+
+Cada ajuste exigia um pouco mais de concentração. Cada fluxo precisava ser confirmado antes de avançar. Manter os dois vínculos ativos ao mesmo tempo parecia cada vez menos natural e cada vez mais algo que ele precisava conscientemente sustentar.
+
+Parar ainda não era opção.
+
+**Will, pensa -** *Mais um pouco.*
+
+A frase voltou várias vezes.
+
+Mais um pouco até terminar aquela estrutura.
+
+Mais um pouco até estabilizar a circulação.
+
+Mais um pouco até poder reduzir o fluxo em uma delas.
+
+Mais um pouco.
+
+Em algum momento, Will percebeu que usava a mesma frase havia tempo demais.
+
+**Will, pensa -** *Isso nunca é um bom sinal.*
+
+Continuou.
+
+O Pagoda permanecia silencioso ao redor.
+
+Nenhuma resposta das duas.
+
+Nenhum movimento.
+
+Apenas o trabalho.
+
+Will não sabia quanto tempo se passara quando finalmente chegou ao ponto em que os corpos não dependiam mais de sua energia para simplesmente conservar a forma.
+
+Ele reduziu os fluxos.
+
+Esperou.
+
+Sara permaneceu estável.
+
+Nari também.
+
+Will não confiou.
+
+Esperou mais.
+
+Nada colapsou.
+
+Só então permitiu que os ombros descessem alguns centímetros.
+
+Ainda não tinha terminado.
+
+Mas agora, se precisasse interromper por alguns minutos, não perderia tudo.
+
+Essa diferença pareceu enorme.
+
+Ele olhou para as mãos.
+
+Tremiam levemente.
+
+Will fechou os dedos.
+
+Pararam.
+
+**Will, pensa -** *Depois.*
+
+Voltou ao trabalho.
+
+A etapa seguinte exigia menos energia e mais precisão.
+
+Tecidos menores.
+
+Correções.
+
+Regiões que haviam sido reconstruídas apenas o suficiente para sobreviver agora precisavam funcionar adequadamente. Will encontrou pequenas inconsistências, corrigiu conexões, refez fluxos, observou respostas.
+
+Os corpos começaram finalmente a parecer corpos.
+
+Ainda não pessoas.
+
+Não completamente.
+
+A superfície permanecia incompleta em muitos lugares, expondo uma reconstrução que um observador comum provavelmente consideraria horrível.
+
+Will mal percebia.
+
+Já vira coisas piores.
+
+Já fizera coisas piores.
+
+O fato importante era que agora havia sistemas funcionando sob aquela superfície.
+
+Dois corações batiam.
+
+Dois pares de pulmões trabalhavam.
+
+A energia própria de ambas começava, lentamente, a circular outra vez.
+
+Fraca.
+
+Profundamente fraca.
+
+Mas delas.
+
+Não dele.
+
+Will quase sorriu.
+
+**Will, pensa -** *Agora sim.*
+
+A Madeira mudou de função.
+
+Até então, quase toda a energia havia sido empregada para restaurar o essencial. Agora podia finalmente permitir que os próprios organismos completassem aquilo que faltava sob orientação.
+
+A reconstrução começou a aparecer diante dos olhos.
+
+Primeiro musculatura externa e tecido conjuntivo terminaram de preencher regiões ainda incompletas.
+
+Depois veio a camada subcutânea.
+
+A pele começou a avançar.
+
+Não como uma onda uniforme.
+
+Em manchas.
+
+Linhas.
+
+Pequenas regiões que se encontravam e fechavam umas sobre as outras.
+
+Will diminuiu ainda mais a velocidade.
+
+Era tentador acelerar.
+
+Não acelerou.
+
+A última coisa que queria depois de tantas horas era produzir um defeito porque estava cansado demais para ter paciência durante os minutos finais.
+
+Observou Sara.
+
+Uma região do braço terminou de se cobrir.
+
+Depois o ombro.
+
+O pescoço.
+
+Ao mesmo tempo, em Nari, a pele avançava pelo torso e pelas pernas.
+
+As duas estavam pálidas.
+
+Não da mesma maneira.
+
+Mas aquilo podia esperar.
+
+Will continuou.
+
+A pele alcançou os rostos por último.
+
+Talvez porque ele tivesse feito isso deliberadamente.
+
+Talvez porque alguma parte inconsciente de sua medicina preferisse terminar onde haveria mais detalhes para conferir.
+
+Os traços começaram a ganhar definição.
+
+Primeiro estrutura.
+
+Depois volume.
+
+Pálpebras.
+
+Lábios.
+
+Nariz.
+
+Orelhas.
+
+Will observava tudo como médico.
+
+Simetria.
+
+Resposta.
+
+Circulação.
+
+Integridade.
+
+Em Sara, pequenos chifres escuros começaram a se recompor junto à cabeça.
+
+Will interrompeu o fluxo por um instante.
+
+Olhou.
+
+**Will, pensa -** *Interessante.*
+
+Não tocou neles.
+
+A ligação dizia que pertenciam ali.
+
+Portanto pertenciam.
+
+Em Nari aconteceu algo semelhante. Chifres também. Orelhas mais alongadas do que esperava.
+
+Novamente registrou.
+
+Novamente continuou.
+
+Não sabia que raça eram.
+
+Essa pergunta pertencia ao futuro.
+
+No presente, tinha duas pacientes quase reconstruídas.
+
+A pele de Sara terminou primeiro.
+
+Will verificou cada região.
+
+Nenhuma falha importante.
+
+Nari veio pouco depois.
+
+Outra verificação.
+
+Estável.
+
+Will manteve a Madeira circulando em baixa intensidade por mais alguns minutos.
+
+Então percebeu um movimento quase imperceptível sobre a cabeça de Sara.
+
+Fios.
+
+Claros.
+
+Will permaneceu imóvel.
+
+Os primeiros cabelos começaram a crescer.
+
+Não rapidamente o bastante para parecer uma explosão, mas depressa o suficiente para que pudesse acompanhar.
+
+Prateados.
+
+Compridos.
+
+Os fios avançaram sobre o couro cabeludo, ganharam comprimento e começaram a cair ao redor do rosto, deslizando pelos ombros e sobre a superfície onde ela repousava.
+
+Will olhou para Nari.
+
+O mesmo processo começara.
+
+Vermelho.
+
+Não um vermelho discreto.
+
+Intenso.
+
+Os cabelos cresceram, ganharam volume e se espalharam ao redor dela.
+
+Will reduziu finalmente a Madeira até quase nada.
+
+Esperou.
+
+Nenhum colapso.
+
+Nenhuma falha.
+
+Nenhuma deterioração.
+
+Dois corpos completos.
+
+Duas circulações estáveis.
+
+Duas almas ancoradas novamente em corpos capazes de sustentá-las.
+
+Will deixou as mãos baixarem.
+
+Durante horas, tudo que estivera diante dele tinha sido estrutura.
+
+Tecido.
+
+Energia.
+
+Função.
+
+Problemas a resolver.
+
+Só agora, sem a próxima correção imediatamente exigindo sua atenção, ele realmente olhou.
+
+Primeiro Sara.
+
+Os cabelos prateados espalhados ao redor do rosto. Os traços fortes que agora existiam onde antes não havia sequer estrutura suficiente para reconhecer uma pessoa. Os pequenos chifres escuros quebrando a aparência quase humana.
+
+Depois Nari.
+
+Cabelos vermelhos intensos, orelhas levemente pontudas, feições diferentes das de Sara e igualmente impossíveis de ter imaginado a partir daquilo que encontrara no Éter.
+
+Will ficou em silêncio.
+
+No começo, nem soubera se carregava homens ou mulheres.
+
+Pai e filho.
+
+Irmãos.
+
+Estranhos.
+
+Agora sabia pelo menos uma coisa.
+
+Duas mulheres.
+
+E só quando o médico finalmente perdeu espaço suficiente dentro da cabeça para deixar o homem olhar, outra conclusão apareceu.
 
 **Will, pensa -** *Bonitas.*
 
-A avaliação pareceu insuficiente.
+Ele observou Sara outra vez.
+
+Depois Nari.
+
+A primeira avaliação claramente precisava de correção.
 
 **Will, pensa -** *Muito bonitas.*
-
-As roupas originais não tinham sobrevivido ao Éter. Will reconstruíra corpos, não tecidos, vestidos ou armaduras, e isso significava que as duas estavam nuas.
-
-Ele não sentiu qualquer necessidade filosófica de fingir que não possuía olhos. Séculos de vida não o haviam transformado em monge. Tivera companheiras, amantes, relações que duraram e outras que terminaram, e aprendera há muito tempo que reconhecer desejo não exigia transformar cada momento em decisão.
-
-O olhar demorou um pouco mais do que o estritamente médico teria exigido.
-
-**Will, pensa -** *O universo tem um senso de compensação muito peculiar.*
-
-Duas mulheres belíssimas tinham surgido no vazio depois de tanto tempo preso ali. Quase mortas, inconscientes e, segundo uma interpretação que ele ainda desconhecia completamente, casadas com ele.
-
-Will só conhecia as duas primeiras complicações.
-
-Já eram suficientes.
-
-Pegou cobertores e cobriu ambas, não por vergonha, mas porque corpos recém-reconstruídos tinham preocupações térmicas antes de terem preocupações sociais. Depois puxou uma cadeira para perto da cama e sentou.
-
-A reserva estava quase vazia. Qualquer tentativa de passagem teria de esperar.
-
-**Will, pensa -** *Recuperar primeiro.*
-
-Ele fechou os olhos e começou a cultivar. O Éter respondeu com sua habitual generosidade: quase nenhuma. Energia entrava tão devagar que encher o Dan ali lembrava tentar encher um lago com uma colher.
-
-Will continuou porque não tinha alternativa melhor.
-
-Em algum momento, porém, a meditação perdeu para o cansaço. A cabeça inclinou um pouco, a respiração tornou-se profunda e, sentado diante das duas mulheres que acabara de reconstruir, Will dormiu.
