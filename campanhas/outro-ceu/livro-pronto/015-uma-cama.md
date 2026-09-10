@@ -1,4 +1,4 @@
-# Capítulo 14
+# Capítulo 15
 ## Uma cama
 
 Na manhã seguinte, comeram antes de qualquer tentativa dimensional. Will já não precisava ser lembrado, e Nari fez questão de notar a evolução enquanto ele colocava mais comida diante dela.

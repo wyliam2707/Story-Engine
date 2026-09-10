@@ -1,4 +1,4 @@
-# Capítulo 11
+# Capítulo 12
 ## Ele tem coragem
 
 Will ainda recuperava o fôlego quando Sara se virou para ele. Alguns minutos antes havia céu naquele lugar; agora restava a parede silenciosa do Pagoda e a certeza irritante de que chegar até Elder não significava conseguir entrar nele.

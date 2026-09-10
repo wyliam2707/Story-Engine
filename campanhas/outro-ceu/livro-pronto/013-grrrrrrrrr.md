@@ -1,4 +1,4 @@
-# Capítulo 12
+# Capítulo 13
 ## GRRRRRRRR
 
 Na primeira noite depois do portal fechado, os três chegaram à cama sem a cerimônia das noites anteriores. Dormir separados continuava sendo possível, mas já sabiam o resultado: o pacto esperaria todos adormecerem e os reuniria ali de qualquer forma. Sara foi a primeira a aceitar a inutilidade do protesto e escolheu um dos lados; Nari ocupou o outro. Will ficou alguns segundos diante do espaço que sobrara no meio, até Nari lembrar, com toda a calma, que ele tinha uma opção real e uma ilusão de escolha.

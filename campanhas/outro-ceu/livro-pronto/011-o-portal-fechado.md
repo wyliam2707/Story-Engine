@@ -1,4 +1,4 @@
-# Capítulo 10
+# Capítulo 11
 ## O portal fechado
 
 No fim do terceiro dia, a saída havia deixado de ser uma possibilidade abstrata e se tornado aquilo em torno do qual tudo no Pagoda parecia girar. Durante três dias, Sara e Nari haviam recuperado o suficiente dos próprios corpos para voltar a andar com firmeza, discutir, testar o vínculo e reclamar das consequências absurdas daquele casamento involuntário. Will, por sua vez, reconstruíra lentamente uma fração da energia que gastara para salvá-las. Não estava recuperado. Nem perto disso. Mas havia chegado ao ponto em que continuar esperando oferecia menos respostas do que tentar.

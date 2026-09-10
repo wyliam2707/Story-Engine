@@ -1,4 +1,4 @@
-# Capítulo 13
+# Capítulo 14
 ## Sim, mestre.
 
 Depois do café, Will começou a ensinar a circulação básica necessária para a técnica conjunta. Para ele era um exercício quase elementar; para Sara e Nari, era um sistema estranho, construído sobre princípios diferentes da magia que conheciam. Isso ficou claro logo nas primeiras tentativas.
