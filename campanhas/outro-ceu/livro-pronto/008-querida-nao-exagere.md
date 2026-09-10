@@ -3,17 +3,11 @@
 
 A primeira manhã terminou com três pessoas deixando a mesma cama em direções diferentes.
 
-Não houve discussão longa. Também não houve qualquer tentativa de fingir que a situação era normal.
-
-Sara saiu primeiro, ainda usando a camisola improvisada com uma das roupas de Will. Nari esperou alguns segundos antes de levantar. Will ficou sentado na cama, olhando para a própria aliança agora marcada pelas mesmas linhas das delas.
-
-Ninguém tinha uma explicação.
-
-Tinham, pelo menos, um teste.
+Ninguém tinha uma explicação melhor do que na noite anterior. Tinham, pelo menos, um teste.
 
 Naquela noite dormiriam separados outra vez.
 
-O restante do dia passou com uma normalidade desconfortável. Sara e Nari continuaram recuperando força. Will cultivou sempre que pôde. Conversaram, comeram e circularam pela residência do Pagoda como três pessoas que tinham acordado abraçadas e estavam se esforçando para não transformar isso no centro de cada frase.
+O restante do dia passou com uma normalidade desconfortável. Sara e Nari continuaram recuperando força. Will cultivou sempre que pôde. Comeram juntos, conversaram e circularam pela residência do Pagoda como três pessoas que tinham acordado abraçadas e estavam se esforçando para não transformar isso no centro de cada frase.
 
 Funcionou razoavelmente bem.
 
@@ -27,17 +21,39 @@ Will olhou pelo corredor.
 
 **Will -** Você realmente escolheu o mais longe.
 
-**Sara -** Esse era o objetivo.
+**Sara -** Esse era o objetivo, meu bem.
 
-Nari marcou a porta do próprio quarto. Will colocou selos simples nas três portas, suficientes para mostrar se alguma delas fosse aberta.
+Ela parou.
 
-Sara ainda empurrou um móvel contra a sua.
+Will também.
 
-Will observou.
+Sara fez uma careta.
+
+**Sara -** Eu ia dizer Will.
+
+**Will -** Percebi, querida.
+
+Os dois ficaram quietos por um segundo.
+
+**Will -** Eu também ia dizer Sara.
+
+Nari soltou o ar pelo nariz.
+
+**Nari -** Excelente começo.
+
+Ela marcou a porta do próprio quarto. Will colocou selos simples nas três entradas, suficientes para mostrar se alguma delas fosse aberta. Sara ainda empurrou um móvel contra a sua.
 
 **Will -** Isso parece excessivo.
 
-**Sara -** Ótimo.
+**Sara -** Ótimo, amor.
+
+Will ergueu uma sobrancelha.
+
+**Sara -** Não começa.
+
+**Will -** Não disse nada.
+
+**Sara -** Seu rosto disse.
 
 Nari verificou o selo.
 
@@ -59,11 +75,9 @@ Esse foi o primeiro problema.
 
 O segundo foi perceber que estava fazendo cafuné em alguém.
 
-Seus dedos passavam lentamente por cabelos prateados espalhados sobre seu peito. Sara dormia encaixada contra ele, uma perna atravessada sobre a sua e um braço envolvendo sua cintura. A cada movimento dos dedos, ela parecia se acomodar um pouco mais.
+Seus dedos passavam lentamente pelos cabelos prateados de Sara, espalhados sobre seu peito. Ela dormia encaixada contra ele, uma perna atravessada sobre a sua e um braço envolvendo sua cintura. A cada movimento da mão, parecia se acomodar um pouco mais.
 
-Do outro lado, Nari dormia próxima ao seu ombro, com uma mão fechada no tecido de sua camisa.
-
-Will ficou imóvel por alguns segundos.
+Do outro lado, Nari dormia próxima ao seu ombro, com uma das mãos fechada no tecido de sua camisa.
 
 A cena tinha uma tranquilidade ofensiva.
 
@@ -83,11 +97,9 @@ Um calor curto percorreu as marcas.
 
 Sara acordou de repente.
 
-Ergueu a cabeça, viu Will abaixo dela, viu Nari do outro lado e tentou sair da cama rápido demais.
+Ergueu a cabeça, viu Will abaixo dela, Nari do outro lado e tentou sair da cama rápido demais.
 
-O corpo ainda não acompanhava esse tipo de decisão.
-
-Seu equilíbrio falhou assim que colocou os pés no chão.
+O corpo ainda não acompanhava esse tipo de decisão. Seu equilíbrio falhou assim que colocou os pés no chão.
 
 Will segurou seu braço antes que caísse.
 
@@ -103,15 +115,9 @@ Silêncio.
 
 Nari abriu os olhos completamente.
 
-Will continuou segurando Sara.
-
-Sara continuou olhando para Will.
-
-Foi Nari quem falou primeiro.
-
 **Nari -** O que pretendiam dizer?
 
-Will respondeu sem hesitar.
+Will respondeu primeiro.
 
 **Will -** Querida.
 
@@ -121,123 +127,107 @@ Sara franziu a testa.
 
 O silêncio piorou.
 
-Sara olhou para a própria aliança.
-
 **Sara -** Eu realmente ia chamar você de amor.
 
 **Will -** E eu realmente ia chamar você de querida.
 
 Nari sentou-se devagar.
 
-**Nari -** Então não foi uma palavra trocada depois que vocês falaram.
+**Nari -** Então não parece uma palavra sendo trocada depois que vocês escolhem outra.
 
-Will soltou o braço de Sara quando teve certeza de que ela estava firme.
+Will soltou Sara quando teve certeza de que ela estava firme.
 
-**Will -** Não.
+**Will -** Não pensei no nome antes. Só saiu.
 
-Sara tornou a encará-lo.
+**Sara -** Comigo também.
 
-**Sara -** Não parece melhor quando você confirma.
+Nari olhou para ele.
 
-**Will -** Eu não disse que parecia.
+**Nari -** Meu bem, verifique os selos.
 
-Nari observou os dois por alguns segundos.
+Ela parou.
 
-**Nari -** Will.
+Sara virou o rosto lentamente.
 
-Nada aconteceu.
+Nari fechou os olhos por um instante.
 
-Sara virou para ela.
+**Nari -** Eu ia dizer Will.
 
-Nari também pareceu notar.
+Will levantou da cama.
 
-**Nari -** Dessa vez eu quis dizer Will.
+**Will -** Está ficando democrático.
 
-Will olhou para a própria mão.
+**Sara -** Amor, se sorrir, eu empurro você de volta na cama.
 
-**Will -** Então não é simplesmente o nome.
+**Will -** Querida, isso soou muito pior do que você pretendia.
 
-**Sara -** Excelente. A coisa escolhe quando quer ser inconveniente.
+Sara ficou imóvel.
 
-Nari saiu da cama e verificou a porta.
+Nari desviou o rosto.
 
-O selo continuava intacto.
+**Sara -** Meu bem, não ria.
 
-Depois foram até o quarto dela.
+Nari respirou fundo antes de responder.
 
-Intacto.
+**Nari -** Estou tentando.
 
-O de Sara também.
+Foram verificar as portas.
 
-O móvel continuava bloqueando a porta por dentro.
+O selo de Nari continuava intacto. O de Sara também. O móvel ainda bloqueava a porta por dentro.
 
-Sara ficou olhando para aquilo.
+Will examinou o último selo.
 
-**Sara -** Eu não passei por essa porta.
+**Will -** Nenhuma porta foi aberta.
 
-**Will -** Nenhum de nós passou pelas nossas.
+Sara tocou a própria aliança.
 
-Nari tocou a própria aliança.
-
-**Nari -** E as três reagiram quando acordamos.
-
-Sara olhou para Will.
-
-**Sara -** Então isso é o vínculo.
-
-Will não respondeu de imediato.
+**Sara -** Então foi o vínculo.
 
 Não havia outra explicação melhor.
 
-Voltaram ao quarto dele.
+Voltaram ao quarto de Will.
 
-A cama ainda parecia inocentemente desarrumada.
+A cama continuava desarrumada como prova inconveniente.
 
-Sara não gostou disso.
+Sara cruzou os braços.
 
-**Sara -** Quando sairmos daqui, isso precisa ficar entre nós até entendermos o que aconteceu.
+**Sara -** Quando sairmos daqui, isso fica entre nós até entendermos o que aconteceu.
 
-Nari assentiu primeiro.
+Nari assentiu.
 
-**Nari -** Concordo. Não há motivo para apresentar nosso casamento antes de sabermos...
+**Nari -** Concordo. Não há motivo para esconder nosso casamento antes de sabermos como...
 
 Ela parou.
 
 Sara virou lentamente para ela.
 
-Nari fechou os olhos por um instante.
+**Nari -** Eu ia dizer vínculo.
 
-**Nari -** Eu ia dizer “o vínculo”.
+Will franziu a testa.
 
-Will apoiou uma mão na cintura.
+**Will -** Talvez tenha sido só a frase.
 
-**Will -** Talvez tenha sido só a forma da frase.
+**Sara -** Tente, amor.
 
-Sara apontou para ele.
-
-**Sara -** Tente.
-
-Will pensou antes de falar.
+Will olhou para as duas antes de falar.
 
 **Will -** Quando sairmos, minhas esposas Sara e Nari podem simplesmente...
 
 Parou.
 
-As duas olharam para ele.
-
-Will olhou para as duas.
-
-**Will -** Eu ia dizer “vocês”.
-
 Sara fechou os olhos.
 
-**Sara -** Claro que ia.
+Nari olhou para ele.
 
-Nari não pareceu divertida.
+**Will -** Eu ia dizer vocês.
 
-**Nari -** Tente outra vez sem falar da relação.
+**Sara -** Naturalmente.
 
-Will apontou para a porta.
+Nari pensou por alguns segundos.
+
+**Nari -** Fale delas sem falar da relação.
+
+Will apontou para o corredor.
 
 **Will -** Sara e Nari podem esperar aqui enquanto eu verifico a passagem.
 
@@ -245,114 +235,66 @@ Nada aconteceu.
 
 Sara abriu os olhos.
 
-**Sara -** Então algumas vezes deixa passar.
+**Sara -** Então os nomes continuam funcionando.
 
-Nari ficou pensativa.
-
-**Nari -** Quando a relação não importa para a frase.
+**Nari -** Quando a relação não está sendo apagada.
 
 Sara encarou a própria marca.
 
-**Sara -** E quando importa?
+**Sara -** E quando tentamos apagar?
 
 Nari respondeu devagar.
 
-**Nari -** Parece não gostar de neutralidade.
+**Nari -** Parece que ela não deixa.
 
 Will soltou uma respiração curta.
 
-**Will -** Isso foi uma maneira elegante de dizer que ela está nos obrigando a parecer casados.
+**Will -** Quer dizer que podemos falar normalmente, mas não fingir que não somos casados.
 
-Sara tentou responder imediatamente.
+Sara apontou para ele.
 
-**Sara -** Nosso marido está começando a entender.
+**Sara -** Nosso marido finalmente entendeu.
 
 Ela parou.
 
-Olhou para Will.
+Will começou a sorrir.
 
-Depois para Nari.
+**Sara -** Amor, nem pense nisso.
 
-**Sara -** Eu ia dizer “ele”.
+**Will -** Querida, você está tornando muito difícil não pensar.
 
-Will sorriu.
+**Sara -** Meu bem, continue e eu torno difícil outra coisa.
 
-Sara apontou um dedo para ele.
+Nari levou dois dedos à testa.
 
-**Sara -** Não.
-
-**Will -** Eu não disse nada.
-
-**Sara -** Seu rosto disse.
-
-Nari passou os dedos pela marca.
-
-**Nari -** Não acho que esteja tentando nos fazer parecer casados.
+**Nari -** Vocês vão conseguir transformar qualquer discussão numa cena conjugal.
 
 Sara virou para ela.
 
-**Nari -** Acho que não aceita que escondamos que somos.
+**Sara -** Não por escolha, querida.
 
-Dessa vez ninguém respondeu imediatamente.
+Nari ficou imóvel.
 
-A diferença era pequena.
+Will olhou para as duas.
 
-Também era muito pior.
+**Will -** Minhas esposas parecem estar se adaptando.
 
-Will podia dizer Sara.
+As duas viraram para ele ao mesmo tempo.
 
-Nari podia dizer Will.
+**Will -** Eu ia dizer vocês duas.
 
-Sara podia falar das duas pessoas no quarto sem transformar cada frase numa declaração matrimonial.
+Sara respirou fundo.
 
-Mas quando tentavam reduzir aquilo a uma relação neutra, esconder o vínculo ou falar como se o casamento não existisse, alguma coisa mudava no caminho.
+Nari olhou para a própria aliança.
 
-Às vezes um “querida”.
+**Nari -** Não está tentando nos fazer parecer casados.
 
-Às vezes um “amor”.
+Sara acompanhou o olhar.
 
-Às vezes “nosso marido”.
+**Sara -** Está impedindo que a gente finja que não é.
 
-Às vezes “minhas esposas Sara e Nari” com toda a delicadeza de uma placa pendurada no pescoço.
+Dessa vez ninguém discutiu.
 
-Sara voltou a olhar para a cama.
+Os quartos tinham deixado de ser o problema.
 
-**Sara -** Então ela nos arrasta para o mesmo quarto e ainda exige reconhecimento público.
-
-**Will -** Tecnicamente, ainda não testamos a parte pública.
-
-Sara encarou-o.
-
-**Sara -** Querido, não teste a palavra “tecnicamente” agora.
-
-Ela ficou imóvel.
-
-Will ergueu uma sobrancelha.
-
-Sara olhou para a própria aliança.
-
-Depois para ele.
-
-**Sara -** Dessa vez eu quis dizer querido.
-
-Will pareceu considerar a informação por tempo demais.
-
-**Sara -** Não torne isso pior.
-
-**Will -** Não estou fazendo nada.
-
-Nari levantou-se.
-
-**Nari -** Talvez seja exatamente esse o problema.
-
-Sara olhou para ela.
-
-Will também.
-
-Nari seguiu para a porta como se não tivesse acabado de deixar a frase no meio do quarto.
-
-A segunda manhã havia respondido ao menos uma pergunta.
-
-Os quartos nunca tinham sido o problema.
-
-O casamento simplesmente não parecia disposto a fingir que não existia.
+O casamento simplesmente não aceitava ser escondido.
