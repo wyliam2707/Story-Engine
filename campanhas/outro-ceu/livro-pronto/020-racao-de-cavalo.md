@@ -9,21 +9,15 @@ Mais alguns para lembrar por que estava usando apenas uma das camisetas dele e a
 
 E então lembrou do vinho.
 
-Sara permaneceu imóvel.
-
-Do outro lado, Nari ainda dormia abraçada ao braço de Will, uma perna atravessada sobre as cobertas. A camiseta larga que usava tinha subido o bastante durante a noite para tornar evidente que nenhuma das duas se preocupara muito com elegância antes de apagar.
+Do outro lado, Nari ainda dormia abraçada ao braço de Will, uma perna atravessada sobre as cobertas. A camiseta larga que usava tinha subido durante a noite, e nenhuma das duas parecia ter se preocupado muito com elegância antes de apagar.
 
 Will continuava dormindo entre elas.
 
-Sara ergueu ligeiramente a cabeça.
+Sara ergueu ligeiramente a cabeça e ficou olhando para ele.
 
-Olhou para ele.
+Lembrou do primeiro beijo.
 
-Lembrou do beijo.
-
-Depois do beijo de Nari.
-
-Depois daquela excelente investigação científica que ambas haviam conduzido completamente bêbadas.
+Depois do segundo.
 
 Seus olhos desceram para a aliança.
 
@@ -31,83 +25,117 @@ Seus olhos desceram para a aliança.
 
 Will não respondeu.
 
-Continuava dormindo.
-
 Sara estreitou os olhos.
 
 **Sara -** Ou o vínculo.
 
 Aquilo parecia exigir confirmação.
 
-Aproximou-se.
+Ela se aproximou e o beijou.
 
-Beijou Will.
+Dessa vez sem vinho.
 
-Não como na noite anterior.
-
-Dessa vez permaneceu ali alguns segundos, tranquila o bastante para transformar o beijo em algo que dificilmente poderia ser confundido com acidente.
+E sem pressa.
 
 Will acordou no meio.
 
 Quando Sara finalmente se afastou, encontrou os olhos dele abertos.
 
-Ela o encarou com absoluta seriedade.
+Ela permaneceu perto, séria.
 
 **Sara -** Foi o vínculo, amor.
 
 Will piscou.
 
-**Sara -** Eu nunca beijaria um humano numa situação normal.
+Sara olhou para a aliança outra vez.
 
-Levantou-se.
+**Sara -** Nós nem conseguimos dormir em outro lugar. Sempre me pareceu inevitável.
 
-Will acompanhou com os olhos enquanto ela atravessava o quarto usando apenas calcinha e a camiseta dele.
-
-**Will -** Bom dia para você também, querida.
-
-Sara levantou uma mão sem olhar para trás e saiu.
-
-Silêncio.
-
-Nari abriu os olhos.
-
-Will virou lentamente o rosto para ela.
-
-Nari estava claramente acordada havia tempo suficiente.
+Do outro lado, Nari abriu os olhos.
 
 **Nari -** Ela tem razão, querido.
 
-**Will -** Sobre qual parte?
+Will virou lentamente o rosto para ela.
 
-Nari apoiou-se num cotovelo.
+Nari se apoiou num cotovelo, segurou o rosto dele com uma das mãos e também o beijou.
 
-Ficou alguns segundos observando-o.
+Demorado o bastante para eliminar qualquer possibilidade de acidente.
 
-Então segurou seu rosto e o beijou.
+Quando se afastou, continuou observando-o.
 
-Também não foi rápido.
+**Nari -** Parece ser o vínculo.
 
-Quando terminou, permaneceu perto o bastante para estudar a expressão dele.
+Will ficou alguns segundos em silêncio.
 
-**Nari -** Definitivamente o vínculo.
+Olhou para Sara.
 
-Saiu da cama.
+Depois para Nari.
 
-Will olhou enquanto ela seguia o mesmo caminho de Sara, também usando uma camiseta dele e pouco mais.
+**Will -** Isso é preocupante.
 
-Na porta, Nari parou.
+Sara ergueu uma sobrancelha.
 
-**Nari -** E talvez um pouco do vinho.
+**Sara -** O beijo?
 
-Saiu.
+**Will -** O padrão.
 
-Will ficou sozinho.
+Nari ficou mais atenta.
 
-Olhou para o teto.
+Will levantou a mão marcada.
 
-Depois para a aliança.
+**Will -** Primeiro descobrimos que o casamento não pode ser negado. Depois vieram os vocativos. Depois a distância. Depois a cama.
 
-**Will -** Claro.
+Sara acompanhou a sequência em silêncio.
+
+**Will -** E nenhuma dessas coisas regrediu depois que começou.
+
+Nari olhou para a própria aliança.
+
+**Nari -** Está sugerindo que seja outra manifestação?
+
+**Will -** Estou dizendo que talvez algumas consequências sejam não regressivas.
+
+Sara franziu a testa.
+
+**Sara -** Como assim?
+
+Will pensou por um instante.
+
+**Will -** O primeiro beijo foi acidental.
+
+**Sara -** Foi o vinho.
+
+**Will -** Talvez. Mas aconteceu.
+
+Nari acompanhava o raciocínio.
+
+**Will -** E se, depois que uma porta é aberta, o vínculo não deixar fechar?
+
+Silêncio.
+
+Sara olhou para Nari.
+
+Nari olhou para Sara.
+
+As duas voltaram os olhos para Will.
+
+Sara se aproximou primeiro.
+
+Beijou-o outra vez.
+
+Mais demorado.
+
+Quando terminou, permaneceu perto.
+
+**Sara -** Isso é muito preocupante, amor.
+
+Nari esperou Sara se afastar.
+
+Depois repetiu o experimento.
+
+**Nari -** Concordo, querida.
+
+Will olhou de uma para a outra.
 
 ***
 
