@@ -1,106 +1,456 @@
 # Capítulo 1
 ## Um nome no vazio
 
-O Éter recusava quase todas as gentilezas que transformavam um espaço em lugar. Não havia estrada para seguir, horizonte em que confiar ou distância que pudesse ser medida apenas olhando. Direções existiam enquanto Will as impunha ao próprio movimento e perdiam importância quando ele deixava de lhes dar atenção. Perto e longe eram conceitos pouco confiáveis ali; permanecer parado tampouco produzia a sensação reconfortante de ocupar um ponto específico do mundo.
+Quatro meses.
 
-Era uma dimensão entre dimensões. Will conhecia a definição havia tempo suficiente para saber que conhecer o nome não tornava o lugar mais agradável. A tribulação espacial que acompanhara sua ascensão a Santo o lançara ali depois que ele a fechara por dentro, e desde então o Pagoda do Céu lhe oferecia aquilo que o próprio Éter não tinha qualquer intenção de conceder: uma residência temporária, uma fronteira protegida contra a deterioração e a diferença fundamental entre estar preso e simplesmente deixar de existir.
+Will já havia aprendido que contar os dias no Éter era um hábito mais teimoso do que útil. Não existia nascer do sol, mudança de estação ou céu escurecendo para separar uma manhã da seguinte. O Pagoda do Céu mantinha uma rotina artificial porque ele precisava de alguma. Dormir, cultivar, comer quando lembrava, trabalhar, dormir outra vez. Era possível marcar o tempo dessa maneira.
 
-Não era uma saída, mas Will aprendera havia muito tempo que uma solução incompleta continuava sendo melhor do que um cadáver filosoficamente insatisfeito. Por isso sobrevivia, observava e prestava atenção às coisas que não pertenciam ao padrão que aprendera a reconhecer.
+Quatro meses desde a Tribulação.
 
-As duas formas diante dele certamente não pertenciam.
+Quatro meses procurando uma saída.
 
-Will interrompeu o movimento e ficou alguns instantes apenas observando. À primeira vista havia algo vagamente humano naquelas presenças. À segunda, a palavra *humana* parecia precipitada. À terceira, até a palavra *corpo* começava a exigir generosidade.
+E nada.
 
-Ele se aproximou.
+Na primeira semana, Will tratara o problema como qualquer outro problema técnico. Se havia entrado, deveria existir alguma forma de sair. Procurara fissuras, mudanças na estrutura espacial, regiões onde o Éter parecesse menos uniforme. Usara Compreensão onde havia algo para compreender, testara energia contra distorções, seguira correntes que pareciam levar a algum lugar e descobrira que algumas delas simplesmente acabavam.
 
-Não eram cadáveres. Esse foi o primeiro diagnóstico e praticamente a única boa notícia.
+Na segunda semana, começara a registrar.
 
-O Éter não as havia ferido da maneira convencional. Não havia uma coleção de cortes, fraturas ou queimaduras que pudesse ser organizada por urgência. O dano era mais profundo e, de certa forma, mais simples: a integridade física estava desaparecendo. Partes da anatomia ainda existiam, outras pareciam reduzidas a estruturas incompletas, e havia matéria suficiente para reconhecer que aquelas formas tinham sido pessoas inteiras pouco tempo antes, mas não o bastante para imaginar que pudessem permanecer daquele jeito por muito mais tempo.
+Na terceira, começou a repetir os experimentos porque já não confiava na própria memória sobre quais fracassos pertenciam a quais ideias.
 
-O processo continuava.
+No segundo mês, havia produzido um mapa de um lugar onde distância não se comportava adequadamente.
 
-Will se agachou ao lado da primeira. A experiência de trezentos e quarenta e oito anos lhe ensinara uma quantidade inconvenientemente grande de maneiras pelas quais alguém podia morrer. Algumas eram rápidas; outras demoravam o bastante para permitir arrependimentos, despedidas, vinganças e péssimas decisões médicas. Aquilo era diferente. O Éter não parecia interessado em matar. Parecia interessado em desfazer.
+O mapa era inútil.
 
-Ainda havia vida. Fraca demais para merecer qualquer tranquilidade, mas presente. Ele verificou a segunda e encontrou o mesmo resultado: duas pessoas à beira da morte, quase sem integridade física, em uma dimensão que continuava deteriorando aquilo que restava delas.
+Will o mantinha mesmo assim.
 
-Não sabia quem eram, de onde tinham vindo, como tinham chegado nem se possuíam uma anatomia compatível com qualquer paciente que tratara antes. Nada disso tinha prioridade.
+No terceiro mês tentara forçar pequenas rupturas. Nenhuma permanecera aberta. Algumas consumiram energia suficiente para obrigá-lo a ficar dias recuperando o Dan naquele ambiente miseravelmente pobre.
 
-**Will, pensa -** *Primeiro impedir que o problema continue piorando.*
+No quarto, parara de tentar todos os dias.
 
-A conclusão surgiu com a naturalidade de um reflexo. Will nunca gostara particularmente da maneira como pessoas transformavam urgência em desculpa para fazer tudo ao mesmo tempo. Um médico não tratava o que ainda não compreendia apenas porque estava com pressa; existia uma diferença importante entre agir depressa e agir desesperadamente.
+Essa talvez tivesse sido a parte mais difícil de admitir.
 
-O primeiro passo era óbvio. Tirá-las do Éter.
+Não desistira. Apenas aprendera que repetir o mesmo fracasso com mais determinação continuava sendo repetir o mesmo fracasso.
 
-Will reuniu cuidadosamente aquilo que ainda constituía os dois corpos e iniciou o caminho de volta. Cada movimento parecia obscenamente grande diante da fragilidade delas. Não eram objetos quebrados que pudessem ser carregados com força suficiente para compensar falta de delicadeza; havia estruturas físicas e espirituais quase colapsadas ali, e preservar o pouco que restava importava.
+Naquela manhã, ou no período que decidira chamar de manhã, Will estava sentado diante de uma mesa do Pagoda com três folhas cobertas por anotações. Uma delas continha cálculos de fluxo. Outra, referências espaciais que talvez não fossem referências. A terceira tinha apenas uma frase escrita no centro:
 
-O caminho até a proteção do Pagoda não era longo segundo as referências que ele usava dentro do Éter, mas isso não significava que parecesse curto. Will manteve a atenção dividida entre as duas vidas enquanto se deslocava.
+*Nada no Éter aponta para fora.*
 
-Uma. Duas. Ainda ali.
+Will ficou olhando para aquilo algum tempo.
 
-Quando atravessou a proteção da residência temporária, a mudança foi imediata. Não nelas, mas no ambiente ao redor. A deterioração causada pela exposição direta cessou, e só então Will permitiu que os ombros relaxassem uma fração.
+Depois amassou a folha.
 
-**Will, pensa -** *Agora posso descobrir o tamanho do desastre.*
+**Will, pensa -** *Muito produtivo.*
 
-A residência do Pagoda não curava ninguém por simples benevolência. Sua proteção afastava o efeito destrutivo do Éter, mas tudo que já fora perdido permanecia perdido. Will acomodou as duas desconhecidas e começou um exame mais cuidadoso, agora capaz de separar urgência de impossibilidade aparente sem o ambiente tentando apagar suas pacientes enquanto ele avaliava.
+Jogou-a ao lado de outras conclusões igualmente inspiradoras e levantou-se.
 
-O resultado não ficou mais bonito. A integridade física das duas era assustadoramente baixa, mas o que ainda restava não parecia aleatório. Havia uma organização persistindo sob a devastação, como se algo mais profundo continuasse insistindo em lembrar ao corpo qual forma deveria possuir.
+O Pagoda o mantinha vivo, mas não fazia milagres. Dentro da área protegida, o Éter não conseguia desgastar seu corpo diretamente. Fora dela, a exposição começava a cobrar seu preço. Will podia suportá-la por bastante tempo, muito mais do que uma pessoa comum, mas não indefinidamente.
 
-Will seguiu essa impressão. Canais, fluxos, estruturas energéticas. Aquilo não correspondia ao que esperaria encontrar em um cultivador de seu mundo. Não era ausência de energia, era diferença, e uma diferença importante.
+Por isso suas expedições tinham se tornado metódicas.
 
-Quanto mais observava, mais claro se tornava o limite do próprio conhecimento. Isso, curiosamente, era reconfortante. Médicos ruins costumavam descobrir rápido demais o que seus pacientes tinham; médicos melhores aprendiam a respeitar o tempo necessário para descobrir o que ainda não sabiam.
+Sair.
 
-Will possuía Medicina num nível que poucas pessoas de seu mundo poderiam discutir com ele sem primeiro passar algumas décadas estudando. Conhecia corpos, circulação de energia, danos de cultivo, anatomia, regeneração, alquimia, venenos, traumas e maneiras de convencer organismos terrivelmente teimosos a continuar vivos. Nada disso lhe dava licença para olhar uma fisiologia desconhecida e fingir que já a conhecia.
+Observar.
 
-**Will, pensa -** *Definitivamente não são cultivadoras como eu.*
+Medir.
 
-Ele mudou a abordagem. Em vez de procurar correspondências exatas, procurou funções: o que sustentava a vida, o que ainda circulava, o que deveria estar conectado, o que estava falhando e o que simplesmente não existia mais.
+Procurar qualquer coisa diferente.
 
-Pouco a pouco o problema ganhou contornos e ficou pior. O dano não terminava no corpo. A sustentação espiritual também havia sido atingida.
+Voltar antes de gastar energia demais.
 
-Will permaneceu imóvel por alguns segundos. Reconstruir matéria não bastaria. Se trabalhasse sobre os corpos como quem restaurava recipientes vazios, poderia conseguir exatamente isso: recipientes.
+Cultivar durante uma eternidade para recuperar o que teria recuperado rapidamente em qualquer lugar minimamente decente.
 
-**Will, pensa -** *Uma casa perfeitamente reconstruída não serve para muita coisa se o morador já foi embora.*
+Então repetir.
 
-A energia de Madeira seria essencial. Medicina, alquimia e os recursos do Pagoda também. Antes de qualquer reconstrução séria, porém, ele precisava de uma referência mais estável para aquilo que restava das duas almas.
+Will abriu a proteção do Pagoda e saiu.
 
-E havia um segundo problema, ou talvez uma oportunidade disfarçada de problema.
+O Éter o recebeu com sua costumeira falta de hospitalidade.
 
-As duas desconhecidas não pertenciam àquela dimensão. Tinham vindo de algum lugar, algum mundo, algum ponto fora do Éter, e haviam chegado ali vivas, ainda que por pouco. A existência delas demonstrava uma conexão. Will não sabia qual, não sabia se era reproduzível e não sabia se o fenômeno que as trouxera poderia ser invertido. Ainda assim, havia uma diferença monumental entre não conhecer saída alguma e ter diante de si duas pessoas cujas almas pertenciam a algum lugar fora dali.
+Não havia vento.
 
-Uma ligação espiritual adequada poderia servir a duas necessidades ao mesmo tempo: permitir que trabalhasse com maior segurança na reconstrução e, depois, oferecer uma referência para a origem delas. Não um mapa, nem uma porta pronta. Uma direção.
+Não havia cheiro.
 
-Talvez suficiente. Talvez não.
+Não havia direção confiável além daquela que ele escolhia manter.
 
-Will já sobrevivera tempo demais para confundir possibilidade com certeza.
+Will caminhou.
 
-**Will, pensa -** *Preciso das duas.*
+A primeira hora não produziu nada.
 
-O pensamento não era agradável, mas era simples. Salvar apenas uma porque conseguira estabelecer uma ligação mais facilmente seria absurdo. Além disso, se pretendesse usar a origem delas como referência dimensional, possuir dois vínculos provenientes do mesmo destino poderia oferecer uma base mais segura do que apostar tudo numa única alma fragilizada.
+A segunda também não.
 
-Antes de qualquer contrato, porém, havia uma pergunta mais básica: restava consciência suficiente para consentir com alguma coisa?
+Na terceira, encontrou uma irregularidade espacial que já conhecia. Testou-a novamente porque quatro meses preso eram suficientes para transformar esperança em um hábito pouco digno.
 
-Will aproximou-se da primeira. Não tentou procurar pensamentos, memórias ou qualquer coisa que não lhe pertencesse. Precisava apenas de uma resposta, alguma indicação de que ainda existia uma pessoa consciente do outro lado daquele corpo devastado.
+A irregularidade continuava não levando a lugar algum.
 
-Estabeleceu o contato mental que conseguia sustentar e enviou uma frase.
+**Will -** Claro.
+
+Seguiu.
+
+Foi algum tempo depois que sentiu a primeira coisa realmente nova em quatro meses.
+
+Vida.
+
+Will parou.
+
+Não energia ambiente.
+
+Não resíduo.
+
+Vida.
+
+Fraca.
+
+Tão fraca que por um instante pensou ter confundido um eco com presença real.
+
+Mudou a direção.
+
+A sensação desapareceu.
+
+Will voltou.
+
+Apareceu novamente.
+
+Ele acelerou.
+
+Pouco depois encontrou a primeira forma.
+
+Parou tão abruptamente que os pés deslizaram uma fração sobre a superfície indefinível do Éter.
+
+À distância, parecia um corpo.
+
+De perto, a palavra exigia generosidade.
+
+Will se agachou.
+
+Havia matéria viva ali, mas quase nenhuma estrutura permanecia íntegra. Partes do torso ainda podiam ser reconhecidas. Um membro talvez tivesse sido um braço. O rosto tinha perdido detalhes suficientes para que Will não conseguisse determinar praticamente nada sobre quem aquela pessoa havia sido.
+
+Homem?
+
+Mulher?
+
+Jovem?
+
+Velho?
+
+Não sabia.
+
+Passou a mão sobre o que restava sem tocar diretamente.
+
+A deterioração continuava.
+
+Will sentiu outra presença.
+
+Virou a cabeça.
+
+Alguns metros adiante havia uma segunda forma.
+
+Levantou-se imediatamente.
+
+A segunda estava tão ruim quanto a primeira.
+
+Talvez pior.
+
+Talvez não.
+
+Não havia utilidade clínica em competir pela categoria de cadáver ainda não confirmado.
+
+Will examinou ambas rapidamente.
+
+Duas vidas.
+
+Por pouco.
+
+O Éter estava literalmente desfazendo os corpos enquanto ele observava.
+
+**Will, pensa -** *Primeiro tiro vocês daqui.*
+
+Não tentou entender mais.
+
+Reuniu as duas formas com o máximo de cuidado que conseguia e começou a retornar.
+
+Carregá-las era estranho. Não pelo peso, praticamente irrelevante para ele, mas porque nem sequer conseguia dizer como deveria segurá-las.
+
+Não sabia onde terminava um ombro.
+
+Não sabia que parte daquela estrutura frágil havia sido uma perna.
+
+Não sabia se aqueles dois desconhecidos eram da mesma espécie.
+
+Muito menos se eram parentes, companheiros, inimigos ou duas pessoas que simplesmente tinham tido o azar de morrer perto uma da outra.
+
+Pai e filho.
+
+Irmãos.
+
+Marido e esposa.
+
+Dois soldados.
+
+Dois estranhos.
+
+Will não tinha sequer certeza de que as categorias de homem e mulher se aplicavam.
+
+Tudo que sabia era que ainda estavam vivos.
+
+E isso bastava.
+
+Atravessou a proteção do Pagoda.
+
+A deterioração cessou.
+
+Will colocou as duas formas sobre superfícies preparadas às pressas e ficou imóvel por alguns segundos.
+
+Quatro meses.
+
+Quatro meses sem encontrar nada vivo além de si mesmo.
+
+Agora duas pessoas quase mortas tinham simplesmente aparecido no Éter.
+
+Uma parte muito menos médica de sua mente percebeu imediatamente o que aquilo significava.
+
+Elas tinham vindo de algum lugar.
+
+Do lado de fora.
+
+Will fechou os olhos.
+
+**Will, pensa -** *Não.*
+
+Afastou a conclusão antes que ela contaminasse o resto.
+
+Primeiro pacientes.
+
+Depois saída.
+
+Sempre nessa ordem.
+
+Começou o exame.
+
+Agora, protegido do desgaste contínuo do Éter, podia trabalhar de verdade.
+
+E as notícias permaneceram ruins.
+
+Os corpos estavam destruídos em níveis que normalmente fariam reconstrução parecer uma palavra otimista demais. A matéria física ainda conservava traços de organização, mas o dano não parava nela. As estruturas espirituais também tinham sido atingidas.
+
+Isso tornava tudo mais delicado.
+
+Will podia regenerar carne.
+
+Podia reconstruir ossos.
+
+Podia estimular órgãos, circulação, canais energéticos e uma quantidade muito grande de coisas que corpos insistiam em estragar.
+
+Mas carne não dizia sozinha quem uma pessoa era.
+
+Ainda havia algo preservando a identidade daqueles dois seres. Algo mais profundo que o corpo continuava tentando lembrar qual forma deveria possuir.
+
+Will seguiu esse traço.
+
+Alma.
+
+Fraca.
+
+Danificada.
+
+Mas presente.
+
+Nas duas.
+
+Ele se sentou entre as superfícies onde as acomodara.
+
+**Will, pensa -** *Consigo trabalhar com isso.*
+
+A ideia veio antes da certeza.
+
+Precisaria de Madeira. Muita.
+
+Alquimia.
+
+Recursos do Pagoda.
+
+Tempo.
+
+E uma ligação estável.
+
+Sem isso, reconstruir uma anatomia que não conhecia seria perigoso demais. Ele precisava de uma referência que não estivesse desaparecendo diante dele. Alguma coisa ligada diretamente à identidade espiritual de cada paciente.
+
+Conhecia técnicas capazes disso.
+
+A melhor opção era também a mais desagradável.
+
+Servidão de alma.
+
+Will fez uma careta.
+
+Não gostava dela.
+
+Nunca gostara particularmente daquele tipo de contrato, embora soubesse que podia ser útil. Criava uma ligação estável entre duas almas, forte o bastante para sobreviver a distância, dano físico e interferência energética. Exatamente o tipo de âncora que precisava.
+
+E, no sistema que conhecia, podia ser revogada.
+
+Esse detalhe importava.
+
+Muito.
+
+Will levantou-se e começou a andar lentamente pela sala.
+
+Duas pessoas.
+
+Dois corpos quase destruídos.
+
+Para reconstruir ambas com segurança, precisaria de uma ligação real com cada uma.
+
+Depois poderia desfazer os vínculos.
+
+Simples.
+
+Tecnicamente.
+
+Moralmente era menos limpo.
+
+Aquelas pessoas estavam morrendo. Oferecer vida em troca de servidão, ainda que temporária, não era exatamente uma negociação feita entre partes com poder semelhante.
+
+Will sabia disso.
+
+Também sabia qual era a alternativa.
+
+Nenhum contrato.
+
+Nenhuma referência.
+
+Uma chance muito pior de salvar as duas.
+
+Talvez nenhuma.
+
+Ele olhou para os corpos.
+
+Não sabia quem eram.
+
+Isso começou a importar de outra maneira.
+
+Se fossem pai e filho?
+
+Se uma delas tivesse seguido a outra até ali?
+
+Se fossem amantes?
+
+Irmãos?
+
+Se uma tivesse arriscado tudo para salvar a outra?
+
+Pedir a ambos que assumissem uma dívida de alma quando um único sacrifício talvez pudesse garantir que pelo menos o outro recuperasse liberdade parecia...
+
+ruim.
+
+Will voltou para perto deles.
+
+**Will, pensa -** *Vida para os dois. Preço para um.*
+
+A ideia se formou lentamente.
+
+Não porque uma ligação bastasse para tratar ambos. Não bastava. Cada paciente precisaria de sua própria âncora durante a reconstrução.
+
+Mas Will não precisava manter os dois vínculos depois.
+
+Poderia estabelecer ambos temporariamente para fazer o trabalho necessário e, quando estivessem fora do Éter, revogá-los.
+
+O problema era o consentimento.
+
+Se dissesse a cada um:
+
+*preciso prender a alma de vocês dois a mim para tentar salvar vocês dois*,
+
+uma pessoa poderia recusar para proteger a outra.
+
+E uma recusa naquele estado podia matar justamente quem pretendia proteger.
+
+Will permaneceu alguns segundos em silêncio.
+
+A situação tinha a elegância moral de um desabamento.
+
+Ele precisava das duas ligações para trabalhar.
+
+Precisava das duas como referências, talvez também para encontrar o lugar de onde tinham vindo.
+
+Mas não precisava transformar isso numa promessa de servidão permanente.
+
+Então escolheria outra forma de apresentar o acordo.
+
+A cada pessoa, individualmente, ofereceria a mesma coisa:
+
+*aceite o vínculo necessário agora; eu salvo vocês dois; quando sairmos, a outra pessoa estará livre.*
+
+Era verdade.
+
+Pretendia libertar a outra.
+
+Pretendia libertar aquela pessoa também.
+
+Só não diria ainda que precisava obter o mesmo consentimento da segunda.
+
+Will passou a mão pelo rosto.
+
+**Will, pensa -** *Isso vai render uma conversa maravilhosa depois.*
+
+Se houvesse depois.
+
+Esse era o ponto.
+
+Pessoas vivas podiam ficar furiosas com ele.
+
+Pessoas mortas tinham opiniões muito menos úteis.
+
+Ele voltou ao primeiro corpo.
+
+Antes de qualquer contrato precisava descobrir se ainda havia consciência suficiente para escolher alguma coisa.
+
+Will não podia ler pensamentos.
+
+Não podia vasculhar memórias.
+
+Sua Compreensão não fazia milagres desse tipo.
+
+Mas conseguia estabelecer comunicação se houvesse alguém capaz de responder.
+
+Aproximou-se da primeira presença espiritual e tentou contato.
 
 **Will -** Consegue me ouvir?
 
 Nada.
 
-Ele esperou apenas o necessário e tentou outra vez.
+Esperou.
 
-**Will -** Não precisa falar com o corpo. Apenas tente responder se conseguir me compreender.
+Tentou outra vez.
 
-O silêncio permaneceu por alguns instantes. Então alguma coisa se organizou do outro lado, fraca demais para ser confortável, mas claramente externa à própria mente de Will.
+**Will -** Não precisa mover o corpo. Apenas responda se conseguir compreender.
 
-Uma consciência.
+Silêncio.
 
-A resposta veio quebrada, arrastada através de um corpo que mal existia.
+Will não gostou.
 
-**Sara -** Quem... está falando?
+Ajustou a ligação.
 
-Will soltou lentamente o ar.
+Esperou mais um pouco.
 
-Havia alguém ali.
+Então sentiu alguma coisa.
+
+Não memória.
+
+Não reflexo.
+
+Uma resposta.
+
+Fraca.
+
+Mas externa.
+
+Uma pessoa.
+
+**Desconhecida -** Quem... está falando?
+
+Will soltou o ar que não percebera estar segurando.
+
+Quatro meses procurando qualquer coisa que apontasse para fora.
+
+E, pela primeira vez, o vazio tinha respondido com uma voz.
 
 **Will -** Meu nome é Will. Sou médico.
