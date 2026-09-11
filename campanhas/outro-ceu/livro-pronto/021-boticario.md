@@ -233,9 +233,7 @@ O homem pensou antes de responder.
 
 **Guarda -** Caravanas de lá não são comuns por aqui. Quando passam, vêm pelas rotas maiores, mais ao sul.
 
-**Nari -** Ouviu alguma coisa recentemente, querido?
-
-A última palavra foi para Will, quase por hábito, antes que Nari percebesse e voltasse a atenção ao guarda. Ele não pareceu notar.
+**Nari -** Ouviu alguma coisa recentemente?
 
 **Guarda -** Rumores.
 
