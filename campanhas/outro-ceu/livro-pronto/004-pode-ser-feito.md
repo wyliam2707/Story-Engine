@@ -267,11 +267,7 @@ Pararam.
 
 Voltou ao trabalho.
 
-A etapa seguinte exigia menos energia e mais precisão.
-
-Tecidos menores.
-
-Correções.
+A etapa seguinte exigia menos energia e mais precisão, concentrada em tecidos menores e correções.
 
 Regiões que haviam sido reconstruídas apenas o suficiente para sobreviver agora precisavam funcionar adequadamente. Will encontrou pequenas inconsistências, corrigiu conexões, refez fluxos, observou respostas.
 
