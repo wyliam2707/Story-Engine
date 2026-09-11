@@ -315,7 +315,7 @@ O proprietário olhou de um para o outro.
 
 Nari fechou os olhos por um instante.
 
-**Nari -** Não pergunte, querido.
+**Nari -** Não pergunte.
 
 O mapa custou o preço normal.
 
