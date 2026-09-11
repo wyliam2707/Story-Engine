@@ -65,9 +65,7 @@ Will abriu a proteção do Pagoda e saiu.
 
 O Éter o recebeu com sua costumeira falta de hospitalidade.
 
-Não havia vento.
-
-Não havia cheiro.
+Não havia vento, Não havia cheiro.
 
 Não havia direção confiável além daquela que ele escolhia manter.
 
