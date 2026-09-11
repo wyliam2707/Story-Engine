@@ -1,5 +1,5 @@
 # Capítulo 32
-## Cláusulas
+## Agora cale-se
 
 A porta se fechou atrás deles.
 
