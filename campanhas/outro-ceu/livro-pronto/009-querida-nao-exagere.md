@@ -309,21 +309,31 @@ Nari respirou fundo.
 
 **Nari -** Amor, quando sairmos daqui, não precisamos contar a ninguém que somos casados.
 
-A frase simplesmente não saiu daquela forma.
-
-**Nari -** Amor, quando sairmos daqui, não precisamos explicar nosso casamento a ninguém imediatamente.
-
-Ela ficou em silêncio.
+Nada aconteceu.
 
 Sara ergueu a própria mão.
 
-**Sara -** Meu bem, então não deixa esconder.
+**Sara -** Meu bem, então deixa esconder.
 
 Will pensou alguns segundos.
 
-**Will -** Queridas, talvez deixe falar normalmente quando a relação não importa.
+**Will -** Queridas, talvez deixe omitir. Tente negar.
 
-Ele apontou para o corredor.
+Nari respirou fundo.
+
+**Nari -** Queridos, nós três não somos...
+
+A frase travou.
+
+Nari franziu a testa.
+
+**Nari -** Queridos, nós três somos casados.
+
+Sara olhou para a própria aliança.
+
+**Sara -** Amor, isso foi bem específico.
+
+Will apontou para o corredor.
 
 **Will -** Sara e Nari podem esperar aqui enquanto eu verifico a passagem.
 
@@ -353,7 +363,7 @@ Nari ficou alguns segundos olhando para as três alianças.
 
 Sara olhou para ela.
 
-**Nari -** Amor, ele não impede nomes. Não impede frases comuns. Mas, quando tentamos tratar a relação como inexistente, corrige a forma como falamos.
+**Nari -** Amor, ele não impede nomes. Não impede frases comuns. Podemos omitir. Mas, quando tentamos tratar a relação como inexistente, corrige a forma como falamos.
 
 Will passou o polegar sobre a própria marca.
 
@@ -387,4 +397,4 @@ E criado outra muito pior.
 
 O casamento não apenas os reunia.
 
-Agora também se recusava a ser escondido.
+Agora também se recusava a ser negado.
