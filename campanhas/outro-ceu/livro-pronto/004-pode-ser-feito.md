@@ -63,11 +63,7 @@ Não sabia, por gentileza divina, qual tecido deveria crescer em uma criatura qu
 
 As almas delas sabiam.
 
-Então ele as seguiu.
-
-Pouco a pouco.
-
-Nas duas.
+Então ele as seguiu, pouco a pouco, nas duas.
 
 Trabalhar daquela maneira exigia uma atenção diferente da medicina comum. Em vez de tratar um corpo e depois o outro, Will mantinha duas reconstruções abertas ao mesmo tempo. Enquanto uma estrutura se consolidava em Sara, ele sustentava Nari. Quando a resposta de Nari exigia correção, reduzia o avanço de Sara sem interrompê-la por completo. Energia circulava entre suas mãos em quantidades diferentes a cada momento, ajustada conforme a necessidade.
 
@@ -161,11 +157,7 @@ A forma geral dos corpos começou a retornar.
 
 Will percebeu as primeiras respostas que indicavam diferenças sexuais.
 
-Registrou.
-
-Ajustou.
-
-Continuou.
+Registrou, ajustou e continuou.
 
 Não havia motivo para parar sobre aquilo.
 
@@ -315,15 +307,7 @@ Primeiro musculatura externa e tecido conjuntivo terminaram de preencher regiõe
 
 Depois veio a camada subcutânea.
 
-A pele começou a avançar.
-
-Não como uma onda uniforme.
-
-Em manchas.
-
-Linhas.
-
-Pequenas regiões que se encontravam e fechavam umas sobre as outras.
+A pele começou a avançar, não como uma onda uniforme, mas em manchas e linhas, pequenas regiões que se encontravam e fechavam umas sobre as outras.
 
 Will diminuiu ainda mais a velocidade.
 
@@ -333,21 +317,11 @@ Não acelerou.
 
 A última coisa que queria depois de tantas horas era produzir um defeito porque estava cansado demais para ter paciência durante os minutos finais.
 
-Observou Sara.
-
-Uma região do braço terminou de se cobrir.
-
-Depois o ombro.
-
-O pescoço.
+Observou Sara. Uma região do braço terminou de se cobrir, depois o ombro e o pescoço.
 
 Ao mesmo tempo, em Nari, a pele avançava pelo torso e pelas pernas.
 
-As duas estavam pálidas.
-
-Não da mesma maneira.
-
-Mas aquilo podia esperar.
+As duas estavam pálidas, não da mesma maneira, mas aquilo podia esperar.
 
 Will continuou.
 
@@ -357,29 +331,9 @@ Talvez porque ele tivesse feito isso deliberadamente.
 
 Talvez porque alguma parte inconsciente de sua medicina preferisse terminar onde haveria mais detalhes para conferir.
 
-Os traços começaram a ganhar definição.
+Os traços começaram a ganhar definição: primeiro estrutura, depois volume, pálpebras, lábios, nariz e orelhas.
 
-Primeiro estrutura.
-
-Depois volume.
-
-Pálpebras.
-
-Lábios.
-
-Nariz.
-
-Orelhas.
-
-Will observava tudo como médico.
-
-Simetria.
-
-Resposta.
-
-Circulação.
-
-Integridade.
+Will observava tudo como médico: simetria, resposta, circulação, integridade.
 
 Em Sara, pequenos chifres escuros começaram a se recompor junto à cabeça.
 
@@ -397,9 +351,7 @@ Portanto pertenciam.
 
 Em Nari aconteceu algo semelhante. Chifres também. Orelhas mais alongadas do que esperava.
 
-Novamente registrou.
-
-Novamente continuou.
+Novamente registrou e continuou.
 
 Não sabia que raça eram.
 
@@ -407,17 +359,7 @@ Essa pergunta pertencia ao futuro.
 
 No presente, tinha duas pacientes quase reconstruídas.
 
-A pele de Sara terminou primeiro.
-
-Will verificou cada região.
-
-Nenhuma falha importante.
-
-Nari veio pouco depois.
-
-Outra verificação.
-
-Estável.
+A pele de Sara terminou primeiro. Will verificou cada região sem encontrar falhas importantes. Nari veio pouco depois e também estava estável.
 
 Will manteve a Madeira circulando em baixa intensidade por mais alguns minutos.
 
@@ -469,15 +411,7 @@ Duas almas ancoradas novamente em corpos capazes de sustentá-las.
 
 Will deixou as mãos baixarem.
 
-Durante horas, tudo que estivera diante dele tinha sido estrutura.
-
-Tecido.
-
-Energia.
-
-Função.
-
-Problemas a resolver.
+Durante horas, tudo que estivera diante dele tinha sido estrutura, tecido, energia, função, problemas a resolver.
 
 Só agora, sem a próxima correção imediatamente exigindo sua atenção, ele realmente olhou.
 
