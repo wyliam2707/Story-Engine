@@ -293,99 +293,23 @@ Muito.
 
 Will levantou-se e começou a andar lentamente pela sala.
 
-Duas pessoas.
+Duas pessoas. Dois corpos quase destruídos. Para reconstruir ambas com segurança, precisaria de uma ligação real com cada uma. Depois poderia desfazer os vínculos.
 
-Dois corpos quase destruídos.
+A dificuldade não era técnica. Aquelas pessoas estavam morrendo, e ele precisava do consentimento delas para uma servidão de alma que pretendia tornar temporária.
 
-Para reconstruir ambas com segurança, precisaria de uma ligação real com cada uma.
-
-Depois poderia desfazer os vínculos.
-
-Simples.
-
-Tecnicamente.
-
-Moralmente era menos limpo.
-
-Aquelas pessoas estavam morrendo. Oferecer vida em troca de servidão, ainda que temporária, não era exatamente uma negociação feita entre partes com poder semelhante.
-
-Will sabia disso.
-
-Também sabia qual era a alternativa.
-
-Nenhum contrato.
-
-Nenhuma referência.
-
-Uma chance muito pior de salvar as duas.
-
-Talvez nenhuma.
-
-Ele olhou para os corpos.
-
-Não sabia quem eram.
-
-Isso começou a importar de outra maneira.
-
-Se fossem pai e filho?
-
-Se uma delas tivesse seguido a outra até ali?
-
-Se fossem amantes?
-
-Irmãos?
-
-Se uma tivesse arriscado tudo para salvar a outra?
-
-Pedir a ambos que assumissem uma dívida de alma quando um único sacrifício talvez pudesse garantir que pelo menos o outro recuperasse liberdade parecia...
-
-ruim.
-
-Will voltou para perto deles.
+Ele olhou para os corpos. Não sabia o que uma significava para a outra. Se explicasse desde o início que precisava prender as duas almas à sua para salvar ambas, uma delas poderia recusar para proteger a outra. E uma recusa naquele estado podia matar justamente quem pretendia proteger.
 
 **Will, pensa -** *Vida para os dois. Preço para um.*
 
-A ideia se formou lentamente.
-
-Não porque uma ligação bastasse para tratar ambos. Não bastava. Cada paciente precisaria de sua própria âncora durante a reconstrução.
-
-Mas Will não precisava manter os dois vínculos depois.
-
-Poderia estabelecer ambos temporariamente para fazer o trabalho necessário e, quando estivessem fora do Éter, revogá-los.
-
-O problema era o consentimento.
-
-Se dissesse a cada um:
-
-*preciso prender a alma de vocês dois a mim para tentar salvar vocês dois*,
-
-uma pessoa poderia recusar para proteger a outra.
-
-E uma recusa naquele estado podia matar justamente quem pretendia proteger.
-
-Will permaneceu alguns segundos em silêncio.
-
 A situação tinha a elegância moral de um desabamento.
 
-Ele precisava das duas ligações para trabalhar.
-
-Precisava das duas como referências, talvez também para encontrar o lugar de onde tinham vindo.
-
-Mas não precisava transformar isso numa promessa de servidão permanente.
-
-Então escolheria outra forma de apresentar o acordo.
+Ele precisava das duas ligações para o tratamento, talvez também para encontrar o lugar de onde tinham vindo, mas não pretendia mantê-las depois de saírem do Éter. Então apresentaria o acordo separadamente.
 
 A cada pessoa, individualmente, ofereceria a mesma coisa:
 
 *aceite o vínculo necessário agora; eu salvo vocês dois; quando sairmos, a outra pessoa estará livre.*
 
-Era verdade.
-
-Pretendia libertar a outra.
-
-Pretendia libertar aquela pessoa também.
-
-Só não diria ainda que precisava obter o mesmo consentimento da segunda.
+Pretendia libertar ambas. Só não diria ainda que precisava obter o mesmo consentimento da segunda.
 
 Will passou a mão pelo rosto.
 
