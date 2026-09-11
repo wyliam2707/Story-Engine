@@ -133,19 +133,7 @@ Ainda suficiente.
 
 **Will, pensa -** *Pode ser feito.*
 
-Não era confiança.
-
-Ainda não.
-
-Era diagnóstico.
-
-Pela primeira vez desde que encontrara aqueles dois restos no Éter, Will acreditou realmente que poderia devolver corpos inteiros às pessoas ligadas a ele.
-
-Isso mudou o trabalho.
-
-Não o tornou mais rápido.
-
-Tornou-o possível.
+Não era confiança, mas diagnóstico. Pela primeira vez desde que encontrara aqueles dois restos no Éter, Will acreditou realmente que poderia devolver corpos inteiros às pessoas ligadas a ele.
 
 Will aumentou cuidadosamente o fluxo.
 
@@ -159,15 +147,7 @@ Will percebeu as primeiras respostas que indicavam diferenças sexuais.
 
 Registrou, ajustou e continuou.
 
-Não havia motivo para parar sobre aquilo.
-
-Naquele momento, sexo era anatomia.
-
-Nada além disso.
-
-Ele precisava reconstruir duas pessoas.
-
-O resto poderia esperar.
+Não havia motivo para parar sobre aquilo. Naquele momento, sexo era apenas anatomia. Ele precisava reconstruir duas pessoas.
 
 O trabalho avançou por nervos, vasos e tecidos.
 
@@ -177,13 +157,7 @@ Sara tolerava melhor alguns aumentos no fluxo de Madeira.
 
 Nari aceitava menos energia bruta de uma vez, mas sua estrutura espiritual parecia oferecer indicações mais nítidas em determinadas regiões.
 
-Nenhuma era mais fácil.
-
-Só eram diferentes.
-
-Isso Will entendia.
-
-Pacientes sempre eram.
+Nenhuma era mais fácil. Eram apenas diferentes, como pacientes sempre eram.
 
 O Dan continuava esvaziando.
 
@@ -263,21 +237,9 @@ A etapa seguinte exigia menos energia e mais precisão, concentrada em tecidos m
 
 Regiões que haviam sido reconstruídas apenas o suficiente para sobreviver agora precisavam funcionar adequadamente. Will encontrou pequenas inconsistências, corrigiu conexões, refez fluxos, observou respostas.
 
-Os corpos começaram finalmente a parecer corpos.
+Os corpos começaram finalmente a parecer corpos, embora a superfície permanecesse incompleta em muitos lugares, expondo uma reconstrução que um observador comum provavelmente consideraria horrível.
 
-Ainda não pessoas.
-
-Não completamente.
-
-A superfície permanecia incompleta em muitos lugares, expondo uma reconstrução que um observador comum provavelmente consideraria horrível.
-
-Will mal percebia.
-
-Já vira coisas piores.
-
-Já fizera coisas piores.
-
-O fato importante era que agora havia sistemas funcionando sob aquela superfície.
+Will mal percebia. Já vira e fizera coisas piores.
 
 Dois corações batiam.
 
@@ -351,11 +313,7 @@ Em Nari aconteceu algo semelhante. Chifres também. Orelhas mais alongadas do qu
 
 Novamente registrou e continuou.
 
-Não sabia que raça eram.
-
-Essa pergunta pertencia ao futuro.
-
-No presente, tinha duas pacientes quase reconstruídas.
+Não sabia que raça eram. No presente, tinha duas pacientes quase reconstruídas.
 
 A pele de Sara terminou primeiro. Will verificou cada região sem encontrar falhas importantes. Nari veio pouco depois e também estava estável.
 
