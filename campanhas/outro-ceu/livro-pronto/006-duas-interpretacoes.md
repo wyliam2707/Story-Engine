@@ -361,10 +361,6 @@ Will não acreditava ter adquirido duas esposas.
 
 Acreditava ter usado dois contratos temporários para salvar duas desconhecidas e criar uma rota de fuga.
 
-Isso não tornava a omissão menor.
-
-Só a tornava outra coisa.
-
 **Nari -** Você não mentiu quando disse que libertaria a outra.
 
 **Will -** Não.
