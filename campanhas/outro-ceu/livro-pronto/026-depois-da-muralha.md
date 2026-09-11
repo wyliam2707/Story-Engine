@@ -255,33 +255,35 @@ Ela se aproximou e o beijou.
 
 Curto.
 
-Quando afastou o rosto, ficou séria.
+Quando afastou o rosto, continuou séria.
 
-**Sara -** Foi o pacto.
+**Sara -** Não interprete isso de maneira errada, amor.
 
-Will piscou.
+**Will -** Não interpretei.
 
-**Will -** Claro, querida.
+Sara ergueu a mão entre os dois, mostrando a aliança.
 
-Sara estreitou os olhos.
+**Sara -** Você nem é tão bonito assim.
 
-**Sara -** Não use esse tom, amor.
+Ela olhou para a própria mão.
 
-**Will -** Que tom?
+**Sara -** Mas isto continua aqui. Não é como se tivéssemos exatamente muita escolha.
 
-**Sara -** Esse.
+**Will -** Entendi.
+
+**Sara -** Ótimo.
 
 Ela virou de costas.
 
 Do outro lado, Nari estava acordada.
 
-**Nari -** Você está sorrindo, querido?
+**Nari -** O argumento dela é razoável, querido.
 
-**Will -** Não.
+Sara respondeu sem virar.
 
-**Sara -** Está sim.
+**Sara -** Obrigada, querida.
 
-Algum tempo passou.
+**Nari -** Considerando os precedentes do vínculo, resistir apenas para provar um ponto parece ineficiente.
 
 Então Nari se aproximou também.
 
@@ -289,19 +291,13 @@ Beijou Will.
 
 Um pouco mais demorado.
 
-Quando se afastou:
+Quando se afastou, continuou séria.
 
-**Nari -** Provavelmente o vínculo, querido.
-
-**Will -** Provavelmente, querida.
-
-Nari ficou olhando para ele.
-
-**Nari -** Você está aprendendo a ser irritante.
+**Nari -** Eficiência, querido.
 
 Sara respondeu sem virar.
 
-**Sara -** Eu avisei, querida.
+**Sara -** Naturalmente, querida.
 
 Nari acomodou a cabeça no ombro de Will.
 
@@ -316,9 +312,5 @@ Will olhou para o teto.
 **Nari -** Nem um pouco, querido.
 
 Nenhuma se afastou.
-
-Will decidiu que aquela resposta provavelmente significava alguma coisa.
-
-Também decidiu não perguntar.
 
 Pouco depois, os três dormiam.
