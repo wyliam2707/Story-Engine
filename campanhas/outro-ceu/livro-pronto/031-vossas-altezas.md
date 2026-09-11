@@ -1,5 +1,5 @@
 # Capítulo 31
-## Vossas Altezas
+## Nosso, Querida
 
 **Will -** Princesas?
 
@@ -353,7 +353,7 @@ O pouco que a guarnição sabia deixou de ser útil rapidamente.
 
 Sara mudou de objetivo.
 
-**Sara -** Quero três mensagens.
+**Sara -** Quero quatro mensagens.
 
 Um escriba aproximou-se.
 
