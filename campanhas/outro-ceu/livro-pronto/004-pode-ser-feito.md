@@ -193,13 +193,7 @@ Ele precisava reconstruir duas pessoas.
 
 O resto poderia esperar.
 
-O trabalho avançou.
-
-Nervos.
-
-Vasos.
-
-Tecidos.
+O trabalho avançou por nervos, vasos e tecidos.
 
 Will mudava de uma para a outra quase continuamente, não porque uma estivesse recebendo menos atenção, mas porque cada etapa precisava de tempo para responder antes que ele pudesse avançar novamente.
 
