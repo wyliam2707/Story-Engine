@@ -1,274 +1,260 @@
 # Capítulo 29
 ## Quinze dias
 
-O Pagoda surgiu entre as árvores quando o sol já começava a descer atrás do lago.
+Will voltou do lago pouco depois.
 
-Will escolhera um ponto afastado da margem, escondido por uma pequena elevação e árvores altas o bastante para bloquear qualquer visão da estrada.
+O cabelo ainda estava úmido quando entrou no Pagoda.
 
-Assim que entraram, Sara retirou a faixa dos chifres.
+Parou na porta.
 
-Nari fez o mesmo.
+Sara e Nari já estavam esperando.
 
-Will fechou a proteção e foi direto aos frascos.
+As roupas usadas durante a viagem tinham sido deixadas de lado. No lugar delas, ambas vestiam peças improvisadas com algumas das roupas de Will.
 
-Sara viu.
+Não eram exatamente camisolas.
 
-**Sara -** Amor.
+Mas chegavam perto o suficiente.
 
-**Will -** Sim?
+Sara percebeu o olhar.
 
-**Sara -** Você atravessou um lago inteiro carregando nós duas.
+**Sara -** Não comece, amor.
 
-**Will -** Sim, querida.
+Will ainda não havia dito nada.
 
-**Sara -** E ainda vai nos dar remédio.
+**Will -** Eu não disse nada.
 
-Will colocou dois copos sobre a mesa.
+**Sara -** Melhor assim.
 
-**Will -** Principalmente por isso.
+Nari ajeitou uma das mangas, comprida demais para o braço.
 
-Nari sentou.
+**Nari -** Nossas roupas precisam estar prontas para amanhã, querido.
 
-**Nari -** Não lute contra o inevitável, querida.
+**Sara -** E não fazia sentido dormir com roupa de viagem.
+
+**Nari -** As suas são confortáveis.
 
 Sara olhou para ela.
 
-**Sara -** Você está ficando confortável demais do lado dele.
+**Sara -** Esse último argumento era desnecessário, querida.
 
-**Nari -** Estou do lado que termina mais rápido.
+**Nari -** Mas verdadeiro.
 
-Will serviu as doses.
+Will assentiu.
 
-Eram menores.
+**Will -** Entendi.
 
-As duas perceberam.
+Sara estreitou os olhos.
 
-Sara tomou primeiro.
+**Sara -** Não parece.
 
-Ainda fez a mesma expressão de sempre.
+**Will -** Quer que eu não entenda?
 
-**Sara -** Continua horrível, amor.
+Sara pensou por um instante.
 
-**Will -** Mas menos.
+**Sara -** Quero que aceite a explicação, amor.
 
-**Sara -** Menos remédio. O gosto continua sendo um crime.
+**Will -** Certo.
 
-Nari terminou o próprio copo e estendeu o braço antes que Will pedisse.
+Nari observou os dois.
 
-Ele verificou o pulso dela.
+**Nari -** Excelente. Problema resolvido.
 
-Depois a circulação.
+Sara apontou para ela.
 
-Sara observou.
-
-Quando chegou sua vez, fez o mesmo.
-
-O exame foi curto.
-
-**Sara -** Quanto, querido?
-
-**Will -** Muito perto.
-
-Nari ergueu os olhos.
-
-**Nari -** Do normal?
-
-**Will -** Sim, querida.
-
-Sara sorriu.
-
-**Sara -** Finalmente.
-
-Will começou a guardar os frascos.
-
-**Will -** Ainda não significa que podem ignorar o tratamento.
-
-**Sara -** Naturalmente, amor.
-
-A facilidade da resposta fez Will olhar para ela.
-
-Sara manteve a expressão mais inocente que conseguiu.
-
-Nari decidiu não ajudar.
+**Sara -** Não incentive.
 
 ***
 
 Jantaram pouco depois.
 
-Durante algum tempo, falaram apenas da rota.
+A conversa começou pela rota.
 
-Nari mantinha o mapa aberto sobre a mesa.
+Nari abriu o mapa sobre a mesa. Depois da travessia do lago, a distância que restava parecia quase pequena.
 
-A partir dali reconhecia melhor a região.
+**Nari -** Amanhã devemos alcançar uma estrada usada principalmente por demônios, querido.
 
-**Nari -** Amanhã seguimos para sudeste, querido. Se mantivermos um bom ritmo, devemos alcançar uma estrada usada pelos demônios.
+Will acompanhou o caminho com o dedo.
 
-Sara acompanhou o traçado.
+**Will -** Então vocês não precisam mais esconder os chifres.
 
-**Sara -** Depois disso não precisamos mais esconder os chifres.
+**Sara -** Finalmente, amor.
 
-Will assentiu.
+Ela tocou a própria testa.
 
-**Will -** Melhor.
+**Sara -** Aquela faixa estava começando a me irritar.
 
-Nari dobrou o mapa.
+**Nari -** Tudo começa a irritar você depois de tempo suficiente, querida.
 
-Mesmo assim não se levantou.
+**Sara -** Algumas coisas levam menos tempo.
 
-Sara também permaneceu sentada.
+Will continuou olhando o mapa.
 
-Will percebeu.
+**Will -** Quanto falta até onde vocês precisam chegar?
 
-**Will -** Tem mais alguma coisa?
+Sara e Nari trocaram um olhar.
 
-As duas se entreolharam.
+**Nari -** Não muito, querido.
 
-Não foi um olhar longo.
+Will percebeu que aquilo era o máximo que receberia.
 
-Foi suficiente.
-
-Sara apoiou os braços sobre a mesa.
-
-**Sara -** Tem, amor.
-
-Will esperou.
-
-Nari assumiu primeiro.
-
-**Nari -** É sobre o casamento, querido.
-
-A atenção dele mudou.
+Dobrou o mapa.
 
 **Will -** Certo.
 
-Sara continuou com a mesma seriedade que usaria para discutir fronteiras ou tropas.
+O jantar terminou.
 
-**Sara -** Existe uma obrigação matrimonial que ainda não cumprimos.
+Mas nenhuma das duas se levantou.
+
+Will percebeu.
+
+Sara também percebeu que ele percebeu.
+
+Ela olhou para Nari.
+
+Nari olhou de volta.
+
+Nenhuma parecia particularmente interessada em começar.
+
+Por fim, Nari respirou fundo.
+
+**Nari -** Will.
+
+Ele ergueu os olhos.
+
+**Nari -** Creio que agora temos outro problema, querido.
+
+**Will -** Logístico?
+
+Nari hesitou.
+
+**Nari -** Menos logístico.
+
+Sara apoiou os cotovelos sobre a mesa.
+
+**Sara -** E um pouco mais complicado, amor.
+
+Will esperou.
+
+Nari continuou.
+
+**Nari -** Existem costumes e regras para um casamento demoníaco firmado por contrato.
+
+Will permaneceu em silêncio.
+
+**Nari -** Algumas são sociais.
+
+Sara ergueu a própria mão, mostrando a aliança.
+
+**Sara -** Algumas, aparentemente, não.
+
+Will olhou para o anel.
+
+Depois para as duas.
+
+Nari prosseguiu.
+
+**Nari -** Existe um prazo para que o casamento seja consumado, querido.
+
+Will não se moveu.
+
+Sara observou a expressão dele.
+
+Séria.
+
+Atenta.
+
+Nenhuma brincadeira.
+
+**Sara -** Seriam quinze dias depois do casamento, amor.
 
 Will olhou para ela.
 
 Depois para Nari.
 
-**Will -** Qual?
+**Nari -** E, considerando a data...
 
-**Nari -** Consumação.
+Sara completou:
+
+**Sara -** Termina hoje.
 
 Silêncio.
 
-Will não mudou de posição.
+Will não perguntou nada.
 
-**Will -** Entendi.
+Sara pareceu considerar isso uma permissão para continuar.
 
-Sara continuou.
-
-**Sara -** Entre demônios existe um período em que isso pode ser adiado, amor.
-
-**Will -** Quanto?
-
-Nari respondeu.
-
-**Nari -** Quinze dias, querido.
-
-Will permaneceu quieto por alguns segundos.
-
-**Will -** Quinze.
-
-**Sara -** Sim.
-
-**Nari -** E já adiamos até o último dia.
-
-A informação ficou sobre a mesa.
-
-Will olhou para as duas.
-
-**Will -** E depois?
-
-Sara respirou devagar.
-
-**Sara -** Não sabemos.
-
-Will franziu levemente a testa.
-
-**Sara -** O problema não é apenas tradição, amor. Nosso casamento não é normal.
+**Sara -** Em circunstâncias normais, isso seria apenas uma regra do casamento.
 
 Nari assentiu.
 
-**Nari -** O pacto já interferiu em outras obrigações matrimoniais, querido.
+**Nari -** Mas nossas circunstâncias deixaram de ser normais no momento em que o contrato resolveu ter opiniões próprias.
 
-Will não respondeu imediatamente.
+Will ouviu.
 
-Sara continuou.
+**Sara -** Ele decidiu como eu deveria chamar você.
 
-**Sara -** Vocativos.
+**Nari -** E como você deveria nos chamar, querido.
 
-Nari acrescentou:
+**Sara -** Decidiu que distância demais era um problema.
 
-**Nari -** Distância.
-
-**Sara -** A cama.
-
-Will olhou de uma para a outra.
-
-**Will -** Isso explicaria vocês sempre voltarem para a minha cama.
-
-Sara sustentou o olhar.
-
-**Sara -** Exatamente, amor.
-
-Nari apoiou as mãos sobre a mesa.
-
-**Nari -** Não existe motivo para presumir que ele vá ignorar isso amanhã, querido.
-
-Will permaneceu em silêncio.
-
-Sara falou antes que ele perguntasse.
-
-**Sara -** Não sabemos o que pode acontecer depois de hoje.
-
-Nari continuou:
-
-**Nari -** Se o pacto decidir corrigir a situação por conta própria, não sabemos como vai fazer.
-
-Sara assentiu.
-
-**Sara -** Se isso vai acontecer de qualquer maneira, amor, prefiro que aconteça nas nossas condições.
-
-Nari concordou.
-
-**Nari -** A alternativa é esperar e descobrir se o pacto possui uma opinião própria sobre o assunto.
-
-Will olhou para as duas por algum tempo.
-
-Depois baixou os olhos para a mesa.
-
-**Will -** Eu também estava me sentindo estranho desde cedo.
-
-Sara ficou imóvel.
-
-Nari também.
-
-**Sara -** Estranho como, amor?
-
-Will pensou.
-
-**Will -** Não sabia.
-
-Ele levantou os olhos novamente.
-
-**Will -** Achei que fosse cansaço da viagem.
-
-Nari ficou séria.
-
-**Nari -** Pode não ser, querido.
+**Nari -** E parece ter uma opinião bastante firme sobre onde devemos dormir.
 
 Sara cruzou os braços.
 
-**Sara -** Então esperar parece ainda menos inteligente.
+**Sara -** Eu já acordei vezes suficientes na sua cama sem lembrar de ter escolhido voltar para ela, amor.
 
-Will considerou aquilo.
+Will continuava quieto.
 
-**Will -** Concordo.
+Sara inclinou-se um pouco para a frente.
 
-Nenhuma das duas respondeu imediatamente.
+**Sara -** Não pretendo esperar para descobrir o que acontece quando ele decidir que também estamos atrasadas nisso.
 
-A negociação, aparentemente, estava encerrada.
+Nari tomou a vez.
+
+**Nari -** Não sabemos se alguma coisa vai acontecer, querido.
+
+**Sara -** Mas também não sabemos que não vai.
+
+**Nari -** E até agora o pacto não demonstrou grande interesse em pedir nossa opinião antes de corrigir alguma coisa.
+
+Will olhou para a aliança na própria mão.
+
+Depois voltou a atenção para elas.
+
+Ainda não disse nada.
+
+Sara respirou fundo.
+
+**Sara -** Portanto...
+
+Nari olhou para ela.
+
+Sara olhou de volta.
+
+**Sara -** ...parece mais sensato resolvermos isso por conta própria.
+
+**Nari -** Antes que o pacto resolva por nós, querida.
+
+Sara voltou os olhos para Will.
+
+**Sara -** Então não fique muito animado, amor.
+
+Will sustentou o olhar.
+
+Sara continuou.
+
+**Sara -** Se não fosse pelo pacto, você não teria chance.
+
+Nari assentiu com absoluta seriedade.
+
+**Nari -** Muito menos com nós duas ao mesmo tempo, querido.
+
+Will permaneceu calado por alguns segundos.
+
+**Will -** Entendi.
+
+Sara pareceu satisfeita.
+
+**Sara -** Ótimo.
+
+**Nari -** Tente não se empolgar, querido.
