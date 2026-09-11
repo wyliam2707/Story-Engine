@@ -199,11 +199,7 @@ A reserva de um Santo era imensa.
 
 O problema era que reconstruir dois corpos quase do nada também era.
 
-Will começou a sentir a diferença na precisão.
-
-Não perda de controle.
-
-Peso.
+Will começou a sentir a diferença na precisão. Não era perda de controle, mas peso.
 
 Cada ajuste exigia um pouco mais de concentração. Cada fluxo precisava ser confirmado antes de avançar. Manter os dois vínculos ativos ao mesmo tempo parecia cada vez menos natural e cada vez mais algo que ele precisava conscientemente sustentar.
 
