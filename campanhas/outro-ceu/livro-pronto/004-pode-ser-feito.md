@@ -115,15 +115,7 @@ A reconstrução ganhou profundidade.
 
 Estruturas internas reapareceram gradualmente, guiadas pelas referências de alma. Alguns órgãos possuíam funções que Will reconhecia imediatamente. Outros apresentavam pequenas diferenças que o obrigavam a abandonar qualquer tentativa de trabalhar por memória.
 
-Ele não precisava saber o nome.
-
-Precisava saber o que fazia.
-
-O corpo respondia.
-
-A alma corrigia.
-
-Will aprendia.
+Ele não precisava saber o nome, apenas o que fazia. O corpo respondia, a alma corrigia, e Will aprendia.
 
 Em vários momentos, precisou desfazer alguns centímetros de trabalho antes que se tornassem um erro maior. Madeira regenerava com uma eficiência maravilhosa e, por isso mesmo, podia transformar uma decisão ruim em um desastre muito saudável.
 
