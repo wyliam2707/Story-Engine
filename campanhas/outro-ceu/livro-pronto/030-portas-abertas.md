@@ -51,292 +51,276 @@ Nari sentou ao lado dela.
 
 As duas permaneceram alguns segundos na beirada da cama.
 
-Sérias.
+Então se levantaram.
 
-Muito sérias.
+As roupas estavam espalhadas pelo quarto.
 
-Sara encontrou suas roupas.
+Sara encontrou uma das próprias peças perto da cama.
 
-Nari encontrou as próprias.
+Nari recolheu outra mais adiante.
 
-Vestiram-se sem pressa.
+Will continuava deitado.
 
-Will continuou deitado.
+Sara olhou para ele.
 
-Sara ajeitou a roupa, passou a mão pelos cabelos e respirou fundo.
+Depois para Nari.
 
-**Sara -** Pronto.
+**Sara -** Não.
 
-Nari terminou de prender os cabelos.
+Nari ergueu os olhos.
 
-**Nari -** Pronto.
+**Sara -** Agora não, querida.
 
-As duas caminharam até a porta.
+Nari continuou segurando a roupa nas mãos.
 
-Sara colocou a mão na maçaneta.
+Olhou para Will.
 
-Parou.
+Sara acompanhou o olhar.
 
-Nari parou ao lado dela.
+**Sara -** Será que pode ser...
 
-Nenhuma se virou.
+**Nari -** Acredito que sim, querida.
 
-Alguns segundos passaram.
+Sara esperou.
 
-Sara soltou a maçaneta.
+**Sara -** Será que vale a pena lutar contra?
 
-**Sara -** Nossa, eu odeio isso.
+**Nari -** Você já sabe o resultado.
 
-Nari suspirou.
+Silêncio.
 
-**Nari -** Eu também, querida.
+Sara olhou outra vez para a aliança.
 
-As duas voltaram.
+Depois para Will.
 
-Will as observou se aproximarem.
+Nari fez o mesmo.
 
-Sara parou diante da cama.
+**Sara -** Certos deveres são piores do que não escolher a própria cama.
 
-**Sara -** Não diga nada, amor.
+**Nari -** Concordo, querida.
 
-Will não disse.
+Sara deixou a roupa cair.
 
-Sara inclinou-se e o beijou.
+Nari ainda segurou a própria por mais alguns segundos.
 
-Nari esperou.
+Depois soltou também.
 
-Depois fez o mesmo.
+Sara voltou-se para Will.
 
-A porta do quarto permaneceu fechada por mais algum tempo.
+**Sara -** A culpa ainda é sua, amor.
 
 ***
 
-Quando voltaram à sala, Sara já estava prendendo novamente a faixa sobre os chifres.
+Quando saíram do quarto algum tempo depois, ninguém comentou o atraso.
 
-Nari fazia o mesmo.
+Sara encontrou a faixa dos chifres.
 
-Will terminou de ajustar a própria roupa.
+Nari encontrou a própria.
 
-Nenhum dos três mencionou o atraso.
+Will terminou de ajustar a roupa.
 
-Will recolheu algumas coisas espalhadas sobre a mesa.
+Sara amarrou a faixa.
 
-Então falou, como quem acabara de chegar a uma conclusão médica.
+**Sara -** Se disser alguma coisa, amor...
 
-**Will -** Pelo jeito, depois que o pacto abre uma parte do casamento, ela não pode mais ser fechada.
+**Will -** Não disse.
 
-Sara virou o rosto lentamente.
-
-**Sara -** Idiota, amor.
+**Sara -** Continue assim.
 
 Nari passou por ele.
 
-**Nari -** Cafajeste, querido.
+**Nari -** É uma boa política, querido.
 
-Will guardou o último frasco.
+Will pegou o mapa.
 
-**Will -** Foi apenas uma observação.
+**Will -** Então vamos?
 
-Sara abriu a porta do Pagoda.
+Sara abriu a porta.
 
-**Sara -** Observe menos.
+**Sara -** Antes que apareça outra obrigação matrimonial.
 
-Nari saiu atrás dela.
+Nari parou por um instante.
 
-**Nari -** Muito menos.
+**Nari -** Não provoque, querida.
 
-Will as acompanhou.
+Sara olhou para ela.
+
+**Sara -** Eu estava falando do pacto.
+
+**Nari -** Naturalmente.
+
+Will saiu primeiro.
+
+Sara esperou Nari passar.
+
+**Sara -** Naturalmente, querida.
 
 ***
 
 A manhã estava limpa.
 
-O grande lago permanecia atrás deles, estendendo-se até desaparecer no horizonte. À frente, o terreno subia lentamente, transformando as margens úmidas em campos abertos e manchas espaçadas de floresta.
+O lago permanecia atrás deles, vasto e silencioso sob a luz.
 
-Nari analisou a posição do sol.
+À frente, o terreno subia devagar até campos abertos, bosques e estradas que seguiam para sudeste.
 
-**Nari -** Para sudeste, querido.
+Nari analisou o mapa.
 
-Will olhou naquela direção.
+**Nari -** Agora estamos perto, querido.
 
-**Will -** Quanto falta?
+Will acompanhou a direção indicada.
 
-Sara respondeu enquanto ajustava a faixa.
+**Will -** Quanto?
+
+Sara respondeu antes.
 
 **Sara -** Voando?
 
-Ela olhou para ele.
+Will olhou para ela.
 
 **Sara -** Muito menos do que andando, amor.
 
-Will assentiu.
-
-As linhas escamosas apareceram novamente sobre sua pele.
-
-Sara e Nari já não reagiram como na primeira vez.
+As linhas escamosas apareceram novamente sobre a pele dele.
 
 As asas se abriram.
 
-Nari olhou para Sara.
-
-**Nari -** Acho preocupante a rapidez com que algumas coisas estão deixando de parecer absurdas.
-
-**Sara -** Depois do lago, querida, minhas expectativas mudaram.
-
-Will aproximou-se.
-
-**Will -** Prontas?
-
-Sara abriu os braços.
-
-**Sara -** Se existe alternativa melhor, amor, ainda não vi.
-
-Will a pegou.
-
-Depois Nari.
-
-Nenhuma das duas comentou que já poderia andar perfeitamente bem.
-
-Will também não perguntou.
-
-Pouco depois, deixaram o chão.
-
-***
-
-O voo reduziu a viagem a uma sucessão de paisagens.
-
-Campos.
-
-Bosques.
-
-Estradas estreitas.
-
-Pequenas comunidades que, vistas daquela altura, pareciam agrupamentos de telhados separados por extensões enormes de terra.
-
-Nari passou boa parte do caminho orientando Will.
-
-À medida que avançavam para sudeste, suas instruções se tornavam mais precisas.
-
-**Nari -** Aquela cadeia baixa de colinas, querido. Depois dela, vire um pouco para leste.
-
-Will corrigiu a direção.
-
-Sara observava o terreno abaixo.
-
-A mudança nela foi gradual.
-
-Quanto mais avançavam, menos parecia uma viajante tentando chegar a algum lugar.
-
-A postura se alterou.
-
-O olhar também.
-
-Nari sofreu transformação semelhante.
+Dessa vez nenhuma das duas ficou olhando por muito tempo.
 
 Will percebeu.
 
-Não comentou.
+**Will -** Já acostumaram?
 
-Horas depois, Sara apontou.
+**Nari -** Não, querido.
 
-**Sara -** Ali.
+Sara abriu os braços.
 
-Will acompanhou a direção.
+**Sara -** Apenas estamos ficando melhores em fingir.
 
-Uma estrada larga atravessava o vale.
+Will pegou Sara.
 
-Mais adiante, protegida entre duas elevações rochosas, havia uma construção fortificada.
+Depois Nari.
 
-Muros baixos e grossos.
+Pouco depois, estavam no ar.
 
-Torres.
+***
 
-Um portão amplo.
+O voo daquela manhã foi diferente do lago.
 
-Bandeiras escuras agitavam-se sobre a muralha.
+Will não precisou daquela mesma velocidade.
 
-Movimento de soldados no pátio.
+Nari orientava.
 
-Will diminuiu a velocidade.
+Sara observava o terreno.
 
-**Will -** É onde querem ir?
+Campos deram lugar a vales.
 
-**Nari -** Sim, querido.
+Depois vieram colinas baixas.
 
-Sara estudou a fortificação.
+Estradas mais largas.
 
-**Sara -** É uma guarnição de fronteira.
+Construções mais familiares às duas.
+
+A mudança nelas foi gradual.
+
+Sara começou a reconhecer caminhos.
+
+Nari deixou de consultar o mapa com tanta frequência.
+
+**Nari -** Mais a leste, querido.
+
+Will corrigiu a direção.
+
+Algum tempo depois, Sara apontou para uma estrada.
+
+**Sara -** Siga aquela.
+
+Will olhou para baixo.
+
+**Will -** Conhece?
+
+**Sara -** Conheço, amor.
+
+Mais adiante surgiram bandeiras escuras.
+
+Depois muralhas.
+
+Uma fortificação protegida entre duas elevações de pedra.
+
+Nari ergueu a cabeça.
+
+**Nari -** Ali.
 
 Will começou a descer.
 
-Os primeiros soldados perceberam algo no céu.
+Os soldados perceberam as asas antes de qualquer outra coisa.
 
-Apontaram.
+Homens correram para as muralhas.
 
-Outros correram para posições defensivas.
+Arqueiros apareceram.
 
-Will viu arqueiros tomando as muralhas.
+Will reduziu a velocidade.
 
-**Will -** Parece que não gostam de visitantes voando.
+**Will -** Acho que não gostam de visitantes.
 
-**Sara -** É uma reação razoável, amor.
+**Sara -** É uma guarnição de fronteira, amor.
 
-**Nari -** Especialmente quando o visitante possui asas que eles não reconhecem.
+**Nari -** E você está chegando pelo céu, querido.
 
-Will pousou a uma distância segura do portão.
+**Will -** Justo.
 
-Colocou as duas no chão.
+Ele pousou a uma distância segura do portão.
+
+Colocou Sara no chão.
+
+Depois Nari.
 
 As asas desapareceram.
 
 Sara retirou a faixa da cabeça.
 
-Os pequenos chifres ficaram expostos.
-
 Nari fez o mesmo.
 
-Os soldados sobre a muralha mudaram imediatamente de atitude.
+Os chifres apareceram.
 
-Não relaxaram.
+A reação na muralha mudou imediatamente.
 
-Mas a tensão se transformou em confusão.
+As armas não baixaram por completo.
+
+Mas os gritos diminuíram.
 
 Sara começou a caminhar.
 
 Nari seguiu ao lado dela.
 
-Will veio alguns passos atrás.
+Will veio atrás.
 
-Quando chegaram mais perto do portão, quatro soldados saíram para recebê-los.
+Quatro soldados saíram pelo portão.
 
 O oficial à frente olhou primeiro para Sara.
 
 Depois para Nari.
 
-Seu rosto perdeu parte da cor.
+Parou.
 
-Por um instante, pareceu esquecer completamente o que deveria dizer.
+A postura mudou.
 
-Sara não esperou.
+Ele se endireitou tão rápido que quase pareceu um reflexo.
 
-A voz saiu firme, limpa, sem qualquer hesitação.
+Sara não esperou pergunta.
 
-**Sara -** Avise seu general que a princesa Sara Iron Heart está aqui para vê-lo.
+**Sara -** Avise seu general que as princesas Sara Iron Heart e Nari Blood Heart estão aqui para vê-lo.
 
-O oficial ficou imóvel.
+O oficial ficou imóvel por um instante.
 
-Will também.
+Então levou o punho ao peito.
 
-Sara continuou olhando para o soldado.
+**Oficial -** Sim, princesas.
 
-Nari permanecia perfeitamente tranquila ao lado dela.
-
-Will virou lentamente o rosto.
+Will parou.
 
 Olhou para Sara.
 
 Depois para Nari.
 
-E novamente para Sara.
+Depois para Sara outra vez.
 
-**Will -** Princesa quem?
+**Will -** Princesas?
