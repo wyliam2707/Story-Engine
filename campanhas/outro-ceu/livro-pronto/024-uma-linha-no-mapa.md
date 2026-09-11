@@ -251,7 +251,7 @@ Sara ficou olhando.
 
 Nari também.
 
-A lembrança da conversa da manhã anterior apareceu nos três ao mesmo tempo.
+A lembrança da conversa sobre portas apareceu nos três ao mesmo tempo.
 
 Nari examinou a própria mão por mais um instante.
 
