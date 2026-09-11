@@ -13,563 +13,225 @@ Desceu alguns centímetros.
 
 O suficiente.
 
-Um guarda que vinha na direção contrária parou.
+Um guarda que vinha pela rua parou.
 
-Os olhos dele foram direto para a linha escura parcialmente exposta entre o cabelo.
+Os olhos dele encontraram a linha escura entre os cabelos de Nari. Ela percebeu no mesmo instante e puxou a faixa de volta, mas já era tarde.
 
-Nari percebeu tarde demais.
+O guarda levou dois dedos à boca e assobiou.
 
-Puxou a faixa de volta.
+Curto.
 
-O guarda já estava olhando para Sara.
+Agudo.
 
-Depois para Will.
+Sara virou o rosto.
 
-**Guarda -** Esperem.
+Nove homens surgiram quase juntos na esquina seguinte.
 
-Sara parou.
+Não vieram andando.
 
-Will também.
-
-Nari ficou ao lado deles.
-
-O guarda aproximou-se.
-
-Não parecia assustado.
-
-Parecia desconfiado.
-
-**Guarda -** Tire a faixa.
-
-Nari sustentou o olhar.
-
-**Nari -** Não.
-
-A resposta foi calma demais para soar como medo.
-
-O homem endureceu a expressão.
-
-**Guarda -** Eu não pedi por educação.
-
-Sara deu meio passo à frente.
-
-**Sara -** E ela respondeu.
-
-O guarda apontou para Nari.
-
-**Guarda -** Tire a faixa.
-
-Nari não se moveu.
-
-A rua continuava cheia, mas o espaço ao redor dos quatro começou a se abrir por conta própria.
-
-Gente reconhecia problema antes mesmo de saber qual era.
-
-Outro guarda apareceu no fim da rua.
-
-Depois um terceiro.
-
-Sara viu os dois chegando.
-
-**Sara -** Isso está ficando irritante.
-
-**Will -** Ainda está controlado, amor.
-
-Ela olhou para ele.
-
-**Sara -** Ainda?
-
-O primeiro guarda ouviu.
-
-Seu olhar desceu para a mão de Sara.
-
-Depois para a de Will.
-
-As marcas estavam parcialmente escondidas, mas não completamente.
-
-Aquilo não ajudou.
-
-**Guarda -** Quem são vocês?
-
-Will respondeu com tranquilidade.
-
-**Will -** Viajantes.
-
-**Guarda -** De onde?
-
-Nari entrou antes que Sara respondesse.
-
-**Nari -** Estamos seguindo para o sul.
-
-**Guarda -** Não foi o que perguntei.
-
-Os outros dois guardas chegaram.
-
-Um deles olhou diretamente para a faixa de Nari.
-
-**Segundo guarda -** O que ela está escondendo?
-
-Sara respirou fundo.
-
-**Sara -** Nada que seja problema de vocês.
-
-O primeiro estendeu a mão para a faixa.
-
-Nari segurou o pulso dele antes do toque.
-
-Não apertou.
-
-Apenas impediu.
-
-Silêncio.
-
-O homem olhou para a própria mão presa.
-
-Depois para Nari.
-
-**Guarda -** Solte.
-
-Nari soltou.
-
-**Nari -** Não toque em mim.
-
-O segundo guarda levou a mão à espada.
-
-Sara percebeu.
-
-Will também.
-
-Mais dois homens apareceram atraídos pela movimentação.
-
-Cinco.
-
-O primeiro guarda mudou o tom.
-
-**Guarda -** Última vez. Tire a faixa.
-
-Nari olhou para Sara.
-
-Sara olhou para Will.
-
-Não precisaram conversar.
-
-Nari levou a mão até a faixa.
-
-Retirou.
-
-O pequeno chifre ficou visível.
-
-O efeito foi imediato.
-
-Um dos guardas deu um passo para trás.
-
-Outro terminou de sacar a espada.
-
-**Segundo guarda -** Demônia.
-
-Sara soltou uma respiração lenta.
-
-**Sara -** Parabéns.
-
-O primeiro olhou para ela.
-
-**Guarda -** Você também.
-
-Sara não respondeu.
-
-Aquilo já era resposta suficiente.
-
-O homem fez um gesto para os outros.
-
-**Guarda -** Vocês três vêm conosco.
-
-Will inclinou levemente a cabeça.
-
-**Will -** Por quê?
-
-O guarda pareceu achar a pergunta ofensiva.
-
-**Guarda -** Porque duas demônias entraram na cidade escondendo o que são.
-
-**Sara -** E isso é crime?
-
-O homem hesitou apenas o bastante.
-
-Sara percebeu.
-
-**Sara -** Pensei que não.
-
-O segundo guarda apertou o cabo da espada.
-
-**Segundo guarda -** Vai ser mais simples se cooperarem.
-
-Nari olhou ao redor.
-
-Mais homens estavam vindo.
-
-Sete agora.
-
-Depois oito.
-
-Sara baixou a voz.
-
-**Sara -** Não quero transformar isso numa luta.
-
-Will respondeu no mesmo tom.
-
-**Will -** Nem eu, querida.
-
-Nari olhou para ele.
-
-**Nari -** E se eles não deixarem?
-
-Will acompanhou os guardas chegando.
-
-Nove.
-
-Dez.
-
-**Will -** Então saímos.
-
-Sara olhou para ele.
-
-**Sara -** Sem matar ninguém, amor.
-
-**Will -** Não pretendia.
-
-O primeiro guarda ouviu o bastante para perder a paciência.
-
-**Guarda -** Chega.
-
-Ele avançou para agarrar Nari.
-
-Will desapareceu.
-
-Não houve clarão.
-
-Não houve portal.
-
-Num instante estava ao lado de Sara.
-
-No seguinte, não.
-
-O guarda que avançara parou com a mão vazia.
-
-Sua espada bateu no chão alguns passos atrás.
-
-Will estava do outro lado dele.
-
-**Guarda -** O quê...
-
-O segundo tentou sacar a própria arma.
-
-Will se moveu outra vez.
-
-Rápido demais para os olhos acompanharem direito.
-
-O homem sentiu o pulso vazio antes de perceber que a espada já não estava ali.
-
-Ela deslizou pelo chão.
-
-Um terceiro avançou com lança.
-
-Will tocou a haste.
-
-Girou.
-
-A arma saiu das mãos do guarda sem que ele entendesse como.
-
-Sara não se mexeu.
-
-Nari também não.
-
-As duas estavam olhando.
-
-Não para os guardas.
-
-Para Will.
-
-**Sara -** Ele faz isso sem magia?
-
-**Nari -** Ainda não sei, querida.
-
-Um dos homens gritou alguma ordem.
-
-Três avançaram juntos.
-
-Dessa vez o ar esfriou.
-
-Uma fina camada branca correu pelas pedras da rua.
-
-As botas dos três guardas congelaram contra o chão.
-
-O primeiro tentou puxar o pé.
-
-Não conseguiu.
-
-Outro ergueu a espada.
-
-Gelo subiu apenas o suficiente pelo metal para prender a lâmina à bainha.
-
-Ele puxou.
-
-Nada.
-
-**Guarda -** Magia!
-
-**Sara -** Essa parte eu reconheci.
-
-Will passou entre dois homens.
-
-Um caiu sentado porque a parte de trás do joelho recebeu um toque no momento exato.
-
-O outro girou para acompanhá-lo e descobriu tarde demais que o próprio cinto estava preso por uma camada de gelo à carroça atrás dele.
-
-Nari observou.
-
-**Nari -** Ele está escolhendo onde cada um para.
-
-Sara percebeu também.
-
-Nenhum golpe sobrava.
-
-Nenhum movimento parecia improvisado.
-
-Will não lutava contra dez homens.
-
-Organizava dez problemas.
-
-Um por vez.
-
-O primeiro guarda finalmente conseguiu libertar uma bota e investiu com o ombro.
-
-Will desviou meio passo.
-
-Segurou o braço do homem.
-
-Girou.
-
-O guarda terminou deitado no chão sem saber em que momento o mundo mudara de posição.
-
-Will soltou antes que o impacto machucasse mais do que precisava.
-
-Outro tentou acertá-lo por trás.
-
-Sara abriu a boca.
-
-Não precisou avisar.
-
-Will já não estava lá.
-
-A espada cortou ar.
-
-Um instante depois, o homem encontrou a própria mão congelada contra o cabo.
-
-Não ferida.
-
-Presa.
-
-**Nari -** Sara.
-
-**Sara -** Eu sei.
-
-**Nari -** Não acho que saiba, querida.
-
-Sara olhou melhor.
-
-Will respirava normalmente.
-
-Ombros soltos.
-
-Nenhuma pressa.
-
-Nenhuma tensão.
-
-Aquilo era o que incomodava.
-
-Ele parecia estar fazendo pouco.
-
-Muito pouco.
-
-Um dos guardas percebeu que Sara e Nari continuavam livres e decidiu mudar de alvo.
-
-Avançou sobre Sara.
-
-Ela preparou o corpo para responder.
-
-Will apareceu entre os dois.
-
-O homem parou tão perto que quase bateu nele.
-
-Will tocou o peito da armadura com dois dedos.
-
-Gelo se espalhou pelo metal e alcançou a parede ao lado.
-
-Quando o guarda tentou recuar, descobriu que estava preso em pé.
-
-Will olhou para ele.
-
-**Will -** Fique.
-
-O homem ficou.
-
-Sara soltou uma pequena risada pelo nariz.
-
-**Sara -** Ele obedeceu.
-
-**Nari -** Tecnicamente não teve escolha, amor.
-
-O último grupo ainda capaz de se mover hesitou.
-
-Isso bastou.
-
-Will ergueu a mão.
-
-O frio correu pelas pedras outra vez.
-
-Botas congelaram.
-
-Uma lança caiu.
-
-Duas espadas ficaram presas às bainhas.
-
-O silêncio que veio depois foi estranho.
+Vieram depressa, abrindo espaço na multidão, mãos nas armas. Quando chegaram, já estavam se espalhando pela rua.
 
 Dez guardas.
 
-Nenhum morto.
+O primeiro apontou para Nari.
 
-Nenhum seriamente ferido.
+**Guarda -** Demônia.
 
-Quase todos incapazes de dar um único passo.
+Espadas começaram a sair das bainhas.
 
-Will voltou para Sara e Nari.
+Nari não respondeu.
 
-**Will -** Precisamos ir.
+Sara apenas entregou o mapa a Will.
 
-Sara olhou para os homens espalhados pela rua.
+Ele o guardou no inventário.
 
-Depois para ele.
+Um dos homens apontou também para ela.
 
-**Sara -** Concordo, querido.
+**Segundo guarda -** A outra também.
 
-Nari recolocou a faixa sobre o chifre.
+O homem que parecia comandar a patrulha nem perguntou nomes.
 
-**Nari -** Antes que cheguem mais dez.
+**Comandante -** Prendam as duas.
 
-Um apito soou ao longe.
+Dois guardas avançaram.
 
-Sara virou a cabeça.
+Sara deslocou o peso para a frente.
 
-Outro respondeu.
+Nari fez o mesmo.
 
-**Sara -** Tarde demais.
+Will passou entre elas.
 
-Will olhou para a rua principal.
+**Will -** Não.
 
-Guardas apareciam entre a multidão.
+Um dos guardas tentou empurrá-lo para o lado com o antebraço.
 
-Mais gente começava a apontar.
+Will se moveu.
 
-A saída da cidade ficava longe demais para simplesmente andar até ela.
+O homem caiu.
 
-Will guardou o mapa no inventário sem pedir.
+Não houve troca de golpes. O punho de Will entrou abaixo da proteção do peito e todo o ar abandonou o guarda de uma vez. Ele dobrou sobre si mesmo e bateu de joelhos nas pedras.
 
-Sara viu desaparecer.
+O segundo já vinha com a espada.
 
-**Sara -** Ei.
+Will deu um passo para dentro do corte e acertou o braço.
 
-**Will -** Depois, amor.
+Um estalo seco.
 
-Então ele passou um braço sob as pernas dela e outro pelas costas.
+A espada caiu.
 
-Levantou-a.
+O guarda veio junto, segurando o cotovelo numa direção em que um cotovelo não deveria apontar.
 
-Sara ficou imóvel por meio segundo.
+O terceiro atacou com uma lança.
 
-**Sara -** Querido.
+Will desviou a cabeça, passou pela ponta e golpeou o joelho.
 
-**Will -** Sim?
+A perna cedeu.
 
-**Sara -** O que está fazendo?
+O homem caiu antes de conseguir recuperar a arma.
 
-**Will -** Indo embora.
+Sara esqueceu por um momento os guardas que ainda avançavam.
 
-**Sara -** Eu consigo correr.
+Estava olhando para Will.
 
-**Will -** Eu sei.
-
-Isso foi tudo.
-
-Ele mudou Sara de posição contra o corpo e estendeu o outro braço para Nari.
-
-Nari recuou um passo.
+**Sara -** Ele não usou magia.
 
 **Nari -** Não.
 
-Will olhou para ela.
+O quarto tentou acertá-lo pelas costas.
 
-**Nari -** Não sem explicar como pretende carregar nós duas.
+Will girou apenas o necessário.
 
-**Will -** Uma de cada lado, querida.
+O cotovelo encontrou o maxilar.
 
-**Nari -** Isso não é uma explicação.
+O homem apagou antes de chegar ao chão.
 
-Will a pegou.
+O quinto avançou junto com o sexto.
+
+Will não recuou.
+
+Uma palma atingiu o peito do primeiro e o lançou contra uma banca. Madeira quebrou sob o corpo.
+
+Will já estava diante do outro.
+
+Um chute curto atingiu a lateral da coxa.
+
+O guarda perdeu a perna por um instante, tentou compensar o peso e recebeu o ombro de Will no peito.
+
+Caiu vários passos atrás.
+
+Nenhum recebeu um segundo golpe.
+
+Nari percebeu isso.
+
+**Nari -** Sara.
+
+**Sara -** Estou vendo.
+
+O sétimo hesitou.
+
+Foi o bastante para Will chegar até ele.
+
+Um golpe no estômago dobrou o homem. Outro golpe não veio.
+
+Não precisava.
+
+O oitavo tentou compensar a diferença atacando com força.
+
+Will saiu da linha.
+
+A espada passou.
+
+A mão de Will encontrou o pulso.
+
+O guarda girou no próprio impulso e terminou no chão com o ombro deslocado.
+
+O nono nem terminou de sacar.
+
+Will acertou seu peito com a base da mão.
+
+O homem voou para trás e caiu sem conseguir puxar ar.
+
+Restava o comandante.
+
+Ele olhou para os homens espalhados pela rua.
+
+Depois para Will.
+
+A espada já estava em sua mão.
+
+Atacou.
+
+Will avançou junto.
+
+Um passo.
+
+Um golpe.
+
+O punho atingiu o rosto do comandante.
+
+Ele caiu de costas.
+
+Acabou.
+
+Sara ficou imóvel.
+
+Dez homens haviam atacado.
+
+Nenhum obrigara Will a repetir um golpe.
+
+Nenhum estava morto.
+
+Isso não significava que estivessem bem.
+
+Um gemia segurando o braço. Outro tentava respirar. Dois não estavam conscientes. Um terceiro ainda não tinha decidido se conseguia apoiar a perna.
+
+Will nem olhou para eles.
+
+Já estava vindo na direção das duas.
+
+Um apito soou em outra rua.
+
+Depois outro.
+
+Will chegou até Sara e Nari, abaixou-se e pegou as duas.
+
+Uma em cada braço.
+
+**Sara -** Amor!
 
 **Nari -** Querido!
 
-Agora tinha uma em cada braço.
+Will já estava correndo.
 
-Sara olhou para Nari.
+**Will -** Depois.
 
-Nari olhou para Sara.
+Sara se agarrou ao pescoço dele.
 
-**Sara -** Eu tentei perguntar.
+Nari fez o mesmo.
 
-**Nari -** Você estava no colo dele quando tentou.
-
-Os apitos ficaram mais próximos.
+Outro grupo de guardas apareceu na extremidade da rua.
 
 Will olhou para cima.
-
-Sara acompanhou.
 
 Telhados.
 
 **Sara -** Não.
 
-Will flexionou as pernas.
-
-**Sara -** Amor.
-
 Ele saltou.
 
-Sara se agarrou ao pescoço dele no mesmo instante.
+Sara apertou os braços.
 
-Nari fez quase a mesma coisa do outro lado.
+Will aterrissou sobre o primeiro telhado sem perder velocidade.
 
-Will aterrissou sobre o primeiro telhado.
+As telhas não quebraram.
 
-Leve.
+Nem sequer cederam.
 
-As telhas nem sequer cederam sob o impacto das três pessoas.
+Nari olhou para baixo.
 
-Sara percebeu.
+Depois para os pés dele.
 
-Não teve tempo de comentar.
-
-Will já estava correndo.
-
-O primeiro beco veio à frente.
-
-Ele saltou.
-
-Passou por cima de uma carroça inteira e aterrissou no telhado seguinte sem diminuir a velocidade.
-
-A rua ficou abaixo deles.
-
-Gritos vieram de algum lugar atrás.
+Will já tinha saltado para o telhado seguinte.
 
 **Sara -** Você sempre pôde fazer isso?!
 
@@ -577,37 +239,37 @@ Gritos vieram de algum lugar atrás.
 
 **Sara -** Isso!
 
-Will saltou outra vez.
-
-Nari olhou para baixo.
-
-Depois para o rosto dele.
-
-Respiração normal.
-
-Passada estável.
-
-Nenhum sinal de esforço.
-
-Ela olhou para Sara.
-
-Sara já estava olhando para ela.
-
-Nenhuma falou.
-
-Outro telhado.
-
 Outro salto.
 
-Uma chaminé passou perto demais.
+Uma carroça inteira passou abaixo deles.
 
-Will inclinou o corpo, mudou de direção e continuou como se carregasse apenas as próprias roupas.
+Will aterrissou correndo.
+
+Duas mulheres nos braços não alteravam sua passada.
+
+Não alteravam sua respiração.
+
+Não alteravam nada.
+
+Nari olhou para Sara.
+
+**Nari -** Ele podia ter matado todos.
+
+Will saltou outro beco.
+
+**Will -** Podia.
+
+Sara virou o rosto para ele.
+
+**Sara -** E não matou.
+
+**Will -** Não precisava, amor.
+
+A resposta pareceu incomodar as duas mais do que teria incomodado qualquer explicação.
 
 A muralha apareceu à frente.
 
-Guardas corriam pelas ruas abaixo.
-
-Dois homens já subiam uma escada lateral tentando alcançar o topo.
+Guardas corriam pelas ruas abaixo. Outros já subiam em direção ao topo.
 
 Will não diminuiu.
 
@@ -619,33 +281,33 @@ Will não diminuiu.
 
 **Will -** Eu vi.
 
-**Sara -** Essa resposta está começando a me preocupar.
+Sara fechou os olhos por um instante.
 
-O último telhado terminou alguns metros antes da pedra.
+**Sara -** Essa resposta continua péssima.
+
+O último telhado terminou.
 
 Will saltou.
 
-Por um instante não havia nada sob seus pés.
+Por um momento não havia nada sob seus pés.
 
-Então uma bota tocou a muralha.
+Então uma bota encontrou a lateral da muralha.
 
-Não o topo.
+Sara abriu os olhos.
 
-A lateral.
+Will correu sobre a pedra.
 
-Ele correu sobre a pedra.
+Um passo.
 
-Três passos.
+Dois.
 
-Quatro.
+Três.
 
-Cinco.
-
-Sara ficou olhando para a parede passando abaixo do pé dele.
+Como se a parede tivesse simplesmente concordado em virar chão.
 
 **Sara -** Amor.
 
-Will continuou.
+Will continuou subindo.
 
 **Sara -** Isso é uma parede.
 
@@ -653,17 +315,19 @@ Will continuou.
 
 Chegou ao alto.
 
-Um guarda apareceu à frente.
+Um guarda surgiu à frente e ergueu a lança.
 
-Will mudou o ângulo sem parar.
+Will nem diminuiu.
 
-Pisou na borda.
+O pé acertou o peito do homem durante a passada.
+
+O guarda desapareceu para o lado.
+
+Will pisou na borda.
 
 Saltou.
 
-Sara apertou os braços ao redor dele.
-
-Nari fez o mesmo.
+Sara e Nari apertaram os braços ao redor dele.
 
 A cidade caiu para trás.
 
