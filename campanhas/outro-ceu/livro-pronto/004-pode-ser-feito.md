@@ -25,21 +25,7 @@ Primeiro ele precisava impedir que qualquer instabilidade interna terminasse aqu
 
 O Pagoda havia interrompido a deterioração externa. Isso não significava que os corpos tivessem se tornado estáveis. Havia estruturas incompletas demais, sistemas que mal podiam ser chamados de sistemas e uma sustentação espiritual que sobrevivia principalmente porque se recusava a desaparecer.
 
-Will começou pelo mínimo necessário à vida.
-
-Não órgãos completos.
-
-Não músculos.
-
-Não pele.
-
-Estrutura.
-
-Pontos de sustentação.
-
-Conexões essenciais.
-
-Aquilo que precisava existir para que o passo seguinte tivesse onde se apoiar.
+Will começou pelo mínimo necessário à vida. Ainda não órgãos completos, músculos ou pele, mas estrutura: pontos de sustentação, conexões essenciais, aquilo que precisava existir para que o passo seguinte tivesse onde se apoiar.
 
 A Madeira entrou em ambas lentamente.
 
