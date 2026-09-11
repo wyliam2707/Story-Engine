@@ -53,19 +53,7 @@ O homem endureceu a expressão.
 
 Sara deu meio passo à frente.
 
-**Sara -** E ela respondeu, querido.
-
-Will olhou para Sara.
-
-Ela não percebeu o vocativo até o guarda perceber.
-
-O homem franziu a testa.
-
-**Guarda -** Querido?
-
-Sara fechou os olhos por um instante.
-
-**Sara -** Não importa.
+**Sara -** E ela respondeu.
 
 O guarda apontou para Nari.
 
