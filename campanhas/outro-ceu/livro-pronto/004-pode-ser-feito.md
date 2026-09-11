@@ -121,15 +121,7 @@ Em vários momentos, precisou desfazer alguns centímetros de trabalho antes que
 
 Ele não tinha energia para desperdiçar dessa maneira.
 
-Sara tornou-se mais estável.
-
-Nari também.
-
-Não juntas.
-
-Não exatamente no mesmo ritmo.
-
-Mas próximas o bastante para que Will parasse de sentir que qualquer segundo de distração seria fatal.
+Sara tornou-se mais estável, e Nari também. Não exatamente no mesmo ritmo, mas próximas o bastante para que Will parasse de sentir que qualquer segundo de distração seria fatal.
 
 Foi a primeira vez que permitiu uma respiração mais longa.
 
