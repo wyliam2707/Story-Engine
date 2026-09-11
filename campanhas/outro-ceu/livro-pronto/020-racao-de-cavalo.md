@@ -83,7 +83,7 @@ Nari ficou mais atenta.
 
 Will levantou a mão marcada.
 
-**Will -** Primeiro descobrimos que o casamento não pode ser negado. Depois vieram os vocativos. Depois a distância. Depois a cama.
+**Will -** Primeiro descobrimos que a distância não funcionava. Depois vieram os vocativos. Depois percebemos que o casamento não podia ser negado.
 
 Sara acompanhou a sequência em silêncio.
 
