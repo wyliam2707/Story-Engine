@@ -443,16 +443,6 @@ Todos tinham ouvido as mesmas palavras.
 
 Ninguém tinha entendido a mesma coisa.
 
-Sara foi a primeira a quebrar o silêncio.
-
-**Sara -** Então você acreditava que estávamos aceitando servidão temporária.
-
-**Will -** Sim.
-
-**Nari -** Nós acreditávamos estar aceitando casamento.
-
-**Will -** Sim.
-
 Sara olhou para a própria mão.
 
 **Sara -** E a magia aceitou.
