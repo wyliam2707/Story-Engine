@@ -339,15 +339,7 @@ Nari falou antes que o silêncio virasse outra coisa.
 
 Sara apoiou a mão marcada sobre o cobertor.
 
-**Sara -** Então, na sua cabeça, nenhuma de nós ficaria presa a você.
-
-**Will -** Não.
-
-**Sara -** Só precisava dos vínculos enquanto estivéssemos aqui.
-
-**Will -** Para o tratamento e para encontrar o caminho de volta.
-
-**Sara -** E depois nos libertaria.
+**Sara -** Então, na sua cabeça, precisava dos vínculos apenas para nos salvar e sair daqui. Depois libertaria nós duas.
 
 **Will -** Sim.
 
