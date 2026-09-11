@@ -147,7 +147,7 @@ Will também não.
 
 Sara tomou água demais no café da manhã e declarou que aquilo não significava absolutamente nada.
 
-Nari concordou com uma solenidade suspeita.
+Nari concordou com solenidade.
 
 Guardaram o Pagoda e seguiram.
 
