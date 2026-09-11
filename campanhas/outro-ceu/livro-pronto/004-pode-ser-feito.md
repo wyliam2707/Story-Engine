@@ -337,9 +337,7 @@ Will observava tudo como médico: simetria, resposta, circulação, integridade.
 
 Em Sara, pequenos chifres escuros começaram a se recompor junto à cabeça.
 
-Will interrompeu o fluxo por um instante.
-
-Olhou.
+Will interrompeu o fluxo por um instante e observou.
 
 **Will, pensa -** *Interessante.*
 
@@ -381,9 +379,7 @@ Compridos.
 
 Os fios avançaram sobre o couro cabeludo, ganharam comprimento e começaram a cair ao redor do rosto, deslizando pelos ombros e sobre a superfície onde ela repousava.
 
-Will olhou para Nari.
-
-O mesmo processo começara.
+Em Nari, o mesmo processo começara.
 
 Vermelho.
 
@@ -441,9 +437,7 @@ E só quando o médico finalmente perdeu espaço suficiente dentro da cabeça pa
 
 **Will, pensa -** *Bonitas.*
 
-Ele observou Sara outra vez.
-
-Depois Nari.
+Ele observou as duas outra vez.
 
 A primeira avaliação claramente precisava de correção.
 
