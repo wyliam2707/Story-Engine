@@ -161,11 +161,15 @@ Will ficou em silêncio.
 
 Sara percebeu primeiro.
 
-**Sara -** Você esqueceu.
+**Sara -** Há quanto tempo você achava que podíamos ficar sem comer?
 
-**Will -** Não exatamente, querida.
+Will demorou um pouco demais para responder.
 
-**Sara -** Você esqueceu de alimentar duas pessoas que quase morreram.
+**Will -** Menos do que isso, querida.
+
+Sara ficou olhando para ele.
+
+**Sara -** Essa resposta é pior do que esquecer, querido.
 
 O estômago dela resolveu reforçar o argumento.
 
@@ -179,7 +183,7 @@ Sara apontou para a porta.
 
 **Sara -** Excelente diagnóstico, doutor.
 
-O Pagoda ainda conservava mantimentos. Will simplesmente não dependia de alimentação comum havia tempo demais para que fome fizesse parte de sua rotina.
+O Pagoda ainda conservava mantimentos. Will simplesmente não dependia de alimentação comum havia tempo demais para usar fome como medida de tempo, e calculara muito mal quanto duas pessoas em recuperação precisariam comer.
 
 Quando voltou com cereais, raízes preservadas, frutas secas e algumas ervas, Sara olhou para a comida com uma concentração que até então reservara para problemas consideravelmente mais perigosos.
 
@@ -197,27 +201,27 @@ Sara continuou mastigando enquanto o observava.
 
 **Sara -** Quanto é “não preciso com frequência”, amor?
 
-**Will -** O suficiente para eu não pensar em comida todos os dias.
+**Will -** O suficiente para eu ter calculado muito mal o intervalo de vocês.
 
 Ela apontou para ele com o que ainda segurava na mão.
 
-**Sara -** Então realmente não passou pela sua cabeça.
+**Sara -** Então você sabia que precisávamos comer.
 
-Will considerou mentir.
+**Will -** Sim, querida.
 
-Por muito pouco tempo.
+**Sara -** Só achou que demoraria mais.
 
-**Will -** Não, querida.
+**Will -** Sim.
 
 Sara pegou outra porção.
 
-**Sara -** Isso continua sendo esquecer.
+**Sara -** Continua sendo uma péssima resposta.
 
 **Will -** Já entendi.
 
 **Nari -** Duvido, querido.
 
-Will acrescentou alimentação à lista mental de coisas que agora precisava lembrar.
+Will acrescentou frequência de alimentação à lista mental de coisas que agora precisava lembrar.
 
 A aula podia esperar alguns minutos.
 
