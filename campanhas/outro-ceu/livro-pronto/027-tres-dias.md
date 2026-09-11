@@ -35,23 +35,27 @@ Will abriu os olhos.
 
 Nari abriu um olho.
 
-**Nari -** O pacto?
+**Nari -** Você parecia confortável, querida.
 
 Sara olhou para ela.
 
-**Sara -** Obviamente, querida.
+**Sara -** Não é como se eu pudesse escolher outro lugar de qualquer forma.
 
-Nari fechou o olho novamente.
+Nari abriu o outro olho e observou o espaço livre na cama.
 
-**Nari -** Imaginei.
+Sara ergueu a mão, mostrando a aliança.
+
+**Sara -** Isto continua aqui, querida. Considere uma questão logística.
+
+Nari pensou por um instante.
+
+**Nari -** Argumento registrado.
 
 Will continuou olhando para o teto.
 
-**Will -** Interessante como ele sempre trabalha enquanto eu durmo.
+**Will -** Vocês fazem isso parecer uma reunião.
 
-As duas abriram os olhos.
-
-**Sara -** Cuidado, querido.
+**Sara -** Melhor para você se continuar assim, amor.
 
 Will decidiu levantar.
 
@@ -129,17 +133,37 @@ Sem reação dolorosa.
 
 Ela fechou a mão.
 
-**Nari -** Melhor mesmo.
+Will observou as duas por alguns segundos.
 
-**Will -** Eu disse.
+**Will -** A resposta de vocês melhora depois que se movimentam.
 
-Sara passou por eles.
+Nari assentiu.
 
-**Sara -** Não fique satisfeito, querido.
+**Nari -** Demônios recuperam melhor quando corpo e energia voltam a circular, querido.
 
-**Will -** Sou o médico. Tenho direito.
+Will pensou sobre aquilo.
 
-**Sara -** Não lembro de ter concordado com isso.
+**Will -** Humanos não exatamente.
+
+Sara virou para ele.
+
+**Sara -** Então pare de nos tratar como humanas, amor.
+
+**Will -** É o que estou fazendo.
+
+Ela sorriu.
+
+**Sara -** Ótimo. Então podemos treinar.
+
+**Will -** Alongar e movimentar.
+
+**Sara -** Isso foi quase um sim.
+
+**Will -** Não foi.
+
+Nari passou por ela.
+
+**Nari -** Aceite a parte que conseguiu, querida.
 
 ***
 
@@ -321,129 +345,205 @@ Nari terminou a própria dose.
 
 **Will -** Vou anotar.
 
-Dormiram cedo.
+Will não guardou tudo quando terminou.
 
-Sara beijou Will antes de virar para o lado.
+Separou um pequeno frasco e apontou para Sara.
 
-Parou.
+**Will -** Deite de barriga para baixo.
 
-Olhou para ele.
+Sara olhou para o frasco.
 
-**Sara -** Pacto.
+Depois para ele.
 
-**Will -** Claro, amor.
+**Sara -** Isso faz parte do tratamento, amor?
 
-Do outro lado, Nari suspirou.
+**Will -** Seus músculos estão recuperando força mais rápido do que estão perdendo tensão. Massagem ajuda a circulação e evita que acumulem rigidez.
 
-**Nari -** Estamos mesmo mantendo essa explicação?
+Sara considerou a explicação.
 
-Sara virou o rosto.
+**Sara -** Médica?
 
-**Sara -** Tem uma melhor, querida?
+**Will -** Médica.
 
-Nari pensou.
+Ela deitou.
+
+Will começou pelos ombros, trabalhando devagar até encontrar os pontos em que a musculatura ainda reagia com tensão. Sara tentou manter uma expressão indiferente durante algum tempo.
+
+Não conseguiu por muito tempo.
+
+**Sara -** Isso é irritantemente bom.
+
+**Will -** Posso parar.
+
+**Sara -** Não seja infantil, amor.
+
+Nari observava da cadeira.
+
+**Nari -** Ela está claramente sofrendo, querido.
+
+Sara abriu um olho.
+
+**Sara -** Sua vez chega, querida.
+
+Chegou.
+
+Quando Will terminou com Sara, Nari ocupou o mesmo lugar sem precisar ser chamada duas vezes.
+
+Nenhuma das duas reclamou do tratamento.
+
+Mais tarde, já na cama, Sara beijou Will antes de virar para o lado.
+
+Ele não comentou.
+
+Nari percebeu.
+
+**Nari -** Nada a declarar, querido?
+
+Sara respondeu antes dele.
+
+**Sara -** Somos casados, querida. Algumas formalidades não precisam de relatório.
+
+Nari considerou aquilo.
 
 Depois beijou Will também.
 
-**Nari -** Não.
+**Nari -** Concordo.
 
-Will não comentou.
+Will olhou para o teto.
 
-As duas olharam para ele.
+**Will -** A reunião terminou?
 
-**Will -** O quê?
-
-**Sara -** Nada, querido.
-
-**Nari -** Continue assim.
+**Sara -** Durma, amor.
 
 ***
 
 No segundo dia, Sara pediu para treinar.
 
-Will negou.
+Dessa vez Will não negou imediatamente.
 
-**Sara -** Amor.
+Terminou o exame, olhou para ela e depois para Nari.
 
-**Will -** Não.
+**Will -** Alongamento primeiro. Trocas leves depois. Sem força total.
 
-**Sara -** Só um pouco.
+Sara sorriu.
 
-**Will -** Não.
+**Sara -** Sabia que você acabaria aprendendo, amor.
 
-**Sara -** Eu estou praticamente recuperada.
+**Will -** Isso ainda é tratamento.
+
+**Sara -** Claro.
+
+Nari levantou.
+
+**Nari -** Naturalmente, querido.
+
+Começaram devagar.
+
+Will conduziu o alongamento, corrigindo amplitude e interrompendo qualquer movimento que puxasse demais a musculatura ainda em recuperação. Depois deixou Sara assumir posição diante dele.
+
+Ela atacou primeiro.
+
+Um golpe simples.
+
+Controlado.
+
+Will desviou o suficiente para deixá-lo passar.
+
+Sara tentou outro.
+
+Depois um terceiro, mudando o ritmo no meio do movimento.
+
+Will aparou e tocou seu cotovelo, alterando apenas alguns centímetros da trajetória.
+
+Sara recuou.
+
+**Sara -** Você está me corrigindo durante a luta.
+
+**Will -** Durante o tratamento.
+
+**Sara -** Irritante.
+
+Nari entrou em seguida.
+
+Não atacou como Sara. Esperou, observou a distância e tentou alcançar Will no momento em que ele reagia ao movimento dela.
+
+Ele simplesmente mudou o apoio.
+
+Nari passou ao lado.
+
+Sara voltou antes que ele terminasse o movimento.
+
+Dessa vez as duas vieram juntas.
+
+Will não atacou nenhuma delas.
+
+Aparou Sara, desviou de Nari e usou o próprio movimento das duas para separá-las antes que precisasse aplicar força.
+
+Sara voltou mais rápido.
+
+Nari também.
+
+Durante alguns minutos, o treino deixou de parecer apenas alongamento.
+
+Não porque Will tivesse aumentado a intensidade.
+
+Elas aumentaram.
+
+Sara começou a variar ângulos. Nari acrescentou pequenas manifestações de magia, nunca fortes o bastante para transformar o exercício em combate real, mas suficientes para testar reação, distância e atenção.
+
+Will continuou acompanhando.
+
+Sem golpeá-las.
+
+Sem deixar que nenhuma perdesse o equilíbrio de forma perigosa.
+
+Quando Sara abriu demais o lado esquerdo, ele segurou seu braço antes que a articulação recebesse o impacto.
+
+Quando a circulação mágica de Nari oscilou, ele interrompeu o movimento antes que ela própria percebesse.
+
+**Will -** Chega.
+
+As duas pararam.
+
+Sara respirava mais rápido.
+
+Nari também.
+
+**Sara -** Você não estava tentando vencer.
+
+**Will -** Não era uma luta.
+
+Nari observou Will por alguns segundos.
+
+**Nari -** E se nós estivéssemos avaliando você, querido?
 
 Will olhou para ela.
 
-Sara corrigiu:
+**Will -** Continuem amanhã.
 
-**Sara -** Estou muito melhor.
+Sara encontrou o olhar de Nari.
 
-**Will -** Sim.
+Nari entendeu.
 
-**Sara -** Então?
+**Sara -** Ele percebeu.
 
-**Will -** Não.
+**Nari -** Sim, querida.
 
-Nari estava sentada perto deles.
+**Sara -** E deixou.
 
-**Nari -** Argumentação impecável, querida.
+**Nari -** Também percebi.
 
-Sara apontou para ela.
+Will já estava pegando os frascos.
 
-**Sara -** Você não ajuda.
+**Will -** Sentem.
 
-Will acabou permitindo movimento controlado.
+Sara fechou os olhos.
 
-Nada de combate.
-
-Nada de impacto.
-
-Sara aceitou porque era isso ou nada.
-
-Nari aproveitou para testar magia.
-
-Pequenas manifestações.
-
-Fogo.
-
-Depois uma barreira curta.
-
-Nada provocou a dor dos primeiros dias.
-
-Will observou as duas.
-
-Não interferiu até Nari aumentar um pouco demais a intensidade.
-
-**Will -** Chega, querida.
-
-A magia desapareceu.
-
-Nari olhou para ele.
-
-**Nari -** Eu podia continuar.
-
-**Will -** Eu sei.
-
-**Nari -** Então por quê?
-
-**Will -** Porque amanhã você ainda precisa estar melhor.
-
-Nari não gostou da resposta.
-
-Obedeceu mesmo assim.
-
-Sara percebeu.
-
-Sorriu.
-
-**Sara -** A paciente perfeita.
-
-**Nari -** Cale a boca, querida.
+**Sara -** Voltamos ao médico.
 
 ***
 
-Naquela tarde, voltaram a avançar rápido.
+Naquela tarde, avançaram rápido novamente.
 
 Dessa vez, quando Will se abaixou para pegá-las, Sara apenas cruzou os braços.
 
@@ -499,6 +599,26 @@ Nari olhou para o chão.
 
 ***
 
+Quando voltaram ao Pagoda naquela noite, Will terminou de preparar os remédios e encontrou Sara deitada de barriga para baixo, esperando.
+
+Ele parou.
+
+**Will -** Porta aberta?
+
+Sara virou o rosto apenas o suficiente para olhar para ele.
+
+**Sara -** Algumas não merecem ser fechadas, amor.
+
+Nari, sentada ao lado, concordou com a cabeça.
+
+**Nari -** Uma avaliação razoável, querido.
+
+Will pegou o frasco.
+
+Nenhum dos três discutiu o tratamento.
+
+***
+
 No terceiro dia, Sara acordou sem rigidez.
 
 Nenhuma.
@@ -540,6 +660,48 @@ Sara virou.
 **Sara -** Traidora.
 
 **Nari -** Observadora, querida.
+
+Depois do café, as duas pediram outra troca.
+
+Will aceitou.
+
+Dessa vez não precisou ensinar o ritmo.
+
+Sara começou mais rápida do que no dia anterior. Nari não esperou sua vez e entrou junto, usando pequenas rajadas para fechar os espaços que Will poderia escolher.
+
+Funcionou melhor.
+
+Não o bastante.
+
+Will se movia pouco, sempre o necessário, e ainda tratava cada abertura como informação médica em vez de oportunidade para atacar. Quando Sara acelerava, ele acompanhava. Quando Nari alterava a magia, ele ajustava a distância. Quando tentavam coordenar os dois movimentos, ele simplesmente deixava de estar onde esperavam.
+
+Depois de algumas trocas, Sara recuou por conta própria.
+
+Nari fez o mesmo.
+
+Nenhuma parecia frustrada.
+
+Estavam pensando.
+
+Sara olhou para Nari.
+
+**Sara -** Nesse estado, não vamos descobrir o limite dele.
+
+**Nari -** Não, querida.
+
+Will ouviu.
+
+**Will -** Ótimo.
+
+As duas olharam para ele.
+
+**Will -** Significa que terminaram antes de transformar recuperação em lesão.
+
+Sara soltou o ar pelo nariz.
+
+**Sara -** Médico.
+
+**Nari -** Sempre, aparentemente.
 
 Will examinou Sara primeiro.
 
@@ -647,7 +809,7 @@ Sara olhou para ela.
 
 Nari ajeitou o braço ao redor de Will.
 
-**Nari -** Foi o pacto, querida.
+**Nari -** Eficiência, querida.
 
 Sara ficou em silêncio.
 
