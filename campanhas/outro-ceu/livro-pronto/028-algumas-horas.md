@@ -111,7 +111,7 @@ Sara virou-se para Nari.
 
 O barqueiro apontou para alguns pontos no mapa.
 
-**Barqueiro -** Vamos costeando parte do caminho. Param aqui, depois aqui. Depois atravessamos essa faixa.
+**Barqueiro -** Vamos costeando parte do caminho. Paramos aqui, depois aqui. Depois atravessamos essa faixa.
 
 Nari acompanhou.
 
@@ -291,7 +291,7 @@ Will já estava examinando o mapa.
 
 **Nari -** Então como?
 
-Will apontou para a outra margem inexistente.
+Will guardou o mapa no inventário.
 
 **Will -** Eu levo vocês.
 
@@ -309,65 +309,105 @@ Nari baixou lentamente o mapa.
 
 **Nari -** Parte?
 
-Will guardou o mapa no inventário.
+Will olhou novamente para o porto.
 
-**Will -** Voando é mais simples.
+**Will -** Antes preciso comprar algumas coisas.
 
-Silêncio.
+**Sara -** Para atravessar o lago?
 
-Sara olhou para ele.
+**Will -** Mantimentos. E vi algumas ervas no mercado.
 
-Depois para as costas dele.
+Sara olhou para Nari.
 
-Depois novamente para o rosto.
+**Sara -** Naturalmente.
 
-**Sara -** Amor.
+Will apontou para uma pequena praça perto das bancas.
 
-**Will -** Sim?
+**Will -** Esperem aqui?
 
-**Sara -** Você voa.
+**Sara -** Nós conseguimos sobreviver alguns minutos sem você, amor.
 
-**Will -** Sim.
+**Will -** Imaginei.
 
-Nari ficou alguns segundos sem dizer nada.
+Ele desapareceu entre as barracas.
 
-**Nari -** Claro que voa, querido.
+Sara esperou até não conseguir mais vê-lo.
 
-Will olhou para ela.
+Então ergueu a mão.
 
-**Nari -** Neste ponto, seria estranho se não voasse.
+A aliança permaneceu onde sempre estivera.
+
+**Sara -** Mesmo com isto, vão contestar.
+
+Nari olhou para a própria mão.
+
+**Nari -** Vão, querida.
+
+Sara soltou o ar.
+
+**Sara -** Minha mãe vai querer me deixar viúva antes que eu termine de explicar.
+
+**Nari -** Provavelmente.
+
+Sara virou lentamente o rosto para ela.
+
+**Sara -** Obrigada.
+
+**Nari -** Você prefere que eu minta, querida?
+
+**Sara -** Não.
+
+Nari tornou a olhar para a aliança.
+
+**Nari -** Ele é casado conosco. Mas ainda não é membro da Casa.
+
+**Sara -** Sua mãe não pode tocar em um membro da minha Casa.
+
+**Nari -** E a sua não pode tocar em um membro da minha.
+
+Sara olhou na direção do mercado.
+
+**Sara -** Mas ele ainda não pertence a nenhuma das duas.
+
+**Nari -** Não.
+
+Alguns segundos passaram.
+
+**Sara -** Você sabe o que isso significa.
+
+Nari acompanhou o olhar dela.
+
+**Nari -** Sei, querida.
+
+Will reapareceu pouco depois com uma pequena sacola numa mão e um embrulho de ervas na outra.
+
+As duas não continuaram a conversa.
 
 ***
 
-Foram até uma região afastada do porto.
+Saíram da cidade e seguiram pela margem até encontrarem uma região escondida do porto.
 
-Árvores escondiam o lugar da estrada e das embarcações.
+Will entrou entre as árvores e parou numa clareira larga.
 
-Will parou no centro de uma clareira.
+Sara cruzou os braços.
 
-Sara esperou.
+**Sara -** Então, amor?
 
-Nari também.
+Will respirou fundo.
 
 A energia dele mudou.
 
-Não explodiu.
-
-Não pressionou o ambiente.
-
-Simplesmente começou a ocupar o corpo de outra maneira.
-
 Linhas apareceram sobre os braços.
 
-Escamas surgiram junto aos ombros, avançando em pequenas regiões pela pele.
+Escamas surgiram junto aos ombros e avançaram por pequenas regiões da pele.
 
 Nari deu um passo mais perto.
 
-**Nari -** Arte do Dragão.
+**Nari -** O que é isso, querido?
 
-Will assentiu.
+Will olhou para o próprio braço.
 
-**Will -** Parcial, querida.
+**Will -** Arte do Dragão.
 
 Sara abriu a boca para perguntar.
 
@@ -383,7 +423,7 @@ O ar se moveu.
 
 Sara ficou olhando.
 
-**Sara -** Você tinha isso.
+**Sara -** Você tinha asas.
 
 **Will -** Tenho.
 
@@ -411,25 +451,11 @@ Sara apontou para ele.
 
 **Sara -** Isso não ajudou.
 
-Nari aproximou-se das asas sem tocar.
-
-Observou a estrutura.
-
-Não eram demoníacas.
-
-Ela sabia disso imediatamente.
-
-A forma, a articulação, a distribuição de energia, tudo era diferente.
+Nari aproximou-se sem tocar.
 
 **Nari -** Isso sustenta três pessoas?
 
 **Will -** Facilmente, querida.
-
-Sara olhou para Nari.
-
-**Sara -** Não pergunte peso.
-
-**Nari -** Eu não ia.
 
 Will estendeu os braços.
 
@@ -441,13 +467,7 @@ Sara percebeu.
 
 Sara suspirou e se aproximou.
 
-**Sara -** O pacto vai me pagar por isso.
-
-Will a pegou.
-
 Nari veio para o outro lado sem esperar convite.
-
-Sara olhou.
 
 **Nari -** Eficiência, querida.
 
@@ -455,21 +475,7 @@ Sara olhou.
 
 Will abriu as asas.
 
-Sara apertou imediatamente o braço ao redor do pescoço dele.
-
-**Sara -** Amor.
-
-**Will -** Sim?
-
-**Sara -** Avise antes.
-
-Will olhou para Nari.
-
-Ela assentiu.
-
-**Nari -** Concordo, querido.
-
-Will flexionou as pernas.
+**Sara -** Avise antes, amor.
 
 **Will -** Agora.
 
@@ -477,224 +483,150 @@ E saltou.
 
 ***
 
-A primeira batida das asas levou os três acima das árvores.
+As primeiras batidas das asas levaram os três acima das árvores.
 
-A segunda apagou a clareira.
+Logo estavam sobre o lago.
 
-A terceira colocou o lago sob eles.
+A margem começou a recuar atrás deles com velocidade. Ainda era possível acompanhar barcos, ondas e pequenas embarcações lá embaixo. O voo era rápido, mas o mundo ainda fazia sentido.
 
-Sara apertou os braços.
+Sara olhou para frente.
 
-**Sara -** Isso ainda foi rápido demais!
+A margem oposta continuava inexistente.
 
-**Will -** Eu avisei, amor.
+**Sara -** Quanto tempo assim, amor?
 
-**Sara -** Avisou uma palavra!
+Will observou o horizonte.
 
-Do outro lado, Nari estava olhando para baixo.
+**Will -** Muito.
 
-O porto encolhia.
+Nari ergueu o rosto.
 
-Barcos que pareciam grandes alguns minutos antes tornavam-se pequenas formas sobre a água.
+**Nari -** Então existe outra velocidade, querido.
 
-A margem recuou.
+Will olhou para as duas.
 
-**Nari -** Quanto tempo, querido?
+**Will -** Segurem-se.
 
-Will ganhou mais altitude.
+Sara apertou o braço ao redor do pescoço dele.
 
-**Will -** Algumas horas.
+Nari fez o mesmo.
 
-Sara ouviu.
+A energia de Will começou a se espalhar.
 
-Olhou para o lago.
+Primeiro envolveu seu corpo.
 
-Depois para ele.
+Depois as duas.
 
-**Sara -** Quinze dias.
+O vento desapareceu.
 
-**Will -** Algumas horas.
+Não diminuiu.
 
-**Sara -** Você entende por que isso é irritante?
+Desapareceu.
 
-**Will -** Não.
+Cabelos e roupas ficaram imóveis enquanto o lago continuava correndo abaixo deles.
 
-Nari riu.
+Nari passou os olhos pela camada quase invisível de energia.
 
-**Sara -** Não ajude, querida.
+**Nari -** Para o vento?
 
-O vento aumentou.
+**Will -** Vento e pressão.
 
-Will inclinou as asas.
+Sara virou o rosto para ele.
 
-E então começou realmente a voar.
+**Sara -** Pressão?
 
-Sara sentiu a diferença imediatamente.
+Will voltou os olhos para frente.
 
-Até ali estavam subindo.
+A expressão havia mudado.
 
-Agora estavam viajando.
+**Will -** Segurem firme.
 
-A água começou a correr abaixo deles.
+A energia cresceu.
 
-Nari acompanhou a velocidade por alguns segundos e desistiu de tentar estimar.
+As asas se ajustaram.
 
-**Nari -** Querido.
+E ele acelerou.
 
-**Will -** Sim?
+O porto desapareceu.
 
-**Nari -** Isso também é “bastante”?
+As ondas perderam forma.
 
-Will pensou.
+A superfície do lago tornou-se uma faixa azul correndo abaixo deles rápido demais para os olhos acompanharem.
 
-Sara interrompeu.
+Sara sentiu os braços de Will ficarem mais rígidos ao redor das duas.
 
-**Sara -** Não responda.
+Nari percebeu a respiração dele mudar.
 
-***
+Não havia mais conversa casual.
 
-Depois da primeira hora, as reclamações diminuíram.
+Os olhos permaneciam presos ao horizonte, a energia ao redor delas constante enquanto as asas trabalhavam numa precisão que até então nenhuma das duas tinha visto ser necessária.
 
-Não porque Sara tivesse ficado satisfeita.
-
-Ela deixou isso claro.
-
-Duas vezes.
-
-Mas reclamar exigia competir com o vento.
-
-Nari encontrou uma posição mais confortável primeiro.
-
-Sara percebeu.
-
-**Sara -** Você está confortável, querida?
-
-**Nari -** Não.
-
-Ela ajeitou a cabeça contra o ombro de Will.
-
-Sara olhou.
-
-**Sara -** Claro.
-
-Alguns minutos depois, Sara fez praticamente a mesma coisa.
-
-Nari percebeu.
-
-Não comentou.
-
-Isso pareceu irritar Sara ainda mais.
-
-Will continuou voando.
-
-A respiração não mudou.
-
-O movimento das asas seguia regular.
-
-Nem mesmo depois de horas havia sinal da dificuldade que Sara esperava encontrar.
-
-Ela olhou para o rosto dele.
+Sara observou o rosto dele por alguns segundos.
 
 **Sara -** Amor.
 
 **Will -** Sim?
 
-**Sara -** Está cansado?
+**Sara -** Quanto tempo?
 
-**Will -** Um pouco.
+Will não desviou os olhos.
 
-Sara estreitou os olhos.
-
-**Sara -** Quanto é “um pouco”?
-
-**Will -** Menos do que você espera.
-
-Nari falou sem levantar a cabeça.
-
-**Nari -** Essa resposta eu acredito, querido.
+**Will -** Algumas horas.
 
 ***
 
-A outra margem apareceu no fim da tarde.
+Já era noite quando a outra margem apareceu.
 
-Primeiro como uma linha escura.
+Will perdeu velocidade antes de chegar à costa.
 
-Depois árvores.
+A proteção ao redor delas se desfez aos poucos e o vento voltou a tocar seus rostos.
 
-Pedras.
+Ele desceu sobre a margem e pousou na areia úmida.
 
-Elevações.
-
-Nari percebeu antes.
-
-Ergueu a cabeça.
-
-**Nari -** Terra.
-
-Sara olhou.
-
-Alguma coisa mudou na expressão dela.
-
-Will notou.
-
-**Will -** Reconhece, amor?
-
-Sara observou por alguns segundos.
-
-**Sara -** Ainda não.
-
-Nari também procurava referências.
-
-**Nari -** Mas estamos no lado certo, querido.
-
-Will começou a perder altitude.
-
-As árvores cresceram.
-
-O lago deixou de ocupar todo o mundo.
-
-Quando seus pés finalmente tocaram o solo, o sol já estava baixo.
-
-Will colocou Nari no chão.
+Ficou parado por um instante antes de colocar Nari no chão.
 
 Depois Sara.
 
-Nenhuma das duas se afastou imediatamente.
+O suor escorria pelo rosto e pelo pescoço. A roupa estava úmida nas costas, e sua respiração demorou alguns momentos para voltar ao ritmo habitual.
 
-Sara olhou para trás.
+Sara olhou para ele.
 
-A água se estendia até desaparecer.
+Nari também.
 
-Quinze dias.
+Will abriu e fechou os ombros uma vez.
 
-Agora estava atrás deles.
+**Will -** Vou montar o Pagoda.
 
-Ela voltou-se para Will.
+Nenhuma das duas discutiu.
 
-**Sara -** Algumas horas.
+Pouco depois, a construção estava pronta entre as árvores próximas à margem.
 
-**Will -** Eu disse, amor.
+Will deixou as compras dentro, separou as ervas e voltou para o lago.
 
-Sara ficou olhando para ele.
+**Will -** Preciso de um banho.
 
-**Sara -** Estou começando a não gostar dessa frase.
+Sara observou-o sair.
 
-Nari dobrou o mapa.
+Nari ficou ao lado dela.
 
-**Nari -** Eu já não gostava, querida.
+Do interior do Pagoda, as duas podiam vê-lo na água escura, lavando o suor da travessia sob a luz da lua.
 
-Will observou a luz restante.
+Sara permaneceu alguns segundos em silêncio.
 
-Depois as árvores próximas à margem.
+**Sara -** Pronta, querida?
 
-**Will -** Acampamos aqui.
+**Nari -** Não, amor.
 
-Sara e Nari trocaram um olhar.
+**Sara -** Ótimo. Eu também não.
 
-Dessa vez nenhuma reclamou.
+Nari olhou discretamente para Will.
 
-O lago ainda estava perto.
+**Nari -** Bom... nosso marido não é feio.
 
-A fronteira também.
+Sara acompanhou o olhar.
 
-E, depois de algumas horas nos braços do marido, ambas pareciam estranhamente pouco interessadas em voltar a caminhar.
+**Sara -** Esse nunca foi o problema.
+
+**Nari -** Eu só não imaginei você presente, querida.
+
+**Sara -** Nem eu você, querida.
