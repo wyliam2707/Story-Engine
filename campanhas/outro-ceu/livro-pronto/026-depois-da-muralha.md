@@ -1,5 +1,6 @@
 # Capítulo 26
 ## Depois da muralha
+<!-- revisado: 2026-09-12 -->
 
 A cidade desapareceu atrás deles.
 
@@ -31,7 +32,7 @@ Will já havia deixado o caminho principal para trás e avançava por terreno ir
 
 **Nari -** Querido, há quanto tempo você consegue correr assim?
 
-Will pensou.
+Will demorou um instante.
 
 **Will -** Bastante.
 
@@ -97,7 +98,7 @@ As duas responderam juntas.
 
 **Nari -** Nada, querido.
 
-Will decidiu não perguntar.
+Will não perguntou.
 
 Continuou correndo.
 
@@ -141,35 +142,23 @@ Sara olhou para ela.
 
 **Nari -** Estou do lado que termina mais rápido.
 
-Will serviu o remédio.
+Sara reconheceu o cheiro antes que Will servisse.
 
-O cheiro chegou primeiro.
+**Sara -** De novo?
 
-Sara encarou o copo.
+**Will -** De novo, amor.
 
-**Sara -** Um dia vou descobrir alguma coisa que você faz mal, querido.
+Nari tomou primeiro.
 
-**Will -** Tenho várias.
+Fez a mesma careta do dia anterior.
 
-**Sara -** Diga uma.
+**Nari -** Continua horrível.
 
-**Will -** Não.
+**Will -** Continua funcionando.
 
-Nari bebeu a própria dose.
+Sara bebeu o dela de uma vez.
 
-Fez uma careta.
-
-**Nari -** Covarde, querido.
-
-**Will -** Prudente.
-
-Sara tomou o remédio de uma vez.
-
-**Sara -** Horrível.
-
-**Will -** Funciona, amor.
-
-**Sara -** Essa continua sendo sua pior defesa.
+**Sara -** Continuo odiando essa defesa.
 
 Depois vieram os exames.
 
@@ -183,17 +172,23 @@ Quando terminou, Will passou para ela.
 
 **Sara -** Quanto?
 
-**Will -** Melhor.
+Will continuou examinando Nari.
 
-**Sara -** Número, querido.
+**Will -** Se quer um número, não tenho um que seja honesto. A reconstrução está estável, a musculatura está respondendo melhor e a circulação de energia está acompanhando. O que ainda falta é resistência.
 
-Will continuou verificando Nari.
+Sara ficou mais atenta.
 
-**Will -** Seu corpo continua não sendo uma balança, amor.
+**Sara -** Posso lutar?
+
+**Will -** Pode.
+
+Ela esperou.
+
+**Will -** Eu não disse que quero que lute.
 
 Sara apontou para ele.
 
-**Sara -** Está vendo? Ele guarda as respostas ruins.
+**Sara -** Agora parece médico de novo.
 
 Nari sorriu.
 
@@ -207,7 +202,7 @@ Nada elaborado.
 
 Ninguém falou muito sobre os guardas.
 
-Para Will, aparentemente, aquilo já havia acabado.
+Will não voltou ao assunto.
 
 Sara percebeu isso primeiro.
 
@@ -223,13 +218,25 @@ Ela ficou olhando.
 
 **Sara -** Um deles estava com o braço torto.
 
-**Will -** Cotovelo, querida.
+**Will -** Cotovelo deslocado, querida.
 
-Nari parou de comer.
-
-Sara encarou Will.
+Sara ficou olhando para ele.
 
 **Sara -** Isso realmente faz diferença para você.
+
+**Will -** Bastante.
+
+Nari pousou o que estava comendo.
+
+**Nari -** E os outros?
+
+Will olhou para ela.
+
+**Will -** Contusões, algumas articulações deslocadas e dois desacordados. O homem da lança vai mancar por alguns dias se não tratar o joelho direito. Nenhum estava em risco quando saímos.
+
+Sara permaneceu alguns segundos em silêncio.
+
+**Sara -** Você sabia disso enquanto estava batendo neles?
 
 **Will -** Sou médico.
 
