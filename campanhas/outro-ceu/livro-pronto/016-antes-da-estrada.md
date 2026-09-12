@@ -1,5 +1,6 @@
 # Capítulo 16
 ## Antes da estrada
+<!-- revisado: 2026-09-12 -->
 
 A primeira coisa que Will fez depois de descobrir que estavam perdidos foi não procurar uma estrada.
 
@@ -309,7 +310,7 @@ Sara não sabia se aquilo a tranquilizava ou irritava.
 
 Talvez os dois.
 
----
+***
 
 A noite chegou sem que descobrissem mais nada sobre onde estavam.
 
@@ -330,8 +331,6 @@ Grande.
 Nenhum dos três comentou novamente a escolha arquitetônica de Will.
 
 Sara entrou primeiro. Nari ocupou o outro lado. Will deitou no meio.
-
-Aparentemente aquela parte já não exigia reunião.
 
 Durante alguns minutos, ninguém dormiu. Will permaneceu de costas, olhos fechados, respirando devagar.
 
