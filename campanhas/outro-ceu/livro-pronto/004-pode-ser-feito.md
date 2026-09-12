@@ -1,5 +1,6 @@
 # Capítulo 4
 ## Pode ser feito
+<!-- revisado: 2026-09-12 -->
 
 Will não começou por Sara.
 
@@ -65,7 +66,7 @@ As almas delas sabiam.
 
 Então ele as seguiu, pouco a pouco, nas duas.
 
-Trabalhar daquela maneira exigia uma atenção diferente da medicina comum. Em vez de tratar um corpo e depois o outro, Will mantinha duas reconstruções abertas ao mesmo tempo. Enquanto uma estrutura se consolidava em Sara, ele sustentava Nari. Quando a resposta de Nari exigia correção, reduzia o avanço de Sara sem interrompê-la por completo. Energia circulava entre suas mãos em quantidades diferentes a cada momento, ajustada conforme a necessidade.
+Trabalhar daquela maneira exigia manter duas reconstruções abertas ao mesmo tempo. Enquanto uma estrutura se consolidava em Sara, Will sustentava Nari. Quando Nari exigia correção, reduzia o avanço de Sara sem interrompê-la. A energia mudava entre as mãos conforme a necessidade.
 
 Era menos parecido com construir duas casas.
 
@@ -93,13 +94,9 @@ Uma coisa de cada vez.
 
 Duas pacientes ao mesmo tempo.
 
-A energia de Madeira continuou descendo do Dan.
+No Éter, cada parcela de energia importava.
 
-No Éter, cada parcela importava.
-
-Will sabia disso.
-
-Ignorou por enquanto.
+Will ignorou isso por enquanto.
 
 Havia uma diferença importante entre gastar energia demais e perder uma paciente porque decidiu economizar.
 
@@ -167,7 +164,7 @@ O problema era que reconstruir dois corpos quase do nada também era.
 
 Will começou a sentir a diferença na precisão. Não era perda de controle, mas peso.
 
-Cada ajuste exigia um pouco mais de concentração. Cada fluxo precisava ser confirmado antes de avançar. Manter os dois vínculos ativos ao mesmo tempo parecia cada vez menos natural e cada vez mais algo que ele precisava conscientemente sustentar.
+Cada ajuste exigia mais concentração. Manter os dois vínculos ativos ao mesmo tempo já precisava ser feito conscientemente.
 
 Parar ainda não era opção.
 
@@ -265,23 +262,15 @@ Até então, quase toda a energia havia sido empregada para restaurar o essencia
 
 A reconstrução começou a aparecer diante dos olhos.
 
-Primeiro musculatura externa e tecido conjuntivo terminaram de preencher regiões ainda incompletas.
+Primeiro musculatura externa e tecido conjuntivo terminaram de preencher as regiões incompletas. Depois veio a camada subcutânea.
 
-Depois veio a camada subcutânea.
+A pele avançou em manchas e linhas, pequenas regiões se encontrando e fechando umas sobre as outras.
 
-A pele começou a avançar, não como uma onda uniforme, mas em manchas e linhas, pequenas regiões que se encontravam e fechavam umas sobre as outras.
-
-Will diminuiu ainda mais a velocidade.
-
-Era tentador acelerar.
+Will diminuiu ainda mais a velocidade. Era tentador acelerar.
 
 Não acelerou.
 
-A última coisa que queria depois de tantas horas era produzir um defeito porque estava cansado demais para ter paciência durante os minutos finais.
-
-Observou Sara. Uma região do braço terminou de se cobrir, depois o ombro e o pescoço.
-
-Ao mesmo tempo, em Nari, a pele avançava pelo torso e pelas pernas.
+Em Sara, o braço terminou de se cobrir, depois o ombro e o pescoço. Em Nari, a pele avançava pelo torso e pelas pernas.
 
 As duas estavam pálidas, não da mesma maneira, mas aquilo podia esperar.
 
