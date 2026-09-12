@@ -1,5 +1,6 @@
 # Capítulo 2
 ## O preço de sobreviver
+<!-- revisado: 2026-09-12 -->
 
 Ótimo.
 
@@ -49,7 +50,7 @@ Sara lembrava daquela parte com uma clareza que dispensava interpretação. Não
 
 Houvera luta. Dor. A relíquia danificada. Nari próxima. A escolha entre usar alguma coisa que poderia matá-las ou esperar algo que certamente faria isso.
 
-Sara lembrava de ativá-la.
+Sara lembrava-se de tê-la ativado.
 
 Depois o mundo desaparecera.
 
@@ -181,7 +182,7 @@ Sara quase teria rido se tivesse uma boca disponível.
 
 **Sara, pensa -** *Claro que não sairia de graça.*
 
-Um homem desconhecido a encontrava praticamente morta no nada, dizia que podia reconstruí-la e ainda pretendia salvar Nari.
+Um homem desconhecido a encontrara praticamente morta no nada, dizia que podia reconstruí-la e ainda pretendia salvar Nari.
 
 E queria alguma coisa em troca.
 
