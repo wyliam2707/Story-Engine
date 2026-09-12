@@ -1,6 +1,8 @@
 # Capítulo 22
 ## Negócio feito
 
+<!-- revisado: 2026-09-12 -->
+
 A praça do mercado ficava poucas ruas depois do portão.
 
 Sara e Nari começaram pelas perguntas.
@@ -29,13 +31,13 @@ O carroceiro diante dela coçou a barba.
 
 **Carroceiro -** Daquelas terras mesmo? Não sei. Algumas semanas, talvez. Aqui não é rota boa para elas.
 
-**Nari -** E notícias?
+**Nari -** E ouviu alguma coisa recente das fronteiras? Movimento de tropas, rotas fechadas, caravanas desviando?
 
 **Carroceiro -** Só conversa de estrada.
 
 Sara sustentou o olhar.
 
-**Sara -** Sobre guerra?
+**Sara -** Principalmente qualquer rumor sobre conflito nas terras demoníacas.
 
 O homem deu de ombros.
 
@@ -121,63 +123,61 @@ O comerciante pediu um preço pelos recipientes que fez Sara esperar uma discuss
 
 Will não discutiu.
 
-Apenas pegou um dos frascos, examinou o vidro e então olhou para a mão do homem apoiada sobre o balcão.
+Pegou um dos frascos e o virou contra a luz.
 
-**Will -** Seu pulso dói quando fecha a mão?
+Depois outro.
 
-O comerciante parou.
+Passou o polegar pela borda de um terceiro.
 
-**Comerciante -** Às vezes.
+**Will -** Não por esse preço.
 
-**Will -** Quase sempre.
+O comerciante cruzou os braços.
 
-O homem fechou a mão por reflexo.
+**Comerciante -** O vidro é bom.
 
-Fez uma careta.
+**Will -** Alguns são.
+
+Ele mostrou o primeiro.
+
+**Will -** Este tem espessura irregular perto da base.
+
+Pegou o segundo.
+
+**Will -** Este tem bolhas demais no vidro.
+
+Por fim ergueu o terceiro.
+
+**Will -** E esta borda não vai vedar direito depois de aquecida.
+
+O comerciante pegou o frasco de volta.
+
+**Comerciante -** Você é vidreiro agora?
+
+**Will -** Sou boticário. Gosto que os recipientes não estraguem o que coloco dentro.
 
 Sara olhou para Nari.
 
 **Sara -** Começou.
 
-Nari respondeu baixo.
+Nari acompanhou Will separando os frascos que aceitava dos que devolvia.
 
-**Nari -** Ainda não sabemos se isso é negociação ou consulta, amor.
+**Nari -** Dessa vez é negociação, querida.
 
-**Sara -** É exatamente o problema.
+**Sara -** Não sei se isso melhora.
 
-Will pediu a mão do comerciante, pressionou alguns pontos e fez o homem repetir dois movimentos.
+O comerciante defendeu a mercadoria.
 
-**Will -** Não é só o pulso. Está começando aqui.
+Will respondeu apontando quais recipientes serviriam para ingredientes secos, quais aceitariam líquidos frios e quais ele não usaria para nada que pretendesse conservar por mais de alguns dias.
 
-Tocou o antebraço.
+A discussão durou alguns minutos.
 
-**Will -** Se continuar igual, vai perder força na mão.
-
-O comerciante olhou para ele de maneira completamente diferente.
-
-**Comerciante -** Consegue tratar?
-
-**Will -** Consigo melhorar. O resto depende de você parar de fazer exatamente o mesmo movimento durante doze horas todos os dias.
-
-O homem olhou ao redor da própria loja.
-
-**Comerciante -** Essa parte é mais difícil.
-
-**Will -** Então vai pagar em dor.
-
-Não havia ameaça na voz.
-
-Era apenas diagnóstico.
-
-Will preparou uma pequena mistura usando algo que já carregava, explicou como aplicar e mostrou dois movimentos para aliviar a tensão.
-
-Quando terminou, o preço dos recipientes caiu quase pela metade.
+Quando terminou, o preço havia caído bastante e Will ainda escolhera exatamente quais peças levaria.
 
 Do lado de fora, Sara olhou para a sacola.
 
-**Sara -** Você acabou de comprar potes com o braço do homem.
+**Sara -** Você discutiu com o homem sobre potes por quase dez minutos.
 
-**Will -** Com conhecimento sobre o braço dele, querida.
+**Will -** Recipientes, querida.
 
 **Nari -** É uma diferença importante.
 
@@ -261,10 +261,6 @@ Apenas continuou andando.
 
 Nari observou-o por alguns segundos.
 
-Havia experiência demais naquele homem para alguém que parecia tão comum.
-
-Ainda não sabia onde colocar isso.
-
 Também não era o problema mais urgente daquele dia.
 
 Encontraram Orven no fim da tarde.
@@ -305,7 +301,7 @@ Orven colocou as mãos sobre o balcão.
 
 A negociação durou mais do que Sara gostaria.
 
-Will não conseguiu transformar o caldeirão em presente, embora tenha chegado perto demais para o gosto de Orven. Acabou oferecendo moedas, uma pequena quantidade de um preparado que o homem queria experimentar para as costas e instruções específicas sobre como usá-lo.
+Will não conseguiu transformar o caldeirão em presente, embora tenha chegado perto demais para o gosto de Orven. Acabou oferecendo moedas, uma pequena quantidade de uma pasta de plantas que o homem poderia usar nas costas e instruções específicas sobre como aplicá-la.
 
 Em troca levou o caldeirão, duas conchas, uma colher longa, panos de filtragem, alguns recipientes e uma caixa de madeira apropriada para transporte.
 
@@ -317,11 +313,29 @@ Depois para Will.
 
 Will ergueu o caldeirão.
 
-**Will -** Se suas costas melhorarem, não.
+**Will -** Amanhã suas costas vão discordar.
 
-**Orven -** E se não melhorarem?
+Orven ergueu uma sobrancelha.
 
-**Will -** Volto e cobro pela segunda consulta.
+**Orven -** Tão confiante assim?
+
+**Will -** Bastante.
+
+Orven olhou para o pequeno recipiente com a pasta.
+
+**Orven -** Quanto eu passo?
+
+Will mostrou com a ponta do dedo.
+
+**Will -** Isso. Antes de dormir.
+
+**Orven -** E se funcionar bem, uso mais amanhã?
+
+**Will -** Não.
+
+**Orven -** Por quê?
+
+**Will -** Porque eu disse quanto usar. Mais não significa melhor.
 
 Orven ficou alguns segundos em silêncio.
 
@@ -329,23 +343,21 @@ Então começou a rir.
 
 Nari esperou o som diminuir.
 
-**Nari -** Orven.
-
-O homem voltou a atenção para ela.
-
-**Nari -** Quem nesta cidade conhece rotas longas?
+**Nari -** Orven, se caravanas das terras demoníacas não passam diretamente por aqui, onde devemos procurar gente que conheça as rotas mais longas para o sul?
 
 A expressão dele mudou.
 
-**Orven -** Se querem comércio, procurem mercadores. Se querem caminho, procurem gente que vive dele.
+**Orven -** Se querem comércio, procurem mercadores. Se querem caminho de verdade, procurem quem depende da estrada mesmo quando não está vendendo nada. Caravaneiro, mensageiro, barqueiro. Hospedeiro também sabe muita coisa. Passa a vida ouvindo de onde as pessoas vieram e para onde vão.
 
-**Sara -** Caravaneiros.
+Sara assentiu devagar.
 
-**Orven -** Caravaneiros, mensageiros, barqueiros. Hospedeiros também sabem muita coisa. Gente que precisa saber onde uma estrada termina.
+**Sara -** Então precisamos de quem conheça mais de uma rota, não apenas a própria.
 
-Nari assentiu.
+**Orven -** Exatamente.
 
-**Nari -** E notícias das terras demoníacas?
+Nari apoiou uma mão no balcão.
+
+**Nari -** E sobre as terras demoníacas? Estamos ouvindo rumores de fronteiras mais tensas e comércio mais lento. Alguma coisa chegou até aqui que pareça mais confiável do que conversa de estrada?
 
 Orven apoiou os braços no balcão.
 
@@ -359,15 +371,7 @@ Não era mentira.
 
 Orven pareceu aceitar.
 
-**Orven -** Então eu procuraria rápido.
-
-Sara ficou imóvel.
-
-**Sara -** Por quê?
-
-O homem deu de ombros.
-
-**Orven -** Porque quando mercadores começam a discutir se uma fronteira vai fechar, eu prefiro estar do lado certo antes de descobrir quem estava inventando história.
+**Orven -** Então eu procuraria rápido. Quando mercadores começam a discutir se uma fronteira vai fechar, eu prefiro estar do lado certo antes de descobrir quem estava inventando história. Não ouvi nada que eu chamaria de confirmação, mas ouvi gente demais mudando rota para ignorar completamente.
 
 Silêncio.
 
@@ -393,7 +397,7 @@ Cada rumor fazia o tempo parecer maior.
 
 Orven apontou para a praça.
 
-**Orven -** A Coroa de Cobre. Quase todo mundo que segue para o sul passa por lá alguma vez.
+**Orven -** A Coroa de Cobre. Quase todo mundo que segue para o sul passa por lá alguma vez. Se ninguém ali souber orientar vocês, pelo menos vai saber quem perguntar.
 
 Nari assentiu.
 
