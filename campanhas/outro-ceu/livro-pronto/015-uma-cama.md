@@ -1,5 +1,6 @@
 # Capítulo 15
 ## Uma cama
+<!-- revisado: 2026-09-12 -->
 
 Na manhã seguinte, comeram antes de qualquer tentativa dimensional.
 
@@ -21,7 +22,7 @@ Agora tinham visto o céu.
 
 Will tomou posição diante das duas e começou a circular energia. Sara e Nari permaneceram próximas, acompanhando o movimento sem interferir.
 
-A marca respondeu.
+O feitiço respondeu.
 
 A primeira linha surgiu no espaço.
 
@@ -114,8 +115,6 @@ E criava outra.
 As duas começaram a examinar os arredores, procurando montanhas, construções, estradas ou qualquer coisa que transformasse aquele lugar numa posição conhecida.
 
 Nada ajudou.
-
-Will percebeu.
 
 **Will -** Vocês não sabem onde estamos, queridas.
 
