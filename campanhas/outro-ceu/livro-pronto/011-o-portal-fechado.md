@@ -1,25 +1,32 @@
 # Capítulo 11
 ## O portal fechado
+<!-- revisado: 2026-09-12 -->
 
-A conclusão de que os três eram servos do próprio casamento não tornou o vínculo mais compreensível.
+A conclusão a que haviam chegado, de que os três eram servos do próprio casamento, não tornou o vínculo mais compreensível.
 
 Só lhe deu um nome pior.
 
 Nari permaneceu algum tempo olhando para a marca em sua mão.
 
-**Nari -** Então, até agora, sabemos duas coisas.
+**Nari -** Então, até agora, sabemos três coisas.
 
 Sara apoiou os braços sobre a mesa.
 
-**Sara -** Não aceita distância.
+**Sara -** Dormir separados não funciona.
 
 Will passou o polegar sobre a própria aliança.
 
-**Will -** E não aceita que tratemos o casamento como se não existisse, queridas.
+**Will -** Certos vocativos aparecem sozinhos, querida.
 
-Nari assentiu.
+Sara olhou para ele.
 
-Era pouco para algo entranhado nas almas dos três, mas eram as duas regras que tinham conseguido observar com clareza.
+**Sara -** Excelente demonstração, amor.
+
+Nari passou o polegar sobre a própria aliança.
+
+**Nari -** E não conseguimos negar o casamento, queridos.
+
+Era pouco para algo entranhado nas almas dos três, mas eram os três efeitos que tinham conseguido observar com clareza.
 
 Sara olhou para a própria marca.
 
@@ -47,7 +54,7 @@ Will considerou aquilo por alguns segundos.
 
 Então deitou no espaço que haviam deixado entre as duas.
 
----
+***
 
 Na manhã seguinte, Will acordou olhando para o teto.
 
