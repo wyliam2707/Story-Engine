@@ -1,5 +1,6 @@
 # Capítulo 28
 ## Algumas horas
+<!-- revisado: 2026-09-12 -->
 
 O lago apareceu por inteiro pouco depois do meio-dia.
 
@@ -119,7 +120,7 @@ Nari acompanhou.
 
 O homem riu.
 
-**Barqueiro -** Se tiver um barco bom, uma tripulação que queira fazer isso e não se importar em pagar.
+**Barqueiro -** Se tiver um barco bom, uma tripulação que queira fazer isso e não se importar em pagar. Direto exige embarcação preparada para ficar dias sem abrigo e previsão boa. Se o tempo virar no meio do lago, não existe costa perto para correr.
 
 Sara colocou as mãos na cintura.
 
@@ -255,15 +256,15 @@ Sara hesitou.
 
 **Sara -** As pessoas certas.
 
-Will percebeu.
+Will ficou olhando para ela por um instante.
 
-Não insistiu.
+Depois voltou a atenção para o mapa.
 
-Nari tocou no mapa.
+Nari tocou no papel.
 
 **Nari -** Enquanto estamos desaparecidas, alguém pode contar a história primeiro, querido.
 
-Will entendeu.
+Will acompanhou a rota desenhada.
 
 **Will -** E se a história errada for aceita...
 
@@ -301,7 +302,7 @@ Depois para ele.
 
 **Sara -** Correndo?
 
-Will pareceu considerar.
+Will olhou para o lago.
 
 **Will -** Poderia fazer parte.
 
@@ -341,43 +342,15 @@ A aliança permaneceu onde sempre estivera.
 
 Nari olhou para a própria mão.
 
-**Nari -** Vão, querida.
+**Nari -** O vínculo prova o casamento, querida. Não o torna um fato incontestável.
 
-Sara soltou o ar.
+**Sara -** Minha mãe vai tentar chamar de acidente.
 
-**Sara -** Minha mãe vai querer me deixar viúva antes que eu termine de explicar.
+**Nari -** A minha provavelmente tentará encontrar um precedente conveniente.
 
-**Nari -** Provavelmente.
+Sara olhou na direção por onde Will havia desaparecido.
 
-Sara virou lentamente o rosto para ela.
-
-**Sara -** Obrigada.
-
-**Nari -** Você prefere que eu minta, querida?
-
-**Sara -** Não.
-
-Nari tornou a olhar para a aliança.
-
-**Nari -** Ele é casado conosco. Mas ainda não é membro da Casa.
-
-**Sara -** Sua mãe não pode tocar em um membro da minha Casa.
-
-**Nari -** E a sua não pode tocar em um membro da minha.
-
-Sara olhou na direção do mercado.
-
-**Sara -** Mas ele ainda não pertence a nenhuma das duas.
-
-**Nari -** Não.
-
-Alguns segundos passaram.
-
-**Sara -** Você sabe o que isso significa.
-
-Nari acompanhou o olhar dela.
-
-**Nari -** Sei, querida.
+**Sara -** Há coisas que tornariam essa discussão irrelevante.
 
 Will reapareceu pouco depois com uma pequena sacola numa mão e um embrulho de ervas na outra.
 
@@ -429,7 +402,7 @@ Sara ficou olhando.
 
 **Sara -** Há quanto tempo?
 
-Will pensou.
+Will demorou um instante.
 
 **Sara -** Não diga “bastante”, amor.
 
@@ -534,6 +507,12 @@ Nari passou os olhos pela camada quase invisível de energia.
 Sara virou o rosto para ele.
 
 **Sara -** Pressão?
+
+**Will -** Se eu acelerar o bastante, o ar deixa de ser apenas vento. A pressão contra o corpo começa a ser um problema. A barreira distribui os dois.
+
+Sara ficou olhando para ele.
+
+**Sara -** O quanto você pretende acelerar, amor?
 
 Will voltou os olhos para frente.
 
