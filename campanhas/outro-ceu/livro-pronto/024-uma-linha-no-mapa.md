@@ -1,5 +1,6 @@
 # Capítulo 24
 ## Uma linha no mapa
+<!-- revisado: 2026-09-12 -->
 
 Saíram da Coroa de Cobre cedo.
 
@@ -61,7 +62,21 @@ Nari se aproximou do caldeirão.
 
 **Nari -** O que vai fazer?
 
-**Will -** Acelerar o resto.
+Will separou uma das raízes antes de responder.
+
+**Will -** A estrutura de vocês já está estável. O que ainda está atrasado é o corpo acompanhar o que eu reconstruí. Musculatura, circulação e canais de energia ainda estão se ajustando. Isso vai acelerar essa parte.
+
+Sara apoiou as mãos na cintura.
+
+**Sara -** Isso significa que podemos lutar?
+
+**Will -** Significa que vocês vão beber, amor.
+
+Sara estreitou os olhos.
+
+**Sara -** Resposta covarde.
+
+**Will -** Resposta médica.
 
 Isso bastou para mantê-las ali.
 
@@ -81,9 +96,15 @@ Nari se inclinou um pouco.
 
 **Nari -** Você aquece e resfria durante o preparo.
 
-**Will -** Em momentos diferentes, amor.
+**Will -** Algumas propriedades precisam de calor para serem extraídas. Outras se degradam se permanecerem nessa temperatura por muito tempo. Eu aqueço para abrir a mistura, resfrio para estabilizar o que já foi extraído e depois trabalho o restante em outra faixa de temperatura.
+
+Nari acompanhou o caldeirão com atenção.
 
 Fios de Madeira envolveram a colher e começaram a movimentá-la sozinhos.
+
+**Nari -** E a Madeira?
+
+**Will -** Mantém a circulação uniforme. Se a mistura parar em certos pontos, uma parte fica mais concentrada que outra.
 
 Sara ficou olhando.
 
@@ -250,8 +271,6 @@ Will levantou discretamente as mãos ainda unidas.
 Sara ficou olhando.
 
 Nari também.
-
-A lembrança da conversa sobre portas apareceu nos três ao mesmo tempo.
 
 Nari examinou a própria mão por mais um instante.
 
@@ -421,17 +440,15 @@ Depois outro, mais distante.
 
 Nari respirou fundo.
 
-Pela primeira vez desde que haviam deixado o Éter, não estavam olhando para nomes completamente vazios.
+Pela primeira vez desde que haviam deixado o Éter, aqueles nomes não eram vazios.
 
-Aquele lago existia dentro da geografia que conheciam.
+Nari conhecia o lago.
 
-Do outro lado dele havia rotas que faziam sentido.
-
-Regiões que sabiam localizar.
+Sara conhecia as rotas depois dele.
 
 Casa ainda estava longe.
 
-Mas estava ligada ao lugar onde estavam por uma linha que finalmente podiam seguir.
+Mas agora havia um caminho.
 
 Will observou as duas.
 
