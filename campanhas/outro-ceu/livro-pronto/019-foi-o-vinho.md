@@ -1,5 +1,6 @@
 # Capítulo 19
 ## Foi o vinho
+<!-- revisado: 2026-09-12 -->
 
 A noite caiu pouco depois de deixarem a vila para trás.
 
@@ -227,7 +228,7 @@ Mais ou menos.
 
 Sara agarrou o braço de Will no caminho para o quarto e decidiu não soltá-lo.
 
-Nari ficou do outro lado, usando o ombro dele como apoio com uma naturalidade que teria exigido alguma explicação dias antes.
+Nari ficou do outro lado, usando o ombro dele como apoio.
 
 Will abriu a porta do quarto.
 
