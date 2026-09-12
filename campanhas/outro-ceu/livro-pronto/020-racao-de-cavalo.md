@@ -1,5 +1,6 @@
 # Capítulo 20
 ## Ração de cavalo
+<!-- revisado: 2026-09-12 -->
 
 Sara acordou com a cabeça apoiada no peito de Will.
 
@@ -28,8 +29,6 @@ Will não respondeu.
 Sara estreitou os olhos.
 
 **Sara -** Ou o vínculo.
-
-Aquilo parecia exigir confirmação.
 
 Ela se aproximou e o beijou.
 
@@ -83,7 +82,7 @@ Nari ficou mais atenta.
 
 Will levantou a mão marcada.
 
-**Will -** Primeiro descobrimos que a distância não funcionava. Depois vieram os vocativos. Depois percebemos que o casamento não podia ser negado.
+**Will -** Primeiro descobrimos que dormir separados não funcionava. Depois vieram os vocativos. Depois percebemos que o casamento não podia ser negado.
 
 Sara acompanhou a sequência em silêncio.
 
