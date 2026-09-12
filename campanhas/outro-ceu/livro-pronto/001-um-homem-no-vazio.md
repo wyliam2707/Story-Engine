@@ -1,5 +1,6 @@
 # Capítulo 1
 ## Um homem no vazio
+<!-- revisado: 2026-09-12 -->
 
 Quatro meses.
 
@@ -11,11 +12,11 @@ Quatro meses procurando uma saída.
 
 E nada.
 
-Na primeira semana, Will tratara o problema como qualquer outro problema técnico. Se havia entrado, deveria existir alguma forma de sair. Procurara fissuras, mudanças na estrutura espacial, regiões onde o Éter parecesse menos uniforme. Usara Compreensão onde havia algo para compreender, testara energia contra distorções, seguira correntes que pareciam levar a algum lugar e descobrira que algumas delas simplesmente acabavam.
+Na primeira semana, Will tratara o problema como qualquer outro problema técnico. Se havia entrado, deveria existir alguma forma de sair. Procurara fissuras, distorções e regiões onde o Éter parecesse menos uniforme. Usara Compreensão onde havia algo para compreender e seguira correntes que pareciam levar a algum lugar. Algumas simplesmente acabavam.
 
 Na segunda semana, começara a registrar.
 
-Na terceira, começou a repetir os experimentos porque já não confiava na própria memória sobre quais fracassos pertenciam a quais ideias.
+Na terceira, começara a repetir os experimentos porque já não confiava na própria memória sobre quais fracassos pertenciam a quais ideias.
 
 No segundo mês, havia produzido um mapa de um lugar onde distância não se comportava adequadamente.
 
@@ -65,7 +66,7 @@ Will abriu a proteção do Pagoda e saiu.
 
 O Éter o recebeu com sua costumeira falta de hospitalidade.
 
-Não havia vento, Não havia cheiro.
+Não havia vento. Não havia cheiro.
 
 Não havia direção confiável além daquela que ele escolhia manter.
 
