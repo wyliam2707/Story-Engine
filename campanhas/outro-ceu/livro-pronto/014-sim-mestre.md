@@ -1,5 +1,6 @@
 # Capítulo 14
 ## Sim, mestre.
+<!-- revisado: 2026-09-12 -->
 
 Depois do café, Will começou a ensinar a circulação básica necessária para a técnica conjunta. Para ele era um exercício quase elementar; para Sara e Nari, era um sistema estranho, construído sobre princípios diferentes da magia que conheciam.
 
@@ -117,7 +118,7 @@ Sara pareceu satisfeita com a resposta.
 
 Dormiram.
 
----
+***
 
 Na manhã seguinte, comeram antes do treinamento.
 
@@ -141,7 +142,7 @@ Will observou as duas reorganizarem a técnica que acabara de ensinar.
 
 **Sara -** Claro que ia, amor.
 
-Então chegou a parte que nenhum dos três precisava mais fingir que havia esquecido.
+Então chegou a parte que nenhum dos três mencionara novamente.
 
 O tecido entre as costas impediria o contato necessário.
 
@@ -276,8 +277,6 @@ Sara manteve o fluxo estável.
 **Sara -** Sim, mestre.
 
 Will abriu um pequeno sorriso.
-
-Sara percebeu sem sequer precisar olhar.
 
 **Sara -** Nesta técnica, amor.
 
