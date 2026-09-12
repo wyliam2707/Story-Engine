@@ -1,5 +1,6 @@
 # Capítulo 13
 ## GRRRRRRRR
+<!-- revisado: 2026-09-12 -->
 
 Quando Will voltou ao quarto naquela noite, Sara e Nari já estavam lá.
 
@@ -85,7 +86,7 @@ Will voltou a olhar para a viga.
 
 Ela perdeu boa parte do interesse.
 
----
+***
 
 Na manhã seguinte, Will acordou olhando para o teto.
 
@@ -125,7 +126,7 @@ Will abriu a boca.
 
 GRRRRRRRR.
 
-Dessa vez veio de Nari.
+Dessa vez, de Nari.
 
 Ela ficou imóvel.
 
