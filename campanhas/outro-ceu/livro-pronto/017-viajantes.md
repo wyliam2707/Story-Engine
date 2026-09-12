@@ -1,5 +1,6 @@
 # Capítulo 17
 ## Viajantes
+<!-- revisado: 2026-09-12 -->
 
 Na manhã seguinte, encontraram a trilha pouco depois de deixar o Pagoda.
 
@@ -147,15 +148,11 @@ Nari também.
 
 Will continuou andando.
 
-O homem no centro olhou primeiro para ele.
+O homem no centro olhou primeiro para Will.
 
-O julgamento levou menos de um segundo.
+O olhar passou adiante quase imediatamente.
 
-Nada.
-
-Depois seus olhos foram para Sara e Nari.
-
-Demoraram mais.
+Em Sara e Nari, demorou mais.
 
 Sara sentiu a própria irritação mudar de lugar.
 
@@ -233,7 +230,7 @@ Não terminou.
 
 Will se moveu.
 
-Sara já o vira usar energia para reconstruir corpos, abrir uma passagem entre dimensões e sustentar técnicas que ela ainda não compreendia completamente.
+Sara já o vira reconstruir corpos e abrir uma passagem entre dimensões.
 
 Aquilo não teve nada disso.
 
@@ -395,4 +392,4 @@ Will virou o rosto.
 
 Nari ouviu.
 
-Não corrigiu nenhuma das duas.
+Não corrigiu.
