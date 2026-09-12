@@ -1,5 +1,6 @@
 # Capítulo 21
 ## Boticário
+<!-- revisado: 2026-09-12 -->
 
 A cidade apareceu perto do meio-dia.
 
@@ -121,9 +122,9 @@ Nari inclinou um pouco a cabeça.
 
 Sara avaliou Will.
 
-**Sara -** Dez minutos.
+**Sara -** Cinco minutos.
 
-**Nari -** Quinze.
+**Nari -** Sete.
 
 O guarda olhou para as duas.
 
@@ -143,105 +144,167 @@ Fez algumas perguntas, tocou o tornozelo e voltou a olhar para a bota.
 
 Will tocou a lateral do calçado.
 
-**Will -** Aqui. O solado está mais gasto por fora. Você pisa torto há anos. O tornozelo compensa, o joelho recebe a carga e agora você protege a perna quando fica parado.
+**Will -** Aqui. O solado está mais gasto por fora porque você descarrega o peso errado. O tornozelo começou a compensar, depois o joelho, e agora sua coluna está fazendo o mesmo trabalho.
 
 O segundo guarda olhou para a postura do companheiro.
 
 **Segundo guarda -** E as costas?
 
-Will ergueu os olhos.
-
-**Will -** Também.
+**Will -** Já começaram.
 
 O homem bufou.
 
 **Guarda -** Eu odeio vocês dois.
 
-Will reposicionou o pé, pressionou dois pontos e fez o homem repetir o movimento. Um estalo veio do tornozelo. Outro do joelho.
+Will abriu uma das bolsas e retirou um estojo estreito.
 
-O guarda respirou fundo.
+Quando abriu, havia agulhas dentro.
 
-**Guarda -** Isso deveria fazer esse barulho?
+O guarda recuou meio passo.
 
-**Will -** Dessa vez, sim.
+**Guarda -** Isso vai no joelho?
 
-Ele se levantou.
+**Will -** Algumas.
 
-Pisou.
+**Guarda -** Algumas?
 
-Depois outra vez.
+Will apontou para um banco junto ao portão.
 
-A expressão mudou.
+**Will -** Sente.
 
-**Guarda -** Está melhor.
+O homem olhou para as agulhas.
 
-**Will -** Vai voltar.
+Depois para Will.
 
-A satisfação durou pouco.
+Por fim sentou.
+
+Will começou pelo tornozelo. Uma agulha entrou perto da articulação. Depois outra. Mais duas ao longo da perna e três ao redor do joelho.
+
+O guarda acompanhou cada uma com crescente desconfiança.
+
+**Guarda -** Isso deveria estar ficando quente?
+
+**Will -** Sim.
+
+**Guarda -** Muito quente?
+
+Will tocou dois dedos abaixo do joelho.
+
+**Will -** Agora não mexa.
+
+A sensação mudou.
+
+O calor avançou lentamente pela articulação, profundo demais para estar apenas na pele. O guarda abriu a boca, mas não falou. A dor que o acompanhava havia anos começou a desaparecer de lugares diferentes ao mesmo tempo.
+
+Will ajustou duas agulhas.
+
+Esperou.
+
+Então retirou todas.
+
+**Will -** Levante.
+
+O guarda ficou de pé.
+
+Apoiou o peso na perna esquerda.
+
+Parou.
+
+Dobrou o joelho.
+
+Esticou.
+
+Dobrou outra vez.
+
+Depois agachou lentamente.
+
+O segundo guarda deixou de sorrir.
+
+O homem levantou.
+
+**Guarda -** Não dói.
+
+**Will -** Eu sei.
+
+Ele tornou a dobrar a perna, como se esperasse descobrir que a primeira tentativa tinha sido engano.
+
+**Guarda -** Faz quatro anos.
 
 Will apontou para as botas.
 
-**Will -** Troque isso. E pare de jogar todo o peso na outra perna quando fica parado. Está criando um segundo problema para compensar o primeiro.
+**Will -** E vai estragar de novo se continuar usando isso. O tornozelo estava desalinhado havia anos. Seu joelho compensou até começar a desgastar a articulação, e sua coluna já estava começando a fazer o mesmo. Corrigi o tornozelo, restaurei o tecido danificado e eliminei a inflamação. Não corrigi a maneira como você pisa.
 
-O guarda ficou alguns segundos olhando para ele.
+O guarda olhou para ele.
 
-**Guarda -** Tem alguma coisa para a dor?
+Depois para a própria perna.
 
-Will abriu uma das bolsas e retirou um pequeno frasco.
+**Guarda -** Restaurou?
 
-**Will -** Passe pouco duas vezes por dia. Não beba.
+**Will -** Sim.
 
-O segundo guarda começou a rir.
+Outro agachamento.
 
-**Segundo guarda -** Precisa avisar?
+Dessa vez mais rápido.
 
-Will olhou para ele.
+O homem levantou e ficou alguns segundos sem dizer nada.
 
-**Will -** Sempre.
+**Guarda -** Você chamou isso de boticário?
 
-Nari levou a mão à boca, escondendo um sorriso.
+Will fechou o estojo.
 
-O guarda examinou o frasco.
+**Will -** Também sou médico.
 
-**Guarda -** Quanto?
+Sara olhou para Nari.
+
+Nari já estava contando mentalmente.
+
+O guarda mais velho tornou a testar o joelho.
+
+**Guarda -** Bren.
+
+Will ergueu os olhos.
+
+**Bren -** Meu nome é Bren.
+
+**Will -** Will.
+
+Bren assentiu devagar, ainda absorvendo o fato de que a dor não voltava.
 
 Will apontou para dentro da cidade.
 
-**Will -** Informação.
-
-Sara ficou imediatamente mais atenta.
-
 **Will -** Preciso de alguém que venda equipamento para boticários sem cobrar o dobro de estrangeiros. Também precisamos de mapas e gente que conheça rotas longas.
 
-O homem pensou.
+Bren pensou por apenas um instante.
 
-**Guarda -** Equipamento, procure Orven. Rua do Mercado, depois da fonte. Para mapas, tentem as hospedarias perto da praça. Mercadores e caravaneiros costumam parar ali.
+**Bren -** Para equipamento, procure Orven. Rua do Mercado, depois da fonte. Diga que Bren mandou. Ele ainda vai tentar cobrar demais, mas pelo menos começa de um número menos ofensivo.
+
+O segundo guarda riu.
+
+Bren continuou.
+
+**Bren -** Para mapas, tentem as hospedarias perto da praça. A Coroa de Cobre recebe bastante caravaneiro. Se alguém nesta cidade conhecer as rotas do sul ou souber quem conhece, vai estar por lá.
 
 Nari deu um passo à frente.
 
-**Nari -** E viajantes vindos das terras demoníacas?
+**Nari -** Alguma caravana ou viajante vindo das terras demoníacas passou por aqui recentemente?
 
-O guarda olhou para ela.
+Bren olhou para ela com mais atenção.
 
-**Guarda -** Procurando alguém?
+**Bren -** Procurando alguém?
 
-**Sara -** Notícias.
+**Sara -** Estamos procurando notícias. Qualquer coisa recente sobre as fronteiras ou as rotas de lá pode ajudar.
 
-A palavra saiu curta.
+Bren apoiou o peso na perna esquerda outra vez, quase distraidamente.
 
-O homem pensou antes de responder.
-
-**Guarda -** Caravanas de lá não são comuns por aqui. Quando passam, vêm pelas rotas maiores, mais ao sul.
-
-**Nari -** Ouviu alguma coisa recentemente?
-
-**Guarda -** Rumores.
+**Bren -** Caravanas de lá não são comuns por aqui. Quando passam, vêm pelas rotas maiores, mais ao sul. Mas ouvi gente falando que algumas estradas estão mais lentas e que certas patrulhas aumentaram.
 
 Sara manteve o rosto neutro.
 
-**Sara -** Que rumores?
+**Sara -** Guerra?
 
-**Guarda -** Gente falando de tensão nas fronteiras. Algumas rotas mais lentas. Outros dizem que comerciante está usando conversa de guerra para aumentar preço.
+Bren balançou a cabeça.
+
+**Bren -** Rumor de guerra. Não é a mesma coisa. Outros juram que é conversa de mercador para justificar preço. Eu não chamaria nada disso de notícia confiável.
 
 O segundo guarda deu de ombros.
 
@@ -255,23 +318,33 @@ Para elas, não.
 
 Will percebeu a mudança, mas não perguntou.
 
-O guarda mais velho abriu passagem.
+Bren abriu passagem.
 
-**Guarda -** Bren. Se Orven tentar arrancar sua pele no preço, diga que fui eu que mandei.
+**Bren -** E, Will.
+
+Will parou.
+
+Bren apontou para o próprio joelho.
+
+**Bren -** Obrigado.
 
 Will assentiu.
 
-**Will -** Negócio feito.
+**Will -** Troque as botas.
+
+Bren soltou uma risada curta.
+
+**Bren -** Vou trocar.
 
 Os três começaram a atravessar o portão.
 
 Sara esperou alguns passos antes de olhar para Nari.
 
-**Sara -** Dez minutos.
+**Sara -** Cinco minutos.
 
 Nari olhou para trás.
 
-**Nari -** Doze, querida.
+**Nari -** Cinco e pouco, querida.
 
 Sara sorriu.
 
@@ -281,7 +354,7 @@ Will alcançou as duas.
 
 **Will -** Vocês realmente apostaram.
 
-**Sara -** Você realmente tratou um guarda no portão, amor.
+**Sara -** Você realmente refez o joelho de um guarda no portão, amor.
 
 **Will -** Conseguimos informação, querida.
 
