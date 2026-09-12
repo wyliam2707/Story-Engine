@@ -1,5 +1,6 @@
 # Capítulo 10
 ## Então somos servos
+<!-- revisado: 2026-09-12 -->
 
 Naquela tarde, os três se sentaram em torno da mesa.
 
@@ -93,7 +94,7 @@ Will decidiu não entrar naquela disputa.
 
 Nari voltou às marcas.
 
-**Nari -** Se o contrato de Will tivesse substituído o nosso, Sara e eu seriam servas dele.
+**Nari -** Se o contrato de Will tivesse substituído o nosso, Sara e eu seríamos servas dele.
 
 **Will -** Sim.
 
@@ -217,15 +218,15 @@ Nenhuma marca brilhou.
 
 Nenhuma magia confirmou a resposta.
 
-Mesmo assim, pela primeira vez, as peças deixavam de competir umas com as outras.
+Mesmo assim, pela primeira vez, a hipótese acomodava o que sabiam.
 
-Will havia colocado servidão.
+Will tentara criar servidão.
 
-Sara e Nari haviam colocado casamento.
+Sara e Nari haviam respondido como casamento.
 
-As marcas carregavam os dois.
+As marcas pareciam carregar elementos dos dois.
 
-E, naquela manhã, o vínculo deixara claro que não aceitava ser tratado como algo que podia simplesmente ser escondido ou ignorado.
+E os efeitos que já tinham observado cabiam naquela explicação.
 
 Will passou o polegar sobre a aliança.
 
@@ -262,8 +263,6 @@ Will tornou a olhar para as três mãos sobre a mesa.
 **Nari -** Ficou.
 
 Ele demorou alguns segundos.
-
-Então entendeu a ironia inteira.
 
 **Will -** Então somos servos.
 
