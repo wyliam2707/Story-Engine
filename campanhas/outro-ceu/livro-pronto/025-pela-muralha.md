@@ -1,5 +1,6 @@
 # Capítulo 25
 ## Pela muralha
+<!-- revisado: 2026-09-12 -->
 
 O problema começou três ruas depois.
 
@@ -97,27 +98,15 @@ Estava olhando para Will.
 
 **Nari -** Não.
 
-O quarto tentou acertá-lo pelas costas.
+O quarto veio pelas costas.
 
-Will girou apenas o necessário.
+Will girou apenas o necessário e o cotovelo encontrou o maxilar antes que o homem terminasse o golpe.
 
-O cotovelo encontrou o maxilar.
+Os dois seguintes avançaram juntos.
 
-O homem apagou antes de chegar ao chão.
+Isso não ajudou.
 
-O quinto avançou junto com o sexto.
-
-Will não recuou.
-
-Uma palma atingiu o peito do primeiro e o lançou contra uma banca. Madeira quebrou sob o corpo.
-
-Will já estava diante do outro.
-
-Um chute curto atingiu a lateral da coxa.
-
-O guarda perdeu a perna por um instante, tentou compensar o peso e recebeu o ombro de Will no peito.
-
-Caiu vários passos atrás.
+Uma palma lançou um deles contra uma banca. O outro perdeu a perna com um chute curto e foi ao chão antes de encontrar equilíbrio.
 
 Nenhum recebeu um segundo golpe.
 
@@ -129,27 +118,17 @@ Nari percebeu isso.
 
 O sétimo hesitou.
 
-Foi o bastante para Will chegar até ele.
+O oitavo atacou forte demais.
 
-Um golpe no estômago dobrou o homem. Outro golpe não veio.
+O nono ainda estava sacando.
 
-Não precisava.
+Will passou pelos três antes que qualquer um deles corrigisse o próprio erro.
 
-O oitavo tentou compensar a diferença atacando com força.
+Um dobrou sobre o estômago.
 
-Will saiu da linha.
+Outro terminou no chão com o ombro deslocado pelo próprio impulso.
 
-A espada passou.
-
-A mão de Will encontrou o pulso.
-
-O guarda girou no próprio impulso e terminou no chão com o ombro deslocado.
-
-O nono nem terminou de sacar.
-
-Will acertou seu peito com a base da mão.
-
-O homem voou para trás e caiu sem conseguir puxar ar.
+O último caiu de costas sem conseguir puxar ar.
 
 Restava o comandante.
 
@@ -264,8 +243,6 @@ Sara virou o rosto para ele.
 **Sara -** E não matou.
 
 **Will -** Não precisava, amor.
-
-A resposta pareceu incomodar as duas mais do que teria incomodado qualquer explicação.
 
 A muralha apareceu à frente.
 
