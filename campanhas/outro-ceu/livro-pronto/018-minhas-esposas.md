@@ -1,5 +1,6 @@
 # Capítulo 18
 ## Minhas esposas
+<!-- revisado: 2026-09-12 -->
 
 A vila era pequena o bastante para que três viajantes desconhecidos fossem notados e grande o bastante para que ninguém tivesse tempo de se importar por muito tempo.
 
@@ -87,21 +88,13 @@ A mulher começou a somar os preços.
 
 Will abriu a boca.
 
-**Will -** Não, são minhas...
+Poderia dizer companheiras de viagem.
 
-A palavra seguinte não foi a que ele pretendia usar.
-
-A aliança aqueceu.
-
-Quase nada.
-
-Só o suficiente.
-
-**Will -** ...esposas.
+**Will -** Não. São minhas esposas.
 
 Silêncio.
 
-Will olhou para a própria mão.
+Will olhou para Sara.
 
 Sara também.
 
@@ -116,8 +109,6 @@ Depois para a outra.
 **Sara -** Sim.
 
 Ela percebeu tarde demais que responder simplesmente não tinha sido problema algum.
-
-Will ainda encarava a aliança.
 
 **Sara -** Muito discreto, amor.
 
@@ -195,13 +186,11 @@ O comerciante olhou novamente para os três.
 
 **Comerciante -** Família?
 
-Nari percebeu a armadilha um instante antes de responder.
-
-Tentou contorná-la.
+Nari demorou um instante antes de responder.
 
 **Nari -** Estamos viajando...
 
-A aliança aqueceu.
+Ela olhou para Will.
 
 **Nari -** ...com nosso marido.
 
