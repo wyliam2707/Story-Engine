@@ -1,5 +1,6 @@
 # Capítulo 3
 ## O mesmo preço
+<!-- revisado: 2026-09-12 -->
 
 Nari começou pelo que ainda conseguia provar.
 
@@ -43,7 +44,7 @@ Tentou de novo.
 
 Nenhuma resposta.
 
-Nari interrompeu as possibilidades antes que começassem a se multiplicar. Não havia utilidade em imaginar respostas que não podia verificar.
+Nari cortou o pensamento antes que as possibilidades começassem a se multiplicar. Não havia utilidade em imaginar respostas que não podia verificar.
 
 Foi então que outra presença tocou sua consciência.
 
@@ -169,7 +170,7 @@ Mas demorou.
 
 Resposta correta.
 
-E não era a resposta da pergunta.
+E não era a resposta à pergunta.
 
 **Nari, pensa -** *Tem alguma coisa que não está dizendo.*
 
