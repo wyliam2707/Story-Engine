@@ -1,5 +1,6 @@
 # Capítulo 9
 ## Querida, não exagere
+<!-- revisado: 2026-09-12 -->
 
 A primeira manhã terminou com três pessoas deixando a mesma cama em direções diferentes.
 
@@ -81,25 +82,11 @@ Dormiram.
 
 Na manhã seguinte, Will acordou confortável.
 
-Demorou alguns segundos para perceber que aquilo já era informação suficiente para desconfiar.
+Dessa vez, a sensação já era informação suficiente para desconfiar.
 
-Havia cabelo prateado espalhado sobre seu peito. Seus dedos passavam lentamente por ele num cafuné preguiçoso que começara antes de sua consciência chegar inteira.
+Cabelos prateados sobre o peito. Sara encaixada contra ele. Nari junto ao seu ombro, com a mão fechada no tecido de sua camisa.
 
-Sara dormia encaixada contra ele, uma perna atravessada sobre a sua e um braço apertando sua cintura.
-
-Do outro lado, Nari estava encolhida junto ao seu ombro, com a mão fechada no tecido de sua camisa.
-
-Will abriu os olhos.
-
-Ficou imóvel.
-
-Sara se apertou um pouco mais contra ele.
-
-Nari também se aproximou sem acordar.
-
-Por alguns segundos, a cena tinha a tranquilidade absurda de um hábito antigo.
-
-Will olhou para o teto.
+Os três estavam novamente na cama de Will.
 
 **Will, pensa -** *De novo.*
 
@@ -155,7 +142,7 @@ Will fez o mesmo.
 
 Sara observou as três marcas.
 
-**Sara -** Então temos duas coisas confirmadas. Voltamos para cá sem abrir as portas e as marcas terminaram iguais.
+**Sara -** Então temos duas coisas. Voltamos para cá e as marcas terminaram iguais.
 
 **Nari -** Ainda precisamos verificar os selos.
 
@@ -395,6 +382,6 @@ A segunda manhã tinha respondido à pergunta sobre os quartos.
 
 E criado outra muito pior.
 
-O casamento não apenas os reunia.
+Eles podiam esconder o casamento.
 
-Agora também se recusava a ser negado.
+Só não podiam negá-lo.
