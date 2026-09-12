@@ -1,5 +1,6 @@
 # Capítulo 8
 ## O casamento tem opiniões
+<!-- revisado: 2026-09-12 -->
 
 Nas horas seguintes, pouco aconteceu.
 
@@ -129,7 +130,7 @@ As linhas pararam pouco depois.
 
 Nenhum deles encontrou explicação melhor.
 
-Quando a noite chegou, decidir onde dormir foi muito mais simples.
+Quando a noite chegou, decidir onde dormir pareceu muito mais simples.
 
 Havia quartos suficientes no Pagoda. Sara escolheu um. Nari ficou com o seguinte. Will tomou outro.
 
