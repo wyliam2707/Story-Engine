@@ -1,5 +1,6 @@
 # Capítulo 7
 ## Enxoval
+<!-- revisado: 2026-09-12 -->
 
 A frase de Sara permaneceu no quarto.
 
@@ -143,7 +144,7 @@ Will hesitou pouco.
 
 **Will -** Quase toda a reserva.
 
-Sara deixou de olhar para a porta.
+Sara tirou os olhos da porta.
 
 **Sara -** Quase toda?
 
@@ -251,9 +252,9 @@ Sara soltou o cobertor apenas o necessário e tentou vestir a primeira peça.
 
 Descobriu quase imediatamente que reconstruir um corpo não significava devolver força suficiente para usá-lo normalmente.
 
-Erguer os braços acima dos ombros foi fácil.
+Erguer os braços foi fácil.
 
-Mantê-los ali não foi.
+Mantê-los erguidos não foi.
 
 A peça caiu sobre seu rosto.
 
@@ -398,10 +399,6 @@ Sara não teve a mesma preocupação.
 **Sara -** Pelo menos sabemos que o problema não é atração.
 
 **Will -** Nunca disse que era.
-
-A resposta veio simples demais para ser provocação.
-
-Isso tornou a frase mais interessante.
 
 Nari terminou de ajustar a roupa.
 
