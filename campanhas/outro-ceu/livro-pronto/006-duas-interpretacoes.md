@@ -1,5 +1,6 @@
 # Capítulo 6  
 ## Duas interpretações
+<!-- revisado: 2026-09-12 -->
 
 Will terminou de acordar.
 
@@ -9,7 +10,7 @@ Duas marcas.
 
 Duas alianças.
 
-O médico apareceu antes de qualquer outra preocupação.
+O médico veio antes de qualquer outra preocupação.
 
 Seus olhos passaram por Sara, depois por Nari, avaliando foco, respiração e resposta muscular.
 
@@ -209,7 +210,7 @@ Will olhou para ela.
 
 Sara ficou muito quieta.
 
-A facilidade da resposta quase irritava mais do que uma tentativa de negar.
+A facilidade das respostas quase irritava mais do que uma tentativa de negar.
 
 **Sara -** Você disse que Nari ficaria livre.
 
@@ -245,7 +246,7 @@ Sara virou ligeiramente o rosto para ela.
 
 Nari continuou olhando para Will.
 
-**Nari -** A outra, ainda não terminou.
+**Nari -** A outra parte ainda não terminou.
 
 Will assentiu.
 
@@ -357,9 +358,7 @@ Nari permaneceu alguns segundos observando a marca.
 
 Havia algo quase irritante na coerência da explicação.
 
-Will não acreditava ter adquirido duas esposas.
-
-Acreditava ter usado dois contratos temporários para salvar duas desconhecidas e criar uma rota de fuga.
+Will não acreditava ter adquirido duas esposas. Para ele, usara dois contratos temporários para salvar duas desconhecidas e criar uma rota de fuga.
 
 **Nari -** Você não mentiu quando disse que libertaria a outra.
 
