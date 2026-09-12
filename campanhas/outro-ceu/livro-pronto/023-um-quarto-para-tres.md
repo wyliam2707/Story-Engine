@@ -1,5 +1,6 @@
 # Capítulo 23
 ## Um quarto para três
+<!-- revisado: 2026-09-12 -->
 
 A Coroa de Cobre estava cheia o bastante para confirmar que Orven não exagerara.
 
@@ -213,9 +214,47 @@ A um mercador de sal que conhecia três rotas para o sul, nenhuma útil.
 
 A uma mulher que transportava tecido e sabia o nome de uma cidade maior a dois dias dali.
 
-A um mensageiro que reconheceu uma das regiões citadas por Nari, mas só porque passara perto dela anos antes.
+Depois encontraram um mensageiro que reconheceu uma das regiões citadas por Nari.
 
-A dois caravaneiros que discutiram entre si durante tempo demais sobre qual estrada atravessava uma ponte que talvez nem existisse mais.
+**Nari -** Você disse que passou perto dela. Por qual estrada?
+
+O homem puxou a caneca para o lado e indicou a direção com dois dedos.
+
+**Mensageiro -** Não cheguei às terras demoníacas. Vim por uma cidade maior onde duas rotas do sul se encontram. Passei por lá alguns meses atrás.
+
+**Sara -** Quanto tempo daqui?
+
+**Mensageiro -** Dois dias a pé, talvez menos se mantiverem ritmo. A estrada é boa até lá.
+
+Nari se inclinou um pouco sobre a mesa.
+
+**Nari -** E essa cidade recebe caravanas vindas de direções diferentes?
+
+**Mensageiro -** Bastante. É onde muita gente troca carga, animal e até rota antes de continuar para o sul.
+
+**Nari -** Então é mais provável encontrarmos mapas maiores e alguém que conheça as estradas além desta região.
+
+O mensageiro assentiu.
+
+**Mensageiro -** Mais provável do que aqui.
+
+Sara não perdeu tempo.
+
+**Sara -** E recentemente? Ouviu alguma coisa sobre fronteiras fechando, patrulhas aumentando ou caravanas evitando as terras demoníacas?
+
+O homem pensou antes de responder.
+
+**Mensageiro -** Nada que eu chamaria de confirmação. Mas ouvi duas companhias falando em mudar caminho por causa de tensão nas fronteiras. Pode ser prudência. Pode ser medo. Pode ser comerciante inventando desculpa para cobrar mais.
+
+Sara e Nari trocaram um olhar.
+
+Era pouco.
+
+Mas já não era nada.
+
+Agradeceram e continuaram.
+
+Perguntaram ainda a dois caravaneiros que discutiram entre si durante tempo demais sobre qual estrada atravessava uma ponte que talvez nem existisse mais.
 
 Cada conversa entregava um pedaço.
 
@@ -289,7 +328,17 @@ Nari acompanhou.
 
 Dez minutos depois, Will voltou com duas informações novas, um pedaço de pão embrulhado e desconto no quarto.
 
-Sara olhou para tudo.
+Atrás dele, o hospedeiro dobrava e esticava o braço com uma expressão que não combinava com alguém que estivera evitando aquele movimento desde que chegaram.
+
+Sara olhou primeiro para o cotovelo.
+
+Depois para Will.
+
+**Sara -** Curou?
+
+**Will -** Era simples, amor.
+
+Sara olhou para tudo o que ele carregava.
 
 **Sara -** Eu odeio o fato de isso funcionar.
 
@@ -343,7 +392,7 @@ Will virou o rosto na direção dela.
 
 Nari o beijou também.
 
-Demorado o bastante para que a frase seguinte não precisasse de explicação.
+Sem pressa.
 
 Quando terminou, ajeitou a gola dele com dois dedos.
 
