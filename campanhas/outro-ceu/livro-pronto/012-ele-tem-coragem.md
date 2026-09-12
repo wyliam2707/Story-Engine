@@ -1,5 +1,6 @@
 # Capítulo 12
 ## Ele tem coragem
+<!-- revisado: 2026-09-12 -->
 
 Will ainda recuperava o fôlego quando Sara se virou para ele. Alguns minutos antes havia céu naquele lugar; agora restava a parede silenciosa do Pagoda e a certeza irritante de que encontrar Elder não significava conseguir entrar nele.
 
@@ -53,7 +54,7 @@ Nari voltou à questão central.
 
 **Nari -** Se quantidade não resolve, querido, o que resolve?
 
-Will demorou um pouco mais para responder. Não porque estivesse sem ideias, mas porque uma delas acabara de se tornar desagradavelmente plausível.
+Will demorou um pouco mais para responder. Uma das ideias acabara de se tornar desagradavelmente plausível.
 
 **Will -** Talvez exista uma técnica de cultivo conjunto.
 
@@ -226,7 +227,3 @@ O objeto bateu na madeira do outro lado.
 **Sara -** Covarde.
 
 Will continuou andando.
-
-Amanhã começariam.
-
-Inconveniente, constrangedor e, aparentemente, corajoso.
