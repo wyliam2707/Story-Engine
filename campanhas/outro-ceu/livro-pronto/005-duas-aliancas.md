@@ -1,5 +1,6 @@
 # Capítulo 5
 ## Duas alianças
+<!-- revisado: 2026-09-12 -->
 
 Sara despertou pelo peso do próprio corpo.
 
@@ -71,7 +72,7 @@ Sara levantou uma ponta, verificou o necessário e tornou a cobrir-se.
 
 Aquilo pelo menos fazia sentido.
 
-Se Will reconstruíra seu corpo a partir de quase nada, não havia motivo para esperar que tivesse reconstruído também roupas destruídas no Éter.
+Se Will reconstruíra seu corpo a partir de quase nada, não havia motivo para esperar que também tivesse reconstruído roupas destruídas no Éter.
 
 Foi então que encontrou o homem dormindo numa cadeira ao lado da cama.
 
@@ -303,7 +304,7 @@ Nari passou o polegar sobre a própria marca.
 
 Nari tornou a olhar para Will.
 
-Sara percebeu uma mudança pequena na expressão dela.
+Sara percebeu uma pequena mudança na expressão dela.
 
 Não era surpresa.
 
