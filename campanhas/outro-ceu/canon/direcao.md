@@ -4,7 +4,7 @@ Status: SUFICIENTE PARA EXECUÇÃO
 
 ## Proposta e foco
 
-Fantasia original de cultivo e descoberta. Will God Stone, Santo da Medicina vindo de outro mundo, encontra Sara Iron Heart e Nari Bood Heart no Éter. A história acompanha o encontro, a sobrevivência, a descoberta de Elder e os vínculos e objetivos que venham a ser construídos, sem destino, romance, guerra ou arco obrigatório predeterminado.
+Fantasia original de cultivo e descoberta. Will God Stone, Santo da Medicina vindo de outro mundo, encontra Sara Iron Heart e Nari Blood Heart no Éter. A história acompanha o encontro, a sobrevivência, a descoberta de Elder e os vínculos e objetivos que venham a ser construídos, sem destino, romance, guerra ou arco obrigatório predeterminado.
 
 ## Tom
 
