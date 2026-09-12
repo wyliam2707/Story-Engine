@@ -1,5 +1,6 @@
 # Capítulo 27
 ## Três dias
+<!-- revisado: 2026-09-12 -->
 
 Na manhã seguinte, Sara acordou primeiro.
 
@@ -57,7 +58,7 @@ Will continuou olhando para o teto.
 
 **Sara -** Melhor para você se continuar assim, amor.
 
-Will decidiu levantar.
+Will se levantou.
 
 ***
 
@@ -91,19 +92,21 @@ Sara estreitou os olhos.
 
 **Sara -** Você adicionou uma palavra.
 
-**Will -** Funcionou?
+Will voltou ao exame.
 
-**Sara -** Não.
+**Will -** A musculatura já sustenta esforço normal, a circulação está estável e os canais de energia não estão mais reagindo à reconstrução. O que ainda falta é resistência e força sustentada.
 
-Nari riu.
+Sara assentiu.
 
-Quando chegou a vez dela, Will demorou um pouco menos.
+**Sara -** Isso eu aceito.
+
+Quando chegou a vez de Nari, Will demorou um pouco menos.
 
 **Nari -** Quanto, querido?
 
-Ele pensou.
+Will terminou de verificar a circulação de energia antes de responder.
 
-**Will -** Vocês duas estão perto de dois terços.
+**Will -** Se quiserem transformar isso em um número, perto de dois terços da capacidade normal de vocês.
 
 Sara pareceu satisfeita.
 
@@ -141,15 +144,13 @@ Nari assentiu.
 
 **Nari -** Demônios recuperam melhor quando corpo e energia voltam a circular, querido.
 
-Will pensou sobre aquilo.
-
-**Will -** Humanos não exatamente.
+**Will -** Humanos também respondem melhor ao movimento, mas não desse jeito. Em vocês, a circulação de energia parece participar diretamente da recuperação dos tecidos.
 
 Sara virou para ele.
 
 **Sara -** Então pare de nos tratar como humanas, amor.
 
-**Will -** É o que estou fazendo.
+**Will -** É exatamente por isso que estou observando como vocês respondem.
 
 Ela sorriu.
 
@@ -285,8 +286,6 @@ Nari apontou para trás.
 
 **Nari -** Não deixando peso.
 
-Will pensou.
-
 **Will -** Estou deixando peso.
 
 **Nari -** Não o suficiente.
@@ -299,23 +298,55 @@ Depois para Will.
 
 Will saltou um pequeno desnível.
 
-**Will -** É controle.
+**Will -** É Controle.
 
 Nari ficou esperando.
 
-Nada mais veio.
+**Nari -** Eu esperava uma explicação, querido.
 
-**Nari -** Só isso?
+Will demorou um instante.
 
-**Will -** Você perguntou.
+**Will -** É uma técnica de movimento do meu mundo. No começo você aprende a desperdiçar menos força. Depois aprende a decidir para onde essa força vai.
 
-**Nari -** Eu esperava uma explicação.
+Nari olhou para uma das pedras que tinham acabado de deixar para trás.
 
-**Will -** Controle é a explicação, querida.
+**Nari -** Você está decidindo quanto do nosso peso chega ao chão.
 
-Sara soltou uma risada curta.
+**Will -** Mais ou menos. O peso continua existindo. Eu distribuo o impacto entre o apoio, o impulso e o movimento seguinte, em vez de deixar tudo terminar num único ponto.
 
-**Sara -** Bem-vinda às respostas dele.
+Sara olhou para ele.
+
+**Sara -** As telhas.
+
+**Will -** Sim.
+
+**Sara -** A muralha.
+
+**Will -** Também.
+
+Nari ficou alguns segundos em silêncio.
+
+**Nari -** Os guardas.
+
+**Will -** Principalmente.
+
+No mundo de Will, Controle começava como uma disciplina básica de movimento. Um cultivador aprendia a alinhar corpo, impulso e energia até parar de desperdiçar força em cada passo.
+
+Depois vinha a parte difícil.
+
+Não bastava produzir força. Era preciso decidir onde ela começava, por onde passava e onde terminava.
+
+Uma aterrissagem podia ser espalhada por vários movimentos em vez de morrer inteira contra o chão. Uma superfície frágil precisava receber apenas o que suportava. Num golpe, a diferença de alguns centímetros podia decidir se a força terminaria no músculo, na articulação ou no osso.
+
+Will havia levado aquele princípio muito além da finalidade original.
+
+Carregar três corpos sobre pedras soltas sem deslocá-las era apenas uma aplicação.
+
+Sara olhou para o chão outra vez.
+
+**Sara -** Isso explica muita coisa, amor.
+
+**Will -** Algumas.
 
 ***
 
@@ -522,8 +553,6 @@ Will olhou para ela.
 **Will -** Continuem amanhã.
 
 Sara encontrou o olhar de Nari.
-
-Nari entendeu.
 
 **Sara -** Ele percebeu.
 
