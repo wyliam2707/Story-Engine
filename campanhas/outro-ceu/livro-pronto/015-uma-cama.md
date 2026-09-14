@@ -1,6 +1,6 @@
 # Capítulo 15
 ## Uma cama
-<!-- revisado: 2026-09-12 -->
+<!-- revisado: 2026-09-14 -->
 
 Na manhã seguinte, comeram antes de qualquer tentativa dimensional.
 
@@ -10,7 +10,7 @@ Will já não precisava ser lembrado, e Nari fez questão de notar a evolução 
 
 **Will -** Continue e volto a esquecer, querida.
 
-**Nari -** Ameaça pouco convincente.
+**Nari -** Ameaça pouco convincente, querido.
 
 A refeição foi rápida. Não havia necessidade de discutir novamente o plano; todos sabiam o que falhara da primeira vez e o que haviam feito para corrigir.
 
@@ -20,29 +20,91 @@ Na tentativa anterior, Elder fora uma hipótese.
 
 Agora tinham visto o céu.
 
-Will tomou posição diante das duas e começou a circular energia. Sara e Nari permaneceram próximas, acompanhando o movimento sem interferir.
+Will foi até o centro da sala e se ajoelhou.
 
-O feitiço respondeu.
+Encostou dois dedos no chão.
 
-A primeira linha surgiu no espaço.
+Uma linha de energia avançou pela pedra.
+
+Dobrou.
+
+Dividiu-se.
+
+Outras linhas nasceram da primeira, formando os mesmos círculos e conexões usados na tentativa anterior. Runas apareceram nas interseções até a matriz ocupar boa parte do piso.
+
+Dois círculos menores permaneceram vazios em lados opostos da formação.
+
+Will retirou os dedos do chão.
+
+Apontou para o primeiro.
+
+**Will -** Sara, aqui, querida.
+
+Depois para o outro.
+
+**Will -** Nari, ali, querida.
+
+As duas assumiram as posições.
+
+Will voltou ao centro.
+
+Ajoelhou-se diante da runa principal e pousou a mão sobre ela.
+
+As primeiras linhas acenderam.
+
+A luz percorreu a matriz até alcançar Sara e Nari.
+
+Os círculos sob seus pés responderam.
+
+Will começou a circular energia.
+
+Dessa vez, o fluxo não dependia apenas dele.
+
+A corrente atravessou Sara.
+
+Passou por Nari.
+
+Retornou.
+
+A matriz recebeu a energia já marcada pela ressonância que haviam construído durante os últimos dias.
+
+Uma runa acendeu.
+
+Depois outra.
+
+Mais uma.
+
+Até a última.
+
+A energia convergiu no centro.
+
+O espaço acima da runa principal se deformou.
+
+Uma linha surgiu no ar.
+
+Fina.
+
+Vertical.
 
 Dessa vez, não tremeu.
 
-Will aprofundou o fluxo e a abertura cresceu de maneira muito mais limpa. A energia que passara pelas duas acompanhava a técnica e, quando tocava a outra extremidade do caminho, encontrava algo que reconhecia.
+Will aprofundou o fluxo.
+
+A linha se abriu.
+
+A fenda cresceu de maneira muito mais limpa. A energia que passara pelas duas acompanhava a técnica e, quando tocava a outra extremidade do caminho, encontrava algo que reconhecia.
 
 Elder respondia.
-
-A linha tornou-se fenda.
 
 A fenda tornou-se passagem.
 
 Pouco depois, o céu apareceu novamente diante deles.
 
-Sara não se moveu. Na primeira tentativa, ver Elder quase a arrancara do lugar; agora sua atenção estava nas bordas.
+Sara não saiu do próprio círculo. Na primeira tentativa, ver Elder quase a arrancara do lugar; agora sua atenção estava nas bordas.
 
 Nari fazia o mesmo.
 
-O portal permaneceu imóvel mesmo quando Will aumentou a abertura.
+A matriz permaneceu estável mesmo quando Will aumentou a abertura.
 
 O vento atravessou primeiro, trazendo cheiro de terra, vegetação e alguma coisa que nenhum ambiente criado dentro do Pagoda conseguia reproduzir completamente.
 
@@ -50,7 +112,7 @@ Um mundo vivo.
 
 Sara respirou fundo.
 
-**Sara -** Está estável.
+**Sara -** Está estável, amor.
 
 Não havia pergunta na voz.
 
@@ -60,15 +122,15 @@ Nari observou por mais alguns segundos antes de finalmente desviar os olhos das 
 
 **Nari -** Então vamos, querido.
 
-Will assentiu.
+Will manteve a mão sobre a runa central.
 
-Os três se aproximaram.
-
-Sara atravessou primeiro.
+Sara saiu do círculo e atravessou primeiro.
 
 Nari logo depois.
 
-Will passou ainda sustentando a estrutura.
+Will sustentou a matriz até as duas estarem do outro lado.
+
+Então se levantou e atravessou ainda mantendo o fluxo.
 
 A sensação durou menos que um passo.
 
@@ -88,15 +150,15 @@ Não eram.
 
 Nari surgiu ao lado e permaneceu em silêncio, os olhos percorrendo o horizonte.
 
-Will foi o último. Assim que seus pés tocaram o chão, soltou a técnica.
+Will foi o último.
 
-O portal se fechou atrás deles.
+Assim que seus pés tocaram o chão, encerrou a circulação.
 
-Sem tremores.
+Do outro lado, a matriz perdeu força.
 
-Sem colapso.
+A passagem se estreitou.
 
-A passagem simplesmente desapareceu.
+A última linha de luz desapareceu com ela.
 
 Will olhou para Sara.
 
@@ -104,7 +166,7 @@ Will olhou para Sara.
 
 Ela demorou um pouco para responder.
 
-**Sara -** Elder.
+**Sara -** Elder, amor.
 
 Nari confirmou com um movimento da cabeça.
 
@@ -120,7 +182,7 @@ Nada ajudou.
 
 Sara continuou olhando ao redor.
 
-**Sara -** Estamos em Elder.
+**Sara -** Estamos em Elder, amor.
 
 Will esperou.
 
@@ -174,7 +236,7 @@ Nari percorreu o exterior com os olhos.
 
 **Nari -** É menor, querido.
 
-**Will -** Muito.
+**Will -** Muito, querida.
 
 **Sara -** Quanto menor, amor?
 
@@ -214,11 +276,11 @@ Depois para ele.
 
 **Nari -** Você fez isso de propósito, querido.
 
-**Will -** Vocês vão aparecer aqui de qualquer jeito. Pelo menos essa é grande.
+**Will -** Vocês vão aparecer aqui de qualquer jeito, queridas. Pelo menos essa é grande.
 
 Sara ficou olhando para ele.
 
-**Sara -** Está se adaptando rápido demais a esse casamento.
+**Sara -** Está se adaptando rápido demais a esse casamento, amor.
 
 **Will -** Sou uma pessoa prática, querida.
 
