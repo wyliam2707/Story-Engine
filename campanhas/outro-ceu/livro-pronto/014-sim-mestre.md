@@ -1,10 +1,16 @@
 # Capítulo 14
 ## Sim, mestre.
-<!-- revisado: 2026-09-12 -->
+<!-- revisado: 2026-09-14 -->
 
-Depois do café, Will começou a ensinar a circulação básica necessária para a técnica conjunta. Para ele era um exercício quase elementar; para Sara e Nari, era um sistema estranho, construído sobre princípios diferentes da magia que conheciam.
+Depois do café, Will começou a ensinar a circulação básica necessária para a técnica conjunta.
 
-Isso ficou claro logo nas primeiras tentativas.
+Para ele, era quase elementar.
+
+Para Sara e Nari, não.
+
+A técnica vinha de princípios que a Seita da Paixão tratava como naturais: duas circulações podiam ocupar o mesmo caminho sem que uma precisasse vencer a outra. Receber energia alheia não significava perder controle. Conduzi-la não significava torná-la própria.
+
+Esse detalhe criou problemas imediatamente.
 
 Sara foi primeiro.
 
@@ -24,11 +30,45 @@ Ela o encarou.
 
 A resposta bastou para mudar a tentativa seguinte.
 
-Sara não ficou mais delicada. Apenas mais precisa. Em vez de subjugar o fluxo, abriu espaço para conduzi-lo sem perder o controle.
+Sara não ficou mais delicada.
+
+Ficou mais precisa.
+
+Seu instinto era subjugar qualquer energia presente na própria circulação, incorporá-la ao ritmo que já controlava e seguir. Para aquela técnica, precisava fazer algo diferente: manter domínio sobre si sem transformar tudo que entrava em extensão da própria vontade.
+
+Na terceira tentativa, conseguiu deixar uma pequena corrente atravessar o primeiro meridiano sem esmagá-la.
+
+Will assentiu.
+
+**Will -** Melhor, querida.
+
+**Sara -** Quanto?
+
+**Will -** O suficiente para continuar.
+
+Ela estreitou os olhos.
+
+**Sara -** Isso ainda não é medida, amor.
+
+**Will -** É a medida do mestre.
+
+Sara ficou imóvel por um instante.
+
+**Sara -** Nesta técnica. Não se empolgue, querido.
+
+Nari, que aguardava a própria vez, nem abriu os olhos.
+
+**Nari -** Deixe. Ele encontrou um reino muito pequeno para governar.
+
+Will ignorou as duas.
 
 Nari apresentou o problema oposto.
 
-Controle não lhe faltava, mas ela tentava compreender cada alteração enquanto acontecia e, ao interferir para analisar, mudava justamente aquilo que queria observar.
+Controle não lhe faltava.
+
+Faltava aceitar que compreender podia esperar.
+
+Ela percebia cada alteração da energia de Will e, no mesmo instante, tentava separar origem, densidade, intenção, caminho e reação da própria circulação. Ao fazer isso, interferia justamente no fenômeno que queria observar.
 
 **Will -** Pare de desmontar o fluxo enquanto ele passa, querida.
 
@@ -50,61 +90,43 @@ Dessa vez deixou o fluxo seguir.
 
 Funcionou.
 
-A manhã avançou assim, com menos disciplina de mestre e discípulas do que Will talvez tivesse imaginado. Sara exigia demonstrações sempre que uma instrução parecia vaga; Nari questionava o princípio antes de aceitar qualquer método.
+Não perfeitamente.
+
+Mas funcionou.
+
+A manhã avançou assim, com menos disciplina de mestre e discípulas do que Will talvez tivesse imaginado. Sara exigia demonstrações sempre que uma instrução parecia vaga. Nari questionava o princípio antes de aceitar o método.
+
+Will descobriu rapidamente que ensinar as duas da mesma forma seria inútil.
+
+Com Sara, corrigia força.
+
+Com Nari, corrigia atenção.
 
 As duas aprendiam rápido justamente porque nenhuma obedecia sem entender.
 
-Depois de uma tentativa especialmente boa de Sara, Will assentiu.
+Ao fim do primeiro dia, ambas conseguiam receber uma pequena quantidade da energia de Will e conduzi-la por parte da própria circulação sem deformá-la.
 
-**Will -** Melhor, querida.
-
-**Sara -** Quanto?
-
-**Will -** O suficiente.
-
-Ela estreitou os olhos.
-
-**Sara -** Isso não é medida, amor.
-
-**Will -** É a medida do mestre.
-
-Sara ficou imóvel por um instante.
-
-**Sara -** Nesta técnica. Não se empolgue, querido.
-
-Nari nem abriu os olhos.
-
-**Nari -** Deixe. Ele encontrou um reino muito pequeno para governar.
-
-Will cruzou os braços.
-
-**Will -** Duas discípulas já são um começo, queridas.
-
-Sara pegou a almofada mais próxima.
-
-**Sara -** Diga “discípula” outra vez, amor.
-
-Will olhou para a almofada.
-
-**Will -** Aluna temporária.
-
-**Sara -** Melhor.
-
-**Nari -** Não muito.
-
-No fim da manhã, ambas já conseguiam manter a circulação básica sem deformar o fluxo.
+Ainda não conseguiam devolvê-la de maneira estável.
 
 Era o bastante.
 
-A tarde passou sem necessidade de conversa constante. Will cultivou para recuperar parte da energia gasta com o portal, Sara retomou exercícios físicos e Nari trabalhou com a própria magia.
+Nos intervalos, Will cultivava.
 
-Cada um voltou, por algumas horas, a algo conhecido.
+A reserva do Dan, quase drenada pela primeira tentativa de abrir o portal, voltava devagar. O Éter continuava oferecendo pouca energia, mas três dias de recuperação eram melhores que algumas horas de teimosia.
+
+Sara aproveitava as pausas para recuperar força física.
+
+Nari retomava a própria magia.
 
 Quando se reuniram para comer, a refeição já parecia parte da rotina.
 
 Naquela noite ninguém discutiu onde dormir.
 
-Sara entrou na cama. Nari fez o mesmo. Will ocupou o meio.
+Sara entrou na cama.
+
+Nari fez o mesmo.
+
+Will ocupou o meio.
 
 Sara lançou um olhar para o teto quando ele se acomodou.
 
@@ -120,15 +142,153 @@ Dormiram.
 
 ***
 
-Na manhã seguinte, comeram antes do treinamento.
+Na manhã do segundo dia, Nari devolveu o braço de Will apenas depois de acordar.
 
-Will aprendera.
+Ele flexionou os dedos algumas vezes.
 
-A verdadeira tentativa começaria naquela tarde.
+O travesseiro continuava empregado.
+
+Depois do café, voltaram ao treinamento.
+
+Will acrescentou a segunda parte.
+
+Receber não bastava.
+
+A energia precisava atravessar uma circulação e sair dela sem ser expulsa, absorvida ou alterada demais. Só então poderia entrar na próxima pessoa e completar um circuito.
+
+Sara conseguiu primeiro.
+
+Não porque tivesse abandonado o impulso de controlar, mas porque aprendera a aplicá-lo ao caminho em vez de ao conteúdo.
+
+A energia entrou.
+
+Ela conduziu.
+
+Na saída, o fluxo fechou por reflexo.
+
+Will interrompeu.
+
+**Will -** Não force, querida. Relaxe e deixe entrar.
+
+Sara ergueu os olhos para ele.
+
+Ficou assim por um segundo.
+
+Depois fechou os olhos novamente.
+
+Na tentativa seguinte, a energia atravessou.
+
+Will não comentou o olhar.
+
+Sara também não.
+
+Nari demorou mais.
+
+Toda vez que o fluxo mudava levemente dentro dela, sua atenção se fechava sobre a alteração e criava uma pequena turbulência.
+
+Na quarta tentativa, Will parou antes que ela começasse.
+
+**Will -** O que vai fazer quando sentir a mudança, querida?
+
+**Nari -** Nada.
+
+**Will -** Depois?
+
+**Nari -** Analiso.
+
+**Will -** Antes?
+
+**Nari -** Já analisei.
+
+Will assentiu.
+
+**Will -** Agora deixe passar.
+
+Nari deixou.
+
+A energia entrou, percorreu sua circulação e voltou à mão de Will quase sem alteração.
+
+Ela abriu os olhos imediatamente.
+
+**Nari -** Outra vez.
+
+Will sorriu de leve.
+
+**Will -** Agora quer repetir.
+
+**Nari -** Agora tenho dados, querido.
+
+Passaram o resto do dia aumentando o percurso.
+
+Primeiro um braço.
+
+Depois tronco e braço.
+
+Depois uma circulação mais longa, atravessando os principais meridianos antes de retornar.
+
+Will alternava demonstração, correção e cultivo. Quando as duas praticavam entre si os princípios que já dominavam, ele sentava ao lado e reconstruía lentamente a própria reserva.
+
+No fim da tarde, Sara já conseguia receber a energia de Will sem tentar convertê-la em algo seu.
+
+Nari conseguia observá-la atravessar sem desmontar cada alteração durante o processo.
+
+E ambas conseguiam devolvê-la.
+
+Ainda havia falhas.
+
+Mas agora eram falhas de ritmo.
+
+Não de princípio.
+
+Naquela noite, Will cultivou até mais tarde.
+
+Quando foi dormir, as duas já ocupavam seus lugares.
+
+Nenhuma perguntou sobre a viga.
+
+Ela havia perdido definitivamente a disputa.
+
+***
+
+No terceiro dia, Will não começou pela técnica.
+
+Começou verificando as duas.
+
+Sara fez o fluxo completo sozinha.
+
+Recebeu uma pequena corrente dele, conduziu e devolveu.
+
+Sem fechar o caminho.
+
+Sem tentar dominar a energia.
+
+Nari repetiu em seguida.
+
+Recebeu.
+
+Observou.
+
+Devolveu.
+
+Só depois abriu os olhos.
+
+Will assentiu.
+
+**Will -** Hoje fazemos a formação completa, queridas.
+
+Sara levantou-se.
+
+**Sara -** Finalmente, amor.
+
+A reserva dele também estava melhor.
+
+Não completamente recuperada.
+
+Mas boa o bastante para sustentar horas de circulação sem começar a técnica já devendo energia ao próprio corpo.
 
 Quando chegaram à sala preparada para o cultivo, Will explicou a formação uma última vez.
 
-**Will -** Hoje não é exercício. O circuito precisa permanecer estável por horas, queridas.
+**Will -** Agora não é exercício. O circuito precisa permanecer estável por horas, queridas.
 
 Sara já escolhia onde sentar.
 
@@ -144,7 +304,7 @@ Will observou as duas reorganizarem a técnica que acabara de ensinar.
 
 Então chegou a parte que nenhum dos três mencionara novamente.
 
-O tecido entre as costas impediria o contato necessário.
+O tecido entre as costas reduziria o contato justamente ao longo do eixo que a técnica usava.
 
 Sara olhou para Nari.
 
@@ -174,45 +334,29 @@ Foram necessários alguns ajustes até encontrarem o contato correto entre as co
 
 Então começou.
 
-Will fez a energia circular primeiro dentro do próprio corpo e, aos poucos, conduziu uma pequena parte até Sara.
+Will fez a energia circular primeiro dentro do próprio corpo.
 
-A reação dela foi imediata.
+Quando o fluxo estabilizou, conduziu uma pequena parte até Sara.
 
-Sua própria energia fechou o caminho.
+Dessa vez, ela não fechou o caminho.
 
-**Will -** Você está me bloqueando, querida.
+A energia atravessou sua circulação e saiu diferente do outro lado.
 
-**Sara -** Eu sei.
+Não muito.
 
-**Will -** Precisa deixar entrar.
+O bastante.
 
-Sara olhou para ele.
+Quando chegou a Nari, ela percebeu a alteração.
 
-**Sara -** Você realmente precisa escolher melhor suas palavras, amor.
+E não fez nada.
 
-Ela respirou fundo.
+Observou.
 
-**Sara -** Tente outra vez, amor.
+Deixou passar.
 
-Na segunda tentativa, Sara não entregou o controle. Apenas deixou de lutar contra a presença externa.
+O fluxo atravessou sua circulação e retornou a Will.
 
-A energia de Will atravessou sua circulação e saiu diferente do outro lado.
-
-Quando chegou a Nari, aconteceu o esperado.
-
-Ela tentou analisá-la enquanto passava e o fluxo oscilou.
-
-**Will -** Querida.
-
-Nari soltou o ar.
-
-Relaxou a própria energia.
-
-**Nari -** Outra vez, querido.
-
-Na tentativa seguinte, ela observou sem interferir.
-
-Quando o fluxo completou o circuito e retornou a Will, ele sentiu a alteração imediatamente.
+Ele sentiu a diferença imediatamente.
 
 Sua energia continuava reconhecendo o Éter.
 
@@ -220,37 +364,65 @@ Agora carregava algo que não tinha antes.
 
 Elder.
 
-**Will -** Funcionou, queridas.
+Pouco.
 
-Sara permaneceu de olhos fechados.
+Instável.
 
-**Sara -** Então continue.
+Real.
 
-Eles continuaram.
+Will não encerrou.
 
-Nas primeiras voltas, Sara ainda precisava conter o impulso de dominar o fluxo, enquanto Nari resistia à vontade de desmontá-lo para entender cada mudança.
+**Will -** Continuem, queridas.
 
-Will também precisou parar de corrigir toda pequena variação e permitir que ambas encontrassem a própria parte.
+A segunda volta foi melhor.
 
-Depois disso, a técnica deixou de exigir conversa.
+A terceira também.
 
-A tarde avançou devagar.
+Nas primeiras horas, Sara ainda precisava conter o impulso de dominar pequenas oscilações, enquanto Nari resistia à vontade de analisar mudanças antes que o fluxo terminasse de passar.
+
+Will também precisou aprender a não corrigir toda variação.
+
+A técnica não precisava de três circulações idênticas.
+
+Precisava de três circulações capazes de compartilhar a mesma corrente.
+
+Com o tempo, a conversa diminuiu.
+
+Respiração, contato e ritmo ocuparam o lugar das instruções.
 
 A energia atravessava Will, Sara e Nari antes de retornar ao início, acumulando pouco a pouco a ressonância que faltara na primeira tentativa de abrir o portal.
 
-O contato entre as costas continuava presente, mas deixou de ocupar a atenção.
+Uma oscilação surgiu em Sara.
 
-Respiração, ritmo e circulação tomaram seu lugar.
+Will percebeu antes que o caminho fechasse.
 
-**Will -** Não feche agora, querida. Mantenha o ritmo.
+**Will -** Não pare agora, querida. Mantenha o ritmo.
 
-**Sara -** Estou tentando.
+Sara ajustou a respiração.
 
-Nari não abriu os olhos.
+O fluxo estabilizou.
 
-**Nari -** Isso está ficando difícil de ouvir sem contexto, querido.
+Ninguém comentou mais nada.
 
-Pequenas tensões alteravam o fluxo. Pequenas correções o devolviam ao caminho.
+Algum tempo depois, Nari acelerou a circulação ao tentar compensar uma perda pequena demais para exigir correção.
+
+**Will -** Mais devagar, querida. Se acelerar agora, perdemos o controle.
+
+Nari reduziu o fluxo.
+
+**Nari -** Assim?
+
+**Will -** Perfeito.
+
+A corrente continuou.
+
+Horas antes, aquelas instruções exigiriam esforço consciente.
+
+Agora as duas respondiam quase no mesmo instante.
+
+Pequenas tensões alteravam o fluxo.
+
+Pequenas correções o devolviam ao caminho.
 
 Depois de algumas horas, já não parecia haver três energias disputando espaço.
 
@@ -258,43 +430,59 @@ Havia uma corrente atravessando três circulações diferentes.
 
 Will sentia claramente o resultado.
 
+A energia continuava sendo dele.
+
+Mas cada volta trazia um pouco mais de Elder.
+
+Não como impureza.
+
+Como ressonância.
+
 **Will -** Mais uma volta, queridas.
 
 Sara soltou o ar devagar.
 
-**Sara -** Você disse isso antes, amor.
+Dessa vez não reclamou.
 
-**Will -** Agora é verdade.
+A circulação completou o caminho.
 
-Nari não abriu os olhos.
+Voltou para Will.
 
-**Nari -** É exatamente o que alguém diria nessa situação, querido.
+Estável.
 
-A circulação completou outra volta.
-
-Sara manteve o fluxo estável.
+Sara abriu os olhos.
 
 **Sara -** Sim, mestre.
 
 Will abriu um pequeno sorriso.
 
+Sara ergueu um dedo antes que ele pudesse responder.
+
 **Sara -** Nesta técnica, amor.
 
-Ainda fizeram mais algumas voltas antes de encerrar.
+Nari não abriu os olhos.
 
-Quando finalmente separaram as costas, já era noite e ninguém se levantou imediatamente.
+**Nari -** O reino continua pequeno, querido.
+
+Ainda fizeram mais algumas voltas.
+
+Quando finalmente encerraram, já era noite e ninguém se levantou imediatamente.
 
 Sara esticou os ombros.
 
 Nari permaneceu sentada, sentindo o resíduo da circulação.
 
-Will examinou a própria energia.
+Will fechou os olhos e examinou a própria energia.
 
 Continuava sendo sua.
 
-Mas a ressonância de Elder agora estava ali.
+Continuava ligada ao Éter.
 
-Pequena.
+Mas havia algo nela que não existia três dias antes.
+
+Elder.
+
+Pequeno.
 
 Estável.
 
@@ -304,26 +492,30 @@ Suficiente.
 
 Nari confirmou depois de sentir o próprio fluxo.
 
-Will começou a se vestir.
+Sara puxou a túnica de volta sobre o corpo.
+
+Will fez o mesmo com a própria roupa.
 
 **Will -** Amanhã tentamos o portal de novo.
 
-Sara puxou a túnica de volta sobre o corpo.
+Sara terminou de ajeitar o tecido e olhou para ele.
 
-**Sara -** Então amanhã descobrimos se o grande mestre realmente sabe o que está fazendo.
+**Sara -** Então amanhã descobrimos se o mestre sabe o que está fazendo, amor.
 
-Will olhou para ela.
+Will ergueu uma sobrancelha.
 
-**Will -** Você acabou de me chamar de grande mestre, querida.
+**Will -** Mestre?
 
-Sara parou.
+Sara já caminhava para a porta.
 
-**Sara -** Não abuse da sorte, amor.
+**Sara -** Nesta técnica, querido.
 
 Nari levantou-se ao lado dela.
 
-**Nari -** Eu avisei que o reino dele era pequeno.
+**Nari -** Não abuse do seu pequeno reino, amor.
 
-Will sorriu.
+Will ficou alguns segundos olhando para as duas.
+
+Depois sorriu.
 
 Amanhã tentariam outra vez.
